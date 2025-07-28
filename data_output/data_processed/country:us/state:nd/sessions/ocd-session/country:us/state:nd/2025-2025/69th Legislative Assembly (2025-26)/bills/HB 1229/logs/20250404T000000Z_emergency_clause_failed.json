@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Emergency clause failed",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1229"
+}

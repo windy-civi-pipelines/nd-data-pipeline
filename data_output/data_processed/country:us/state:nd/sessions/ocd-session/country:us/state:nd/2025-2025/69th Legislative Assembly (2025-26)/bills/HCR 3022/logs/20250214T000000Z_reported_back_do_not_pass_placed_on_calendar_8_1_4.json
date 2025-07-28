@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Reported back, do not pass, placed on calendar 8 1 4",
+    "date": "2025-02-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR 3022"
+}

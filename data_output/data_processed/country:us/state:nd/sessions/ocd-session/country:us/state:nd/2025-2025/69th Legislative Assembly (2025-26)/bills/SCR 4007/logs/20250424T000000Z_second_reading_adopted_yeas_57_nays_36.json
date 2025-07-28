@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Second reading, adopted yeas 57 nays 36",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 4007"
+}

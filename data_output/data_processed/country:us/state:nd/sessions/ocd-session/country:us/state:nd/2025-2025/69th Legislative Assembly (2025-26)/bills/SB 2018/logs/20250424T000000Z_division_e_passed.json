@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Division E passed",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2018"
+}

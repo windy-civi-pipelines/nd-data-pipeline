@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment failed",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2158"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported back from conference committee, placed on calendar (House accept)",
+    "date": "2025-05-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1005"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Reported back, do pass, place on calendar 10 4 0",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1499"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Reported back amended, do not pass, placed on calendar 8 5 1",
+    "date": "2025-02-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1523"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Signed by Governor 04/02",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1345"
+}

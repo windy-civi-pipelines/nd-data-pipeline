@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Reported back, do not pass, placed on calendar 6 0 1",
+    "date": "2025-03-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 4026"
+}

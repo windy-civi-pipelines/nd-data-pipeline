@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Appoint Sen. Mathern to replace Sen. Cleary on conference committee",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 2004"
+}

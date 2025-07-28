@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference committee appointed Dockter Porter J. Olson",
+    "date": "2025-04-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 2397"
+}
