@@ -1,0 +1,488 @@
+{
+  "legislative_session": "69",
+  "identifier": "SB 2297",
+  "title": "AN ACT to amend and reenact subsection 3 of section 23-06.5-03 and section 23-12-13 of the North Dakota Century Code, relating to the determination of incapacity and informed consent of incapacitated patients and minors.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to the determination of incapacity and informed consent of incapacitated patients and minors."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Judiciary Committee",
+      "date": "2025-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Request return from committee",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Rereferred to Human Services",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 09:45",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 6 0 0",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 46 nays 1",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Received from Senate",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Introduced, first reading, referred Human Services Committee",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 09:30",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 10 1 2",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Second reading, passed as amended, yeas 85 nays 6",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Returned to Senate (12)",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Refused to concur",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Conference committee appointed Clemens Roers Van Oosting",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Conference committee appointed Hendrix M. Ruby Rohr",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Reported back from conference committee, in place of, placed on calendar",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Conference committee report adopted",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 46 nays 1",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Reported back from conference committee, in place of, placed on calendar",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Conference committee report adopted",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Second reading, passed as amended, yeas 90 nays 3",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Signed by Speaker",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Signed by President",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Signed by Governor 04/29",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary Of State 04/30",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kristin Roers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kristin Roers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Barta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jeff Barta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Judy Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily O'Brien",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Emily O'Brien\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ronald Sorvaag",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ronald Sorvaag\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1234-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1234-02000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT with House Amendments",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1234-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT with Conference Committee Amendments",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1234-04000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1234-05000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Prepared by the Legislative Council staff for Senator Lee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1234-01002m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Prepared by the Legislative Council staff for House Human Services Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1234-02001m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Adopted by the Conference Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1234-02002m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2297.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:08Z"
+  }
+}

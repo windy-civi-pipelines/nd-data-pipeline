@@ -1,0 +1,116 @@
+{
+  "legislative_session": "69",
+  "identifier": "SB 2304",
+  "title": "A BILL for an Act to create and enact a new section to chapter 57-51.2 of the North Dakota Century Code, relating to tribal oil and gas tax revenue allocation withholding.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to tribal oil and gas tax revenue allocation withholding."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Finance and Taxation Committee",
+      "date": "2025-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 10:00",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Request return from committee",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Withdrawn from further consideration",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chuck Walen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Chuck Walen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard Marcellais",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Richard Marcellais\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1209-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2304.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:07Z"
+  }
+}

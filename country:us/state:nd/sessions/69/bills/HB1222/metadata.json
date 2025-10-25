@@ -1,0 +1,362 @@
+{
+  "legislative_session": "69",
+  "identifier": "HB 1222",
+  "title": "AN ACT to amend and reenact sections 15.1-09-33 and 15.1-19-03.1 of the North Dakota Century Code, relating to a requirement for public school students to have the opportunity to recite the pledge of allegiance each morning and immunity for liability stemming from the recitation of the pledge of allegiance.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to a requirement for public school students to have the opportunity to recite the pledge of allegiance each morning and immunity for liability stemming from the recitation of the pledge of allegiance."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Education Committee",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 10:00",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 13 1 0",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 87 nays 0",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Received from House",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Introduced, first reading, referred Education Committee",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 11:00",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Reported back, do pass, place on calendar 5 0 1",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 44 nays 3",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Returned to House",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Signed by President",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Signed by Speaker",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Signed by Governor 03/19",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary Of State 03/20",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Anna S. Novak",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anna S. Novak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dick Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dick Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathy Frelich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kathy Frelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jared C. Hagert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jared C. Hagert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat D. Heinert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pat D. Heinert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Hogue",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David Hogue\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Lefor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mike Lefor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larry Luick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Larry Luick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Meyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Scott Meyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Todd Porter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Todd Porter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Ruby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Matthew Ruby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0385-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0385-02000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0385-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Prepared by the Legislative Council staff for Representative Novak",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0385-01001m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1222.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:10Z"
+  }
+}

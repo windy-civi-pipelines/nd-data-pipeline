@@ -1,0 +1,281 @@
+{
+  "legislative_session": "69",
+  "identifier": "SB 2336",
+  "title": "AN ACT to create and enact eight new sections to chapter 43-09 of the North Dakota Century Code, relating to the regulation of conveyances and elevator contractors, mechanics, and inspectors; to amend and reenact sections 43-09-01 and 43-09-02 of the North Dakota Century Code, relating to definitions applicable to conveyance regulation and the membership of the state electrical board; to provide a penalty; and to provide for application.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to the regulation of conveyances and elevator contractors, mechanics, and inspectors; to amend and reenact sections 43\u201109\u201101 and 43\u201109\u201102 of the North Dakota Century Code, relating to definitions applicable to conveyance regulation and the membership of the state electrical board; to provide a penalty; and to provide for application."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Industry and Business Committee",
+      "date": "2025-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 02:30",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back, do pass, place on calendar 5 0 0",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 46 nays 1",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Received from Senate",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Introduced, first reading, referred Industry, Business and Labor Committee",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 02:30",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back, do pass, place on calendar 9 3 2",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 77 nays 15",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Returned to Senate",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Signed by Speaker",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Signed by President",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Signed by Governor 04/03",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary Of State 04/03",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Greg Kessel",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Greg Kessel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Barta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jeff Barta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Kempenich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Keith Kempenich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerry Klein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jerry Klein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Warrey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jonathan Warrey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0712-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0712-04000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2336.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:07Z"
+  }
+}

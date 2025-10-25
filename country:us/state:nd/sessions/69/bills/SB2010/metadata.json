@@ -1,0 +1,523 @@
+{
+  "legislative_session": "69",
+  "identifier": "SB 2010",
+  "title": "AN ACT to provide an appropriation for defraying the expenses of the council on the arts; to provide for a transfer; to provide for a report; and to provide an exemption.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Appropriations Committee",
+      "date": "2025-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 10:30",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 15 1 0",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 42 nays 3",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Received from Senate",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Introduced, first reading, referred Appropriations Committee",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 09:00",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 08:30",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 23 0 0",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, passed as amended, yeas 69 nays 20",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Returned to Senate (12)",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Refused to concur",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Conference committee appointed Magrum Cleary Mathern",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Conference committee appointed Murphy B. Anderson Mitskog",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Appoint Sen. Davison to replace Sen. Cleary on conference committee",
+      "date": "2025-04-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back from conference committee, in place of, placed on calendar",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Conference committee report adopted",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 38 nays 9",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back from conference committee, in place of, placed on calendar",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Conference committee report rejected",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back from conference committee, in place of, placed on calendar",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Conference committee report adopted",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 34 nays 13",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back from conference committee, in place of, placed on calendar",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Conference committee report adopted",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, passed as amended, yeas 61 nays 30",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Signed by Speaker",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Signed by President",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Signed by Governor 05/02",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary Of State 05/02",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"Appropriations\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-02000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT with House Amendments",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT with Conference Committee Amendments",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-04000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-05000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-06000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Prepared by the Legislative Council staff for Senate Appropriations - Human Resources Division Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-01002m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Prepared by the Legislative Council staff for House Appropriations - Human Resources Division Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-02001m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Prepared by the Legislative Council staff for Conference Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-02003m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Prepared by the Legislative Council staff for Representative Murphy",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0177-02004m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2010.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:07Z"
+  }
+}

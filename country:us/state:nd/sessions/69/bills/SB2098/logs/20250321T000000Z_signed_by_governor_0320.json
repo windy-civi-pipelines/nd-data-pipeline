@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Signed by Governor 03/20",
+    "date": "2025-03-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2098"
+}

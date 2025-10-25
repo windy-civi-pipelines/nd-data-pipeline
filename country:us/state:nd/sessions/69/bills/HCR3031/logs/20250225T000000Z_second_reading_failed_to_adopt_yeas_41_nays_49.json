@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Second reading, failed to adopt yeas 41 nays 49",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR 3031"
+}

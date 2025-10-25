@@ -1,0 +1,319 @@
+{
+  "identifier": "",
+  "motion_text": "Motion for Final Passage on HB 1241",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-18T18:14:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "69",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB 1241\", \"legislative_session__identifier\": \"69\"}",
+  "bill_action": null,
+  "bill_identifier": "HB 1241",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Michelle Axtman",
+      "voter_id": "~{\"name\": \"Michelle Axtman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff Barta",
+      "voter_id": "~{\"name\": \"Jeff Barta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd Beard",
+      "voter_id": "~{\"name\": \"Todd Beard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brad Bekkedahl",
+      "voter_id": "~{\"name\": \"Brad Bekkedahl\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keith Boehm",
+      "voter_id": "~{\"name\": \"Keith Boehm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Josh Boschee",
+      "voter_id": "~{\"name\": \"Josh Boschee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan Braunberger",
+      "voter_id": "~{\"name\": \"Ryan Braunberger\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Randy A. Burckhard",
+      "voter_id": "~{\"name\": \"Randy A. Burckhard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jose L. Castaneda",
+      "voter_id": "~{\"name\": \"Jose L. Castaneda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Cleary",
+      "voter_id": "~{\"name\": \"Sean Cleary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David A. Clemens",
+      "voter_id": "~{\"name\": \"David A. Clemens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cole Conley",
+      "voter_id": "~{\"name\": \"Cole Conley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Claire Cory",
+      "voter_id": "~{\"name\": \"Claire Cory\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Davison",
+      "voter_id": "~{\"name\": \"Kyle Davison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dick Dever",
+      "voter_id": "~{\"name\": \"Dick Dever\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Dwyer",
+      "voter_id": "~{\"name\": \"Michael Dwyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Enget",
+      "voter_id": "~{\"name\": \"Mark Enget\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Erbele",
+      "voter_id": "~{\"name\": \"Robert Erbele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Gerhardt",
+      "voter_id": "~{\"name\": \"Justin Gerhardt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kathy Hogan",
+      "voter_id": "~{\"name\": \"Kathy Hogan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Hogue",
+      "voter_id": "~{\"name\": \"David Hogue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greg Kessel",
+      "voter_id": "~{\"name\": \"Greg Kessel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jerry Klein",
+      "voter_id": "~{\"name\": \"Jerry Klein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Diane Larson",
+      "voter_id": "~{\"name\": \"Diane Larson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Lee",
+      "voter_id": "~{\"name\": \"Judy Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Randy D. Lemm",
+      "voter_id": "~{\"name\": \"Randy D. Lemm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Larry Luick",
+      "voter_id": "~{\"name\": \"Larry Luick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeffery J. Magrum",
+      "voter_id": "~{\"name\": \"Jeffery J. Magrum\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richard Marcellais",
+      "voter_id": "~{\"name\": \"Richard Marcellais\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Mathern",
+      "voter_id": "~{\"name\": \"Tim Mathern\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Meyer",
+      "voter_id": "~{\"name\": \"Scott Meyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Janne Myrdal",
+      "voter_id": "~{\"name\": \"Janne Myrdal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dale Patten",
+      "voter_id": "~{\"name\": \"Dale Patten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bob Paulson",
+      "voter_id": "~{\"name\": \"Bob Paulson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michelle Powers",
+      "voter_id": "~{\"name\": \"Michelle Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristin Roers",
+      "voter_id": "~{\"name\": \"Kristin Roers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dean Rummel",
+      "voter_id": "~{\"name\": \"Dean Rummel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Donald Schaible",
+      "voter_id": "~{\"name\": \"Donald Schaible\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jonathan Sickler",
+      "voter_id": "~{\"name\": \"Jonathan Sickler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ronald Sorvaag",
+      "voter_id": "~{\"name\": \"Ronald Sorvaag\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul J. Thomas",
+      "voter_id": "~{\"name\": \"Paul J. Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Desiree van Oosting",
+      "voter_id": "~{\"name\": \"Desiree van Oosting\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chuck Walen",
+      "voter_id": "~{\"name\": \"Chuck Walen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terry M. Wanzek",
+      "voter_id": "~{\"name\": \"Terry M. Wanzek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark F. Weber",
+      "voter_id": "~{\"name\": \"Mark F. Weber\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kent Weston",
+      "voter_id": "~{\"name\": \"Kent Weston\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Mike Wobbema",
+      "voter_id": "~{\"name\": \"Mike Wobbema\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 46
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-actions/ba1241.html",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

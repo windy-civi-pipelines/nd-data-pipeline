@@ -1,0 +1,153 @@
+{
+  "legislative_session": "69",
+  "identifier": "SB 2203",
+  "title": "A BILL for an Act to amend and reenact subsection 1 of section 43-33-01, subsection 1 of section 43-33-06, subsection 3 of section 43-37-02, and section 43-37-05 of the North Dakota Century Code, relating to the consolidation of the board of hearing aid specialists and the board of examiners on audiology and speech-language pathology; and to repeal sections 43-33-15 and 43-33-17 related to the board of hearing aid specialists.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to the consolidation of the board of hearing aid specialists and the board of examiners on audiology and speech-language pathology; and to repeal sections 43\u201133\u201115 and 43\u201133\u201117 related to the board of hearing aid specialists."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Industry and Business Committee",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 10:00",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Reported back, do not pass, placed on calendar 5 0 0",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Second reading, failed to pass, yeas 4 nays 42",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Judy Lee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Judy Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Barta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jeff Barta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Braunberger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ryan Braunberger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gretchen Dobervich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gretchen Dobervich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Ruby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Matthew Ruby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cynthia Schreiber-Beck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cynthia Schreiber-Beck\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0036-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2203.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:10Z"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "legislative_session": "69",
+  "identifier": "SB 2217",
+  "title": "AN ACT to create and enact a new section to chapter 43-20 and a new section to chapter 43-28 of the North Dakota Century Code, relating to volunteer licenses; and to amend and reenact sections 43-20-01.1, 43-20-01.2, 43-20-01.3, 43-20-01.4, 43-20-03, 43-20-05, 43-20-12, 43-20-12.3, 43-20-13, 43-20-13.1, and 43-20-13.2, subsection 6 of section 43-28-02, section 43-28-03, subsection 5 of section 43-28-04, sections 43-28-05, 43-28-06, 43-28-08, 43-28-11, 43-28-13, 43-28-15, 43-28-16.2, and 43-28-18, subsection 1 of section 43-28-18.1, and sections 43-28-18.2 and 43-28-18.3 of the North Dakota Century Code, relating to the licensing and practice of dental hygienists and dentists, and the board of dental examiners.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to volunteer licenses; and to amend and reenact sections 43\u201120\u201101.1, 43\u201120\u201101.2, 43\u201120\u201101.3, 43\u201120\u201101.4, 43\u201120\u201103, 43\u201120\u201105, 43\u201120\u201112, 43\u201120\u201112.3, 43\u201120\u201113, 43\u201120\u201113.1, and 43\u201120\u201113.2, subsection\u00a06 of section 43\u201128\u201102, section 43\u201128\u201103, subsection 5 of section 43\u201128\u201104, sections 43\u201128\u201105, 43\u201128\u201106, 43\u201128\u201108, 43\u201128\u201111, 43\u201128\u201113, 43\u201128\u201115, 43\u201128\u201116.2, and 43\u201128\u201118, subsection\u00a01 of section 43\u201128\u201118.1, and sections 43\u201128\u201118.2 and 43\u201128\u201118.3 of the North Dakota Century Code, relating to the licensing and practice of dental hygienists and dentists, and the board of dental examiners."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Workforce Development Committee",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 09:30",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 5 0 0",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 47 nays 0",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Received from Senate",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Introduced, first reading, referred Industry, Business and Labor Committee",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 10:00",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Reported back, do pass, place on calendar 11 0 3",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 92 nays 1",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Returned to Senate",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Signed by Speaker",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Signed by President",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Signed by Governor 03/25",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary Of State 03/26",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sean Cleary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sean Cleary\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0568-05000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0568-06000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0568-07000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Prepared by the Legislative Council staff for Senator Cleary",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0568-05002m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2217.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:08Z"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "legislative_session": "69",
+  "identifier": "HCR 3034",
+  "title": "A concurrent resolution to amend and reenact sections 1 and 2 of article XV of the Constitution of North Dakota, relating to term limits for members of the legislative assembly and statewide elected officers; to repeal section 4 of article XV of the Constitution of North Dakota, relating to prohibiting the legislative assembly from proposing certain amendments to article XV of the Constitution of North Dakota; and to provide for application.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to term limits for members of the legislative assembly and statewide elected officers; to repeal section\u00a04 of article\u00a0XV of the Constitution of North Dakota, relating to prohibiting the legislative assembly from proposing certain amendments to article\u00a0XV of the Constitution of North Dakota; and to provide for application."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Government and Veterans Affairs Committee",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 10:00",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Reported back, do not pass, placed on calendar 14 0 0",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Second reading, failed to adopt yeas 20 nays 72",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jim Kasper",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jim Kasper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Kempenich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Keith Kempenich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Ruby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Ruby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-3093-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo3034.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:10Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second reading, passed as amended, yeas 72 nays 12",
+    "date": "2025-03-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2282"
+}

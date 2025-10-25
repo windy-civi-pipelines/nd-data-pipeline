@@ -1,0 +1,185 @@
+{
+  "legislative_session": "69",
+  "identifier": "HB 1390",
+  "title": "A BILL for an Act to amend and reenact subdivision b of subsection 4 of section 15.1-27-04.1, subsection 26 of section 57-02-08, sections 57-02-08.3, 57-02-08.9, 57-02-08.10, and 57-02-11.1, subsection 1 of section 57-23-06, and section 57-55-10 of the North Dakota Century Code, relating to the determination of state school aid, the primary residence credit, and removal of the homestead and disabled veterans' credit; to repeal sections 57-02-08.1, 57-02-08.2, and 57-02-08.8 of the North Dakota Century Code, relating to the homestead credit and disabled veterans' credit; to provide an effective date; and to declare an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to the determination of state school aid, the primary residence credit, and removal of the homestead and disabled veterans' credit; to repeal sections 57\u201102\u201108.1, 57\u201102\u201108.2, and 57\u201102\u201108.8 of the North Dakota Century Code, relating to the homestead credit and disabled veterans' credit; to provide an effective date; and to declare an emergency."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, (emergency), referred Finance and Taxation Committee",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 10:00",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back, do not pass, placed on calendar 11 2 1",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, failed to pass, yeas 28 nays 60",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ben Koppelman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ben Koppelman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Cory",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Claire Cory\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Kasper",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jim Kasper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Motschenbacher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mike Motschenbacher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle Powers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Michelle Powers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Schatz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mike Schatz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vicky Steiner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Vicky Steiner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathan Toman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nathan Toman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori VanWinkle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lori VanWinkle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chuck Walen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Chuck Walen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1050-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1390.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:07Z"
+  }
+}

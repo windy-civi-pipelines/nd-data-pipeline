@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second reading, passed, yeas 26 nays 19",
+    "date": "2025-01-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2186"
+}

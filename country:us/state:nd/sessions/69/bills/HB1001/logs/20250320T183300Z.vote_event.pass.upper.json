@@ -1,0 +1,319 @@
+{
+  "identifier": "",
+  "motion_text": "Motion for Final Passage on HB 1001",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-20T18:33:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "69",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB 1001\", \"legislative_session__identifier\": \"69\"}",
+  "bill_action": null,
+  "bill_identifier": "HB 1001",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Senator Michelle Axtman",
+      "voter_id": "~{\"name\": \"Senator Michelle Axtman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Jeff Barta",
+      "voter_id": "~{\"name\": \"Senator Jeff Barta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Todd Beard",
+      "voter_id": "~{\"name\": \"Senator Todd Beard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Brad Bekkedahl",
+      "voter_id": "~{\"name\": \"Senator Brad Bekkedahl\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Keith Boehm",
+      "voter_id": "~{\"name\": \"Senator Keith Boehm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Josh Boschee",
+      "voter_id": "~{\"name\": \"Senator Josh Boschee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Randy A. Burckhard",
+      "voter_id": "~{\"name\": \"Senator Randy A. Burckhard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Jose L. Castaneda",
+      "voter_id": "~{\"name\": \"Senator Jose L. Castaneda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Sean Cleary",
+      "voter_id": "~{\"name\": \"Senator Sean Cleary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator David A. Clemens",
+      "voter_id": "~{\"name\": \"Senator David A. Clemens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Cole Conley",
+      "voter_id": "~{\"name\": \"Senator Cole Conley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Claire Cory",
+      "voter_id": "~{\"name\": \"Senator Claire Cory\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Kyle Davison",
+      "voter_id": "~{\"name\": \"Senator Kyle Davison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Dick Dever",
+      "voter_id": "~{\"name\": \"Senator Dick Dever\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Michael Dwyer",
+      "voter_id": "~{\"name\": \"Senator Michael Dwyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Mark Enget",
+      "voter_id": "~{\"name\": \"Senator Mark Enget\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Robert Erbele",
+      "voter_id": "~{\"name\": \"Senator Robert Erbele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Justin Gerhardt",
+      "voter_id": "~{\"name\": \"Senator Justin Gerhardt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Kathy Hogan",
+      "voter_id": "~{\"name\": \"Senator Kathy Hogan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator David Hogue",
+      "voter_id": "~{\"name\": \"Senator David Hogue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Greg Kessel",
+      "voter_id": "~{\"name\": \"Senator Greg Kessel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Jerry Klein",
+      "voter_id": "~{\"name\": \"Senator Jerry Klein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Diane Larson",
+      "voter_id": "~{\"name\": \"Senator Diane Larson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Judy Lee",
+      "voter_id": "~{\"name\": \"Senator Judy Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Randy D. Lemm",
+      "voter_id": "~{\"name\": \"Senator Randy D. Lemm\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Larry Luick",
+      "voter_id": "~{\"name\": \"Senator Larry Luick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Richard Marcellais",
+      "voter_id": "~{\"name\": \"Senator Richard Marcellais\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Tim Mathern",
+      "voter_id": "~{\"name\": \"Senator Tim Mathern\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Scott Meyer",
+      "voter_id": "~{\"name\": \"Senator Scott Meyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Janne Myrdal",
+      "voter_id": "~{\"name\": \"Senator Janne Myrdal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Dale Patten",
+      "voter_id": "~{\"name\": \"Senator Dale Patten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Bob Paulson",
+      "voter_id": "~{\"name\": \"Senator Bob Paulson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Michelle Powers",
+      "voter_id": "~{\"name\": \"Senator Michelle Powers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Kristin Roers",
+      "voter_id": "~{\"name\": \"Senator Kristin Roers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Dean Rummel",
+      "voter_id": "~{\"name\": \"Senator Dean Rummel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Donald Schaible",
+      "voter_id": "~{\"name\": \"Senator Donald Schaible\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Jonathan Sickler",
+      "voter_id": "~{\"name\": \"Senator Jonathan Sickler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Ronald Sorvaag",
+      "voter_id": "~{\"name\": \"Senator Ronald Sorvaag\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Paul J. Thomas",
+      "voter_id": "~{\"name\": \"Senator Paul J. Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Desiree van Oosting",
+      "voter_id": "~{\"name\": \"Senator Desiree van Oosting\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Chuck Walen",
+      "voter_id": "~{\"name\": \"Senator Chuck Walen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Terry M. Wanzek",
+      "voter_id": "~{\"name\": \"Senator Terry M. Wanzek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Mark F. Weber",
+      "voter_id": "~{\"name\": \"Senator Mark F. Weber\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Kent Weston",
+      "voter_id": "~{\"name\": \"Senator Kent Weston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Senator Mike Wobbema",
+      "voter_id": "~{\"name\": \"Senator Mike Wobbema\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Senator Jeffery J. Magrum",
+      "voter_id": "~{\"name\": \"Senator Jeffery J. Magrum\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Senator Ryan Braunberger",
+      "voter_id": "~{\"name\": \"Senator Ryan Braunberger\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 45
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-actions/ba1001.html",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

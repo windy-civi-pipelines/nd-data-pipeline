@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Reported back amended, do not pass, placed on calendar 7 5 2",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1441"
+}

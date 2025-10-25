@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Second reading, failed to pass, yeas 34 nays 60",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1169"
+}

@@ -1,0 +1,137 @@
+{
+  "legislative_session": "69",
+  "identifier": "HB 1312",
+  "title": "A BILL for an Act to amend and reenact sections 15.1-09-02, 15.1-09-08, 15.1-09-17 and 15.1-09-22, subsection 1 of section 15.1-09-30, sections 16.1-04-01, 16.1-07-04, and 16.1-07-05, subsection 1 of section 16.1-07-08, and sections 16.1-07-09, 16.1-13-05, 16.1-15-29, 40-21-02, 40-49-05, 40-49-07, and 40-49-08 of the North Dakota Century Code, relating to school board and park district member elections; and to repeal sections 15.1-09-09, 15.1-09-10, 15.1-09-11, 15.1-09-12, 15.1-09-13, 15.1-09-14, 15.1-09-15, 15.1-09-16, 15.1-09-18, 15.1-09-19, 15.1-09-20, 15.1-09-21, 15.1-09-22, and 15.1-09-24 of the North Dakota Century Code, relating to election procedures in school district elections.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to school board and park district member elections; and to repeal sections 15.1\u201109\u201109, 15.1\u201109\u201110, 15.1\u201109\u201111, 15.1\u201109\u201112, 15.1\u201109\u201113, 15.1\u201109\u201114, 15.1\u201109\u201115, 15.1\u201109\u201116, 15.1\u201109\u201118, 15.1\u201109\u201119, 15.1\u201109\u201120, 15.1\u201109\u201121, 15.1\u201109\u201122, and 15.1\u201109\u201124 of the North Dakota Century Code, relating to election procedures in school district elections."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Political Subdivisions Committee",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 11:00",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Reported back, do not pass, placed on calendar 11 0 2",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    },
+    {
+      "description": "Second reading, failed to pass, yeas 12 nays 81",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bernie Satrom",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bernie Satrom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Brandenburg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mike Brandenburg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cole Conley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cole Conley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Grueneich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jim Grueneich\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0266-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1312.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:08Z"
+  }
+}

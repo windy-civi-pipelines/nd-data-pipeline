@@ -1,0 +1,113 @@
+{
+  "legislative_session": "69",
+  "identifier": "SB 2026",
+  "title": "A BILL for an Act to create and enact a new section to chapter 11-18 and a new section to chapter 54-09 of the North Dakota Century Code, relating to the certification of a foreign grantee's right to own property and the filing of foreign ownership information statements with the secretary of state; to amend and reenact sections 11-11-70, 40-05-26, 47-01-09, and 47-10.1-05 of the North Dakota Century Code, relating to the powers of a board of county commissioners, a board of city commissioners, and a city council regarding development by a foreign country of concern or foreign organization of concern, prohibiting ownership of real property by a foreign country of concern or a foreign organization of concern, and required filings for foreign persons investing in agricultural lands; to repeal section 47-10.1-05 of the North Dakota Century Code, relating to required filings for foreign persons investing in agricultural lands; to provide a penalty; and to provide a contingent effective date.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to the certification of a foreign grantee's right to own property and the filing of foreign ownership information statements with the secretary of state; to amend and reenact sections 11\u201111\u201170, 40\u201105\u201126, 47\u201101\u201109, and 47\u201110.1\u201105 of the North Dakota Century Code, relating to the powers of a board of county commissioners, a board of city commissioners, and a city council regarding development by a foreign country of concern or foreign organization of concern, prohibiting ownership of real property by a foreign country of concern or a foreign organization of concern, and required filings for foreign persons investing in agricultural lands; to repeal section 47\u201110.1\u201105 of the North Dakota Century Code, relating to required filings for foreign persons investing in agricultural lands; to provide a penalty; and to provide a contingent effective date."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred State and Local Government Committee",
+      "date": "2025-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 09:30",
+      "date": "2025-01-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Reported back, do not pass, placed on calendar 6 0 0",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    },
+    {
+      "description": "Second reading, failed to pass, yeas 23 nays 24",
+      "date": "2025-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Legislative Management",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"legislature\", \"name\": \"Legislative Management\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0414-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2026.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:07Z"
+  }
+}

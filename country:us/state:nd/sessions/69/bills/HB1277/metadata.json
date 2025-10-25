@@ -1,0 +1,106 @@
+{
+  "legislative_session": "69",
+  "identifier": "HB 1277",
+  "title": "A BILL for an Act to create and enact a new section to chapter 54-03 and two new sections to chapter 54-66 of the North Dakota Century Code, relating to immunity from criminal prosecution and an affirmative defense for individuals voting on legislation, closure of a matter and issuance of guidance by the ethics commission, and the discretionary referral of an investigation to an outside attorney or investigator by the ethics commission's executive director; to amend and reenact sections 12.1-13-02 and 54-66-01, subsection 2 of section 54-66-04, and sections 54-66-12 and 54-66-18 of the North Dakota Century Code, relating to immunity from criminal prosecution when adhering to legislative rules, definitions related to state government ethics, confidential records related to an alleged violation of an ethics law or rule, and conflicts of interest in the legislative assembly; to repeal sections 54-66-05, 54-66-06, 54-66-07, 54-66-08, 54-66-09, and 54-66-10 of the North Dakota Century Code, relating to the complaint process of the ethics commission; and to declare an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to immunity from criminal prosecution and an affirmative defense for individuals voting on legislation, closure of a matter and issuance of guidance by the ethics commission, and the discretionary referral of an investigation to an outside attorney or investigator by the ethics commission's executive director; to amend and reenact sections 12.1\u201113\u201102 and 54\u201166\u201101, subsection 2 of section 54\u201166\u201104, and sections 54\u201166\u201112 and 54\u201166\u201118 of the North Dakota Century Code, relating to immunity from criminal prosecution when adhering to legislative rules, definitions related to state government ethics, confidential records related to an alleged violation of an ethics law or rule, and conflicts of interest in the legislative assembly; to repeal sections 54\u201166\u201105, 54\u201166\u201106, 54\u201166\u201107, 54\u201166\u201108, 54\u201166\u201109, and 54\u201166\u201110 of the North Dakota Century Code, relating to the complaint process of the ethics commission; and to declare an emergency."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, (emergency), referred Government and Veterans Affairs Committee",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Request return from committee",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    },
+    {
+      "description": "Withdrawn from further consideration",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Lefor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mike Lefor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Hogue",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David Hogue\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0458-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1277.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:10Z"
+  }
+}

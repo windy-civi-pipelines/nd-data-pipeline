@@ -1,0 +1,147 @@
+{
+  "legislative_session": "69",
+  "identifier": "HB 1310",
+  "title": "A BILL for an Act to amend and reenact section 12.1-32-02, subsections 2 and 4 of section 12.1-32-07, sections 12.1-32-08, 29-07-01.1, and 29-26-22, subdivision h of subsection 5 of section 39-08-01, subsection 1 of section 54-12-14, subsection 16 of section 54-23.3-04, and subsection 2 of section 62.1-05-01 of the North Dakota Century Code, relating to the costs of a defendant's prosecution, the cost of a presentence investigation and report, reimbursement of indigent defense costs and expenses, the fee for the indigent defense services application, the court administration fee, and the community service supervision fee; to repeal sections 12.1-32-02.2, 27-01-10, 27-05.2-08, 27-05.2-09, and 27-05.2-10 of the North Dakota Century Code, relating to repayment of rewards paid by crimestoppers programs, the fee for crime victim and witness programs, and the court facilities improvement and maintenance fund; and to provide for application.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to the costs of a defendant's prosecution, the cost of a presentence investigation and report, reimbursement of indigent defense costs and expenses, the fee for the indigent defense services application, the court administration fee, and the community service supervision fee; to repeal sections 12.1\u201132\u201102.2, 27\u201101\u201110, 27\u201105.2\u201108, 27\u201105.2\u201109, and 27\u201105.2\u201110 of the North Dakota Century Code, relating to repayment of rewards paid by crimestoppers programs, the fee for crime victim and witness programs, and the court facilities improvement and maintenance fund; and to provide for application."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Judiciary Committee",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 11:00",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 02:20",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Reported back, do not pass, placed on consent calendar 14 0 0",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Second reading, failed to pass, yeas 4 nays 87",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bernie Satrom",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bernie Satrom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cole Conley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cole Conley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mitch Ostlie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitch Ostlie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Austen Schauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Austen Schauer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0105-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1310.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:09Z"
+  }
+}

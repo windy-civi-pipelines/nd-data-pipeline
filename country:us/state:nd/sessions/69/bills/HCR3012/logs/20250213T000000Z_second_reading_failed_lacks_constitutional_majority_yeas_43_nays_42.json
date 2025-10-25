@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Second reading, failed, lacks constitutional majority yeas 43 nays 42",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR 3012"
+}

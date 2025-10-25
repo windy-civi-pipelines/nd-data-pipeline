@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported back from conference committee, in place of, placed on calendar",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2396"
+}

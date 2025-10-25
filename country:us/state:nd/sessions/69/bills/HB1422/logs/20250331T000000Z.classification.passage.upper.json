@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second reading, passed, yeas 44 nays 1",
+    "date": "2025-03-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1422"
+}

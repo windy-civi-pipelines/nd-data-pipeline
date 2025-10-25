@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to House (12)",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1118"
+}

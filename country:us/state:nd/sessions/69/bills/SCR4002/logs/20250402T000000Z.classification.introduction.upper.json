@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed with Secretary Of State 04/03",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 4002"
+}

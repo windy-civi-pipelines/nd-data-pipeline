@@ -1,0 +1,595 @@
+{
+  "identifier": "",
+  "motion_text": "Motion for Final Passage on HB 1001",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-20T19:37:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "69",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB 1001\", \"legislative_session__identifier\": \"69\"}",
+  "bill_action": null,
+  "bill_identifier": "HB 1001",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Representative Bert Anderson",
+      "voter_id": "~{\"name\": \"Representative Bert Anderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Dick Anderson",
+      "voter_id": "~{\"name\": \"Representative Dick Anderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Karen A. Anderson",
+      "voter_id": "~{\"name\": \"Representative Karen A. Anderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Landon Bahl",
+      "voter_id": "~{\"name\": \"Representative Landon Bahl\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Mike Beltz",
+      "voter_id": "~{\"name\": \"Representative Mike Beltz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Mike Berg",
+      "voter_id": "~{\"name\": \"Representative Mike Berg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Glenn Bosch",
+      "voter_id": "~{\"name\": \"Representative Glenn Bosch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Mike Brandenburg",
+      "voter_id": "~{\"name\": \"Representative Mike Brandenburg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Collette Brown",
+      "voter_id": "~{\"name\": \"Representative Collette Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Nels Christianson",
+      "voter_id": "~{\"name\": \"Representative Nels Christianson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Liz Conmy",
+      "voter_id": "~{\"name\": \"Representative Liz Conmy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jayme Davis",
+      "voter_id": "~{\"name\": \"Representative Jayme Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Gretchen Dobervich",
+      "voter_id": "~{\"name\": \"Representative Gretchen Dobervich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jason Dockter",
+      "voter_id": "~{\"name\": \"Representative Jason Dockter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Ty Dressler",
+      "voter_id": "~{\"name\": \"Representative Ty Dressler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Clayton Fegley",
+      "voter_id": "~{\"name\": \"Representative Clayton Fegley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Lisa Finley-DeVille",
+      "voter_id": "~{\"name\": \"Representative Lisa Finley-DeVille\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jay Fisher",
+      "voter_id": "~{\"name\": \"Representative Jay Fisher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Austin Foss",
+      "voter_id": "~{\"name\": \"Representative Austin Foss\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Kathy Frelich",
+      "voter_id": "~{\"name\": \"Representative Kathy Frelich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Karen Grindberg",
+      "voter_id": "~{\"name\": \"Representative Karen Grindberg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jim Grueneich",
+      "voter_id": "~{\"name\": \"Representative Jim Grueneich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative LaurieBeth Hager",
+      "voter_id": "~{\"name\": \"Representative LaurieBeth Hager\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jared C. Hagert",
+      "voter_id": "~{\"name\": \"Representative Jared C. Hagert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Karla Rose Hanson",
+      "voter_id": "~{\"name\": \"Representative Karla Rose Hanson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Patrick R. Hatlestad",
+      "voter_id": "~{\"name\": \"Representative Patrick R. Hatlestad\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Dori Hauck",
+      "voter_id": "~{\"name\": \"Representative Dori Hauck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Craig Headland",
+      "voter_id": "~{\"name\": \"Representative Craig Headland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Matthew Heilman",
+      "voter_id": "~{\"name\": \"Representative Matthew Heilman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Pat D. Heinert",
+      "voter_id": "~{\"name\": \"Representative Pat D. Heinert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jared Hendrix",
+      "voter_id": "~{\"name\": \"Representative Jared Hendrix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Dawson Holle",
+      "voter_id": "~{\"name\": \"Representative Dawson Holle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jeff Hoverson",
+      "voter_id": "~{\"name\": \"Representative Jeff Hoverson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Zachary Ista",
+      "voter_id": "~{\"name\": \"Representative Zachary Ista\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jorin Johnson",
+      "voter_id": "~{\"name\": \"Representative Jorin Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Daniel Johnston",
+      "voter_id": "~{\"name\": \"Representative Daniel Johnston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jim Jonas",
+      "voter_id": "~{\"name\": \"Representative Jim Jonas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Karen Karls",
+      "voter_id": "~{\"name\": \"Representative Karen Karls\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jim Kasper",
+      "voter_id": "~{\"name\": \"Representative Jim Kasper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Keith Kempenich",
+      "voter_id": "~{\"name\": \"Representative Keith Kempenich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Dwight Kiefert",
+      "voter_id": "~{\"name\": \"Representative Dwight Kiefert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Ben Koppelman",
+      "voter_id": "~{\"name\": \"Representative Ben Koppelman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Donald W. Longmuir",
+      "voter_id": "~{\"name\": \"Representative Donald W. Longmuir\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Scott Louser",
+      "voter_id": "~{\"name\": \"Representative Scott Louser\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Roger A. Maki",
+      "voter_id": "~{\"name\": \"Representative Roger A. Maki\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Andrew Marschall",
+      "voter_id": "~{\"name\": \"Representative Andrew Marschall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Bob Martinson",
+      "voter_id": "~{\"name\": \"Representative Bob Martinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Carrie McLeod",
+      "voter_id": "~{\"name\": \"Representative Carrie McLeod\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Lisa Meier",
+      "voter_id": "~{\"name\": \"Representative Lisa Meier\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Alisa Mitskog",
+      "voter_id": "~{\"name\": \"Representative Alisa Mitskog\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative David Monson",
+      "voter_id": "~{\"name\": \"Representative David Monson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Desiree Morton",
+      "voter_id": "~{\"name\": \"Representative Desiree Morton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Mike Motschenbacher",
+      "voter_id": "~{\"name\": \"Representative Mike Motschenbacher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Eric J. Murphy",
+      "voter_id": "~{\"name\": \"Representative Eric J. Murphy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Mike Nathe",
+      "voter_id": "~{\"name\": \"Representative Mike Nathe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jon O. Nelson",
+      "voter_id": "~{\"name\": \"Representative Jon O. Nelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Anna S. Novak",
+      "voter_id": "~{\"name\": \"Representative Anna S. Novak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emily O'Brien",
+      "voter_id": "~{\"name\": \"Emily O'Brien\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeremy L. Olson",
+      "voter_id": "~{\"name\": \"Jeremy L. Olson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative SuAnn Olson",
+      "voter_id": "~{\"name\": \"Representative SuAnn Olson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Todd Porter",
+      "voter_id": "~{\"name\": \"Representative Todd Porter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Brandy L. Pyle",
+      "voter_id": "~{\"name\": \"Representative Brandy L. Pyle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative David Richter",
+      "voter_id": "~{\"name\": \"Representative David Richter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Nico Rios",
+      "voter_id": "~{\"name\": \"Representative Nico Rios\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Karen M. Rohr",
+      "voter_id": "~{\"name\": \"Representative Karen M. Rohr\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Dan Ruby",
+      "voter_id": "~{\"name\": \"Representative Dan Ruby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Mark Sanford",
+      "voter_id": "~{\"name\": \"Representative Mark Sanford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Bernie Satrom",
+      "voter_id": "~{\"name\": \"Representative Bernie Satrom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Mike Schatz",
+      "voter_id": "~{\"name\": \"Representative Mike Schatz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Austen Schauer",
+      "voter_id": "~{\"name\": \"Representative Austen Schauer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Mary Schneider",
+      "voter_id": "~{\"name\": \"Representative Mary Schneider\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cynthia Schreiber-Beck",
+      "voter_id": "~{\"name\": \"Cynthia Schreiber-Beck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Vicky Steiner",
+      "voter_id": "~{\"name\": \"Representative Vicky Steiner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Gregory Stemen",
+      "voter_id": "~{\"name\": \"Representative Gregory Stemen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Steve Swiontek",
+      "voter_id": "~{\"name\": \"Representative Steve Swiontek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Nathan Toman",
+      "voter_id": "~{\"name\": \"Representative Nathan Toman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Bill Tveit",
+      "voter_id": "~{\"name\": \"Representative Bill Tveit\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Steve Vetter",
+      "voter_id": "~{\"name\": \"Representative Steve Vetter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Don Vigesaa",
+      "voter_id": "~{\"name\": \"Representative Don Vigesaa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Daniel R. Vollmer",
+      "voter_id": "~{\"name\": \"Representative Daniel R. Vollmer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Scott Wagner",
+      "voter_id": "~{\"name\": \"Representative Scott Wagner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Jonathan Warrey",
+      "voter_id": "~{\"name\": \"Representative Jonathan Warrey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Representative Robin Weisz",
+      "voter_id": "~{\"name\": \"Representative Robin Weisz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Representative Donna Henderson",
+      "voter_id": "~{\"name\": \"Representative Donna Henderson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Representative Dennis Nehring",
+      "voter_id": "~{\"name\": \"Representative Dennis Nehring\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Representative Doug Osowski",
+      "voter_id": "~{\"name\": \"Representative Doug Osowski\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Representative Lori VanWinkle",
+      "voter_id": "~{\"name\": \"Representative Lori VanWinkle\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Representative Macy Bolinske",
+      "voter_id": "~{\"name\": \"Representative Macy Bolinske\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Representative Lawrence R. Klemin",
+      "voter_id": "~{\"name\": \"Representative Lawrence R. Klemin\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Representative Mike Lefor",
+      "voter_id": "~{\"name\": \"Representative Mike Lefor\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Representative Mitch Ostlie",
+      "voter_id": "~{\"name\": \"Representative Mitch Ostlie\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Representative Matthew Ruby",
+      "voter_id": "~{\"name\": \"Representative Matthew Ruby\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Representative Christina Wolff",
+      "voter_id": "~{\"name\": \"Representative Christina Wolff\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 83
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 6
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-actions/ba1001.html",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

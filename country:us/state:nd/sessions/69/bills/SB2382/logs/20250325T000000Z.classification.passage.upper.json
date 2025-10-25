@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second reading, passed, yeas 42 nays 2, Emergency clause carried",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2382"
+}

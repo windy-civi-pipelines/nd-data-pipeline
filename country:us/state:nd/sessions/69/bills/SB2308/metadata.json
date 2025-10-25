@@ -1,0 +1,516 @@
+{
+  "legislative_session": "69",
+  "identifier": "SB 2308",
+  "title": "AN ACT to create and enact a new section to chapter 23.1-01, a new section to chapter 54-07, and two new sections to chapter 61-03 of the North Dakota Century Code, relating to standards for well drilling and installation of water well pumps, pitless units, and monitoring wells, a boards review task force, a water well contractors advisory board, and requirements for firms engaged in water well work, installation of water well pump and pitless units, monitoring well work, and drilling of geothermal systems; to amend and reenact section 6-09-43, subdivision j of subsection 2 of section 15.1-01-04, sections 15.1-07-33 and 23-35-02.2, subsection 1 of section 50-06-01.4, sections 52-02-02 and 52-02-08, subsection 1 of section 54-07-01.2, sections 54-54-05, 54-59-26, 54-59-27, 54-59-34, 54-59-36, 54-59-37, 54-59-39, 61-03-01.3, 61-04.1-03, 61-04.1-08, 61-04.1-09, 61-04.1-12, 61-04.1-14, 61-04.1-15, 61-04.1-16, 61-04.1-17, 61-04.1-18, 61-04.1-19, 61-04.1-20, 61-04.1-21, 61-04.1-33, 61-04.1-34, 61-04.1-37, 61-04.1-38, and 61-04.1-39, and subdivision a of subsection 2 of section 65-02-03.1 of the North Dakota Century Code, relating to the wastewater recycling treatment guide, boards and commissions, the unemployment insurance advisory council, gubernatorial appointments, the committee on aging, health information technology advisory committee, statewide longitudinal data system committee, atmospheric resource board, the department of health and human services, the council on the arts, the state engineer, the superintendent of public instruction, job service North Dakota, and workforce safety and insurance coordinating committee; to repeal chapter 8-11.1, sections 12-48-06.1, 15.1-37-05, 15.1-37-06, and 15.1-37-08, chapter 17-07, sections 19-24.1-38, 19-24.1-39, and 23-35-02.3, chapters 34-16 and 43-35, sections 50-06-05.6, 50-06.4-10, 50-11.1-25, 50-11.1-26, 50-11.1-27, 52-02-07, 54-34.3-10, 54-54-10, 54-59-25, 54-59-33, 54-59-35, 54-59-38, 54-60-25, 55-01-13, 55-01-14, 61-04.1-04, 61-04.1-05, 61-04.1-06, 61-04.1-07, and 61-04.1-10, and chapter 61-36 of the North Dakota Century Code, relating to occupational and professional boards, the midwest interstate passenger rail compact, prison industry advisory committee, energy policy commission, medical marijuana advisory committee, onsite wastewater recycling technical committee, state board of water well contractors, committee on aging, brain injury advisory council, early childhood council, unemployment insurance advisory council, commission on the status of women, health information technology advisory committee, poet laureate nominating board, rural development council, America 250 commission, atmospheric resource board, and Devils Lake outlet management advisory committee; to provide for a legislative management report; to provide an effective date; and to provide an expiration date.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to standards for well drilling and installation of water well pumps, pitless units, and monitoring wells, a boards review task force, a water well contractors advisory board, and requirements for firms engaged in water well work, installation of water well pump and pitless units, monitoring well work, and drilling of geothermal systems; to amend and reenact section 6\u201109\u201143, subdivision\u00a0j of subsection\u00a02 of section 15.1\u201101\u201104, sections 15.1\u201107\u201133 and 23\u201135\u201102.2, subsection\u00a01 of section 50\u201106\u201101.4, sections 52\u201102\u201102 and 52\u201102\u201108, subsection\u00a01 of section 54\u201107\u201101.2, sections 54\u201154\u201105, 54\u201159\u201126, 54\u201159\u201127, 54\u201159\u201134, 54\u201159\u201136, 54\u201159\u201137, 54\u201159\u201139, 61\u201103\u201101.3, 61\u201104.1\u201103, 61\u201104.1\u201108, 61\u201104.1\u201109, 61\u201104.1\u201112, 61\u201104.1\u201114, 61\u201104.1\u201115, 61\u201104.1\u201116, 61-04.1\u201117, 61\u201104.1\u201118, 61\u201104.1\u201119, 61\u201104.1\u201120, 61\u201104.1\u201121, 61\u201104.1\u201133, 61\u201104.1\u201134, 61\u201104.1\u201137, 61\u201104.1\u201138, and 61\u201104.1\u201139, and subdivision\u00a0a of subsection\u00a02 of section 65\u201102\u201103.1 of the North Dakota Century Code, relating to the wastewater recycling treatment guide, boards and commissions, the unemployment insurance advisory council, gubernatorial appointments, the committee on aging, health information technology advisory committee, statewide longitudinal data system committee, atmospheric resource board, the department of health and human services, the council on the arts, the state engineer, the superintendent of public instruction, job\u00a0service North Dakota, and workforce safety and insurance coordinating committee; to repeal chapter 8\u201111.1, sections 12\u201148\u201106.1, 15.1\u201137\u201105, 15.1\u201137\u201106, and 15.1\u201137\u201108, chapter 17\u201107, sections 19\u201124.1\u201138, 19\u201124.1\u201139, and 23\u201135\u201102.3, chapters 34\u201116 and 43\u201135, sections 50\u201106\u201105.6, 50\u201106.4\u201110, 50\u201111.1\u201125, 50\u201111.1\u201126, 50\u201111.1\u201127, 52\u201102\u201107, 54\u201134.3\u201110, 54\u201154\u201110, 54\u201159\u201125, 54\u201159\u201133, 54\u201159\u201135, 54\u201159\u201138, 54\u201160\u201125, 55\u201101\u201113, 55\u201101\u201114, 61\u201104.1\u201104, 61\u201104.1\u201105, 61\u201104.1\u201106, 61\u201104.1\u201107, and 61\u201104.1\u201110, and chapter 61\u201136 of the North Dakota Century Code, relating to occupational and professional boards, the midwest interstate passenger rail compact, prison industry advisory committee, energy policy commission, medical marijuana advisory committee, onsite wastewater recycling technical committee, state board of water well contractors, committee on aging, brain injury advisory council, early childhood council, unemployment insurance advisory council, commission on the status of women, health information technology advisory committee, poet laureate nominating board, rural development council, America 250 commission, atmospheric resource board, and Devils Lake outlet management advisory committee; to provide for a legislative management report; to provide an effective date; and to provide an expiration date."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred State and Local Government Committee",
+      "date": "2025-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 02:00",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 5 1 0",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Amendment proposed on floor",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Amendment failed",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 30 nays 15",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Received from Senate",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Introduced, first reading, referred Government and Veterans Affairs Committee",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 10:00",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Reported back amended, do pass, amendment placed on calendar 11 2 1",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Amendment adopted, placed on calendar",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Second reading, passed as amended, yeas 85 nays 7",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Returned to Senate (12)",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Refused to concur",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Conference committee appointed Roers Barta Lee",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Conference committee appointed Bahl Karls Satrom",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Reported back from conference committee, in place of, placed on calendar",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Conference committee report adopted",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Second reading, passed, yeas 27 nays 19",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Reported back from conference committee, in place of, placed on calendar",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Laid over one legislative day",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Conference committee report adopted",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Second reading, passed as amended, yeas 78 nays 12",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Signed by Speaker",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Signed by President",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Signed by Governor 05/02",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary Of State 05/02",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kristin Roers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kristin Roers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Hogue",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David Hogue\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Lefor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mike Lefor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Louser",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Scott Louser\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-02000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-03000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SECOND ENGROSSMENT - NOT ADOPTED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-04000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT with House Amendments",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-05000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "FIRST ENGROSSMENT with Conference Committee Amendments",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-06000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-07000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Adopted by the Senate State and Local Government Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-02005m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Prepared by the Legislative Council staff for Senator Lee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-03001m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Adopted by the House Government and Veterans Affairs Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-03003m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Adopted by the Conference Committee",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0776-03006m.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2308.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:09Z"
+  }
+}

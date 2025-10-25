@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Reported back, do pass, place on calendar 6 0 0",
+    "date": "2025-01-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2259"
+}

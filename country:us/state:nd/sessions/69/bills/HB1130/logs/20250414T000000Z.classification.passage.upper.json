@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Second reading, passed as amended, yeas 26 nays 21",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1130"
+}

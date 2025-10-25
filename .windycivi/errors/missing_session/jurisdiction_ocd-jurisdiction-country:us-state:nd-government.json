@@ -1,0 +1,86 @@
+{
+  "id": "ocd-jurisdiction/country:us/state:nd/government",
+  "name": "North Dakota",
+  "url": "http://www.legis.nd.gov/",
+  "division_id": "ocd-division/country:us/state:nd",
+  "classification": "state",
+  "legislative_sessions": [
+    {
+      "_scraped_name": "62nd Legislative Assembly (2011-12)",
+      "identifier": "62",
+      "name": "62nd Legislative Assembly (2011-2012)",
+      "start_date": "2011-01-04",
+      "end_date": "2011-04-28"
+    },
+    {
+      "_scraped_name": "63rd Legislative Assembly (2013-14)",
+      "identifier": "63",
+      "name": "63rd Legislative Assembly (2013-2014)",
+      "start_date": "2013-01-08",
+      "end_date": "2013-05-04"
+    },
+    {
+      "_scraped_name": "64th Legislative Assembly (2015-16)",
+      "identifier": "64",
+      "name": "64th Legislative Assembly (2015-2016)",
+      "start_date": "2015-01-08",
+      "end_date": "2015-04-29"
+    },
+    {
+      "_scraped_name": "65th Legislative Assembly (2017-18)",
+      "identifier": "65",
+      "name": "65th Legislative Assembly (2017-2018)",
+      "start_date": "2017-01-03",
+      "end_date": "2017-04-27"
+    },
+    {
+      "_scraped_name": "66th Legislative Assembly (2019-20)",
+      "identifier": "66",
+      "name": "66th Legislative Assembly (2019-2020)",
+      "start_date": "2019-01-03",
+      "end_date": "2019-04-26"
+    },
+    {
+      "_scraped_name": "67th Legislative Assembly (2021-22)",
+      "identifier": "67",
+      "name": "67th Legislative Assembly (2021-2022)",
+      "start_date": "2021-01-05",
+      "end_date": "2021-04-29",
+      "active": false
+    },
+    {
+      "_scraped_name": "67th (2021) Legislative Assembly Special 2021 Session",
+      "identifier": "67S1",
+      "name": "67th (2021) Legislative Assembly Special 2021 Session",
+      "start_date": "2021-11-08",
+      "end_date": "2021-11-12",
+      "classification": "special",
+      "active": false
+    },
+    {
+      "_scraped_name": "68th Legislative Assembly (2023-24)",
+      "identifier": "68",
+      "name": "68th Legislative Assembly (2023-24)",
+      "start_date": "2023-01-03",
+      "end_date": "2023-05-10",
+      "active": false
+    },
+    {
+      "_scraped_name": "69th Legislative Assembly (2025-26)",
+      "identifier": "69",
+      "name": "69th Legislative Assembly (2025-26)",
+      "start_date": "2025-01-07",
+      "end_date": "2025-05-02",
+      "active": true
+    },
+    {
+      "_scraped_name": "70th Legislative Assembly (2027-28)",
+      "identifier": "70",
+      "name": "70th Legislative Assembly (2027-28)",
+      "start_date": "2027-01-07",
+      "end_date": "2028-05-02",
+      "active": false
+    }
+  ],
+  "extras": {}
+}

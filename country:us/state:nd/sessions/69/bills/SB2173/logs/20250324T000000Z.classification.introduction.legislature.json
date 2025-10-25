@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Filed with Secretary Of State 03/20",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2173"
+}

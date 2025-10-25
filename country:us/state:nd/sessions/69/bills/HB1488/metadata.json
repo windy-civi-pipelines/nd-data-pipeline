@@ -1,0 +1,113 @@
+{
+  "legislative_session": "69",
+  "identifier": "HB 1488",
+  "title": "A BILL for an Act to create and enact sections 14-02.1-04.3, 14-02.1-04.4, and 14-02.1-04.5 of the North Dakota Century Code, relating to the creation of an abortion approval committee, a framework for abortion, and an emergency medical exception; to amend and reenact sections 12.1-19.1-03, 14-02.1-02, 14-02.1-02.1, 14-02.1-02.2, and 14-02.1-03, subsection 1 of section 14-02.1-03.1, sections 14-02.1-05, 14-02.1-07, 14-02.1-08, 14-02.1-09, and 14-10-15, and subsection 3 of section 14-10-19 of the North Dakota Century Code, relating to abortion procedures, consent, and reporting requirements; and to repeal sections 14-02.1-03.4, 14-02.1-03.5, and 14-02.1-04 of the North Dakota Century Code, relating to abortion restrictions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Relating to the creation of an abortion approval committee, a framework for abortion, and an emergency medical exception; to amend and reenact sections 12.1\u201119.1\u201103, 14\u201102.1\u201102, 14\u201102.1\u201102.1, 14\u201102.1\u201102.2, and 14\u201102.1\u201103, subsection 1 of section 14\u201102.1\u201103.1, sections 14\u201102.1\u201105, 14\u201102.1\u201107, 14\u201102.1\u201108, 14\u201102.1\u201109, and 14\u201110\u201115, and subsection 3 of section 14\u201110\u201119 of the North Dakota Century Code, relating to abortion procedures, consent, and reporting requirements; and to repeal sections 14\u201102.1\u201103.4, 14\u201102.1\u201103.5, and 14\u201102.1\u201104 of the North Dakota Century Code, relating to abortion restrictions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, first reading, referred Human Services Committee",
+      "date": "2025-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Committee Hearing 02:30",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Reported back, do not pass, placed on calendar 12 0 1",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    },
+    {
+      "description": "Second reading, failed to pass, yeas 6 nays 87",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eric J. Murphy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric J. Murphy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "INTRODUCED",
+      "links": [
+        {
+          "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0682-01000.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1488.html",
+      "note": "HTML bill detail page"
+    },
+    {
+      "url": "https://ndlegis.gov/api/assembly/69-2025/data/bills.json",
+      "note": "JSON page of session bills"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nd/government",
+    "name": "North Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:09Z"
+  }
+}

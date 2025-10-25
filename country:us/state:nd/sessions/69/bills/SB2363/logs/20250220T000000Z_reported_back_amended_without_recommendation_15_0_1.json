@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported back amended, without recommendation 15 0 1",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2363"
+}

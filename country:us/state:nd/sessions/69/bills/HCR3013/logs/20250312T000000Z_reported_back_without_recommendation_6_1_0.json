@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported back without recommendation 6 1 0",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR 3013"
+}

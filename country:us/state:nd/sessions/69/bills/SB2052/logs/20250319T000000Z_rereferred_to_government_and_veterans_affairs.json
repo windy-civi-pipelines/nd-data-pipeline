@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rereferred to Government and Veterans Affairs",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 2052"
+}
