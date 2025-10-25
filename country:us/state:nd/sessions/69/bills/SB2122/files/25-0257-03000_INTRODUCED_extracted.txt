@@ -1,0 +1,1327 @@
+Title: SENATE BILL NO. 2122
+Official Title: SENATE BILL NO. 2122
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+25.0257.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry and Business Committee
+(At the request of the Commission on Uniform State Laws)
+1 A BILL for an Act to create and enact chapter 32-10.1 and a new section to chapter 32-19.2 of
+2 the North Dakota Century Code, relating to the Uniform Commercial Real Estate Receivership
+3 Act and trustees for commercial buildings during foreclosures; and to provide for application.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. Chapter 32-10.1 of the North Dakota Century Code is created and enacted as
+6 follows:
+7 32 - 10.1 - 01. Definitions .
+8 As used in this chapter:
+9 1. "Affiliate" means:
+10 a. With respect to an individual:
+11 (1) A companion of the individual;
+12 (2) A lineal ancestor or descendant, whether by blood or adoption, of:
+13 (a) The individual; or
+14 (b) A companion of the individual;
+15 (3) A companion of an ancestor or descendant described in paragraph 2 ;
+16 (4) A sibling, aunt, uncle, great aunt, great uncle, first cousin, niece, nephew,
+17 grandniece, or grandnephew of the individual, whether related by the whole
+18 or the half blood or adoption, or a companion of any of those individuals; or
+19 (5) Any other individual occupying the residence of the individual; and
+20 b. With respect to a person other than an individual:
+21 (1) Another person that directly or indirectly controls, is controlled by, or is
+22 under common control with the person;
+23 (2) An officer, director, manager, member, partner, employee, or trustee or other
+24 fiduciary of the person; or
+Page No. 1 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 (3) A companion of, or an individual occupying the residence of, an individual
+2 described in paragraph 1 or 2 .
+3 2. "Companion" means:
+4 a. The spouse of an individual;
+5 b. The domestic partner of an individual; or
+6 c. Another individual in a civil union with an individual.
+7 3. "Court" means the district court.
+8 4. "Executory contract" means a contract under which each party has an unperformed
+9 obligation and the failure of a party to complete performance would constitute a
+10 material breach. The term includes a lease.
+11 5. "Governmental unit" means an office, department, division, bureau, board,
+12 commission, or other agency of this state or a subdivision of this state.
+13 6. "Lien" means an interest in property which secures payment or performance of an
+14 obligation.
+15 7. "Mortgage" means a record, however denominated, that creates or provides for a
+16 consensual lien on real property or rents, even if it also creates or provides for a lien
+17 on personal property.
+18 8. "Mortgagee" means a person entitled to enforce an obligation secured by a mortgage.
+19 9. "Mortgagor" means a person that grants a mortgage or a successor in ownership of
+20 the real property described in the mortgage.
+21 10. "Owner" means the person for whose property a receiver is appointed.
+22 11. "Person" means an individual, estate, business or nonprofit entity, public corporation,
+23 government or governmental subdivision, agency, or instrumentality, or other legal
+24 entity.
+25 12. "Proceeds" means:
+26 a. Whatever is acquired on the sale, lease, license, exchange, or other disposition
+27 of receivership property;
+28 b. Whatever is collected on, or distributed on account of, receivership property;
+29 c. Rights arising out of receivership property;
+Page No. 2 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 d. To the extent of the value of receivership property, claims arising out of the loss,
+2 nonconformity, or interference with the use of, defects or infringement of rights in,
+3 or damage to the property; or
+4 e. To the extent of the value of receivership property and to the extent payable to
+5 the owner or mortgagee, insurance payable by reason of the loss or
+6 nonconformity of, defects or infringement of rights in, or damage to the property.
+7 13. "Property" means all of a person's right, title, and interest, both legal and equitable, in
+8 real and personal property, tangible and intangible, wherever located and however
+9 acquired. The term includes proceeds, products, offspring, rents, or profits of or from
+10 the property.
+11 14. "Receiver" means a person appointed by the court as the court's agent, and subject to
+12 the court's direction, to take possession of, manage, and, if authorized by this chapter
+13 or court order, transfer, sell, lease, license, exchange, collect, or otherwise dispose of
+14 receivership property.
+15 15. "Receivership" means a proceeding in which a receiver is appointed.
+16 16. "Receivership property" means the property of an owner which is described in the
+17 order appointing a receiver or a subsequent order. The term includes any proceeds,
+18 products, offspring, rents, or profits of or from the property.
+19 17. "Record" means information inscribed on a tangible medium or stored on an electronic
+20 or other medium and retrievable in perceivable form.
+21 18. "Rents" means:
+22 a. Sums payable for the right to possess or occupy, or for the actual possession or
+23 occupation of, real property of another person;
+24 b. Sums payable to a mortgagor under a policy of rental-interruption insurance
+25 covering real property;
+26 c. Claims arising out of a default in the payment of sums payable for the right to
+27 possess or occupy real property of another person;
+28 d. Sums payable to terminate an agreement to possess or occupy real property of
+29 another person;
+Page No. 3 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 e. Sums payable to a mortgagor for payment or reimbursement of expenses
+2 incurred in owning, operating, and maintaining real property or constructing or
+3 installing improvements on real property; or
+4 f. Other sums payable under an agreement relating to the real property of another
+5 person which constitute rent under any other provision of law.
+6 19. "Secured obligation" means an obligation the payment or performance of which is
+7 secured by a security agreement.
+8 20. "Security agreement" means an agreement that creates or provides for a lien.
+9 21. "Sign" means, with present intent to authenticate or adopt a record:
+10 a. To execute or adopt a tangible symbol; or
+11 b. To attach to or logically associate with the record an electronic sound, symbol, or
+12 process.
+13 22. "State" means a state of the United States, the District of Columbia, Puerto Rico, the
+14 United States Virgin Islands, or any territory or insular possession subject to the
+15 jurisdiction of the United States.
+16 32 - 10.1 - 02. Notice and opportunity for hearing .
+17 1. Except as provided under subsection 2, the court may issue an order under this
+18 chapter only after notice and opportunity for a hearing appropriate in the
+19 circumstances.
+20 2. The court may issue an order under this chapter:
+21 a. Without prior notice if the circumstances require issuance of an order before
+22 notice is given;
+23 b. After notice and without a prior hearing if the circumstances require issuance of
+24 an order before a hearing is held; or
+25 c. After notice and without a hearing if no interested party timely requests a hearing.
+26 32 - 10.1 - 03. Scope - Exclusions .
+27 1. Except as provided under subsection 2 or 3, this chapter applies to a receivership for
+28 an interest in real property and any personal property related to or used in operating
+29 the real property.
+30 2. This chapter does not apply to a receivership for an interest in real property improved
+31 by one to four dwelling units unless:
+Page No. 4 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 a. The interest is used for agricultural, commercial, industrial, or mineral-extraction
+2 purposes, other than incidental uses by an owner occupying the property as the
+3 owner's primary residence;
+4 b. The interest secures an obligation incurred at a time when the property was used
+5 or planned for use for agricultural, commercial, industrial, or mineral-extraction
+6 purposes;
+7 c. The owner planned or is planning to develop the property into one or more
+8 dwelling units to be sold or leased in the ordinary course of the owner's business;
+9 or
+10 d. The owner is collecting or has the right to collect rents or other income from the
+11 property from a person other than an affiliate of the owner.
+12 3. This chapter does not apply to a receivership authorized by any other provision of law
+13 in which the receiver is a governmental unit or an individual acting in an official
+14 capacity on behalf of the unit except to the extent provided by the other law.
+15 4. This chapter does not limit the authority of a court to appoint a receiver under any
+16 other provision of law.
+17 5. Unless displaced by a particular provision of this chapter, the principles of law and
+18 equity supplement this chapter.
+19 32 - 10.1 - 04. Power of court .
+20 The court that appoints a receiver under this chapter has exclusive jurisdiction to direct the
+21 receiver and determine any controversy related to the receivership or receivership property.
+22 32 - 10.1 - 05. Appointment of receiver .
+23 1. The court may appoint a receiver:
+24 a. Before judgment, to protect a party that demonstrates an apparent right, title, or
+25 interest in real property that is the subject of the action, if the property or its
+26 revenue-producing potential:
+27 (1) Is being subjected to or is in danger of waste, loss, dissipation, or
+28 impairment; or
+29 (2) Has been or is about to be the subject of a voidable transaction;
+30 b. After judgment:
+31 (1) To carry the judgment into effect; or
+Page No. 5 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 (2) To preserve nonexempt real property pending appeal or when an execution
+2 has been returned unsatisfied and the owner refuses to apply the property
+3 in satisfaction of the judgment;
+4 c. In an action in which a receiver for real property may be appointed on equitable
+5 grounds; or
+6 d. During the time allowed for redemption, to preserve real property sold in an
+7 execution or foreclosure sale and secure its rents to the person entitled to the
+8 rents.
+9 2. In connection with the foreclosure or other enforcement of a mortgage, the court may
+10 appoint a receiver for the mortgaged property if:
+11 a. Appointment is necessary to protect the property from waste, loss, transfer,
+12 dissipation, or impairment;
+13 b. The mortgagor agreed in a signed record to appointment of a receiver on default;
+14 c. The owner agreed, after default and in a signed record, to appointment of a
+15 receiver;
+16 d. The property and any other collateral held by the mortgagee are not sufficient to
+17 satisfy the secured obligation;
+18 e. The owner fails to turn over to the mortgagee proceeds or rents the mortgagee
+19 was entitled to collect; or
+20 f. The holder of a subordinate lien obtains appointment of a receiver for the
+21 property.
+22 3. The court may condition appointment of a receiver without prior notice under
+23 subdivision a of subsection 2 of section 32 - 10.1 - 02 or without a prior hearing under
+24 subdivision b of subsection 2 of section 32 - 10.1 - 02 on the giving of security by the
+25 person seeking the appointment for the payment of damages, reasonable attorney's
+26 fees, and costs incurred or suffered by any person if the court later concludes the
+27 appointment was not justified. If the court later concludes the appointment was
+28 justified, the court shall release the security.
+29 32 - 10.1 - 06. Disqualification from appointment as receiver - Disclosure of interest .
+30 1. The court may not appoint a person as receiver unless the person submits a
+31 statement to the court under penalty of perjury that the person is not disqualified.
+Page No. 6 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 2. Except as provided under subsection 3, a person is disqualified from appointment as
+2 receiver if the person:
+3 a. Is an affiliate of a party;
+4 b. Has an interest materially adverse to an interest of a party;
+5 c. Has a material financial interest in the outcome of the action, other than
+6 compensation the court may allow the receiver;
+7 d. Has a debtor-creditor relationship with a party; or
+8 e. Holds an equity interest in a party, other than a noncontrolling interest in a
+9 publicly traded company.
+10 3. A person is not disqualified from appointment as receiver because the person:
+11 a. Was appointed receiver or is owed compensation in an unrelated matter involving
+12 a party or was engaged by a party in a matter unrelated to the receivership;
+13 b. Is an individual obligated to a party on a debt that is not in default and was
+14 incurred primarily for personal, family, or household purposes; or
+15 c. Maintains with a party a deposit account as defined under section 41 - 09 - 02 .
+16 4. A person seeking appointment of a receiver may nominate a person to serve as
+17 receiver, but the court is not bound by the nomination.
+18 32 - 10.1 - 07. Receiver's bond - Alternative security .
+19 1. Except as provided under subsection 2, a receiver shall post a bond with the cour t
+20 which:
+21 a. Is conditioned on the faithful discharge of the receiver's duties;
+22 b. Has one or more sureties approved by the court;
+23 c. Is in an amount the court specifies; and
+24 d. Is effective as of the date of the receiver's appointment.
+25 2. The court may approve the posting by a receiver with the court of alternative security,
+26 including a letter of credit or deposit of funds. The receiver may not use receivership
+27 property as alternative security. Interest that accrues on deposited funds must be paid
+28 to the receiver on the receiver's discharge.
+29 3. The court may authorize a receiver to act before the receiver posts the bond or
+30 alternative security required by this section.
+Page No. 7 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 4. A claim against a receiver's bond or alternative security must be made not later than
+2 twelve months after the date the receiver is discharged.
+3 32 - 10.1 - 08. Status of receiver as lien creditor .
+4 On appointment of a receiver, the receiver has the status of a lien creditor under:
+5 1. Chapter 41 - 09 as to receivership property that is personal property or fixtures; and
+6 2. Chapter 47 - 19 as to receivership property that is real property .
+7 32 - 10.1 - 09. Security agreement covering after-acquired property .
+8 Except as otherwise provided by law, property that a receiver or owner acquires after
+9 appointment of the receiver is subject to a security agreement entered before the appointment
+10 to the same extent as if the court had not appointed the receiver.
+11 32 - 10.1 - 10. Collection and turnover of receivership property .
+12 1. Unless the court orders otherwise, on demand by a receiver:
+13 a. A person that owes a debt that is receivership property and is matured or payable
+14 on demand or on order shall pay the debt to or on the order of the receiver,
+15 except to the extent the debt is subject to setoff or recoupment; and
+16 b. Subject to subsection 3, a person that has possession, custody, or control o f
+17 receivership property shall turn the property over to the receiver.
+18 2. A person that has notice of the appointment of a receiver and owes a debt that is
+19 receivership property may not satisfy the debt by payment to the owner.
+20 3. If a creditor has possession, custody, or control of receivership property and the
+21 validity, perfection, or priority of the creditor's lien on the property depends on the
+22 creditor's possession, custody, or control, the creditor may retain possession, custody,
+23 or control until the court orders adequate protection of the creditor's lien.
+24 4. Unless a bona fide dispute exists about a receiver's right to possession, custody, or
+25 control of receivership property, the court may sanction a person's failure to turn the
+26 property over when required by this section as civil contempt.
+27 32 - 10.1 - 11. Powers and duties of receiver .
+28 1. Except as limited by court order or any other provision of law, a receiver may:
+29 a. Collect, control, manage, conserve, and protect receivership property;
+Page No. 8 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 b. Operate a business constituting receivership property, including preservation,
+2 use, sale, lease, license, exchange, collection, or disposition of the property in
+3 the ordinary course of business;
+4 c. In the ordinary course of business, incur unsecured debt and pay expenses
+5 incidental to the receiver's preservation, use, sale, lease, license, exchange,
+6 collection, or disposition of receivership property;
+7 d. Assert a right, claim, cause of action, or defense of the owner which relates to
+8 receivership property;
+9 e. Seek and obtain instruction from the court concerning receivership property,
+10 exercise of the receiver's powers, and performance of the receiver's duties;
+11 f. On subpoena, compel a person to submit to examination under oath, or to
+12 produce and permit inspection and copying of designated records or tangible
+13 things, with respect to receivership property or any other matter that may affect
+14 administration of the receivership;
+15 g. Engage a professional under section 32 - 10.1 - 14 ;
+16 h. Apply to a court of another state for appointment as ancillary receiver with
+17 respect to receivership property located in that state; and
+18 i. Exercise any power conferred by court order, this chapter, or any other provision
+19 of law.
+20 2. With court approval, a receiver may:
+21 a. Incur debt for the use or benefit of receivership property other than in the ordinary
+22 course of business;
+23 b. Make improvements to receivership property;
+24 c. Use or transfer receivership property other than in the ordinary course of
+25 business under section 32 - 10.1 - 15 ;
+26 d. Adopt or reject an executory contract of the owner under section 32 - 10.1 - 16 ;
+27 e. Pay compensation to the receiver under section 32 - 10.1 - 20, and to each
+28 professional engaged by the receiver under section 32 - 10.1 - 14 ;
+29 f. Recommend allowance or disallowance of a claim of a creditor under section
+30 32 - 10.1 - 19; and
+31 g. Make a distribution of receivership property under section 32 - 10.1 - 19 .
+Page No. 9 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 3. A receiver shall:
+2 a. Prepare and retain appropriate business records, including a record of each
+3 receipt, disbursement, and disposition of receivership property;
+4 b. Account for receivership property, including the proceeds of a sale, lease,
+5 license, exchange, collection, or other disposition of the property;
+6 c. File with the county recorder wherein the property is located a copy of the order
+7 appointing the receiver and, if a legal description of the real property is not
+8 included in the order, the legal description;
+9 d. Disclose to the court any fact arising during the receivership which would
+10 disqualify the receiver under section 32 - 10.1 - 06; and
+11 e. Perform any duty imposed by court order, this chapter, or any other provision of
+12 law.
+13 4. The powers and duties of a receiver may be expanded, modified, or limited by court
+14 order.
+15 32 - 10.1 - 12. Duties of owner .
+16 1. An owner shall:
+17 a. Assist and cooperate with the receiver in the administration of the receivership
+18 and the discharge of the receiver's duties;
+19 b. Preserve and turn over to the receiver all receivership property in the owner's
+20 possession, custody, or control;
+21 c. Identify all records and other information relating to the receivership property,
+22 including a password, authorization, or other information needed to obtain or
+23 maintain access to or control of the receivership property, and make available to
+24 the receiver the records and information in the owner's possession, custody, or
+25 control;
+26 d. On subpoena, submit to examination under oath by the receiver concerning the
+27 acts, conduct, property, liabilities, and financial condition of the owner or any
+28 matter relating to the receivership property or the receivership; and
+29 e. Perform any duty imposed by court order, this chapter, or any other provision of
+30 law.
+Page No. 10 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 2. If an owner is a person other than an individual, this section applies to each officer,
+2 director, manager, member, partner, trustee, or other person exercising or having the
+3 power to exercise control over the affairs of the owner.
+4 3. If a person knowingly fails to perform a duty imposed by this section, the court may:
+5 a. Award the receiver actual damages caused by the person's failure, reasonable
+6 attorney's fees, and costs; and
+7 b. Sanction the failure as civil contempt.
+8 32 - 10.1 - 13. Stay - Injunction .
+9 1. Except as otherwise provided in subsection 4 or ordered by the court, an order
+10 appointing a receiver operates as a stay, applicable to all persons, of an act, action, or
+11 proceeding:
+12 a. To obtain possession of, exercise control over, or enforce a judgment against
+13 receivership property; and
+14 b. To enforce a lien against receivership property to the extent the lien secures a
+15 claim against the owner which arose before entry of the order.
+16 2. Except as otherwise provided in subsection 4, the court may enjoin an act, action, or
+17 proceeding against or relating to receivership property if the injunction is necessary to
+18 protect the property or facilitate administration of the receivership.
+19 3. A person whose act, action, or proceeding is stayed or enjoined under this section
+20 may apply to the court for relief from the stay or injunction for cause.
+21 4. An order under subsection 1 or 2 does not operate as a stay or injunction of :
+22 a. An act, action, or proceeding to foreclose or otherwise enforce a mortgage by the
+23 person seeking appointment of the receiver;
+24 b. An act, action, or proceeding to perfect, or maintain or continue the perfection of,
+25 an interest in receivership property;
+26 c. Commencement or continuation of a criminal proceeding;
+27 d. Commencement or continuation of an action or proceeding, or enforcement of a
+28 judgment other than a money judgment in an action or proceeding, by a
+29 governmental unit to enforce its police or regulatory power; or
+30 e. Establishment by a governmental unit of a tax liability against the owner or
+31 receivership property or an appeal of the liability.
+Page No. 11 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 5. The court may void an act that violates a stay or injunction under this section.
+2 6. If a person knowingly violates a stay or injunction under this section, the court may:
+3 a. Award actual damages caused by the violation, reasonable attorney's fees, and
+4 costs; and
+5 b. Sanction the violation as civil contempt.
+6 32 - 10.1 - 14. Engagement and compensation of professional .
+7 1. With court approval, a receiver may engage an attorney, accountant, appraiser,
+8 auctioneer, broker, or other professional to assist the receiver in performing a duty or
+9 exercising a power of the receiver. The receiver shall disclose to the court:
+10 a. The identity and qualifications of the professional;
+11 b. The scope and nature of the proposed engagement;
+12 c. Any potential conflict of interest; and
+13 d. The proposed compensation.
+14 2. A person is not disqualified from engagement under this section because of the
+15 person's engagement by, representation of, or other relationship with the receiver, a
+16 creditor, or a party. This chapter does not prevent the receiver from serving in the
+17 receivership as an attorney, accountant, auctioneer, or broker when authorized by law.
+18 3. A receiver or professional engaged under subsection 1 shall file with the court an
+19 itemized statement of the time spent, work performed, and billing rate of each person
+20 that performed the work and an itemized list of expenses. The receiver shall pay the
+21 amount approved by the court.
+22 32 - 10.1 - 15. Use or transfer of receivership property not in ordinary course of
+23 business.
+24 1. As used in this section, "good faith" means honesty in fact and the observance of
+25 reasonable commercial standards of fair dealing.
+26 2. With court approval, a receiver may use receivership property other than in the
+27 ordinary course of business.
+28 3. With court approval, a receiver may transfer receivership property other than in the
+29 ordinary course of business by sale, lease, license, exchange, or other disposition.
+30 Unless the agreement of sale provides otherwise, a sale under this section is free of a
+Page No. 12 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 lien of the person that obtained appointment of the receiver, any subordinate lien, and
+2 any right of redemption but is subject to a senior lien.
+3 4. A lien on receivership property which is extinguished by a transfer under subsection 3
+4 attaches to the proceeds of the transfer with the same validity, perfection, and priority
+5 the lien had on the property immediately before the transfer, even if the proceeds are
+6 not sufficient to satisfy all obligations secured by the lien.
+7 5. A transfer under subsection 3 may occur by means other than a public auction sale. A
+8 creditor holding a valid lien on the property to be transferred may purchase the
+9 property and offset against the purchase price part or all of the allowed amount
+10 secured by the lien, if the creditor tenders funds sufficient to satisfy in full the
+11 reasonable expenses of transfer and the obligation secured by any senior lien
+12 extinguished by the transfer.
+13 6. A reversal or modification of an order approving a transfer under subsection 3 does
+14 not affect the validity of the transfer to a person that acquired the property in good faith
+15 or revive against the person any lien extinguished by the transfer, whether the person
+16 knew before the transfer of the request for reversal or modification, unless the court
+17 stayed the order before the transfer.
+18 32 - 10.1 - 16. Executory contract .
+19 1. As used in this section, "timeshare interest" means an interest having a duration of
+20 more than three years which grants its holder the right to use and occupy an
+21 accommodation, facility, or recreational site, whether improved or not, for a specific
+22 period less than a full year during any given year.
+23 2. Except as otherwise provided in subsection 8, with court approval, a receiver may
+24 adopt or reject an executory contract of the owner relating to receivership property.
+25 The court may condition the receiver's adoption and continued performance of the
+26 contract on terms appropriate under the circumstances. If the receiver does not
+27 request court approval to adopt or reject the contract within a reasonable time after the
+28 receiver's appointment, the receiver is deemed to have rejected the contract.
+29 3. A receiver's performance of an executory contract before court approval under
+30 subsection 2 of its adoption or rejection is not an adoption of the contract and does no t
+31 preclude the receiver from seeking approval to reject the contract.
+Page No. 13 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 4. A provision in an executory contract which requires or permits a forfeiture,
+2 modification, or termination of the contract because of the appointment of a receiver or
+3 the financial condition of the owner does not affect a receiver's power under
+4 subsection 2 to adopt the contract .
+5 5. A receiver's right to possess or use receivership property pursuant to an executory
+6 contract terminates on rejection of the contract under subsection 2. Rejection is a
+7 breach of the contract effective immediately before appointment of the receiver. A
+8 claim for damages for rejection of the contract must be submitted by the later of:
+9 a. The time set for submitting a claim in the receivership; or
+10 b. Thirty days after the court approves the rejection.
+11 6. If at the time a receiver is appointed, the owner has the right to assign an executory
+12 contract relating to receivership property under any other provision of law, the receiver
+13 may assign the contract with court approval.
+14 7. If a receiver rejects under subsection 2 an executory contract for the sale o f
+15 receivership property that is real property in possession of the purchaser or a
+16 rea l - property timeshare interest, the purchaser may :
+17 a. Treat the rejection as a termination of the contract, and in that case the purchaser
+18 has a lien on the property for the recovery of any part of the purchase price the
+19 purchaser paid; or
+20 b. Retain the purchaser's right to possession under the contract, and in that case
+21 the purchaser shall continue to perform all obligations arising under the contract
+22 and may offset any damages caused by nonperformance of an obligation of the
+23 owner after the date of the rejection, but the purchaser has no right or claim
+24 against other receivership property or the receiver on account of the damages.
+25 8. A receiver may not reject an unexpired lease of real property under which the owner is
+26 the landlord if:
+27 a. The tenant occupies the leased premises as the tenant's primary residence;
+28 b. The receiver was appointed at the request of a person other than a mortgagee;
+29 or
+30 c. The receiver was appointed at the request of a mortgagee and:
+31 (1) The lease is superior to the lien of the mortgage;
+Page No. 14 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 (2) The tenant has an enforceable agreement with the mortgagee or the holder
+2 of a senior lien under which the tenant's occupancy will not be disturbed as
+3 long as the tenant performs its obligations under the lease;
+4 (3) The mortgagee has consented to the lease, either in a signed record or by
+5 its failure timely to object that the lease violated the mortgage; or
+6 (4) The terms of the lease were commercially reasonable at the time the lease
+7 was agreed to and the tenant did not know or have reason to know the
+8 lease violated the mortgage.
+9 32 - 10.1 - 17. Defenses and immunities of receiver .
+10 1. A receiver is entitled to all defenses and immunities provided by any other provision of
+11 law for an act or omission within the scope of the receiver's appointment.
+12 2. A receiver may be sued personally for an act or omission in administering receivership
+13 property only with approval of the court that appointed the receiver.
+14 32 - 10.1 - 18. Interim report of receiver .
+15 A receiver may file or, if ordered by the court, shall file an interim report that includes:
+16 1. The activities of the receiver since appointment or a previous report;
+17 2. Receipts and disbursements, including a payment made or proposed to be made to a
+18 professional engaged by the receiver;
+19 3. Receipts and dispositions of receivership property;
+20 4. Fees and expenses of the receiver and, if not filed separately, a request for approval
+21 of payment of the fees and expenses; and
+22 5. Any other information required by the court.
+23 32 - 10.1 - 19. Notice of appointment - Claim against receivership - Distribution to
+24 creditors.
+25 1. Except as otherwise provided in subsection 6, a receiver shall give notice o f
+26 appointment of the receiver to creditors of the owner by:
+27 a. Deposit for delivery through first-class mail or other commercially reasonable
+28 delivery method to the last-known address of each creditor; and
+29 b. Publication as directed by the court.
+30 2. Except as otherwise provided in subsection 6, the notice required under subsection 1
+31 must specify the date by which each creditor holding a claim against the owner which
+Page No. 15 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 arose before appointment of the receiver must submit the claim to the receiver. The
+2 date specified must be at least ninety days after the later of notice under subdivision a
+3 of subsection 1 or last publication under subdivision b of subsection 1. The court may
+4 extend the period for submitting the claim. Unless the court orders otherwise, a claim
+5 that is not submitted timely is not entitled to a distribution from the receivership.
+6 3. A claim submitted by a creditor under this section must:
+7 a. State the name and address of the creditor;
+8 b. State the amount and basis of the claim;
+9 c. Identify any property securing the claim;
+10 d. Be signed by the creditor under penalty of perjury; and
+11 e. Include a copy of any record on which the claim is based.
+12 4. An assignment by a creditor of a claim against the owner is effective against the
+13 receiver only if the assignee gives timely notice of the assignment to the receiver in a
+14 signed record.
+15 5. At any time before entry of an order approving a receiver's final report, the receiver
+16 may file with the court an objection to a claim of a creditor, stating the basis for the
+17 objection. The court shall allow or disallow the claim according to any other provision
+18 of law.
+19 6. If the court concludes receivership property is likely to be insufficient to satisfy claims
+20 of each creditor holding a perfected lien on the property, the court may order that:
+21 a. The receiver need not give notice under subsection 1 of the appointment to al l
+22 creditors of the owner, but only such creditors as the court directs; and
+23 b. Unsecured creditors need not submit claims under this section.
+24 7. Subject to section 32 - 10.1 - 20 :
+25 a. A distribution of receivership property to a creditor holding a perfected lien on the
+26 property must be made in accordance with the creditor's priority under any other
+27 provision of law; and
+28 b. A distribution of receivership property to a creditor with an allowed unsecured
+29 claim must be made as the court directs according to any other provision of law.
+Page No. 16 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 32 - 10.1 - 20. Fees and expenses .
+2 1. The court may award a receiver from receivership property the reasonable and
+3 necessary fees and expenses of performing the duties of the receiver and exercising
+4 the powers of the receiver.
+5 2. The court may order one or more of the following to pay the reasonable and necessary
+6 fees and expenses of the receivership, including reasonable attorney's fees and costs:
+7 a. A person that requested the appointment of the receiver, if the receivership does
+8 not produce sufficient funds to pay the fees and expenses.
+9 b. A person whose conduct justified or would have justified the appointment of the
+10 receiver under subdivision a of subsection 1 of section 32 - 10.1 - 05 .
+11 32 - 10.1 - 21. Removal of receiver - Replacement - Termination of receivership .
+12 1. The court may remove a receiver for cause.
+13 2. The court shall replace a receiver that dies, resigns, or is removed.
+14 3. If the court finds that a receiver that resigns or is removed, or the representative of a
+15 receiver who is deceased, has accounted fully for and turned over to the successor
+16 receiver all receivership property and has filed a report of all receipts and
+17 disbursements during the service of the replaced receiver, the replaced receiver is
+18 discharged.
+19 4. The court may discharge a receiver and terminate the court's administration of the
+20 receivership property if the court finds appointment of the receiver was improvident or
+21 the circumstances no longer warrant continuation of the receivership. If the court finds
+22 the appointment was sought wrongfully or in bad faith, the court may assess against
+23 the person that sought the appointment:
+24 a. The fees and expenses of the receivership, including reasonable attorney's fees
+25 and costs; and
+26 b. Actual damages caused by the appointment, including reasonable attorney's fees
+27 and costs.
+28 32 - 10.1 - 22. Final report of receiver - Discharge .
+29 1. On completion of a receiver's duties, the receiver shall file a final report that includes:
+30 a. A description of the activities of the receiver in the conduct of the receivership;
+Page No. 17 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 b. A list of receivership property at the commencement of the receivership and any
+2 receivership property received during the receivership;
+3 c. A list of disbursements, including payments to professionals engaged by the
+4 receiver;
+5 d. A list of dispositions of receivership property;
+6 e. A list of distributions made or proposed to be made from the receivership for
+7 creditor claims;
+8 f. If not filed separately, a request for approval of the payment of fees and
+9 expenses of the receiver; and
+10 g. Any other information required by the court.
+11 2. If the court approves a final report filed under subsection 1 and the receiver distributes
+12 all receivership property, the receiver is discharged.
+13 32 - 10.1 - 23. Receivership in another state - Ancillary proceeding .
+14 1. The court may appoint a receiver appointed in another state, or that person's nominee,
+15 as an ancillary receiver with respect to property located in this state or subject to the
+16 jurisdiction of the court for which a receiver could be appointed under this chapter, if:
+17 a. The person or nominee would be eligible to serve as receiver under section
+18 32 - 10.1 - 06; and
+19 b. The appointment furthers the person's possession, custody, control, or
+20 disposition of property subject to the receivership in the other state.
+21 2. The court may issue an order that gives effect to an order entered in another state
+22 appointing or directing a receiver.
+23 3. Unless the court orders otherwise, an ancillary receiver appointed under subsection 1
+24 has the rights, powers, and duties of a receiver appointed under this chapter.
+25 32 - 10.1 - 24. Effect of enforcement by mortgagee .
+26 1. A request by a mortgagee for appointment of a receiver, the appointment of a receiver,
+27 or application by a mortgagee of receivership property or proceeds to the secured
+28 obligation does not:
+29 a. Make the mortgagee a mortgagee in possession of the real property;
+30 b. Make the mortgagee an agent of the owner;
+Page No. 18 25.0257.03000
+Sixty-ninth
+Legislative Assembly
+1 c. Constitute an election of remedies that precludes a later action to enforce the
+2 secured obligation;
+3 d. Make the secured obligation unenforceable;
+4 e. Limit any right available to the mortgagee with respect to the secured obligation;
+5 or
+6 f. Except as otherwise provided in subsection 2, bar a deficiency judgment in
+7 accordance with any other provision of law governing or relating to a deficiency
+8 judgment.
+9 2. If a receiver sells receivership property that under subsection 3 of section 32 - 10.1 - 15
+10 is free of a lien, the ability of a creditor to enforce an obligation that had been secured
+11 by the lien is subject to the law of this state other than this chapter relating to a
+12 deficiency judgment.
+13 32 - 10.1 - 25. Uniformity of application and construction .
+14 In applying and construing this chapter, a court shall consider the promotion of uniformity of
+15 the law among states that enact it.
+16 32 - 10.1 - 26. Relation to Electronic Signatures in Global and National Commerce Act .
+17 This chapter modifies, limits, or supersedes the Electronic Signatures in Global and
+18 National Commerce Act [15 U.S.C. Section 7001 et seq.], but does not modify, limit, or
+19 supersede section 101(c) of that act, [15 U.S.C. Section 7001(c)], or authorize electronic
+20 delivery of any of the notices described in section 103(b) of that act, [15 U.S.C. Section
+21 7003(b)].
+22 SECTION 2. A new section to chapter 32-19.2 of the North Dakota Century Code is created
+23 and enacted as follows:
+24 Applicability.
+25 This chapter does not apply to a commercial real estate receivership under chapter 32 - 10.1 .
+26 SECTION 3. APPLICATION. Section 1 of this Act does not apply to a receivership for which
+27 the receiver was appointed before the effective date of this Act.
+Page No. 19 25.0257.03000
+[DELETED: .".W)A)A)T)A) )A)A.W)A)A12]
+[DELETED: )A.".T.T.A.".".".".".".".".".".W.W.R22]
+[DELETED: .T.T.".".".".".".S.S.C.S32]
+[DELETED: .S.O.".".".T.T.". .T.W.A.A. .T42]
+[DELETED: .T.T.T.T.T.T.U.T.B)I)H.A)T52]
+[DELETED: )T.I.D.I.A.T.T.T.T.T.T.T62]
+[DELETED: . .I.H.H.H.H.A.W.I. .A. .I.H.I.I.T.T72]
+[DELETED: .A. . .U.A. .A.I.U.E.C82]
+[DELETED: .O.I.A.S.O. .A.E.W.I.M.U. . .R. 92]
+[DELETED: .A.P.A.F.D.P.T.A.A.P.I.O.P02]
+[DELETED: .I.I.A.S. .T.T. .A. .A.A.C.C.E12]
+[DELETED: .T.I.A.S.W.T.T.A.T.A. .A.W.W22]
+[DELETED: . . . .A. .A32]
+[DELETED: .A.A.T.T.I. .T.R.A.T.T.T)T42]
+[DELETED: )T)T)T.A.A.T.R.R.F.A. .D.P. 52]
+[DELETED: .A.S.S.I.B.I.A.A.I. .U. .A.A62]
+[DELETED: .T.T.A.A.T.T.I. .T.A.O.A72]
+[DELETED: .A.A.A.A.I.A. .T.T.T.T. .A.M.M82]
+[DELETED: .C.M.L. . 92]
+
+
+================================================================================
+
+Raw Text:
+25.0257.03000
+Sixty-ninth
+SENATE BILL NO. 2122
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry and Business Committee
+(At the request of the Commission on Uniform State Laws)
+1 A BILL for an Act to create and enact chapter 32-10.1 and a new section to chapter 32-19.2 of
+2 the North Dakota Century Code, relating to the Uniform Commercial Real Estate Receivership
+3 Act and trustees for commercial buildings during foreclosures; and to provide for application.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. Chapter 32-10.1 of the North Dakota Century Code is created and enacted as
+6 follows:
+7 32 - 10.1 - 01. Definitions .
+8 As used in this chapter:
+9 1. "Affiliate" means:
+10 a. With respect to an individual:
+11 (1) A companion of the individual;
+12 (2) A lineal ancestor or descendant, whether by blood or adoption, of:
+13 (a) The individual; or
+14 (b) A companion of the individual;
+15 (3) A companion of an ancestor or descendant described in paragraph 2 ;
+16 (4) A sibling, aunt, uncle, great aunt, great uncle, first cousin, niece, nephew,
+17 grandniece, or grandnephew of the individual, whether related by the whole
+18 or the half blood or adoption, or a companion of any of those individuals; or
+19 (5) Any other individual occupying the residence of the individual; and
+20 b. With respect to a person other than an individual:
+21 (1) Another person that directly or indirectly controls, is controlled by, or is
+22 under common control with the person;
+23 (2) An officer, director, manager, member, partner, employee, or trustee or other
+24 fiduciary of the person; or
+Page No. 1 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (3) A companion of, or an individual occupying the residence of, an individual
+2 described in paragraph 1 or 2 .
+3 2. "Companion" means:
+4 a. The spouse of an individual;
+5 b. The domestic partner of an individual; or
+6 c. Another individual in a civil union with an individual.
+7 3. "Court" means the district court.
+8 4. "Executory contract" means a contract under which each party has an unperformed
+9 obligation and the failure of a party to complete performance would constitute a
+10 material breach. The term includes a lease.
+11 5. "Governmental unit" means an office, department, division, bureau, board,
+12 commission, or other agency of this state or a subdivision of this state.
+13 6. "Lien" means an interest in property which secures payment or performance of an
+14 obligation.
+15 7. "Mortgage" means a record, however denominated, that creates or provides for a
+16 consensual lien on real property or rents, even if it also creates or provides for a lien
+17 on personal property.
+18 8. "Mortgagee" means a person entitled to enforce an obligation secured by a mortgage.
+19 9. "Mortgagor" means a person that grants a mortgage or a successor in ownership of
+20 the real property described in the mortgage.
+21 10. "Owner" means the person for whose property a receiver is appointed.
+22 11. "Person" means an individual, estate, business or nonprofit entity, public corporation,
+23 government or governmental subdivision, agency, or instrumentality, or other legal
+24 entity.
+25 12. "Proceeds" means:
+26 a. Whatever is acquired on the sale, lease, license, exchange, or other disposition
+27 of receivership property;
+28 b. Whatever is collected on, or distributed on account of, receivership property;
+29 c. Rights arising out of receivership property;
+Page No. 2 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 d. To the extent of the value of receivership property, claims arising out of the loss,
+2 nonconformity, or interference with the use of, defects or infringement of rights in,
+3 or damage to the property; or
+4 e. To the extent of the value of receivership property and to the extent payable to
+5 the owner or mortgagee, insurance payable by reason of the loss or
+6 nonconformity of, defects or infringement of rights in, or damage to the property.
+7 13. "Property" means all of a person's right, title, and interest, both legal and equitable, in
+8 real and personal property, tangible and intangible, wherever located and however
+9 acquired. The term includes proceeds, products, offspring, rents, or profits of or from
+10 the property.
+11 14. "Receiver" means a person appointed by the court as the court's agent, and subject to
+12 the court's direction, to take possession of, manage, and, if authorized by this chapter
+13 or court order, transfer, sell, lease, license, exchange, collect, or otherwise dispose of
+14 receivership property.
+15 15. "Receivership" means a proceeding in which a receiver is appointed.
+16 16. "Receivership property" means the property of an owner which is described in the
+17 order appointing a receiver or a subsequent order. The term includes any proceeds,
+18 products, offspring, rents, or profits of or from the property.
+19 17. "Record" means information inscribed on a tangible medium or stored on an electronic
+20 or other medium and retrievable in perceivable form.
+21 18. "Rents" means:
+22 a. Sums payable for the right to possess or occupy, or for the actual possession or
+23 occupation of, real property of another person;
+24 b. Sums payable to a mortgagor under a policy of rental-interruption insurance
+25 covering real property;
+26 c. Claims arising out of a default in the payment of sums payable for the right to
+27 possess or occupy real property of another person;
+28 d. Sums payable to terminate an agreement to possess or occupy real property of
+29 another person;
+Page No. 3 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 e. Sums payable to a mortgagor for payment or reimbursement of expenses
+2 incurred in owning, operating, and maintaining real property or constructing or
+3 installing improvements on real property; or
+4 f. Other sums payable under an agreement relating to the real property of another
+5 person which constitute rent under any other provision of law.
+6 19. "Secured obligation" means an obligation the payment or performance of which is
+7 secured by a security agreement.
+8 20. "Security agreement" means an agreement that creates or provides for a lien.
+9 21. "Sign" means, with present intent to authenticate or adopt a record:
+10 a. To execute or adopt a tangible symbol; or
+11 b. To attach to or logically associate with the record an electronic sound, symbol, or
+12 process.
+13 22. "State" means a state of the United States, the District of Columbia, Puerto Rico, the
+14 United States Virgin Islands, or any territory or insular possession subject to the
+15 jurisdiction of the United States.
+16 32 - 10.1 - 02. Notice and opportunity for hearing .
+17 1. Except as provided under subsection 2, the court may issue an order under this
+18 chapter only after notice and opportunity for a hearing appropriate in the
+19 circumstances.
+20 2. The court may issue an order under this chapter:
+21 a. Without prior notice if the circumstances require issuance of an order before
+22 notice is given;
+23 b. After notice and without a prior hearing if the circumstances require issuance of
+24 an order before a hearing is held; or
+25 c. After notice and without a hearing if no interested party timely requests a hearing.
+26 32 - 10.1 - 03. Scope - Exclusions .
+27 1. Except as provided under subsection 2 or 3, this chapter applies to a receivership for
+28 an interest in real property and any personal property related to or used in operating
+29 the real property.
+30 2. This chapter does not apply to a receivership for an interest in real property improved
+31 by one to four dwelling units unless:
+Page No. 4 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 a. The interest is used for agricultural, commercial, industrial, or mineral-extraction
+2 purposes, other than incidental uses by an owner occupying the property as the
+3 owner's primary residence;
+4 b. The interest secures an obligation incurred at a time when the property was used
+5 or planned for use for agricultural, commercial, industrial, or mineral-extraction
+6 purposes;
+7 c. The owner planned or is planning to develop the property into one or more
+8 dwelling units to be sold or leased in the ordinary course of the owner's business;
+9 or
+10 d. The owner is collecting or has the right to collect rents or other income from the
+11 property from a person other than an affiliate of the owner.
+12 3. This chapter does not apply to a receivership authorized by any other provision of law
+13 in which the receiver is a governmental unit or an individual acting in an official
+14 capacity on behalf of the unit except to the extent provided by the other law.
+15 4. This chapter does not limit the authority of a court to appoint a receiver under any
+16 other provision of law.
+17 5. Unless displaced by a particular provision of this chapter, the principles of law and
+18 equity supplement this chapter.
+19 32 - 10.1 - 04. Power of court .
+20 The court that appoints a receiver under this chapter has exclusive jurisdiction to direct the
+21 receiver and determine any controversy related to the receivership or receivership property.
+22 32 - 10.1 - 05. Appointment of receiver .
+23 1. The court may appoint a receiver:
+24 a. Before judgment, to protect a party that demonstrates an apparent right, title, or
+25 interest in real property that is the subject of the action, if the property or its
+26 revenue-producing potential:
+27 (1) Is being subjected to or is in danger of waste, loss, dissipation, or
+28 impairment; or
+29 (2) Has been or is about to be the subject of a voidable transaction;
+30 b. After judgment:
+31 (1) To carry the judgment into effect; or
+Page No. 5 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) To preserve nonexempt real property pending appeal or when an execution
+2 has been returned unsatisfied and the owner refuses to apply the property
+3 in satisfaction of the judgment;
+4 c. In an action in which a receiver for real property may be appointed on equitable
+5 grounds; or
+6 d. During the time allowed for redemption, to preserve real property sold in an
+7 execution or foreclosure sale and secure its rents to the person entitled to the
+8 rents.
+9 2. In connection with the foreclosure or other enforcement of a mortgage, the court may
+10 appoint a receiver for the mortgaged property if:
+11 a. Appointment is necessary to protect the property from waste, loss, transfer,
+12 dissipation, or impairment;
+13 b. The mortgagor agreed in a signed record to appointment of a receiver on default;
+14 c. The owner agreed, after default and in a signed record, to appointment of a
+15 receiver;
+16 d. The property and any other collateral held by the mortgagee are not sufficient to
+17 satisfy the secured obligation;
+18 e. The owner fails to turn over to the mortgagee proceeds or rents the mortgagee
+19 was entitled to collect; or
+20 f. The holder of a subordinate lien obtains appointment of a receiver for the
+21 property.
+22 3. The court may condition appointment of a receiver without prior notice under
+23 subdivision a of subsection 2 of section 32 - 10.1 - 02 or without a prior hearing under
+24 subdivision b of subsection 2 of section 32 - 10.1 - 02 on the giving of security by the
+25 person seeking the appointment for the payment of damages, reasonable attorney's
+26 fees, and costs incurred or suffered by any person if the court later concludes the
+27 appointment was not justified. If the court later concludes the appointment was
+28 justified, the court shall release the security.
+29 32 - 10.1 - 06. Disqualification from appointment as receiver - Disclosure of interest .
+30 1. The court may not appoint a person as receiver unless the person submits a
+31 statement to the court under penalty of perjury that the person is not disqualified.
+Page No. 6 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 2. Except as provided under subsection 3, a person is disqualified from appointment as
+2 receiver if the person:
+3 a. Is an affiliate of a party;
+4 b. Has an interest materially adverse to an interest of a party;
+5 c. Has a material financial interest in the outcome of the action, other than
+6 compensation the court may allow the receiver;
+7 d. Has a debtor-creditor relationship with a party; or
+8 e. Holds an equity interest in a party, other than a noncontrolling interest in a
+9 publicly traded company.
+10 3. A person is not disqualified from appointment as receiver because the person:
+11 a. Was appointed receiver or is owed compensation in an unrelated matter involving
+12 a party or was engaged by a party in a matter unrelated to the receivership;
+13 b. Is an individual obligated to a party on a debt that is not in default and was
+14 incurred primarily for personal, family, or household purposes; or
+15 c. Maintains with a party a deposit account as defined under section 41 - 09 - 02 .
+16 4. A person seeking appointment of a receiver may nominate a person to serve as
+17 receiver, but the court is not bound by the nomination.
+18 32 - 10.1 - 07. Receiver's bond - Alternative security .
+19 1. Except as provided under subsection 2, a receiver shall post a bond with the cour t
+20 which:
+21 a. Is conditioned on the faithful discharge of the receiver's duties;
+22 b. Has one or more sureties approved by the court;
+23 c. Is in an amount the court specifies; and
+24 d. Is effective as of the date of the receiver's appointment.
+25 2. The court may approve the posting by a receiver with the court of alternative security,
+26 including a letter of credit or deposit of funds. The receiver may not use receivership
+27 property as alternative security. Interest that accrues on deposited funds must be paid
+28 to the receiver on the receiver's discharge.
+29 3. The court may authorize a receiver to act before the receiver posts the bond or
+30 alternative security required by this section.
+Page No. 7 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 4. A claim against a receiver's bond or alternative security must be made not later than
+2 twelve months after the date the receiver is discharged.
+3 32 - 10.1 - 08. Status of receiver as lien creditor .
+4 On appointment of a receiver, the receiver has the status of a lien creditor under:
+5 1. Chapter 41 - 09 as to receivership property that is personal property or fixtures; and
+6 2. Chapter 47 - 19 as to receivership property that is real property .
+7 32 - 10.1 - 09. Security agreement covering after-acquired property .
+8 Except as otherwise provided by law, property that a receiver or owner acquires after
+9 appointment of the receiver is subject to a security agreement entered before the appointment
+10 to the same extent as if the court had not appointed the receiver.
+11 32 - 10.1 - 10. Collection and turnover of receivership property .
+12 1. Unless the court orders otherwise, on demand by a receiver:
+13 a. A person that owes a debt that is receivership property and is matured or payable
+14 on demand or on order shall pay the debt to or on the order of the receiver,
+15 except to the extent the debt is subject to setoff or recoupment; and
+16 b. Subject to subsection 3, a person that has possession, custody, or control o f
+17 receivership property shall turn the property over to the receiver.
+18 2. A person that has notice of the appointment of a receiver and owes a debt that is
+19 receivership property may not satisfy the debt by payment to the owner.
+20 3. If a creditor has possession, custody, or control of receivership property and the
+21 validity, perfection, or priority of the creditor's lien on the property depends on the
+22 creditor's possession, custody, or control, the creditor may retain possession, custody,
+23 or control until the court orders adequate protection of the creditor's lien.
+24 4. Unless a bona fide dispute exists about a receiver's right to possession, custody, or
+25 control of receivership property, the court may sanction a person's failure to turn the
+26 property over when required by this section as civil contempt.
+27 32 - 10.1 - 11. Powers and duties of receiver .
+28 1. Except as limited by court order or any other provision of law, a receiver may:
+29 a. Collect, control, manage, conserve, and protect receivership property;
+Page No. 8 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Operate a business constituting receivership property, including preservation,
+2 use, sale, lease, license, exchange, collection, or disposition of the property in
+3 the ordinary course of business;
+4 c. In the ordinary course of business, incur unsecured debt and pay expenses
+5 incidental to the receiver's preservation, use, sale, lease, license, exchange,
+6 collection, or disposition of receivership property;
+7 d. Assert a right, claim, cause of action, or defense of the owner which relates to
+8 receivership property;
+9 e. Seek and obtain instruction from the court concerning receivership property,
+10 exercise of the receiver's powers, and performance of the receiver's duties;
+11 f. On subpoena, compel a person to submit to examination under oath, or to
+12 produce and permit inspection and copying of designated records or tangible
+13 things, with respect to receivership property or any other matter that may affect
+14 administration of the receivership;
+15 g. Engage a professional under section 32 - 10.1 - 14 ;
+16 h. Apply to a court of another state for appointment as ancillary receiver with
+17 respect to receivership property located in that state; and
+18 i. Exercise any power conferred by court order, this chapter, or any other provision
+19 of law.
+20 2. With court approval, a receiver may:
+21 a. Incur debt for the use or benefit of receivership property other than in the ordinary
+22 course of business;
+23 b. Make improvements to receivership property;
+24 c. Use or transfer receivership property other than in the ordinary course of
+25 business under section 32 - 10.1 - 15 ;
+26 d. Adopt or reject an executory contract of the owner under section 32 - 10.1 - 16 ;
+27 e. Pay compensation to the receiver under section 32 - 10.1 - 20, and to each
+28 professional engaged by the receiver under section 32 - 10.1 - 14 ;
+29 f. Recommend allowance or disallowance of a claim of a creditor under section
+30 32 - 10.1 - 19; and
+31 g. Make a distribution of receivership property under section 32 - 10.1 - 19 .
+Page No. 9 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 3. A receiver shall:
+2 a. Prepare and retain appropriate business records, including a record of each
+3 receipt, disbursement, and disposition of receivership property;
+4 b. Account for receivership property, including the proceeds of a sale, lease,
+5 license, exchange, collection, or other disposition of the property;
+6 c. File with the county recorder wherein the property is located a copy of the order
+7 appointing the receiver and, if a legal description of the real property is not
+8 included in the order, the legal description;
+9 d. Disclose to the court any fact arising during the receivership which would
+10 disqualify the receiver under section 32 - 10.1 - 06; and
+11 e. Perform any duty imposed by court order, this chapter, or any other provision of
+12 law.
+13 4. The powers and duties of a receiver may be expanded, modified, or limited by court
+14 order.
+15 32 - 10.1 - 12. Duties of owner .
+16 1. An owner shall:
+17 a. Assist and cooperate with the receiver in the administration of the receivership
+18 and the discharge of the receiver's duties;
+19 b. Preserve and turn over to the receiver all receivership property in the owner's
+20 possession, custody, or control;
+21 c. Identify all records and other information relating to the receivership property,
+22 including a password, authorization, or other information needed to obtain or
+23 maintain access to or control of the receivership property, and make available to
+24 the receiver the records and information in the owner's possession, custody, or
+25 control;
+26 d. On subpoena, submit to examination under oath by the receiver concerning the
+27 acts, conduct, property, liabilities, and financial condition of the owner or any
+28 matter relating to the receivership property or the receivership; and
+29 e. Perform any duty imposed by court order, this chapter, or any other provision of
+30 law.
+Page No. 10 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 2. If an owner is a person other than an individual, this section applies to each officer,
+2 director, manager, member, partner, trustee, or other person exercising or having the
+3 power to exercise control over the affairs of the owner.
+4 3. If a person knowingly fails to perform a duty imposed by this section, the court may:
+5 a. Award the receiver actual damages caused by the person's failure, reasonable
+6 attorney's fees, and costs; and
+7 b. Sanction the failure as civil contempt.
+8 32 - 10.1 - 13. Stay - Injunction .
+9 1. Except as otherwise provided in subsection 4 or ordered by the court, an order
+10 appointing a receiver operates as a stay, applicable to all persons, of an act, action, or
+11 proceeding:
+12 a. To obtain possession of, exercise control over, or enforce a judgment against
+13 receivership property; and
+14 b. To enforce a lien against receivership property to the extent the lien secures a
+15 claim against the owner which arose before entry of the order.
+16 2. Except as otherwise provided in subsection 4, the court may enjoin an act, action, or
+17 proceeding against or relating to receivership property if the injunction is necessary to
+18 protect the property or facilitate administration of the receivership.
+19 3. A person whose act, action, or proceeding is stayed or enjoined under this section
+20 may apply to the court for relief from the stay or injunction for cause.
+21 4. An order under subsection 1 or 2 does not operate as a stay or injunction of :
+22 a. An act, action, or proceeding to foreclose or otherwise enforce a mortgage by the
+23 person seeking appointment of the receiver;
+24 b. An act, action, or proceeding to perfect, or maintain or continue the perfection of,
+25 an interest in receivership property;
+26 c. Commencement or continuation of a criminal proceeding;
+27 d. Commencement or continuation of an action or proceeding, or enforcement of a
+28 judgment other than a money judgment in an action or proceeding, by a
+29 governmental unit to enforce its police or regulatory power; or
+30 e. Establishment by a governmental unit of a tax liability against the owner or
+31 receivership property or an appeal of the liability.
+Page No. 11 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 5. The court may void an act that violates a stay or injunction under this section.
+2 6. If a person knowingly violates a stay or injunction under this section, the court may:
+3 a. Award actual damages caused by the violation, reasonable attorney's fees, and
+4 costs; and
+5 b. Sanction the violation as civil contempt.
+6 32 - 10.1 - 14. Engagement and compensation of professional .
+7 1. With court approval, a receiver may engage an attorney, accountant, appraiser,
+8 auctioneer, broker, or other professional to assist the receiver in performing a duty or
+9 exercising a power of the receiver. The receiver shall disclose to the court:
+10 a. The identity and qualifications of the professional;
+11 b. The scope and nature of the proposed engagement;
+12 c. Any potential conflict of interest; and
+13 d. The proposed compensation.
+14 2. A person is not disqualified from engagement under this section because of the
+15 person's engagement by, representation of, or other relationship with the receiver, a
+16 creditor, or a party. This chapter does not prevent the receiver from serving in the
+17 receivership as an attorney, accountant, auctioneer, or broker when authorized by law.
+18 3. A receiver or professional engaged under subsection 1 shall file with the court an
+19 itemized statement of the time spent, work performed, and billing rate of each person
+20 that performed the work and an itemized list of expenses. The receiver shall pay the
+21 amount approved by the court.
+22 32 - 10.1 - 15. Use or transfer of receivership property not in ordinary course of
+23 business.
+24 1. As used in this section, "good faith" means honesty in fact and the observance of
+25 reasonable commercial standards of fair dealing.
+26 2. With court approval, a receiver may use receivership property other than in the
+27 ordinary course of business.
+28 3. With court approval, a receiver may transfer receivership property other than in the
+29 ordinary course of business by sale, lease, license, exchange, or other disposition.
+30 Unless the agreement of sale provides otherwise, a sale under this section is free of a
+Page No. 12 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 lien of the person that obtained appointment of the receiver, any subordinate lien, and
+2 any right of redemption but is subject to a senior lien.
+3 4. A lien on receivership property which is extinguished by a transfer under subsection 3
+4 attaches to the proceeds of the transfer with the same validity, perfection, and priority
+5 the lien had on the property immediately before the transfer, even if the proceeds are
+6 not sufficient to satisfy all obligations secured by the lien.
+7 5. A transfer under subsection 3 may occur by means other than a public auction sale. A
+8 creditor holding a valid lien on the property to be transferred may purchase the
+9 property and offset against the purchase price part or all of the allowed amount
+10 secured by the lien, if the creditor tenders funds sufficient to satisfy in full the
+11 reasonable expenses of transfer and the obligation secured by any senior lien
+12 extinguished by the transfer.
+13 6. A reversal or modification of an order approving a transfer under subsection 3 does
+14 not affect the validity of the transfer to a person that acquired the property in good faith
+15 or revive against the person any lien extinguished by the transfer, whether the person
+16 knew before the transfer of the request for reversal or modification, unless the court
+17 stayed the order before the transfer.
+18 32 - 10.1 - 16. Executory contract .
+19 1. As used in this section, "timeshare interest" means an interest having a duration of
+20 more than three years which grants its holder the right to use and occupy an
+21 accommodation, facility, or recreational site, whether improved or not, for a specific
+22 period less than a full year during any given year.
+23 2. Except as otherwise provided in subsection 8, with court approval, a receiver may
+24 adopt or reject an executory contract of the owner relating to receivership property.
+25 The court may condition the receiver's adoption and continued performance of the
+26 contract on terms appropriate under the circumstances. If the receiver does not
+27 request court approval to adopt or reject the contract within a reasonable time after the
+28 receiver's appointment, the receiver is deemed to have rejected the contract.
+29 3. A receiver's performance of an executory contract before court approval under
+30 subsection 2 of its adoption or rejection is not an adoption of the contract and does no t
+31 preclude the receiver from seeking approval to reject the contract.
+Page No. 13 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 4. A provision in an executory contract which requires or permits a forfeiture,
+2 modification, or termination of the contract because of the appointment of a receiver or
+3 the financial condition of the owner does not affect a receiver's power under
+4 subsection 2 to adopt the contract .
+5 5. A receiver's right to possess or use receivership property pursuant to an executory
+6 contract terminates on rejection of the contract under subsection 2. Rejection is a
+7 breach of the contract effective immediately before appointment of the receiver. A
+8 claim for damages for rejection of the contract must be submitted by the later of:
+9 a. The time set for submitting a claim in the receivership; or
+10 b. Thirty days after the court approves the rejection.
+11 6. If at the time a receiver is appointed, the owner has the right to assign an executory
+12 contract relating to receivership property under any other provision of law, the receiver
+13 may assign the contract with court approval.
+14 7. If a receiver rejects under subsection 2 an executory contract for the sale o f
+15 receivership property that is real property in possession of the purchaser or a
+16 rea l - property timeshare interest, the purchaser may :
+17 a. Treat the rejection as a termination of the contract, and in that case the purchaser
+18 has a lien on the property for the recovery of any part of the purchase price the
+19 purchaser paid; or
+20 b. Retain the purchaser's right to possession under the contract, and in that case
+21 the purchaser shall continue to perform all obligations arising under the contract
+22 and may offset any damages caused by nonperformance of an obligation of the
+23 owner after the date of the rejection, but the purchaser has no right or claim
+24 against other receivership property or the receiver on account of the damages.
+25 8. A receiver may not reject an unexpired lease of real property under which the owner is
+26 the landlord if:
+27 a. The tenant occupies the leased premises as the tenant's primary residence;
+28 b. The receiver was appointed at the request of a person other than a mortgagee;
+29 or
+30 c. The receiver was appointed at the request of a mortgagee and:
+31 (1) The lease is superior to the lien of the mortgage;
+Page No. 14 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) The tenant has an enforceable agreement with the mortgagee or the holder
+2 of a senior lien under which the tenant's occupancy will not be disturbed as
+3 long as the tenant performs its obligations under the lease;
+4 (3) The mortgagee has consented to the lease, either in a signed record or by
+5 its failure timely to object that the lease violated the mortgage; or
+6 (4) The terms of the lease were commercially reasonable at the time the lease
+7 was agreed to and the tenant did not know or have reason to know the
+8 lease violated the mortgage.
+9 32 - 10.1 - 17. Defenses and immunities of receiver .
+10 1. A receiver is entitled to all defenses and immunities provided by any other provision of
+11 law for an act or omission within the scope of the receiver's appointment.
+12 2. A receiver may be sued personally for an act or omission in administering receivership
+13 property only with approval of the court that appointed the receiver.
+14 32 - 10.1 - 18. Interim report of receiver .
+15 A receiver may file or, if ordered by the court, shall file an interim report that includes:
+16 1. The activities of the receiver since appointment or a previous report;
+17 2. Receipts and disbursements, including a payment made or proposed to be made to a
+18 professional engaged by the receiver;
+19 3. Receipts and dispositions of receivership property;
+20 4. Fees and expenses of the receiver and, if not filed separately, a request for approval
+21 of payment of the fees and expenses; and
+22 5. Any other information required by the court.
+23 32 - 10.1 - 19. Notice of appointment - Claim against receivership - Distribution to
+24 creditors.
+25 1. Except as otherwise provided in subsection 6, a receiver shall give notice o f
+26 appointment of the receiver to creditors of the owner by:
+27 a. Deposit for delivery through first-class mail or other commercially reasonable
+28 delivery method to the last-known address of each creditor; and
+29 b. Publication as directed by the court.
+30 2. Except as otherwise provided in subsection 6, the notice required under subsection 1
+31 must specify the date by which each creditor holding a claim against the owner which
+Page No. 15 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 arose before appointment of the receiver must submit the claim to the receiver. The
+2 date specified must be at least ninety days after the later of notice under subdivision a
+3 of subsection 1 or last publication under subdivision b of subsection 1. The court may
+4 extend the period for submitting the claim. Unless the court orders otherwise, a claim
+5 that is not submitted timely is not entitled to a distribution from the receivership.
+6 3. A claim submitted by a creditor under this section must:
+7 a. State the name and address of the creditor;
+8 b. State the amount and basis of the claim;
+9 c. Identify any property securing the claim;
+10 d. Be signed by the creditor under penalty of perjury; and
+11 e. Include a copy of any record on which the claim is based.
+12 4. An assignment by a creditor of a claim against the owner is effective against the
+13 receiver only if the assignee gives timely notice of the assignment to the receiver in a
+14 signed record.
+15 5. At any time before entry of an order approving a receiver's final report, the receiver
+16 may file with the court an objection to a claim of a creditor, stating the basis for the
+17 objection. The court shall allow or disallow the claim according to any other provision
+18 of law.
+19 6. If the court concludes receivership property is likely to be insufficient to satisfy claims
+20 of each creditor holding a perfected lien on the property, the court may order that:
+21 a. The receiver need not give notice under subsection 1 of the appointment to al l
+22 creditors of the owner, but only such creditors as the court directs; and
+23 b. Unsecured creditors need not submit claims under this section.
+24 7. Subject to section 32 - 10.1 - 20 :
+25 a. A distribution of receivership property to a creditor holding a perfected lien on the
+26 property must be made in accordance with the creditor's priority under any other
+27 provision of law; and
+28 b. A distribution of receivership property to a creditor with an allowed unsecured
+29 claim must be made as the court directs according to any other provision of law.
+Page No. 16 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 32 - 10.1 - 20. Fees and expenses .
+2 1. The court may award a receiver from receivership property the reasonable and
+3 necessary fees and expenses of performing the duties of the receiver and exercising
+4 the powers of the receiver.
+5 2. The court may order one or more of the following to pay the reasonable and necessary
+6 fees and expenses of the receivership, including reasonable attorney's fees and costs:
+7 a. A person that requested the appointment of the receiver, if the receivership does
+8 not produce sufficient funds to pay the fees and expenses.
+9 b. A person whose conduct justified or would have justified the appointment of the
+10 receiver under subdivision a of subsection 1 of section 32 - 10.1 - 05 .
+11 32 - 10.1 - 21. Removal of receiver - Replacement - Termination of receivership .
+12 1. The court may remove a receiver for cause.
+13 2. The court shall replace a receiver that dies, resigns, or is removed.
+14 3. If the court finds that a receiver that resigns or is removed, or the representative of a
+15 receiver who is deceased, has accounted fully for and turned over to the successor
+16 receiver all receivership property and has filed a report of all receipts and
+17 disbursements during the service of the replaced receiver, the replaced receiver is
+18 discharged.
+19 4. The court may discharge a receiver and terminate the court's administration of the
+20 receivership property if the court finds appointment of the receiver was improvident or
+21 the circumstances no longer warrant continuation of the receivership. If the court finds
+22 the appointment was sought wrongfully or in bad faith, the court may assess against
+23 the person that sought the appointment:
+24 a. The fees and expenses of the receivership, including reasonable attorney's fees
+25 and costs; and
+26 b. Actual damages caused by the appointment, including reasonable attorney's fees
+27 and costs.
+28 32 - 10.1 - 22. Final report of receiver - Discharge .
+29 1. On completion of a receiver's duties, the receiver shall file a final report that includes:
+30 a. A description of the activities of the receiver in the conduct of the receivership;
+Page No. 17 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 b. A list of receivership property at the commencement of the receivership and any
+2 receivership property received during the receivership;
+3 c. A list of disbursements, including payments to professionals engaged by the
+4 receiver;
+5 d. A list of dispositions of receivership property;
+6 e. A list of distributions made or proposed to be made from the receivership for
+7 creditor claims;
+8 f. If not filed separately, a request for approval of the payment of fees and
+9 expenses of the receiver; and
+10 g. Any other information required by the court.
+11 2. If the court approves a final report filed under subsection 1 and the receiver distributes
+12 all receivership property, the receiver is discharged.
+13 32 - 10.1 - 23. Receivership in another state - Ancillary proceeding .
+14 1. The court may appoint a receiver appointed in another state, or that person's nominee,
+15 as an ancillary receiver with respect to property located in this state or subject to the
+16 jurisdiction of the court for which a receiver could be appointed under this chapter, if:
+17 a. The person or nominee would be eligible to serve as receiver under section
+18 32 - 10.1 - 06; and
+19 b. The appointment furthers the person's possession, custody, control, or
+20 disposition of property subject to the receivership in the other state.
+21 2. The court may issue an order that gives effect to an order entered in another state
+22 appointing or directing a receiver.
+23 3. Unless the court orders otherwise, an ancillary receiver appointed under subsection 1
+24 has the rights, powers, and duties of a receiver appointed under this chapter.
+25 32 - 10.1 - 24. Effect of enforcement by mortgagee .
+26 1. A request by a mortgagee for appointment of a receiver, the appointment of a receiver,
+27 or application by a mortgagee of receivership property or proceeds to the secured
+28 obligation does not:
+29 a. Make the mortgagee a mortgagee in possession of the real property;
+30 b. Make the mortgagee an agent of the owner;
+Page No. 18 25.0257.03000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Constitute an election of remedies that precludes a later action to enforce the
+2 secured obligation;
+3 d. Make the secured obligation unenforceable;
+4 e. Limit any right available to the mortgagee with respect to the secured obligation;
+5 or
+6 f. Except as otherwise provided in subsection 2, bar a deficiency judgment in
+7 accordance with any other provision of law governing or relating to a deficiency
+8 judgment.
+9 2. If a receiver sells receivership property that under subsection 3 of section 32 - 10.1 - 15
+10 is free of a lien, the ability of a creditor to enforce an obligation that had been secured
+11 by the lien is subject to the law of this state other than this chapter relating to a
+12 deficiency judgment.
+13 32 - 10.1 - 25. Uniformity of application and construction .
+14 In applying and construing this chapter, a court shall consider the promotion of uniformity of
+15 the law among states that enact it.
+16 32 - 10.1 - 26. Relation to Electronic Signatures in Global and National Commerce Act .
+17 This chapter modifies, limits, or supersedes the Electronic Signatures in Global and
+18 National Commerce Act [15 U.S.C. Section 7001 et seq.], but does not modify, limit, or
+19 supersede section 101(c) of that act, [15 U.S.C. Section 7001(c)], or authorize electronic
+20 delivery of any of the notices described in section 103(b) of that act, [15 U.S.C. Section
+21 7003(b)].
+22 SECTION 2. A new section to chapter 32-19.2 of the North Dakota Century Code is created
+23 and enacted as follows:
+24 Applicability.
+25 This chapter does not apply to a commercial real estate receivership under chapter 32 - 10.1 .
+26 SECTION 3. APPLICATION. Section 1 of this Act does not apply to a receivership for which
+27 the receiver was appointed before the effective date of this Act.
+Page No. 19 25.0257.03000
+
+[DELETED: .".W)A)A)T)A) )A)A.W)A)A12]
+[DELETED: )A.".T.T.A.".".".".".".".".".".W.W.R22]
+[DELETED: .T.T.".".".".".".S.S.C.S32]
+[DELETED: .S.O.".".".T.T.". .T.W.A.A. .T42]
+[DELETED: .T.T.T.T.T.T.U.T.B)I)H.A)T52]
+[DELETED: )T.I.D.I.A.T.T.T.T.T.T.T62]
+[DELETED: . .I.H.H.H.H.A.W.I. .A. .I.H.I.I.T.T72]
+[DELETED: .A. . .U.A. .A.I.U.E.C82]
+[DELETED: .O.I.A.S.O. .A.E.W.I.M.U. . .R. 92]
+[DELETED: .A.P.A.F.D.P.T.A.A.P.I.O.P02]
+[DELETED: .I.I.A.S. .T.T. .A. .A.A.C.C.E12]
+[DELETED: .T.I.A.S.W.T.T.A.T.A. .A.W.W22]
+[DELETED: . . . .A. .A32]
+[DELETED: .A.A.T.T.I. .T.R.A.T.T.T)T42]
+[DELETED: )T)T)T.A.A.T.R.R.F.A. .D.P. 52]
+[DELETED: .A.S.S.I.B.I.A.A.I. .U. .A.A62]
+[DELETED: .T.T.A.A.T.T.I. .T.A.O.A72]
+[DELETED: .A.A.A.A.I.A. .T.T.T.T. .A.M.M82]
+[DELETED: .C.M.L. . 92]

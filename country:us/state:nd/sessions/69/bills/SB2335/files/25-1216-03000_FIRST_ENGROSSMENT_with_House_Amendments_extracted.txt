@@ -1,0 +1,128 @@
+Title: ENGROSSED SENATE BILL NO. 2335
+Official Title: ENGROSSED SENATE BILL NO. 2335
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with House Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1216.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+Introduced by
+Senators Magrum, Dwyer, Paulson
+1 A BILL for an Act to create and enact a new section to chapter 38-11.1 of the North Dakota
+2 Century Code, relating to pretrial appraisals; and to amend and reenact section 38-11.1-09 of
+3 the North Dakota Century Code, relating to the recovery of attorney's fees in an action relating
+4 to oil and gas production.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 38-11.1 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Pretrial appraisal required before commencement of action to recover compensation.
+9 1. As used in this section, "certified appraiser" has the same meaning as in section
+10 43 - 23.3 - 01 .
+11 2. Before commencing a legal action to recover compensation, a person entitled to
+12 compensation shall obtain a written appraisal valuing all parcels affected or
+13 foreseeably affected by drilling operations under this chapter. A certified appraiser, an
+14 individual possessing a temporary permit under section 43 - 23.3 - 11, or an individua l
+15 possessing a permit under section 43 - 23.3 - 04.1 shall conduct the required appraisal .
+16 3. Before a court may take jurisdiction over an action commenced under this chapter, a
+17 person seeking compensation under this chapter must have provided to a minera l
+18 developer a copy of an appraisal issued under subsection 2. The mineral developer
+19 may make a new offer for settlement to the surface owner within thirty days of
+20 receiving the appraisal. If a new offer is made under this subsection, the amount of the
+21 new offer serves as the offer contemplated under section 38 - 11.1 - 09 .
+Page No. 1 25.1216.03000
+Sixty-ninth
+Legislative Assembly
+1 4. The mineral developer shall reimburse the reasonable actual costs of the required
+2 appraisal incurred by the surface owner for obtaining a required appraisal under this
+3 section or, at the election of the surface owner, the mineral developer shall pay the
+4 reasonable actual costs directly to the appraiser.
+5 5. The required appraisal or opinion of value expressed in the required appraisal is
+6 inadmissible at a proceeding commenced under this chapter, unless the information is
+7 offered by the surface owner. Whether an appraisal is issued under this section does
+8 not require or prohibit the introduction of specific evidence offered at a proceeding
+9 commenced under this chapter.
+10 SECTION 2. AMENDMENT. Section 38-11.1-09 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 38-11.1-09. Rejection - Legal action - Fees and costs.
+13 If the person seeking compensation rejects the offer of the mineral developer, that person
+14 may bring an action for compensation in the court of proper jurisdiction. If the amount of
+15 compensation awarded by the court is greater than that which had beenthe amount offered by
+16 the mineral developer, the court shall award the person seeking compensation reasonable
+17 attorney's fees, any costs assessed by the court and disbursements under chapter 28 - 26 , and
+18 interest on the amount of the final compensation awarded by the court from the day drilling is
+19 commenced. The rate of interest awarded must be the prime rate charged by the Bank of North
+20 Dakota on the date of the judgment.
+Page No. 2 25.1216.03000
+[DELETED: .A.B.B12]
+[DELETED: .T. 22]
+
+
+================================================================================
+
+Raw Text:
+25.1216.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+ENGROSSED SENATE BILL NO. 2335
+Introduced by
+Senators Magrum, Dwyer, Paulson
+1 A BILL for an Act to create and enact a new section to chapter 38-11.1 of the North Dakota
+2 Century Code, relating to pretrial appraisals; and to amend and reenact section 38-11.1-09 of
+3 the North Dakota Century Code, relating to the recovery of attorney's fees in an action relating
+4 to oil and gas production.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 38-11.1 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Pretrial appraisal required before commencement of action to recover compensation.
+9 1. As used in this section, "certified appraiser" has the same meaning as in section
+10 43 - 23.3 - 01 .
+11 2. Before commencing a legal action to recover compensation, a person entitled to
+12 compensation shall obtain a written appraisal valuing all parcels affected or
+13 foreseeably affected by drilling operations under this chapter. A certified appraiser, an
+14 individual possessing a temporary permit under section 43 - 23.3 - 11, or an individua l
+15 possessing a permit under section 43 - 23.3 - 04.1 shall conduct the required appraisal .
+16 3. Before a court may take jurisdiction over an action commenced under this chapter, a
+17 person seeking compensation under this chapter must have provided to a minera l
+18 developer a copy of an appraisal issued under subsection 2. The mineral developer
+19 may make a new offer for settlement to the surface owner within thirty days of
+20 receiving the appraisal. If a new offer is made under this subsection, the amount of the
+21 new offer serves as the offer contemplated under section 38 - 11.1 - 09 .
+Page No. 1 25.1216.03000
+
+Sixty-ninth
+Legislative Assembly
+1 4. The mineral developer shall reimburse the reasonable actual costs of the required
+2 appraisal incurred by the surface owner for obtaining a required appraisal under this
+3 section or, at the election of the surface owner, the mineral developer shall pay the
+4 reasonable actual costs directly to the appraiser.
+5 5. The required appraisal or opinion of value expressed in the required appraisal is
+6 inadmissible at a proceeding commenced under this chapter, unless the information is
+7 offered by the surface owner. Whether an appraisal is issued under this section does
+8 not require or prohibit the introduction of specific evidence offered at a proceeding
+9 commenced under this chapter.
+10 SECTION 2. AMENDMENT. Section 38-11.1-09 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 38-11.1-09. Rejection - Legal action - Fees and costs.
+13 If the person seeking compensation rejects the offer of the mineral developer, that person
+14 may bring an action for compensation in the court of proper jurisdiction. If the amount of
+15 compensation awarded by the court is greater than that which had beenthe amount offered by
+16 the mineral developer, the court shall award the person seeking compensation reasonable
+17 attorney's fees, any costs assessed by the court and disbursements under chapter 28 - 26 , and
+18 interest on the amount of the final compensation awarded by the court from the day drilling is
+19 commenced. The rate of interest awarded must be the prime rate charged by the Bank of North
+20 Dakota on the date of the judgment.
+Page No. 2 25.1216.03000
+
+[DELETED: .A.B.B12]
+[DELETED: .T. 22]

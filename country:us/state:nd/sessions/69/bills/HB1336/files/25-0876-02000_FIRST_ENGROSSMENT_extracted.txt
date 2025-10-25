@@ -1,0 +1,363 @@
+Title: ENGROSSED HOUSE BILL NO. 1336
+Official Title: ENGROSSED HOUSE BILL NO. 1336
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25.0876.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representatives Satrom, Grueneich, Ostlie
+Senators Conley, Dwyer
+1 A BILL for an Act to amend and reenact section 12.1-31.2-02, subsection 1 of section
+2 12.1-32-02, and subdivision h of subsection 5 of section 39-08-01 of the North Dakota Century
+3 Code, relating to orders prohibiting contact and use of orders prohibiting contact as an
+4 alternative to sentencing.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 12.1-31.2-02 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 12.1-31.2-02. Order prohibiting contact.
+9 1. a. If an individual who is charged with or, arrested for, or subject to a sentence or
+10 order deferring imposition of sentence for a crime of violence or threat of
+11 violence, stalking, harassment, or a sex offense is released from custody before
+12 arraignment or trial, the court authorizing the release of the individual, imposing a
+13 sentence, or issuing an order deferring imposition of sentence, shall consider and
+14 may issue an order prohibiting the individual from having contact with the victim.
+15 The order must contain the court's directives and must inform the individual that
+16 any violation of the order constitutes a criminal offense. The state's attorney shall
+17 provide a copy of the order to the victim. The court shall determine at the time of
+18 the individual's arraignment whether an order issued pursuant to this section will
+19 be extended. If the court issues an order pursuant to this section before the time
+20 the individual is charged, the order expires at the individual's arraignment or
+21 within seventy-two hours of issuance if charges against the individual are not
+22 filed.
+Page No. 1 25.0876.02000
+Sixty-ninth
+Legislative Assembly
+1 b. A party or victim may file a written request with the court to modify or terminate
+2 an order issued under this section. If requested, the court may hold a hearing to
+3 determine whether to grant or deny the request to modify or terminate an order.
+4 c. If an order prohibiting contact is issued upon a charge or arrest, the order
+5 terminates upon dismissal, acquittal, sentence, or order deferring imposition of
+6 sentence. Upon sentence or order deferring imposition of sentence, the court
+7 may issue a new order under this subsection.
+8 2. If the court has probable cause to believe that the individual charged or
+9 arrestedsubject to an order under subsection 1 is likely to use, display, or threaten to
+10 use a firearm or dangerous weapon as defined in section 12.1-01-04 in any further act
+11 of violence, the court shall require that the individual surrender for safekeeping any
+12 firearm or specified dangerous weapon in or subject to the individual's immediate
+13 possession or control, to the sheriff of the county or chief of police of the city in which
+14 the individual resides.
+15 3. WheneverIf an order prohibiting contact is issued, modified, extended, or terminated
+16 under this section, the clerk of court shall forward a copy of the order within one
+17 business day to the appropriate law enforcement agency specified in the order. Upon
+18 receipt of the copy of the order, the law enforcement agency shall enter the order in
+19 the central warrant information system and the national crime information center
+20 database provided by the federal bureau of investigation, or its successor agency.
+21 a. Once the bureau, after consultation with the state court administrator, determines
+22 and implements a method to transmit electronically to the bureau an order
+23 prohibiting contact, the court electronically shall send the full text of the order as
+24 issued, modified, extended, or terminated in accordance with this section and any
+25 data fields identified by the bureau. This electronic submission will fulfill the law
+26 enforcement agency's requirement to enter the order in the central warrant
+27 information system, but will not fulfill its requirement to enter, maintain, and
+28 respond to inquiries regarding the order in the national crime information center
+29 database provided by the federal bureau of investigation, or its successor
+30 agency.
+Page No. 2 25.0876.02000
+Sixty-ninth
+Legislative Assembly
+1 b. Once the bureau, after consultation with the state court administrator, determines
+2 and implements an electronic method to notify law enforcement about the order,
+3 the clerk of court's requirement to forward the order to the law enforcement
+4 agency will be satisfied.
+5 c. Once the bureau, after consultation with the director of state radio, determines
+6 and implements a method to enter the order into the national crime information
+7 center database provided by the federal bureau of investigation, or its successor
+8 agency, the bureau shall enter the order electronically in the national crime
+9 information center database provided by the federal bureau of investigation, or its
+10 successor agency. This electronic entry will fulfill the law enforcement agency's
+11 requirement to enter the order in the national crime information center database
+12 provided by the federal bureau of investigation, or its successor agency, but will
+13 not fulfill its requirement to maintain and respond to inquiries regarding the order
+14 in the national crime information center database provided by the federal bureau
+15 of investigation, or its successor agency.
+16 4. An individual who violates a court order issued under this section is guilty of a class A
+17 misdemeanor.
+18 5. A law enforcement officer shall arrest an individual without a warrant if the officer
+19 determines there is probable cause that the individual has committed the offense of
+20 violating an order prohibiting contact under this section, whether or not the violation
+21 was committed in the presence of the officer. A law enforcement officer who acts in
+22 good faith on probable cause and without malice is immune from any civil or criminal
+23 liability for making an arrest under this subsection.
+24 SECTION 2. AMENDMENT. Subsection 1 of section 12.1-32-02 of the North Dakota
+25 Century Code is amended and reenacted as follows:
+26 1. a. Every person convicted of an offense who is sentenced by the court must be
+27 sentenced to one or a combination of the following alternatives, unless the
+28 sentencing alternatives are otherwise specifically provided in the statute defining
+29 the offense or sentencing is deferred under subsection 4:
+30 a. (1) Payment of the reasonable costs of the person's prosecution.
+31 b. (2) Probation.
+Page No. 3 25.0876.02000
+Sixty-ninth
+Legislative Assembly
+1 c. (3) A term of imprisonment, including intermittent imprisonment:
+2 (1) (a) In a state correctional facility in accordance with section 29-27-07, in a
+3 regional corrections center, or in a county jail, if convicted of a felony
+4 or a class A misdemeanor.
+5 (2) (b) In a county jail or in a regional corrections center, if convicted of a
+6 class B misdemeanor.
+7 (3) (c) In a facility or program deemed appropriate for the treatment of the
+8 individual offender, including available community-based or
+9 faith-based programs.
+10 (4) (d) In the case of persons convicted of an offense who are under
+11 eighteen years of age at the time of sentencing, the court is limited to
+12 sentencing the minor defendant to a term of imprisonment in the
+13 custody of the department of corrections and rehabilitation.
+14 d. (4) A fine.
+15 e. (5) Restitution for damages resulting from the commission of the offense.
+16 f. (6) Restoration of damaged property or other appropriate work detail.
+17 g. (7) Commitment to an appropriate licensed public or private institution for
+18 treatment of alcoholism, drug addiction, or mental disease or defect.
+19 h. (8) Commitment to a sexual offender treatment program.
+20 i. (9) Drug court program. A drug court is a district court supervised treatment
+21 program approved by the supreme court which combines judicial
+22 supervision with alcohol and drug testing and substance use disorder
+23 treatment in a licensed treatment program. The supreme court may adopt
+24 rules, including rules of procedure, for drug court programs.
+25 j. (10) Veterans treatment docket. A veterans treatment docket is a district court
+26 supervised docket approved by the supreme court which combines judicial
+27 supervision with licensed treatment programs to treat substance use
+28 disorders, mental health conditions, behavioral health conditions, traumatic
+29 brain injuries, military sexual trauma, and co-occurring disorders. The
+30 supreme court may adopt rules, including rules of procedure, for veterans
+31 treatment dockets.
+Page No. 4 25.0876.02000
+Sixty-ninth
+Legislative Assembly
+1 k. (11) Completion of a restorative justice program. For purposes of this section,
+2 "restorative justice program" means a system of justice which focuses on
+3 the rehabilitation of offenders through reconciliation with victims and the
+4 community at large.
+5 l. (12) Mental health court program. A mental health court is a district court
+6 supervised treatment program approved by the supreme court which
+7 combines judicial supervision with mental health services and treatment in a
+8 licensed treatment program. The supreme court may adopt rules, including
+9 rules of procedure, for mental health court programs.
+10 (13) An order prohibiting contact.
+11 b. Except as provided byin section 12.1-32-06.1, sentences imposed under this
+12 subsection may not exceed in duration the maximum sentences of imprisonment
+13 provided by section 12.1-32-01, section 12.1-32-09, or as provided specifically in
+14 a statute defining an offense. This subsection does not permit the unconditional
+15 discharge of an offender following conviction. A sentence under subdivision
+16 eparagraph 5 or f6 of subdivision a must be imposed in the manner provided in
+17 section 12.1-32-08. If the person is sentenced to a term of imprisonment, the
+18 court may prohibit the person from contacting the victim during the term of
+19 imprisonment. For purposes of this subsection, "victim" means victim as defined
+20 in section 12.1-34-01.
+21 SECTION 3. AMENDMENT. Subdivision h of subsection 5 of section 39-08-01 of the North
+22 Dakota Century Code is amended and reenacted as follows:
+23 h. If the penalty mandated by this section includes imprisonment or placement upon
+24 conviction of a violation of this section or equivalent ordinance, and if an
+25 addiction evaluation has indicated that the defendant needs treatment, the court
+26 may order the defendant to undergo treatment at an appropriate licensed
+27 addiction treatment program under subdivision g of subsection 1 of section
+28 12.1-32-02 and the time spent by the defendant in the treatment must be credited
+29 as a portion of a sentence of imprisonment or placement under this section. A
+30 court may not order the department of corrections and rehabilitation to be
+31 responsible for the costs of treatment in a private treatment facility.
+Page No. 5 25.0876.02000
+[DELETED: .a.I12]
+[DELETED: .A.I.I.W.O22]
+[DELETED: .O.O.A.A.a.E.()P.()P32]
+[DELETED: .()A)()I)()I)()I)()I.()A.()R.()R.()C.()C.()D.()V42]
+[DELETED: .()C.()M)A.E.I52]
+
+
+================================================================================
+
+Raw Text:
+25.0876.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1336
+Introduced by
+Representatives Satrom, Grueneich, Ostlie
+Senators Conley, Dwyer
+1 A BILL for an Act to amend and reenact section 12.1-31.2-02, subsection 1 of section
+2 12.1-32-02, and subdivision h of subsection 5 of section 39-08-01 of the North Dakota Century
+3 Code, relating to orders prohibiting contact and use of orders prohibiting contact as an
+4 alternative to sentencing.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 12.1-31.2-02 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 12.1-31.2-02. Order prohibiting contact.
+9 1. a. If an individual who is charged with or, arrested for, or subject to a sentence or
+10 order deferring imposition of sentence for a crime of violence or threat of
+11 violence, stalking, harassment, or a sex offense is released from custody before
+12 arraignment or trial, the court authorizing the release of the individual, imposing a
+13 sentence, or issuing an order deferring imposition of sentence, shall consider and
+14 may issue an order prohibiting the individual from having contact with the victim.
+15 The order must contain the court's directives and must inform the individual that
+16 any violation of the order constitutes a criminal offense. The state's attorney shall
+17 provide a copy of the order to the victim. The court shall determine at the time of
+18 the individual's arraignment whether an order issued pursuant to this section will
+19 be extended. If the court issues an order pursuant to this section before the time
+20 the individual is charged, the order expires at the individual's arraignment or
+21 within seventy-two hours of issuance if charges against the individual are not
+22 filed.
+Page No. 1 25.0876.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. A party or victim may file a written request with the court to modify or terminate
+2 an order issued under this section. If requested, the court may hold a hearing to
+3 determine whether to grant or deny the request to modify or terminate an order.
+4 c. If an order prohibiting contact is issued upon a charge or arrest, the order
+5 terminates upon dismissal, acquittal, sentence, or order deferring imposition of
+6 sentence. Upon sentence or order deferring imposition of sentence, the court
+7 may issue a new order under this subsection.
+8 2. If the court has probable cause to believe that the individual charged or
+9 arrestedsubject to an order under subsection 1 is likely to use, display, or threaten to
+10 use a firearm or dangerous weapon as defined in section 12.1-01-04 in any further act
+11 of violence, the court shall require that the individual surrender for safekeeping any
+12 firearm or specified dangerous weapon in or subject to the individual's immediate
+13 possession or control, to the sheriff of the county or chief of police of the city in which
+14 the individual resides.
+15 3. WheneverIf an order prohibiting contact is issued, modified, extended, or terminated
+16 under this section, the clerk of court shall forward a copy of the order within one
+17 business day to the appropriate law enforcement agency specified in the order. Upon
+18 receipt of the copy of the order, the law enforcement agency shall enter the order in
+19 the central warrant information system and the national crime information center
+20 database provided by the federal bureau of investigation, or its successor agency.
+21 a. Once the bureau, after consultation with the state court administrator, determines
+22 and implements a method to transmit electronically to the bureau an order
+23 prohibiting contact, the court electronically shall send the full text of the order as
+24 issued, modified, extended, or terminated in accordance with this section and any
+25 data fields identified by the bureau. This electronic submission will fulfill the law
+26 enforcement agency's requirement to enter the order in the central warrant
+27 information system, but will not fulfill its requirement to enter, maintain, and
+28 respond to inquiries regarding the order in the national crime information center
+29 database provided by the federal bureau of investigation, or its successor
+30 agency.
+Page No. 2 25.0876.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Once the bureau, after consultation with the state court administrator, determines
+2 and implements an electronic method to notify law enforcement about the order,
+3 the clerk of court's requirement to forward the order to the law enforcement
+4 agency will be satisfied.
+5 c. Once the bureau, after consultation with the director of state radio, determines
+6 and implements a method to enter the order into the national crime information
+7 center database provided by the federal bureau of investigation, or its successor
+8 agency, the bureau shall enter the order electronically in the national crime
+9 information center database provided by the federal bureau of investigation, or its
+10 successor agency. This electronic entry will fulfill the law enforcement agency's
+11 requirement to enter the order in the national crime information center database
+12 provided by the federal bureau of investigation, or its successor agency, but will
+13 not fulfill its requirement to maintain and respond to inquiries regarding the order
+14 in the national crime information center database provided by the federal bureau
+15 of investigation, or its successor agency.
+16 4. An individual who violates a court order issued under this section is guilty of a class A
+17 misdemeanor.
+18 5. A law enforcement officer shall arrest an individual without a warrant if the officer
+19 determines there is probable cause that the individual has committed the offense of
+20 violating an order prohibiting contact under this section, whether or not the violation
+21 was committed in the presence of the officer. A law enforcement officer who acts in
+22 good faith on probable cause and without malice is immune from any civil or criminal
+23 liability for making an arrest under this subsection.
+24 SECTION 2. AMENDMENT. Subsection 1 of section 12.1-32-02 of the North Dakota
+25 Century Code is amended and reenacted as follows:
+26 1. a. Every person convicted of an offense who is sentenced by the court must be
+27 sentenced to one or a combination of the following alternatives, unless the
+28 sentencing alternatives are otherwise specifically provided in the statute defining
+29 the offense or sentencing is deferred under subsection 4:
+30 a. (1) Payment of the reasonable costs of the person's prosecution.
+31 b. (2) Probation.
+Page No. 3 25.0876.02000
+
+Sixty-ninth
+Legislative Assembly
+1 c. (3) A term of imprisonment, including intermittent imprisonment:
+2 (1) (a) In a state correctional facility in accordance with section 29-27-07, in a
+3 regional corrections center, or in a county jail, if convicted of a felony
+4 or a class A misdemeanor.
+5 (2) (b) In a county jail or in a regional corrections center, if convicted of a
+6 class B misdemeanor.
+7 (3) (c) In a facility or program deemed appropriate for the treatment of the
+8 individual offender, including available community-based or
+9 faith-based programs.
+10 (4) (d) In the case of persons convicted of an offense who are under
+11 eighteen years of age at the time of sentencing, the court is limited to
+12 sentencing the minor defendant to a term of imprisonment in the
+13 custody of the department of corrections and rehabilitation.
+14 d. (4) A fine.
+15 e. (5) Restitution for damages resulting from the commission of the offense.
+16 f. (6) Restoration of damaged property or other appropriate work detail.
+17 g. (7) Commitment to an appropriate licensed public or private institution for
+18 treatment of alcoholism, drug addiction, or mental disease or defect.
+19 h. (8) Commitment to a sexual offender treatment program.
+20 i. (9) Drug court program. A drug court is a district court supervised treatment
+21 program approved by the supreme court which combines judicial
+22 supervision with alcohol and drug testing and substance use disorder
+23 treatment in a licensed treatment program. The supreme court may adopt
+24 rules, including rules of procedure, for drug court programs.
+25 j. (10) Veterans treatment docket. A veterans treatment docket is a district court
+26 supervised docket approved by the supreme court which combines judicial
+27 supervision with licensed treatment programs to treat substance use
+28 disorders, mental health conditions, behavioral health conditions, traumatic
+29 brain injuries, military sexual trauma, and co-occurring disorders. The
+30 supreme court may adopt rules, including rules of procedure, for veterans
+31 treatment dockets.
+Page No. 4 25.0876.02000
+
+Sixty-ninth
+Legislative Assembly
+1 k. (11) Completion of a restorative justice program. For purposes of this section,
+2 "restorative justice program" means a system of justice which focuses on
+3 the rehabilitation of offenders through reconciliation with victims and the
+4 community at large.
+5 l. (12) Mental health court program. A mental health court is a district court
+6 supervised treatment program approved by the supreme court which
+7 combines judicial supervision with mental health services and treatment in a
+8 licensed treatment program. The supreme court may adopt rules, including
+9 rules of procedure, for mental health court programs.
+10 (13) An order prohibiting contact.
+11 b. Except as provided byin section 12.1-32-06.1, sentences imposed under this
+12 subsection may not exceed in duration the maximum sentences of imprisonment
+13 provided by section 12.1-32-01, section 12.1-32-09, or as provided specifically in
+14 a statute defining an offense. This subsection does not permit the unconditional
+15 discharge of an offender following conviction. A sentence under subdivision
+16 eparagraph 5 or f6 of subdivision a must be imposed in the manner provided in
+17 section 12.1-32-08. If the person is sentenced to a term of imprisonment, the
+18 court may prohibit the person from contacting the victim during the term of
+19 imprisonment. For purposes of this subsection, "victim" means victim as defined
+20 in section 12.1-34-01.
+21 SECTION 3. AMENDMENT. Subdivision h of subsection 5 of section 39-08-01 of the North
+22 Dakota Century Code is amended and reenacted as follows:
+23 h. If the penalty mandated by this section includes imprisonment or placement upon
+24 conviction of a violation of this section or equivalent ordinance, and if an
+25 addiction evaluation has indicated that the defendant needs treatment, the court
+26 may order the defendant to undergo treatment at an appropriate licensed
+27 addiction treatment program under subdivision g of subsection 1 of section
+28 12.1-32-02 and the time spent by the defendant in the treatment must be credited
+29 as a portion of a sentence of imprisonment or placement under this section. A
+30 court may not order the department of corrections and rehabilitation to be
+31 responsible for the costs of treatment in a private treatment facility.
+Page No. 5 25.0876.02000
+
+[DELETED: .a.I12]
+[DELETED: .A.I.I.W.O22]
+[DELETED: .O.O.A.A.a.E.()P.()P32]
+[DELETED: .()A)()I)()I)()I)()I.()A.()R.()R.()C.()C.()D.()V42]
+[DELETED: .()C.()M)A.E.I52]

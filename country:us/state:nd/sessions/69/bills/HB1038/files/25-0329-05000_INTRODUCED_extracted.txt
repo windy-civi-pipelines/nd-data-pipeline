@@ -1,0 +1,221 @@
+Title: HOUSE BILL NO. 1038
+Official Title: HOUSE BILL NO. 1038
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0329.05000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Nathe, Bosch, Hagert, Lefor, Mitskog, O'Brien, Schreiber-Beck, Stemen,
+Vigesaa
+Senators Axtman, Bekkedahl, Hogue
+1 A BILL for an Act to provide an appropriation to the department of commerce for an uncrewed
+2 aerial vehicle replacement program and a state radar data pathfinder program; to provide for a
+3 report; and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. APPROPRIATION - DEPARTMENT OF COMMERCE - STRATEGIC
+6 INVESTMENT AND IMPROVEMENTS FUND - UNCREWED AERIAL VEHICLE
+7 REPLACEMENT PROGRAM - LEGISLATIVE MANAGEMENT REPORT - ONE-TIME
+8 FUNDING. There is appropriated out of any moneys in the strategic investment and
+9 improvements fund in the state treasury, not otherwise appropriated, the sum of $15,000,000, or
+10 so much of the sum as may be necessary, to the department of commerce for the purpose of
+11 administering an uncrewed aerial vehicle replacement program, for the period beginning with
+12 the effective date of this Act, and ending June 30, 2027. This funding is considered a one-time
+13 funding item.
+14 1. The department of commerce shall collaborate with the uncrewed aircraft systems test
+15 site established in section 54-60-28 and state agencies, including institutions under
+16 the control of the state board of higher education, to replace uncrewed aerial vehicles
+17 owned by the state which do not comply with requirements of the federal National
+18 Defense Authorization Act and the American Security Drone Act of 2023. A state
+19 agency owning an uncrewed aerial vehicle before January 1, 2025, is eligible to
+20 receive a new uncrewed aerial vehicle that is in compliance with federal requirements
+21 and is of equivalent capability to the agency's existing uncrewed aerial vehicle. The
+22 department of commerce shall purchase each uncrewed aerial vehicle based on the
+23 needs of the agency and a recommendation from the uncrewed aircraft systems test
+Page No. 1 25.0329.05000
+Sixty-ninth
+Legislative Assembly
+1 site and provide the uncrewed aerial vehicle to the agency. The department of
+2 commerce shall use a portion of the funding provided in this section to pay for training
+3 needed for agency staff to operate the new uncrewed aerial vehicle. The department
+4 of commerce and uncrewed aircraft systems test site shall give priority to state
+5 agencies willing to share uncrewed aerial vehicles rather than purchasing multiple
+6 uncrewed aerial vehicles.
+7 2. Any uncrewed aerial vehicle replaced under this section must be remitted to the
+8 uncrewed aircraft systems test site for proper decommissioning and disposal pursuant
+9 to federal and state regulations, which may include the sale of uncrewed aerial
+10 vehicles to the United States department of homeland security at market rates for use
+11 in the counter unmanned aircraft system program. The department of commerce shall
+12 remit any funding received under this section to the state treasurer for deposit in the
+13 general fund.
+14 3. The department of commerce shall maintain an inventory of uncrewed aerial vehicles
+15 purchased for state agencies under this section and encourage state agencies to use
+16 the state beyond visual line of sight program. The uncrewed aircraft systems test site
+17 shall provide guidance to state agencies regarding the integration of uncrewed aerial
+18 vehicles into the beyond visual line of sight system and proper maintenance schedules
+19 for uncrewed aerial vehicles. The uncrewed aircraft systems test site shall establish a
+20 centralized system for state agencies to register uncrewed aerial vehicles and
+21 authorized operators for accessing the beyond visual line of sight system and shall
+22 provide operational support when state agencies use uncrewed aircraft systems test
+23 site integrated platforms.
+24 4. During the 2025-26 interim, the department of commerce shall compile information
+25 from state agencies and provide a report to the legislative management by June 30,
+26 2026, regarding the status of the program, funding spent on uncrewed aerial vehicle
+27 replacements and training costs, the number of uncrewed aerial vehicles replaced in
+28 each state agency, the number of uncrewed aerial vehicles sold or disposed, and any
+29 future needs for each state agency to be compliant with the federal National Defense
+30 Authorization Act and the American Security Drone Act of 2023.
+Page No. 2 25.0329.05000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. APPROPRIATION - DEPARTMENT OF COMMERCE - STRATEGIC
+2 INVESTMENT AND IMPROVEMENTS FUND - STATE RADAR DATA PATHFINDER
+3 PROGRAM - LEGISLATIVE MANAGEMENT REPORT - ONE-TIME FUNDING. There is
+4 appropriated out of any moneys in the strategic investment and improvements fund in the state
+5 treasury, not otherwise appropriated, the sum of $11,000,000, or so much of the sum as may be
+6 necessary, to the department of commerce for the purpose of administering a state radar data
+7 pathfinder program, for the period beginning with the effective date of this Act, and ending
+8 June 30, 2027. This funding is considered a one-time funding item.
+9 1. The department of commerce shall collaborate with the uncrewed aircraft systems test
+10 site established in section 54-60-28 in administering the state radar data pathfinder
+11 program and participating in the federal radar data pathfinder program administered by
+12 the federal aviation administration. The department of commerce shall use funding
+13 appropriated in this section to:
+14 a. Support the integration of federal radar data with state uncrewed aircraft systems
+15 and the beyond visual line of sight program.
+16 b. Develop and implement security control protocols that meet federal aviation
+17 administration radar data requirements to ensure compliance with national
+18 security standards.
+19 c. Enhance uncrewed aircraft systems and radar data infrastructure in the state.
+20 d. Increase the safety and effectiveness of the operations of the uncrewed aircraft
+21 systems test site.
+22 e. Provide state agencies with training and technical resources to use federal radar
+23 data securely while using the beyond visual line of sight program.
+24 2. During the 2025-26 interim, the department of commerce shall provide a report to the
+25 legislative management and the governor by June 30, 2026, regarding the status of
+26 the state radar data pathfinder program, integration of the state program with the
+27 federal aviation administration radar data pathfinder program, expenditures to date,
+28 and the effect of the program on uncrewed aircraft system operations, safety, and data
+29 security in the state.
+30 SECTION 3. EMERGENCY. This Act is declared to be an emergency measure.
+Page No. 3 25.0329.05000
+[DELETED: .T12]
+[DELETED: .A.T.D22]
+[DELETED: .T.S.D.E.I.P.D32]
+
+
+================================================================================
+
+Raw Text:
+25.0329.05000
+Sixty-ninth
+HOUSE BILL NO. 1038
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Nathe, Bosch, Hagert, Lefor, Mitskog, O'Brien, Schreiber-Beck, Stemen,
+Vigesaa
+Senators Axtman, Bekkedahl, Hogue
+1 A BILL for an Act to provide an appropriation to the department of commerce for an uncrewed
+2 aerial vehicle replacement program and a state radar data pathfinder program; to provide for a
+3 report; and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. APPROPRIATION - DEPARTMENT OF COMMERCE - STRATEGIC
+6 INVESTMENT AND IMPROVEMENTS FUND - UNCREWED AERIAL VEHICLE
+7 REPLACEMENT PROGRAM - LEGISLATIVE MANAGEMENT REPORT - ONE-TIME
+8 FUNDING. There is appropriated out of any moneys in the strategic investment and
+9 improvements fund in the state treasury, not otherwise appropriated, the sum of $15,000,000, or
+10 so much of the sum as may be necessary, to the department of commerce for the purpose of
+11 administering an uncrewed aerial vehicle replacement program, for the period beginning with
+12 the effective date of this Act, and ending June 30, 2027. This funding is considered a one-time
+13 funding item.
+14 1. The department of commerce shall collaborate with the uncrewed aircraft systems test
+15 site established in section 54-60-28 and state agencies, including institutions under
+16 the control of the state board of higher education, to replace uncrewed aerial vehicles
+17 owned by the state which do not comply with requirements of the federal National
+18 Defense Authorization Act and the American Security Drone Act of 2023. A state
+19 agency owning an uncrewed aerial vehicle before January 1, 2025, is eligible to
+20 receive a new uncrewed aerial vehicle that is in compliance with federal requirements
+21 and is of equivalent capability to the agency's existing uncrewed aerial vehicle. The
+22 department of commerce shall purchase each uncrewed aerial vehicle based on the
+23 needs of the agency and a recommendation from the uncrewed aircraft systems test
+Page No. 1 25.0329.05000
+
+Sixty-ninth
+Legislative Assembly
+1 site and provide the uncrewed aerial vehicle to the agency. The department of
+2 commerce shall use a portion of the funding provided in this section to pay for training
+3 needed for agency staff to operate the new uncrewed aerial vehicle. The department
+4 of commerce and uncrewed aircraft systems test site shall give priority to state
+5 agencies willing to share uncrewed aerial vehicles rather than purchasing multiple
+6 uncrewed aerial vehicles.
+7 2. Any uncrewed aerial vehicle replaced under this section must be remitted to the
+8 uncrewed aircraft systems test site for proper decommissioning and disposal pursuant
+9 to federal and state regulations, which may include the sale of uncrewed aerial
+10 vehicles to the United States department of homeland security at market rates for use
+11 in the counter unmanned aircraft system program. The department of commerce shall
+12 remit any funding received under this section to the state treasurer for deposit in the
+13 general fund.
+14 3. The department of commerce shall maintain an inventory of uncrewed aerial vehicles
+15 purchased for state agencies under this section and encourage state agencies to use
+16 the state beyond visual line of sight program. The uncrewed aircraft systems test site
+17 shall provide guidance to state agencies regarding the integration of uncrewed aerial
+18 vehicles into the beyond visual line of sight system and proper maintenance schedules
+19 for uncrewed aerial vehicles. The uncrewed aircraft systems test site shall establish a
+20 centralized system for state agencies to register uncrewed aerial vehicles and
+21 authorized operators for accessing the beyond visual line of sight system and shall
+22 provide operational support when state agencies use uncrewed aircraft systems test
+23 site integrated platforms.
+24 4. During the 2025-26 interim, the department of commerce shall compile information
+25 from state agencies and provide a report to the legislative management by June 30,
+26 2026, regarding the status of the program, funding spent on uncrewed aerial vehicle
+27 replacements and training costs, the number of uncrewed aerial vehicles replaced in
+28 each state agency, the number of uncrewed aerial vehicles sold or disposed, and any
+29 future needs for each state agency to be compliant with the federal National Defense
+30 Authorization Act and the American Security Drone Act of 2023.
+Page No. 2 25.0329.05000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. APPROPRIATION - DEPARTMENT OF COMMERCE - STRATEGIC
+2 INVESTMENT AND IMPROVEMENTS FUND - STATE RADAR DATA PATHFINDER
+3 PROGRAM - LEGISLATIVE MANAGEMENT REPORT - ONE-TIME FUNDING. There is
+4 appropriated out of any moneys in the strategic investment and improvements fund in the state
+5 treasury, not otherwise appropriated, the sum of $11,000,000, or so much of the sum as may be
+6 necessary, to the department of commerce for the purpose of administering a state radar data
+7 pathfinder program, for the period beginning with the effective date of this Act, and ending
+8 June 30, 2027. This funding is considered a one-time funding item.
+9 1. The department of commerce shall collaborate with the uncrewed aircraft systems test
+10 site established in section 54-60-28 in administering the state radar data pathfinder
+11 program and participating in the federal radar data pathfinder program administered by
+12 the federal aviation administration. The department of commerce shall use funding
+13 appropriated in this section to:
+14 a. Support the integration of federal radar data with state uncrewed aircraft systems
+15 and the beyond visual line of sight program.
+16 b. Develop and implement security control protocols that meet federal aviation
+17 administration radar data requirements to ensure compliance with national
+18 security standards.
+19 c. Enhance uncrewed aircraft systems and radar data infrastructure in the state.
+20 d. Increase the safety and effectiveness of the operations of the uncrewed aircraft
+21 systems test site.
+22 e. Provide state agencies with training and technical resources to use federal radar
+23 data securely while using the beyond visual line of sight program.
+24 2. During the 2025-26 interim, the department of commerce shall provide a report to the
+25 legislative management and the governor by June 30, 2026, regarding the status of
+26 the state radar data pathfinder program, integration of the state program with the
+27 federal aviation administration radar data pathfinder program, expenditures to date,
+28 and the effect of the program on uncrewed aircraft system operations, safety, and data
+29 security in the state.
+30 SECTION 3. EMERGENCY. This Act is declared to be an emergency measure.
+Page No. 3 25.0329.05000
+
+[DELETED: .T12]
+[DELETED: .A.T.D22]
+[DELETED: .T.S.D.E.I.P.D32]

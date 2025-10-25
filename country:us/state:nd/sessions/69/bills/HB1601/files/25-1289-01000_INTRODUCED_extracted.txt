@@ -1,0 +1,181 @@
+Title: HOUSE BILL NO. 1601
+Official Title: HOUSE BILL NO. 1601
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1289.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives O'Brien, McLeod, Satrom, Nelson, Bahl
+Senators Lee, Roers
+1 A BILL for an Act to amend and reenact section 54-12-08 of the North Dakota Century Code,
+2 relating to special assistant attorney generals.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 54-12-08 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 54-12-08. Assistant and special assistant attorneys general - Appointment -
+7 Revocation - Compensation.
+8 1. AfterExcept as provided under subsection 2, after consultation with the head of the
+9 state department or institution or with the state board, commission, committee, or
+10 agency affected, the attorney general may appoint assistant or special assistant
+11 attorneys general to represent the state board, commission, committee, or agency.
+12 a. A state officer, head of any state department, whether elected or appointed, or
+13 state department, board, commission, committee, or agency may not employ
+14 legal counsel, and no person may act as legal counsel in any matter, action, or
+15 proceeding in which the state or any state department, board, commission,
+16 committee, or agency is interested or is a party, except upon written appointment
+17 by the attorney general.
+18 b. Workforce safety and insurance, the department of transportation, the state tax
+19 commissioner, the public service commission, the insurance commissioner, the
+20 agriculture commissioner, and the securities commissioner may employ attorneys
+21 to represent them. These entities shall pay the salaries and expenses of the
+22 attorneys they employ within the limits of legislative appropriations.
+23 c. The attorneys that represent these entities must be special assistant attorneys
+24 general appointed by the attorney general pursuant to this section. Absent good
+Page No. 1 25.1289.01000
+Sixty-ninth
+Legislative Assembly
+1 cause, the attorney general shall appoint as special assistant attorneys general
+2 licensed attorneys selected by these entities. The attorney general may revoke
+3 the appointment only for good cause or upon the request of the entity. Good
+4 cause means an inadequate level of experience, competence, or ethical
+5 standards.
+6 2. The attorney general may not revoke with good cause, an appointed special assistant
+7 attorney general licensed to practice law in the state, in good standing, and employed
+8 by the:
+9 a. Governor;
+10 b. Agriculture commissioner;
+11 c. State auditor;
+12 d. Insurance commissioner;
+13 e. Public service commissioner;
+14 f. Secretary of state;
+15 g. Superintendent of public instruction;
+16 h. Tax commissioner; or
+17 i. State treasurer.
+18 3. The powers conferred upon special assistant attorneys general are the same as are
+19 exercised by the regular assistant attorneys general, unless the powers are limited
+20 specifically by the terms of the appointment. Except as otherwise provided by this
+21 section, an appointment is revocable at the pleasure of the attorney general. The
+22 appointment may be made with or without compensation, and when compensation is
+23 allowed by the attorney general for services performed, the compensation must be
+24 paid out of the funds appropriated therefor.
+25 3.4. The attorney general may require payment for legal services rendered by any
+26 assistant or special assistant attorney general to any state official, board, department,
+27 agency, or commission and those entities shall make the required payment to the
+28 attorney general. Moneys received by the attorney general in payment for legal
+29 services rendered must be deposited into the attorney general's operating fund.
+30 General fund moneys may not be utilized for the payment of legal services provided by
+31 the attorneys employed by the attorney general, except for those payments required of
+Page No. 2 25.1289.01000
+Sixty-ninth
+Legislative Assembly
+1 the department of health and human services, department of environmental quality,
+2 and the state hospital.
+3 4.5. An assistant or special assistant attorney general appointed to represent the state
+4 board of higher education or an institution under the control of the state board of
+5 higher education may access and examine any record under the control of the state
+6 board of higher education. For purposes of reviewing records under the Family
+7 Educational Rights and Privacy Act [20 U.S.C. 1232g; 34 CFR 99] or any other federal
+8 privacy law, the assistant or special assistant attorney general is considered a state
+9 educational official authorized to access student records.
+Page No. 3 25.1289.01000
+[DELETED: .A.A.W.T12]
+[DELETED: .T.G.A.S.I.P.S.S.T.S.T.T22]
+[DELETED: .A32]
+
+
+================================================================================
+
+Raw Text:
+25.1289.01000
+Sixty-ninth
+HOUSE BILL NO. 1601
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives O'Brien, McLeod, Satrom, Nelson, Bahl
+Senators Lee, Roers
+1 A BILL for an Act to amend and reenact section 54-12-08 of the North Dakota Century Code,
+2 relating to special assistant attorney generals.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 54-12-08 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 54-12-08. Assistant and special assistant attorneys general - Appointment -
+7 Revocation - Compensation.
+8 1. AfterExcept as provided under subsection 2, after consultation with the head of the
+9 state department or institution or with the state board, commission, committee, or
+10 agency affected, the attorney general may appoint assistant or special assistant
+11 attorneys general to represent the state board, commission, committee, or agency.
+12 a. A state officer, head of any state department, whether elected or appointed, or
+13 state department, board, commission, committee, or agency may not employ
+14 legal counsel, and no person may act as legal counsel in any matter, action, or
+15 proceeding in which the state or any state department, board, commission,
+16 committee, or agency is interested or is a party, except upon written appointment
+17 by the attorney general.
+18 b. Workforce safety and insurance, the department of transportation, the state tax
+19 commissioner, the public service commission, the insurance commissioner, the
+20 agriculture commissioner, and the securities commissioner may employ attorneys
+21 to represent them. These entities shall pay the salaries and expenses of the
+22 attorneys they employ within the limits of legislative appropriations.
+23 c. The attorneys that represent these entities must be special assistant attorneys
+24 general appointed by the attorney general pursuant to this section. Absent good
+Page No. 1 25.1289.01000
+
+Sixty-ninth
+Legislative Assembly
+1 cause, the attorney general shall appoint as special assistant attorneys general
+2 licensed attorneys selected by these entities. The attorney general may revoke
+3 the appointment only for good cause or upon the request of the entity. Good
+4 cause means an inadequate level of experience, competence, or ethical
+5 standards.
+6 2. The attorney general may not revoke with good cause, an appointed special assistant
+7 attorney general licensed to practice law in the state, in good standing, and employed
+8 by the:
+9 a. Governor;
+10 b. Agriculture commissioner;
+11 c. State auditor;
+12 d. Insurance commissioner;
+13 e. Public service commissioner;
+14 f. Secretary of state;
+15 g. Superintendent of public instruction;
+16 h. Tax commissioner; or
+17 i. State treasurer.
+18 3. The powers conferred upon special assistant attorneys general are the same as are
+19 exercised by the regular assistant attorneys general, unless the powers are limited
+20 specifically by the terms of the appointment. Except as otherwise provided by this
+21 section, an appointment is revocable at the pleasure of the attorney general. The
+22 appointment may be made with or without compensation, and when compensation is
+23 allowed by the attorney general for services performed, the compensation must be
+24 paid out of the funds appropriated therefor.
+25 3.4. The attorney general may require payment for legal services rendered by any
+26 assistant or special assistant attorney general to any state official, board, department,
+27 agency, or commission and those entities shall make the required payment to the
+28 attorney general. Moneys received by the attorney general in payment for legal
+29 services rendered must be deposited into the attorney general's operating fund.
+30 General fund moneys may not be utilized for the payment of legal services provided by
+31 the attorneys employed by the attorney general, except for those payments required of
+Page No. 2 25.1289.01000
+
+Sixty-ninth
+Legislative Assembly
+1 the department of health and human services, department of environmental quality,
+2 and the state hospital.
+3 4.5. An assistant or special assistant attorney general appointed to represent the state
+4 board of higher education or an institution under the control of the state board of
+5 higher education may access and examine any record under the control of the state
+6 board of higher education. For purposes of reviewing records under the Family
+7 Educational Rights and Privacy Act [20 U.S.C. 1232g; 34 CFR 99] or any other federal
+8 privacy law, the assistant or special assistant attorney general is considered a state
+9 educational official authorized to access student records.
+Page No. 3 25.1289.01000
+
+[DELETED: .A.A.W.T12]
+[DELETED: .T.G.A.S.I.P.S.S.T.S.T.T22]
+[DELETED: .A32]

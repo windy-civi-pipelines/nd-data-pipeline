@@ -1,0 +1,290 @@
+Title: HOUSE BILL NO. 1514
+Official Title: HOUSE BILL NO. 1514
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25.1002.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Morton, Frelich, Heilman, Kasper, S. Olson, Rohr, Steiner, VanWinkle, Wolff
+Senators Magrum, Powers
+1 A BILL for an Act to create and enact a new chapter to title 23.1 of the North Dakota Century
+2 Code, relating to harmful atmospheric activity; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 23.1 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 As used i n this chapter :
+8 1. "Aircraft" means any contrivance invented, used, or designed for navigation or flight in
+9 the air. The term includes a drone.
+10 2. "Cloud seeding" means a type of weather modification that attempts to change the
+11 amount or type of precipitation by dispersing chemicals into the air by means of an
+12 aircraft or a ground generator, including silver iodide, potassium iodide, or dry ice.
+13 3. "Director" means the director of the department of environmental quality.
+14 4. "Stratospheric aerosol injection" means a method of solar radiation modification which
+15 introduces aerosols into the atmosphere to reduce sunlight.
+16 5. "Weather engineering" means altering or manipulating the weather.
+17 6. "Xenobiotic" means a foreign substance to the human body or to an ecological
+18 system.
+19 Polluting atmospheric activity - Penalty.
+20 1. A person may not engage in a polluting atmospheric activity or use an unmarked or
+21 unidentified aircraft, vehicle, or facility for weather engineering, cloud seeding,
+22 stratospheric aerosol injection, or other atmospheric activity that is harmful to a human
+23 or the environment, including the production of excessive electromagnetic radiation.
+Page No. 1 25.1002.02000
+Sixty-ninth
+Legislative Assembly
+1 2. Any person that violates this section is guilty of a class C felony and subject to a fine
+2 of not more than five hundred thousand dollars.
+3 Reporting and investigative requirements.
+4 1. Any individual may report an aircraft, facility, or other delivery system used for weather
+5 engineering, cloud seeding, stratospheric aerosol injection, or any atmospheric
+6 experimentation involving the release of polluting emissions to the sheriff in the county
+7 in which the activity was observed or suspected. If the sheriff finds the evidence
+8 reported to be credible, the sheriff shall investigate the reported activity and may
+9 report any prohibited activity to the county state's attorney for prosecution.
+10 2. The director and each county sheriff shall encourage the public to monitor, measure,
+11 document, and report any incident that may constitute cloud seeding, stratospheric
+12 aerosol injection, weather engineering, or any other polluting atmospheric activity. An
+13 individual with evidence of a polluting atmospheric activity may report the activity to
+14 the director or the sheriff by submitting:
+15 a. A photograph that includes the date, time, and location the photograph was
+16 taken;
+17 b. An independent precipitation analysis report, audiography, microscopy,
+18 spectrometry, metering, or any other form of evidence; or
+19 c. A video recording of activity involving the release of polluting atmospheric
+20 emissions.
+21 3. If the director suspects prohibited activity has occurred based on the evidence
+22 provided, the director shall report all documentary and supportive evidence to the
+23 sheriff in writing within twenty-four hours.
+24 a. The director shall provide technical assistance and analysis of pollutants as
+25 needed.
+26 b. The sheriff may request assistance from the bureau of criminal investigation to
+27 investigate any prohibited activity the sheriff suspects occurred or is occurring.
+28 4. If a report is made to the director or a sheriff alleging polluting atmospheric emissions,
+29 the director or sheriff shall investigate the source and content of the emissions. If the
+30 emissions are harmful to humans or the environment, as demonstrated by a primary
+Page No. 2 25.1002.02000
+Sixty-ninth
+Legislative Assembly
+1 scientific source, the sheriff shall take enforcement actions in accordance with this
+2 chapter.
+3 5. The director or sheriff shall take the following emergency measurements at the
+4 reported location where a suspected violation of this chapter occurred within two hours
+5 of receiving the report:
+6 a. Excessive electromagnetic radiation or fields, including microwave or maser,
+7 infrared light or laser, or ionizing or non-ionizing radiation; or
+8 b. Excessive mechanical vibration, noise, or other physical agent.
+9 6. If professional metering or monitoring equipment is needed but not available to the
+10 state or county, the director or sheriff shall partner with an institution of higher
+11 education to investigate and provide evidentiary findings that would qualify as scientific
+12 expert testimony.
+13 Enforcement actions.
+14 1. If the director or sheriff has reason to believe an individual is violating, has violated, or
+15 is attempting to violate this chapter, the director or sheriff shall issue and serve an
+16 order to cease the activity.
+17 2. The governor may request the adjutant general to identify and notify the owner or
+18 operator of any aircraft or facility releasing aerosol emissions, electromagnetic
+19 radiation, or other pollutants into the atmosphere to cease the activity. The adjutant
+20 general shall order the operator of an aircraft releasing aerosol emissions,
+21 electromagnetic radiation, or other pollutants into the atmosphere to land at the
+22 nearest airport to be investigated for violating this chapter. The governor may request
+23 the bureau of criminal investigation to investigate any activity that may violate this
+24 chapter.
+25 3. The governor may request the department of environmental quality for an
+26 environmental study to investigate a violation of this chapter.
+27 Xenobiotic agents and radiation - Enforcement.
+28 If the director or sheriff receives information alleging weather engineering or other
+29 atmospheric experimentation involving the release of a xenobiotic agent or the production of
+30 harmful levels of electromagnetic radiation, the director or sheriff shall:
+Page No. 3 25.1002.02000
+Sixty-ninth
+Legislative Assembly
+1 1. Immediately require the owner or operator of the facility, aircraft, or other vehicle
+2 releasing the xenobiotic agent or producing electromagnetic radiation to produce a
+3 record of any site where a xenobiotic agent or radiation has been detected and convey
+4 the records to the director or sheriff.
+5 2. Immediately order the owner or operator to cease operations of the facility, aircraft, or
+6 other vehicle; and
+7 3. Verify within twenty-four hours that the owner or operator has stopped all operations
+8 relating to the release of xenobiotic agents or the production of electromagnetic
+9 radiation.
+10 Electromagnetic disturbances - Enforcement.
+11 1. The director or sheriff immediately shall require the owner or operator of each tower,
+12 antenna, or other facility or infrastructure to produce a record of any operation where
+13 excessive xenobiotic electromagnetism and fields, mechanical vibrations, or other
+14 physical agents, are or have been detected, specifically:
+15 a. Radio frequency or microwave radiation at any reported publicly accessible
+16 location in excess of negative eighty-five decibel-milliwatts;
+17 b. Extreme-low-frequency alternating current electric fields in excess of one volt per
+18 eighty-two feet [25 meters];
+19 c. Magnetic fields in excess of one milligauss;
+20 d. Ionizing radiation in excess of 0.02 millisievert per hour;
+21 e. Laser or other light with harmful effects; and
+22 f. Any vibration, noise, laser, sonic weapon, or other physical agent exceeding
+23 building or biology guidelines.
+24 2. The owner or operator shall convey the records to the director or sheriff within twenty-
+25 four hours.
+26 3. The director or sheriff shall:
+27 a. Immediately order a cessation of operations of all antennas and other
+28 deployments of energy or vibration emitted from the structure or facility.
+29 b. Verify within twenty-four hours that the owner or operator has ceased all
+30 operations of antennas and other deployments of energy or vibration; and
+31 c. Refer suspected criminal activity to the county state's attorney for prosecution.
+Page No. 4 25.1002.02000
+[DELETED: .".".".".".".A12]
+[DELETED: .A.A.T.A.A.A.I.T.T.I22]
+[DELETED: .T.E.E.I.I.T.T32]
+[DELETED: .I.I.V.T.R.E.M.I.L.A.T.T.I.V.R42]
+
+
+================================================================================
+
+Raw Text:
+25.1002.02000
+Sixty-ninth
+HOUSE BILL NO. 1514
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Morton, Frelich, Heilman, Kasper, S. Olson, Rohr, Steiner, VanWinkle, Wolff
+Senators Magrum, Powers
+1 A BILL for an Act to create and enact a new chapter to title 23.1 of the North Dakota Century
+2 Code, relating to harmful atmospheric activity; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 23.1 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 As used i n this chapter :
+8 1. "Aircraft" means any contrivance invented, used, or designed for navigation or flight in
+9 the air. The term includes a drone.
+10 2. "Cloud seeding" means a type of weather modification that attempts to change the
+11 amount or type of precipitation by dispersing chemicals into the air by means of an
+12 aircraft or a ground generator, including silver iodide, potassium iodide, or dry ice.
+13 3. "Director" means the director of the department of environmental quality.
+14 4. "Stratospheric aerosol injection" means a method of solar radiation modification which
+15 introduces aerosols into the atmosphere to reduce sunlight.
+16 5. "Weather engineering" means altering or manipulating the weather.
+17 6. "Xenobiotic" means a foreign substance to the human body or to an ecological
+18 system.
+19 Polluting atmospheric activity - Penalty.
+20 1. A person may not engage in a polluting atmospheric activity or use an unmarked or
+21 unidentified aircraft, vehicle, or facility for weather engineering, cloud seeding,
+22 stratospheric aerosol injection, or other atmospheric activity that is harmful to a human
+23 or the environment, including the production of excessive electromagnetic radiation.
+Page No. 1 25.1002.02000
+
+Sixty-ninth
+Legislative Assembly
+1 2. Any person that violates this section is guilty of a class C felony and subject to a fine
+2 of not more than five hundred thousand dollars.
+3 Reporting and investigative requirements.
+4 1. Any individual may report an aircraft, facility, or other delivery system used for weather
+5 engineering, cloud seeding, stratospheric aerosol injection, or any atmospheric
+6 experimentation involving the release of polluting emissions to the sheriff in the county
+7 in which the activity was observed or suspected. If the sheriff finds the evidence
+8 reported to be credible, the sheriff shall investigate the reported activity and may
+9 report any prohibited activity to the county state's attorney for prosecution.
+10 2. The director and each county sheriff shall encourage the public to monitor, measure,
+11 document, and report any incident that may constitute cloud seeding, stratospheric
+12 aerosol injection, weather engineering, or any other polluting atmospheric activity. An
+13 individual with evidence of a polluting atmospheric activity may report the activity to
+14 the director or the sheriff by submitting:
+15 a. A photograph that includes the date, time, and location the photograph was
+16 taken;
+17 b. An independent precipitation analysis report, audiography, microscopy,
+18 spectrometry, metering, or any other form of evidence; or
+19 c. A video recording of activity involving the release of polluting atmospheric
+20 emissions.
+21 3. If the director suspects prohibited activity has occurred based on the evidence
+22 provided, the director shall report all documentary and supportive evidence to the
+23 sheriff in writing within twenty-four hours.
+24 a. The director shall provide technical assistance and analysis of pollutants as
+25 needed.
+26 b. The sheriff may request assistance from the bureau of criminal investigation to
+27 investigate any prohibited activity the sheriff suspects occurred or is occurring.
+28 4. If a report is made to the director or a sheriff alleging polluting atmospheric emissions,
+29 the director or sheriff shall investigate the source and content of the emissions. If the
+30 emissions are harmful to humans or the environment, as demonstrated by a primary
+Page No. 2 25.1002.02000
+
+Sixty-ninth
+Legislative Assembly
+1 scientific source, the sheriff shall take enforcement actions in accordance with this
+2 chapter.
+3 5. The director or sheriff shall take the following emergency measurements at the
+4 reported location where a suspected violation of this chapter occurred within two hours
+5 of receiving the report:
+6 a. Excessive electromagnetic radiation or fields, including microwave or maser,
+7 infrared light or laser, or ionizing or non-ionizing radiation; or
+8 b. Excessive mechanical vibration, noise, or other physical agent.
+9 6. If professional metering or monitoring equipment is needed but not available to the
+10 state or county, the director or sheriff shall partner with an institution of higher
+11 education to investigate and provide evidentiary findings that would qualify as scientific
+12 expert testimony.
+13 Enforcement actions.
+14 1. If the director or sheriff has reason to believe an individual is violating, has violated, or
+15 is attempting to violate this chapter, the director or sheriff shall issue and serve an
+16 order to cease the activity.
+17 2. The governor may request the adjutant general to identify and notify the owner or
+18 operator of any aircraft or facility releasing aerosol emissions, electromagnetic
+19 radiation, or other pollutants into the atmosphere to cease the activity. The adjutant
+20 general shall order the operator of an aircraft releasing aerosol emissions,
+21 electromagnetic radiation, or other pollutants into the atmosphere to land at the
+22 nearest airport to be investigated for violating this chapter. The governor may request
+23 the bureau of criminal investigation to investigate any activity that may violate this
+24 chapter.
+25 3. The governor may request the department of environmental quality for an
+26 environmental study to investigate a violation of this chapter.
+27 Xenobiotic agents and radiation - Enforcement.
+28 If the director or sheriff receives information alleging weather engineering or other
+29 atmospheric experimentation involving the release of a xenobiotic agent or the production of
+30 harmful levels of electromagnetic radiation, the director or sheriff shall:
+Page No. 3 25.1002.02000
+
+Sixty-ninth
+Legislative Assembly
+1 1. Immediately require the owner or operator of the facility, aircraft, or other vehicle
+2 releasing the xenobiotic agent or producing electromagnetic radiation to produce a
+3 record of any site where a xenobiotic agent or radiation has been detected and convey
+4 the records to the director or sheriff.
+5 2. Immediately order the owner or operator to cease operations of the facility, aircraft, or
+6 other vehicle; and
+7 3. Verify within twenty-four hours that the owner or operator has stopped all operations
+8 relating to the release of xenobiotic agents or the production of electromagnetic
+9 radiation.
+10 Electromagnetic disturbances - Enforcement.
+11 1. The director or sheriff immediately shall require the owner or operator of each tower,
+12 antenna, or other facility or infrastructure to produce a record of any operation where
+13 excessive xenobiotic electromagnetism and fields, mechanical vibrations, or other
+14 physical agents, are or have been detected, specifically:
+15 a. Radio frequency or microwave radiation at any reported publicly accessible
+16 location in excess of negative eighty-five decibel-milliwatts;
+17 b. Extreme-low-frequency alternating current electric fields in excess of one volt per
+18 eighty-two feet [25 meters];
+19 c. Magnetic fields in excess of one milligauss;
+20 d. Ionizing radiation in excess of 0.02 millisievert per hour;
+21 e. Laser or other light with harmful effects; and
+22 f. Any vibration, noise, laser, sonic weapon, or other physical agent exceeding
+23 building or biology guidelines.
+24 2. The owner or operator shall convey the records to the director or sheriff within twenty-
+25 four hours.
+26 3. The director or sheriff shall:
+27 a. Immediately order a cessation of operations of all antennas and other
+28 deployments of energy or vibration emitted from the structure or facility.
+29 b. Verify within twenty-four hours that the owner or operator has ceased all
+30 operations of antennas and other deployments of energy or vibration; and
+31 c. Refer suspected criminal activity to the county state's attorney for prosecution.
+Page No. 4 25.1002.02000
+
+[DELETED: .".".".".".".A12]
+[DELETED: .A.A.T.A.A.A.I.T.T.I22]
+[DELETED: .T.E.E.I.I.T.T32]
+[DELETED: .I.I.V.T.R.E.M.I.L.A.T.T.I.V.R42]

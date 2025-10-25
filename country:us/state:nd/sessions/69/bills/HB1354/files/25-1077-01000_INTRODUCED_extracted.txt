@@ -1,0 +1,187 @@
+Title: HOUSE BILL NO. 1354
+Official Title: HOUSE BILL NO. 1354
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1077.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives D. Ruby, Swiontek, Wolff, Vetter
+Senators Barta, Meyer, Thomas
+1 A BILL for an Act to amend and reenact sections 43-23.3-01 and 43-23.3-18 of the North
+2 Dakota Century Code, relating to the definitions of agency and evaluation, the standards of
+3 professional appraisal practice, and appraisal and evaluation guidelines.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 43-23.3-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 43-23.3-01. Definitions.
+8 As used in this chapter, unless the context otherwise requires:
+9 1. "Agency" means:
+10 a. Board of governors of the federal reserve system;
+11 b. Farm credit administration;
+12 c. Federal deposit insurance corporation;
+13 d. National credit union administration;
+14 e. Office of the comptroller of the currency; and
+15 f. State financial regulator.
+16 2. "Analysis" means a study of real estate other than estimating value.
+17 2.3. "Appraisal" means an analysis, opinion, or conclusion relating to the nature, quality,
+18 value, or utility of specified interests in, or aspects of, real estate. An appraisal may be
+19 classified by subject matter into either a valuation or an analysis.
+20 3.4. "Appraisal assignment" means an engagement for which a person is employed or
+21 retained to act, or would be perceived by the public as acting, as a disinterested party
+22 in rendering an unbiased supportable appraisal.
+23 4.5. "Appraisal foundation" means the appraisal foundation incorporated as an Illinois
+24 corporation on November 30, 1987.
+Page No. 1 25.1077.01000
+Sixty-ninth
+Legislative Assembly
+1 5.6. "Appraisal report" means any communication of an appraisal.
+2 6.7. "Appraisal subcommittee" means the appraisal subcommittee of the federal financial
+3 institutions examination council.
+4 7.8. "Appraiser" means a person who engages in appraisal activity for valuable
+5 consideration.
+6 8.9. "Apprentice appraiser" means a person who holds a valid permit as an apprentice
+7 appraiser.
+8 9.10. "Board" means the North Dakota real estate appraiser qualifications and ethics board.
+9 10.11. "Certified appraiser" means a person who holds a valid permit as a certified residential
+10 or general appraiser.
+11 11.12. "Certified general appraiser" means a person who holds a valid permit as a certified
+12 general appraiser.
+13 12.13. "Certified residential appraiser" means a person who holds a valid permit as a certified
+14 residential appraiser.
+15 14. "Evaluation" means an estimate of the value of real property for use in a federally
+16 related real estate financial transaction for which an appraisal is not required by
+17 federal law.
+18 13.15. "Licensed appraiser" means a person who holds a valid permit as a licensed
+19 appraiser.
+20 14.16. "Permit" means the document issued by the board, verifying that the person named on
+21 the permit has fulfilled all prerequisites to practice either as an apprentice appraiser, a
+22 licensed appraiser, or a certified appraiser.
+23 15.17. "Real estate" means an identified parcel or tract of land including improvements, and
+24 interests, benefits, and rights inherent in the ownership of real estate.
+25 16.18. "Uniform standards of professional appraisal practices" means standards of appraisal
+26 promulgated by the appraisal standards board of the appraisal foundation as adopted
+27 by the board.
+28 17.19. "Valuation" means an estimate of the value of real estate or real property.
+29 SECTION 2. AMENDMENT. Section 43-23.3-18 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 2 25.1077.01000
+Sixty-ninth
+Legislative Assembly
+1 43-23.3-18. Standards of professional appraisal practice - Exception - Appraisal and
+2 evaluation guidelines.
+3 1. An apprentice, licensed, or certified appraiser shall:
+4 a. Shall comply with the standards of professional appraisal practice and ethical
+5 rules specified by the uniform standards of professional appraisal practice and all
+6 other standards and ethical requirements adopted by the appraisal standards
+7 board of the appraisal foundation , except as authorized under subdivision b .
+8 b. May provide an evaluation to an institution regulated by an agency without
+9 complying with the uniform standards of professional appraisal practice. An
+10 evaluation must:
+11 (1) Comply with the most current evaluation guidelines issued by an agency;
+12 and
+13 (2) Be conspicuously identified as an evaluation.
+Page No. 3 25.1077.01000
+[DELETED: .".B.F.F.N.O.S."."."."12]
+[DELETED: ."."."."."."."."."."."."."."22]
+[DELETED: .A.S.M)C)B32]
+
+
+================================================================================
+
+Raw Text:
+25.1077.01000
+Sixty-ninth
+HOUSE BILL NO. 1354
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives D. Ruby, Swiontek, Wolff, Vetter
+Senators Barta, Meyer, Thomas
+1 A BILL for an Act to amend and reenact sections 43-23.3-01 and 43-23.3-18 of the North
+2 Dakota Century Code, relating to the definitions of agency and evaluation, the standards of
+3 professional appraisal practice, and appraisal and evaluation guidelines.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 43-23.3-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 43-23.3-01. Definitions.
+8 As used in this chapter, unless the context otherwise requires:
+9 1. "Agency" means:
+10 a. Board of governors of the federal reserve system;
+11 b. Farm credit administration;
+12 c. Federal deposit insurance corporation;
+13 d. National credit union administration;
+14 e. Office of the comptroller of the currency; and
+15 f. State financial regulator.
+16 2. "Analysis" means a study of real estate other than estimating value.
+17 2.3. "Appraisal" means an analysis, opinion, or conclusion relating to the nature, quality,
+18 value, or utility of specified interests in, or aspects of, real estate. An appraisal may be
+19 classified by subject matter into either a valuation or an analysis.
+20 3.4. "Appraisal assignment" means an engagement for which a person is employed or
+21 retained to act, or would be perceived by the public as acting, as a disinterested party
+22 in rendering an unbiased supportable appraisal.
+23 4.5. "Appraisal foundation" means the appraisal foundation incorporated as an Illinois
+24 corporation on November 30, 1987.
+Page No. 1 25.1077.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5.6. "Appraisal report" means any communication of an appraisal.
+2 6.7. "Appraisal subcommittee" means the appraisal subcommittee of the federal financial
+3 institutions examination council.
+4 7.8. "Appraiser" means a person who engages in appraisal activity for valuable
+5 consideration.
+6 8.9. "Apprentice appraiser" means a person who holds a valid permit as an apprentice
+7 appraiser.
+8 9.10. "Board" means the North Dakota real estate appraiser qualifications and ethics board.
+9 10.11. "Certified appraiser" means a person who holds a valid permit as a certified residential
+10 or general appraiser.
+11 11.12. "Certified general appraiser" means a person who holds a valid permit as a certified
+12 general appraiser.
+13 12.13. "Certified residential appraiser" means a person who holds a valid permit as a certified
+14 residential appraiser.
+15 14. "Evaluation" means an estimate of the value of real property for use in a federally
+16 related real estate financial transaction for which an appraisal is not required by
+17 federal law.
+18 13.15. "Licensed appraiser" means a person who holds a valid permit as a licensed
+19 appraiser.
+20 14.16. "Permit" means the document issued by the board, verifying that the person named on
+21 the permit has fulfilled all prerequisites to practice either as an apprentice appraiser, a
+22 licensed appraiser, or a certified appraiser.
+23 15.17. "Real estate" means an identified parcel or tract of land including improvements, and
+24 interests, benefits, and rights inherent in the ownership of real estate.
+25 16.18. "Uniform standards of professional appraisal practices" means standards of appraisal
+26 promulgated by the appraisal standards board of the appraisal foundation as adopted
+27 by the board.
+28 17.19. "Valuation" means an estimate of the value of real estate or real property.
+29 SECTION 2. AMENDMENT. Section 43-23.3-18 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 2 25.1077.01000
+
+Sixty-ninth
+Legislative Assembly
+1 43-23.3-18. Standards of professional appraisal practice - Exception - Appraisal and
+2 evaluation guidelines.
+3 1. An apprentice, licensed, or certified appraiser shall:
+4 a. Shall comply with the standards of professional appraisal practice and ethical
+5 rules specified by the uniform standards of professional appraisal practice and all
+6 other standards and ethical requirements adopted by the appraisal standards
+7 board of the appraisal foundation , except as authorized under subdivision b .
+8 b. May provide an evaluation to an institution regulated by an agency without
+9 complying with the uniform standards of professional appraisal practice. An
+10 evaluation must:
+11 (1) Comply with the most current evaluation guidelines issued by an agency;
+12 and
+13 (2) Be conspicuously identified as an evaluation.
+Page No. 3 25.1077.01000
+
+[DELETED: .".B.F.F.N.O.S."."."."12]
+[DELETED: ."."."."."."."."."."."."."."22]
+[DELETED: .A.S.M)C)B32]

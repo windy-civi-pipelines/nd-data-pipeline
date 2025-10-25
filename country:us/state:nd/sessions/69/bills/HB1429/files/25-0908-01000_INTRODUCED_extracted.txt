@@ -1,0 +1,173 @@
+Title: HOUSE BILL NO. 1429
+Official Title: HOUSE BILL NO. 1429
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0908.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Holle, Dobervich, Headland, Henderson, Koppelman, Tveit, Brandenburg
+Senators Lemm, Magrum
+1 A BILL for an Act to create and enact a new chapter to title 47 of the North Dakota Century
+2 Code, relating to remotely piloted aircraft flying over a homestead or secure farmstead, animal
+3 feeding, farming, ranching, or livestock operation area; and to provide a penalty.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new chapter to title 47 of the North Dakota Century Code is created and
+6 enacted as follows:
+7 Definitions.
+8 As used in this chapter:
+9 1. "Animal feeding operation" means a lot or facility at which:
+10 a. Animals, other than aquatic animals, have been, are, or will be stabled or
+11 confined and fed or maintained for a total of forty-five days or more in any twelve-
+12 month period; and
+13 b. Crops, vegetation, forage growth, or postharvest residues are not sustained in
+14 the normal growing season over any portion of the lot or facility.
+15 2. "Farming" or "ranching" means cultivating land for the production of agricultural crops
+16 or livestock, or raising, feeding, or producing livestock, poultry, milk, or fruit. The term
+17 does not include the:
+18 a. Production of timber or forest products; or
+19 b. Provision of grain harvesting or other farm services by a processor or distributor
+20 of farm products or supplies in accordance with the terms of a contract.
+21 3. "Livestock" includes beef cattle, dairy cattle, sheep, swine, poultry, horses, bison, elk,
+22 fur animals raised for their pelts, and any other animal raised, fed, or produced as a
+23 part of farming or ranching activities.
+Page No. 1 25.0908.01000
+Sixty-ninth
+Legislative Assembly
+1 Intrusion by remotely piloted aircraft.
+2 1. An individual commits intrusion by use of a remotely piloted aircraft if the individual
+3 knowingly controls the flight of a remotely piloted aircraft:
+4 a. Over a homestead, if the homestead is not owned or leased by the individual and
+5 the remotely piloted aircraft remains over the homestead.
+6 b. Over a secure farmstead area if the secure farm area is not owned or leased by
+7 the individual and the remotely piloted aircraft remains over the secure farmstead
+8 area.
+9 c. Over a secure animal feeding, farming, ranching, or livestock operation area, if
+10 the operation is not owned or leased by the individual and the remotely piloted
+11 aircraft remains over the secure operation area.
+12 2. An individual who violates this section is guilty of a class B misdemeanor. A second or
+13 subsequent offense under this section is a class A misdemeanor.
+14 Surveillance by remotely piloted aircraft.
+15 1. An individual commits surveillance use of a remotely piloted aircraft if the individual
+16 knowingly controls the flight of a remotely piloted aircraft equipped with a surveillance
+17 device:
+18 a. Over a homestead, if the homestead is not owned or leased by the individual and
+19 the remotely piloted aircraft remains over the homestead.
+20 b. Over a secure farmstead area, if the secure farmstead area is not owned or
+21 leased by the individual and the remotely piloted aircraft remains over the secure
+22 farmstead area.
+23 c. Over a secure animal feeding operation, or a secure farming, ranching, or
+24 livestock operation area, if the operation is not owned or leased by the individual
+25 and the remotely piloted aircraft remains over the secure operation area.
+26 2. An individual who violates this section is guilty of a class A misdemeanor.
+27 Exceptions - Intrusion and surveillance .
+28 This chapter does not apply to an individual controlling a remotely piloted aircraft:
+29 1. With the consent of the owner of the homestead or secure farmstead, animal feeding
+30 operation, farming, ranching, or livestock operation area.
+Page No. 2 25.0908.01000
+Sixty-ninth
+Legislative Assembly
+1 2. For a reasonable commercial or agricultural purpose in compliance with federal
+2 aviation administration regulations, authorizations, or exemptions.
+3 3. For the purpose of collecting weather or climate information.
+4 4. Over four hundred feet from the earth's surface.
+5 5. On behalf of any state, political subdivision, or federal government entity with authority
+6 established under state or federal law.
+7 6. On behalf of a public utility as defined under section 49 - 01 - 01 .
+Page No. 3 25.0908.01000
+[DELETED: .".A.C.".P.P."12]
+[DELETED: .A.O.O.O.A.A.O.O.O.A.W22]
+[DELETED: .F.F.O.O. 32]
+
+
+================================================================================
+
+Raw Text:
+25.0908.01000
+Sixty-ninth
+HOUSE BILL NO. 1429
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Holle, Dobervich, Headland, Henderson, Koppelman, Tveit, Brandenburg
+Senators Lemm, Magrum
+1 A BILL for an Act to create and enact a new chapter to title 47 of the North Dakota Century
+2 Code, relating to remotely piloted aircraft flying over a homestead or secure farmstead, animal
+3 feeding, farming, ranching, or livestock operation area; and to provide a penalty.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new chapter to title 47 of the North Dakota Century Code is created and
+6 enacted as follows:
+7 Definitions.
+8 As used in this chapter:
+9 1. "Animal feeding operation" means a lot or facility at which:
+10 a. Animals, other than aquatic animals, have been, are, or will be stabled or
+11 confined and fed or maintained for a total of forty-five days or more in any twelve-
+12 month period; and
+13 b. Crops, vegetation, forage growth, or postharvest residues are not sustained in
+14 the normal growing season over any portion of the lot or facility.
+15 2. "Farming" or "ranching" means cultivating land for the production of agricultural crops
+16 or livestock, or raising, feeding, or producing livestock, poultry, milk, or fruit. The term
+17 does not include the:
+18 a. Production of timber or forest products; or
+19 b. Provision of grain harvesting or other farm services by a processor or distributor
+20 of farm products or supplies in accordance with the terms of a contract.
+21 3. "Livestock" includes beef cattle, dairy cattle, sheep, swine, poultry, horses, bison, elk,
+22 fur animals raised for their pelts, and any other animal raised, fed, or produced as a
+23 part of farming or ranching activities.
+Page No. 1 25.0908.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Intrusion by remotely piloted aircraft.
+2 1. An individual commits intrusion by use of a remotely piloted aircraft if the individual
+3 knowingly controls the flight of a remotely piloted aircraft:
+4 a. Over a homestead, if the homestead is not owned or leased by the individual and
+5 the remotely piloted aircraft remains over the homestead.
+6 b. Over a secure farmstead area if the secure farm area is not owned or leased by
+7 the individual and the remotely piloted aircraft remains over the secure farmstead
+8 area.
+9 c. Over a secure animal feeding, farming, ranching, or livestock operation area, if
+10 the operation is not owned or leased by the individual and the remotely piloted
+11 aircraft remains over the secure operation area.
+12 2. An individual who violates this section is guilty of a class B misdemeanor. A second or
+13 subsequent offense under this section is a class A misdemeanor.
+14 Surveillance by remotely piloted aircraft.
+15 1. An individual commits surveillance use of a remotely piloted aircraft if the individual
+16 knowingly controls the flight of a remotely piloted aircraft equipped with a surveillance
+17 device:
+18 a. Over a homestead, if the homestead is not owned or leased by the individual and
+19 the remotely piloted aircraft remains over the homestead.
+20 b. Over a secure farmstead area, if the secure farmstead area is not owned or
+21 leased by the individual and the remotely piloted aircraft remains over the secure
+22 farmstead area.
+23 c. Over a secure animal feeding operation, or a secure farming, ranching, or
+24 livestock operation area, if the operation is not owned or leased by the individual
+25 and the remotely piloted aircraft remains over the secure operation area.
+26 2. An individual who violates this section is guilty of a class A misdemeanor.
+27 Exceptions - Intrusion and surveillance .
+28 This chapter does not apply to an individual controlling a remotely piloted aircraft:
+29 1. With the consent of the owner of the homestead or secure farmstead, animal feeding
+30 operation, farming, ranching, or livestock operation area.
+Page No. 2 25.0908.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. For a reasonable commercial or agricultural purpose in compliance with federal
+2 aviation administration regulations, authorizations, or exemptions.
+3 3. For the purpose of collecting weather or climate information.
+4 4. Over four hundred feet from the earth's surface.
+5 5. On behalf of any state, political subdivision, or federal government entity with authority
+6 established under state or federal law.
+7 6. On behalf of a public utility as defined under section 49 - 01 - 01 .
+Page No. 3 25.0908.01000
+
+[DELETED: .".A.C.".P.P."12]
+[DELETED: .A.O.O.O.A.A.O.O.O.A.W22]
+[DELETED: .F.F.O.O. 32]

@@ -1,0 +1,191 @@
+Title: SENATE BILL NO. 2249
+Official Title: SENATE BILL NO. 2249
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0138.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Barta, Sickler
+Representatives Bahl, Karls, McLeod
+1 A BILL for an Act to create and enact a new section to chapter 54-52.1 of the North Dakota
+2 Century Code, relating to step therapy protocol exceptions; to provide for a report to the
+3 legislative assembly; to provide for application; and to provide an expiration date.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 54-52.1 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Step therapy protocol exceptions.
+8 1. As used in this section:
+9 a. "Step therapy protocol" has the same meaning as in section 19-02.1-16.3.
+10 b. "Step therapy protocol exception" means a step therapy protocol is overridden in
+11 favor of coverage of the prescription drug selected by a health care professional
+12 as provided in subsection 2.
+13 2. A health carrier, health benefit plan, pharmacy benefits manager, or utilization review
+14 agent, shall approve a request for a step therapy protocol exception if:
+15 a. The prescription drug required under the step therapy protocol is contraindicated
+16 according to the drug manufacturer's prescribing information for the drug.
+17 b. Due to a documented adverse event with previous use or a documented medical
+18 condition, including a comorbid condition, the prescription drug is likely to:
+19 (1) Cause an adverse reaction to a covered individual;
+20 (2) Decrease the ability of a covered individual to achieve or maintain
+21 reasonable functional ability in performing daily activities; or
+22 (3) Cause physical or mental harm to a covered individual.
+Page No. 1 25.0138.02000
+Sixty-ninth
+Legislative Assembly
+1 c. The prescription drug required under the step therapy protocol is expected to be
+2 ineffective based on the known clinical characteristics of the covered individual,
+3 including the individual's adherence to or compliance with the plan of care, and:
+4 (1) The known characteristics of the prescription drug regimen as described in
+5 peer-reviewed literature or in the manufacturer's prescribing information for
+6 the drug;
+7 (2) The health care professional's medical judgment based on clinical practice
+8 guidelines or peer-reviewed journals; or
+9 (3) The covered individual's documented experience with the prescription drug
+10 regimen.
+11 d. While under the covered individual's current or previous health benefit plan, for a
+12 period of time to allow for a positive treatment outcome, the covered individual
+13 had a trial of a therapeutically equivalent dose of the prescription drug under a
+14 step therapy protocol, and that trial was discontinued by the covered individual's
+15 health care professional due to lack of effectiveness.
+16 e. While under the covered individual's current or previous health benefit plan, the
+17 covered individual received a positive therapeutic outcome on a prescription drug
+18 selected by the covered individual's health care professional for the medical
+19 condition under consideration.
+20 3. A health carrier, health benefit plan, pharmacy benefits manager, or utilization review
+21 agent, shall:
+22 a. If the prescription drug is a covered prescription drug under the covered
+23 individual's health benefit plan, upon approval of a request supporting a step
+24 therapy protocol exception, authorize coverage for the prescription drug selected
+25 by the covered individual's health care professional.
+26 b. Except as provided in subdivision c, within five calendar days after the receipt of
+27 a request supporting a step therapy protocol exception, make a determination to
+28 approve or deny the request.
+29 c. Within seventy-two hours after the receipt of an emergency or urgent care
+30 request supporting a step therapy protocol exception, make a determination to
+31 approve or deny the request.
+Page No. 2 25.0138.02000
+Sixty-ninth
+Legislative Assembly
+1 4. If a health carrier, health plan, pharmacy benefits manager, or utilization review agent
+2 fails to respond to a request supporting a step therapy protocol exception as provided
+3 in subdivisions b or c of subsection 3, the request is deemed approved.
+4 SECTION 2. PUBLIC EMPLOYEES RETIREMENT SYSTEM - STEP THERAPY
+5 PROTOCOL EXCEPTIONS - REPORT TO LEGISLATIVE ASSEMBLY. Pursuant to section
+6 54-03-28, the public employees retirement system shall prepare and submit for introduction a
+7 bill to the seventieth legislative assembly to repeal the expiration date for this Act and to extend
+8 step therapy protocol exception requirements to all group and individual health insurance
+9 policies. The public employees retirement system shall append a report to the bill regarding the
+10 effect of the step therapy protocol exception requirements on the system's health insurance
+11 programs, information on the utilization and costs relating to the requirements, and a
+12 recommendation regarding whether the coverage should be continued.
+13 SECTION 3. APPLICATION. This Act applies to health benefits coverage that begins after
+14 June 30, 2025, and which does not extend past June 30, 2027.
+15 SECTION 4. EXPIRATION DATE. This Act is effective through June 30, 2027, and after that
+16 date is ineffective.
+Page No. 3 25.0138.02000
+[DELETED: .A.".".A.T.D)C)D)C12]
+[DELETED: .T)T)T)T.W.W.A.I.E.W22]
+[DELETED: .I32]
+
+
+================================================================================
+
+Raw Text:
+25.0138.02000
+Sixty-ninth
+SENATE BILL NO. 2249
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Barta, Sickler
+Representatives Bahl, Karls, McLeod
+1 A BILL for an Act to create and enact a new section to chapter 54-52.1 of the North Dakota
+2 Century Code, relating to step therapy protocol exceptions; to provide for a report to the
+3 legislative assembly; to provide for application; and to provide an expiration date.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 54-52.1 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Step therapy protocol exceptions.
+8 1. As used in this section:
+9 a. "Step therapy protocol" has the same meaning as in section 19-02.1-16.3.
+10 b. "Step therapy protocol exception" means a step therapy protocol is overridden in
+11 favor of coverage of the prescription drug selected by a health care professional
+12 as provided in subsection 2.
+13 2. A health carrier, health benefit plan, pharmacy benefits manager, or utilization review
+14 agent, shall approve a request for a step therapy protocol exception if:
+15 a. The prescription drug required under the step therapy protocol is contraindicated
+16 according to the drug manufacturer's prescribing information for the drug.
+17 b. Due to a documented adverse event with previous use or a documented medical
+18 condition, including a comorbid condition, the prescription drug is likely to:
+19 (1) Cause an adverse reaction to a covered individual;
+20 (2) Decrease the ability of a covered individual to achieve or maintain
+21 reasonable functional ability in performing daily activities; or
+22 (3) Cause physical or mental harm to a covered individual.
+Page No. 1 25.0138.02000
+
+Sixty-ninth
+Legislative Assembly
+1 c. The prescription drug required under the step therapy protocol is expected to be
+2 ineffective based on the known clinical characteristics of the covered individual,
+3 including the individual's adherence to or compliance with the plan of care, and:
+4 (1) The known characteristics of the prescription drug regimen as described in
+5 peer-reviewed literature or in the manufacturer's prescribing information for
+6 the drug;
+7 (2) The health care professional's medical judgment based on clinical practice
+8 guidelines or peer-reviewed journals; or
+9 (3) The covered individual's documented experience with the prescription drug
+10 regimen.
+11 d. While under the covered individual's current or previous health benefit plan, for a
+12 period of time to allow for a positive treatment outcome, the covered individual
+13 had a trial of a therapeutically equivalent dose of the prescription drug under a
+14 step therapy protocol, and that trial was discontinued by the covered individual's
+15 health care professional due to lack of effectiveness.
+16 e. While under the covered individual's current or previous health benefit plan, the
+17 covered individual received a positive therapeutic outcome on a prescription drug
+18 selected by the covered individual's health care professional for the medical
+19 condition under consideration.
+20 3. A health carrier, health benefit plan, pharmacy benefits manager, or utilization review
+21 agent, shall:
+22 a. If the prescription drug is a covered prescription drug under the covered
+23 individual's health benefit plan, upon approval of a request supporting a step
+24 therapy protocol exception, authorize coverage for the prescription drug selected
+25 by the covered individual's health care professional.
+26 b. Except as provided in subdivision c, within five calendar days after the receipt of
+27 a request supporting a step therapy protocol exception, make a determination to
+28 approve or deny the request.
+29 c. Within seventy-two hours after the receipt of an emergency or urgent care
+30 request supporting a step therapy protocol exception, make a determination to
+31 approve or deny the request.
+Page No. 2 25.0138.02000
+
+Sixty-ninth
+Legislative Assembly
+1 4. If a health carrier, health plan, pharmacy benefits manager, or utilization review agent
+2 fails to respond to a request supporting a step therapy protocol exception as provided
+3 in subdivisions b or c of subsection 3, the request is deemed approved.
+4 SECTION 2. PUBLIC EMPLOYEES RETIREMENT SYSTEM - STEP THERAPY
+5 PROTOCOL EXCEPTIONS - REPORT TO LEGISLATIVE ASSEMBLY. Pursuant to section
+6 54-03-28, the public employees retirement system shall prepare and submit for introduction a
+7 bill to the seventieth legislative assembly to repeal the expiration date for this Act and to extend
+8 step therapy protocol exception requirements to all group and individual health insurance
+9 policies. The public employees retirement system shall append a report to the bill regarding the
+10 effect of the step therapy protocol exception requirements on the system's health insurance
+11 programs, information on the utilization and costs relating to the requirements, and a
+12 recommendation regarding whether the coverage should be continued.
+13 SECTION 3. APPLICATION. This Act applies to health benefits coverage that begins after
+14 June 30, 2025, and which does not extend past June 30, 2027.
+15 SECTION 4. EXPIRATION DATE. This Act is effective through June 30, 2027, and after that
+16 date is ineffective.
+Page No. 3 25.0138.02000
+
+[DELETED: .A.".".A.T.D)C)D)C12]
+[DELETED: .T)T)T)T.W.W.A.I.E.W22]
+[DELETED: .I32]

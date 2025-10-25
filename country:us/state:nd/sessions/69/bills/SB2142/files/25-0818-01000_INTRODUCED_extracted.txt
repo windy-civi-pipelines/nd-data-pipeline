@@ -1,0 +1,197 @@
+Title: SENATE BILL NO. 2142
+Official Title: SENATE BILL NO. 2142
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0818.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Wanzek, Thomas, Weber
+Representatives Brandenburg, Headland, Schreiber-Beck
+1 A BILL for an Act to create and enact a new section to chapter 54-27 of the North Dakota
+2 Century Code, relating to a township road and bridge sustainability fund; to amend and reenact
+3 section 57-40.3-10 of the North Dakota Century Code, relating to motor vehicle excise tax
+4 allocations; to provide a continuing appropriation; and to provide an effective date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 54-27 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Township road and bridge sustainability fund - State treasurer - Continuing
+9 appropriation.
+10 1. There is created a township road and bridge sustainability fund in the state treasury.
+11 The fund consists of all revenue deposited in the fund under section 57 - 40.3 - 10. Al l
+12 moneys in the fund are appropriated to the state treasurer on a continuing basis for
+13 allocations to townships located in non - oi l - producing counties for road and bridge
+14 infrastructure projects under this section.
+15 2. To be eligible for an allocation under this section:
+16 a. An organized township located in a non - oi l - producing county shall submit an
+17 annual certification to the state treasurer in the form and manner prescribed by
+18 the state treasurer regarding the number of township road miles in the township
+19 as of December thirty-first of the prior year, the balance of the township's general
+20 fund as of December thirty-first of the prior year, and the total number of mills
+21 levied by the township under section 57 - 15 - 20 in the prior taxable year .
+22 b. A non - oi l - producing county with unorganized townships shall submit an annua l
+23 certification to the state treasurer in the form and manner prescribed by the state
+Page No. 1 25.0818.01000
+Sixty-ninth
+Legislative Assembly
+1 treasurer regarding the number of township road miles in all the unorganized
+2 townships within the county as of December thirty-first of the prior year.
+3 3. At least quarterly, the state treasurer shall distribute the moneys in the fund to
+4 non - oi l - producing counties for the benefit of eligible organized and unorganized
+5 townships located within each non - oi l - producing county for road and bridge
+6 infrastructure projects.
+7 a. The distribution to each non - oi l - producing county is the sum of the allocations for
+8 each eligible organized or unorganized township within the county.
+9 b. The allocation to each eligible organized or unorganized township located in a
+10 non - oi l - producing county must be proportional to the township's road miles
+11 relative to the total township road miles of all the eligible townships. When
+12 processing the allocations during each fiscal year, the state treasurer shall
+13 exclude the following from the allocation:
+14 (1) An organized township that did not maintain any township roads as of
+15 December thirty-first of the prior year, had a general fund balance exceeding
+16 one hundred thousand dollars as of December thirty-first of the prior year,
+17 was not levying at least eighteen mills under section 57 - 15 - 20 in the prior
+18 taxable year, or did not properly submit the annual certification required
+19 under subsection 2 .
+20 (2) An unorganized township for which a non - oi l - producing county did no t
+21 maintain any township roads as of December thirty-first of the prior year or
+22 did not properly submit the annual certification required under subsection 2 .
+23 c. The amount allocated to organized townships under this subsection must be paid
+24 by the county treasurer to each organized township, and the amount allocated to
+25 unorganized townships under this subsection must be credited by the county
+26 treasurer to a special fund for unorganized township roads.
+27 d. The allocations under this section must be used for road and bridge infrastructure
+28 projects.
+29 4. For purposes of this section:
+30 a. "Non - oi l - producing county" means a county that received no allocation of funding
+31 or a total allocation of less than five million dollars under subsection 2 of section
+Page No. 2 25.0818.01000
+Sixty-ninth
+Legislative Assembly
+1 57 - 51 - 15 in the most recently completed even-numbered fiscal year before the
+2 start of each biennium.
+3 b. "Road and bridge infrastructure projects" means projects associated with the
+4 construction of new unpaved and paved road and bridge infrastructure or
+5 associated with the maintenance, repair, or replacement of existing unpaved and
+6 paved road and bridge infrastructure.
+7 SECTION 2. AMENDMENT. Section 57-40.3-10 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 57-40.3-10. Transfer of revenue.
+10 After the deposits under sections 57-39.2-26.1, 57-39.2-26.2, and 57-39.2-26.3, moneys
+11 collected and received under this chapter must be deposited monthly in the state treasury and
+12 allocated as follows:
+13 1. FiftyTwenty-five percent to the generaltownship road and bridge sustainability fund
+14 under section 2 of this Ac t; and
+15 2. The remaining fiftyseventy-five percent to the flexible transportation fund under section
+16 24 - 02 - 37.3 .
+17 SECTION 3. EFFECTIVE DATE. Section 2 of this Act is effective for motor vehicle excise
+18 tax collections transmitted to the state treasurer after July 31, 2025.
+Page No. 3 25.0818.01000
+[DELETED: .T.T. . 12]
+[DELETED: .A. .T)A) .T.T.F. 22]
+[DELETED: .".F.T32]
+
+
+================================================================================
+
+Raw Text:
+25.0818.01000
+Sixty-ninth
+SENATE BILL NO. 2142
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Wanzek, Thomas, Weber
+Representatives Brandenburg, Headland, Schreiber-Beck
+1 A BILL for an Act to create and enact a new section to chapter 54-27 of the North Dakota
+2 Century Code, relating to a township road and bridge sustainability fund; to amend and reenact
+3 section 57-40.3-10 of the North Dakota Century Code, relating to motor vehicle excise tax
+4 allocations; to provide a continuing appropriation; and to provide an effective date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 54-27 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Township road and bridge sustainability fund - State treasurer - Continuing
+9 appropriation.
+10 1. There is created a township road and bridge sustainability fund in the state treasury.
+11 The fund consists of all revenue deposited in the fund under section 57 - 40.3 - 10. Al l
+12 moneys in the fund are appropriated to the state treasurer on a continuing basis for
+13 allocations to townships located in non - oi l - producing counties for road and bridge
+14 infrastructure projects under this section.
+15 2. To be eligible for an allocation under this section:
+16 a. An organized township located in a non - oi l - producing county shall submit an
+17 annual certification to the state treasurer in the form and manner prescribed by
+18 the state treasurer regarding the number of township road miles in the township
+19 as of December thirty-first of the prior year, the balance of the township's general
+20 fund as of December thirty-first of the prior year, and the total number of mills
+21 levied by the township under section 57 - 15 - 20 in the prior taxable year .
+22 b. A non - oi l - producing county with unorganized townships shall submit an annua l
+23 certification to the state treasurer in the form and manner prescribed by the state
+Page No. 1 25.0818.01000
+
+Sixty-ninth
+Legislative Assembly
+1 treasurer regarding the number of township road miles in all the unorganized
+2 townships within the county as of December thirty-first of the prior year.
+3 3. At least quarterly, the state treasurer shall distribute the moneys in the fund to
+4 non - oi l - producing counties for the benefit of eligible organized and unorganized
+5 townships located within each non - oi l - producing county for road and bridge
+6 infrastructure projects.
+7 a. The distribution to each non - oi l - producing county is the sum of the allocations for
+8 each eligible organized or unorganized township within the county.
+9 b. The allocation to each eligible organized or unorganized township located in a
+10 non - oi l - producing county must be proportional to the township's road miles
+11 relative to the total township road miles of all the eligible townships. When
+12 processing the allocations during each fiscal year, the state treasurer shall
+13 exclude the following from the allocation:
+14 (1) An organized township that did not maintain any township roads as of
+15 December thirty-first of the prior year, had a general fund balance exceeding
+16 one hundred thousand dollars as of December thirty-first of the prior year,
+17 was not levying at least eighteen mills under section 57 - 15 - 20 in the prior
+18 taxable year, or did not properly submit the annual certification required
+19 under subsection 2 .
+20 (2) An unorganized township for which a non - oi l - producing county did no t
+21 maintain any township roads as of December thirty-first of the prior year or
+22 did not properly submit the annual certification required under subsection 2 .
+23 c. The amount allocated to organized townships under this subsection must be paid
+24 by the county treasurer to each organized township, and the amount allocated to
+25 unorganized townships under this subsection must be credited by the county
+26 treasurer to a special fund for unorganized township roads.
+27 d. The allocations under this section must be used for road and bridge infrastructure
+28 projects.
+29 4. For purposes of this section:
+30 a. "Non - oi l - producing county" means a county that received no allocation of funding
+31 or a total allocation of less than five million dollars under subsection 2 of section
+Page No. 2 25.0818.01000
+
+Sixty-ninth
+Legislative Assembly
+1 57 - 51 - 15 in the most recently completed even-numbered fiscal year before the
+2 start of each biennium.
+3 b. "Road and bridge infrastructure projects" means projects associated with the
+4 construction of new unpaved and paved road and bridge infrastructure or
+5 associated with the maintenance, repair, or replacement of existing unpaved and
+6 paved road and bridge infrastructure.
+7 SECTION 2. AMENDMENT. Section 57-40.3-10 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 57-40.3-10. Transfer of revenue.
+10 After the deposits under sections 57-39.2-26.1, 57-39.2-26.2, and 57-39.2-26.3, moneys
+11 collected and received under this chapter must be deposited monthly in the state treasury and
+12 allocated as follows:
+13 1. FiftyTwenty-five percent to the generaltownship road and bridge sustainability fund
+14 under section 2 of this Ac t; and
+15 2. The remaining fiftyseventy-five percent to the flexible transportation fund under section
+16 24 - 02 - 37.3 .
+17 SECTION 3. EFFECTIVE DATE. Section 2 of this Act is effective for motor vehicle excise
+18 tax collections transmitted to the state treasurer after July 31, 2025.
+Page No. 3 25.0818.01000
+
+[DELETED: .T.T. . 12]
+[DELETED: .A. .T)A) .T.T.F. 22]
+[DELETED: .".F.T32]

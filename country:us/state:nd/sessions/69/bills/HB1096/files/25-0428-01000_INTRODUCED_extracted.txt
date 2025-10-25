@@ -1,0 +1,59 @@
+Title: HOUSE BILL NO. 1096
+Official Title: HOUSE BILL NO. 1096
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+25.0428.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Porter, Bosch, Heinert, Schreiber-Beck
+Senators Davison, Patten, Weber
+1 A BILL for an Act to amend and reenact section 57-40.6-04 of the North Dakota Century Code,
+2 relating to assessed communication service fees.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 57-40.6-04 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 57-40.6-04. Fee collection procedure.
+7 An assessed communications service provider may retain the actual costs of administration
+8 in collection of the fee and any telephone exchange access service provider charges for 911
+9 database management, not to exceed fiveone percent of the fee collected. The fee proceeds
+10 must be paid by the assessed communications service provider within thirty days after it is
+11 collected from the subscriber or customer unless the provider has fewer than ten subscribers or
+12 customers in a jurisdiction, in which case the provider may pay the proceeds quarterly.
+Page No. 1 25.0428.01000
+[DELETED: 12]
+
+
+================================================================================
+
+Raw Text:
+25.0428.01000
+Sixty-ninth
+HOUSE BILL NO. 1096
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Porter, Bosch, Heinert, Schreiber-Beck
+Senators Davison, Patten, Weber
+1 A BILL for an Act to amend and reenact section 57-40.6-04 of the North Dakota Century Code,
+2 relating to assessed communication service fees.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 57-40.6-04 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 57-40.6-04. Fee collection procedure.
+7 An assessed communications service provider may retain the actual costs of administration
+8 in collection of the fee and any telephone exchange access service provider charges for 911
+9 database management, not to exceed fiveone percent of the fee collected. The fee proceeds
+10 must be paid by the assessed communications service provider within thirty days after it is
+11 collected from the subscriber or customer unless the provider has fewer than ten subscribers or
+12 customers in a jurisdiction, in which case the provider may pay the proceeds quarterly.
+Page No. 1 25.0428.01000
+
+[DELETED: 12]

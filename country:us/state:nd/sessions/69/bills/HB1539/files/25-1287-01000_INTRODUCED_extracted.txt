@@ -1,0 +1,321 @@
+Title: HOUSE BILL NO. 1539
+Official Title: HOUSE BILL NO. 1539
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25.1287.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Novak, Grueneich
+Senators Erbele, Kessel, Patten
+1 A BILL for an Act to amend and reenact section 49-22-03 and subdivision e of subsection 1 of
+2 section 49-22-22 of the North Dakota Century Code, relating to backup electric generation.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 49-22-03 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 49-22-03. Definitions.
+7 In this chapter, unless the context or subject matter otherwise requires:
+8 1. "Backup electric generation" means electric generation that is not interconnected with
+9 the grid and is generated on a temporary basis to replace primary source electric
+10 generation when unavailable.
+11 2. "Certificate" means the certificate of site compatibility or the certificate of corridor
+12 compatibility issued under this chapter.
+13 2.3. "Commission" means the North Dakota public service commission.
+14 3.4. "Construction" includes a clearing of land, excavation, or other action affecting the
+15 environment of the site after April 9, 1975, but does not include activities:
+16 a. Conducted wholly within the geographic location for which a utility has previously
+17 obtained a certificate or permit under this chapter, or on which a facility was
+18 constructed before April 9, 1975, if:
+19 (1) The activities are for the construction of the same type of facility as the
+20 existing type of facility as identified in a subdivision of subsection 56 or 67 or
+21 in subsection 1314 of this section and the activities are:
+22 (a) Within the geographic boundaries of a previously issued certificate or
+23 permit;
+Page No. 1 25.1287.01000
+Sixty-ninth
+Legislative Assembly
+1 (b) For an electric energy conversion facility constructed before April 9,
+2 1975, within the geographic location on which the facility was built; or
+3 (c) For an electric transmission facility constructed before April 9, 1975,
+4 within a width of three hundred fifty feet [106.68 meters] on either side
+5 of the centerline;
+6 (2) Except as provided in subdivision b, the activities do not affect any known
+7 exclusion or avoidance area;
+8 (3) The activities are for the construction:
+9 (a) Of a new electric energy conversion facility;
+10 (b) Of a new electric transmission facility;
+11 (c) To improve the existing electric energy conversion facility or electric
+12 transmission facility; or
+13 (d) To increase or decrease the capacity of the existing electric energy
+14 conversion facility or electric transmission facility; and
+15 (4) Before conducting any activities, the utility certifies in writing to the
+16 commission that:
+17 (a) The activities will not affect a known exclusion or avoidance area;
+18 (b) The activities are for the construction:
+19 [1] Of a new electric energy conversion facility;
+20 [2] Of a new electric transmission facility;
+21 [3] To improve the existing electric energy conversion or electric
+22 transmission facility; or
+23 [4] To increase or decrease the capacity of the existing electric
+24 energy conversion facility or electric transmission facility; and
+25 (c) The utility will comply with all applicable conditions and protections in
+26 siting laws and rules and commission orders previously issued for any
+27 part of the facility.
+28 b. Otherwise qualifying for exclusion under subdivision a, except that the activities
+29 are expected to affect a known avoidance area and the utility before conducting
+30 any activities:
+31 (1) Certifies in writing to the commission that:
+Page No. 2 25.1287.01000
+Sixty-ninth
+Legislative Assembly
+1 (a) The activities will not affect a known exclusion area;
+2 (b) The activities are for the construction:
+3 [1] Of a new electric energy conversion facility;
+4 [2] Of a new electric transmission facility;
+5 [3] To improve the existing electric energy conversion facility or
+6 electric transmission facility; or
+7 [4] To increase or decrease the capacity of the existing electric
+8 energy conversion facility or electric transmission facility; and
+9 (c) The utility will comply with all applicable conditions and protections in
+10 siting laws and rules and commission orders previously issued for any
+11 part of the facility;
+12 (2) Notifies the commission in writing that the activities are expected to impact
+13 an avoidance area and provides information on the specific avoidance area
+14 expected to be impacted and the reasons why impact cannot be avoided;
+15 and
+16 (3) Receives the commission's written approval for the impact to the avoidance
+17 area, based on a determination that there is no reasonable alternative to the
+18 expected impact. If the commission does not approve impacting the
+19 avoidance area, the utility must obtain siting authority under this chapter for
+20 the affected portion of the site or route. If the commission fails to act on the
+21 notification required by this subdivision within thirty days of the utility's filing
+22 the notification, the impact to the avoidance area is deemed approved.
+23 c. Incident to preliminary engineering or environmental studies.
+24 4.5. "Corridor" means the area of land where a designated route may be established for an
+25 electric transmission facility.
+26 5.6. "Electric energy conversion facility" means a plant, addition, or combination of plant
+27 and addition, excluding onsite backup electric generation, designed for or capable of:
+28 a. Generation by wind energy conversion exceeding one-half megawatt of
+29 electricity;
+30 b. Generation by any means other than wind energy conversion exceeding fifty
+31 megawatts of electricity; or
+Page No. 3 25.1287.01000
+Sixty-ninth
+Legislative Assembly
+1 c. Utility-scale energy storage.
+2 6.7. "Electric transmission facility" means an electric transmission line and associated
+3 facilities with a design in excess of one hundred fifteen kilovolts. "Electric transmission
+4 facility" does not include:
+5 a. A temporary electric transmission line loop that is:
+6 (1) Connected and adjacent to an existing electric transmission facility that was
+7 sited under this chapter;
+8 (2) Within the corridor of the sited facility and does not cross known exclusion
+9 or avoidance areas; and
+10 (3) In place for less than one year; or
+11 b. An electric transmission line that is less than one mile [1.61 kilometers] long.
+12 7.8. "Facility" means an electric energy conversion facility, electric transmission facility, or
+13 both.
+14 8.9. "Permit" means the permit for the construction of an electric transmission facility within
+15 a designated corridor issued under this chapter.
+16 9.10. "Person" includes an individual, firm, association, partnership, cooperative,
+17 corporation, limited liability company, or any department, agency, or instrumentality of
+18 a state or of the federal government, or any subdivision thereof.
+19 10.11. "Power emergency" means an electric transmission line and associated facilities that
+20 have been damaged or destroyed by natural or manmade causes resulting in a loss of
+21 power supply to consumers of the power.
+22 11.12. "Repower" means construction activities to completely or partially dismantle and
+23 replace turbine equipment at an existing wind energy conversion facility site that result
+24 in an increase of the facility's generation output potential or turbine height. The term
+25 does not include routine turbine maintenance or routine replacement of malfunctioning
+26 turbines or turbine components.
+27 12.13. "Route" means the location of an electric transmission facility within a designated
+28 corridor.
+29 13.14. "Site" means the location of an electric energy conversion facility.
+Page No. 4 25.1287.01000
+Sixty-ninth
+Legislative Assembly
+1 14.15. "Utility" means a person engaged in and controlling the electric generation, the
+2 transmission of electric energy, or the transmission of water from or to any electric
+3 energy conversion facility.
+4 15.16. "Utility-scale energy storage" means a plant, addition, or combination of plant and
+5 addition, designed for operation as a grid resource and capable of five megawatts or
+6 more of rated power capacity.
+7 SECTION 2. AMENDMENT. Subdivision e of subsection 1 of section 49-22-22 of the North
+8 Dakota Century Code is amended and reenacted as follows:
+9 e. An applicant certifying to the commission under subsection 34 of section
+10 49-22-03 shall pay an amount to be determined by the commission to cover
+11 anticipated expenses of processing the application.
+Page No. 5 25.1287.01000
+[DELETED: .".".".".C)T)W12]
+[DELETED: )F)F)E)T)O)O)T)T)B)T)T]O]O]T]T)T.O)C22]
+[DELETED: )T)T]O]O]T]T)T)N)R.I.".".G.G32]
+[DELETED: .U.".A)C)W)I.A."."."."."."."42]
+[DELETED: .".".A52]
+
+
+================================================================================
+
+Raw Text:
+25.1287.01000
+Sixty-ninth
+HOUSE BILL NO. 1539
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Novak, Grueneich
+Senators Erbele, Kessel, Patten
+1 A BILL for an Act to amend and reenact section 49-22-03 and subdivision e of subsection 1 of
+2 section 49-22-22 of the North Dakota Century Code, relating to backup electric generation.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 49-22-03 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 49-22-03. Definitions.
+7 In this chapter, unless the context or subject matter otherwise requires:
+8 1. "Backup electric generation" means electric generation that is not interconnected with
+9 the grid and is generated on a temporary basis to replace primary source electric
+10 generation when unavailable.
+11 2. "Certificate" means the certificate of site compatibility or the certificate of corridor
+12 compatibility issued under this chapter.
+13 2.3. "Commission" means the North Dakota public service commission.
+14 3.4. "Construction" includes a clearing of land, excavation, or other action affecting the
+15 environment of the site after April 9, 1975, but does not include activities:
+16 a. Conducted wholly within the geographic location for which a utility has previously
+17 obtained a certificate or permit under this chapter, or on which a facility was
+18 constructed before April 9, 1975, if:
+19 (1) The activities are for the construction of the same type of facility as the
+20 existing type of facility as identified in a subdivision of subsection 56 or 67 or
+21 in subsection 1314 of this section and the activities are:
+22 (a) Within the geographic boundaries of a previously issued certificate or
+23 permit;
+Page No. 1 25.1287.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (b) For an electric energy conversion facility constructed before April 9,
+2 1975, within the geographic location on which the facility was built; or
+3 (c) For an electric transmission facility constructed before April 9, 1975,
+4 within a width of three hundred fifty feet [106.68 meters] on either side
+5 of the centerline;
+6 (2) Except as provided in subdivision b, the activities do not affect any known
+7 exclusion or avoidance area;
+8 (3) The activities are for the construction:
+9 (a) Of a new electric energy conversion facility;
+10 (b) Of a new electric transmission facility;
+11 (c) To improve the existing electric energy conversion facility or electric
+12 transmission facility; or
+13 (d) To increase or decrease the capacity of the existing electric energy
+14 conversion facility or electric transmission facility; and
+15 (4) Before conducting any activities, the utility certifies in writing to the
+16 commission that:
+17 (a) The activities will not affect a known exclusion or avoidance area;
+18 (b) The activities are for the construction:
+19 [1] Of a new electric energy conversion facility;
+20 [2] Of a new electric transmission facility;
+21 [3] To improve the existing electric energy conversion or electric
+22 transmission facility; or
+23 [4] To increase or decrease the capacity of the existing electric
+24 energy conversion facility or electric transmission facility; and
+25 (c) The utility will comply with all applicable conditions and protections in
+26 siting laws and rules and commission orders previously issued for any
+27 part of the facility.
+28 b. Otherwise qualifying for exclusion under subdivision a, except that the activities
+29 are expected to affect a known avoidance area and the utility before conducting
+30 any activities:
+31 (1) Certifies in writing to the commission that:
+Page No. 2 25.1287.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (a) The activities will not affect a known exclusion area;
+2 (b) The activities are for the construction:
+3 [1] Of a new electric energy conversion facility;
+4 [2] Of a new electric transmission facility;
+5 [3] To improve the existing electric energy conversion facility or
+6 electric transmission facility; or
+7 [4] To increase or decrease the capacity of the existing electric
+8 energy conversion facility or electric transmission facility; and
+9 (c) The utility will comply with all applicable conditions and protections in
+10 siting laws and rules and commission orders previously issued for any
+11 part of the facility;
+12 (2) Notifies the commission in writing that the activities are expected to impact
+13 an avoidance area and provides information on the specific avoidance area
+14 expected to be impacted and the reasons why impact cannot be avoided;
+15 and
+16 (3) Receives the commission's written approval for the impact to the avoidance
+17 area, based on a determination that there is no reasonable alternative to the
+18 expected impact. If the commission does not approve impacting the
+19 avoidance area, the utility must obtain siting authority under this chapter for
+20 the affected portion of the site or route. If the commission fails to act on the
+21 notification required by this subdivision within thirty days of the utility's filing
+22 the notification, the impact to the avoidance area is deemed approved.
+23 c. Incident to preliminary engineering or environmental studies.
+24 4.5. "Corridor" means the area of land where a designated route may be established for an
+25 electric transmission facility.
+26 5.6. "Electric energy conversion facility" means a plant, addition, or combination of plant
+27 and addition, excluding onsite backup electric generation, designed for or capable of:
+28 a. Generation by wind energy conversion exceeding one-half megawatt of
+29 electricity;
+30 b. Generation by any means other than wind energy conversion exceeding fifty
+31 megawatts of electricity; or
+Page No. 3 25.1287.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Utility-scale energy storage.
+2 6.7. "Electric transmission facility" means an electric transmission line and associated
+3 facilities with a design in excess of one hundred fifteen kilovolts. "Electric transmission
+4 facility" does not include:
+5 a. A temporary electric transmission line loop that is:
+6 (1) Connected and adjacent to an existing electric transmission facility that was
+7 sited under this chapter;
+8 (2) Within the corridor of the sited facility and does not cross known exclusion
+9 or avoidance areas; and
+10 (3) In place for less than one year; or
+11 b. An electric transmission line that is less than one mile [1.61 kilometers] long.
+12 7.8. "Facility" means an electric energy conversion facility, electric transmission facility, or
+13 both.
+14 8.9. "Permit" means the permit for the construction of an electric transmission facility within
+15 a designated corridor issued under this chapter.
+16 9.10. "Person" includes an individual, firm, association, partnership, cooperative,
+17 corporation, limited liability company, or any department, agency, or instrumentality of
+18 a state or of the federal government, or any subdivision thereof.
+19 10.11. "Power emergency" means an electric transmission line and associated facilities that
+20 have been damaged or destroyed by natural or manmade causes resulting in a loss of
+21 power supply to consumers of the power.
+22 11.12. "Repower" means construction activities to completely or partially dismantle and
+23 replace turbine equipment at an existing wind energy conversion facility site that result
+24 in an increase of the facility's generation output potential or turbine height. The term
+25 does not include routine turbine maintenance or routine replacement of malfunctioning
+26 turbines or turbine components.
+27 12.13. "Route" means the location of an electric transmission facility within a designated
+28 corridor.
+29 13.14. "Site" means the location of an electric energy conversion facility.
+Page No. 4 25.1287.01000
+
+Sixty-ninth
+Legislative Assembly
+1 14.15. "Utility" means a person engaged in and controlling the electric generation, the
+2 transmission of electric energy, or the transmission of water from or to any electric
+3 energy conversion facility.
+4 15.16. "Utility-scale energy storage" means a plant, addition, or combination of plant and
+5 addition, designed for operation as a grid resource and capable of five megawatts or
+6 more of rated power capacity.
+7 SECTION 2. AMENDMENT. Subdivision e of subsection 1 of section 49-22-22 of the North
+8 Dakota Century Code is amended and reenacted as follows:
+9 e. An applicant certifying to the commission under subsection 34 of section
+10 49-22-03 shall pay an amount to be determined by the commission to cover
+11 anticipated expenses of processing the application.
+Page No. 5 25.1287.01000
+
+[DELETED: .".".".".C)T)W12]
+[DELETED: )F)F)E)T)O)O)T)T)B)T)T]O]O]T]T)T.O)C22]
+[DELETED: )T)T]O]O]T]T)T)N)R.I.".".G.G32]
+[DELETED: .U.".A)C)W)I.A."."."."."."."42]
+[DELETED: .".".A52]

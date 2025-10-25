@@ -1,0 +1,958 @@
+Title: SENATE BILL NO. 2347
+Official Title: SENATE BILL NO. 2347
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+25.0647.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Myrdal, Sorvaag, Thomas
+1 A BILL for an Act to create and enact two new sections to chapter 53-06.2 of the North Dakota
+2 Century Code, relating to historic horse race wagering and pari-mutuel horse racing; and to
+3 amend and reenact sections 53-06.2-01, 53-06.2-04, 53-06.2-05, 53-06.2-06, 53-06.2-07,
+4 53-06.2-08, 53-06.2-10, 53-06.2-10.1, and 53-06.2-11 of the North Dakota Century Code,
+5 relating to the authorization of historic horse race wagering and the elimination of simulcast dog
+6 racing under the certificate system.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Section 53-06.2-01 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 53-06.2-01. Definitions.
+11 As used in this chapter:
+12 1. "Association" means a person licensed by the racing commission conducting
+13 par i - mutuel wagering .
+14 2. "Breeders' fund" means a fund, administered by the commission, established to
+15 financially reward breeders or owners of North Dakota-bred horses to be paid in
+16 accordance with rules as approved by the commission.
+17 2.3. "Certificate system" means the system of betting described in section 53-06.2-10.
+18 3.4. "Charitable organization" means a nonprofit organization operated for the relief of
+19 poverty, distress, or other conditions of public concern in this state and has been so
+20 engaged in this state for at least two years.
+21 4.5. "Civic and service club" means a branch, lodge, or chapter of a nonprofit national or
+22 state organization that is authorized by its written constitution, charter, articles of
+23 incorporation, or bylaws to engage in a civic or service purpose in this state and has
+24 so existed in this state for at least two years. The term includes a similar local
+Page No. 1 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 nonprofit organization, not affiliated with a state or national organization, which is so
+2 recognized by a resolution adopted by the governing body of the local jurisdiction in
+3 which the organization conducts its principal activities, and which has existed in this
+4 state for at least two years.
+5 5.6. "Commission" means the North Dakota racing commission.
+6 6.7. "Equine racing facility" means a horse racing facility that conducts at least eight live
+7 horse races in a calendar year and which has a minimum racing infrastructure
+8 consisting of:
+9 a. A six-furlong [1207.01 meters] dirt track for flat racing;
+10 b. Capacity for no fewer than five hundred individuals; and
+11 c. Barns with no fewer than fifty permanent stalls.
+12 8. "Executive director" means the executive director of the commission.
+13 7.9. "Fraternal organization" means a nonprofit organization in this state, which is a
+14 branch, lodge, or chapter of a national or state organization and exists for the common
+15 business, brotherhood, or other interests of its members, and has so existed in this
+16 state for two years. The term does not include a college or high school fraternity.
+17 10. "Historic horse race" means any horse race that was previously conducted by a
+18 licensed pari-mutuel facility, concluded with official results, and concluded without
+19 scratches, disqualifications, and dead-heat finishes.
+20 8.11. "Local jurisdiction" means, with respect to a site inside the city limits of a city, that city,
+21 and with respect to a site not inside the city limits of a city, the county in which the site
+22 is located.
+23 9.12. "Other public-spirited organization" means a nonprofit organization recognized by the
+24 governing body of the appropriate local jurisdiction by resolution as public-spirited and
+25 eligible under this chapter.
+26 10.13. "Pari-mutuel wagering" means a method of wagering approved by the commission in
+27 which one or more patrons wager on a horse race, whether live, simulcast, or historic
+28 horse race.
+29 14. "Purse fund" means a fund, administered by the commission, established to
+30 supplement and improve purses offered at racetracks within the state.
+Page No. 2 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 11.15. "Racing" means live or simulcast horse racing under the certificate system or
+2 simulcast dog racing under the certificate system.
+3 12.16. "Racing promotion fund" means a fund administered by the commission established to
+4 assist in improving and upgrading racetracks in the state, promoting horse racing in
+5 the state, and developing new racetracks in the state as necessary and approved by
+6 the commission.
+7 13.17. "Religious organization" means a nonprofit organization, church, body of
+8 communicants, or group gathered in common membership for mutual support and
+9 edification in piety, worship, and religious observances, and which has been so
+10 gathered or united in this state for at least two years.
+11 14.18. "Veterans' organization" means a congressionally chartered organization in this state,
+12 or a branch, lodge, or chapter of a nonprofit national or state organization in this state,
+13 the membership of which consists of individuals who were members of the armed
+14 services or forces of the United States, and which has so been in existence in this
+15 state for at least two years.
+16 SECTION 2. AMENDMENT. Section 53-06.2-04 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 53-06.2-04. Duties of commission.
+19 The commission shall:
+20 1. Provide for racing and wagering under the certificate system.
+21 2. Set racing dates.
+22 3. Adopt rules for effectively preventing the use of any substance, compound items, or
+23 combinations of any medicine, narcotic, stimulant, depressant, or anesthetic which
+24 could alter the normal performance of a racehorse, unless specifically authorized by
+25 the commission.
+26 4. Supervise and check the making of pari-mutuel pools, pari-mutuel machines, and
+27 equipment at all races held for wagering under the certificate system.
+28 5. Adopt rules governing, restricting, or regulating bids on licensees' concessions and
+29 leases on equipment.
+30 6. Consider all proposed extensions, additions, or improvements to the buildings,
+31 stables, or tracks on property owned or leased by a licensee.
+Page No. 3 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 7. Exclude from racetracks or simulcast pari-mutuel wagering facilities any
+2 personindividual who violates any rule of the commission or any law.
+3 8. Determine the cost of inspections performed under subsection 3 of section 53-06.2-05
+4 and require the licensee to pay that cost.
+5 9. Report biennially to the legislative council regarding the operation of the commission.
+6 10. Provide notice to the North Dakota horsemen's council of meetings held by the
+7 commission and permit the North Dakota horsemen's council to participate in the
+8 meetings through placement of items on the agenda.
+9 11. Complete, distribute, and post on the commission's website the minutes of each
+10 commission meeting within thirty days of that meeting or before the next meeting of
+11 the commission, whichever occurs first.
+12 SECTION 3. AMENDMENT. Section 53-06.2-05 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 53-06.2-05. Powers of commission.
+15 The commission may:
+16 1. Compel the production of all documents showing the receipts and disbursements of
+17 any licensee and determine the manner in which such financial records are to be kept.
+18 2. Investigate the operations of any licensee and enter any vehicle or place of business,
+19 residence, storage, or racing of any licensee on the grounds of a licensed association
+20 to determine whether there has been compliance with the provisions of this chapter
+21 and rules adopted under this chapter, and to discover and seize any evidence of
+22 noncompliance.
+23 3. Request appropriate state officials to perform inspections necessary for the health and
+24 safety of spectators, employees, participants, and horses that are lawfully on a
+25 racetrack.
+26 4. License all participants in the racing and simulcast pari-mutuel wagering industry and
+27 require and obtain information the commission deems necessary from license
+28 applicants. Licensure of service providers, totalizator companies, site operators, and
+29 organizationsentities applying to conduct or conducting pari-mutuel wagering must be
+30 approved by the attorney general. The attorney general may not grant a license
+31 denied by the commission. The commission may obtain a statewide and nationwide
+Page No. 4 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 criminal history record check from the bureau of criminal investigation for the purpose
+2 of determining suitability or fitness for a license. The nationwide check must be
+3 conducted in the manner provided in section 12-60-24. All costs associated with
+4 obtaining a background check are the responsibility of the applicant for a license.
+5 5. Receive moneys from the North Dakota horse racing foundation for deposit in the
+6 purse fund, breeders' fund, or racing promotion fund in accordance with subsection 6
+7 of section 53-06.2-11.
+8 6. Adopt additional rules for the administration, implementation, and regulation of
+9 activities conducted pursuant to this chapter. The commission shall deposit any fees
+10 collected under authority of this subsection in the racing commission operating fund.
+11 Subject to legislative appropriation, the commission may spend the fees for operating
+12 costs of the commission.
+13 SECTION 4. AMENDMENT. Section 53-06.2-06 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 53-06.2-06. Organizations eligible to conduct racing and simulcastassist in
+16 conducting pari-mutuel wagering.
+17 Civic and service clubs; charitable, fraternal, religious, and veterans' organizations; and
+18 other public-spirited
+19 1. Public-spirited organizations the primary purpose of which is for equine education,
+20 community recreation, and economic development may be licensed to conduct racing
+21 and simulcast assist in conducting pari-mutuel wagering as authorized by this chapter.
+22 2. The following types of organizations may be licensed to conduct par i - mutuel wagering
+23 under this chapter:
+24 a. Civic and service clubs;
+25 b. Charitable, fraternal, religious, and veterans' organizations; and
+26 c. Other public-spirited organizations.
+27 SECTION 5. AMENDMENT. Section 53-06.2-07 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+Page No. 5 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 53-06.2-07. Issuance of racing licenses - Applications.
+2 1. On compliance by an applicant with this chapter and the approval of the attorney
+3 general, the commission may issue a license to conduct races. The attorney general
+4 may not grant a license denied by the commission.
+5 2. An application for a license to conduct a racing meet must be signed under oath and
+6 filed with the commission. The application must contain at least the following:
+7 a. The name and post-office address of the applicant.
+8 b. The location of the racetrack and whether it is owned or leased. If the racetrack is
+9 leased, a copy of the lease must be included.
+10 c. A statement of the applicant's previous history and association sufficient to
+11 establish that the applicant is an eligible organization.
+12 d. The time, place, and number of days the racing meet is proposed to be
+13 conducted.
+14 e. The type of racing to be conducted.
+15 f. Other information the commission requires.
+16 3. At least thirty days before the commission issues or renews a license to conduct
+17 races, the applicant shall deliver a complete copy of the application to the local
+18 jurisdiction governing body. The application to the commission must include a
+19 certificate verified by a representative of the applicant, indicating delivery of the
+20 application copy to the governing body. If the governing body of the local jurisdiction
+21 adopts a resolution disapproving the application for license or renewal and so informs
+22 the executive director within thirty days of receiving a copy of the application, the
+23 license to conduct races may not be issued or renewed.
+24 4. A licensee, including a totalizator provider or service provider, may not offer bets or
+25 wagers on dog races.
+26 SECTION 6. AMENDMENT. Section 53-06.2-08 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 53-06.2-08. License authorization and fees.
+29 1. Each license issued under the certificate system must describe the place, track, or
+30 racecourse at which the licensee may hold races. Every license must specify the
+31 number of days the licensed races may continue, the hours during which racing may
+Page No. 6 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 be conducted, and the number of races that may be held each day. Races authorized
+2 under this chapter may be held during the hours approved by the commission and
+3 within the hours permitted by state law. Wagering on historic horse races may be
+4 conducted on any day, regardless of whether live racing or simulcasting is taking
+5 place.
+6 2. The commission may charge a license fee for racing commensurate with the size and
+7 attendance of the race meet.
+8 3. Each applicant for a license under this chapter shall give bond or a letter of credit
+9 payable to this state with good security as approved by the commission. The bond or
+10 letter of credit must be in the amount the commission determines will adequately
+11 protect the amount normally due and owing to this state in a regular payment period
+12 or, in the case of new or altered conditions, based on the projected revenues.
+13 4. The commission may grant licenses to horse owners, jockeys, riders, agents, trainers,
+14 grooms, stable foremen, exercise workers, veterinarians, valets, concessionaires,
+15 service providers, employees of racing associations, and such other persons as
+16 determined by the commission. Licensure of service providers, totalizator companies,
+17 site operators, and organizations applying to conduct or conducting pari-mutuel
+18 wagering must be approved by the attorney general. The attorney general may not
+19 grant a license denied by the commission. License fees are as established by the
+20 commission.
+21 5. The commission may establish the period of timeterm for which licenses issued under
+22 this chapter are valid.
+23 6. The commission shall deposit all fees collected under this section in the racing
+24 commission operating fund. Subject to legislative appropriation, the commission may
+25 spend the fees for operating costs of the commission.
+26 SECTION 7. AMENDMENT. Section 53-06.2-10 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 53-06.2-10. Certificate system - Rules.
+29 The certificate system allows a licensee to receive money from any person present aton a
+30 live, simulcast, or historic horse race, simulcast horse race, or simulcast dog race who desires
+31 to bet on any entry in that race. A person betting on an entry to win acquires an interest in the
+Page No. 7 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 total money bet on all entries in the race, in proportion to the amount of money bet by that
+2 person, under rules adopted by the commission. The licensee shall receive the bets and for
+3 each bet on a live or simulcast horse race shall issue a certificate to the bettor on which is at
+4 least shown the number of the race, the amount bet, and the number or name of the entry
+5 selected by the bettor. A certificate may not be issued for a wager on a historic horse race. The
+6 commission may adopt rules for place, show, quinella, combination, or other types of betting
+7 usually connected with racing par i - mutuel wagering .
+8 SECTION 8. AMENDMENT. Section 53-06.2-10.1 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 53-06.2-10.1. Simulcast wagering.
+11 1. As used in this section, "account wagering" means a form of par i - mutuel wagering in
+12 which an individual deposits money in an account and uses the account balance to
+13 pay for par i - mutuel wagers .
+14 2. In addition to racing under the certificate system, as authorized by this chapter, and
+15 conducted upon the premises of a racetrack, simulcast pari-mutuel and account
+16 wagering may be conducted in accordance with this chapter or rules adopted by the
+17 commission under this chapter in accordance with chapter 28-32.
+18 3. Any organization qualified under section 53-06.2-06 to conduct racing may make
+19 written applicationapply to the commission for the conduct of simulcast pari-mutuel
+20 and account wagering on races held at licensed racetracks inside the state or
+21 racetracks outside the state, or both.
+22 4. Licensure of service providers, totalizator companies, site operators, or organizations
+23 applying to conduct or conducting simulcast or account wagering must be approved by
+24 the attorney general. The attorney general may not grant a license denied by the
+25 commission.
+26 5. Notwithstanding any other provision of this chapter, the commission may authorize any
+27 licensee to participate in interstate or international combined wagering pools with one
+28 or more other racing jurisdictions. Anytime that
+29 a. If a licensee participates in an interstate or international combined pool, the
+30 licensee, as prescribed by the commission, may adopt the take-out of the host
+31 jurisdiction or facility.
+Page No. 8 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 b. The commission may permit a licensee to use one or more of its races or
+2 simulcast programs for an interstate or international combined wagering pool at
+3 locations outside its jurisdiction and may allow pari-mutuel pools in other states to
+4 be combined with pari-mutuel pools in its jurisdiction for the purpose of
+5 establishing an interstate or international combined wagering pool.
+6 c. The participation by a licensee in a combined interstate or international wagering
+7 pool does not cause that licensee to be considered to be doing business in any
+8 jurisdiction other than the jurisdiction in which the licensee is physically located.
+9 d. Pari-mutuel taxes or commissions may not be imposed on any amounts wagered
+10 in an interstate or international combined wagering pool other than amounts
+11 wagered within this jurisdiction.
+12 e. Breakage for interstate or international combined wagering pools must be
+13 calculated in accordance with the statutes or rules of the host jurisdiction and
+14 must be distributed among the participating jurisdictions in a manner agreed to
+15 among the jurisdictions.
+16 6. The certificate system also permits pari-mutuel wagering to be conducted through
+17 account wagering. As used in this section, "account wagering" means a form of
+18 pari-mutuel wagering in which an individual deposits money in an account and uses
+19 the account balance to pay for pari-mutuel wagers. An account wager made on an
+20 account established in this state may only be made only through the licensed
+21 simulcast service provider approved by the attorney general and authorized by the
+22 commission to operate the simulcast pari-mutuel wagering system under the certificate
+23 system. The attorney general may not grant a license denied by the commission. An
+24 account wager may be made in person, by direct telephone communication, or
+25 through other electronic communication in accordance with rules adopted by the
+26 commission. Breakage for interstate or international combined wagering pools must be
+27 calculated in accordance with the statutes or rules of the host jurisdiction and must be
+28 distributed among the participating jurisdictions in a manner agreed to among the
+29 jurisdictions.
+30 SECTION 9. A new section to chapter 53-06.2 of the North Dakota Century Code is created
+31 and enacted as follows:
+Page No. 9 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 Historic horse race wagering.
+2 1. In accordance with par i - mutuel wagering under the certificate system, and i f
+3 conducted at an equine racing facility, par i - mutuel wagering on historic horse races
+4 may be conducted in accordance with this chapter or rules adopted by the
+5 commission. Any equine racing facility under this chapter may offer wagering on
+6 historic horse races on electronic devices if:
+7 a. Wagering is conducted within an equine racing facility, using the par i - mutue l
+8 method of wagering;
+9 b. A licensee maintains no fewer than two terminals offering the same type of wager
+10 on historic horse races;
+11 c. The terminal used for conducting a historic horse race:
+12 (1) Provides true and accurate past performance information on each historic
+13 horse race before a patron makes selections;
+14 (2) Displays the official results of each race;
+15 (3) Has been tested by an independent testing laboratory to ensure integrity
+16 and proper working order; and
+17 (4) Displays pool amounts that patron will receive for a winning wager; and
+18 d. The identity of each race is revealed to the patron after the patron has placed a
+19 wager.
+20 2. The terminal used for conducting a historic horse race may display a photographic
+21 recording or digital simulation or recreation of a portion of the race.
+22 3. Notwithstanding any other provision of this chapter, in addition to any bond provided to
+23 the attorney general as security for other licensed activity pursuant to section
+24 53 - 06.2 - 08, each licensed service provider approved by the commission to offer
+25 wagering on historic horse races shall post a bond of five hundred thousand dollars
+26 payable to the state. A licensed service provider posting a bond under this section is
+27 not required to post more than one bond in the amount of five hundred thousand
+28 dollars, regardless of the number of simulcast facilities at which it offers wagers on
+29 historic horse races.
+30 SECTION 10. A new section to chapter 53-06.2 of the North Dakota Century Code is
+31 created and enacted as follows:
+Page No. 10 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 Pari-mutuel horse wagering.
+2 For pari-mutuel horse wagering:
+3 1. Wagers must be placed in one or more wagering pools.
+4 2. Wagers on different races or sets of races may be pooled together.
+5 3. Patrons may establish odds or payouts.
+6 4. Winning patrons share in amounts wagered, including carryover amounts plus
+7 amounts provided by an association less any deductions required, as approved by the
+8 commission.
+9 5. Pools may be paid out incrementally as approved by the commission.
+10 SECTION 11. AMENDMENT. Section 53-06.2-11 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 53-06.2-11. Bet payoff formulas - Uses by licensee of funds in excess of expenses -
+13 Payment to general fund.
+14 1. For wagering on live horse racing:
+15 a. In win, place, and show pari-mutuel pools, the licensee may deduct no more than
+16 twenty percent of the amount wagered. Of the amount wagered, the licensee
+17 shall pay:
+18 (1) One-half of one percent to the state treasurer to be deposited in the general
+19 fund.
+20 (2) One-half of one percent to the commission to be deposited in the breeders'
+21 fund.
+22 (3) One-half of one percent to the commission to be deposited in the purse
+23 fund.
+24 (4) One-half of one percent to the commission to be deposited in the racing
+25 promotion fund.
+26 b. In daily double, quinella, exacta, trifecta, or other combination pari-mutuel pools,
+27 the licensee may deduct no more than twenty-five percent of the amount
+28 wagered. Of the amount wagered, the licensee shall pay:
+29 (1) One-half of one percent to the state treasurer to be deposited in the general
+30 fund.
+Page No. 11 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 (2) One-half of one percent to the commission to be deposited in the breeders'
+2 fund.
+3 (3) One-half of one percent to the commission to be deposited in the purse
+4 fund.
+5 (4) One-half of one percent to the commission to be deposited in the racing
+6 promotion fund.
+7 2. For simulcast and account wagering:
+8 a. In win, place, and show pari-mutuel pools, the licensee may deduct no more than
+9 twenty percent of the amount wagered. Except as limited in subdivision c, of the
+10 amount wagered by simulcast and account wagering in win, place, and show
+11 pari-mutuel pools, the licensee shall pay:
+12 (1) One-sixteenth of one percent to the state treasurer to be deposited in the
+13 general fund.
+14 (2) One-sixteenth of one percent to the commission to be deposited in the
+15 breeders' fund.
+16 (3) One-sixteenth of one percent to the commission to be deposited in the
+17 purse fund.
+18 (4) One-sixteenth of one percent to the commission to be deposited in the
+19 racing promotion fund.
+20 b. Except as limited in subdivision c, of the amount wagered by simulcast and
+21 account wagering in daily double, quinella, exacta, trifecta, or other combination
+22 pari-mutuel pools, the licensee shall pay:
+23 (1) One-sixteenth of one percent to the state treasurer to be deposited in the
+24 general fund.
+25 (2) One-sixteenth of one percent to the commission to be deposited in the
+26 breeders' fund.
+27 (3) One-sixteenth of one percent to the commission to be deposited in the
+28 purse fund.
+29 (4) One-sixteenth of one percent to the commission to be deposited in the
+30 racing promotion fund.
+Page No. 12 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 c. For the fiscal year commencing July 1, 2013, the licensee may not pay more than
+2 four hundred thousand dollars. For the fiscal year commencing July 1, 2014, and
+3 thereafter, the licensee may not pay more than four hundred twenty thousand
+4 dollars.
+5 3. For historic horse race wagering, the licensee may deduct no more than twenty - five
+6 percent of the amount wagered. Of the amount wagered, the licensee shall pay:
+7 a. One - fourth of one percent to the state treasurer to be deposited in the genera l
+8 fund.
+9 b. One - sixth of one percent to be deposited in the breeder's fund .
+10 c. One - sixth of one percent to be deposited in the purse fund .
+11 d. One - sixth of one percent to be deposited in the racing promotion fund .
+12 e. One - fourth of one percent to be deposited in the treasury of the county in which
+13 wagering on historic horse racing takes place.
+14 f. One - fourth of one percent to be deposited in the treasury of the city in which
+15 wagering on historic horse racing takes place.
+16 4. For all pari-mutuel wagering the licensee shall pay to the commission the amount due
+17 for all unclaimed tickets and all breakage on the first twenty million dollars wagered in
+18 each fiscal year with each service provider. The amount received must be deposited in
+19 the racing promotion fund.
+20 4.5. The licensee conducting wagering on live racing, simulcast horse racing wagering,
+21 historic horse racing, or account wagering shall retain all other money in the
+22 pari-mutuel pool and pay it to bettors holding winning tickets as provided by rules
+23 adopted by the commission.
+24 5.6. A licensee may not use any of the portion deducted for expenses under subsections 1
+25 and 2 for expenses not directly incurred by the licensee in conducting pari-mutuel
+26 racingwagering under the certificate system. After paying qualifying expenses, the
+27 licensee shall use the remainder of the amount so withheld only for eligible uses
+28 allowed to charitable gambling organizations under section 53-06.1-11.1.
+29 6.7. The commission shall deposit the moneys received pursuant to subsections 1, 2, and
+30 3, and 4 and from the North Dakota horse racing foundation pursuant to subsection 5
+31 of section 53-06.2-05 in the breeders' fund, the purse fund, and the racing promotion
+Page No. 13 25.0647.02000
+Sixty-ninth
+Legislative Assembly
+1 fund. Moneys, and any earnings on the moneys, in the breeders' fund, purse fund, and
+2 racing promotion fund are appropriated to the commission on a continuing basis to
+3 carry out the purposes of those funds under this chapter and must be administered
+4 and disbursed in accordance with rules adopted by the commission. The commission
+5 may not transfer money among the funds. The commission shall distribute in-state
+6 awards and payment supplements from the breeders' fund in the same calendar year
+7 the money was earned by the recipient. The commission shall distribute out-of-state
+8 awards and payment supplements from the breeders' fund, if made available by the
+9 commission, within two months of the end of the calendar year the money was earned
+10 by the recipient. The commission shall distribute payments awarded to qualified
+11 owners and breeders from the breeders' fund without requiring owners and breeders
+12 to apply for the payments. The commission may receive twenty-five thousand dollars
+13 per year or twenty-five percent per year, whichever is greater, from the racing
+14 promotion fund for the payment of the commission's operating expenses.
+Page No. 14 25.0647.02000
+[DELETED: ."."."."."12]
+[DELETED: .".".A.C.B."."."."."."."22]
+[DELETED: .".".".".P.S.A.S.A.C32]
+[DELETED: .E.D.R.P.C.C.I.R.L42]
+[DELETED: .R.A.P. .C.C.O52]
+[DELETED: .O.A.T.T.A.T.T.O.A.A.E62]
+[DELETED: .T.E.T.T.T72]
+[DELETED: . .I.A.L.N.I82]
+[DELETED: .T.T.P.B.T92]
+[DELETED: . . .A.T)P)D)H)D.T.T.N02]
+[DELETED: .W.W.P.W.P.F.I)O)O)O)O.I)O12]
+[DELETED: )O)O)O.F.I)O)O)O)O.E)O)O)O)O22]
+[DELETED: .F. . . . . . . .F.T.A.T32]
+[DELETED: 42]
+
+
+================================================================================
+
+Raw Text:
+25.0647.02000
+Sixty-ninth
+SENATE BILL NO. 2347
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Myrdal, Sorvaag, Thomas
+1 A BILL for an Act to create and enact two new sections to chapter 53-06.2 of the North Dakota
+2 Century Code, relating to historic horse race wagering and pari-mutuel horse racing; and to
+3 amend and reenact sections 53-06.2-01, 53-06.2-04, 53-06.2-05, 53-06.2-06, 53-06.2-07,
+4 53-06.2-08, 53-06.2-10, 53-06.2-10.1, and 53-06.2-11 of the North Dakota Century Code,
+5 relating to the authorization of historic horse race wagering and the elimination of simulcast dog
+6 racing under the certificate system.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Section 53-06.2-01 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 53-06.2-01. Definitions.
+11 As used in this chapter:
+12 1. "Association" means a person licensed by the racing commission conducting
+13 par i - mutuel wagering .
+14 2. "Breeders' fund" means a fund, administered by the commission, established to
+15 financially reward breeders or owners of North Dakota-bred horses to be paid in
+16 accordance with rules as approved by the commission.
+17 2.3. "Certificate system" means the system of betting described in section 53-06.2-10.
+18 3.4. "Charitable organization" means a nonprofit organization operated for the relief of
+19 poverty, distress, or other conditions of public concern in this state and has been so
+20 engaged in this state for at least two years.
+21 4.5. "Civic and service club" means a branch, lodge, or chapter of a nonprofit national or
+22 state organization that is authorized by its written constitution, charter, articles of
+23 incorporation, or bylaws to engage in a civic or service purpose in this state and has
+24 so existed in this state for at least two years. The term includes a similar local
+Page No. 1 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 nonprofit organization, not affiliated with a state or national organization, which is so
+2 recognized by a resolution adopted by the governing body of the local jurisdiction in
+3 which the organization conducts its principal activities, and which has existed in this
+4 state for at least two years.
+5 5.6. "Commission" means the North Dakota racing commission.
+6 6.7. "Equine racing facility" means a horse racing facility that conducts at least eight live
+7 horse races in a calendar year and which has a minimum racing infrastructure
+8 consisting of:
+9 a. A six-furlong [1207.01 meters] dirt track for flat racing;
+10 b. Capacity for no fewer than five hundred individuals; and
+11 c. Barns with no fewer than fifty permanent stalls.
+12 8. "Executive director" means the executive director of the commission.
+13 7.9. "Fraternal organization" means a nonprofit organization in this state, which is a
+14 branch, lodge, or chapter of a national or state organization and exists for the common
+15 business, brotherhood, or other interests of its members, and has so existed in this
+16 state for two years. The term does not include a college or high school fraternity.
+17 10. "Historic horse race" means any horse race that was previously conducted by a
+18 licensed pari-mutuel facility, concluded with official results, and concluded without
+19 scratches, disqualifications, and dead-heat finishes.
+20 8.11. "Local jurisdiction" means, with respect to a site inside the city limits of a city, that city,
+21 and with respect to a site not inside the city limits of a city, the county in which the site
+22 is located.
+23 9.12. "Other public-spirited organization" means a nonprofit organization recognized by the
+24 governing body of the appropriate local jurisdiction by resolution as public-spirited and
+25 eligible under this chapter.
+26 10.13. "Pari-mutuel wagering" means a method of wagering approved by the commission in
+27 which one or more patrons wager on a horse race, whether live, simulcast, or historic
+28 horse race.
+29 14. "Purse fund" means a fund, administered by the commission, established to
+30 supplement and improve purses offered at racetracks within the state.
+Page No. 2 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 11.15. "Racing" means live or simulcast horse racing under the certificate system or
+2 simulcast dog racing under the certificate system.
+3 12.16. "Racing promotion fund" means a fund administered by the commission established to
+4 assist in improving and upgrading racetracks in the state, promoting horse racing in
+5 the state, and developing new racetracks in the state as necessary and approved by
+6 the commission.
+7 13.17. "Religious organization" means a nonprofit organization, church, body of
+8 communicants, or group gathered in common membership for mutual support and
+9 edification in piety, worship, and religious observances, and which has been so
+10 gathered or united in this state for at least two years.
+11 14.18. "Veterans' organization" means a congressionally chartered organization in this state,
+12 or a branch, lodge, or chapter of a nonprofit national or state organization in this state,
+13 the membership of which consists of individuals who were members of the armed
+14 services or forces of the United States, and which has so been in existence in this
+15 state for at least two years.
+16 SECTION 2. AMENDMENT. Section 53-06.2-04 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 53-06.2-04. Duties of commission.
+19 The commission shall:
+20 1. Provide for racing and wagering under the certificate system.
+21 2. Set racing dates.
+22 3. Adopt rules for effectively preventing the use of any substance, compound items, or
+23 combinations of any medicine, narcotic, stimulant, depressant, or anesthetic which
+24 could alter the normal performance of a racehorse, unless specifically authorized by
+25 the commission.
+26 4. Supervise and check the making of pari-mutuel pools, pari-mutuel machines, and
+27 equipment at all races held for wagering under the certificate system.
+28 5. Adopt rules governing, restricting, or regulating bids on licensees' concessions and
+29 leases on equipment.
+30 6. Consider all proposed extensions, additions, or improvements to the buildings,
+31 stables, or tracks on property owned or leased by a licensee.
+Page No. 3 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 7. Exclude from racetracks or simulcast pari-mutuel wagering facilities any
+2 personindividual who violates any rule of the commission or any law.
+3 8. Determine the cost of inspections performed under subsection 3 of section 53-06.2-05
+4 and require the licensee to pay that cost.
+5 9. Report biennially to the legislative council regarding the operation of the commission.
+6 10. Provide notice to the North Dakota horsemen's council of meetings held by the
+7 commission and permit the North Dakota horsemen's council to participate in the
+8 meetings through placement of items on the agenda.
+9 11. Complete, distribute, and post on the commission's website the minutes of each
+10 commission meeting within thirty days of that meeting or before the next meeting of
+11 the commission, whichever occurs first.
+12 SECTION 3. AMENDMENT. Section 53-06.2-05 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 53-06.2-05. Powers of commission.
+15 The commission may:
+16 1. Compel the production of all documents showing the receipts and disbursements of
+17 any licensee and determine the manner in which such financial records are to be kept.
+18 2. Investigate the operations of any licensee and enter any vehicle or place of business,
+19 residence, storage, or racing of any licensee on the grounds of a licensed association
+20 to determine whether there has been compliance with the provisions of this chapter
+21 and rules adopted under this chapter, and to discover and seize any evidence of
+22 noncompliance.
+23 3. Request appropriate state officials to perform inspections necessary for the health and
+24 safety of spectators, employees, participants, and horses that are lawfully on a
+25 racetrack.
+26 4. License all participants in the racing and simulcast pari-mutuel wagering industry and
+27 require and obtain information the commission deems necessary from license
+28 applicants. Licensure of service providers, totalizator companies, site operators, and
+29 organizationsentities applying to conduct or conducting pari-mutuel wagering must be
+30 approved by the attorney general. The attorney general may not grant a license
+31 denied by the commission. The commission may obtain a statewide and nationwide
+Page No. 4 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 criminal history record check from the bureau of criminal investigation for the purpose
+2 of determining suitability or fitness for a license. The nationwide check must be
+3 conducted in the manner provided in section 12-60-24. All costs associated with
+4 obtaining a background check are the responsibility of the applicant for a license.
+5 5. Receive moneys from the North Dakota horse racing foundation for deposit in the
+6 purse fund, breeders' fund, or racing promotion fund in accordance with subsection 6
+7 of section 53-06.2-11.
+8 6. Adopt additional rules for the administration, implementation, and regulation of
+9 activities conducted pursuant to this chapter. The commission shall deposit any fees
+10 collected under authority of this subsection in the racing commission operating fund.
+11 Subject to legislative appropriation, the commission may spend the fees for operating
+12 costs of the commission.
+13 SECTION 4. AMENDMENT. Section 53-06.2-06 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 53-06.2-06. Organizations eligible to conduct racing and simulcastassist in
+16 conducting pari-mutuel wagering.
+17 Civic and service clubs; charitable, fraternal, religious, and veterans' organizations; and
+18 other public-spirited
+19 1. Public-spirited organizations the primary purpose of which is for equine education,
+20 community recreation, and economic development may be licensed to conduct racing
+21 and simulcast assist in conducting pari-mutuel wagering as authorized by this chapter.
+22 2. The following types of organizations may be licensed to conduct par i - mutuel wagering
+23 under this chapter:
+24 a. Civic and service clubs;
+25 b. Charitable, fraternal, religious, and veterans' organizations; and
+26 c. Other public-spirited organizations.
+27 SECTION 5. AMENDMENT. Section 53-06.2-07 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+Page No. 5 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 53-06.2-07. Issuance of racing licenses - Applications.
+2 1. On compliance by an applicant with this chapter and the approval of the attorney
+3 general, the commission may issue a license to conduct races. The attorney general
+4 may not grant a license denied by the commission.
+5 2. An application for a license to conduct a racing meet must be signed under oath and
+6 filed with the commission. The application must contain at least the following:
+7 a. The name and post-office address of the applicant.
+8 b. The location of the racetrack and whether it is owned or leased. If the racetrack is
+9 leased, a copy of the lease must be included.
+10 c. A statement of the applicant's previous history and association sufficient to
+11 establish that the applicant is an eligible organization.
+12 d. The time, place, and number of days the racing meet is proposed to be
+13 conducted.
+14 e. The type of racing to be conducted.
+15 f. Other information the commission requires.
+16 3. At least thirty days before the commission issues or renews a license to conduct
+17 races, the applicant shall deliver a complete copy of the application to the local
+18 jurisdiction governing body. The application to the commission must include a
+19 certificate verified by a representative of the applicant, indicating delivery of the
+20 application copy to the governing body. If the governing body of the local jurisdiction
+21 adopts a resolution disapproving the application for license or renewal and so informs
+22 the executive director within thirty days of receiving a copy of the application, the
+23 license to conduct races may not be issued or renewed.
+24 4. A licensee, including a totalizator provider or service provider, may not offer bets or
+25 wagers on dog races.
+26 SECTION 6. AMENDMENT. Section 53-06.2-08 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 53-06.2-08. License authorization and fees.
+29 1. Each license issued under the certificate system must describe the place, track, or
+30 racecourse at which the licensee may hold races. Every license must specify the
+31 number of days the licensed races may continue, the hours during which racing may
+Page No. 6 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 be conducted, and the number of races that may be held each day. Races authorized
+2 under this chapter may be held during the hours approved by the commission and
+3 within the hours permitted by state law. Wagering on historic horse races may be
+4 conducted on any day, regardless of whether live racing or simulcasting is taking
+5 place.
+6 2. The commission may charge a license fee for racing commensurate with the size and
+7 attendance of the race meet.
+8 3. Each applicant for a license under this chapter shall give bond or a letter of credit
+9 payable to this state with good security as approved by the commission. The bond or
+10 letter of credit must be in the amount the commission determines will adequately
+11 protect the amount normally due and owing to this state in a regular payment period
+12 or, in the case of new or altered conditions, based on the projected revenues.
+13 4. The commission may grant licenses to horse owners, jockeys, riders, agents, trainers,
+14 grooms, stable foremen, exercise workers, veterinarians, valets, concessionaires,
+15 service providers, employees of racing associations, and such other persons as
+16 determined by the commission. Licensure of service providers, totalizator companies,
+17 site operators, and organizations applying to conduct or conducting pari-mutuel
+18 wagering must be approved by the attorney general. The attorney general may not
+19 grant a license denied by the commission. License fees are as established by the
+20 commission.
+21 5. The commission may establish the period of timeterm for which licenses issued under
+22 this chapter are valid.
+23 6. The commission shall deposit all fees collected under this section in the racing
+24 commission operating fund. Subject to legislative appropriation, the commission may
+25 spend the fees for operating costs of the commission.
+26 SECTION 7. AMENDMENT. Section 53-06.2-10 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 53-06.2-10. Certificate system - Rules.
+29 The certificate system allows a licensee to receive money from any person present aton a
+30 live, simulcast, or historic horse race, simulcast horse race, or simulcast dog race who desires
+31 to bet on any entry in that race. A person betting on an entry to win acquires an interest in the
+Page No. 7 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 total money bet on all entries in the race, in proportion to the amount of money bet by that
+2 person, under rules adopted by the commission. The licensee shall receive the bets and for
+3 each bet on a live or simulcast horse race shall issue a certificate to the bettor on which is at
+4 least shown the number of the race, the amount bet, and the number or name of the entry
+5 selected by the bettor. A certificate may not be issued for a wager on a historic horse race. The
+6 commission may adopt rules for place, show, quinella, combination, or other types of betting
+7 usually connected with racing par i - mutuel wagering .
+8 SECTION 8. AMENDMENT. Section 53-06.2-10.1 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 53-06.2-10.1. Simulcast wagering.
+11 1. As used in this section, "account wagering" means a form of par i - mutuel wagering in
+12 which an individual deposits money in an account and uses the account balance to
+13 pay for par i - mutuel wagers .
+14 2. In addition to racing under the certificate system, as authorized by this chapter, and
+15 conducted upon the premises of a racetrack, simulcast pari-mutuel and account
+16 wagering may be conducted in accordance with this chapter or rules adopted by the
+17 commission under this chapter in accordance with chapter 28-32.
+18 3. Any organization qualified under section 53-06.2-06 to conduct racing may make
+19 written applicationapply to the commission for the conduct of simulcast pari-mutuel
+20 and account wagering on races held at licensed racetracks inside the state or
+21 racetracks outside the state, or both.
+22 4. Licensure of service providers, totalizator companies, site operators, or organizations
+23 applying to conduct or conducting simulcast or account wagering must be approved by
+24 the attorney general. The attorney general may not grant a license denied by the
+25 commission.
+26 5. Notwithstanding any other provision of this chapter, the commission may authorize any
+27 licensee to participate in interstate or international combined wagering pools with one
+28 or more other racing jurisdictions. Anytime that
+29 a. If a licensee participates in an interstate or international combined pool, the
+30 licensee, as prescribed by the commission, may adopt the take-out of the host
+31 jurisdiction or facility.
+Page No. 8 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. The commission may permit a licensee to use one or more of its races or
+2 simulcast programs for an interstate or international combined wagering pool at
+3 locations outside its jurisdiction and may allow pari-mutuel pools in other states to
+4 be combined with pari-mutuel pools in its jurisdiction for the purpose of
+5 establishing an interstate or international combined wagering pool.
+6 c. The participation by a licensee in a combined interstate or international wagering
+7 pool does not cause that licensee to be considered to be doing business in any
+8 jurisdiction other than the jurisdiction in which the licensee is physically located.
+9 d. Pari-mutuel taxes or commissions may not be imposed on any amounts wagered
+10 in an interstate or international combined wagering pool other than amounts
+11 wagered within this jurisdiction.
+12 e. Breakage for interstate or international combined wagering pools must be
+13 calculated in accordance with the statutes or rules of the host jurisdiction and
+14 must be distributed among the participating jurisdictions in a manner agreed to
+15 among the jurisdictions.
+16 6. The certificate system also permits pari-mutuel wagering to be conducted through
+17 account wagering. As used in this section, "account wagering" means a form of
+18 pari-mutuel wagering in which an individual deposits money in an account and uses
+19 the account balance to pay for pari-mutuel wagers. An account wager made on an
+20 account established in this state may only be made only through the licensed
+21 simulcast service provider approved by the attorney general and authorized by the
+22 commission to operate the simulcast pari-mutuel wagering system under the certificate
+23 system. The attorney general may not grant a license denied by the commission. An
+24 account wager may be made in person, by direct telephone communication, or
+25 through other electronic communication in accordance with rules adopted by the
+26 commission. Breakage for interstate or international combined wagering pools must be
+27 calculated in accordance with the statutes or rules of the host jurisdiction and must be
+28 distributed among the participating jurisdictions in a manner agreed to among the
+29 jurisdictions.
+30 SECTION 9. A new section to chapter 53-06.2 of the North Dakota Century Code is created
+31 and enacted as follows:
+Page No. 9 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Historic horse race wagering.
+2 1. In accordance with par i - mutuel wagering under the certificate system, and i f
+3 conducted at an equine racing facility, par i - mutuel wagering on historic horse races
+4 may be conducted in accordance with this chapter or rules adopted by the
+5 commission. Any equine racing facility under this chapter may offer wagering on
+6 historic horse races on electronic devices if:
+7 a. Wagering is conducted within an equine racing facility, using the par i - mutue l
+8 method of wagering;
+9 b. A licensee maintains no fewer than two terminals offering the same type of wager
+10 on historic horse races;
+11 c. The terminal used for conducting a historic horse race:
+12 (1) Provides true and accurate past performance information on each historic
+13 horse race before a patron makes selections;
+14 (2) Displays the official results of each race;
+15 (3) Has been tested by an independent testing laboratory to ensure integrity
+16 and proper working order; and
+17 (4) Displays pool amounts that patron will receive for a winning wager; and
+18 d. The identity of each race is revealed to the patron after the patron has placed a
+19 wager.
+20 2. The terminal used for conducting a historic horse race may display a photographic
+21 recording or digital simulation or recreation of a portion of the race.
+22 3. Notwithstanding any other provision of this chapter, in addition to any bond provided to
+23 the attorney general as security for other licensed activity pursuant to section
+24 53 - 06.2 - 08, each licensed service provider approved by the commission to offer
+25 wagering on historic horse races shall post a bond of five hundred thousand dollars
+26 payable to the state. A licensed service provider posting a bond under this section is
+27 not required to post more than one bond in the amount of five hundred thousand
+28 dollars, regardless of the number of simulcast facilities at which it offers wagers on
+29 historic horse races.
+30 SECTION 10. A new section to chapter 53-06.2 of the North Dakota Century Code is
+31 created and enacted as follows:
+Page No. 10 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Pari-mutuel horse wagering.
+2 For pari-mutuel horse wagering:
+3 1. Wagers must be placed in one or more wagering pools.
+4 2. Wagers on different races or sets of races may be pooled together.
+5 3. Patrons may establish odds or payouts.
+6 4. Winning patrons share in amounts wagered, including carryover amounts plus
+7 amounts provided by an association less any deductions required, as approved by the
+8 commission.
+9 5. Pools may be paid out incrementally as approved by the commission.
+10 SECTION 11. AMENDMENT. Section 53-06.2-11 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 53-06.2-11. Bet payoff formulas - Uses by licensee of funds in excess of expenses -
+13 Payment to general fund.
+14 1. For wagering on live horse racing:
+15 a. In win, place, and show pari-mutuel pools, the licensee may deduct no more than
+16 twenty percent of the amount wagered. Of the amount wagered, the licensee
+17 shall pay:
+18 (1) One-half of one percent to the state treasurer to be deposited in the general
+19 fund.
+20 (2) One-half of one percent to the commission to be deposited in the breeders'
+21 fund.
+22 (3) One-half of one percent to the commission to be deposited in the purse
+23 fund.
+24 (4) One-half of one percent to the commission to be deposited in the racing
+25 promotion fund.
+26 b. In daily double, quinella, exacta, trifecta, or other combination pari-mutuel pools,
+27 the licensee may deduct no more than twenty-five percent of the amount
+28 wagered. Of the amount wagered, the licensee shall pay:
+29 (1) One-half of one percent to the state treasurer to be deposited in the general
+30 fund.
+Page No. 11 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) One-half of one percent to the commission to be deposited in the breeders'
+2 fund.
+3 (3) One-half of one percent to the commission to be deposited in the purse
+4 fund.
+5 (4) One-half of one percent to the commission to be deposited in the racing
+6 promotion fund.
+7 2. For simulcast and account wagering:
+8 a. In win, place, and show pari-mutuel pools, the licensee may deduct no more than
+9 twenty percent of the amount wagered. Except as limited in subdivision c, of the
+10 amount wagered by simulcast and account wagering in win, place, and show
+11 pari-mutuel pools, the licensee shall pay:
+12 (1) One-sixteenth of one percent to the state treasurer to be deposited in the
+13 general fund.
+14 (2) One-sixteenth of one percent to the commission to be deposited in the
+15 breeders' fund.
+16 (3) One-sixteenth of one percent to the commission to be deposited in the
+17 purse fund.
+18 (4) One-sixteenth of one percent to the commission to be deposited in the
+19 racing promotion fund.
+20 b. Except as limited in subdivision c, of the amount wagered by simulcast and
+21 account wagering in daily double, quinella, exacta, trifecta, or other combination
+22 pari-mutuel pools, the licensee shall pay:
+23 (1) One-sixteenth of one percent to the state treasurer to be deposited in the
+24 general fund.
+25 (2) One-sixteenth of one percent to the commission to be deposited in the
+26 breeders' fund.
+27 (3) One-sixteenth of one percent to the commission to be deposited in the
+28 purse fund.
+29 (4) One-sixteenth of one percent to the commission to be deposited in the
+30 racing promotion fund.
+Page No. 12 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 c. For the fiscal year commencing July 1, 2013, the licensee may not pay more than
+2 four hundred thousand dollars. For the fiscal year commencing July 1, 2014, and
+3 thereafter, the licensee may not pay more than four hundred twenty thousand
+4 dollars.
+5 3. For historic horse race wagering, the licensee may deduct no more than twenty - five
+6 percent of the amount wagered. Of the amount wagered, the licensee shall pay:
+7 a. One - fourth of one percent to the state treasurer to be deposited in the genera l
+8 fund.
+9 b. One - sixth of one percent to be deposited in the breeder's fund .
+10 c. One - sixth of one percent to be deposited in the purse fund .
+11 d. One - sixth of one percent to be deposited in the racing promotion fund .
+12 e. One - fourth of one percent to be deposited in the treasury of the county in which
+13 wagering on historic horse racing takes place.
+14 f. One - fourth of one percent to be deposited in the treasury of the city in which
+15 wagering on historic horse racing takes place.
+16 4. For all pari-mutuel wagering the licensee shall pay to the commission the amount due
+17 for all unclaimed tickets and all breakage on the first twenty million dollars wagered in
+18 each fiscal year with each service provider. The amount received must be deposited in
+19 the racing promotion fund.
+20 4.5. The licensee conducting wagering on live racing, simulcast horse racing wagering,
+21 historic horse racing, or account wagering shall retain all other money in the
+22 pari-mutuel pool and pay it to bettors holding winning tickets as provided by rules
+23 adopted by the commission.
+24 5.6. A licensee may not use any of the portion deducted for expenses under subsections 1
+25 and 2 for expenses not directly incurred by the licensee in conducting pari-mutuel
+26 racingwagering under the certificate system. After paying qualifying expenses, the
+27 licensee shall use the remainder of the amount so withheld only for eligible uses
+28 allowed to charitable gambling organizations under section 53-06.1-11.1.
+29 6.7. The commission shall deposit the moneys received pursuant to subsections 1, 2, and
+30 3, and 4 and from the North Dakota horse racing foundation pursuant to subsection 5
+31 of section 53-06.2-05 in the breeders' fund, the purse fund, and the racing promotion
+Page No. 13 25.0647.02000
+
+Sixty-ninth
+Legislative Assembly
+1 fund. Moneys, and any earnings on the moneys, in the breeders' fund, purse fund, and
+2 racing promotion fund are appropriated to the commission on a continuing basis to
+3 carry out the purposes of those funds under this chapter and must be administered
+4 and disbursed in accordance with rules adopted by the commission. The commission
+5 may not transfer money among the funds. The commission shall distribute in-state
+6 awards and payment supplements from the breeders' fund in the same calendar year
+7 the money was earned by the recipient. The commission shall distribute out-of-state
+8 awards and payment supplements from the breeders' fund, if made available by the
+9 commission, within two months of the end of the calendar year the money was earned
+10 by the recipient. The commission shall distribute payments awarded to qualified
+11 owners and breeders from the breeders' fund without requiring owners and breeders
+12 to apply for the payments. The commission may receive twenty-five thousand dollars
+13 per year or twenty-five percent per year, whichever is greater, from the racing
+14 promotion fund for the payment of the commission's operating expenses.
+Page No. 14 25.0647.02000
+
+[DELETED: ."."."."."12]
+[DELETED: .".".A.C.B."."."."."."."22]
+[DELETED: .".".".".P.S.A.S.A.C32]
+[DELETED: .E.D.R.P.C.C.I.R.L42]
+[DELETED: .R.A.P. .C.C.O52]
+[DELETED: .O.A.T.T.A.T.T.O.A.A.E62]
+[DELETED: .T.E.T.T.T72]
+[DELETED: . .I.A.L.N.I82]
+[DELETED: .T.T.P.B.T92]
+[DELETED: . . .A.T)P)D)H)D.T.T.N02]
+[DELETED: .W.W.P.W.P.F.I)O)O)O)O.I)O12]
+[DELETED: )O)O)O.F.I)O)O)O)O.E)O)O)O)O22]
+[DELETED: .F. . . . . . . .F.T.A.T32]
+[DELETED: 42]

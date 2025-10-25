@@ -1,0 +1,140 @@
+Title: HOUSE BILL NO. 1322
+Official Title: HOUSE BILL NO. 1322
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0744.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative Weisz
+Senator Roers
+1 A BILL for an Act to create and enact a new chapter to title 23 of the North Dakota Century
+2 Code, relating to ambulance service provider reimbursement.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 23 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 1. "Ambulance service provider" means a service entity licensed under chapter 23 - 27 as
+8 a basic life support or advanced life support ambulance service.
+9 2. "Balance bill" means the amount an ambulance service provider may charge and
+10 collect from a covered individual for the provision of ambulance services, equaling the
+11 difference between the amount paid by the health care insurer and the amount the
+12 ambulance service provider billed.
+13 3. "Covered person" means an individual eligible to receive coverage of covered services
+14 by a health care insurer under a health benefit plan.
+15 4. "Covered services" means medically necessary patient care or transportation provided
+16 by ambulance service providers.
+17 5. "Health care insurer" means an entity subject to state insurance regulation that
+18 provides health benefit coverage in this state. The term includes:
+19 a. An insurance company;
+20 b. A health maintenance organization;
+21 c. A hospital or medical service corporation;
+22 d. A risk-based provider organization; and
+23 e. A sponsor of a nonfederal, sel f - funded governmental plan .
+Page No. 1 25.0744.01000
+Sixty-ninth
+Legislative Assembly
+1 6. "Medicare reimbursement rate" means the reimbursement rate for a particular health
+2 care service provided under the Health Insurance for the Aged and Disabled Act, title
+3 XVII of the federal Social Security Act of 1965 [42 U.S.C. 1395 et seq.], as amended.
+4 Direct payment required - Determination of reimbursement rate .
+5 1. All reimbursements made by a health care insurer for the provision of ambulance
+6 services to a covered individual must be paid directly to the ambulance service
+7 provider or the provider's designee.
+8 2. If a covered person receives ambulance services from an ambulance service provider,
+9 the health care insurer shall pay the ambulance service provider the lesser of:
+10 a. Four hundred percent of the Medicare reimbursement rate for the same service
+11 in the same geographic area; or
+12 b. The ambulance provider's billed charges.
+13 3. Any rate the health care insurer pays under this section may not be required to include
+14 the coinsurance, copayment, and deductible owed or already paid by the covered
+15 person.
+16 4. Payments made by the health care insurer must include notification to the ambulance
+17 service provider disclosing whether the health care plan is subject to the exclusive
+18 jurisdiction of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1001,
+19 et seq.].
+20 Balance billing prohibited - Enforcement .
+21 1. An ambulance service provider may not collect or bill more than the covered
+22 individual's deductible, coinsurance, copayment, or other cost-sharing amount the
+23 covered individual would be responsible for if services were provided by a participating
+24 ambulance service provider.
+25 2. The insurance commissioner may adopt rules to implement and enforce this section.
+Page No. 2 25.0744.01000
+[DELETED: . .".".".".A.A.A.A. 12]
+[DELETED: .".A.I.F.T.A.P.A.T22]
+
+
+================================================================================
+
+Raw Text:
+25.0744.01000
+Sixty-ninth
+HOUSE BILL NO. 1322
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative Weisz
+Senator Roers
+1 A BILL for an Act to create and enact a new chapter to title 23 of the North Dakota Century
+2 Code, relating to ambulance service provider reimbursement.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 23 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 1. "Ambulance service provider" means a service entity licensed under chapter 23 - 27 as
+8 a basic life support or advanced life support ambulance service.
+9 2. "Balance bill" means the amount an ambulance service provider may charge and
+10 collect from a covered individual for the provision of ambulance services, equaling the
+11 difference between the amount paid by the health care insurer and the amount the
+12 ambulance service provider billed.
+13 3. "Covered person" means an individual eligible to receive coverage of covered services
+14 by a health care insurer under a health benefit plan.
+15 4. "Covered services" means medically necessary patient care or transportation provided
+16 by ambulance service providers.
+17 5. "Health care insurer" means an entity subject to state insurance regulation that
+18 provides health benefit coverage in this state. The term includes:
+19 a. An insurance company;
+20 b. A health maintenance organization;
+21 c. A hospital or medical service corporation;
+22 d. A risk-based provider organization; and
+23 e. A sponsor of a nonfederal, sel f - funded governmental plan .
+Page No. 1 25.0744.01000
+
+Sixty-ninth
+Legislative Assembly
+1 6. "Medicare reimbursement rate" means the reimbursement rate for a particular health
+2 care service provided under the Health Insurance for the Aged and Disabled Act, title
+3 XVII of the federal Social Security Act of 1965 [42 U.S.C. 1395 et seq.], as amended.
+4 Direct payment required - Determination of reimbursement rate .
+5 1. All reimbursements made by a health care insurer for the provision of ambulance
+6 services to a covered individual must be paid directly to the ambulance service
+7 provider or the provider's designee.
+8 2. If a covered person receives ambulance services from an ambulance service provider,
+9 the health care insurer shall pay the ambulance service provider the lesser of:
+10 a. Four hundred percent of the Medicare reimbursement rate for the same service
+11 in the same geographic area; or
+12 b. The ambulance provider's billed charges.
+13 3. Any rate the health care insurer pays under this section may not be required to include
+14 the coinsurance, copayment, and deductible owed or already paid by the covered
+15 person.
+16 4. Payments made by the health care insurer must include notification to the ambulance
+17 service provider disclosing whether the health care plan is subject to the exclusive
+18 jurisdiction of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1001,
+19 et seq.].
+20 Balance billing prohibited - Enforcement .
+21 1. An ambulance service provider may not collect or bill more than the covered
+22 individual's deductible, coinsurance, copayment, or other cost-sharing amount the
+23 covered individual would be responsible for if services were provided by a participating
+24 ambulance service provider.
+25 2. The insurance commissioner may adopt rules to implement and enforce this section.
+Page No. 2 25.0744.01000
+
+[DELETED: . .".".".".A.A.A.A. 12]
+[DELETED: .".A.I.F.T.A.P.A.T22]

@@ -1,0 +1,1319 @@
+Title: HOUSE BILL NO. 1575
+Official Title: HOUSE BILL NO. 1575
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+25.1283.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Weisz, Beltz, Dockter, Dressler, Hagert, Headland, Kempenich
+Senators Klein, Schaible, Thomas
+1 A BILL for an Act to create and enact three new sections to chapter 57-02 and a new
+2 subdivision to subsection 1 of section 57-55-10 of the North Dakota Century Code, relating to
+3 primary residence certification, a state reimbursed taxable valuation reduction for primary
+4 residential property, and a state reimbursed taxable valuation reduction for agricultural and
+5 commercial property owned by resident individuals or entities domiciled in the state; to amend
+6 and reenact sections 57-02-01, 57-02-08.10, 57-02-27, and 57-02-27.1 of the North Dakota
+7 Century Code, relating to property classifications and the primary residence credit certification
+8 and state reimbursement; to repeal section 57-02-08.9 of the North Dakota Century Code,
+9 relating to the primary residence credit; to provide an effective date; and to provide an expiration
+10 date.
+11 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+12 SECTION 1. AMENDMENT. Section 57-02-01 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 57-02-01. Definitions.
+15 As used in this title, unless the context or subject matter otherwise requires:
+16 1. "Agricultural property" means platted or unplatted lands used for raising agricultural
+17 crops or grazing farm animals, except lands platted and assessed as agricultural
+18 property prior to March 30, 1981, shall continue to be assessed as agricultural
+19 property until put to a use other than raising agricultural crops or grazing farm animals.
+20 Agricultural property includes land on which a greenhouse or other building is located
+21 if the land is used for a nursery or other purpose associated with the operation of the
+22 greenhouse. The time limitations contained in this section may not be construed to
+23 prevent property that was assessed as other than agricultural property from being
+Page No. 1 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 assessed as agricultural property if the property otherwise qualifies under this
+2 subsection.
+3 a. Property platted on or after March 30, 1981, is not agricultural property when any
+4 four of the following conditions exist:
+5 (1) The land is platted by the owner.
+6 (2) Public improvements, including sewer, water, or streets, are in place.
+7 (3) Topsoil is removed or topography is disturbed to the extent that the property
+8 cannot be used to raise crops or graze farm animals.
+9 (4) Property is zoned other than agricultural.
+10 (5) Property has assumed an urban atmosphere because of adjacent
+11 residential or commercial development on three or more sides.
+12 (6) The parcel is less than ten acres [4.05 hectares] and not contiguous to
+13 agricultural property.
+14 (7) The property sells for more than four times the county average true and full
+15 agricultural value.
+16 b. Land that was assessed as agricultural property at the time the land was put to
+17 use for extraction of oil, natural gas, or subsurface minerals as defined in section
+18 38-12-01 must continue to be assessed as agricultural property if the remainder
+19 of the surface owner's parcel of property on which the subsurface mineral activity
+20 is occurring continues to qualify for assessment as agricultural property under
+21 this subsection.
+22 2. "Air carrier transportation property" means the operative property of each airline
+23 whose property is assessed for taxation purposes pursuant to chapters 57-06 and
+24 57-32.
+25 3. "Assessed valuation" means fifty percent of the true and full value of property.
+26 4. "Centrally assessed property" means all property which is assessed by the state board
+27 of equalization under chapters 57-05, 57-06, and 57-32.
+28 5. "Commercial property" means all property, or portions of property, not included in the
+29 classes of property defined in subsections 1, 4, 11, and10, 12, 13, and 14.
+30 6. "Credits" means and includes every claim and demand for money or other valuable
+31 thing, and every annuity or sum of money receivable at stated periods, due or to
+Page No. 2 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 become due, and all claims and demands secured by deeds or mortgages, due or to
+2 become due.
+3 7. "Governing body" means a board of county commissioners, city council, board of city
+4 commissioners, school board, or board of education, or the similarly constituted and
+5 acting board of any other municipality.
+6 8. "Money" or "moneys" means gold and silver coin, treasury notes, bank notes, and
+7 every deposit which any person owning the same or holding in trust and residing in
+8 this state is entitled to withdraw as money or on demand.
+9 9. "Municipality" or "taxing district" means a county, city, township, school district, water
+10 conservation and flood control district, Garrison Diversion Conservancy District, county
+11 park district, joint county park district, irrigation district, park district, rural fire protection
+12 district, or any other subdivision of the state empowered to levy taxes.
+13 10. "Nonprimary residential property" means residential property, or portions of residential
+14 property, not included in the class of property defined in subsection 12 .
+15 11. "Person" includes a firm, corporation, or limited liability company.
+16 11.12. "Primary residential property" means residential property certified as a primary
+17 residence under section 2 of this Act .
+18 13. "Railroad property" means the operating property, including franchises, of each
+19 railroad operated in this state, including any electric or other street or interurban
+20 railway.
+21 12.14. "Residential property" means all property, or portions of property, used by an individual
+22 or group of individuals as a dwelling, including property upon which a mobile home is
+23 located but not including hotel and motel accommodations required to be licensed
+24 under chapter 23-09 nor structures providing living accommodations for four or more
+25 separate family units nor any tract of land upon which four or more mobile homes are
+26 located. The term includes nonprimary residential property and primary residential
+27 property.
+28 13.15. "Taxable valuation" signifies the valuation remaining after deducting exemptions and
+29 making other reductions from the original assessed valuation, and is the valuation
+30 upon which the rate of levy finally is computed and against which the taxes finally are
+31 extended.
+Page No. 3 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 14.16. "Tract", "lot", "piece or parcel of real property", or "piece or parcel of land" means any
+2 contiguous quantity of land in the possession of, owned by or recorded as the property
+3 of, the same claimant, person, or company.
+4 15.17. "True and full value" means the value determined by considering the earning or
+5 productive capacity, if any, the market value, if any, and all other matters that affect the
+6 actual value of the property to be assessed. This shall include, for purposes of arriving
+7 at the true and full value of property used for agricultural purposes, farm rentals, soil
+8 capability, soil productivity, and soils analysis.
+9 16.18. "Unencumbered cash" means the total cash on hand in any fund, less the amount
+10 belonging to the fund in closed banks and less the amount of outstanding warrants,
+11 bills, accounts, and contracts which are chargeable against the fund.
+12 17.19. There shall be a presumption that a unit of land is not a farm unless such unit contains
+13 a minimum of ten acres [4.05 hectares], and the taxing authority, in determining
+14 whether such presumption shall apply, shall consider such things as the present use,
+15 the adaptability to use, and how similar type properties in the immediate area are
+16 classified for tax purposes.
+17 SECTION 2. A new section to chapter 57-02 of the North Dakota Century Code is created
+18 and enacted as follows:
+19 Primary residence certification - Eligibility for primary residential property
+20 classification - Application.
+21 1. To be eligible for a primary residential property classification under this chapter, a
+22 primary residence must be certified by the county director of tax equalization as
+23 provided in this section .
+24 2. A dwelling does not lose its character as a primary residence if the owner of the
+25 dwelling does not reside in the primary residence because the individual is confined in
+26 a nursing home, hospital, or other care facility, for as long as that confinement lasts
+27 and the portion of the primary residence previously occupied by the individual is not
+28 rented to another person.
+29 3. To be certified as a primary residence and eligible for the primary residential property
+30 classification under this chapter, an owner shall sign and file with the tax commissioner
+31 an application containing a verified statement of facts establishing the owner's
+Page No. 4 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 property meets the eligibility requirements to be considered a primary residence under
+2 this section as of the date of the application on a form and in the manner prescribed
+3 by the tax commissione r .
+4 a. For assessments for taxable year 2025 for a primary residence taxed as real
+5 estate under this title and assessments for taxable years 2025 and 2026 for a
+6 primary residence taxed as a mobile home under chapter 57 - 55 :
+7 (1) An application for primary residence certification must be filed by Augus t 1 ,
+8 2025, to request a primary residence certification for:
+9 (a) Taxable year 2025 for a primary residence taxed as real estate under
+10 this title.
+11 (b) Taxable years 2025 and 2026 for a primary residence taxed as a
+12 mobile home under chapter 57 - 55 .
+13 (2) By October 31, 2025, the tax commissioner shall :
+14 (a) Review the applications received under this subdivision and
+15 determine which applicants qualify for the primary residence
+16 certification; and
+17 (b) Provide to each county director of tax equalization a copy of each
+18 approved or rejected application received under this subdivision which
+19 identifies property located in the county .
+20 (3) By November 28, 2025, the county director of tax equalization shall :
+21 (a) Notify the applicant of the approval or denial of the application.
+22 (b) Adjust the corresponding taxable year classification from a residentia l
+23 classification to the appropriate classification of primary residential
+24 property or nonprimary residential property and correct the
+25 assessment list to reflect the appropriate classification of the property .
+26 b. For assessments for taxable years after 2025 for a primary residence taxed as
+27 real estate under this title and assessments after 2026 for a primary residence
+28 taxed as a mobile home under chapter 57 - 55 :
+29 (1) An application for primary residence certification must be filed by February
+30 first of each year after 2025 to request a primary residence certification for:
+Page No. 5 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 (a) The taxable year during which the application is filed for a primary
+2 residence taxed as real estate under this title.
+3 (b) The taxable year succeeding the taxable year during which the
+4 application is filed for a primary residence taxed as a mobile home
+5 under chapter 57 - 55 .
+6 (2) As soon as practicable after receiving the applications, no later than
+7 February twenty-eighth of each year after 2025, the tax department shall:
+8 (a) Review the applications received under this subdivision and
+9 determine which applicants qualify for the primary residence
+10 certification; and
+11 (b) Provide to each county director of tax equalization a copy of each
+12 approved or rejected application received under this subdivision which
+13 identifies property located in the county.
+14 (3) Within fifteen days of receipt of the applications from the tax department
+15 under paragraph 2, no later than March fifteenth of each year after 2025 ,
+16 the county director of tax equalization shall notify the applicant of the
+17 approval or denial of the application and reflect the appropriate classification
+18 of the property on the assessment list.
+19 c. The tax department may request additional documentation from the applicant
+20 when making the determination of eligibility.
+21 d. Determinations of eligibility under this subsection may be appealed through the
+22 informal equalization process and formal abatement process.
+23 4. A primary residence certification under this section is valid for the entire taxable year
+24 for which the application for certification was approved, without regard to any change
+25 of ownership of the property which occurs a f ter the application for certification was
+26 approved .
+27 5. The tax commissioner shall prescribe, design, and make available all forms necessary
+28 to effectuate this section. Application forms must include the full name and address of
+29 the applicant and any other information prescribed by the tax commissioner. The
+30 county director of tax equalization shall make these forms available to applicants upon
+31 request.
+Page No. 6 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 6. For purposes of this section:
+2 a. "Owned" means the individual holds a present ownership interest, including
+3 ownership in fee simple, holds a present life estate or other terminable present
+4 ownership interest, holds a beneficial interest in a qualifying trust, or is a
+5 purchaser under a contract for deed. The term does not include a mere right of
+6 occupancy or a tenancy under a lease.
+7 b. (1) "Primary residence" means a dwelling in this state, including the land ,
+8 appurtenances, and improvements used in the residential occupancy of the
+9 dwelling , which is not exempt from property taxes as a farm residence and ,
+10 subject to subsection 2 and paragraph 2, as of the assessment date of the
+11 taxable year, is:
+12 (a) Owned by one or more individuals, either directly or through a
+13 beneficial interest in a qualifying trust;
+14 (b) Designed or adapted for human residence;
+15 (c) Used as a residence; and
+16 (d) Occupied as a primary place of residence by an owner, an individual
+17 who has a life estate in the property, or, for property owned through a
+18 beneficial interest in a qualifying trust, by a trustor or beneficiary of the
+19 trust who qualifies for the certification .
+20 (2) For purposes of the term:
+21 (a) An individual may not have more than one primary residence.
+22 (b) A primary residence includes a primary residence taxed as a mobile
+23 home under chapter 57 - 55 .
+24 c. "Qualifying trust" means a trust:
+25 (1) In which the agreement, will, or court order creating the trust, an instrumen t
+26 transferring property to the trust, or any other agreement that is binding on
+27 the trustee provides that the trustor of the trust or a beneficiary of the trus t
+28 has the right to use and occupy as the trustor's or beneficiary's primary
+29 residence rent free and without charge except for taxes and other costs and
+30 expenses specified in the instrument or court order:
+31 (a) For life;
+Page No. 7 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 (b) For the lesser of life or a term of years; or
+2 (c) Until the date the trust is revoked or terminated by an instrument or
+3 court order that describes the property with sufficient certainty to
+4 identify it and is recorded in the real property records of the county in
+5 which the property is located; and
+6 (2) That acquires the property in an instrument of title or under a court order
+7 that:
+8 (a) Describes the property with sufficient certainty to identify it and the
+9 interest acquired; and
+10 (b) Is recorded in the real property records of the county in which the
+11 property is located.
+12 d. "Trustor" means an individual who transfers an interest in real or personal
+13 property to a qualifying trust, whether during the individual's lifetime or at death,
+14 or the individual's spouse.
+15 SECTION 3. AMENDMENT. Section 57-02-08.10 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 57-02-08.10. Primary residence credit - Certification - Distribution. (Effective through
+18 June 30, 2026 August 1, 2025 )
+19 1. By June first of each year2025, the tax commissioner shall:
+20 a. Review the applications received under section 57-02-08.9, as it existed on
+21 December 31, 2024 , and determine which applicants qualify for the credit allowed
+22 under section 57-02-08.9 , as it existed on December 31, 2024 ; and
+23 b. Provide to each county auditor:
+24 (1) A copy of each approved application under subdivision a which identifies a
+25 primary residence located in the county; and
+26 (2) The sum of the credits allowed under section 57-02-08.9, as it existed on
+27 December 31, 2024 , in the county for the current taxable year.
+28 2. The county auditor shall apply the credit under section 57-02-08.9, as it existed on
+29 December 31, 2024 , to each primary residence identified by the tax commissioner as
+30 a qualifying primary residence on the corresponding property tax statement.
+Page No. 8 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 3. By January first of each year, the county auditor shall certify to the tax commissioner
+2 the sum of the credits approved by the tax commissioner under subsection 1 which
+3 were applied toward property taxes owed on primary residences in the county for the
+4 preceding year.
+5 4. By June first of each year after 20242025, the tax commissioner shall review a
+6 sampling of information provided by the county auditor to verify the accuracy of the
+7 application of the credit and certify to the state treasurer for payment to each county
+8 the aggregate dollar amount of credits allowed under section 57-02-08.9, as it existed
+9 on December 31, 2024 , in each county for the preceding year.
+10 5.4. Within fourteen days of receiving the payment from the state treasurer, but no later
+11 than June thirtieth of each year after 20242025, the county treasurer shall apportion
+12 and distribute the payment to the county and to the taxing districts of the county on the
+13 same basis as property taxes for the preceding year were apportioned and distributed.
+14 6.5. Supplemental certifications by the county auditor and the tax commissioner and
+15 supplemental payments by the state treasurer may be made after the dates prescribed
+16 in this section to make corrections necessary because of errors.
+17 7.6. The county auditors shall provide information requested by the tax commissioner to
+18 effectuate this section.
+19 8.7. The tax commissioner shall prescribe, design, and make available all forms necessary
+20 to effectuate this section.
+21 SECTION 4. A new section to chapter 57-02 of the North Dakota Century Code is created
+22 and enacted as follows:
+23 Primary residential valuation reduction - Qualification - Certification - State
+24 reimbursement.
+25 1. A taxpayer is entitled to a reduction of the taxable valuation of the taxpayer's parcel of
+26 primary residential property as defined under section 57 - 02 - 01 equal to three percen t
+27 of the assessed value of the parcel of primary residential property. The reduction
+28 under this section must be applied before other credits under this chapter, including
+29 the credits under sections 57 - 02 - 08.1 and 57 - 02 - 08.8, have been applied .
+Page No. 9 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 2. Individuals residing together who are co-owners of the property but who are not
+2 spouses or dependents each are entitled to a percentage of a full reduction under
+3 subsection 1 equal to their ownership interests in the property .
+4 3. a. For taxable year 2025:
+5 (1) The county auditor shall apply the reduction under this section to each
+6 parcel of primary residential property taxed as real estate under this title on
+7 the corresponding tax statement.
+8 (2) The county auditor shall consider an application received under section 2 of
+9 this Act for primary residential property certification for a parcel of primary
+10 residential property taxed as a mobile home under chapter 57 - 55 and
+11 identified by the tax commissioner as a certified primary residence under
+12 section 2 of this Act as an application for an abatement and refund of taxes
+13 in an amount consistent with the reduction allowed. The county auditor shall
+14 present the application for abatement and refund of taxes to the board of
+15 county commissioners at its next regular meeting. The county
+16 commissioners shall approve the applications filed under this paragraph as
+17 soon as practicable and refunds must be issued without delay according to
+18 the procedures in section 57 - 23 - 09. The application, notice, and hearing
+19 requirements and procedures under chapter 57 - 23 and sections 57 - 55 - 04.1
+20 and 57 - 55 - 12 do not apply to an application for abatement and refund filed
+21 under this paragraph.
+22 b. For taxable years after 2025, the county auditor shall apply the reduction under
+23 this section to each parcel of primary residential property on the corresponding
+24 property tax statement or mobile home tax statement.
+25 4. A reduction under this section is valid for the entire taxable year for which the property
+26 is certified as primary residential property, without regard to any change of ownership
+27 of the property which occurs after the property was classified as primary residential
+28 property for the taxable year.
+29 5. This section does not reduce the liability of any individual for special assessments
+30 levied upon any property.
+Page No. 10 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 6. A reduction of taxable valuation under this section may not be applied to reduce the
+2 taxable valuation used for purposes of determining the amount subtracted from a
+3 school district's state aid payment under subdivision a of subsection 4 of section
+4 15.1 - 27 - 04.1 .
+5 7. a. Before January 15, 2026, the county auditor of each county shall certify to the tax
+6 commissioner, on forms prescribed by the tax commissioner the following
+7 information applicable to taxable year 2025 for primary residential property taxed
+8 as real estate under this title and taxable years 2025 and 2026 for primary
+9 residential property taxed as a mobile home under chapter 57 - 55 :
+10 (1) The full name, address, and social security or taxpayer identification number
+11 of each individual or entity for whom the reduction under this section was
+12 allowed;
+13 (2) The legal description of the property;
+14 (3) The taxable value of the property;
+15 (4) The dollar amount of each reduction in taxable value allowed;
+16 (5) The total of the tax mill rates used to calculate taxes for the corresponding
+17 year of all taxing districts in which the property was contained, exclusive of
+18 any state mill rates; and
+19 (6) Any other information prescribed by the tax commissioner.
+20 b. Before January fifteenth of each year after 2026, the county auditor of each
+21 county shall certify to the tax commissioner, on forms prescribed by the tax
+22 commissioner the following information applicable to the taxable year during
+23 which the application under section 2 of this Act is filed for primary residentia l
+24 property taxed as real estate under this title and the taxable year succeeding the
+25 taxable year during which the application under section 2 of this Act is filed for
+26 primary residential property taxed as a mobile home under chapter 57 - 55 :
+27 (1) The full name, address, and social security or taxpayer identification number
+28 of each individual or entity for whom the reduction under this section was
+29 allowed for the corresponding taxable year;
+30 (2) The legal description of the property;
+31 (3) The taxable value of the property;
+Page No. 11 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 (4) The dollar amount of each reduction in taxable value allowed;
+2 (5) The total of the tax mill rates used to calculate taxes for the corresponding
+3 year of all taxing districts in which the property was contained, exclusive of
+4 any state mill rates; and
+5 (6) Any other information prescribed by the tax commissioner.
+6 8. a. By March 15, 2026, the tax commissioner shall :
+7 (1) Review the certifications under subdivision a of subsection 7, make any
+8 required corrections, and certify to the state treasurer for payment to each
+9 county the sum of the amounts computed by:
+10 (a) For primary residential valuation reductions for primary residential
+11 property taxed as real estate for taxable year 2025, m ultiplying the
+12 reduction allowed for each qualifying parcel of primary residential
+13 property taxed as real estate under this title in the county for taxable
+14 year 2025 by the total of the tax mill rates for taxable year 2025 of all
+15 taxing districts in which the property was located.
+16 (b) For primary residential valuation reductions for primary residential
+17 property taxed as mobile homes under chapter 57 - 55 for taxable year
+18 2025, m ultiplying the reduction allowed for each qualifying parcel o f
+19 primary residential property taxed as a mobile home under chapter
+20 57 - 55 in the county for taxable year 2025 by the total of the tax mil l
+21 rates used to calculate mobile home taxes under chapter 57 - 55 in
+22 taxable year 2025 of all taxing districts in which the property was
+23 located.
+24 (c) For primary residential valuation reductions for primary residential
+25 property taxed as mobile homes under chapter 57 - 55 for taxable year
+26 2026, m ultiplying the reduction allowed for each qualifying parcel o f
+27 primary residential property taxed as a mobile home under chapter
+28 57 - 55 in the county for taxable year 2026 by the total of the tax mil l
+29 rates used to calculate mobile home taxes under chapter 57 - 55 in
+30 taxable year 2026 of all taxing districts in which the property was
+31 located.
+Page No. 12 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 (2) Certify to the state treasurer for deposit in the state medical center fund the
+2 amount computed by multiplying one mill times the reduction allowed under
+3 this section for primary residential property taxed as rea l estate for taxable
+4 year 2025 and primary residential property taxed as m obile homes under
+5 chapter 57 - 55 for taxable years 2025 and 2026 .
+6 b. By March fifteenth of each year after 2026, the tax commissioner shall:
+7 (1) Review the certifications under subdivision b of subsection 7, make any
+8 required corrections, and certify to the state treasurer for payment to each
+9 county the sum of the amounts computed by:
+10 (a) Multiplying the reduction allowed for each qualifying parcel of primary
+11 residential property taxed as real estate under this title in the county
+12 for the preceding year by the total of the tax mill rates for the
+13 preceding year of all taxing districts in which the property was located.
+14 (b) Multiplying the reduction allowed for each qualifying parcel of primary
+15 residential property taxed as a mobile home under chapter 57 - 55 in
+16 the county for the current year by the total of the tax mill rates used to
+17 calculate mobile home taxes under chapter 57 - 55 for the curren t
+18 taxable year of all taxing districts in which the property was located.
+19 (2) Certify annually to the state treasurer for deposit in the state medical center
+20 fund the amount computed by multiplying one mill times the reduction
+21 allowed under this section for all eligible parcels of primary residential
+22 property in the state for:
+23 (a) The taxable year during which the application under section 2 of this
+24 Act is filed for primary residential property taxed as real estate under
+25 this title.
+26 (b) The taxable year succeeding the taxable year during which the
+27 application under section 2 of this Act is filed for primary residentia l
+28 property taxed as a mobile home under chapter 57 - 55 .
+29 c. In reviewing certifications, the tax commissioner may refer to any income tax
+30 return information or other information available to the tax commissioner.
+Page No. 13 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 9. Within fourteen days of receiving the payment from the state treasurer, the county
+2 treasurer shall apportion and distribute the payment without delay to the county and to
+3 the taxing districts of the county on the same basis property taxes under this chapter
+4 and mobile home taxes under chapter 57 - 55 were apportioned and distributed for the
+5 taxable year in which the taxes were levied.
+6 10. Supplemental certifications by the county auditor and the tax commissioner and
+7 supplemental payments by the state treasurer may be made after the dates prescribed
+8 in this section to make any corrections necessary because of errors or approval of any
+9 application for equalization or abatement filed by an individual or entity because all or
+10 part of the reduction under this section was not allowed.
+11 11 The tax commissioner shall prescribe, design, and make available all forms necessary
+12 to effectuate this section.
+13 SECTION 5. A new section to chapter 57-02 of the North Dakota Century Code is created
+14 and enacted as follows:
+15 Qualifying agricultural and commercial property valuation reduction - Qualification -
+16 Certification - State reimbursement.
+17 1. A taxpayer is entitled to a reduction of the taxable valuation of the taxpayer's parcel of
+18 qualifying commercial property or qualifying agricultural property as provided in this
+19 section. The reduction is equal to:
+20 a. For a parcel of qualifying agricultural property, two percent of the assessed value
+21 of the parcel.
+22 b. For a parcel of qualifying commercial property, one percent of the assessed value
+23 of the parcel.
+24 2. The reduction under this section must be applied before other credits under this
+25 chapter.
+26 3. Persons who are co-owners of the property but who are not spouses or dependents
+27 each are entitled to a percentage of a full reduction under subsection 1 equal to their
+28 ownership interests in the property.
+29 4. To apply for the reduction under this section, an owner shall sign and file with the tax
+30 commissioner by August first of each year an application containing a verified
+31 statement of facts establishing the owner's property meets the eligibility requirements
+Page No. 14 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 to be considered qualifying commercial property or qualifying agricultural property
+2 under this section as of the date of the application on a form and in the manner
+3 prescribed by the tax commissioner.
+4 5. By October first of each year, the tax commissioner shall:
+5 a. Review the applications received under subsection 4 and determine which
+6 applicants qualify for the reduction under this section; and
+7 b. Provide to each county director of tax equalization a copy of each approved or
+8 rejected application which identifies property located in the county .
+9 6. The county director of tax equalization shall a ttach each approved application to the
+10 assessment list and list the amount of the reduction allowed on the assessment list .
+11 7. The tax department may request additional documentation from the applicant when
+12 making the determination of eligibility.
+13 8. If an applicant is found to have claimed a reduction fraudulently under this section to
+14 which that applicant is not entitled, all reductions under this section for that applicant
+15 for that taxable year must be canceled. If an applicant received a reduction that is
+16 canceled under this section, the auditor of the county in which the property is located
+17 shall enter the amount of the canceled reduction as omitted property on the
+18 assessment list of property that has escaped taxation.
+19 9 . Determinations of eligibility for a reduction under this section may be appealed through
+20 the equalization and abatement process.
+21 10. The county auditor shall apply the reduction under this section to each parcel of
+22 qualifying commercial property or qualifying agricultural property on the corresponding
+23 property tax statement.
+24 11. A reduction under this section is valid for the entire taxable year for which the claim
+25 was approved, without regard to any change of ownership of the property which
+26 occurs a f ter the claim was approved for the taxable yea r .
+27 12. This section does not reduce the liability of any owner for special assessments levied
+28 upon any property.
+29 13. A reduction of taxable valuation under this section may not be applied to reduce the
+30 taxable valuation used for purposes of determining the amount subtracted from a
+Page No. 15 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 school district's state aid payment under subdivision a of subsection 4 of section
+2 15.1 - 27 - 04.1 .
+3 14. Before January fifteenth of each year after 2025, the county auditor of each county
+4 shall certify to the tax commissioner, on forms prescribed by the tax commissioner, the
+5 following information:
+6 a. The full name, address, and social security or taxpayer identification number of
+7 each individual or entity for whom the reduction under this section was allowed
+8 for the preceding taxable year;
+9 b. The legal description of the property;
+10 c. The taxable value of the property;
+11 d. The dollar amount of each reduction in taxable value allowed;
+12 e. The total of the tax mill rates used to calculate taxes for the preceding year of all
+13 taxing districts in which the property was contained, exclusive of any state mill
+14 rates; and
+15 f. Any other information prescribed by the tax commissioner.
+16 15. By March fifteenth of each year after 2025, the tax commissioner shall:
+17 a. Review the certifications under subsection 14, make any required corrections ,
+18 and certify to the state treasurer for payment to each county the sum of the
+19 amounts computed by multiplying the reduction allowed for each parcel of
+20 qualifying agricultural property and qualifying commercial property in the county
+21 for the preceding year by the total of the tax mill rates for the preceding year of all
+22 taxing districts in which the property was located.
+23 b. Certify annually to the state treasurer for deposit in the state medical center fund
+24 the amount computed by multiplying one mill times the reduction allowed under
+25 this section for all parcels of qualifying agricultural property and qualifying
+26 commercial property in the state for the preceding taxable year.
+27 16. In reviewing certifications, the tax commissioner may refer to any income tax return
+28 information or other information available to the tax commissioner.
+29 17. Within fourteen days of receiving the payment from the state treasurer, the county
+30 treasurer shall apportion and distribute the payment without delay to the county and to
+Page No. 16 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 the taxing districts of the county on the same basis property taxes under this chapter
+2 were apportioned and distributed for the preceding taxable year.
+3 18. Supplemental certifications by the county auditor and the tax commissioner and
+4 supplemental payments by the state treasurer may be made after the dates prescribed
+5 in this section to make any corrections necessary because of errors or approval of any
+6 application for equalization or abatement filed by an individual or entity because all or
+7 part of the reduction under this section was not allowed.
+8 19. The tax commissioner shall prescribe, design, and make available all forms necessary
+9 to effectuate this section. Application forms must include the full name and address of
+10 the applicant and any other information prescribed by the tax commissioner. The
+11 county director of tax equalization shall make these forms available to applicants upon
+12 request.
+13 20. For purposes of this section:
+14 a. "Domicile " has the meaning provided under section 47 - 30.2 - 01 .
+15 b. "Owned" means an individual or entity holds a present ownership interest,
+16 including ownership in fee simple, holds a present life estate or other terminable
+17 present ownership interest, or is a purchaser under a contract for deed. The term
+18 does not include a mere right of occupancy or a tenancy under a lease.
+19 c. "Qualifying agricultural property" means agricultural property, as defined under
+20 section 57 - 02 - 01, which is owned by an individual who is a resident of the state
+21 or an entity that is domiciled in the state.
+22 d. "Qualifying commercial property" means commercial property, as defined under
+23 section 57 - 02 - 01, which is owned by an individual who is a resident of the state
+24 or an entity that is domiciled in the state.
+25 SECTION 6. AMENDMENT. Section 57-02-27 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 57-02-27. Property to be valued at a percentage of assessed value - Classification of
+28 property - Limitation on valuation of annexed agricultural lands.
+29 1. All property subject to taxation based on the value thereof must be valued as follows:
+30 1.a. All primary residential property and nonprimary residential property to be valued
+31 at nine percent of assessed value. If any property is used for bothprimary
+Page No. 17 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 residential, nonprimary residential, and nonresidential purposes, the valuation
+2 must be prorated accordingly.
+3 2.b. All agricultural property to be valued at ten percent of assessed value as
+4 determined pursuant to section 57-02-27.2.
+5 3.c. All commercial property to be valued at ten percent of assessed value.
+6 4.d. All centrally assessed property to be valued at ten percent of assessed value
+7 except as provided in section 57-06-14.1.
+8 2. The resulting amounts must be resulting from the calculation under subsection 1 are
+9 known as the taxable valuation.
+10 3. In determining the assessed value of real and personal property, except agricultural
+11 property, the assessor may not adopt a lower or different standard of value because
+12 the same is to serve as a basis of taxation, nor may the assessor adopt as a criterion
+13 of value the price at which said property would sell at auction, or at forced sale, or in
+14 the aggregate with all the property in the town or district, but the assessor shall value
+15 each article or description by itself, and at such sum or price as the assessor believes
+16 the same to be fairly worth in money. In assessing any tract or lot of real property,
+17 there must be determined the value of the land, exclusive of improvements, and the
+18 value of all taxable improvements and structures thereon, and the aggregate value of
+19 the property, including all taxable structures and other improvements, excluding the
+20 value of crops growing upon cultivated lands. In valuing any real property upon which
+21 there is a coal or other mine, or stone or other quarry, the same must be valued at
+22 such a price as such property, including the mine or quarry, would sell for at a fair
+23 voluntary sale for cash. Agricultural lands within the corporate limits of a city which are
+24 not platted constitute agricultural property and must be so classified and valued for
+25 ad valorem property tax purposes until such lands are put to another use. Agricultural
+26 lands, whether within the corporate limits of a city or not, which were platted and
+27 assessed as agricultural property prior to March 30, 1981, must be assessed as
+28 agricultural property for ad valorem property tax purposes until put to another use.
+29 Such valuation must be uniform with the valuation of adjoining unannexed agricultural
+30 land.
+Page No. 18 25.1283.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 7. AMENDMENT. Section 57-02-27.1 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 57-02-27.1. Property to be valued at true and full value.
+4 1. All assessors and boards of equalization shall place the values of all items of taxable
+5 property at the true and full value of the property except as otherwise specifically
+6 provided by law, and the amount of taxes that may be levied on such property must be
+7 limited as provided in this chapter. For the purposes of sections 57-02-27, 57-02-27.1,
+8 57-02-27.2, and 57-55-04, the term "true and full value" has the same meaning as
+9 provided in subsection 15 of section 57-02-01, except that "true and full value" of
+10 agricultural lands must be as determined pursuant to section 57-02-27.2.
+11 2. The governing body of the city or township may establish valuations that recognize the
+12 supply of vacant lots available for sale.
+13 SECTION 8. A new subdivision to subsection 1 of section 57-55-10 of the North Dakota
+14 Century Code is created and enacted as follows:
+15 If it is owned by an individual who qualifies for the primary residential valuation
+16 reduction under section 4 of this Act, to the extent to which the individual is
+17 entitled to the reduction.
+18 SECTION 9. REPEAL. Section 57-02-08.9 of the North Dakota Century Code is repealed.
+19 SECTION 10. EFFECTIVE DATE. Sections 1, 2, 4, 5, 6, 7, 8 and 9 of this Act are effective
+20 for taxable years beginning after December 31, 2024.
+Page No. 19 25.1283.01000
+[DELETED: ."12]
+[DELETED: .P)T)P)T)P)P)T)T.L."."."."."22]
+[DELETED: ."."."."."."."."."32]
+[DELETED: .".".".T.T.A.T42]
+[DELETED: .F) ) )T) )R) ) )N) .F)A52]
+[DELETED: ) )T)A)R) )W.T.D.A.T62]
+[DELETED: .F.".() )O)D)U)O)F)A)A.") )F72]
+[DELETED: )F)U)T)D)I.".B.R.P)A)T.T82]
+[DELETED: .B.B.W.S.T.T.A92]
+[DELETED: .I.a.F)T)T.F.A.T02]
+[DELETED: .A.a. )T)T)T)T)T)A.B)T)T)T12]
+[DELETED: )T)T)A.a. ) )F)F)F22]
+[DELETED: )C.B) )M)M)C) )T.I32]
+[DELETED: .W.S1T.A.F.F.T.P.T42]
+[DELETED: .B. . . .T.I.D.T.A.T.A52]
+[DELETED: .B.T.T.T.T.T.A.B. .C.I.W62]
+[DELETED: .S.T.F. .". .".A.A72]
+[DELETED: .A.A.A.T.I82]
+[DELETED: .A.T92]
+
+
+================================================================================
+
+Raw Text:
+25.1283.01000
+Sixty-ninth
+HOUSE BILL NO. 1575
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Weisz, Beltz, Dockter, Dressler, Hagert, Headland, Kempenich
+Senators Klein, Schaible, Thomas
+1 A BILL for an Act to create and enact three new sections to chapter 57-02 and a new
+2 subdivision to subsection 1 of section 57-55-10 of the North Dakota Century Code, relating to
+3 primary residence certification, a state reimbursed taxable valuation reduction for primary
+4 residential property, and a state reimbursed taxable valuation reduction for agricultural and
+5 commercial property owned by resident individuals or entities domiciled in the state; to amend
+6 and reenact sections 57-02-01, 57-02-08.10, 57-02-27, and 57-02-27.1 of the North Dakota
+7 Century Code, relating to property classifications and the primary residence credit certification
+8 and state reimbursement; to repeal section 57-02-08.9 of the North Dakota Century Code,
+9 relating to the primary residence credit; to provide an effective date; and to provide an expiration
+10 date.
+11 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+12 SECTION 1. AMENDMENT. Section 57-02-01 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 57-02-01. Definitions.
+15 As used in this title, unless the context or subject matter otherwise requires:
+16 1. "Agricultural property" means platted or unplatted lands used for raising agricultural
+17 crops or grazing farm animals, except lands platted and assessed as agricultural
+18 property prior to March 30, 1981, shall continue to be assessed as agricultural
+19 property until put to a use other than raising agricultural crops or grazing farm animals.
+20 Agricultural property includes land on which a greenhouse or other building is located
+21 if the land is used for a nursery or other purpose associated with the operation of the
+22 greenhouse. The time limitations contained in this section may not be construed to
+23 prevent property that was assessed as other than agricultural property from being
+Page No. 1 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 assessed as agricultural property if the property otherwise qualifies under this
+2 subsection.
+3 a. Property platted on or after March 30, 1981, is not agricultural property when any
+4 four of the following conditions exist:
+5 (1) The land is platted by the owner.
+6 (2) Public improvements, including sewer, water, or streets, are in place.
+7 (3) Topsoil is removed or topography is disturbed to the extent that the property
+8 cannot be used to raise crops or graze farm animals.
+9 (4) Property is zoned other than agricultural.
+10 (5) Property has assumed an urban atmosphere because of adjacent
+11 residential or commercial development on three or more sides.
+12 (6) The parcel is less than ten acres [4.05 hectares] and not contiguous to
+13 agricultural property.
+14 (7) The property sells for more than four times the county average true and full
+15 agricultural value.
+16 b. Land that was assessed as agricultural property at the time the land was put to
+17 use for extraction of oil, natural gas, or subsurface minerals as defined in section
+18 38-12-01 must continue to be assessed as agricultural property if the remainder
+19 of the surface owner's parcel of property on which the subsurface mineral activity
+20 is occurring continues to qualify for assessment as agricultural property under
+21 this subsection.
+22 2. "Air carrier transportation property" means the operative property of each airline
+23 whose property is assessed for taxation purposes pursuant to chapters 57-06 and
+24 57-32.
+25 3. "Assessed valuation" means fifty percent of the true and full value of property.
+26 4. "Centrally assessed property" means all property which is assessed by the state board
+27 of equalization under chapters 57-05, 57-06, and 57-32.
+28 5. "Commercial property" means all property, or portions of property, not included in the
+29 classes of property defined in subsections 1, 4, 11, and10, 12, 13, and 14.
+30 6. "Credits" means and includes every claim and demand for money or other valuable
+31 thing, and every annuity or sum of money receivable at stated periods, due or to
+Page No. 2 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 become due, and all claims and demands secured by deeds or mortgages, due or to
+2 become due.
+3 7. "Governing body" means a board of county commissioners, city council, board of city
+4 commissioners, school board, or board of education, or the similarly constituted and
+5 acting board of any other municipality.
+6 8. "Money" or "moneys" means gold and silver coin, treasury notes, bank notes, and
+7 every deposit which any person owning the same or holding in trust and residing in
+8 this state is entitled to withdraw as money or on demand.
+9 9. "Municipality" or "taxing district" means a county, city, township, school district, water
+10 conservation and flood control district, Garrison Diversion Conservancy District, county
+11 park district, joint county park district, irrigation district, park district, rural fire protection
+12 district, or any other subdivision of the state empowered to levy taxes.
+13 10. "Nonprimary residential property" means residential property, or portions of residential
+14 property, not included in the class of property defined in subsection 12 .
+15 11. "Person" includes a firm, corporation, or limited liability company.
+16 11.12. "Primary residential property" means residential property certified as a primary
+17 residence under section 2 of this Act .
+18 13. "Railroad property" means the operating property, including franchises, of each
+19 railroad operated in this state, including any electric or other street or interurban
+20 railway.
+21 12.14. "Residential property" means all property, or portions of property, used by an individual
+22 or group of individuals as a dwelling, including property upon which a mobile home is
+23 located but not including hotel and motel accommodations required to be licensed
+24 under chapter 23-09 nor structures providing living accommodations for four or more
+25 separate family units nor any tract of land upon which four or more mobile homes are
+26 located. The term includes nonprimary residential property and primary residential
+27 property.
+28 13.15. "Taxable valuation" signifies the valuation remaining after deducting exemptions and
+29 making other reductions from the original assessed valuation, and is the valuation
+30 upon which the rate of levy finally is computed and against which the taxes finally are
+31 extended.
+Page No. 3 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 14.16. "Tract", "lot", "piece or parcel of real property", or "piece or parcel of land" means any
+2 contiguous quantity of land in the possession of, owned by or recorded as the property
+3 of, the same claimant, person, or company.
+4 15.17. "True and full value" means the value determined by considering the earning or
+5 productive capacity, if any, the market value, if any, and all other matters that affect the
+6 actual value of the property to be assessed. This shall include, for purposes of arriving
+7 at the true and full value of property used for agricultural purposes, farm rentals, soil
+8 capability, soil productivity, and soils analysis.
+9 16.18. "Unencumbered cash" means the total cash on hand in any fund, less the amount
+10 belonging to the fund in closed banks and less the amount of outstanding warrants,
+11 bills, accounts, and contracts which are chargeable against the fund.
+12 17.19. There shall be a presumption that a unit of land is not a farm unless such unit contains
+13 a minimum of ten acres [4.05 hectares], and the taxing authority, in determining
+14 whether such presumption shall apply, shall consider such things as the present use,
+15 the adaptability to use, and how similar type properties in the immediate area are
+16 classified for tax purposes.
+17 SECTION 2. A new section to chapter 57-02 of the North Dakota Century Code is created
+18 and enacted as follows:
+19 Primary residence certification - Eligibility for primary residential property
+20 classification - Application.
+21 1. To be eligible for a primary residential property classification under this chapter, a
+22 primary residence must be certified by the county director of tax equalization as
+23 provided in this section .
+24 2. A dwelling does not lose its character as a primary residence if the owner of the
+25 dwelling does not reside in the primary residence because the individual is confined in
+26 a nursing home, hospital, or other care facility, for as long as that confinement lasts
+27 and the portion of the primary residence previously occupied by the individual is not
+28 rented to another person.
+29 3. To be certified as a primary residence and eligible for the primary residential property
+30 classification under this chapter, an owner shall sign and file with the tax commissioner
+31 an application containing a verified statement of facts establishing the owner's
+Page No. 4 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 property meets the eligibility requirements to be considered a primary residence under
+2 this section as of the date of the application on a form and in the manner prescribed
+3 by the tax commissione r .
+4 a. For assessments for taxable year 2025 for a primary residence taxed as real
+5 estate under this title and assessments for taxable years 2025 and 2026 for a
+6 primary residence taxed as a mobile home under chapter 57 - 55 :
+7 (1) An application for primary residence certification must be filed by Augus t 1 ,
+8 2025, to request a primary residence certification for:
+9 (a) Taxable year 2025 for a primary residence taxed as real estate under
+10 this title.
+11 (b) Taxable years 2025 and 2026 for a primary residence taxed as a
+12 mobile home under chapter 57 - 55 .
+13 (2) By October 31, 2025, the tax commissioner shall :
+14 (a) Review the applications received under this subdivision and
+15 determine which applicants qualify for the primary residence
+16 certification; and
+17 (b) Provide to each county director of tax equalization a copy of each
+18 approved or rejected application received under this subdivision which
+19 identifies property located in the county .
+20 (3) By November 28, 2025, the county director of tax equalization shall :
+21 (a) Notify the applicant of the approval or denial of the application.
+22 (b) Adjust the corresponding taxable year classification from a residentia l
+23 classification to the appropriate classification of primary residential
+24 property or nonprimary residential property and correct the
+25 assessment list to reflect the appropriate classification of the property .
+26 b. For assessments for taxable years after 2025 for a primary residence taxed as
+27 real estate under this title and assessments after 2026 for a primary residence
+28 taxed as a mobile home under chapter 57 - 55 :
+29 (1) An application for primary residence certification must be filed by February
+30 first of each year after 2025 to request a primary residence certification for:
+Page No. 5 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (a) The taxable year during which the application is filed for a primary
+2 residence taxed as real estate under this title.
+3 (b) The taxable year succeeding the taxable year during which the
+4 application is filed for a primary residence taxed as a mobile home
+5 under chapter 57 - 55 .
+6 (2) As soon as practicable after receiving the applications, no later than
+7 February twenty-eighth of each year after 2025, the tax department shall:
+8 (a) Review the applications received under this subdivision and
+9 determine which applicants qualify for the primary residence
+10 certification; and
+11 (b) Provide to each county director of tax equalization a copy of each
+12 approved or rejected application received under this subdivision which
+13 identifies property located in the county.
+14 (3) Within fifteen days of receipt of the applications from the tax department
+15 under paragraph 2, no later than March fifteenth of each year after 2025 ,
+16 the county director of tax equalization shall notify the applicant of the
+17 approval or denial of the application and reflect the appropriate classification
+18 of the property on the assessment list.
+19 c. The tax department may request additional documentation from the applicant
+20 when making the determination of eligibility.
+21 d. Determinations of eligibility under this subsection may be appealed through the
+22 informal equalization process and formal abatement process.
+23 4. A primary residence certification under this section is valid for the entire taxable year
+24 for which the application for certification was approved, without regard to any change
+25 of ownership of the property which occurs a f ter the application for certification was
+26 approved .
+27 5. The tax commissioner shall prescribe, design, and make available all forms necessary
+28 to effectuate this section. Application forms must include the full name and address of
+29 the applicant and any other information prescribed by the tax commissioner. The
+30 county director of tax equalization shall make these forms available to applicants upon
+31 request.
+Page No. 6 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 6. For purposes of this section:
+2 a. "Owned" means the individual holds a present ownership interest, including
+3 ownership in fee simple, holds a present life estate or other terminable present
+4 ownership interest, holds a beneficial interest in a qualifying trust, or is a
+5 purchaser under a contract for deed. The term does not include a mere right of
+6 occupancy or a tenancy under a lease.
+7 b. (1) "Primary residence" means a dwelling in this state, including the land ,
+8 appurtenances, and improvements used in the residential occupancy of the
+9 dwelling , which is not exempt from property taxes as a farm residence and ,
+10 subject to subsection 2 and paragraph 2, as of the assessment date of the
+11 taxable year, is:
+12 (a) Owned by one or more individuals, either directly or through a
+13 beneficial interest in a qualifying trust;
+14 (b) Designed or adapted for human residence;
+15 (c) Used as a residence; and
+16 (d) Occupied as a primary place of residence by an owner, an individual
+17 who has a life estate in the property, or, for property owned through a
+18 beneficial interest in a qualifying trust, by a trustor or beneficiary of the
+19 trust who qualifies for the certification .
+20 (2) For purposes of the term:
+21 (a) An individual may not have more than one primary residence.
+22 (b) A primary residence includes a primary residence taxed as a mobile
+23 home under chapter 57 - 55 .
+24 c. "Qualifying trust" means a trust:
+25 (1) In which the agreement, will, or court order creating the trust, an instrumen t
+26 transferring property to the trust, or any other agreement that is binding on
+27 the trustee provides that the trustor of the trust or a beneficiary of the trus t
+28 has the right to use and occupy as the trustor's or beneficiary's primary
+29 residence rent free and without charge except for taxes and other costs and
+30 expenses specified in the instrument or court order:
+31 (a) For life;
+Page No. 7 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (b) For the lesser of life or a term of years; or
+2 (c) Until the date the trust is revoked or terminated by an instrument or
+3 court order that describes the property with sufficient certainty to
+4 identify it and is recorded in the real property records of the county in
+5 which the property is located; and
+6 (2) That acquires the property in an instrument of title or under a court order
+7 that:
+8 (a) Describes the property with sufficient certainty to identify it and the
+9 interest acquired; and
+10 (b) Is recorded in the real property records of the county in which the
+11 property is located.
+12 d. "Trustor" means an individual who transfers an interest in real or personal
+13 property to a qualifying trust, whether during the individual's lifetime or at death,
+14 or the individual's spouse.
+15 SECTION 3. AMENDMENT. Section 57-02-08.10 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 57-02-08.10. Primary residence credit - Certification - Distribution. (Effective through
+18 June 30, 2026 August 1, 2025 )
+19 1. By June first of each year2025, the tax commissioner shall:
+20 a. Review the applications received under section 57-02-08.9, as it existed on
+21 December 31, 2024 , and determine which applicants qualify for the credit allowed
+22 under section 57-02-08.9 , as it existed on December 31, 2024 ; and
+23 b. Provide to each county auditor:
+24 (1) A copy of each approved application under subdivision a which identifies a
+25 primary residence located in the county; and
+26 (2) The sum of the credits allowed under section 57-02-08.9, as it existed on
+27 December 31, 2024 , in the county for the current taxable year.
+28 2. The county auditor shall apply the credit under section 57-02-08.9, as it existed on
+29 December 31, 2024 , to each primary residence identified by the tax commissioner as
+30 a qualifying primary residence on the corresponding property tax statement.
+Page No. 8 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 3. By January first of each year, the county auditor shall certify to the tax commissioner
+2 the sum of the credits approved by the tax commissioner under subsection 1 which
+3 were applied toward property taxes owed on primary residences in the county for the
+4 preceding year.
+5 4. By June first of each year after 20242025, the tax commissioner shall review a
+6 sampling of information provided by the county auditor to verify the accuracy of the
+7 application of the credit and certify to the state treasurer for payment to each county
+8 the aggregate dollar amount of credits allowed under section 57-02-08.9, as it existed
+9 on December 31, 2024 , in each county for the preceding year.
+10 5.4. Within fourteen days of receiving the payment from the state treasurer, but no later
+11 than June thirtieth of each year after 20242025, the county treasurer shall apportion
+12 and distribute the payment to the county and to the taxing districts of the county on the
+13 same basis as property taxes for the preceding year were apportioned and distributed.
+14 6.5. Supplemental certifications by the county auditor and the tax commissioner and
+15 supplemental payments by the state treasurer may be made after the dates prescribed
+16 in this section to make corrections necessary because of errors.
+17 7.6. The county auditors shall provide information requested by the tax commissioner to
+18 effectuate this section.
+19 8.7. The tax commissioner shall prescribe, design, and make available all forms necessary
+20 to effectuate this section.
+21 SECTION 4. A new section to chapter 57-02 of the North Dakota Century Code is created
+22 and enacted as follows:
+23 Primary residential valuation reduction - Qualification - Certification - State
+24 reimbursement.
+25 1. A taxpayer is entitled to a reduction of the taxable valuation of the taxpayer's parcel of
+26 primary residential property as defined under section 57 - 02 - 01 equal to three percen t
+27 of the assessed value of the parcel of primary residential property. The reduction
+28 under this section must be applied before other credits under this chapter, including
+29 the credits under sections 57 - 02 - 08.1 and 57 - 02 - 08.8, have been applied .
+Page No. 9 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. Individuals residing together who are co-owners of the property but who are not
+2 spouses or dependents each are entitled to a percentage of a full reduction under
+3 subsection 1 equal to their ownership interests in the property .
+4 3. a. For taxable year 2025:
+5 (1) The county auditor shall apply the reduction under this section to each
+6 parcel of primary residential property taxed as real estate under this title on
+7 the corresponding tax statement.
+8 (2) The county auditor shall consider an application received under section 2 of
+9 this Act for primary residential property certification for a parcel of primary
+10 residential property taxed as a mobile home under chapter 57 - 55 and
+11 identified by the tax commissioner as a certified primary residence under
+12 section 2 of this Act as an application for an abatement and refund of taxes
+13 in an amount consistent with the reduction allowed. The county auditor shall
+14 present the application for abatement and refund of taxes to the board of
+15 county commissioners at its next regular meeting. The county
+16 commissioners shall approve the applications filed under this paragraph as
+17 soon as practicable and refunds must be issued without delay according to
+18 the procedures in section 57 - 23 - 09. The application, notice, and hearing
+19 requirements and procedures under chapter 57 - 23 and sections 57 - 55 - 04.1
+20 and 57 - 55 - 12 do not apply to an application for abatement and refund filed
+21 under this paragraph.
+22 b. For taxable years after 2025, the county auditor shall apply the reduction under
+23 this section to each parcel of primary residential property on the corresponding
+24 property tax statement or mobile home tax statement.
+25 4. A reduction under this section is valid for the entire taxable year for which the property
+26 is certified as primary residential property, without regard to any change of ownership
+27 of the property which occurs after the property was classified as primary residential
+28 property for the taxable year.
+29 5. This section does not reduce the liability of any individual for special assessments
+30 levied upon any property.
+Page No. 10 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 6. A reduction of taxable valuation under this section may not be applied to reduce the
+2 taxable valuation used for purposes of determining the amount subtracted from a
+3 school district's state aid payment under subdivision a of subsection 4 of section
+4 15.1 - 27 - 04.1 .
+5 7. a. Before January 15, 2026, the county auditor of each county shall certify to the tax
+6 commissioner, on forms prescribed by the tax commissioner the following
+7 information applicable to taxable year 2025 for primary residential property taxed
+8 as real estate under this title and taxable years 2025 and 2026 for primary
+9 residential property taxed as a mobile home under chapter 57 - 55 :
+10 (1) The full name, address, and social security or taxpayer identification number
+11 of each individual or entity for whom the reduction under this section was
+12 allowed;
+13 (2) The legal description of the property;
+14 (3) The taxable value of the property;
+15 (4) The dollar amount of each reduction in taxable value allowed;
+16 (5) The total of the tax mill rates used to calculate taxes for the corresponding
+17 year of all taxing districts in which the property was contained, exclusive of
+18 any state mill rates; and
+19 (6) Any other information prescribed by the tax commissioner.
+20 b. Before January fifteenth of each year after 2026, the county auditor of each
+21 county shall certify to the tax commissioner, on forms prescribed by the tax
+22 commissioner the following information applicable to the taxable year during
+23 which the application under section 2 of this Act is filed for primary residentia l
+24 property taxed as real estate under this title and the taxable year succeeding the
+25 taxable year during which the application under section 2 of this Act is filed for
+26 primary residential property taxed as a mobile home under chapter 57 - 55 :
+27 (1) The full name, address, and social security or taxpayer identification number
+28 of each individual or entity for whom the reduction under this section was
+29 allowed for the corresponding taxable year;
+30 (2) The legal description of the property;
+31 (3) The taxable value of the property;
+Page No. 11 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (4) The dollar amount of each reduction in taxable value allowed;
+2 (5) The total of the tax mill rates used to calculate taxes for the corresponding
+3 year of all taxing districts in which the property was contained, exclusive of
+4 any state mill rates; and
+5 (6) Any other information prescribed by the tax commissioner.
+6 8. a. By March 15, 2026, the tax commissioner shall :
+7 (1) Review the certifications under subdivision a of subsection 7, make any
+8 required corrections, and certify to the state treasurer for payment to each
+9 county the sum of the amounts computed by:
+10 (a) For primary residential valuation reductions for primary residential
+11 property taxed as real estate for taxable year 2025, m ultiplying the
+12 reduction allowed for each qualifying parcel of primary residential
+13 property taxed as real estate under this title in the county for taxable
+14 year 2025 by the total of the tax mill rates for taxable year 2025 of all
+15 taxing districts in which the property was located.
+16 (b) For primary residential valuation reductions for primary residential
+17 property taxed as mobile homes under chapter 57 - 55 for taxable year
+18 2025, m ultiplying the reduction allowed for each qualifying parcel o f
+19 primary residential property taxed as a mobile home under chapter
+20 57 - 55 in the county for taxable year 2025 by the total of the tax mil l
+21 rates used to calculate mobile home taxes under chapter 57 - 55 in
+22 taxable year 2025 of all taxing districts in which the property was
+23 located.
+24 (c) For primary residential valuation reductions for primary residential
+25 property taxed as mobile homes under chapter 57 - 55 for taxable year
+26 2026, m ultiplying the reduction allowed for each qualifying parcel o f
+27 primary residential property taxed as a mobile home under chapter
+28 57 - 55 in the county for taxable year 2026 by the total of the tax mil l
+29 rates used to calculate mobile home taxes under chapter 57 - 55 in
+30 taxable year 2026 of all taxing districts in which the property was
+31 located.
+Page No. 12 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) Certify to the state treasurer for deposit in the state medical center fund the
+2 amount computed by multiplying one mill times the reduction allowed under
+3 this section for primary residential property taxed as rea l estate for taxable
+4 year 2025 and primary residential property taxed as m obile homes under
+5 chapter 57 - 55 for taxable years 2025 and 2026 .
+6 b. By March fifteenth of each year after 2026, the tax commissioner shall:
+7 (1) Review the certifications under subdivision b of subsection 7, make any
+8 required corrections, and certify to the state treasurer for payment to each
+9 county the sum of the amounts computed by:
+10 (a) Multiplying the reduction allowed for each qualifying parcel of primary
+11 residential property taxed as real estate under this title in the county
+12 for the preceding year by the total of the tax mill rates for the
+13 preceding year of all taxing districts in which the property was located.
+14 (b) Multiplying the reduction allowed for each qualifying parcel of primary
+15 residential property taxed as a mobile home under chapter 57 - 55 in
+16 the county for the current year by the total of the tax mill rates used to
+17 calculate mobile home taxes under chapter 57 - 55 for the curren t
+18 taxable year of all taxing districts in which the property was located.
+19 (2) Certify annually to the state treasurer for deposit in the state medical center
+20 fund the amount computed by multiplying one mill times the reduction
+21 allowed under this section for all eligible parcels of primary residential
+22 property in the state for:
+23 (a) The taxable year during which the application under section 2 of this
+24 Act is filed for primary residential property taxed as real estate under
+25 this title.
+26 (b) The taxable year succeeding the taxable year during which the
+27 application under section 2 of this Act is filed for primary residentia l
+28 property taxed as a mobile home under chapter 57 - 55 .
+29 c. In reviewing certifications, the tax commissioner may refer to any income tax
+30 return information or other information available to the tax commissioner.
+Page No. 13 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 9. Within fourteen days of receiving the payment from the state treasurer, the county
+2 treasurer shall apportion and distribute the payment without delay to the county and to
+3 the taxing districts of the county on the same basis property taxes under this chapter
+4 and mobile home taxes under chapter 57 - 55 were apportioned and distributed for the
+5 taxable year in which the taxes were levied.
+6 10. Supplemental certifications by the county auditor and the tax commissioner and
+7 supplemental payments by the state treasurer may be made after the dates prescribed
+8 in this section to make any corrections necessary because of errors or approval of any
+9 application for equalization or abatement filed by an individual or entity because all or
+10 part of the reduction under this section was not allowed.
+11 11 The tax commissioner shall prescribe, design, and make available all forms necessary
+12 to effectuate this section.
+13 SECTION 5. A new section to chapter 57-02 of the North Dakota Century Code is created
+14 and enacted as follows:
+15 Qualifying agricultural and commercial property valuation reduction - Qualification -
+16 Certification - State reimbursement.
+17 1. A taxpayer is entitled to a reduction of the taxable valuation of the taxpayer's parcel of
+18 qualifying commercial property or qualifying agricultural property as provided in this
+19 section. The reduction is equal to:
+20 a. For a parcel of qualifying agricultural property, two percent of the assessed value
+21 of the parcel.
+22 b. For a parcel of qualifying commercial property, one percent of the assessed value
+23 of the parcel.
+24 2. The reduction under this section must be applied before other credits under this
+25 chapter.
+26 3. Persons who are co-owners of the property but who are not spouses or dependents
+27 each are entitled to a percentage of a full reduction under subsection 1 equal to their
+28 ownership interests in the property.
+29 4. To apply for the reduction under this section, an owner shall sign and file with the tax
+30 commissioner by August first of each year an application containing a verified
+31 statement of facts establishing the owner's property meets the eligibility requirements
+Page No. 14 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 to be considered qualifying commercial property or qualifying agricultural property
+2 under this section as of the date of the application on a form and in the manner
+3 prescribed by the tax commissioner.
+4 5. By October first of each year, the tax commissioner shall:
+5 a. Review the applications received under subsection 4 and determine which
+6 applicants qualify for the reduction under this section; and
+7 b. Provide to each county director of tax equalization a copy of each approved or
+8 rejected application which identifies property located in the county .
+9 6. The county director of tax equalization shall a ttach each approved application to the
+10 assessment list and list the amount of the reduction allowed on the assessment list .
+11 7. The tax department may request additional documentation from the applicant when
+12 making the determination of eligibility.
+13 8. If an applicant is found to have claimed a reduction fraudulently under this section to
+14 which that applicant is not entitled, all reductions under this section for that applicant
+15 for that taxable year must be canceled. If an applicant received a reduction that is
+16 canceled under this section, the auditor of the county in which the property is located
+17 shall enter the amount of the canceled reduction as omitted property on the
+18 assessment list of property that has escaped taxation.
+19 9 . Determinations of eligibility for a reduction under this section may be appealed through
+20 the equalization and abatement process.
+21 10. The county auditor shall apply the reduction under this section to each parcel of
+22 qualifying commercial property or qualifying agricultural property on the corresponding
+23 property tax statement.
+24 11. A reduction under this section is valid for the entire taxable year for which the claim
+25 was approved, without regard to any change of ownership of the property which
+26 occurs a f ter the claim was approved for the taxable yea r .
+27 12. This section does not reduce the liability of any owner for special assessments levied
+28 upon any property.
+29 13. A reduction of taxable valuation under this section may not be applied to reduce the
+30 taxable valuation used for purposes of determining the amount subtracted from a
+Page No. 15 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 school district's state aid payment under subdivision a of subsection 4 of section
+2 15.1 - 27 - 04.1 .
+3 14. Before January fifteenth of each year after 2025, the county auditor of each county
+4 shall certify to the tax commissioner, on forms prescribed by the tax commissioner, the
+5 following information:
+6 a. The full name, address, and social security or taxpayer identification number of
+7 each individual or entity for whom the reduction under this section was allowed
+8 for the preceding taxable year;
+9 b. The legal description of the property;
+10 c. The taxable value of the property;
+11 d. The dollar amount of each reduction in taxable value allowed;
+12 e. The total of the tax mill rates used to calculate taxes for the preceding year of all
+13 taxing districts in which the property was contained, exclusive of any state mill
+14 rates; and
+15 f. Any other information prescribed by the tax commissioner.
+16 15. By March fifteenth of each year after 2025, the tax commissioner shall:
+17 a. Review the certifications under subsection 14, make any required corrections ,
+18 and certify to the state treasurer for payment to each county the sum of the
+19 amounts computed by multiplying the reduction allowed for each parcel of
+20 qualifying agricultural property and qualifying commercial property in the county
+21 for the preceding year by the total of the tax mill rates for the preceding year of all
+22 taxing districts in which the property was located.
+23 b. Certify annually to the state treasurer for deposit in the state medical center fund
+24 the amount computed by multiplying one mill times the reduction allowed under
+25 this section for all parcels of qualifying agricultural property and qualifying
+26 commercial property in the state for the preceding taxable year.
+27 16. In reviewing certifications, the tax commissioner may refer to any income tax return
+28 information or other information available to the tax commissioner.
+29 17. Within fourteen days of receiving the payment from the state treasurer, the county
+30 treasurer shall apportion and distribute the payment without delay to the county and to
+Page No. 16 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 the taxing districts of the county on the same basis property taxes under this chapter
+2 were apportioned and distributed for the preceding taxable year.
+3 18. Supplemental certifications by the county auditor and the tax commissioner and
+4 supplemental payments by the state treasurer may be made after the dates prescribed
+5 in this section to make any corrections necessary because of errors or approval of any
+6 application for equalization or abatement filed by an individual or entity because all or
+7 part of the reduction under this section was not allowed.
+8 19. The tax commissioner shall prescribe, design, and make available all forms necessary
+9 to effectuate this section. Application forms must include the full name and address of
+10 the applicant and any other information prescribed by the tax commissioner. The
+11 county director of tax equalization shall make these forms available to applicants upon
+12 request.
+13 20. For purposes of this section:
+14 a. "Domicile " has the meaning provided under section 47 - 30.2 - 01 .
+15 b. "Owned" means an individual or entity holds a present ownership interest,
+16 including ownership in fee simple, holds a present life estate or other terminable
+17 present ownership interest, or is a purchaser under a contract for deed. The term
+18 does not include a mere right of occupancy or a tenancy under a lease.
+19 c. "Qualifying agricultural property" means agricultural property, as defined under
+20 section 57 - 02 - 01, which is owned by an individual who is a resident of the state
+21 or an entity that is domiciled in the state.
+22 d. "Qualifying commercial property" means commercial property, as defined under
+23 section 57 - 02 - 01, which is owned by an individual who is a resident of the state
+24 or an entity that is domiciled in the state.
+25 SECTION 6. AMENDMENT. Section 57-02-27 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 57-02-27. Property to be valued at a percentage of assessed value - Classification of
+28 property - Limitation on valuation of annexed agricultural lands.
+29 1. All property subject to taxation based on the value thereof must be valued as follows:
+30 1.a. All primary residential property and nonprimary residential property to be valued
+31 at nine percent of assessed value. If any property is used for bothprimary
+Page No. 17 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 residential, nonprimary residential, and nonresidential purposes, the valuation
+2 must be prorated accordingly.
+3 2.b. All agricultural property to be valued at ten percent of assessed value as
+4 determined pursuant to section 57-02-27.2.
+5 3.c. All commercial property to be valued at ten percent of assessed value.
+6 4.d. All centrally assessed property to be valued at ten percent of assessed value
+7 except as provided in section 57-06-14.1.
+8 2. The resulting amounts must be resulting from the calculation under subsection 1 are
+9 known as the taxable valuation.
+10 3. In determining the assessed value of real and personal property, except agricultural
+11 property, the assessor may not adopt a lower or different standard of value because
+12 the same is to serve as a basis of taxation, nor may the assessor adopt as a criterion
+13 of value the price at which said property would sell at auction, or at forced sale, or in
+14 the aggregate with all the property in the town or district, but the assessor shall value
+15 each article or description by itself, and at such sum or price as the assessor believes
+16 the same to be fairly worth in money. In assessing any tract or lot of real property,
+17 there must be determined the value of the land, exclusive of improvements, and the
+18 value of all taxable improvements and structures thereon, and the aggregate value of
+19 the property, including all taxable structures and other improvements, excluding the
+20 value of crops growing upon cultivated lands. In valuing any real property upon which
+21 there is a coal or other mine, or stone or other quarry, the same must be valued at
+22 such a price as such property, including the mine or quarry, would sell for at a fair
+23 voluntary sale for cash. Agricultural lands within the corporate limits of a city which are
+24 not platted constitute agricultural property and must be so classified and valued for
+25 ad valorem property tax purposes until such lands are put to another use. Agricultural
+26 lands, whether within the corporate limits of a city or not, which were platted and
+27 assessed as agricultural property prior to March 30, 1981, must be assessed as
+28 agricultural property for ad valorem property tax purposes until put to another use.
+29 Such valuation must be uniform with the valuation of adjoining unannexed agricultural
+30 land.
+Page No. 18 25.1283.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 7. AMENDMENT. Section 57-02-27.1 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 57-02-27.1. Property to be valued at true and full value.
+4 1. All assessors and boards of equalization shall place the values of all items of taxable
+5 property at the true and full value of the property except as otherwise specifically
+6 provided by law, and the amount of taxes that may be levied on such property must be
+7 limited as provided in this chapter. For the purposes of sections 57-02-27, 57-02-27.1,
+8 57-02-27.2, and 57-55-04, the term "true and full value" has the same meaning as
+9 provided in subsection 15 of section 57-02-01, except that "true and full value" of
+10 agricultural lands must be as determined pursuant to section 57-02-27.2.
+11 2. The governing body of the city or township may establish valuations that recognize the
+12 supply of vacant lots available for sale.
+13 SECTION 8. A new subdivision to subsection 1 of section 57-55-10 of the North Dakota
+14 Century Code is created and enacted as follows:
+15 If it is owned by an individual who qualifies for the primary residential valuation
+16 reduction under section 4 of this Act, to the extent to which the individual is
+17 entitled to the reduction.
+18 SECTION 9. REPEAL. Section 57-02-08.9 of the North Dakota Century Code is repealed.
+19 SECTION 10. EFFECTIVE DATE. Sections 1, 2, 4, 5, 6, 7, 8 and 9 of this Act are effective
+20 for taxable years beginning after December 31, 2024.
+Page No. 19 25.1283.01000
+
+[DELETED: ."12]
+[DELETED: .P)T)P)T)P)P)T)T.L."."."."."22]
+[DELETED: ."."."."."."."."."32]
+[DELETED: .".".".T.T.A.T42]
+[DELETED: .F) ) )T) )R) ) )N) .F)A52]
+[DELETED: ) )T)A)R) )W.T.D.A.T62]
+[DELETED: .F.".() )O)D)U)O)F)A)A.") )F72]
+[DELETED: )F)U)T)D)I.".B.R.P)A)T.T82]
+[DELETED: .B.B.W.S.T.T.A92]
+[DELETED: .I.a.F)T)T.F.A.T02]
+[DELETED: .A.a. )T)T)T)T)T)A.B)T)T)T12]
+[DELETED: )T)T)A.a. ) )F)F)F22]
+[DELETED: )C.B) )M)M)C) )T.I32]
+[DELETED: .W.S1T.A.F.F.T.P.T42]
+[DELETED: .B. . . .T.I.D.T.A.T.A52]
+[DELETED: .B.T.T.T.T.T.A.B. .C.I.W62]
+[DELETED: .S.T.F. .". .".A.A72]
+[DELETED: .A.A.A.T.I82]
+[DELETED: .A.T92]

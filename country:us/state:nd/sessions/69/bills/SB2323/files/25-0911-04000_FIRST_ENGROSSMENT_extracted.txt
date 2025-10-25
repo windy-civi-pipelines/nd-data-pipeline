@@ -1,0 +1,1266 @@
+Title: ENGROSSED SENATE BILL NO. 2323
+Official Title: ENGROSSED SENATE BILL NO. 2323
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+25.0911.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Senators Bekkedahl, Sorvaag, Hogue
+Representatives Lefor, Brandenburg, Richter
+1 A BILL for an Act to create and enact a new section to chapter 57-51 of the North Dakota
+2 Century Code, relating to an energy impact grant fund; to amend and reenact sections 57-51-15
+3 and 57-51.1-07.5 of the North Dakota Century Code, relating to oil and gas gross production tax
+4 allocations and the state share of oil and gas tax allocations; to provide a continuing
+5 appropriation; to provide an exemption; to provide an effective date; and to provide an
+6 expiration date.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Section 57-51-15 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 57-51-15. Gross production tax allocation. (Effective through June 30, 20272037)
+11 The gross production tax must be allocated monthly as follows:
+12 1. The tax revenue collected under this chapter equal to one percent of the gross value
+13 at the well of the oil and one-fifth of the tax on gas must be deposited with the state
+14 treasurer. The state treasurer shall allocate the funding in the following order:
+15 a. Eight percent of the amount available under this subsection to the North Dakota
+16 outdoor heritage fund, but not in an amount exceeding twenty million dollars per
+17 fiscal year.
+18 b. Four percent of the amount available under this subsection to the abandoned oil
+19 and gas well plugging and site reclamation fund, but not in an amount exceeding
+20 seven million five hundred thousand dollars per fiscal year and not in an amount
+21 that would bring the balance in the fund to more than one hundred million dollars
+22 through June 30, 2027, or to more than fifty million dollars after June 30, 2027 .
+Page No. 1 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 c. Up to twenty million dollars per fiscal year to the energy impact grant fund under
+2 section 2 of this Act .
+3 d. Any remaining revenues pursuant to subsection 3.
+4 d.e. For purposes of this subsection, "fiscal year" means the period beginning
+5 September first and ending August thirty-first of the following calendar year.
+6 2. The tax revenue collected under this chapter equal to four percent of the gross value
+7 at the well of the oil and four-fifths of the tax on gas must be deposited with the state
+8 treasurer. The state treasurer shall allocate the funding in the following order:
+9 a. The first five million dollars of collections received from a county each fiscal year
+10 is allocated to the county.
+11 b. The remaining revenue collections received from a county each fiscal year are
+12 allocated thirty percent to the county and seventy percent as follows:
+13 (1) Monthly amounts to the hub city funding pool to provide fifteen million four
+14 hundred thousand dollars per fiscal year for the allocations under
+15 paragraph 2 of subdivision a of subsection 5.
+16 (2) Monthly amounts to the hub city school district funding pool to provide two
+17 million one hundred thousand dollars per fiscal year for the allocations
+18 under paragraph 3 of subdivision a of subsection 5.
+19 (3) Monthly amounts to the supplemental school district funding pool to provide
+20 seventy percent of the total amount needed for the allocations under
+21 paragraph 4 of subdivision a of subsection 5.
+22 (4) Any remaining revenue collections to the state for the state's allocations
+23 pursuant to subsection 3.
+24 c. For purposes of this subsection, "fiscal year" means the period beginning
+25 September first and ending August thirty-first of the following calendar year.
+26 3. After the allocations under subsections 1 and 2, the amount remaining is allocated first
+27 to provide for deposit of thirty percent of all revenue collected under this chapter in the
+28 legacy fund as provided in section 26 of article X of the Constitution of North Dakota
+29 and the remainder must be allocated to the state general fund. If the amount available
+30 for a monthly allocation under this subsection is insufficient to deposit thirty percent of
+31 all revenue collected under this chapter in the legacy fund, the state treasurer shall
+Page No. 2 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 transfer the amount of the shortfall from the state general fund share of oil extraction
+2 tax collections and deposit that amount in the legacy fund.
+3 4. For a county that received less than five million dollars of allocations under
+4 subsection 2 in the most recently completed even-numbered fiscal year before the
+5 start of the biennium, revenues allocated to that county must be distributed by the
+6 state treasurer as follows:
+7 a. Forty-five percent must be distributed to the county treasurer and credited to the
+8 county general fund.
+9 b. Thirty-five percent must be distributed proportionally to school districts within the
+10 county on the average daily attendance distribution basis for kindergarten
+11 through grade twelve students residing within the county, as certified to the state
+12 treasurer by the county superintendent of schools. However, a hub city school
+13 district must be omitted from distributions under this subdivision.
+14 c. Twenty percent must be distributed to the incorporated cities of the county. A hub
+15 city must be omitted from distributions under this subdivision. Distributions
+16 among cities under this subsection must be proportional based upon the
+17 population of each incorporated city according to the last official decennial federal
+18 census. In determining the population of any city in which total employment
+19 increases by more than two hundred percent seasonally due to tourism, the
+20 population of that city for purposes of this subdivision must be increased by eight
+21 hundred percent.
+22 d. For purposes of this subsection, "fiscal year" means the period beginning
+23 September first and ending August thirty-first of the following calendar year.
+24 5. For a county that received five million dollars or more of allocations under subsection 2
+25 in the most recently completed even-numbered fiscal year before the start of the
+26 biennium, revenues allocated to that county must be distributed by the state treasurer
+27 as follows:
+28 a. A portion of the revenues from each county must be distributed to a hub city
+29 funding pool, a hub city school district funding pool, and a supplemental school
+30 district funding pool as follows:
+Page No. 3 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 (1) The amount distributed from each county to the funding pools under this
+2 subdivision must be proportional to each county's monthly oil and gas gross
+3 production tax revenue collections relative to the combined total monthly oil
+4 and gas gross production tax revenue collections from all the counties that
+5 receive allocations under this subsection.
+6 (2) The state treasurer shall distribute, to the hub city funding pool, the monthly
+7 amount needed from each county to provide six million six hundred
+8 thousand dollars per fiscal year for the allocations under this paragraph.
+9 (a) The state treasurer shall allocate monthly amounts from the hub city
+10 funding pool to provide a combined total of twenty-two million dollars
+11 per fiscal year to all the hub cities, which includes the fifteen million
+12 four hundred thousand dollars under paragraph 1 of subdivision b of
+13 subsection 2 and the six million six hundred thousand dollars under
+14 this paragraph. The monthly allocation to each hub city must be
+15 proportional to each hub city's impact percentage score, including
+16 fractional percentage points rounded to the nearest tenth of a percent,
+17 relative to the combined total of all the hub cities' impact percentage
+18 scores.
+19 (b) The state treasurer shall calculate the impact percentage score for
+20 each hub city by summing the following:
+21 [1] The percentage of mining, quarrying, and oil and gas extraction
+22 employment relative to the total employment of all industries in
+23 the county in which the hub city is located, based on the most
+24 recent annual data for all ownership types compiled by job
+25 service North Dakota in the quarterly census of employment and
+26 wages, multiplied by forty-five hundredths;
+27 [2] The average of the percentage of mining, quarrying, and oil and
+28 gas extraction employment relative to the total employment of all
+29 industries in each county for all the counties in the human
+30 service region in which the hub city is located, based on the most
+31 recent annual data for all ownership types compiled by job
+Page No. 4 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 service North Dakota in the quarterly census of employment and
+2 wages, multiplied by fifteen hundredths;
+3 [3] The percentage of establishments engaged in mining, quarrying,
+4 and oil and gas extraction relative to the total establishments of
+5 all industries in the county in which the hub city is located, based
+6 on the most recent annual data for all ownership types complied
+7 by job service North Dakota in the quarterly census of
+8 employment and wages, multiplied by one-tenth;
+9 [4] The percentage of oil production in the human service region in
+10 which the hub city is located relative to the total oil production in
+11 all the human service regions with hub cities, based on the most
+12 recently available calendar year data compiled by the industrial
+13 commission in a report on the historical barrels of oil produced by
+14 county, multiplied by one-tenth;
+15 [5] The percentage change in population from five years prior for the
+16 hub city, based on the most recent actual or estimated census
+17 data published by the United States census bureau, multiplied by
+18 one-tenth; and
+19 [6] The percentage change in population from five years prior for the
+20 county in which the hub city is located, based on the most recent
+21 actual or estimated census data published by the United States
+22 census bureau, multiplied by one-tenth.
+23 (c) For purposes of this paragraph, "human service region" means the
+24 areas designated by the governor's executive order 1978-12 dated
+25 October 5, 1978.
+26 (3) The state treasurer shall distribute, to the hub city school district funding
+27 pool, the monthly amount needed from each county to provide nine hundred
+28 thousand dollars per fiscal year for the allocations under this paragraph.
+29 (a) The state treasurer shall allocate monthly amounts from the hub city
+30 school district funding pool to provide a combined total of three million
+31 dollars per fiscal year to all the hub city school districts, which
+Page No. 5 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 includes the two million one hundred thousand dollars under
+2 paragraph 2 of subdivision b of subsection 2 and the nine hundred
+3 thousand dollars under this paragraph. The monthly allocation to each
+4 hub city school districts must be proportional to each hub city school
+5 district's impact percentage score, including fractional percentage
+6 points rounded to the nearest tenth of a percent, relative to the
+7 combined total of all the hub cities' impact percentage scores.
+8 (b) For the purpose of determining the impact percentage score for each
+9 hub city school district, the state treasurer shall use the same impact
+10 percentage score as the corresponding score calculated for each hub
+11 city in paragraph 2.
+12 (4) The state treasurer shall distribute, to the supplemental school district
+13 funding pool, the monthly amount needed from each county to provide for
+14 thirty percent of the total allocations under this paragraph. To each county
+15 that received more than five million dollars but less than thirty million dollars
+16 of total allocations under subsection 2 in the most recently completed
+17 even-numbered fiscal year before the start of the biennium, the state
+18 treasurer shall allocate a monthly amount from the supplemental school
+19 district funding pool which will be added to the distributions to school
+20 districts under paragraph 2 of subdivision b, as follows:
+21 (a) To each county that received more than five million dollars but not
+22 exceeding ten million dollars of total allocations under subsection 2 in
+23 the most recently completed even-numbered fiscal year before the
+24 start of the biennium, the state treasurer shall allocate a monthly
+25 amount that will provide a total allocation of one million five hundred
+26 thousand dollars per fiscal year. The allocation must be distributed to
+27 school districts within the county pursuant to paragraph 2 of
+28 subdivision b.
+29 (b) To each county that received more than ten million dollars but not
+30 exceeding fifteen million dollars of total allocations under subsection 2
+31 in the most recently completed even-numbered fiscal year before the
+Page No. 6 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 start of the biennium, the state treasurer shall allocate a monthly
+2 amount that will provide a total allocation of one million two hundred
+3 fifty thousand dollars per fiscal year. The allocation must be distributed
+4 to school districts within the county pursuant to paragraph 2 of
+5 subdivision b.
+6 (c) To each county that received more than fifteen million dollars but not
+7 exceeding twenty million dollars of total allocations under subsection 2
+8 in the most recently completed even-numbered fiscal year before the
+9 start of the biennium, the state treasurer shall allocate a monthly
+10 amount that will provide a total allocation of one million dollars per
+11 fiscal year. The allocation must be distributed to school districts within
+12 the county pursuant to paragraph 2 of subdivision b.
+13 (d) To each county that received more than twenty million dollars but not
+14 exceeding twenty-five million dollars of total allocations under
+15 subsection 2 in the most recently completed even-numbered fiscal
+16 year before the start of the biennium, the state treasurer shall allocate
+17 a monthly amount that will provide a total allocation of seven hundred
+18 fifty thousand dollars per fiscal year. The allocation must be distributed
+19 to school districts within the county pursuant to paragraph 2 of
+20 subdivision b.
+21 (e) To each county that received more than twenty-five million dollars but
+22 not exceeding thirty million dollars of total allocations under
+23 subsection 2 in the most recently completed even-numbered fiscal
+24 year before the start of the biennium, the state treasurer shall allocate
+25 a monthly amount that will provide a total allocation of five hundred
+26 thousand dollars per fiscal year. The allocation must be distributed to
+27 school districts within the county pursuant to paragraph 2 of
+28 subdivision b.
+29 b. After the distributions in subdivision a, each county's remaining revenues must be
+30 distributed as follows:
+Page No. 7 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 (1) Sixty percent must be distributed to the county treasurer and credited to the
+2 county general fund.
+3 (2) Five percent must be distributed proportionally to school districts within the
+4 county on the average daily attendance distribution basis for kindergarten
+5 through grade twelve students residing within the county, as certified to the
+6 state treasurer by the county superintendent of schools. However, a hub city
+7 school district must be omitted from distributions under this subdivision.
+8 (3) Twenty percent must be distributed to the incorporated cities of the county. A
+9 hub city must be omitted from distributions under this subdivision.
+10 Distributions among cities under this subsection must be proportional based
+11 upon the population of each incorporated city according to the last official
+12 decennial federal census. In determining the population of any city in which
+13 total employment increases by more than two hundred percent seasonally
+14 due to tourism, the population of that city for purposes of this subdivision
+15 must be increased by eight hundred percent.
+16 (4) Four percent must be allocated among the organized and unorganized
+17 townships of the county. The state treasurer shall allocate the funds
+18 available under this subdivision among townships in proportion to each
+19 township's road miles relative to the total township road miles in the county.
+20 The amount allocated to unorganized townships under this subdivision must
+21 be distributed to the county treasurer and credited to a special fund for
+22 unorganized township roads, which the board of county commissioners shall
+23 use for the maintenance and improvement of roads in unorganized
+24 townships.
+25 (5) Nine percent must be distributed among hub cities. The state treasurer shall
+26 distribute the funds available under this subdivision in proportion to the
+27 amounts the hub cities receive under paragraph 2 of subdivision a.
+28 (6) Two percent must be distributed among hub city school districts. The state
+29 treasurer shall distribute the funds available under this subdivision in
+30 proportion to the amounts the hub city school districts receive under
+31 paragraph 3 of subdivision a.
+Page No. 8 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 (7) For purposes of this subsection, "fiscal year" means the period beginning
+2 September first and ending August thirty-first of the following calendar year.
+3 Gross production tax allocation. (Effective after June 30, 20272037) The gross
+4 production tax must be allocated monthly as follows:
+5 1. The tax revenue collected under this chapter equal to one percent of the gross value
+6 at the well of the oil and one-fifth of the tax on gas must be deposited with the state
+7 treasurer. The state treasurer shall allocate the funding in the following order:
+8 a. Eight percent of the amount available under this subsection to the North Dakota
+9 outdoor heritage fund, but not in an amount exceeding twenty million dollars per
+10 fiscal year.
+11 b. Four percent of the amount available under this subsection to the abandoned oil
+12 and gas well plugging and site reclamation fund, but not in an amount exceeding
+13 seven million five hundred thousand dollars per fiscal year and not in an amount
+14 that would bring the balance in the fund to more than fifty million dollars.
+15 c. Any remaining revenues pursuant to subsection 3.
+16 d. For purposes of this subsection, "fiscal year" means the period beginning
+17 September first and ending August thirty-first of the following calendar year.
+18 2. The tax revenue collected under this chapter equal to four percent of the gross value
+19 at the well of the oil and four-fifths of the tax on gas must be deposited with the state
+20 treasurer. The state treasurer shall allocate the funding in the following order:
+21 a. The first five million dollars of collections received from a county each fiscal year
+22 is allocated to the county.
+23 b. The remaining revenue collections received from a county each fiscal year are
+24 allocated thirty percent to the county and seventy percent as follows:
+25 (1) Monthly amounts to the hub city funding pool to provide fifteen million four
+26 hundred thousand dollars per fiscal year for the allocations under
+27 paragraph 2 of subdivision a of subsection 5.
+28 (2) Monthly amounts to the hub city school district funding pool to provide two
+29 million one hundred thousand dollars per fiscal year for the allocations
+30 under paragraph 3 of subdivision a of subsection 5.
+Page No. 9 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 (3) Monthly amounts to the supplemental school district funding pool to provide
+2 seventy percent of the total amount needed for the allocations under
+3 paragraph 4 of subdivision a of subsection 5.
+4 (4) Any remaining revenue collections to the state for the state's allocations
+5 pursuant to subsection 3.
+6 c. For purposes of this subsection, "fiscal year" means the period beginning
+7 September first and ending August thirty-first of the following calendar year.
+8 3. After the allocations under subsections 1 and 2, the amount remaining is allocated first
+9 to provide for deposit of thirty percent of all revenue collected under this chapter in the
+10 legacy fund as provided in section 26 of article X of the Constitution of North Dakota
+11 and the remainder must be allocated to the state general fund. If the amount available
+12 for a monthly allocation under this subsection is insufficient to deposit thirty percent of
+13 all revenue collected under this chapter in the legacy fund, the state treasurer shall
+14 transfer the amount of the shortfall from the state general fund share of oil extraction
+15 tax collections and deposit that amount in the legacy fund.
+16 4. For a county that received less than five million dollars of allocations under
+17 subsection 2 in the most recently completed even-numbered fiscal year before the
+18 start of the biennium, revenues allocated to that county must be distributed by the
+19 state treasurer as follows:
+20 a. Forty-five percent must be distributed to the county treasurer and credited to the
+21 county general fund.
+22 b. Thirty-five percent must be distributed proportionally to school districts within the
+23 county on the average daily attendance distribution basis for kindergarten
+24 through grade twelve students residing within the county, as certified to the state
+25 treasurer by the county superintendent of schools. However, a hub city school
+26 district must be omitted from distributions under this subdivision.
+27 c. Twenty percent must be distributed to the incorporated cities of the county. A hub
+28 city must be omitted from distributions under this subdivision. Distributions
+29 among cities under this subsection must be proportional based upon the
+30 population of each incorporated city according to the last official decennial federal
+31 census. In determining the population of any city in which total employment
+Page No. 10 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 increases by more than two hundred percent seasonally due to tourism, the
+2 population of that city for purposes of this subdivision must be increased by eight
+3 hundred percent.
+4 d. For purposes of this subsection, "fiscal year" means the period beginning
+5 September first and ending August thirty-first of the following calendar year.
+6 5. For a county that received five million dollars or more of allocations under subsection 2
+7 in the most recently completed even-numbered fiscal year before the start of the
+8 biennium, revenues allocated to that county must be distributed by the state treasurer
+9 as follows:
+10 a. A portion of the revenues from each county must be distributed to a hub city
+11 funding pool, a hub city school district funding pool, and a supplemental school
+12 district funding pool as follows:
+13 (1) The amount distributed from each county to the funding pools under this
+14 subdivision must be proportional to each county's monthly oil and gas gross
+15 production tax revenue collections relative to the combined total monthly oil
+16 and gas gross production tax revenue collections from all the counties that
+17 receive allocations under this subsection.
+18 (2) The state treasurer shall distribute, to the hub city funding pool, the monthly
+19 amount needed from each county to provide six million six hundred
+20 thousand dollars per fiscal year for the allocations under this paragraph.
+21 (a) The state treasurer shall allocate monthly amounts from the hub city
+22 funding pool to provide a combined total of twenty-two million dollars
+23 per fiscal year to all the hub cities, which includes the fifteen million
+24 four hundred thousand dollars under paragraph 1 of subdivision b of
+25 subsection 2 and the six million six hundred thousand dollars under
+26 this paragraph. The monthly allocation to each hub city must be
+27 proportional to each hub city's impact percentage score, including
+28 fractional percentage points rounded to the nearest tenth of a percent,
+29 relative to the combined total of all the hub cities' impact percentage
+30 scores.
+Page No. 11 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 (b) The state treasurer shall calculate the impact percentage score for
+2 each hub city by summing the following:
+3 [1] The percentage of mining, quarrying, and oil and gas extraction
+4 employment relative to the total employment of all industries in
+5 the county in which the hub city is located, based on the most
+6 recent annual data for all ownership types compiled by job
+7 service North Dakota in the quarterly census of employment and
+8 wages, multiplied by forty-five hundredths;
+9 [2] The average of the percentage of mining, quarrying, and oil and
+10 gas extraction employment relative to the total employment of all
+11 industries in each county for all the counties in the human
+12 service region in which the hub city is located, based on the most
+13 recent annual data for all ownership types compiled by job
+14 service North Dakota in the quarterly census of employment and
+15 wages, multiplied by fifteen hundredths;
+16 [3] The percentage of establishments engaged in mining, quarrying,
+17 and oil and gas extraction relative to the total establishments of
+18 all industries in the county in which the hub city is located, based
+19 on the most recent annual data for all ownership types complied
+20 by job service North Dakota in the quarterly census of
+21 employment and wages, multiplied by one-tenth;
+22 [4] The percentage of oil production in the human service region in
+23 which the hub city is located relative to the total oil production in
+24 all the human service regions with hub cities, based on the most
+25 recently available calendar year data compiled by the industrial
+26 commission in a report on the historical barrels of oil produced by
+27 county, multiplied by one-tenth;
+28 [5] The percentage change in population from five years prior for the
+29 hub city, based on the most recent actual or estimated census
+30 data published by the United States census bureau, multiplied by
+31 one-tenth; and
+Page No. 12 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 [6] The percentage change in population from five years prior for the
+2 county in which the hub city is located, based on the most recent
+3 actual or estimated census data published by the United States
+4 census bureau, multiplied by one-tenth.
+5 (c) For purposes of this paragraph, "human service region" means the
+6 areas designated by the governor's executive order 1978-12 dated
+7 October 5, 1978.
+8 (3) The state treasurer shall distribute, to the hub city school district funding
+9 pool, the monthly amount needed from each county to provide nine hundred
+10 thousand dollars per fiscal year for the allocations under this paragraph.
+11 (a) The state treasurer shall allocate monthly amounts from the hub city
+12 school district funding pool to provide a combined total of three million
+13 dollars per fiscal year to all the hub city school districts, which
+14 includes the two million one hundred thousand dollars under
+15 paragraph 2 of subdivision b of subsection 2 and the nine hundred
+16 thousand dollars under this paragraph. The monthly allocation to each
+17 hub city school districts must be proportional to each hub city school
+18 district's impact percentage score, including fractional percentage
+19 points rounded to the nearest tenth of a percent, relative to the
+20 combined total of all the hub cities' impact percentage scores.
+21 (b) For the purpose of determining the impact percentage score for each
+22 hub city school district, the state treasurer shall use the same impact
+23 percentage score as the corresponding score calculated for each hub
+24 city in paragraph 2.
+25 (4) The state treasurer shall distribute, to the supplemental school district
+26 funding pool, the monthly amount needed from each county to provide for
+27 thirty percent of the total allocations under this paragraph. To each county
+28 that received more than five million dollars but less than thirty million dollars
+29 of total allocations under subsection 2 in the most recently completed
+30 even-numbered fiscal year before the start of the biennium, the state
+31 treasurer shall allocate a monthly amount from the supplemental school
+Page No. 13 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 district funding pool which will be added to the distributions to school
+2 districts under paragraph 2 of subdivision b, as follows:
+3 (a) To each county that received more than five million dollars but not
+4 exceeding ten million dollars of total allocations under subsection 2 in
+5 the most recently completed even-numbered fiscal year before the
+6 start of the biennium, the state treasurer shall allocate a monthly
+7 amount that will provide a total allocation of one million five hundred
+8 thousand dollars per fiscal year. The allocation must be distributed to
+9 school districts within the county pursuant to paragraph 2 of
+10 subdivision b.
+11 (b) To each county that received more than ten million dollars but not
+12 exceeding fifteen million dollars of total allocations under subsection 2
+13 in the most recently completed even-numbered fiscal year before the
+14 start of the biennium, the state treasurer shall allocate a monthly
+15 amount that will provide a total allocation of one million two hundred
+16 fifty thousand dollars per fiscal year. The allocation must be distributed
+17 to school districts within the county pursuant to paragraph 2 of
+18 subdivision b.
+19 (c) To each county that received more than fifteen million dollars but not
+20 exceeding twenty million dollars of total allocations under subsection 2
+21 in the most recently completed even-numbered fiscal year before the
+22 start of the biennium, the state treasurer shall allocate a monthly
+23 amount that will provide a total allocation of one million dollars per
+24 fiscal year. The allocation must be distributed to school districts within
+25 the county pursuant to paragraph 2 of subdivision b.
+26 (d) To each county that received more than twenty million dollars but not
+27 exceeding twenty-five million dollars of total allocations under
+28 subsection 2 in the most recently completed even-numbered fiscal
+29 year before the start of the biennium, the state treasurer shall allocate
+30 a monthly amount that will provide a total allocation of seven hundred
+31 fifty thousand dollars per fiscal year. The allocation must be distributed
+Page No. 14 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 to school districts within the county pursuant to paragraph 2 of
+2 subdivision b.
+3 (e) To each county that received more than twenty-five million dollars but
+4 not exceeding thirty million dollars of total allocations under
+5 subsection 2 in the most recently completed even-numbered fiscal
+6 year before the start of the biennium, the state treasurer shall allocate
+7 a monthly amount that will provide a total allocation of five hundred
+8 thousand dollars per fiscal year. The allocation must be distributed to
+9 school districts within the county pursuant to paragraph 2 of
+10 subdivision b.
+11 b. After the distributions in subdivision a, each county's remaining revenues must be
+12 distributed as follows:
+13 (1) Sixty percent must be distributed to the county treasurer and credited to the
+14 county general fund.
+15 (2) Five percent must be distributed proportionally to school districts within the
+16 county on the average daily attendance distribution basis for kindergarten
+17 through grade twelve students residing within the county, as certified to the
+18 state treasurer by the county superintendent of schools. However, a hub city
+19 school district must be omitted from distributions under this subdivision.
+20 (3) Twenty percent must be distributed to the incorporated cities of the county. A
+21 hub city must be omitted from distributions under this subdivision.
+22 Distributions among cities under this subsection must be proportional based
+23 upon the population of each incorporated city according to the last official
+24 decennial federal census. In determining the population of any city in which
+25 total employment increases by more than two hundred percent seasonally
+26 due to tourism, the population of that city for purposes of this subdivision
+27 must be increased by eight hundred percent.
+28 (4) Four percent must be allocated among the organized and unorganized
+29 townships of the county. The state treasurer shall allocate the funds
+30 available under this subdivision among townships in proportion to each
+31 township's road miles relative to the total township road miles in the county.
+Page No. 15 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 The amount allocated to unorganized townships under this subdivision must
+2 be distributed to the county treasurer and credited to a special fund for
+3 unorganized township roads, which the board of county commissioners shall
+4 use for the maintenance and improvement of roads in unorganized
+5 townships.
+6 (5) Nine percent must be distributed among hub cities. The state treasurer shall
+7 distribute the funds available under this subdivision in proportion to the
+8 amounts the hub cities receive under paragraph 2 of subdivision a.
+9 (6) Two percent must be distributed among hub city school districts. The state
+10 treasurer shall distribute the funds available under this subdivision in
+11 proportion to the amounts the hub city school districts receive under
+12 paragraph 3 of subdivision a.
+13 (7) For purposes of this subsection, "fiscal year" means the period beginning
+14 September first and ending August thirty-first of the following calendar year.
+15 SECTION 2. A new section to chapter 57-51 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Energy impact grant fund - State treasurer - Continuing appropriation.
+18 1. There is created in the state treasury the energy impact grant fund. The fund consists
+19 of all moneys allocated to the fund under section 57 - 51 - 15. All moneys in the fund are
+20 appropriated to the state treasurer on a continuing basis for energy impact grants to
+21 hub cities.
+22 2. Within forty days after the fund receives its statutory limit of oil and gas tax allocations
+23 for a fiscal year under section 57 - 51 - 15 or by August thirty-first of each year ,
+24 whichever is earlier, the state treasurer shall distribute moneys in the fund for grants to
+25 hub cities as follows:
+26 a. Seventy-three and eighty-eight hundredths percent of the amount under this
+27 subsection to Williston;
+28 b. Fifteen and sixty-six hundredths percent of the amount under this subsection to
+29 Dickinson; and
+30 c. Ten and forty-six hundredths percent of the amount under this subsection to
+31 Minot.
+Page No. 16 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 3. A hub city shall use the grant funding provided under this section for debt repayments
+2 related to debt incurred to address impacts from oil and gas development or for other
+3 expenses incurred to address impacts from oil and gas development.
+4 SECTION 3. AMENDMENT. Section 57-51.1-07.5 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 57-51.1-07.5. State share of oil and gas taxes - Deposits.
+7 From the revenues designated for deposit in the state general fund under chapters 57-51
+8 and 57-51.1, the state treasurer shall deposit the revenues received each biennium in the
+9 following order:
+10 1. The first two hundred thirty milliontwo hundred fifty million dollars into the state general
+11 fund;
+12 2. The next two hundred fifty million dollars into the social service fund;
+13 3. The next seventy-five million dollars into the budget stabilization fund, but not in an
+14 amount that would bring the balance in the fund to more than the limit in section
+15 54-27.2-01;
+16 4. The next two hundred thirty milliontwo hundred fifty million dollars into the state
+17 general fund;
+18 5. The next ten million dollars into the lignite research fund;
+19 6. The next twenty million dollars into the state disaster relief fund, but not in an amount
+20 that would bring the unobligated balance in the fund to more than twenty million
+21 dollars;
+22 7. The next four hundred millionthree hundred twenty million dollars into the strategic
+23 investment and improvements fund;
+24 8. The next sixty-five million dollars to the public employees retirement fund for the main
+25 system plan;
+26 9. The next fifty-nine million seven hundred fifty thousand dollars, or the amount
+27 necessary to provide for twice the amount of the distributions under subsection 2 of
+28 section 57-51.1-07.7, into the funds designated for infrastructure development in
+29 non-oil-producing counties under sections 57-51.1-07.7 and 57-51.1-07.8 with fifty
+30 percent deposited into the municipal infrastructure fund and fifty percent deposited into
+31 the county and township infrastructure fund;
+Page No. 17 25.0911.04000
+Sixty-ninth
+Legislative Assembly
+1 10. The next one hundred seventy million two hundred fifty thousand dollars or the amount
+2 necessary to provide a total of two hundred thirty million dollars into the funds
+3 designated for infrastructure development in non-oil-producing counties under sections
+4 57-51.1-07.7 and 57-51.1-07.8 with fifty percent deposited into the municipal
+5 infrastructure fund and fifty percent deposited into the county and township
+6 infrastructure fund;
+7 11. The next twenty million dollars into the airport infrastructure fund; and
+8 12. Any additional revenues into the strategic investment and improvements fund.
+9 SECTION 4. EXEMPTION - OIL AND GAS TAX REVENUE ALLOCATIONS - NORTH
+10 DAKOTA OUTDOOR HERITAGE FUND - OIL AND GAS RESEARCH FUND.
+11 1. Notwithstanding the provisions of section 57-51-15 relating to the allocations to the
+12 North Dakota outdoor heritage fund, for the period beginning September 1, 2025, and
+13 ending August 31, 2027, the state treasurer shall allocate eight percent of the oil and
+14 gas gross production tax revenue available under subsection 1 of section 57-51-15 to
+15 the North Dakota outdoor heritage fund, but not in an amount exceeding $7,500,000
+16 per fiscal year.
+17 2. Notwithstanding the provisions of section 57-51.1-07.3 relating to the allocations to the
+18 oil and gas research fund, for the period beginning August 1, 2025, and ending
+19 July 31, 2027, the state treasurer shall allocate two percent of the oil and gas gross
+20 production tax and oil extraction tax revenues, up to $17,500,000, into the oil and gas
+21 research fund before allocating oil and gas tax revenues under sections 57-51.1-07.5,
+22 57-51.1-07.9, and 57-51.1-07.10.
+23 SECTION 5. EFFECTIVE DATE. Section 1 of this Act is effective for oil and gas gross
+24 production tax allocations by the state treasurer occurring after August 31, 2025.
+Page No. 18 25.0911.04000
+[DELETED: .T.E.F12]
+[DELETED: .U.A.F.T.T.T)M)M)M)A.F.A22]
+[DELETED: .F.F.T.T.F.F.A32]
+[DELETED: )T)T)T)T]T]T42]
+[DELETED: ]T]T]T]T)F)T)T52]
+[DELETED: )F)T)T)T62]
+[DELETED: )T)T)T.A72]
+[DELETED: )S)F)T)F)N)T82]
+[DELETED: )F.T.E.F.A.F.T.T.T)M)M92]
+[DELETED: )M)A.F.A.F.F.T.T02]
+[DELETED: .F.F.A)T)T)T12]
+[DELETED: )T]T]T]T]T]T22]
+[DELETED: ]T)F)T)T)F)T32]
+[DELETED: )T)T)T)T42]
+[DELETED: )T.A)S)F)T)F52]
+[DELETED: )N)T)F.T.W.S.F.T62]
+[DELETED: .A.T.T.T.T.T.T.T.T.T72]
+[DELETED: .T.T.A.N.N82]
+
+
+================================================================================
+
+Raw Text:
+25.0911.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2323
+Introduced by
+Senators Bekkedahl, Sorvaag, Hogue
+Representatives Lefor, Brandenburg, Richter
+1 A BILL for an Act to create and enact a new section to chapter 57-51 of the North Dakota
+2 Century Code, relating to an energy impact grant fund; to amend and reenact sections 57-51-15
+3 and 57-51.1-07.5 of the North Dakota Century Code, relating to oil and gas gross production tax
+4 allocations and the state share of oil and gas tax allocations; to provide a continuing
+5 appropriation; to provide an exemption; to provide an effective date; and to provide an
+6 expiration date.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Section 57-51-15 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 57-51-15. Gross production tax allocation. (Effective through June 30, 20272037)
+11 The gross production tax must be allocated monthly as follows:
+12 1. The tax revenue collected under this chapter equal to one percent of the gross value
+13 at the well of the oil and one-fifth of the tax on gas must be deposited with the state
+14 treasurer. The state treasurer shall allocate the funding in the following order:
+15 a. Eight percent of the amount available under this subsection to the North Dakota
+16 outdoor heritage fund, but not in an amount exceeding twenty million dollars per
+17 fiscal year.
+18 b. Four percent of the amount available under this subsection to the abandoned oil
+19 and gas well plugging and site reclamation fund, but not in an amount exceeding
+20 seven million five hundred thousand dollars per fiscal year and not in an amount
+21 that would bring the balance in the fund to more than one hundred million dollars
+22 through June 30, 2027, or to more than fifty million dollars after June 30, 2027 .
+Page No. 1 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Up to twenty million dollars per fiscal year to the energy impact grant fund under
+2 section 2 of this Act .
+3 d. Any remaining revenues pursuant to subsection 3.
+4 d.e. For purposes of this subsection, "fiscal year" means the period beginning
+5 September first and ending August thirty-first of the following calendar year.
+6 2. The tax revenue collected under this chapter equal to four percent of the gross value
+7 at the well of the oil and four-fifths of the tax on gas must be deposited with the state
+8 treasurer. The state treasurer shall allocate the funding in the following order:
+9 a. The first five million dollars of collections received from a county each fiscal year
+10 is allocated to the county.
+11 b. The remaining revenue collections received from a county each fiscal year are
+12 allocated thirty percent to the county and seventy percent as follows:
+13 (1) Monthly amounts to the hub city funding pool to provide fifteen million four
+14 hundred thousand dollars per fiscal year for the allocations under
+15 paragraph 2 of subdivision a of subsection 5.
+16 (2) Monthly amounts to the hub city school district funding pool to provide two
+17 million one hundred thousand dollars per fiscal year for the allocations
+18 under paragraph 3 of subdivision a of subsection 5.
+19 (3) Monthly amounts to the supplemental school district funding pool to provide
+20 seventy percent of the total amount needed for the allocations under
+21 paragraph 4 of subdivision a of subsection 5.
+22 (4) Any remaining revenue collections to the state for the state's allocations
+23 pursuant to subsection 3.
+24 c. For purposes of this subsection, "fiscal year" means the period beginning
+25 September first and ending August thirty-first of the following calendar year.
+26 3. After the allocations under subsections 1 and 2, the amount remaining is allocated first
+27 to provide for deposit of thirty percent of all revenue collected under this chapter in the
+28 legacy fund as provided in section 26 of article X of the Constitution of North Dakota
+29 and the remainder must be allocated to the state general fund. If the amount available
+30 for a monthly allocation under this subsection is insufficient to deposit thirty percent of
+31 all revenue collected under this chapter in the legacy fund, the state treasurer shall
+Page No. 2 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 transfer the amount of the shortfall from the state general fund share of oil extraction
+2 tax collections and deposit that amount in the legacy fund.
+3 4. For a county that received less than five million dollars of allocations under
+4 subsection 2 in the most recently completed even-numbered fiscal year before the
+5 start of the biennium, revenues allocated to that county must be distributed by the
+6 state treasurer as follows:
+7 a. Forty-five percent must be distributed to the county treasurer and credited to the
+8 county general fund.
+9 b. Thirty-five percent must be distributed proportionally to school districts within the
+10 county on the average daily attendance distribution basis for kindergarten
+11 through grade twelve students residing within the county, as certified to the state
+12 treasurer by the county superintendent of schools. However, a hub city school
+13 district must be omitted from distributions under this subdivision.
+14 c. Twenty percent must be distributed to the incorporated cities of the county. A hub
+15 city must be omitted from distributions under this subdivision. Distributions
+16 among cities under this subsection must be proportional based upon the
+17 population of each incorporated city according to the last official decennial federal
+18 census. In determining the population of any city in which total employment
+19 increases by more than two hundred percent seasonally due to tourism, the
+20 population of that city for purposes of this subdivision must be increased by eight
+21 hundred percent.
+22 d. For purposes of this subsection, "fiscal year" means the period beginning
+23 September first and ending August thirty-first of the following calendar year.
+24 5. For a county that received five million dollars or more of allocations under subsection 2
+25 in the most recently completed even-numbered fiscal year before the start of the
+26 biennium, revenues allocated to that county must be distributed by the state treasurer
+27 as follows:
+28 a. A portion of the revenues from each county must be distributed to a hub city
+29 funding pool, a hub city school district funding pool, and a supplemental school
+30 district funding pool as follows:
+Page No. 3 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 (1) The amount distributed from each county to the funding pools under this
+2 subdivision must be proportional to each county's monthly oil and gas gross
+3 production tax revenue collections relative to the combined total monthly oil
+4 and gas gross production tax revenue collections from all the counties that
+5 receive allocations under this subsection.
+6 (2) The state treasurer shall distribute, to the hub city funding pool, the monthly
+7 amount needed from each county to provide six million six hundred
+8 thousand dollars per fiscal year for the allocations under this paragraph.
+9 (a) The state treasurer shall allocate monthly amounts from the hub city
+10 funding pool to provide a combined total of twenty-two million dollars
+11 per fiscal year to all the hub cities, which includes the fifteen million
+12 four hundred thousand dollars under paragraph 1 of subdivision b of
+13 subsection 2 and the six million six hundred thousand dollars under
+14 this paragraph. The monthly allocation to each hub city must be
+15 proportional to each hub city's impact percentage score, including
+16 fractional percentage points rounded to the nearest tenth of a percent,
+17 relative to the combined total of all the hub cities' impact percentage
+18 scores.
+19 (b) The state treasurer shall calculate the impact percentage score for
+20 each hub city by summing the following:
+21 [1] The percentage of mining, quarrying, and oil and gas extraction
+22 employment relative to the total employment of all industries in
+23 the county in which the hub city is located, based on the most
+24 recent annual data for all ownership types compiled by job
+25 service North Dakota in the quarterly census of employment and
+26 wages, multiplied by forty-five hundredths;
+27 [2] The average of the percentage of mining, quarrying, and oil and
+28 gas extraction employment relative to the total employment of all
+29 industries in each county for all the counties in the human
+30 service region in which the hub city is located, based on the most
+31 recent annual data for all ownership types compiled by job
+Page No. 4 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 service North Dakota in the quarterly census of employment and
+2 wages, multiplied by fifteen hundredths;
+3 [3] The percentage of establishments engaged in mining, quarrying,
+4 and oil and gas extraction relative to the total establishments of
+5 all industries in the county in which the hub city is located, based
+6 on the most recent annual data for all ownership types complied
+7 by job service North Dakota in the quarterly census of
+8 employment and wages, multiplied by one-tenth;
+9 [4] The percentage of oil production in the human service region in
+10 which the hub city is located relative to the total oil production in
+11 all the human service regions with hub cities, based on the most
+12 recently available calendar year data compiled by the industrial
+13 commission in a report on the historical barrels of oil produced by
+14 county, multiplied by one-tenth;
+15 [5] The percentage change in population from five years prior for the
+16 hub city, based on the most recent actual or estimated census
+17 data published by the United States census bureau, multiplied by
+18 one-tenth; and
+19 [6] The percentage change in population from five years prior for the
+20 county in which the hub city is located, based on the most recent
+21 actual or estimated census data published by the United States
+22 census bureau, multiplied by one-tenth.
+23 (c) For purposes of this paragraph, "human service region" means the
+24 areas designated by the governor's executive order 1978-12 dated
+25 October 5, 1978.
+26 (3) The state treasurer shall distribute, to the hub city school district funding
+27 pool, the monthly amount needed from each county to provide nine hundred
+28 thousand dollars per fiscal year for the allocations under this paragraph.
+29 (a) The state treasurer shall allocate monthly amounts from the hub city
+30 school district funding pool to provide a combined total of three million
+31 dollars per fiscal year to all the hub city school districts, which
+Page No. 5 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 includes the two million one hundred thousand dollars under
+2 paragraph 2 of subdivision b of subsection 2 and the nine hundred
+3 thousand dollars under this paragraph. The monthly allocation to each
+4 hub city school districts must be proportional to each hub city school
+5 district's impact percentage score, including fractional percentage
+6 points rounded to the nearest tenth of a percent, relative to the
+7 combined total of all the hub cities' impact percentage scores.
+8 (b) For the purpose of determining the impact percentage score for each
+9 hub city school district, the state treasurer shall use the same impact
+10 percentage score as the corresponding score calculated for each hub
+11 city in paragraph 2.
+12 (4) The state treasurer shall distribute, to the supplemental school district
+13 funding pool, the monthly amount needed from each county to provide for
+14 thirty percent of the total allocations under this paragraph. To each county
+15 that received more than five million dollars but less than thirty million dollars
+16 of total allocations under subsection 2 in the most recently completed
+17 even-numbered fiscal year before the start of the biennium, the state
+18 treasurer shall allocate a monthly amount from the supplemental school
+19 district funding pool which will be added to the distributions to school
+20 districts under paragraph 2 of subdivision b, as follows:
+21 (a) To each county that received more than five million dollars but not
+22 exceeding ten million dollars of total allocations under subsection 2 in
+23 the most recently completed even-numbered fiscal year before the
+24 start of the biennium, the state treasurer shall allocate a monthly
+25 amount that will provide a total allocation of one million five hundred
+26 thousand dollars per fiscal year. The allocation must be distributed to
+27 school districts within the county pursuant to paragraph 2 of
+28 subdivision b.
+29 (b) To each county that received more than ten million dollars but not
+30 exceeding fifteen million dollars of total allocations under subsection 2
+31 in the most recently completed even-numbered fiscal year before the
+Page No. 6 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 start of the biennium, the state treasurer shall allocate a monthly
+2 amount that will provide a total allocation of one million two hundred
+3 fifty thousand dollars per fiscal year. The allocation must be distributed
+4 to school districts within the county pursuant to paragraph 2 of
+5 subdivision b.
+6 (c) To each county that received more than fifteen million dollars but not
+7 exceeding twenty million dollars of total allocations under subsection 2
+8 in the most recently completed even-numbered fiscal year before the
+9 start of the biennium, the state treasurer shall allocate a monthly
+10 amount that will provide a total allocation of one million dollars per
+11 fiscal year. The allocation must be distributed to school districts within
+12 the county pursuant to paragraph 2 of subdivision b.
+13 (d) To each county that received more than twenty million dollars but not
+14 exceeding twenty-five million dollars of total allocations under
+15 subsection 2 in the most recently completed even-numbered fiscal
+16 year before the start of the biennium, the state treasurer shall allocate
+17 a monthly amount that will provide a total allocation of seven hundred
+18 fifty thousand dollars per fiscal year. The allocation must be distributed
+19 to school districts within the county pursuant to paragraph 2 of
+20 subdivision b.
+21 (e) To each county that received more than twenty-five million dollars but
+22 not exceeding thirty million dollars of total allocations under
+23 subsection 2 in the most recently completed even-numbered fiscal
+24 year before the start of the biennium, the state treasurer shall allocate
+25 a monthly amount that will provide a total allocation of five hundred
+26 thousand dollars per fiscal year. The allocation must be distributed to
+27 school districts within the county pursuant to paragraph 2 of
+28 subdivision b.
+29 b. After the distributions in subdivision a, each county's remaining revenues must be
+30 distributed as follows:
+Page No. 7 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 (1) Sixty percent must be distributed to the county treasurer and credited to the
+2 county general fund.
+3 (2) Five percent must be distributed proportionally to school districts within the
+4 county on the average daily attendance distribution basis for kindergarten
+5 through grade twelve students residing within the county, as certified to the
+6 state treasurer by the county superintendent of schools. However, a hub city
+7 school district must be omitted from distributions under this subdivision.
+8 (3) Twenty percent must be distributed to the incorporated cities of the county. A
+9 hub city must be omitted from distributions under this subdivision.
+10 Distributions among cities under this subsection must be proportional based
+11 upon the population of each incorporated city according to the last official
+12 decennial federal census. In determining the population of any city in which
+13 total employment increases by more than two hundred percent seasonally
+14 due to tourism, the population of that city for purposes of this subdivision
+15 must be increased by eight hundred percent.
+16 (4) Four percent must be allocated among the organized and unorganized
+17 townships of the county. The state treasurer shall allocate the funds
+18 available under this subdivision among townships in proportion to each
+19 township's road miles relative to the total township road miles in the county.
+20 The amount allocated to unorganized townships under this subdivision must
+21 be distributed to the county treasurer and credited to a special fund for
+22 unorganized township roads, which the board of county commissioners shall
+23 use for the maintenance and improvement of roads in unorganized
+24 townships.
+25 (5) Nine percent must be distributed among hub cities. The state treasurer shall
+26 distribute the funds available under this subdivision in proportion to the
+27 amounts the hub cities receive under paragraph 2 of subdivision a.
+28 (6) Two percent must be distributed among hub city school districts. The state
+29 treasurer shall distribute the funds available under this subdivision in
+30 proportion to the amounts the hub city school districts receive under
+31 paragraph 3 of subdivision a.
+Page No. 8 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 (7) For purposes of this subsection, "fiscal year" means the period beginning
+2 September first and ending August thirty-first of the following calendar year.
+3 Gross production tax allocation. (Effective after June 30, 20272037) The gross
+4 production tax must be allocated monthly as follows:
+5 1. The tax revenue collected under this chapter equal to one percent of the gross value
+6 at the well of the oil and one-fifth of the tax on gas must be deposited with the state
+7 treasurer. The state treasurer shall allocate the funding in the following order:
+8 a. Eight percent of the amount available under this subsection to the North Dakota
+9 outdoor heritage fund, but not in an amount exceeding twenty million dollars per
+10 fiscal year.
+11 b. Four percent of the amount available under this subsection to the abandoned oil
+12 and gas well plugging and site reclamation fund, but not in an amount exceeding
+13 seven million five hundred thousand dollars per fiscal year and not in an amount
+14 that would bring the balance in the fund to more than fifty million dollars.
+15 c. Any remaining revenues pursuant to subsection 3.
+16 d. For purposes of this subsection, "fiscal year" means the period beginning
+17 September first and ending August thirty-first of the following calendar year.
+18 2. The tax revenue collected under this chapter equal to four percent of the gross value
+19 at the well of the oil and four-fifths of the tax on gas must be deposited with the state
+20 treasurer. The state treasurer shall allocate the funding in the following order:
+21 a. The first five million dollars of collections received from a county each fiscal year
+22 is allocated to the county.
+23 b. The remaining revenue collections received from a county each fiscal year are
+24 allocated thirty percent to the county and seventy percent as follows:
+25 (1) Monthly amounts to the hub city funding pool to provide fifteen million four
+26 hundred thousand dollars per fiscal year for the allocations under
+27 paragraph 2 of subdivision a of subsection 5.
+28 (2) Monthly amounts to the hub city school district funding pool to provide two
+29 million one hundred thousand dollars per fiscal year for the allocations
+30 under paragraph 3 of subdivision a of subsection 5.
+Page No. 9 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 (3) Monthly amounts to the supplemental school district funding pool to provide
+2 seventy percent of the total amount needed for the allocations under
+3 paragraph 4 of subdivision a of subsection 5.
+4 (4) Any remaining revenue collections to the state for the state's allocations
+5 pursuant to subsection 3.
+6 c. For purposes of this subsection, "fiscal year" means the period beginning
+7 September first and ending August thirty-first of the following calendar year.
+8 3. After the allocations under subsections 1 and 2, the amount remaining is allocated first
+9 to provide for deposit of thirty percent of all revenue collected under this chapter in the
+10 legacy fund as provided in section 26 of article X of the Constitution of North Dakota
+11 and the remainder must be allocated to the state general fund. If the amount available
+12 for a monthly allocation under this subsection is insufficient to deposit thirty percent of
+13 all revenue collected under this chapter in the legacy fund, the state treasurer shall
+14 transfer the amount of the shortfall from the state general fund share of oil extraction
+15 tax collections and deposit that amount in the legacy fund.
+16 4. For a county that received less than five million dollars of allocations under
+17 subsection 2 in the most recently completed even-numbered fiscal year before the
+18 start of the biennium, revenues allocated to that county must be distributed by the
+19 state treasurer as follows:
+20 a. Forty-five percent must be distributed to the county treasurer and credited to the
+21 county general fund.
+22 b. Thirty-five percent must be distributed proportionally to school districts within the
+23 county on the average daily attendance distribution basis for kindergarten
+24 through grade twelve students residing within the county, as certified to the state
+25 treasurer by the county superintendent of schools. However, a hub city school
+26 district must be omitted from distributions under this subdivision.
+27 c. Twenty percent must be distributed to the incorporated cities of the county. A hub
+28 city must be omitted from distributions under this subdivision. Distributions
+29 among cities under this subsection must be proportional based upon the
+30 population of each incorporated city according to the last official decennial federal
+31 census. In determining the population of any city in which total employment
+Page No. 10 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 increases by more than two hundred percent seasonally due to tourism, the
+2 population of that city for purposes of this subdivision must be increased by eight
+3 hundred percent.
+4 d. For purposes of this subsection, "fiscal year" means the period beginning
+5 September first and ending August thirty-first of the following calendar year.
+6 5. For a county that received five million dollars or more of allocations under subsection 2
+7 in the most recently completed even-numbered fiscal year before the start of the
+8 biennium, revenues allocated to that county must be distributed by the state treasurer
+9 as follows:
+10 a. A portion of the revenues from each county must be distributed to a hub city
+11 funding pool, a hub city school district funding pool, and a supplemental school
+12 district funding pool as follows:
+13 (1) The amount distributed from each county to the funding pools under this
+14 subdivision must be proportional to each county's monthly oil and gas gross
+15 production tax revenue collections relative to the combined total monthly oil
+16 and gas gross production tax revenue collections from all the counties that
+17 receive allocations under this subsection.
+18 (2) The state treasurer shall distribute, to the hub city funding pool, the monthly
+19 amount needed from each county to provide six million six hundred
+20 thousand dollars per fiscal year for the allocations under this paragraph.
+21 (a) The state treasurer shall allocate monthly amounts from the hub city
+22 funding pool to provide a combined total of twenty-two million dollars
+23 per fiscal year to all the hub cities, which includes the fifteen million
+24 four hundred thousand dollars under paragraph 1 of subdivision b of
+25 subsection 2 and the six million six hundred thousand dollars under
+26 this paragraph. The monthly allocation to each hub city must be
+27 proportional to each hub city's impact percentage score, including
+28 fractional percentage points rounded to the nearest tenth of a percent,
+29 relative to the combined total of all the hub cities' impact percentage
+30 scores.
+Page No. 11 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 (b) The state treasurer shall calculate the impact percentage score for
+2 each hub city by summing the following:
+3 [1] The percentage of mining, quarrying, and oil and gas extraction
+4 employment relative to the total employment of all industries in
+5 the county in which the hub city is located, based on the most
+6 recent annual data for all ownership types compiled by job
+7 service North Dakota in the quarterly census of employment and
+8 wages, multiplied by forty-five hundredths;
+9 [2] The average of the percentage of mining, quarrying, and oil and
+10 gas extraction employment relative to the total employment of all
+11 industries in each county for all the counties in the human
+12 service region in which the hub city is located, based on the most
+13 recent annual data for all ownership types compiled by job
+14 service North Dakota in the quarterly census of employment and
+15 wages, multiplied by fifteen hundredths;
+16 [3] The percentage of establishments engaged in mining, quarrying,
+17 and oil and gas extraction relative to the total establishments of
+18 all industries in the county in which the hub city is located, based
+19 on the most recent annual data for all ownership types complied
+20 by job service North Dakota in the quarterly census of
+21 employment and wages, multiplied by one-tenth;
+22 [4] The percentage of oil production in the human service region in
+23 which the hub city is located relative to the total oil production in
+24 all the human service regions with hub cities, based on the most
+25 recently available calendar year data compiled by the industrial
+26 commission in a report on the historical barrels of oil produced by
+27 county, multiplied by one-tenth;
+28 [5] The percentage change in population from five years prior for the
+29 hub city, based on the most recent actual or estimated census
+30 data published by the United States census bureau, multiplied by
+31 one-tenth; and
+Page No. 12 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 [6] The percentage change in population from five years prior for the
+2 county in which the hub city is located, based on the most recent
+3 actual or estimated census data published by the United States
+4 census bureau, multiplied by one-tenth.
+5 (c) For purposes of this paragraph, "human service region" means the
+6 areas designated by the governor's executive order 1978-12 dated
+7 October 5, 1978.
+8 (3) The state treasurer shall distribute, to the hub city school district funding
+9 pool, the monthly amount needed from each county to provide nine hundred
+10 thousand dollars per fiscal year for the allocations under this paragraph.
+11 (a) The state treasurer shall allocate monthly amounts from the hub city
+12 school district funding pool to provide a combined total of three million
+13 dollars per fiscal year to all the hub city school districts, which
+14 includes the two million one hundred thousand dollars under
+15 paragraph 2 of subdivision b of subsection 2 and the nine hundred
+16 thousand dollars under this paragraph. The monthly allocation to each
+17 hub city school districts must be proportional to each hub city school
+18 district's impact percentage score, including fractional percentage
+19 points rounded to the nearest tenth of a percent, relative to the
+20 combined total of all the hub cities' impact percentage scores.
+21 (b) For the purpose of determining the impact percentage score for each
+22 hub city school district, the state treasurer shall use the same impact
+23 percentage score as the corresponding score calculated for each hub
+24 city in paragraph 2.
+25 (4) The state treasurer shall distribute, to the supplemental school district
+26 funding pool, the monthly amount needed from each county to provide for
+27 thirty percent of the total allocations under this paragraph. To each county
+28 that received more than five million dollars but less than thirty million dollars
+29 of total allocations under subsection 2 in the most recently completed
+30 even-numbered fiscal year before the start of the biennium, the state
+31 treasurer shall allocate a monthly amount from the supplemental school
+Page No. 13 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 district funding pool which will be added to the distributions to school
+2 districts under paragraph 2 of subdivision b, as follows:
+3 (a) To each county that received more than five million dollars but not
+4 exceeding ten million dollars of total allocations under subsection 2 in
+5 the most recently completed even-numbered fiscal year before the
+6 start of the biennium, the state treasurer shall allocate a monthly
+7 amount that will provide a total allocation of one million five hundred
+8 thousand dollars per fiscal year. The allocation must be distributed to
+9 school districts within the county pursuant to paragraph 2 of
+10 subdivision b.
+11 (b) To each county that received more than ten million dollars but not
+12 exceeding fifteen million dollars of total allocations under subsection 2
+13 in the most recently completed even-numbered fiscal year before the
+14 start of the biennium, the state treasurer shall allocate a monthly
+15 amount that will provide a total allocation of one million two hundred
+16 fifty thousand dollars per fiscal year. The allocation must be distributed
+17 to school districts within the county pursuant to paragraph 2 of
+18 subdivision b.
+19 (c) To each county that received more than fifteen million dollars but not
+20 exceeding twenty million dollars of total allocations under subsection 2
+21 in the most recently completed even-numbered fiscal year before the
+22 start of the biennium, the state treasurer shall allocate a monthly
+23 amount that will provide a total allocation of one million dollars per
+24 fiscal year. The allocation must be distributed to school districts within
+25 the county pursuant to paragraph 2 of subdivision b.
+26 (d) To each county that received more than twenty million dollars but not
+27 exceeding twenty-five million dollars of total allocations under
+28 subsection 2 in the most recently completed even-numbered fiscal
+29 year before the start of the biennium, the state treasurer shall allocate
+30 a monthly amount that will provide a total allocation of seven hundred
+31 fifty thousand dollars per fiscal year. The allocation must be distributed
+Page No. 14 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 to school districts within the county pursuant to paragraph 2 of
+2 subdivision b.
+3 (e) To each county that received more than twenty-five million dollars but
+4 not exceeding thirty million dollars of total allocations under
+5 subsection 2 in the most recently completed even-numbered fiscal
+6 year before the start of the biennium, the state treasurer shall allocate
+7 a monthly amount that will provide a total allocation of five hundred
+8 thousand dollars per fiscal year. The allocation must be distributed to
+9 school districts within the county pursuant to paragraph 2 of
+10 subdivision b.
+11 b. After the distributions in subdivision a, each county's remaining revenues must be
+12 distributed as follows:
+13 (1) Sixty percent must be distributed to the county treasurer and credited to the
+14 county general fund.
+15 (2) Five percent must be distributed proportionally to school districts within the
+16 county on the average daily attendance distribution basis for kindergarten
+17 through grade twelve students residing within the county, as certified to the
+18 state treasurer by the county superintendent of schools. However, a hub city
+19 school district must be omitted from distributions under this subdivision.
+20 (3) Twenty percent must be distributed to the incorporated cities of the county. A
+21 hub city must be omitted from distributions under this subdivision.
+22 Distributions among cities under this subsection must be proportional based
+23 upon the population of each incorporated city according to the last official
+24 decennial federal census. In determining the population of any city in which
+25 total employment increases by more than two hundred percent seasonally
+26 due to tourism, the population of that city for purposes of this subdivision
+27 must be increased by eight hundred percent.
+28 (4) Four percent must be allocated among the organized and unorganized
+29 townships of the county. The state treasurer shall allocate the funds
+30 available under this subdivision among townships in proportion to each
+31 township's road miles relative to the total township road miles in the county.
+Page No. 15 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 The amount allocated to unorganized townships under this subdivision must
+2 be distributed to the county treasurer and credited to a special fund for
+3 unorganized township roads, which the board of county commissioners shall
+4 use for the maintenance and improvement of roads in unorganized
+5 townships.
+6 (5) Nine percent must be distributed among hub cities. The state treasurer shall
+7 distribute the funds available under this subdivision in proportion to the
+8 amounts the hub cities receive under paragraph 2 of subdivision a.
+9 (6) Two percent must be distributed among hub city school districts. The state
+10 treasurer shall distribute the funds available under this subdivision in
+11 proportion to the amounts the hub city school districts receive under
+12 paragraph 3 of subdivision a.
+13 (7) For purposes of this subsection, "fiscal year" means the period beginning
+14 September first and ending August thirty-first of the following calendar year.
+15 SECTION 2. A new section to chapter 57-51 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Energy impact grant fund - State treasurer - Continuing appropriation.
+18 1. There is created in the state treasury the energy impact grant fund. The fund consists
+19 of all moneys allocated to the fund under section 57 - 51 - 15. All moneys in the fund are
+20 appropriated to the state treasurer on a continuing basis for energy impact grants to
+21 hub cities.
+22 2. Within forty days after the fund receives its statutory limit of oil and gas tax allocations
+23 for a fiscal year under section 57 - 51 - 15 or by August thirty-first of each year ,
+24 whichever is earlier, the state treasurer shall distribute moneys in the fund for grants to
+25 hub cities as follows:
+26 a. Seventy-three and eighty-eight hundredths percent of the amount under this
+27 subsection to Williston;
+28 b. Fifteen and sixty-six hundredths percent of the amount under this subsection to
+29 Dickinson; and
+30 c. Ten and forty-six hundredths percent of the amount under this subsection to
+31 Minot.
+Page No. 16 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 3. A hub city shall use the grant funding provided under this section for debt repayments
+2 related to debt incurred to address impacts from oil and gas development or for other
+3 expenses incurred to address impacts from oil and gas development.
+4 SECTION 3. AMENDMENT. Section 57-51.1-07.5 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 57-51.1-07.5. State share of oil and gas taxes - Deposits.
+7 From the revenues designated for deposit in the state general fund under chapters 57-51
+8 and 57-51.1, the state treasurer shall deposit the revenues received each biennium in the
+9 following order:
+10 1. The first two hundred thirty milliontwo hundred fifty million dollars into the state general
+11 fund;
+12 2. The next two hundred fifty million dollars into the social service fund;
+13 3. The next seventy-five million dollars into the budget stabilization fund, but not in an
+14 amount that would bring the balance in the fund to more than the limit in section
+15 54-27.2-01;
+16 4. The next two hundred thirty milliontwo hundred fifty million dollars into the state
+17 general fund;
+18 5. The next ten million dollars into the lignite research fund;
+19 6. The next twenty million dollars into the state disaster relief fund, but not in an amount
+20 that would bring the unobligated balance in the fund to more than twenty million
+21 dollars;
+22 7. The next four hundred millionthree hundred twenty million dollars into the strategic
+23 investment and improvements fund;
+24 8. The next sixty-five million dollars to the public employees retirement fund for the main
+25 system plan;
+26 9. The next fifty-nine million seven hundred fifty thousand dollars, or the amount
+27 necessary to provide for twice the amount of the distributions under subsection 2 of
+28 section 57-51.1-07.7, into the funds designated for infrastructure development in
+29 non-oil-producing counties under sections 57-51.1-07.7 and 57-51.1-07.8 with fifty
+30 percent deposited into the municipal infrastructure fund and fifty percent deposited into
+31 the county and township infrastructure fund;
+Page No. 17 25.0911.04000
+
+Sixty-ninth
+Legislative Assembly
+1 10. The next one hundred seventy million two hundred fifty thousand dollars or the amount
+2 necessary to provide a total of two hundred thirty million dollars into the funds
+3 designated for infrastructure development in non-oil-producing counties under sections
+4 57-51.1-07.7 and 57-51.1-07.8 with fifty percent deposited into the municipal
+5 infrastructure fund and fifty percent deposited into the county and township
+6 infrastructure fund;
+7 11. The next twenty million dollars into the airport infrastructure fund; and
+8 12. Any additional revenues into the strategic investment and improvements fund.
+9 SECTION 4. EXEMPTION - OIL AND GAS TAX REVENUE ALLOCATIONS - NORTH
+10 DAKOTA OUTDOOR HERITAGE FUND - OIL AND GAS RESEARCH FUND.
+11 1. Notwithstanding the provisions of section 57-51-15 relating to the allocations to the
+12 North Dakota outdoor heritage fund, for the period beginning September 1, 2025, and
+13 ending August 31, 2027, the state treasurer shall allocate eight percent of the oil and
+14 gas gross production tax revenue available under subsection 1 of section 57-51-15 to
+15 the North Dakota outdoor heritage fund, but not in an amount exceeding $7,500,000
+16 per fiscal year.
+17 2. Notwithstanding the provisions of section 57-51.1-07.3 relating to the allocations to the
+18 oil and gas research fund, for the period beginning August 1, 2025, and ending
+19 July 31, 2027, the state treasurer shall allocate two percent of the oil and gas gross
+20 production tax and oil extraction tax revenues, up to $17,500,000, into the oil and gas
+21 research fund before allocating oil and gas tax revenues under sections 57-51.1-07.5,
+22 57-51.1-07.9, and 57-51.1-07.10.
+23 SECTION 5. EFFECTIVE DATE. Section 1 of this Act is effective for oil and gas gross
+24 production tax allocations by the state treasurer occurring after August 31, 2025.
+Page No. 18 25.0911.04000
+
+[DELETED: .T.E.F12]
+[DELETED: .U.A.F.T.T.T)M)M)M)A.F.A22]
+[DELETED: .F.F.T.T.F.F.A32]
+[DELETED: )T)T)T)T]T]T42]
+[DELETED: ]T]T]T]T)F)T)T52]
+[DELETED: )F)T)T)T62]
+[DELETED: )T)T)T.A72]
+[DELETED: )S)F)T)F)N)T82]
+[DELETED: )F.T.E.F.A.F.T.T.T)M)M92]
+[DELETED: )M)A.F.A.F.F.T.T02]
+[DELETED: .F.F.A)T)T)T12]
+[DELETED: )T]T]T]T]T]T22]
+[DELETED: ]T)F)T)T)F)T32]
+[DELETED: )T)T)T)T42]
+[DELETED: )T.A)S)F)T)F52]
+[DELETED: )N)T)F.T.W.S.F.T62]
+[DELETED: .A.T.T.T.T.T.T.T.T.T72]
+[DELETED: .T.T.A.N.N82]

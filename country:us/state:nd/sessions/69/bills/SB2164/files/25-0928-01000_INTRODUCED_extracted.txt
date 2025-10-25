@@ -1,0 +1,126 @@
+Title: SENATE BILL NO. 2164
+Official Title: SENATE BILL NO. 2164
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0928.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Dever, Cleary, Lee, Roers
+Representatives Klemin, Karls
+1 A BILL for an Act to amend and reenact section 6-08.1-03 of the North Dakota Century Code,
+2 relating to the duty of confidentiality and disclosure to the North Dakota protection and
+3 advocacy project.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 6-08.1-03 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 6-08.1-03. Duty of confidentiality.
+8 A financial institution may not disclose customer information to a person, governmental
+9 agency, or law enforcement agency, or the protection and advocacy project, unless the
+10 disclosure is made in accordance with any of the following:
+11 1. Pursuant to consent granted by the customer in accordance with this chapter.
+12 2. To a person other than a governmental agency or law enforcement agency pursuant to
+13 valid legal process.
+14 3. To a governmental agency or law enforcement agency pursuant to valid legal process
+15 in accordance with this chapter.
+16 4. For the purpose of reporting a suspected violation of the law in accordance with this
+17 chapter.
+18 5. For the purpose of notifying the agriculture commissioner a financial institution has
+19 notified a customer of the availability of the North Dakota mediation service.
+20 6. As part of the disclosure made of deposits of public corporations with financial
+21 institutions in the security pledge schedule verified by the custodian of securities
+22 pursuant to section 21-04-09.
+23 7. For purposes of reporting suspected exploitation of an eligible adult as defined by
+24 section 12.1-31-07. This subsection may not be construed to impose a duty on a
+Page No. 1 25.0928.01000
+Sixty-ninth
+Legislative Assembly
+1 financial institution to investigate an alleged or suspected exploitation of an eligible
+2 adult or to make a report to a governmental agency or law enforcement agency.
+3 8. For purposes of reporting suspected financial exploitation of an eligible adult under
+4 chapter 6-08.5 to a law enforcement agency or the department of health and human
+5 services. This subsection may not be construed to impose a duty on a financial
+6 institution to investigate a suspected financial exploitation of an eligible adult or to
+7 make a report to the department of health and human services or law enforcement
+8 agency.
+9 9. For purposes of investigating suspected abuse, neglect, or financial exploitation of an
+10 individual with a disability under chapter 25 - 01.3 by the protection and advocacy
+11 project. The protection and advocacy project may access financial records from
+12 financial institutions to fulfill the mandate under chapter 25 - 01.3. Disclosure under this
+13 subsection is limited to the extent necessary for the protection and advocacy project to
+14 carry out investigatory functions and is subject to the confidentiality requirements
+15 under section 25 - 01.3 - 10. This does not impose a duty on a financial institution to
+16 investigate suspected abuse, neglect, or exploitation of an individual with a disability or
+17 to make a report to the protection and advocacy project.
+Page No. 2 25.0928.01000
+[DELETED: .P.T.T.F.F.A.F12]
+[DELETED: .F.F22]
+
+
+================================================================================
+
+Raw Text:
+25.0928.01000
+Sixty-ninth
+SENATE BILL NO. 2164
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Dever, Cleary, Lee, Roers
+Representatives Klemin, Karls
+1 A BILL for an Act to amend and reenact section 6-08.1-03 of the North Dakota Century Code,
+2 relating to the duty of confidentiality and disclosure to the North Dakota protection and
+3 advocacy project.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 6-08.1-03 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 6-08.1-03. Duty of confidentiality.
+8 A financial institution may not disclose customer information to a person, governmental
+9 agency, or law enforcement agency, or the protection and advocacy project, unless the
+10 disclosure is made in accordance with any of the following:
+11 1. Pursuant to consent granted by the customer in accordance with this chapter.
+12 2. To a person other than a governmental agency or law enforcement agency pursuant to
+13 valid legal process.
+14 3. To a governmental agency or law enforcement agency pursuant to valid legal process
+15 in accordance with this chapter.
+16 4. For the purpose of reporting a suspected violation of the law in accordance with this
+17 chapter.
+18 5. For the purpose of notifying the agriculture commissioner a financial institution has
+19 notified a customer of the availability of the North Dakota mediation service.
+20 6. As part of the disclosure made of deposits of public corporations with financial
+21 institutions in the security pledge schedule verified by the custodian of securities
+22 pursuant to section 21-04-09.
+23 7. For purposes of reporting suspected exploitation of an eligible adult as defined by
+24 section 12.1-31-07. This subsection may not be construed to impose a duty on a
+Page No. 1 25.0928.01000
+
+Sixty-ninth
+Legislative Assembly
+1 financial institution to investigate an alleged or suspected exploitation of an eligible
+2 adult or to make a report to a governmental agency or law enforcement agency.
+3 8. For purposes of reporting suspected financial exploitation of an eligible adult under
+4 chapter 6-08.5 to a law enforcement agency or the department of health and human
+5 services. This subsection may not be construed to impose a duty on a financial
+6 institution to investigate a suspected financial exploitation of an eligible adult or to
+7 make a report to the department of health and human services or law enforcement
+8 agency.
+9 9. For purposes of investigating suspected abuse, neglect, or financial exploitation of an
+10 individual with a disability under chapter 25 - 01.3 by the protection and advocacy
+11 project. The protection and advocacy project may access financial records from
+12 financial institutions to fulfill the mandate under chapter 25 - 01.3. Disclosure under this
+13 subsection is limited to the extent necessary for the protection and advocacy project to
+14 carry out investigatory functions and is subject to the confidentiality requirements
+15 under section 25 - 01.3 - 10. This does not impose a duty on a financial institution to
+16 investigate suspected abuse, neglect, or exploitation of an individual with a disability or
+17 to make a report to the protection and advocacy project.
+Page No. 2 25.0928.01000
+
+[DELETED: .P.T.T.F.F.A.F12]
+[DELETED: .F.F22]

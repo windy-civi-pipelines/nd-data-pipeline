@@ -1,0 +1,731 @@
+Title: HOUSE BILL NO. 1286
+Official Title: HOUSE BILL NO. 1286
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+25.0486.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Schatz, Hanson, Hendrix, Mitskog, S. Olson
+Senators Boschee, Magrum, Paulson
+1 A BILL for an Act to create and enact sections 16.1-08.1-09, 16.1-08.1-10, 16.1-08.1-11, and
+2 16.1-08.1-12 of the North Dakota Century Code, relating to reporting the ultimate and true
+3 source of funds; to amend and reenact sections 16.1-08.1-01 and 16.1-10-04.1 of the North
+4 Dakota Century Code, relating to political advertisements and reporting the ultimate and true
+5 sources of funds; to repeal section 16.1-08.1-08 of the North Dakota Century Code, relating to
+6 identifying the ultimate and true source of funds; and to provide a penalty.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Section 16.1-08.1-01 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 16.1-08.1-01. Definitions.
+11 As used in this chapter, unless the context otherwise requires:
+12 1. "Affiliate" means an organization that controls, is controlled by, or is under common
+13 control with another organization. For purposes of this definition, control means the
+14 possession, direct or indirect, of the power to direct or cause the direction of the
+15 management and policies of an organization, whether through the ownership of voting
+16 securities, by contract other than a commercial contract for goods or nonmanagement
+17 services, or otherwise. Control is presumed to exist if an organization, directly or
+18 indirectly, owns, controls, holds with the power to vote, or holds proxies representing
+19 fifty percent or more of the voting securities of any other organization.
+20 2. "Association" means any club, association, union, brotherhood, fraternity, organization,
+21 or group of any kind of two or more persons, including labor unions, trade
+22 associations, professional associations, or governmental associations, which is united
+23 for any purpose, business, or object and which assesses any dues, membership fees,
+24 or license fees in any amount, or which maintains a treasury fund in any amount. The
+Page No. 1 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 term does not include corporations, cooperative corporations, limited liability
+2 companies, political committees, or political parties.
+3 3. "Candidate" means an individual who seeks nomination for election or election to
+4 public office, and includes:
+5 a. An individual holding public office;
+6 b. An individual who has publicly declared that individual's candidacy for nomination
+7 for election or election to public office or has filed or accepted a nomination for
+8 public office;
+9 c. An individual who has formed a campaign or other committee for that individual's
+10 candidacy for public office; and
+11 d. An individual who has circulated a nominating petition to have that individual's
+12 name placed on the ballot.
+13 4. "Conduit" means a person that is not a political party, political committee, or candidate
+14 and which receives a contribution of money and transfers the contribution to a
+15 candidate, political party, or political committee when the contribution is designated
+16 specifically for the candidate, political party, or political committee and the person has
+17 no discretion as to the recipient and the amount transferred. The term includes a
+18 transactional intermediary, including a credit card company or a money transfer
+19 service that pays or transfers money to a candidate on behalf of another person.
+20 4.5. "Contribution" means a gift, transfer, conveyance, provision, receipt, subscription,
+21 loan, advance, deposit of money, or anything of value, made for the purpose of
+22 influencing the nomination for election, or election, of any person to public office or
+23 aiding or opposing the circulation or passage of a statewide initiative or referendum
+24 petition or measure. The term also means a contract, promise, or agreement, express
+25 or implied, whether or not legally enforceable, to make a contribution for any of the
+26 above purposes. The term includes funds received by a candidate for public office or a
+27 political party or committee which are transferred or signed over to that candidate,
+28 party, or committee from another candidate, party, or political committee or other
+29 source including a conduit. The term "anything of value" includes any good or service
+30 of more than a nominal value. The term "nominal value" means the cost, price, or
+Page No. 2 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 worth of the good or service is trivial, token, or of no appreciable value. The term
+2 "contribution" does not include:
+3 a. A loan of money from a bank or other lending institution made in the regular
+4 course of business.
+5 b. Time spent by volunteer campaign or political party workers.
+6 c. Money or anything of value received for commercial transactions, including rents,
+7 advertising, or sponsorships made as a part of a fair market value bargained-for
+8 exchange.
+9 d. Money or anything of value received for anything other than a political purpose.
+10 e. Products or services for which the actual cost or fair market value are reimbursed
+11 by a payment of money.
+12 f. An independent expenditure.
+13 g. The value of advertising paid by a political party, multicandidate political
+14 committee, or caucus which is in support of a candidate.
+15 h. In-kind contributions from a candidate to the candidate's campaign.
+16 5.6. "Cooperative corporations", "corporations", and "limited liability companies" are as
+17 defined in this code, and for purposes of this chapter "corporations" includes nonprofit
+18 corporations. However, if a political committee, the only purpose of which is accepting
+19 contributions and making expenditures for a political purpose, incorporates for liability
+20 purposes only, the committee is not considered a corporation for the purposes of this
+21 chapter.
+22 6.7. "Covered person" means any person that spends more than two hundred dollars in an
+23 election cycle on expenditures. The term does not include:
+24 a. A political committee of a political party;
+25 b. A person that spends or contributes the person's own original funds;
+26 c. A candidate or candidate committee; and
+27 d. A nonprofit organization exempt from federal taxation under section 501(c)(3) of
+28 the Internal Revenue Code [26 U.S.C. 501(c)(3)].
+29 8. "Election cycle" means the two - year period beginning on January first of an
+30 odd - numbered year and ending on December thirty - first of an even - numbered year .
+Page No. 3 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 9. "Ethics commission" means the ethics commission established by article XIV of the
+2 Constitution of North Dakota.
+3 10. "Expenditure" means:
+4 a. A gift, transfer, conveyance, provision, loan, advance, payment, distribution,
+5 disbursement, outlay, or deposit of money or anything of value, except a loan of
+6 money from a bank or other lending institution made in the regular course of
+7 business, made for a political purpose or for the purpose of influencing the
+8 passage or defeat of a measure.
+9 b. A contract, promise, or agreement, express or implied, whether or not legally
+10 enforceable, to make any expenditure.
+11 c. The transfer of funds by a political committee to another political committee.
+12 d. An independent expenditure.
+13 7.11. "Expenditure categories" means the categories into which expenditures must be
+14 grouped for reports under this chapter. The expenditure categories are:
+15 a. Advertising;
+16 b. Campaign loan repayment;
+17 c. Operations;
+18 d. Travel; and
+19 e. Miscellaneous.
+20 8.12. "Identity" means:
+21 a. The name and mailing address of an individual; or
+22 b. The full name and address, federal tax status, and state of incorporation or
+23 partnership, if any, of a person other than an individual.
+24 13. "Independent expenditure" means an expenditure made for a political purpose or for
+25 the purpose of influencing the passage or defeat of a measure if the expenditure is
+26 made without the express or implied consent, authorization, or cooperation of, and not
+27 in concert with or at the request or suggestion of, any candidate, committee, or
+28 political party.
+29 9.14. "Original funds" means:
+30 a. Money earned from employment, sel f - employment, investment income, or
+31 bequests an individual receives; or
+Page No. 4 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 b. Money a person receives through ordinary commercial transactions.
+2 15. "Patron" means a person who owns equity interest in the form of stock, shares, or
+3 membership or maintains similar financial rights in a cooperative corporation.
+4 10.16. "Person" means an individual, partnership, political committee, association,
+5 corporation, cooperative corporation, limited liability company, or other organization or
+6 group of persons.
+7 11.17. "Personal benefit" means a benefit to the candidate or another person which is not for
+8 a political purpose or related to a candidate's responsibilities as a public officeholder,
+9 and any other benefit that would convert a contribution to personal income.
+10 12.18. "Political committee" means any committee, club, association, or other group of
+11 persons which receives contributions or makes expenditures for political purposes and
+12 includes:
+13 a. A political action committee not connected to another organization and free to
+14 solicit funds from the general public, or derived from a corporation, cooperative
+15 corporation, limited liability company, affiliate, subsidiary, or an association that
+16 solicits or receives contributions from its employees or members or makes
+17 expenditures for political purposes on behalf of its employees or members;
+18 b. A candidate committee established to support an individual candidate seeking
+19 public office which solicits or receives contributions for political purposes;
+20 c. A political organization registered with the federal election commission, which
+21 solicits or receives contributions or makes expenditures for political purposes;
+22 d. A multicandidate political committee, including a caucus, established to support
+23 multiple groups or slates of candidates seeking public office, which solicits or
+24 receives contributions for political purposes; and
+25 e. A measure committee, including an initiative or referendum sponsoring
+26 committee at any stage of its organization, which solicits or receives contributions
+27 or makes expenditures for the purpose of aiding or opposing a measure sought
+28 to be voted upon by the voters of the state, including any activities undertaken for
+29 the purpose of drafting an initiative or referendum petition, seeking approval of
+30 the secretary of state for the circulation of a petition, or seeking approval of the
+31 submitted petitions.
+Page No. 5 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 13.19. "Political party" means any association, committee, or organization which nominates a
+2 candidate for election to any office which may be filled by a vote of the electors of this
+3 state or any of its political subdivisions and whose name appears on the election ballot
+4 as the candidate of such association, committee, or organization.
+5 14.20. "Political purpose" means any activity undertaken in support of or in opposition to the
+6 election or nomination of a candidate to public office and includes using "vote for",
+7 "oppose", or any similar support or opposition language in any advertisement whether
+8 the activity is undertaken by a candidate, a political committee, a political party, or any
+9 person. In the period thirty days before a primary election and sixty days before a
+10 special or general election, "political purpose" also means any activity in which a
+11 candidate's name, office, district, or any term meaning the same as "incumbent" or
+12 "challenger" is used in support of or in opposition to the election or nomination of a
+13 candidate to public office. The term does not include activities undertaken in the
+14 performance of a duty of a public office or any position taken in any bona fide news
+15 story, commentary, or editorial.
+16 15.21. "Public office" means every office to which an individual can be elected by vote of the
+17 people under the laws of this state.
+18 16.22. "Subsidiary" means an affiliate of a corporation under the control of the corporation
+19 directly or indirectly through one or more intermediaries.
+20 17.23. "Traceable funds" means funds a covered person receives and for which no donor has
+21 opted out of the use or transfer for expenditures under subsection 16.1 - 08.1 - 09 .
+22 24. "Tracing record" means a written record identifying the persons that directly or
+23 indirectly contributed or transferred original funds used to make expenditures, the
+24 amount of each contribution or transfer of original funds, and the expenditure for which
+25 the original funds were used.
+26 25. "Ultimate and true source" means thea person that knowingly contributed over two
+27 hundred dollars solely to influence a statewide election or an election for the legislative
+28 assemblywhose original funds are used by a covered person to make an expenditure.
+29 SECTION 2. Section 16.1-08.1-09 of the North Dakota Century Code is created and
+30 enacted as follows:
+Page No. 6 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 16.1 - 08.1 - 09. Ultimate and true source of funds - Recordkeeping .
+2 1. A covered person shall maintain tracing records that include:
+3 a. The identity of each ultimate and true source that directly or indirectly contributed
+4 more than two hundred dollars in traceable funds;
+5 b. The identity of all intermediaries that transferred traceable funds between an
+6 ultimate and true source and the covered person. If more than one transfer
+7 occurred, the covered person shall disclose all transfers and intermediaries;
+8 c. The date, amount, recipient, and expenditure category of each expenditure paid
+9 with traceable funds; and
+10 d. The candidate or ballot measure that is the subject of the expenditure, if known,
+11 and whether the expenditure was used to support or oppose a ballot measure or
+12 an election or nomination of a candidate for public office.
+13 2. A covered person shall maintain records identifying transfers and intermediaries under
+14 subdivision c of subsection 1 for at least five years, and provide the records to the
+15 secretary of state upon request.
+16 3. Before a covered person uses funds other than original funds of the covered person
+17 for an expenditure, the covered person shall:
+18 a. Notify the person that contributed or transferred the funds to the covered person:
+19 (1) The funds may be used for an expenditure; and
+20 (2) The covered person may be required to disclose the identity of any person
+21 whose original funds are used to make an expenditure.
+22 b. Provide the person that contributed or transferred the funds an opportunity to
+23 op t - out of allowing the funds to be used for expenditures .
+24 4. A person that contributes or transfers more than two hundred dollars in aggregate
+25 traceable funds to a covered person in an election cycle shall inform the covered
+26 person no later than ten days after receiving a written request from the covered person
+27 of the identity of each person or intermediary that directly or indirectly contributed or
+28 transferred more than two hundred dollars in original funds being contributed or
+29 transferred, and the amount of the contributions or transfers. The person shall
+30 maintain the information under this subsection for at least five years and provide the
+31 information to the secretary of state upon request.
+Page No. 7 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 3. Section 16.1-08.1-10 of the North Dakota Century Code is created and
+2 enacted as follows: 16.1-08.1-10. Reporting the ultimate and true source of funds -
+3 Penalty.
+4 1. Within ten days of first disbursing an aggregate amount of more than two hundred
+5 dollars in traceable funds for expenditures during an election cycle, a covered person
+6 shall file a statement with the secretary of state disclosing:
+7 a. The name, phone number, and electronic mail address of the person that controls
+8 the traceable funds;
+9 b. The total amount of traceable funds the covered person controls on the date of
+10 the statement;
+11 c. The name, phone number, and electronic mail address of the individual who
+12 maintains tracing records for the covered person;
+13 d. The information in the tracing records required under subsection 1 of section
+14 16.1 - 08.1 - 09; and
+15 e. The identity of any person that provided direct or indirect aggregate contributions
+16 or transfers of original funds to the covered person in an amount exceeding fifty
+17 percent of the traceable funds controlled by the covered person at the beginning
+18 of the election cycle.
+19 2. The secretary of state shall make the information filed under this section accessible to
+20 the public on a website in a searchable, machine - readable format within forty - eigh t
+21 hours of receiving the statement.
+22 3. A person that structures or attempts to structure a solicitation, contribution,
+23 expenditure, disbursement, transfer, or other transaction in a manner designed to
+24 evade the reporting requirements in this chapter is guilty of a class A misdemeanor .
+25 SECTION 4. Section 16.1-08.1-11 of the North Dakota Century Code is created and
+26 enacted as follows:
+27 16.1 - 08.1 - 11. Enforcement of ultimate and true source reporting .
+28 1. The secretary of state may investigate a possible violation of section 16.1 - 08.1 - 09 or
+29 16.1 - 08.1 - 10 with or without receiving a complaint .
+Page No. 8 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 2. Any person may file a complaint with the secretary of state alleging a person violated
+2 section 16.1 - 08.1 - 09 or 16.1 - 08.1 - 10. The complaint must state the grounds for the
+3 allegation.
+4 3. The secretary of state shall take reasonable steps to investigate the grounds for the
+5 allegation and provide the subject of the complaint notice and an opportunity to
+6 respond.
+7 4. The secretary of state shall provide notice to the complainant if the secretary of state
+8 dismisses the complaint. If the secretary of state dismisses the complaint or fails to act
+9 on the complaint within one hundred twenty days of receipt of the complaint, the
+10 complainant may file an action against the secretary of state in court alleging the
+11 action or inaction of the secretary of state was not reasonable.
+12 5. If the secretary of state or a court determines a person violated a requirement of
+13 section 16.1 - 08.1 - 09 or 16.1 - 08.1 - 10, the secretary of state or court shall impose a
+14 fine in an amount between two and three times the monetary value of the amount that
+15 was the subject of the violation.
+16 SECTION 5. Section 16.1-08.1-12 of the North Dakota Century Code is created and
+17 enacted as follows:
+18 16.1 - 08.1 - 12. Resident taxpayer rights - Civil actions .
+19 A civil action by a resident taxpayer alleging this chapter or any rules adopted under this
+20 chapter fail to vindicate fully the rights provided under section 1 of article XIV of the Constitution
+21 of North Dakota must be filed in a district court of this state.
+22 SECTION 6. AMENDMENT. Section 16.1-10-04.1 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 16.1-10-04.1. Certain political advertisements to disclose name of sponsor - Name
+25 disclosure requirements.
+26 1. Every political advertisement by newspaper, pamphlet or folder, display card, sign,
+27 poster, or billboard, website, or by any other similar public means, on behalf of or in
+28 opposition to any candidate for public office, designed to assist, injure, or defeat the
+29 candidate by reflecting upon the candidate's personal character or political action, or
+30 by a measure committee as described in section 16.1-08.1-01, or a corporation
+31 making an independent expenditure either for or against a measure, must disclose on
+Page No. 9 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 the advertisement the name of the person, as defined in section 16.1-08.1-01, or
+2 political party paying for the advertisement. If the name of a political party, association,
+3 or partnership is used, the disclaimer also must also include the name of the chairman
+4 or other responsible individual from the political party, association, or partnership. The
+5 name of the person paying for any radio or television broadcast containing any
+6 advertising announcement for or against any candidate for public office must be
+7 announced at the close of the broadcast. If the name of a political party, association,
+8 or partnership is used, the disclaimer also must also include the name of the chairman
+9 or other responsible individual from the political party, association, or partnership. In
+10 every political advertisement in which the name of the person paying for the
+11 advertisement is disclosed, the first and last name of any named individual must be
+12 disclosed. An advertisement paid for by an individual candidate or group of candidates
+13 must disclose that the advertisement was paid for by the individual candidate or group
+14 of candidates. The first and last name or names of the candidates paying for the
+15 advertisement are not required to be disclosed. This section does not apply to
+16 campaign buttons.
+17 2. A political advertisement required to disclose the name of the person or political party
+18 paying for the advertisement under subsection 1 must disclose the names of the three
+19 persons that are the ultimate and true sources of the largest aggregate amounts of
+20 traceable funds, contributed or transferred, directly or indirectly, during the election
+21 cycle to the person or political party paying for the advertisement.
+22 a. For a political advertisement with a visual component, a clear and conspicuous
+23 written statement identifying the names followed by "are the top three donors that
+24 helped pay for this advertisement" must be included.
+25 b. For a political advertisement with an audio component, a clear and conspicuous
+26 oral statement of the names followed by "are the top three donors that helped
+27 pay for this advertisement" must be included.
+28 3. If the aggregate contributions or transfers of traceable funds from one person
+29 constitutes more than fifty percent of a covered person's traceable funds at the
+30 beginning of an election cycle, the covered person shall include the aggregate
+31 contributions and transfers from the person from the prior election cycle when
+Page No. 10 25.0486.01000
+Sixty-ninth
+Legislative Assembly
+1 determining which three names must be included in the covered person's political
+2 advertisements under subsection 2 .
+3 4. For purposes of this section, "ultimate and true source", "traceable funds", and
+4 "election cycle" have the meaning provided in section 16.1 - 08.1 - 01 .
+5 SECTION 7. REPEAL. Section 16.1-08.1-08 of the North Dakota Century Code is repealed.
+Page No. 11 25.0486.01000
+[DELETED: ."."12]
+[DELETED: .".A.A.A.A."."22]
+[DELETED: .A.T.M.M.P.A.T.I.".".A.A.A.A. 32]
+[DELETED: .".".A.A.T.A.".A.C.O.T.M.".T.T.".". 42]
+[DELETED: .M.".".".".A.A.A.A.A52]
+[DELETED: ."."."."."."."62]
+[DELETED: .A.T.T.T.T.A.B.N)T)T.P.A72]
+[DELETED: :1.W.T.T.T. .T.T.A. 82]
+[DELETED: .A.T.T.I.E92]
+[DELETED: .A.F.F.I02]
+[DELETED: .F12]
+
+
+================================================================================
+
+Raw Text:
+25.0486.01000
+Sixty-ninth
+HOUSE BILL NO. 1286
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Schatz, Hanson, Hendrix, Mitskog, S. Olson
+Senators Boschee, Magrum, Paulson
+1 A BILL for an Act to create and enact sections 16.1-08.1-09, 16.1-08.1-10, 16.1-08.1-11, and
+2 16.1-08.1-12 of the North Dakota Century Code, relating to reporting the ultimate and true
+3 source of funds; to amend and reenact sections 16.1-08.1-01 and 16.1-10-04.1 of the North
+4 Dakota Century Code, relating to political advertisements and reporting the ultimate and true
+5 sources of funds; to repeal section 16.1-08.1-08 of the North Dakota Century Code, relating to
+6 identifying the ultimate and true source of funds; and to provide a penalty.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Section 16.1-08.1-01 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 16.1-08.1-01. Definitions.
+11 As used in this chapter, unless the context otherwise requires:
+12 1. "Affiliate" means an organization that controls, is controlled by, or is under common
+13 control with another organization. For purposes of this definition, control means the
+14 possession, direct or indirect, of the power to direct or cause the direction of the
+15 management and policies of an organization, whether through the ownership of voting
+16 securities, by contract other than a commercial contract for goods or nonmanagement
+17 services, or otherwise. Control is presumed to exist if an organization, directly or
+18 indirectly, owns, controls, holds with the power to vote, or holds proxies representing
+19 fifty percent or more of the voting securities of any other organization.
+20 2. "Association" means any club, association, union, brotherhood, fraternity, organization,
+21 or group of any kind of two or more persons, including labor unions, trade
+22 associations, professional associations, or governmental associations, which is united
+23 for any purpose, business, or object and which assesses any dues, membership fees,
+24 or license fees in any amount, or which maintains a treasury fund in any amount. The
+Page No. 1 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 term does not include corporations, cooperative corporations, limited liability
+2 companies, political committees, or political parties.
+3 3. "Candidate" means an individual who seeks nomination for election or election to
+4 public office, and includes:
+5 a. An individual holding public office;
+6 b. An individual who has publicly declared that individual's candidacy for nomination
+7 for election or election to public office or has filed or accepted a nomination for
+8 public office;
+9 c. An individual who has formed a campaign or other committee for that individual's
+10 candidacy for public office; and
+11 d. An individual who has circulated a nominating petition to have that individual's
+12 name placed on the ballot.
+13 4. "Conduit" means a person that is not a political party, political committee, or candidate
+14 and which receives a contribution of money and transfers the contribution to a
+15 candidate, political party, or political committee when the contribution is designated
+16 specifically for the candidate, political party, or political committee and the person has
+17 no discretion as to the recipient and the amount transferred. The term includes a
+18 transactional intermediary, including a credit card company or a money transfer
+19 service that pays or transfers money to a candidate on behalf of another person.
+20 4.5. "Contribution" means a gift, transfer, conveyance, provision, receipt, subscription,
+21 loan, advance, deposit of money, or anything of value, made for the purpose of
+22 influencing the nomination for election, or election, of any person to public office or
+23 aiding or opposing the circulation or passage of a statewide initiative or referendum
+24 petition or measure. The term also means a contract, promise, or agreement, express
+25 or implied, whether or not legally enforceable, to make a contribution for any of the
+26 above purposes. The term includes funds received by a candidate for public office or a
+27 political party or committee which are transferred or signed over to that candidate,
+28 party, or committee from another candidate, party, or political committee or other
+29 source including a conduit. The term "anything of value" includes any good or service
+30 of more than a nominal value. The term "nominal value" means the cost, price, or
+Page No. 2 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 worth of the good or service is trivial, token, or of no appreciable value. The term
+2 "contribution" does not include:
+3 a. A loan of money from a bank or other lending institution made in the regular
+4 course of business.
+5 b. Time spent by volunteer campaign or political party workers.
+6 c. Money or anything of value received for commercial transactions, including rents,
+7 advertising, or sponsorships made as a part of a fair market value bargained-for
+8 exchange.
+9 d. Money or anything of value received for anything other than a political purpose.
+10 e. Products or services for which the actual cost or fair market value are reimbursed
+11 by a payment of money.
+12 f. An independent expenditure.
+13 g. The value of advertising paid by a political party, multicandidate political
+14 committee, or caucus which is in support of a candidate.
+15 h. In-kind contributions from a candidate to the candidate's campaign.
+16 5.6. "Cooperative corporations", "corporations", and "limited liability companies" are as
+17 defined in this code, and for purposes of this chapter "corporations" includes nonprofit
+18 corporations. However, if a political committee, the only purpose of which is accepting
+19 contributions and making expenditures for a political purpose, incorporates for liability
+20 purposes only, the committee is not considered a corporation for the purposes of this
+21 chapter.
+22 6.7. "Covered person" means any person that spends more than two hundred dollars in an
+23 election cycle on expenditures. The term does not include:
+24 a. A political committee of a political party;
+25 b. A person that spends or contributes the person's own original funds;
+26 c. A candidate or candidate committee; and
+27 d. A nonprofit organization exempt from federal taxation under section 501(c)(3) of
+28 the Internal Revenue Code [26 U.S.C. 501(c)(3)].
+29 8. "Election cycle" means the two - year period beginning on January first of an
+30 odd - numbered year and ending on December thirty - first of an even - numbered year .
+Page No. 3 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 9. "Ethics commission" means the ethics commission established by article XIV of the
+2 Constitution of North Dakota.
+3 10. "Expenditure" means:
+4 a. A gift, transfer, conveyance, provision, loan, advance, payment, distribution,
+5 disbursement, outlay, or deposit of money or anything of value, except a loan of
+6 money from a bank or other lending institution made in the regular course of
+7 business, made for a political purpose or for the purpose of influencing the
+8 passage or defeat of a measure.
+9 b. A contract, promise, or agreement, express or implied, whether or not legally
+10 enforceable, to make any expenditure.
+11 c. The transfer of funds by a political committee to another political committee.
+12 d. An independent expenditure.
+13 7.11. "Expenditure categories" means the categories into which expenditures must be
+14 grouped for reports under this chapter. The expenditure categories are:
+15 a. Advertising;
+16 b. Campaign loan repayment;
+17 c. Operations;
+18 d. Travel; and
+19 e. Miscellaneous.
+20 8.12. "Identity" means:
+21 a. The name and mailing address of an individual; or
+22 b. The full name and address, federal tax status, and state of incorporation or
+23 partnership, if any, of a person other than an individual.
+24 13. "Independent expenditure" means an expenditure made for a political purpose or for
+25 the purpose of influencing the passage or defeat of a measure if the expenditure is
+26 made without the express or implied consent, authorization, or cooperation of, and not
+27 in concert with or at the request or suggestion of, any candidate, committee, or
+28 political party.
+29 9.14. "Original funds" means:
+30 a. Money earned from employment, sel f - employment, investment income, or
+31 bequests an individual receives; or
+Page No. 4 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Money a person receives through ordinary commercial transactions.
+2 15. "Patron" means a person who owns equity interest in the form of stock, shares, or
+3 membership or maintains similar financial rights in a cooperative corporation.
+4 10.16. "Person" means an individual, partnership, political committee, association,
+5 corporation, cooperative corporation, limited liability company, or other organization or
+6 group of persons.
+7 11.17. "Personal benefit" means a benefit to the candidate or another person which is not for
+8 a political purpose or related to a candidate's responsibilities as a public officeholder,
+9 and any other benefit that would convert a contribution to personal income.
+10 12.18. "Political committee" means any committee, club, association, or other group of
+11 persons which receives contributions or makes expenditures for political purposes and
+12 includes:
+13 a. A political action committee not connected to another organization and free to
+14 solicit funds from the general public, or derived from a corporation, cooperative
+15 corporation, limited liability company, affiliate, subsidiary, or an association that
+16 solicits or receives contributions from its employees or members or makes
+17 expenditures for political purposes on behalf of its employees or members;
+18 b. A candidate committee established to support an individual candidate seeking
+19 public office which solicits or receives contributions for political purposes;
+20 c. A political organization registered with the federal election commission, which
+21 solicits or receives contributions or makes expenditures for political purposes;
+22 d. A multicandidate political committee, including a caucus, established to support
+23 multiple groups or slates of candidates seeking public office, which solicits or
+24 receives contributions for political purposes; and
+25 e. A measure committee, including an initiative or referendum sponsoring
+26 committee at any stage of its organization, which solicits or receives contributions
+27 or makes expenditures for the purpose of aiding or opposing a measure sought
+28 to be voted upon by the voters of the state, including any activities undertaken for
+29 the purpose of drafting an initiative or referendum petition, seeking approval of
+30 the secretary of state for the circulation of a petition, or seeking approval of the
+31 submitted petitions.
+Page No. 5 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 13.19. "Political party" means any association, committee, or organization which nominates a
+2 candidate for election to any office which may be filled by a vote of the electors of this
+3 state or any of its political subdivisions and whose name appears on the election ballot
+4 as the candidate of such association, committee, or organization.
+5 14.20. "Political purpose" means any activity undertaken in support of or in opposition to the
+6 election or nomination of a candidate to public office and includes using "vote for",
+7 "oppose", or any similar support or opposition language in any advertisement whether
+8 the activity is undertaken by a candidate, a political committee, a political party, or any
+9 person. In the period thirty days before a primary election and sixty days before a
+10 special or general election, "political purpose" also means any activity in which a
+11 candidate's name, office, district, or any term meaning the same as "incumbent" or
+12 "challenger" is used in support of or in opposition to the election or nomination of a
+13 candidate to public office. The term does not include activities undertaken in the
+14 performance of a duty of a public office or any position taken in any bona fide news
+15 story, commentary, or editorial.
+16 15.21. "Public office" means every office to which an individual can be elected by vote of the
+17 people under the laws of this state.
+18 16.22. "Subsidiary" means an affiliate of a corporation under the control of the corporation
+19 directly or indirectly through one or more intermediaries.
+20 17.23. "Traceable funds" means funds a covered person receives and for which no donor has
+21 opted out of the use or transfer for expenditures under subsection 16.1 - 08.1 - 09 .
+22 24. "Tracing record" means a written record identifying the persons that directly or
+23 indirectly contributed or transferred original funds used to make expenditures, the
+24 amount of each contribution or transfer of original funds, and the expenditure for which
+25 the original funds were used.
+26 25. "Ultimate and true source" means thea person that knowingly contributed over two
+27 hundred dollars solely to influence a statewide election or an election for the legislative
+28 assemblywhose original funds are used by a covered person to make an expenditure.
+29 SECTION 2. Section 16.1-08.1-09 of the North Dakota Century Code is created and
+30 enacted as follows:
+Page No. 6 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 16.1 - 08.1 - 09. Ultimate and true source of funds - Recordkeeping .
+2 1. A covered person shall maintain tracing records that include:
+3 a. The identity of each ultimate and true source that directly or indirectly contributed
+4 more than two hundred dollars in traceable funds;
+5 b. The identity of all intermediaries that transferred traceable funds between an
+6 ultimate and true source and the covered person. If more than one transfer
+7 occurred, the covered person shall disclose all transfers and intermediaries;
+8 c. The date, amount, recipient, and expenditure category of each expenditure paid
+9 with traceable funds; and
+10 d. The candidate or ballot measure that is the subject of the expenditure, if known,
+11 and whether the expenditure was used to support or oppose a ballot measure or
+12 an election or nomination of a candidate for public office.
+13 2. A covered person shall maintain records identifying transfers and intermediaries under
+14 subdivision c of subsection 1 for at least five years, and provide the records to the
+15 secretary of state upon request.
+16 3. Before a covered person uses funds other than original funds of the covered person
+17 for an expenditure, the covered person shall:
+18 a. Notify the person that contributed or transferred the funds to the covered person:
+19 (1) The funds may be used for an expenditure; and
+20 (2) The covered person may be required to disclose the identity of any person
+21 whose original funds are used to make an expenditure.
+22 b. Provide the person that contributed or transferred the funds an opportunity to
+23 op t - out of allowing the funds to be used for expenditures .
+24 4. A person that contributes or transfers more than two hundred dollars in aggregate
+25 traceable funds to a covered person in an election cycle shall inform the covered
+26 person no later than ten days after receiving a written request from the covered person
+27 of the identity of each person or intermediary that directly or indirectly contributed or
+28 transferred more than two hundred dollars in original funds being contributed or
+29 transferred, and the amount of the contributions or transfers. The person shall
+30 maintain the information under this subsection for at least five years and provide the
+31 information to the secretary of state upon request.
+Page No. 7 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 3. Section 16.1-08.1-10 of the North Dakota Century Code is created and
+2 enacted as follows: 16.1-08.1-10. Reporting the ultimate and true source of funds -
+3 Penalty.
+4 1. Within ten days of first disbursing an aggregate amount of more than two hundred
+5 dollars in traceable funds for expenditures during an election cycle, a covered person
+6 shall file a statement with the secretary of state disclosing:
+7 a. The name, phone number, and electronic mail address of the person that controls
+8 the traceable funds;
+9 b. The total amount of traceable funds the covered person controls on the date of
+10 the statement;
+11 c. The name, phone number, and electronic mail address of the individual who
+12 maintains tracing records for the covered person;
+13 d. The information in the tracing records required under subsection 1 of section
+14 16.1 - 08.1 - 09; and
+15 e. The identity of any person that provided direct or indirect aggregate contributions
+16 or transfers of original funds to the covered person in an amount exceeding fifty
+17 percent of the traceable funds controlled by the covered person at the beginning
+18 of the election cycle.
+19 2. The secretary of state shall make the information filed under this section accessible to
+20 the public on a website in a searchable, machine - readable format within forty - eigh t
+21 hours of receiving the statement.
+22 3. A person that structures or attempts to structure a solicitation, contribution,
+23 expenditure, disbursement, transfer, or other transaction in a manner designed to
+24 evade the reporting requirements in this chapter is guilty of a class A misdemeanor .
+25 SECTION 4. Section 16.1-08.1-11 of the North Dakota Century Code is created and
+26 enacted as follows:
+27 16.1 - 08.1 - 11. Enforcement of ultimate and true source reporting .
+28 1. The secretary of state may investigate a possible violation of section 16.1 - 08.1 - 09 or
+29 16.1 - 08.1 - 10 with or without receiving a complaint .
+Page No. 8 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. Any person may file a complaint with the secretary of state alleging a person violated
+2 section 16.1 - 08.1 - 09 or 16.1 - 08.1 - 10. The complaint must state the grounds for the
+3 allegation.
+4 3. The secretary of state shall take reasonable steps to investigate the grounds for the
+5 allegation and provide the subject of the complaint notice and an opportunity to
+6 respond.
+7 4. The secretary of state shall provide notice to the complainant if the secretary of state
+8 dismisses the complaint. If the secretary of state dismisses the complaint or fails to act
+9 on the complaint within one hundred twenty days of receipt of the complaint, the
+10 complainant may file an action against the secretary of state in court alleging the
+11 action or inaction of the secretary of state was not reasonable.
+12 5. If the secretary of state or a court determines a person violated a requirement of
+13 section 16.1 - 08.1 - 09 or 16.1 - 08.1 - 10, the secretary of state or court shall impose a
+14 fine in an amount between two and three times the monetary value of the amount that
+15 was the subject of the violation.
+16 SECTION 5. Section 16.1-08.1-12 of the North Dakota Century Code is created and
+17 enacted as follows:
+18 16.1 - 08.1 - 12. Resident taxpayer rights - Civil actions .
+19 A civil action by a resident taxpayer alleging this chapter or any rules adopted under this
+20 chapter fail to vindicate fully the rights provided under section 1 of article XIV of the Constitution
+21 of North Dakota must be filed in a district court of this state.
+22 SECTION 6. AMENDMENT. Section 16.1-10-04.1 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 16.1-10-04.1. Certain political advertisements to disclose name of sponsor - Name
+25 disclosure requirements.
+26 1. Every political advertisement by newspaper, pamphlet or folder, display card, sign,
+27 poster, or billboard, website, or by any other similar public means, on behalf of or in
+28 opposition to any candidate for public office, designed to assist, injure, or defeat the
+29 candidate by reflecting upon the candidate's personal character or political action, or
+30 by a measure committee as described in section 16.1-08.1-01, or a corporation
+31 making an independent expenditure either for or against a measure, must disclose on
+Page No. 9 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 the advertisement the name of the person, as defined in section 16.1-08.1-01, or
+2 political party paying for the advertisement. If the name of a political party, association,
+3 or partnership is used, the disclaimer also must also include the name of the chairman
+4 or other responsible individual from the political party, association, or partnership. The
+5 name of the person paying for any radio or television broadcast containing any
+6 advertising announcement for or against any candidate for public office must be
+7 announced at the close of the broadcast. If the name of a political party, association,
+8 or partnership is used, the disclaimer also must also include the name of the chairman
+9 or other responsible individual from the political party, association, or partnership. In
+10 every political advertisement in which the name of the person paying for the
+11 advertisement is disclosed, the first and last name of any named individual must be
+12 disclosed. An advertisement paid for by an individual candidate or group of candidates
+13 must disclose that the advertisement was paid for by the individual candidate or group
+14 of candidates. The first and last name or names of the candidates paying for the
+15 advertisement are not required to be disclosed. This section does not apply to
+16 campaign buttons.
+17 2. A political advertisement required to disclose the name of the person or political party
+18 paying for the advertisement under subsection 1 must disclose the names of the three
+19 persons that are the ultimate and true sources of the largest aggregate amounts of
+20 traceable funds, contributed or transferred, directly or indirectly, during the election
+21 cycle to the person or political party paying for the advertisement.
+22 a. For a political advertisement with a visual component, a clear and conspicuous
+23 written statement identifying the names followed by "are the top three donors that
+24 helped pay for this advertisement" must be included.
+25 b. For a political advertisement with an audio component, a clear and conspicuous
+26 oral statement of the names followed by "are the top three donors that helped
+27 pay for this advertisement" must be included.
+28 3. If the aggregate contributions or transfers of traceable funds from one person
+29 constitutes more than fifty percent of a covered person's traceable funds at the
+30 beginning of an election cycle, the covered person shall include the aggregate
+31 contributions and transfers from the person from the prior election cycle when
+Page No. 10 25.0486.01000
+
+Sixty-ninth
+Legislative Assembly
+1 determining which three names must be included in the covered person's political
+2 advertisements under subsection 2 .
+3 4. For purposes of this section, "ultimate and true source", "traceable funds", and
+4 "election cycle" have the meaning provided in section 16.1 - 08.1 - 01 .
+5 SECTION 7. REPEAL. Section 16.1-08.1-08 of the North Dakota Century Code is repealed.
+Page No. 11 25.0486.01000
+
+[DELETED: ."."12]
+[DELETED: .".A.A.A.A."."22]
+[DELETED: .A.T.M.M.P.A.T.I.".".A.A.A.A. 32]
+[DELETED: .".".A.A.T.A.".A.C.O.T.M.".T.T.".". 42]
+[DELETED: .M.".".".".A.A.A.A.A52]
+[DELETED: ."."."."."."."62]
+[DELETED: .A.T.T.T.T.A.B.N)T)T.P.A72]
+[DELETED: :1.W.T.T.T. .T.T.A. 82]
+[DELETED: .A.T.T.I.E92]
+[DELETED: .A.F.F.I02]
+[DELETED: .F12]

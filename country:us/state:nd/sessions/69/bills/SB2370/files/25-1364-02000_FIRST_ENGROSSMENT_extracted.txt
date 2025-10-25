@@ -1,0 +1,195 @@
+Title: ENGROSSED SENATE BILL NO. 2370
+Official Title: ENGROSSED SENATE BILL NO. 2370
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1364.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Senators Cleary, Dever, Mathern
+Representative McLeod
+1 A BILL for an Act to amend and reenact section 54-52.1-04.18 of the North Dakota Century
+2 Code, relating to health insurance benefits coverage of insulin drugs and supplies.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 54-52.1-04.18 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 54-52.1-04.18. Health insurance benefits coverage - Insulin drug and supply out-of-
+7 pocket limitations. (Expired effective July 31, 2025)
+8 1. As used in this section:
+9 a. "Insulin drug" means a prescription drug that contains insulin and is used to treat
+10 a form of diabetes mellitus. The term does not include an insulin pump, an
+11 electronic insulin-administering smart pen, or a continuous glucose monitor, or
+12 supplies needed specifically for the use of such electronic devices. The term
+13 includes insulin in the following categories:
+14 (1) Rapid-acting insulin;
+15 (2) Short-acting insulin;
+16 (3) Intermediate-acting insulin;
+17 (4) Long-acting insulin;
+18 (5) Premixed insulin product;
+19 (6) Premixed insulin/GLP-1 RA product; and
+20 (7) Concentrated human regular insulin.
+21 b. "Medical supplies for insulin dosing and administration" means supplies needed
+22 for proper insulin dosing, as well as supplies needed to detect or address medical
+Page No. 1 25.1364.02000
+Sixty-ninth
+Legislative Assembly
+1 emergencies in an individual using insulin to manage diabetes mellitus. The term
+2 does not include an insulin pump, an electronic insulin-administering smart pen,
+3 or a continuous glucose monitor, or supplies needed specifically for the use of
+4 such electronic devices. The term includes:
+5 (1) Blood glucose meters;
+6 (2) Blood glucose test strips;
+7 (3) Lancing devices and lancets;
+8 (4) Ketone testing supplies, such as urine strips, blood ketone meters, and
+9 blood ketone strips;
+10 (5) Glucagon, in injectable and nasal forms;
+11 (6) Insulin pen needles; and
+12 (7) Insulin syringes.
+13 c. "Pharmacy or distributor" means a pharmacy or medical supply company, or
+14 other medication or medical supply distributor filling a covered individual's
+15 prescriptions.
+16 2. The board shall provide health insurance benefits coverage that provides for insulin
+17 drug and medical supplies for insulin dosing and administration which complies with
+18 this section.
+19 3. The coverage must limit out-of-pocket costs for a thirty-day supply of:
+20 a. Covered insulin drugs which may not exceed twenty-five dollars per pharmacy or
+21 distributor, regardless of the quantity or type of insulin drug used to fill the
+22 covered individual's prescription needs.
+23 b. Covered medical supplies for insulin dosing and administration, the total of which
+24 may not exceed twenty-five dollars per pharmacy or distributor, regardless of the
+25 quantity or manufacturer of supplies used to fill the covered individual's
+26 prescription needs.
+27 4. The coverage may not allow a pharmacy benefits manager or the pharmacy or
+28 distributor to charge, require the pharmacy or distributor to collect, or require a
+29 covered individual to make a payment for a covered insulin drug or medical supplies
+30 for insulin dosing and administration in an amount that exceeds the out-of-pocket limits
+31 set forth under subsection 3.
+Page No. 2 25.1364.02000
+Sixty-ninth
+Legislative Assembly
+1 5. The coverage may not impose a deductible, copayment, coinsurance, or other cost-
+2 sharing requirement that causes out-of-pocket costs for prescribed insulin or medical
+3 supplies for insulin dosing and administration to exceed the amount set forth under
+4 subsection 3.
+5 6. Subsection 3 does not require the coverage to implement a particular cost-sharing
+6 structure and does not prevent the limitation of out-of-pocket costs to less than the
+7 amount specified under subsection 3. Subsection 3 does not limit out-of-pocket costs
+8 on an insulin pump, an electronic insulin-administering smart pen, or a continuous
+9 glucose monitor. This section does not limit whether coverage classifies an insulin
+10 pump, an electronic insulin-administering smart pen, or a continuous glucose monitor
+11 as a drug or as a medical device or supply.
+12 7. If application of subsection 3 would result in the ineligibility of a health benefit plan that
+13 is a qualified high-deductible health plan to qualify as a health savings account under
+14 section 223 of the Internal Revenue Code [26 U.S.C. 223], the requirements of
+15 subsection 3 do not apply with respect to the deductible of the health benefit plan until
+16 after the enrollee has satisfied the minimum deductible under section 26 U.S.C. 223.
+17 8. This section does not apply to the Medicare part D prescription drug coverage plan.
+Page No. 3 25.1364.02000
+[DELETED: .A.")R)S)I)L)P)P)C."12]
+[DELETED: )B)B)L)K)G)I)I.".T.T.C.C.T22]
+[DELETED: .T.S.I.T32]
+
+
+================================================================================
+
+Raw Text:
+25.1364.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2370
+Introduced by
+Senators Cleary, Dever, Mathern
+Representative McLeod
+1 A BILL for an Act to amend and reenact section 54-52.1-04.18 of the North Dakota Century
+2 Code, relating to health insurance benefits coverage of insulin drugs and supplies.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 54-52.1-04.18 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 54-52.1-04.18. Health insurance benefits coverage - Insulin drug and supply out-of-
+7 pocket limitations. (Expired effective July 31, 2025)
+8 1. As used in this section:
+9 a. "Insulin drug" means a prescription drug that contains insulin and is used to treat
+10 a form of diabetes mellitus. The term does not include an insulin pump, an
+11 electronic insulin-administering smart pen, or a continuous glucose monitor, or
+12 supplies needed specifically for the use of such electronic devices. The term
+13 includes insulin in the following categories:
+14 (1) Rapid-acting insulin;
+15 (2) Short-acting insulin;
+16 (3) Intermediate-acting insulin;
+17 (4) Long-acting insulin;
+18 (5) Premixed insulin product;
+19 (6) Premixed insulin/GLP-1 RA product; and
+20 (7) Concentrated human regular insulin.
+21 b. "Medical supplies for insulin dosing and administration" means supplies needed
+22 for proper insulin dosing, as well as supplies needed to detect or address medical
+Page No. 1 25.1364.02000
+
+Sixty-ninth
+Legislative Assembly
+1 emergencies in an individual using insulin to manage diabetes mellitus. The term
+2 does not include an insulin pump, an electronic insulin-administering smart pen,
+3 or a continuous glucose monitor, or supplies needed specifically for the use of
+4 such electronic devices. The term includes:
+5 (1) Blood glucose meters;
+6 (2) Blood glucose test strips;
+7 (3) Lancing devices and lancets;
+8 (4) Ketone testing supplies, such as urine strips, blood ketone meters, and
+9 blood ketone strips;
+10 (5) Glucagon, in injectable and nasal forms;
+11 (6) Insulin pen needles; and
+12 (7) Insulin syringes.
+13 c. "Pharmacy or distributor" means a pharmacy or medical supply company, or
+14 other medication or medical supply distributor filling a covered individual's
+15 prescriptions.
+16 2. The board shall provide health insurance benefits coverage that provides for insulin
+17 drug and medical supplies for insulin dosing and administration which complies with
+18 this section.
+19 3. The coverage must limit out-of-pocket costs for a thirty-day supply of:
+20 a. Covered insulin drugs which may not exceed twenty-five dollars per pharmacy or
+21 distributor, regardless of the quantity or type of insulin drug used to fill the
+22 covered individual's prescription needs.
+23 b. Covered medical supplies for insulin dosing and administration, the total of which
+24 may not exceed twenty-five dollars per pharmacy or distributor, regardless of the
+25 quantity or manufacturer of supplies used to fill the covered individual's
+26 prescription needs.
+27 4. The coverage may not allow a pharmacy benefits manager or the pharmacy or
+28 distributor to charge, require the pharmacy or distributor to collect, or require a
+29 covered individual to make a payment for a covered insulin drug or medical supplies
+30 for insulin dosing and administration in an amount that exceeds the out-of-pocket limits
+31 set forth under subsection 3.
+Page No. 2 25.1364.02000
+
+Sixty-ninth
+Legislative Assembly
+1 5. The coverage may not impose a deductible, copayment, coinsurance, or other cost-
+2 sharing requirement that causes out-of-pocket costs for prescribed insulin or medical
+3 supplies for insulin dosing and administration to exceed the amount set forth under
+4 subsection 3.
+5 6. Subsection 3 does not require the coverage to implement a particular cost-sharing
+6 structure and does not prevent the limitation of out-of-pocket costs to less than the
+7 amount specified under subsection 3. Subsection 3 does not limit out-of-pocket costs
+8 on an insulin pump, an electronic insulin-administering smart pen, or a continuous
+9 glucose monitor. This section does not limit whether coverage classifies an insulin
+10 pump, an electronic insulin-administering smart pen, or a continuous glucose monitor
+11 as a drug or as a medical device or supply.
+12 7. If application of subsection 3 would result in the ineligibility of a health benefit plan that
+13 is a qualified high-deductible health plan to qualify as a health savings account under
+14 section 223 of the Internal Revenue Code [26 U.S.C. 223], the requirements of
+15 subsection 3 do not apply with respect to the deductible of the health benefit plan until
+16 after the enrollee has satisfied the minimum deductible under section 26 U.S.C. 223.
+17 8. This section does not apply to the Medicare part D prescription drug coverage plan.
+Page No. 3 25.1364.02000
+
+[DELETED: .A.")R)S)I)L)P)P)C."12]
+[DELETED: )B)B)L)K)G)I)I.".T.T.C.C.T22]
+[DELETED: .T.S.I.T32]

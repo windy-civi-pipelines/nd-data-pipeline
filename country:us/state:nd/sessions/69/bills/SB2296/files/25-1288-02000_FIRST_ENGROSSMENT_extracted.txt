@@ -1,0 +1,270 @@
+Title: ENGROSSED SENATE BILL NO. 2296
+Official Title: ENGROSSED SENATE BILL NO. 2296
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25.1288.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Senators Walen, Luick, Enget
+Representatives Fegley, Vigesaa
+1 A BILL for an Act to amend and reenact section 57-40.6-01 of the North Dakota Century Code,
+2 relating to emergency services communications systems.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 57-40.6-01 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 57-40.6-01. Definitions.
+7 In this chapter, unless the context otherwise requires:
+8 1. "911 system" means a set of networks, software applications, databases, call
+9 answering components, and operations and management procedures required to
+10 provide 911 services.
+11 2. "911 system service provider" means an entity that provides the systems and support
+12 necessary to enable 911 calling for one or more public safety answering points in a
+13 specific geographic area. A 911 system service provider may provide the systems and
+14 support for either enhanced 911 or next generation 9-1-1.
+15 3. "Assessed communications service" means a software service, communication
+16 connection, cable or broadband transport facilities, or a combination of these facilities,
+17 between a billed retail end user and a service provider's network that provides the end
+18 user, upon contacting 911, access to a public safety answering point through a
+19 permissible interconnection to the dedicated 911 network. The term includes
+20 telephone exchange access service, wireless service, and voice over internet protocol
+21 service.
+Page No. 1 25.1288.02000
+Sixty-ninth
+Legislative Assembly
+1 4. "Automated notification system" means that portion of a telecommunications system
+2 that provides rapid notice of emergency situations to the public.
+3 5. "Commissioner" means the state tax commissioner.
+4 6. "Communication connection" means a telephone access line, wireless access line,
+5 unique voice over internet protocol service connection, or functional equivalent
+6 uniquely identifiable by a number, internet address, or other designation.
+7 7. "Consumer" means a person who purchases prepaid wireless service in a retail
+8 transaction.
+9 8. "Emergency services communication system" means a comprehensive statewide or
+10 countywide system, which provides rapid public access for coordinated dispatching of
+11 public safety services. The system includes a 911 system or radio system.
+12 9. "FCC order" means federal communications commission order 94-102 [961 Federal
+13 Register 40348] and any other FCC order that affects the provision of wireless
+14 enhanced 911 service.
+15 10. "First responder" means an individual trained to provide assistance during an
+16 emergency, including a firefighter as defined under section 18 - 11 - 03, law enforcemen t
+17 officer as defined under section 12.1 - 01 - 04, emergency medical services personnel as
+18 defined under section 23 - 27 - 02, and public safety telecommunicators .
+19 11. "Prepaid wireless emergency 911 fee" means the fee that is required to be collected
+20 by a seller from a consumer in the amount established under section 57-40.6-14.
+21 11.12. "Prepaid wireless service" means any telecommunications service that provides the
+22 right to use a mobile wireless service as well as other nontelecommunications
+23 services, including the download of digital products delivered electronically, content
+24 and ancillary services, which are paid for in advance and sold in predetermined units
+25 or dollars which decline with use in a known amount.
+26 12.13. "Prepaid wireless service provider" means any person that provides prepaid wireless
+27 telecommunications service pursuant to a license issued by the federal
+28 communications commission.
+29 13.14. "Public safety answering point" or "PSAP" means a communications facility or
+30 combination of facilities which first receives 911 calls from persons in a 911 service
+Page No. 2 25.1288.02000
+Sixty-ninth
+Legislative Assembly
+1 area and which, as appropriate, may directly dispatch public safety services or extend,
+2 transfer, or relay 911 calls to appropriate public safety agencies.
+3 14.15. "Public safety answering point service area" means the geographic area for which a
+4 public safety answering point has dispatch and emergency communications
+5 responsibility.
+6 15.16. "Public safety services" means personnel, equipment, and facilities used by law
+7 enforcement, fire, medical,first responders or other supporting services used in
+8 providing a public safety response to an incident.
+9 16.17. "Public safety telecommunicator" means an individual whose primary full-time or
+10 part-time duties are receiving, processing, and transmitting public safety information
+11 received through an emergency services communication system.
+12 17.18. "Radio system" means a set of networks, software applications, databases, radio
+13 components and infrastructure, and operations and management procedures required
+14 to provide communication services.
+15 18.19. "Retail transaction" means the purchase of prepaid wireless service from a seller for
+16 any purpose other than resale.
+17 19.20. "Seller" means a person who sells prepaid wireless services to a consumer.
+18 20.21. "Subscriber service address" means, for purposes of telephone exchange access
+19 service and voice over internet protocol service subscribers, the address where the
+20 subscriber's communication device is used and, for purposes of wireless subscribers,
+21 the place of primary use, as that term is defined in section 57-34.1-02.
+22 21.22. "Telephone access line" means the principal access to the telephone company's
+23 switched network, including an outward dialed trunk or access register.
+24 22.23. "Telephone exchange access service" means service to any wire line telephone
+25 access line identified by a unique telephone number that provides local wire line
+26 access to the telecommunications network to a service subscriber and which enables
+27 the subscriber to access the emergency services communications system by dialing
+28 the digits 9-1-1 on the subscriber's telephone device.
+29 23.24. "Unpublished" means information that is not published or available from directory
+30 assistance.
+Page No. 3 25.1288.02000
+Sixty-ninth
+Legislative Assembly
+1 24.25. "Voice over internet protocol service" means a service that enables real-time two-way
+2 voice communications; requires a broadband connection from the user's location;
+3 requires internet protocol-compatible customer premises equipment; and permits
+4 users generally to receive calls that originate on the public switched telephone network
+5 and to terminate calls to the public switched telephone network.
+6 25.26. "Wireless access line" means each active wireless and prepaid wireless telephone
+7 number assigned to a commercial mobile radio service subscriber, including end users
+8 of resellers.
+9 26.27. "Wireless enhanced 911 service" means the service required to be provided by
+10 wireless service providers pursuant to the FCC order.
+11 27.28. "Wireless service" means commercial mobile radio service as defined in 47 U.S.C.
+12 332(d)(1) and includes:
+13 a. Services commonly referred to as wireless; and
+14 b. Services provided by any wireless real-time two-way voice communication
+15 device, including radio-telephone communications used in:
+16 (1) Cellular telephone service;
+17 (2) Personal communications service; or
+18 (3) The functional or competitive equivalent of a radio-telephone
+19 communications line used in cellular telephone service, personal
+20 communications service, or a network radio access line.
+21 28.29. "Wireless service provider" means any entity authorized by the federal
+22 communications commission to provide wireless service within this state.
+Page No. 4 25.1288.02000
+[DELETED: ."."."12]
+[DELETED: ."."."."."."."."."."."22]
+[DELETED: ."."."."."."."."."."32]
+[DELETED: .".".".".S.S)C)P)T."42]
+
+
+================================================================================
+
+Raw Text:
+25.1288.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2296
+Introduced by
+Senators Walen, Luick, Enget
+Representatives Fegley, Vigesaa
+1 A BILL for an Act to amend and reenact section 57-40.6-01 of the North Dakota Century Code,
+2 relating to emergency services communications systems.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 57-40.6-01 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 57-40.6-01. Definitions.
+7 In this chapter, unless the context otherwise requires:
+8 1. "911 system" means a set of networks, software applications, databases, call
+9 answering components, and operations and management procedures required to
+10 provide 911 services.
+11 2. "911 system service provider" means an entity that provides the systems and support
+12 necessary to enable 911 calling for one or more public safety answering points in a
+13 specific geographic area. A 911 system service provider may provide the systems and
+14 support for either enhanced 911 or next generation 9-1-1.
+15 3. "Assessed communications service" means a software service, communication
+16 connection, cable or broadband transport facilities, or a combination of these facilities,
+17 between a billed retail end user and a service provider's network that provides the end
+18 user, upon contacting 911, access to a public safety answering point through a
+19 permissible interconnection to the dedicated 911 network. The term includes
+20 telephone exchange access service, wireless service, and voice over internet protocol
+21 service.
+Page No. 1 25.1288.02000
+
+Sixty-ninth
+Legislative Assembly
+1 4. "Automated notification system" means that portion of a telecommunications system
+2 that provides rapid notice of emergency situations to the public.
+3 5. "Commissioner" means the state tax commissioner.
+4 6. "Communication connection" means a telephone access line, wireless access line,
+5 unique voice over internet protocol service connection, or functional equivalent
+6 uniquely identifiable by a number, internet address, or other designation.
+7 7. "Consumer" means a person who purchases prepaid wireless service in a retail
+8 transaction.
+9 8. "Emergency services communication system" means a comprehensive statewide or
+10 countywide system, which provides rapid public access for coordinated dispatching of
+11 public safety services. The system includes a 911 system or radio system.
+12 9. "FCC order" means federal communications commission order 94-102 [961 Federal
+13 Register 40348] and any other FCC order that affects the provision of wireless
+14 enhanced 911 service.
+15 10. "First responder" means an individual trained to provide assistance during an
+16 emergency, including a firefighter as defined under section 18 - 11 - 03, law enforcemen t
+17 officer as defined under section 12.1 - 01 - 04, emergency medical services personnel as
+18 defined under section 23 - 27 - 02, and public safety telecommunicators .
+19 11. "Prepaid wireless emergency 911 fee" means the fee that is required to be collected
+20 by a seller from a consumer in the amount established under section 57-40.6-14.
+21 11.12. "Prepaid wireless service" means any telecommunications service that provides the
+22 right to use a mobile wireless service as well as other nontelecommunications
+23 services, including the download of digital products delivered electronically, content
+24 and ancillary services, which are paid for in advance and sold in predetermined units
+25 or dollars which decline with use in a known amount.
+26 12.13. "Prepaid wireless service provider" means any person that provides prepaid wireless
+27 telecommunications service pursuant to a license issued by the federal
+28 communications commission.
+29 13.14. "Public safety answering point" or "PSAP" means a communications facility or
+30 combination of facilities which first receives 911 calls from persons in a 911 service
+Page No. 2 25.1288.02000
+
+Sixty-ninth
+Legislative Assembly
+1 area and which, as appropriate, may directly dispatch public safety services or extend,
+2 transfer, or relay 911 calls to appropriate public safety agencies.
+3 14.15. "Public safety answering point service area" means the geographic area for which a
+4 public safety answering point has dispatch and emergency communications
+5 responsibility.
+6 15.16. "Public safety services" means personnel, equipment, and facilities used by law
+7 enforcement, fire, medical,first responders or other supporting services used in
+8 providing a public safety response to an incident.
+9 16.17. "Public safety telecommunicator" means an individual whose primary full-time or
+10 part-time duties are receiving, processing, and transmitting public safety information
+11 received through an emergency services communication system.
+12 17.18. "Radio system" means a set of networks, software applications, databases, radio
+13 components and infrastructure, and operations and management procedures required
+14 to provide communication services.
+15 18.19. "Retail transaction" means the purchase of prepaid wireless service from a seller for
+16 any purpose other than resale.
+17 19.20. "Seller" means a person who sells prepaid wireless services to a consumer.
+18 20.21. "Subscriber service address" means, for purposes of telephone exchange access
+19 service and voice over internet protocol service subscribers, the address where the
+20 subscriber's communication device is used and, for purposes of wireless subscribers,
+21 the place of primary use, as that term is defined in section 57-34.1-02.
+22 21.22. "Telephone access line" means the principal access to the telephone company's
+23 switched network, including an outward dialed trunk or access register.
+24 22.23. "Telephone exchange access service" means service to any wire line telephone
+25 access line identified by a unique telephone number that provides local wire line
+26 access to the telecommunications network to a service subscriber and which enables
+27 the subscriber to access the emergency services communications system by dialing
+28 the digits 9-1-1 on the subscriber's telephone device.
+29 23.24. "Unpublished" means information that is not published or available from directory
+30 assistance.
+Page No. 3 25.1288.02000
+
+Sixty-ninth
+Legislative Assembly
+1 24.25. "Voice over internet protocol service" means a service that enables real-time two-way
+2 voice communications; requires a broadband connection from the user's location;
+3 requires internet protocol-compatible customer premises equipment; and permits
+4 users generally to receive calls that originate on the public switched telephone network
+5 and to terminate calls to the public switched telephone network.
+6 25.26. "Wireless access line" means each active wireless and prepaid wireless telephone
+7 number assigned to a commercial mobile radio service subscriber, including end users
+8 of resellers.
+9 26.27. "Wireless enhanced 911 service" means the service required to be provided by
+10 wireless service providers pursuant to the FCC order.
+11 27.28. "Wireless service" means commercial mobile radio service as defined in 47 U.S.C.
+12 332(d)(1) and includes:
+13 a. Services commonly referred to as wireless; and
+14 b. Services provided by any wireless real-time two-way voice communication
+15 device, including radio-telephone communications used in:
+16 (1) Cellular telephone service;
+17 (2) Personal communications service; or
+18 (3) The functional or competitive equivalent of a radio-telephone
+19 communications line used in cellular telephone service, personal
+20 communications service, or a network radio access line.
+21 28.29. "Wireless service provider" means any entity authorized by the federal
+22 communications commission to provide wireless service within this state.
+Page No. 4 25.1288.02000
+
+[DELETED: ."."."12]
+[DELETED: ."."."."."."."."."."."22]
+[DELETED: ."."."."."."."."."."32]
+[DELETED: .".".".".S.S)C)P)T."42]

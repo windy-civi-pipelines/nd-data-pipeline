@@ -1,0 +1,96 @@
+Title: HOUSE BILL NO. 1574
+Official Title: HOUSE BILL NO. 1574
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0913.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives S. Olson, Henderson
+Senators Clemens, Magrum, Weston
+1 A BILL for an Act to create and enact a new section to chapter 38-22 of the North Dakota
+2 Century Code, relating to a prohibition on direct air carbon dioxide capture projects; to amend
+3 and reenact section 38-08-21 of the North Dakota Century Code, relating to the authority of the
+4 industrial commission; to provide for application; and to provide an expiration date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 38-08-21 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 38-08-21. Regulation of carbon dioxide and nitrogen gas.
+9 1. The commission is vested with the authority and duty to regulate the exploration,
+10 development, and production of carbon dioxide, coal bed methane gas, helium gas,
+11 and nitrogen gas within the state, in the same manner, insofar as is practicable, as
+12 itthe commission regulates oil or gas as defined in this chapter.
+13 2. The commission may not approve or authorize a direct air carbon dioxide capture
+14 project as defined under section 2 of this Act .
+15 SECTION 2. A new section to chapter 38-22 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Direct air carbon dioxide capture projects - Prohibition.
+18 A person may not construct, implement, or operate a direct air carbon dioxide capture
+19 project in this state. As used in this section, "direct air carbon dioxide capture" means the
+20 process of removing carbon dioxide directly from the atmosphere by using scrubbers and
+21 chemical processes for underground storage or use in products.
+22 SECTION 3. APPLICATION. The prohibition under section 2 of this Act does not apply to
+23 an operator of a direct air carbon dioxide capture project in possession of necessary local,
+24 state, and federal permits and approvals before the effective date of this Act.
+Page No. 1 25.0913.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 4. EXPIRATION DATE. This Act is effective through July 31, 2027, and after that
+2 date is ineffective.
+Page No. 2 25.0913.01000
+[DELETED: .T.T12]
+[DELETED: 22]
+
+
+================================================================================
+
+Raw Text:
+25.0913.01000
+Sixty-ninth
+HOUSE BILL NO. 1574
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives S. Olson, Henderson
+Senators Clemens, Magrum, Weston
+1 A BILL for an Act to create and enact a new section to chapter 38-22 of the North Dakota
+2 Century Code, relating to a prohibition on direct air carbon dioxide capture projects; to amend
+3 and reenact section 38-08-21 of the North Dakota Century Code, relating to the authority of the
+4 industrial commission; to provide for application; and to provide an expiration date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 38-08-21 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 38-08-21. Regulation of carbon dioxide and nitrogen gas.
+9 1. The commission is vested with the authority and duty to regulate the exploration,
+10 development, and production of carbon dioxide, coal bed methane gas, helium gas,
+11 and nitrogen gas within the state, in the same manner, insofar as is practicable, as
+12 itthe commission regulates oil or gas as defined in this chapter.
+13 2. The commission may not approve or authorize a direct air carbon dioxide capture
+14 project as defined under section 2 of this Act .
+15 SECTION 2. A new section to chapter 38-22 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Direct air carbon dioxide capture projects - Prohibition.
+18 A person may not construct, implement, or operate a direct air carbon dioxide capture
+19 project in this state. As used in this section, "direct air carbon dioxide capture" means the
+20 process of removing carbon dioxide directly from the atmosphere by using scrubbers and
+21 chemical processes for underground storage or use in products.
+22 SECTION 3. APPLICATION. The prohibition under section 2 of this Act does not apply to
+23 an operator of a direct air carbon dioxide capture project in possession of necessary local,
+24 state, and federal permits and approvals before the effective date of this Act.
+Page No. 1 25.0913.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 4. EXPIRATION DATE. This Act is effective through July 31, 2027, and after that
+2 date is ineffective.
+Page No. 2 25.0913.01000
+
+[DELETED: .T.T12]
+[DELETED: 22]

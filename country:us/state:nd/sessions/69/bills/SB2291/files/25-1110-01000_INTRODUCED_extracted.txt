@@ -1,0 +1,2100 @@
+Title: SENATE BILL NO. 2291
+Official Title: SENATE BILL NO. 2291
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 30 sections found
+
+================================================================================
+
+Section 1:
+25.1110.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Dwyer, Sickler, Larson, Weston
+Representatives Hanson, Klemin
+1 A BILL for an Act to create and enact two new sections to chapter 30.1-28 and two new sections
+2 to chapter 30.1-29 of the North Dakota Century Code, relating to removal, resignation and
+3 death of a guardian, notices in a guardianship, notices in a conservatorship, and confidentiality
+4 of reports; to amend and reenact subsection 1 of section 23-12-13, subsection 1 of section
+5 25-03.1-18.1, subsection 1 of section 27-20.1-17, sections 30.1-01-06 and 30.1-28-03.1,
+6 subsection 3 of section 30.1-28-03.2, section 30.1-28-04, subsection 1 of section 30.1-28-05,
+7 section 30.1-28-07, subsection 1 of section 30.1-28-09, sections 30.1-28-10.1, 30.1-28-12,
+8 30.1-28-12.1, 30.1-28-12.2, and 30.1-29-05, subsection 6 of section 30.1-29-07, subsection 2 of
+9 section 30.1-29-08, sections 30.1-29-13 and 30.1-29-18, subsection 3 of section 30.1-29-19,
+10 subsection 1 of section 30.1-29-20.1, subsection 2 of section 30.1-29-22, and subsection 5 of
+11 section 30.1-29-25 of the North Dakota Century Code, relating to incapacitated persons, court-
+12 authorized involuntary treatment, guardianship of a child, guardianship of an incapacitated
+13 person, and protection of property of persons under disability and minors; and to repeal
+14 sections 30.1-26-01, 30.1-28-08, and 30.1-28-15 of the North Dakota Century Code, relating to
+15 visitors in a guardianship proceeding and appointment of successor guardians.
+16 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+17 SECTION 1. AMENDMENT. Subsection 1 of section 23-12-13 of the North Dakota Century
+18 Code is amended and reenacted as follows:
+19 1. Informed consent for health care for a minor patient or a patient who is determined by
+20 a physician, psychiatrist, or psychologist to be an incapacitated person, as defined in
+21 subsection 2 of section 30.1-26-01 30.1 - 01 - 06 , and unable to consent may be obtained
+22 from a person authorized to consent on behalf of the patient. Persons in the following
+23 classes and in the following order of priority may provide informed consent to health
+24 care on behalf of the patient:
+Page No. 1 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 a. The individual, if any, to whom the patient has given a durable power of attorney
+2 that encompasses the authority to make health care decisions, unless a court of
+3 competent jurisdiction specifically authorizes a guardian to make medical
+4 decisions for the incapacitated person;
+5 b. The appointed guardian or custodian of the patient, if any;
+6 c. The patient's spouse who has maintained significant contacts with the
+7 incapacitated person;
+8 d. Children of the patient who are at least eighteen years of age and who have
+9 maintained significant contacts with the incapacitated person;
+10 e. Parents of the patient, including a stepparent who has maintained significant
+11 contacts with the incapacitated person;
+12 f. Adult brothers and sisters of the patient who have maintained significant contacts
+13 with the incapacitated person;
+14 g. Grandparents of the patient who have maintained significant contacts with the
+15 incapacitated person;
+16 h. Grandchildren of the patient who are at least eighteen years of age and who
+17 have maintained significant contacts with the incapacitated person; or
+18 i. A close relative or friend of the patient who is at least eighteen years of age and
+19 who has maintained significant contacts with the incapacitated person.
+20 SECTION 2. AMENDMENT. Subsection 1 of section 25-03.1-18.1 of the North Dakota
+21 Century Code is amended and reenacted as follows:
+22 1. a. Upon notice and hearing, a tier 1b mental health professional may request
+23 authorization from the court to treat an individual under a mental health treatment
+24 order,or an individual voluntarily admitted to a public treatment facility under
+25 section 25 - 03.1 - 04 , with prescribed medication. The request may be considered
+26 by the court in an involuntary treatment hearing. As a part of the request, a
+27 psychiatrist or a final year psychiatric resident physician not involved in the
+28 current diagnosis or treatment of the patient shall certify:
+29 (1) That the proposed prescribed medication is clinically appropriate and
+30 necessary to effectively treat the patient and that the patient is a person
+31 requiring treatment;
+Page No. 2 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 (2) That the patient was offered that treatment and refused it or that the patient
+2 lacks the capacity to make or communicate a responsible decision about
+3 that treatment;
+4 (3) That prescribed medication is the least restrictive form of intervention
+5 necessary to meet the treatment needs of the patient; and
+6 (4) That the benefits of the treatment outweigh the known risks to the patient.
+7 b. The court shall inquire whether the patient has had a sufficient opportunity to
+8 adequately prepare to meet the issue of involuntary treatment with prescribed
+9 medication and, at the request of the patient, the court may continue the
+10 involuntary treatment hearing for a period not exceeding seven days or may
+11 appoint an independent expert examiner as provided in subsection 4.
+12 SECTION 3. AMENDMENT. Subsection 1 of section 27-20.1-17 of the North Dakota
+13 Century Code is amended and reenacted as follows:
+14 1. An order appointing or reappointing a guardian under this chapter is effective for up to
+15 one year unless the court, upon a finding of good cause, sets a different time frame.
+16 An order may not be effective for more than three years. At least sixty days before the
+17 expiration of the initial order of appointment or any following order of reappointment,
+18 the court shall request and consider information submitted by the guardian, the child, if
+19 fourteen years of age or older, the child's attorney, if any, the child's parents, and any
+20 interested persons regarding whether the need for a guardianship continues to exist.
+21 The court, at its discretion, may appoint a guardian ad litem in accordance with section
+22 27-20.1-08, before the hearing. The court shall hold a hearing on whether the
+23 guardianship should continue. Following the hearing and consideration of submitted
+24 information, the court may:
+25 a. Terminate the guardianship if shown by clear and convincing evidence that the
+26 circumstances that led to the guardianship no longer exist;
+27 b. Reappoint the guardian for up to three years; or
+28 c. Appoint a new guardian.
+29 The court may extend a guardianship up to ninety days past the expiration of the initial
+30 order, for good cause shown, if the hearing cannot be held before the expiration of the
+Page No. 3 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 order. If the court extends an initial order for guardianship, new letters of guardianship
+2 must be issued reflecting the extended expiration date.
+3 SECTION 4. AMENDMENT. Section 30.1-01-06 of the North Dakota Century Code is
+4 amended and reenacted as follows:
+5 30.1-01-06. (1-201) General definitions.
+6 Subject to additional definitions contained in the subsequent chapters which are applicable
+7 to specific chapters, and unless the context otherwise requires, in this title:
+8 1. "Agent" includes an attorney-in-fact under a durable or nondurable power of attorney,
+9 an individual authorized to make decisions concerning another's health care, and an
+10 individual authorized to make decisions for another under a natural death act.
+11 2. "Alternative resource plan" means an alternative plan to guardianship which uses
+12 available support services and arrangements acceptable to the alleged incapacitated
+13 person. The term includes the use of support services such as visiting nurses,
+14 homemakers, home health aides, personal care attendants, adult day care, home and
+15 community-based care, human service zones, developmental disability services,
+16 powers of attorney, durable powers of attorney, health care directives, supported
+17 decisionmaking, representative and protective payees, and licensed congregate care
+18 facilities.
+19 3. "Application" means a written request to the court for an order of informal probate or
+20 appointment under chapter 30.1-14.
+21 3.4. "Augmented estate" means the estate described in section 30.1-05-02.
+22 4.5. "Beneficiary", as it relates to a trust beneficiary, includes a person who has any
+23 present or future interest, vested or contingent, and also includes the owner of an
+24 interest by assignment or other transfer; as it relates to a charitable trust, includes any
+25 person entitled to enforce the trust; as it relates to a beneficiary of a beneficiary
+26 designation, refers to a beneficiary of an account with a payable on death designation,
+27 of a security registered in beneficiary form transferable on death, or other nonprobate
+28 transfer at death; and, as it relates to a "beneficiary designated in a governing
+29 instrument", includes a grantee of a deed, a devisee, a trust beneficiary, a beneficiary
+30 of a beneficiary designation, a donee, or a person in whose favor a power of attorney
+31 or a power held in any individual, fiduciary, or representative capacity is exercised.
+Page No. 4 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 5.6. "Beneficiary designation" refers to a governing instrument naming a beneficiary of an
+2 account with payable on death designation, of a security registered in beneficiary form
+3 transferable on death, or other nonprobate transfer at death.
+4 6.7. "Child" includes an individual entitled to take as a child under this title by intestate
+5 succession from the parent whose relationship is involved and excludes a person who
+6 is only a stepchild, a foster child, a grandchild, or any more remote descendant.
+7 7.8. "Claims", in respect to estates of decedents and protected persons, includes liabilities
+8 of the decedent or protected person whether arising in contract, in tort, or otherwise,
+9 and liabilities of the estate which arise at or after the death of the decedent or after the
+10 appointment of a conservator, including funeral expenses and expenses of
+11 administration. The term does not include estate or inheritance taxes or demands or
+12 disputes regarding title of a decedent or protected person to specific assets alleged to
+13 be included in the estate.
+14 8.9. "Conservator" means a person who is appointed by a court to manage the estate of a
+15 protected person, and includes limited conservators as defined in this section.
+16 9.10. "Court" means the court having jurisdiction in matters relating to the affairs of
+17 decedents.
+18 10.11. "Descendant" of an individual means all descendants of all generations, with the
+19 relationship of parent and child at each generation being determined by the definition
+20 of child and parent contained in this title.
+21 11.12. "Devise", when used as a noun, means a testamentary disposition of real or personal
+22 property, and when used as a verb, means to dispose of real or personal property by
+23 will.
+24 12.13. "Devisee" means a person designated in a will to receive a devise. In the case of a
+25 devise to an existing trust or trustee, or to a trustee or trust described by will, the trust
+26 or trustee is the devisee and the beneficiaries are not devisees.
+27 13.14. "Disability" means cause for a protective order as described in section 30.1-29-01.
+28 14.15. "Distributee" means any person who has received property of a decedent from the
+29 decedent's personal representative other than as a creditor or purchaser. A
+30 testamentary trustee is a distributee only to the extent of distributed assets or
+31 increment thereto remaining in the trustee's hands. A beneficiary of a testamentary
+Page No. 5 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 trust to whom the trustee has distributed property received from a personal
+2 representative is a distributee of the personal representative. For the purposes of this
+3 provision, "testamentary trustee" includes a trustee to whom assets are transferred by
+4 will to the extent of the devised assets.
+5 15.16. "Estate" includes the property of the decedent, trust, or other person whose affairs are
+6 subject to this title as originally constituted and as it exists from time to time during
+7 administration.
+8 16.17. "Exempt property" means that property of a decedent's estate which is described in
+9 section 30.1-07-01.
+10 17.18. "Expert examiner" means:
+11 a. A licensed physician;
+12 b. A psychiatrist;
+13 c. A licensed psychologist trained in a clinical program;
+14 d. An advanced practice registered nurse who is licensed under chapter 43-12.1
+15 within the role of a certified nurse practitioner or certified clinical nurse specialist,
+16 who has completed the requirements for a minimum of a master's degree from an
+17 accredited program, and who is functioning within the scope of practice in one of
+18 the population foci as approved by the state board of nursing; or
+19 e. A physician assistant who is licensed under chapter 43-17 and authorized by the
+20 state board of medical examiners to practice in this state.
+21 18.19. "Fiduciary" includes a personal representative, guardian, conservator, and trustee.
+22 19.20. "Foreign personal representative" means a personal representative appointed by
+23 another jurisdiction.
+24 20.21. "Formal proceedings" means proceedings conducted before a judge with notice to
+25 interested persons.
+26 21.22. "Governing instrument" means a deed, will, trust, insurance or annuity policy, account
+27 with payable on death designation, security registered in beneficiary form transferable
+28 on death, pension, profit-sharing, retirement, or similar benefit plan, instrument
+29 creating or exercising a power of appointment or a power of attorney, or a dispositive,
+30 appointive, or nominative instrument of any similar type.
+Page No. 6 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 22.23. "Guardian" means a person who or nonprofit corporation that has qualified as a
+2 guardian of a minor or incapacitated person pursuant to testamentary or court
+3 appointment, and includes limited guardians as defined in this section, but excludes
+4 one who is merely a guardian ad litem.
+5 23.24. "Heirs", except as controlled by section 30.1-09.1-11, means persons, including the
+6 surviving spouse and the state, who are entitled under the statutes of intestate
+7 succession to the property of a decedent.
+8 24.25. "Incapacitated person" means an individual described in section 30.1-26-01any adult
+9 individual who is impaired by reason of mental illness, mental deficiency, physical
+10 illness or disability, or chemical dependency to the extent that the individual lacks
+11 capacity to make or communicate responsible decisions concerning the individual's
+12 matters of residence, education, medical treatment, legal affairs, vocation, finance, or
+13 other matters, or if the incapacity endangers the individual's health or safety.
+14 25.26. "Informal proceedings" means those conducted by the court for probate of a will or
+15 appointment of a personal representative without notice to interested persons.
+16 26.27. "Interested person" includes heirs,:
+17 a. Except as provided under section b :
+18 (1) Heirs and devisees, children, spouses, creditors, beneficiaries, and any
+19 others ;
+20 (2) Children;
+21 (3) Spouses:
+22 (4) Creditors;
+23 (5) Beneficiaries;
+24 (6) Any individual having a property right in or claim against a trust estate or the
+25 estate of a decedent, ward, or protected person. The term also includes
+26 persons;
+27 (7) Person having priority for appointment as personal representative; and other
+28 (8) Other fiduciaries representing interested persons.
+29 b. For purposes of guardianships and conservatorships:
+30 (1) The petitioner for appointment of the guardian;
+Page No. 7 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 (2) The spouse, parent, adult children, or siblings of the ward, protected person,
+2 or an adult relative if a spouse, parent, adult child, sibling, or protected
+3 person cannot be found;
+4 (3) An adult individual who has lived with a ward or a protected person for a
+5 period of more than six months;
+6 (4) An attorney for the ward or protected person;
+7 (5) A representative payee for the ward or protected person; and
+8 (6) Any other person designated by the court.
+9 The meaning as it relates to particular persons may vary from time to time and must
+10 be determined according to the particular purposes of, and matter involved in, any
+11 proceeding.
+12 27.28. "Issue" of a personan individual means descendant as defined in subsection 1011.
+13 28.29. "Joint tenants with the right of survivorship" and "community property with the right of
+14 survivorship" includes co-owners of property held under circumstances that entitle one
+15 or more to the whole of the property on the death of the other or others, but excludes
+16 forms of co-ownership registration in which the underlying ownership of each party is
+17 in proportion to that party's contribution.
+18 29.30. "Lease" includes an oil, gas, or other mineral lease.
+19 30.31. "Least restrictive form of intervention" includes only the limitations necessary to
+20 provide the needed care and services for a guardianship, and the ward must enjoy the
+21 greatest amount of personal freedom and civil liberties consistent with the ward's
+22 mental and physical limitations.
+23 32. "Letters" includes letters testamentary, letters of guardianship, letters of administration,
+24 and letters of conservatorship.
+25 31.33. "Limited conservator" means a person or nonprofit corporation, appointed by the court,
+26 to manage only those financial resources specifically enumerated by the court for the
+27 person with limited capacity and includes limited conservators as described by section
+28 30.1-29-20.
+29 32. "Limited guardian" means a person or nonprofit corporation, appointed by the court, to
+30 supervise certain specified aspects of the care of a person with limited capacity and
+31 includes limited guardians as described by section 30.1-28-04.
+Page No. 8 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 33.34. "Minor" means a person who is under eighteen years of age.
+2 34.35. "Mortgage" means any conveyance, agreement, or arrangement in which property is
+3 encumbered or used as security.
+4 35.36. "Nonresident decedent" means a decedent who was domiciled in another jurisdiction
+5 at the time of death.
+6 36.37. "Organization" means a corporation, limited liability company, government or
+7 governmental subdivision or agency, business trust, estate, trust, partnership, joint
+8 venture, association, or any other legal or commercial entity.
+9 37.38. "Parent" includes any personindividual entitled to take, or who would be entitled to
+10 take if the child died without a will, as a parent under this title, by intestate succession
+11 from the child whose relationship is in question and excludes any person who is only a
+12 stepparent, foster parent, or grandparent.
+13 38.39. "Payer" means a trustee, insurer, business entity, employer, government,
+14 governmental agency or subdivision, or any other person authorized or obligated by
+15 law or a governing instrument to make payments.
+16 39.40. "Person" means an individual, a corporation, a limited liability company, an
+17 organization, or other legal entity.
+18 40. "Person with limited capacity" is as defined in section 30.1-26-01.
+19 41. "Personal representative" includes executor, administrator, successor personal
+20 representative, special administrator, and persons who perform substantially the same
+21 function under the law governing their status. "General personal representative"
+22 excludes special administrator.
+23 42. "Petition" means a written request to the court for an order after notice.
+24 43. "Proceeding" includes action at law and suit in equity.
+25 44. "Property" includes both real and personal property or any interest therein and means
+26 anything that may be the subject of ownership.
+27 45. "Protected person" is as defined in section 30.1-26-01means a minor or other
+28 individual for whom a conservator or limited conservator has been appointed, or other
+29 protective order has been made.
+30 46. "Protective proceeding" means a proceeding described in section 30.1-26-01under
+31 section 30.1 - 29 - 01 to determine that an individual cannot effectively manage or apply
+Page No. 9 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 the individual's estate to necessary ends, either because the individual lacks the ability
+2 or is otherwise inconvenienced, or because the individual is a minor, and to secure
+3 administration of the individual's estate by a conservator or other appropriate relief.
+4 47. "Record" means information that is inscribed on a tangible medium or that is stored in
+5 an electronic or other medium and is retrievable in perceivable form.
+6 48. "Refusal" means declining to accept prescribed mood stabilizer or antipsychotic
+7 medication by a clear and unequivocal response.
+8 49. "Security" includes any note, stock, treasury stock, bond, debenture, membership
+9 interest in a limited liability company, evidence of indebtedness, certificate of interest
+10 or participation in an oil, gas, or mining title or lease or in payments out of production
+11 under such a title or lease, collateral trust certificate, transferable share, voting trust
+12 certificate or, in general, any interest or instrument commonly known as a security, or
+13 any certificate of interest or participation, any temporary or interim certificate, receipt,
+14 or certificate of deposit for, or any warrant or right to subscribe to or purchase, any of
+15 the foregoing.
+16 49.50. "Settlement", in reference to a decedent's estate, includes the full process of
+17 administration, distribution, and closing.
+18 50.51. "Sign" means, with present intent to authenticate or adopt a record other than a will, to
+19 execute or adopt a tangible symbol or to attach to or logically associate with the record
+20 an electronic symbol, sound, or process.
+21 51.52. "Special administrator" means a personal representative as described by sections
+22 30.1-17-14 through 30.1-17-18.
+23 52.53. "State" means a state of the United States, the District of Columbia, the
+24 Commonwealth of Puerto Rico, or any territory or insular possession subject to the
+25 jurisdiction of the United States.
+26 53.54. "Successor personal representative" means a personal representative, other than a
+27 special administrator, who is appointed to succeed a previously appointed personal
+28 representative.
+29 54.55. "Successors" means persons, other than creditors, who are entitled to property of a
+30 decedent under the decedent's will or this title.
+31 55.56. "Supervised administration" refers to the proceedings described in chapter 30.1-16.
+Page No. 10 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 56.57. "Survive" means that an individual has neither predeceased an event, including the
+2 death of another individual, nor predeceased an event under sections 30.1-04-04 and
+3 30.1-09.1-02. The term includes its derivatives, such as "survives", "survived",
+4 "survivor", and "surviving".
+5 57.58. "Testacy proceeding" means a proceeding to establish a will or determine intestacy.
+6 58.59. "Trust" includes an express trust, private or charitable, with additions thereto,
+7 wherever and however created. The term also includes a trust created or determined
+8 by judgment or decree under which the trust is to be administered in the manner of an
+9 express trust. The term excludes other constructive trusts and excludes resulting
+10 trusts, conservatorships, personal representatives, trust accounts as defined in
+11 custodial arrangements pursuant to chapter 11-22, chapter 12-48, sections 25-01.1-19
+12 to 25-01.1-21, chapter 32-10, section 32-16-37, chapter 32-26, former chapter 47-24,
+13 chapter 47-24.1, business trusts providing for certificates to be issued to beneficiaries,
+14 common trust funds, voting trusts, security arrangements, liquidation trusts, and trusts
+15 for the primary purpose of paying debts, dividends, interest, salaries, wages, profits,
+16 pensions, or employee benefits of any kind, and any arrangement under which a
+17 person is nominee or escrowee for another.
+18 59.60. "Trustee" includes an original, additional, or successor trustee, whether or not
+19 appointed or confirmed by court.
+20 60.61. "Visitor" means an individual, in guardianship proceedings, who is trained in nursing,
+21 social work, medical care, mental health care, or rehabilitation and is an employee or
+22 special appointee of the court with no personal interest in the proceedings.
+23 61.62. "Ward" means an individual described in section 30.1-26-01for whom a guardian has
+24 been appointed. A "minor ward" is a minor for whom a guardian has been appointed
+25 solely because of minority.
+26 62.63. "Will" includes codicil and any testamentary instrument that merely appoints an
+27 executor, revokes or revises another will, nominates a guardian, or expressly excludes
+28 or limits the right of an individual or class to succeed to property of the decedent
+29 passing by intestate succession.
+30 SECTION 5. AMENDMENT. Section 30.1-28-03.1 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 11 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 30.1-28-03.1. Confidentiality - Reports - Personal information.
+2 1. A written report prepared and submitted under subsection 5 or 6 of section 30.1-28-03
+3 isby a guardian ad litem, visitor, or expert examiner and annual and final reports and
+4 financial accounting prepared and submitted by a guardian are closed to the public
+5 and isare not open to inspection except by the court, parties to the proceeding or their
+6 counsel, other persons for those purposes as the court may order for good cause, and
+7 others authorized by court rule.
+8 2. Medical, psychological, or other treatment information protected by federal law or
+9 regulation and any financial account numbers related to a ward or proposed ward are
+10 confidential and may not be disclosed except to parties to the proceeding, their
+11 counsel, and others authorized by court rule. The court may permit access by other
+12 persons for good cause.
+13 SECTION 6. AMENDMENT. Subsection 3 of section 30.1-28-03.2 of the North Dakota
+14 Century Code is amended and reenacted as follows:
+15 3. The motion must be served upon the ward, the ward's spouse, and all interested
+16 persons those identified in section 12 of this Ac t.
+17 SECTION 7. AMENDMENT. Section 30.1-28-04 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 30.1-28-04. (5-304) Findings - Order of appointment.
+20 1. The court shall exercise the authority conferred in this chapter consistent with the
+21 maximum self-reliance and independence of the incapacitated person and make
+22 appointive and other orders only to the extent necessitated by the incapacitated
+23 person's actual mental and adaptive limitations or other conditions warranting the
+24 procedure.
+25 2. At a hearing held under this chapter, the court shall:
+26 a. Hear evidence that the proposed ward is an incapacitated person. Age,
+27 eccentricity, poverty, or medical diagnosis alone is not sufficient to justify a finding
+28 of incapacity;
+29 b. Hear evidence and determine whether there are any existing general durable
+30 powers of attorney and durable powers of attorney for health care. If there are
+31 validly executed durable powers of attorney, the court shall consider the
+Page No. 12 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 appointed attorneys in fact and agents appointed thereunder when assessing
+2 alternative resource plans and the need for a guardian; and
+3 c. Appoint a guardian and confer specific powers of guardianship only after finding
+4 in the record based on clear and convincing evidence that:
+5 (1) The proposed ward is an incapacitated person;
+6 (2) There is no available alternative resource plan that is suitable to safeguard
+7 the proposed ward's health, safety, or habilitation which could be used
+8 instead of a guardianship;
+9 (3) The guardianship is necessary as the best means of providing care,
+10 supervision, or habilitation of the ward; and
+11 (4) The powers and duties conferred upon the guardian are appropriate as the
+12 least restrictive form of intervention consistent with the ability of the ward for
+13 self-care.
+14 3. Except upon specific findings of the court, a ward may not be deprived of any of the
+15 following legal rights: to vote, to seek to change marital status, or to obtain or retain a
+16 motor vehicle operator's license.
+17 4. The court may find that the ward retains other specific rights.
+18 5. The order appointing a guardian confers upon the guardian only those powers and
+19 duties specified in the order. In addition to any other powers conferred upon the
+20 guardian, the court's order must state whether the guardian has no authority, general
+21 authority, or limited authority to make decisions on behalf of the ward in each of the
+22 areas of residential, educational, medical, legal, vocational, and financial
+23 decisionmaking. A grant of limited authority must specify the limitations upon the
+24 authority of the guardian or the authority retained by the ward. The court's order must
+25 require the guardian to provide within ninety days from the date of the order a
+26 beginning inventory of all assets owned by the ward or in which the ward has an
+27 interest. The guardian shall provide a copy of the beginning inventory to the ward and
+28 any interested persons designated by the court in its orderthose identified in
+29 section 12 of this Ac t. Unless terminated earlier by the court, an order appointing or
+30 reappointing a guardian under this section is effective for up to five years. At least
+31 ninety days before the expiration of the initial order of appointment or any following
+Page No. 13 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 order of reappointment, the court shall request and consider information submitted by
+2 the guardian, ward, ward's attorney, if any, and any interested persons regarding
+3 whether the need for a guardian continues to exist. If it is recommended that the
+4 guardianship continue, the court may appoint a guardian ad litem or, visitor, or bothall,
+5 in accordance with section 30.1-28-03. The court shall hold a hearing on whether the
+6 guardianship should continue. Following the hearing and consideration of submitted
+7 information, the court may reappoint the guardian for up to another five years, allow
+8 the existing order to expire, or appoint a new guardian in accordance with this section.
+9 If a review hearing cannot be held before the expiration of an initial order for
+10 guardianship, the court may extend the initial order for up to an additional ninety days
+11 upon good cause shown. New letters of guardianship must be issued reflecting the
+12 extended expiration date. The supreme court, by rule or order, shall provide for the
+13 regular review of guardianship in existence on August 1, 2015.
+14 6. Unless a court of competent jurisdiction determines otherwise, a durable power of
+15 attorney for health care executed pursuant to chapter 23-06.5 takes precedence over
+16 any authority to make medical decisions granted to a guardian pursuant to chapter
+17 30.1-28.
+18 7. The court may require a guardian to furnish a bond in the amount and with sureties as
+19 the court specifies.
+20 8. After the hearing, the guardian ad litem, visitor, and expert examiner must be
+21 discharged of the person'stheir duties as guardian ad litem.
+22 SECTION 8. AMENDMENT. Subsection 1 of section 30.1-28-05 of the North Dakota
+23 Century Code is amended and reenacted as follows:
+24 1. By accepting appointment, a guardian submits personally to the jurisdiction of the
+25 court in any proceeding relating to the guardianship that may be instituted by any
+26 interested person. Notice of any proceeding so instituted must be served upon the
+27 guardian by the petitioner.
+28 SECTION 9. AMENDMENT. Section 30.1-28-07 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 14 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 30.1-28-07. (5-307) Removal or resignation of guardian - Change in or termination of
+2 guardianship.
+3 1. On petition of the ward or any person interested in the ward's welfare, the court may
+4 remove a guardian and appoint a successor if in the best interests of the ward. On
+5 petition of the guardian, the court may accept the guardian's resignation and make any
+6 other order which may be appropriate.
+7 2. The ward or any person interested in the ward's welfare may petition for an order that
+8 the ward is no longer incapacitated or no longer incapacitated to the same extent as
+9 the ward was when the original guardianship order was made or last reviewed by the
+10 court, or that the duties and authority of the guardian require modification, and for
+11 removal or resignation of the guardian, termination of the guardianship, or change in
+12 the duties and authority of the guardian. A request for this order may be made by
+13 informal letter to the court or judge. The clerk of district court shall send a copy of the
+14 informal request to the parties and those identified in section 12 of this Act . Any person
+15 who knowingly interferes with transmission of this kind of request to the court or judge
+16 may be adjudged guilty of contempt of court.
+17 3.2. Before removing a guardian, changing the guardian's duties and authority, accepting
+18 the resignation of a guardian, or on finding that the ward is no longer incapacitated, or
+19 no longer incapacitated to the same extent and ordering the guardianship terminated
+20 or modified, the court, following the same procedures to safeguard the rights of the
+21 ward as apply to a petition for appointment of a guardian, may send a visitor to the
+22 place where the ward resides or is detained, to observe conditions and report in
+23 writing to the court.
+24 4.3. A hearing must be held no later than sixty days following the filing of the petition or
+25 informal request, unless good cause is shown. Following the hearing, the court shall
+26 make written findings of fact. Before terminating or modifying the guardianship, the
+27 court shall find by a preponderance of the evidence that the ward is no longer
+28 incapacitated, no longer incapacitated to the same extent as the ward was when the
+29 original guardianship order was made or last reviewed by the court, or that it is in the
+30 best interests of the ward that the duties and authority of the guardian be modified.
+Page No. 15 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 New letters of guardianship must be issued to the guardian in the same manner as
+2 provided in section 30.1-28-05.
+3 5.4. In deciding whether to terminate or modify a guardianship, the court may require a
+4 report by and consider the recommendations of an expert examiner.
+5 6. If the guardian dies, or if on the basis of a petition filed under this section or a report or
+6 other information, there is probable cause to believe a guardian is not performing the
+7 guardian's duties effectively and there is an imminent danger the ward's physical,
+8 mental, or emotional health or safety will be seriously impaired, the court shall take
+9 whatever action is necessary to protect the ward, including dismissal of the guardian
+10 and appointment of an emergency guardian as provided in section 30.1-28-10.1.
+11 7.5. On termination of the guardianship, a guardian shall file a final report and accounting
+12 and provide a copy of the report and accounting to those given notice under section
+13 30.1-28-0912 of this Act. The report and accounting must be filed with the clerk of
+14 district court. The filing of the report and accounting does not constitute the court's
+15 approval of the report and accounting. The court may approve a report and settle and
+16 allow an accounting only upon notice to the ward and other interested persons who
+17 have made an appearance or requested notice of the proceedingsto those identified in
+18 section 12 of this Ac t.
+19 SECTION 10. A new section to chapter 30.1-28 of the North Dakota Century Code is
+20 created and enacted as follows:
+21 Removal, resignation, or death of guardian - Appointment of successor guardian.
+22 1. The court may remove a guardian on its own motion or on petition of the ward or any
+23 interested person if removal is in the best interests of the ward. A request for this order
+24 may be made by informal letter to the court or judge. The clerk of district court shall
+25 send a copy of the informal request to the parties and those identified in section 12 o f
+26 this Act. Any person that knowingly interferes with the transmission of a request under
+27 this section may be adjudged guilty of contempt of court.
+28 2. The court may accept the resignation of a guardian upon petition by the guardian.
+29 3. Upon the death of a guardian, the personal representative of the guardian shall submit
+30 a final report and accounting to the court. Upon removal or resignation of the guardian,
+31 the guardian shall submit a final report and accounting to the court. The report and
+Page No. 16 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 accounting must be filed with the clerk of district court. The filing of the report and
+2 accounting does not constitute the court's approval of the report and accounting. The
+3 court may approve a report and settle and allow an accounting only upon notice to
+4 those identified in section 12 of this Act .
+5 4. A hearing must be held no later than sixty days following the filing of the petition or
+6 informal request, unless good cause is shown. Following the hearing, the court shall
+7 make written findings of fact and conclusions of law.
+8 5. Upon the removal, resignation, or death of a guardian, the court, upon the court's own
+9 motion or upon a motion filed by any interested person, may appoint a successor
+10 guardian or make any other appropriate order.
+11 6. A notice of motion must accompany the motion for appointment of successor guardian
+12 and must include a statement that provides an opportunity for hearing if requested in
+13 regard to the appointment of a successor guardian. The notice of motion and motion
+14 must be served on those identified in section 12 of this Act .
+15 7. If a hearing is not requested by or on behalf of the ward listed in the notice, the court
+16 may sign an order appointing a successor guardian for that ward.
+17 SECTION 11. AMENDMENT. Subsection 1 of section 30.1-28-09 of the North Dakota
+18 Century Code is amended and reenacted as follows:
+19 1. In a proceeding for the appointment or removal of a guardian or for an alteration or
+20 termination of a guardianship other thanand, if notice is required, for the appointment
+21 of an emergency guardian or for the temporary suspension of a guardian, notice of
+22 hearing shall be given by the petitioning party, unless otherwise directed by the court,
+23 to each of the following:
+24 a. The ward or the proposed ward and the ward's or proposed ward's spouse,
+25 parents, and adult children;
+26 b. Any person, corporation, or institution who is serving as the ward's guardian,
+27 attorney in fact, representative payee for public benefits, or conservator, or who
+28 has the ward's care and custody;
+29 c. If no other person is notified under subdivision a, then the adult siblings and any
+30 adult with whom the proposed ward resides in a private residence, or if none can
+31 be found, any known adult relative; and
+Page No. 17 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 d. The attorney for the proposed ward, the visitor, and the expert examiner, together
+2 with a copy of the respective order of appointment for each.
+3 SECTION 12. A new section to chapter 30.1-28 of the North Dakota Century Code is
+4 created and enacted as follows:
+5 Notices in guardianship proceedings subsequent to appointment.
+6 Notice in a guardianship proceeding subsequent to appointment of a guardian must be
+7 given to the parties, the conservator, if any, the ward, and any interested persons designated in
+8 the order of the court.
+9 SECTION 13. AMENDMENT. Section 30.1-28-10.1 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 30.1-28-10.1. Emergency guardian.
+12 1. On petition by a person interested in the alleged incapacitated individual's welfare, the
+13 court may appoint an emergency guardian if the court finds that compliance with the
+14 procedures of this chapter likely will result in substantial harm to the alleged
+15 incapacitated individual's health, safety, or welfare, and that no other person appears
+16 to have authority and willingness to act in the circumstances. The court may appoint
+17 the guardian for a specified period of time, not to exceed ninety days. Immediately
+18 upon receipt of the petition for an emergency guardianship, the court shall appoint a
+19 guardian ad litem to advocate for the best interests of the alleged incapacitated
+20 individual in the proceeding and any subsequent proceeding. Except as otherwise
+21 provided in subsection 2, reasonable notice of the time and place of a hearing on the
+22 petition must be given to the alleged incapacitated individual, the individual's spouse, if
+23 any, and any other person as the court directsThe court shall hold a hearing within
+24 ten days of the filing of the petition to determine if appointment of an emergency
+25 guardian is appropriate.
+26 2. An emergency guardian may be appointed without notice to the alleged incapacitated
+27 individual and the alleged incapacitated individual's guardian ad litem only if the court
+28 finds from affidavit or other sworn testimony that the alleged incapacitated individual
+29 will be substantially harmed before a hearing on the appointment can be held. If the
+30 court appoints an emergency guardian without notice to the alleged incapacitated
+31 individual, the alleged incapacitated individual and the individual's spouse, if any, and
+Page No. 18 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 any other person the court directs must be given notice of the appointment within forty-
+2 eight hours after the appointment. The court shall hold a hearing on the
+3 appropriateness of the appointment within ten days after the appointment.
+4 3. If a conservator has not been appointed for the alleged incapacitated individual and
+5 the emergency guardian has authority for financial decisionmaking, the court's order of
+6 appointment must state that the guardian shall safeguard any assets held by the
+7 alleged incapacitated individual and, during the period of appointment and subject to
+8 any further order of the court, may expend the individual's assets only for the
+9 necessary support and care of the individual.
+10 4. Appointment of an emergency guardian, with or without notice, is not a determination
+11 of the alleged incapacitated individual's incapacity.
+12 5. The court may remove an emergency guardian at any time. An emergency guardian
+13 shall make any report the court requires. In all other respects, the provisions of this
+14 chapter concerning guardians apply to an emergency guardian.
+15 6. The petitioner may request the court extend the emergency order for up to an
+16 additional ninety days upon good cause shown. The request must be filed with the
+17 court at least fourteen days before the expiration of the emergency order and served
+18 on the alleged incapacitated individual, the individual's spouse, if any, and any other
+19 persons as the court directs. The court shall hold a hearing on the appropriateness of
+20 the extension within ten days of the request. No additional extensions of the
+21 emergency guardianship may be granted.
+22 SECTION 14. AMENDMENT. Section 30.1-28-12 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 30.1-28-12. (5-312) General powers and duties of guardian.
+25 1. A guardian of an incapacitated person has only the powers and duties specified by the
+26 court.
+27 2. To the extent that it is consistent with the terms of an order by a court of competent
+28 jurisdiction, the guardian is entitled to custody of the person of the ward and may
+29 establish the ward's place of residence within or without this state. However, no
+30 guardian may voluntarily admit a ward to a mental health facility or state institution for
+31 a period of more than forty-five days without a mental health commitment proceeding
+Page No. 19 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 or other court order. Notwithstanding the other provisions of this subsection, the
+2 guardian may readmit a ward to a mental health facility or a state institution within sixty
+3 days of discharge from that institution, if the original admission to the facility or
+4 institution had been authorized by the court.
+5 3. If entitled to custody of the ward, the guardian should make provision for the care,
+6 comfort, and maintenance of the ward and, whenever appropriate, arrange for the
+7 ward's training, education, or habilitative services. The guardian shall take reasonable
+8 care of the ward's clothing, furniture, vehicles, and personal effects.
+9 4. Notwithstanding general or limited authority to make medical decisions on behalf of
+10 the ward, no guardian may consent to psychosurgery, abortion, sterilization, or
+11 experimental treatment of any kind unless the procedure is first approved by order of
+12 the court.
+13 5. When exercising the authority granted by the court, the guardian shall safeguard the
+14 civil rights and personal autonomy of the ward to the fullest extent possible by:
+15 a. Meeting with the ward following the hearing, unless the ward is represented by
+16 an attorney, and explaining to the fullest extent possible the contents of the
+17 court's order and the extent of the guardian's authority;
+18 b. Involving the ward as fully as is practicable in making decisions with respect to
+19 the ward's living arrangements, health care, and other aspects of the ward's care;
+20 and
+21 c. Ensuring the ward's maximum personal freedom by using the least restrictive
+22 forms of intervention and only as necessary for the safety of the ward or others.
+23 6. If no conservator for the estate of the ward has been appointed and if the guardian
+24 has been granted authority to make financial decisions on behalf of the ward, the
+25 guardian shall:
+26 a. Institute proceedings to compel any person under a duty to support the ward or to
+27 pay sums for the welfare of the ward to perform that duty.
+28 b. Receive money and tangible property deliverable to the ward and apply the
+29 money and property for support, care, and education of the ward; but, the
+30 guardian may not use funds from the ward's estate for room and board which the
+31 guardian or the guardian's spouse, parent, or child have furnished the ward
+Page No. 20 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 unless a charge for the service is approved by order of the court made upon
+2 notice to at least one of the next of kin of the ward, if notice is possiblethose
+3 identified in section 12 of this Ac t. The guardian shall exercise care to conserve
+4 any excess for the ward's needs.
+5 c. Move the court under section 30.1-28-03.2 for authority to sell, mortgage, or
+6 otherwise encumber or transfer ownership or beneficiary of:
+7 (1) The real property of the ward; or
+8 (2) The personal property of the ward valued over two thousand five hundred
+9 dollars upon such terms as the court may order, for the purpose of paying
+10 the ward's debts; providing for the care, maintenance, rehabilitation,
+11 training, or education of the ward or the ward's dependents; or for any other
+12 purpose which is in the best interests of the ward. The sale, mortgage, or
+13 other encumbrance or transfer of ownership of personal property of the
+14 ward valued at two thousand five hundred dollars or less does not require a
+15 court order.
+16 d. Move the court under section 30.1-28-03.2 for authority to lease the real or
+17 personal property of the ward.
+18 e. A guardian may not purchase, lease, or obtain ownership or become the
+19 beneficiary of property of the ward unless the price and manner of the sale are
+20 approved by the court.
+21 7. If a conservator has been appointed, all of the ward's estate received by the guardian
+22 in excess of those funds expended to meet current expenses for support, care, and
+23 education of the ward must be paid to the conservator for management as provided in
+24 this title, and the guardian must account to the conservator for funds expended.
+25 8. A guardian shall file an annual report with the court regarding the exercise of powers
+26 and duties in areas of authority specified in the court's order of appointment. The
+27 report must describe the status or condition of the ward, including any change of
+28 residence and reasons for the change, any medical treatment received by or withheld
+29 from the ward, any expenditure and income affecting the ward, any sale or transfer of
+30 property affecting the ward, and any exercise of legal authority by the guardian
+31 affecting the ward. The report must include changes that have occurred since the
+Page No. 21 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 previous reporting period and an accounting of the ward's estate. The guardian also
+2 shall report whether the ward continues to require guardianship and whether any
+3 powers of the guardian should be increased or limited. The report must be filed with
+4 the clerk of district court. The filing of the report does not constitute an adjudication or
+5 a determination of the merits of the report nor does the filing of the report constitute
+6 the court's approval of the report. The court may approve a report and allow and settle
+7 an accounting only upon notice to the ward's guardian ad litem and other interested
+8 persons who have made an appearance or requested notice of proceedings. The
+9 office of the state court administrator shall provide printed forms that may be used to
+10 fulfill reporting requirements. Any report must be similar in substance to the state court
+11 administrator's form. The forms must be available in the office of clerk of district court
+12 or obtainable through the supreme court's internet website.
+13 9. Copies of the guardian's annual report to the court and of any other reports required
+14 by the court must be mailed to the ward and any interested persons designated by the
+15 court in its order those identified in section 12 of this Ac t. The ward's copy must be
+16 accompanied by a statement, printed with not less than double-spaced twelve-point
+17 type, of the ward's right to seek alteration, limitation, or termination of the guardianship
+18 at any time.
+19 10. The guardian is entitled to receive reasonable sums for services and for room and
+20 board furnished to the ward as approved by the court or as agreed upon between the
+21 guardian and the conservator, provided the amounts agreed upon are reasonable
+22 under the circumstances. The guardian may request the conservator to expend the
+23 ward's estate by payment to third persons or institutions for the ward's care and
+24 maintenance.
+25 11. A guardian has a fiduciary duty to the ward and may be held liable for a breach of that
+26 duty.
+27 12. A guardian is not liable for the acts of the ward, unless the guardian is grossly
+28 negligent as defined in section 1 - 01 - 17 .
+29 13. A guardian is not required to expend personal funds on behalf of the ward solely by
+30 reason of the guardian relationship.
+Page No. 22 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 15. AMENDMENT. Section 30.1-28-12.1 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 30.1-28-12.1. Annual reports and accounts - Failure of guardian to file.
+4 If a guardian fails to file an annual report as required by section 30.1-28-12, fails to file a
+5 report at other times as the court may direct, or fails to provide an accounting of an estate, the
+6 court, upon its own motion or upon petition of any interested partyperson, may issue an order
+7 compelling the guardian to show cause why the guardian should not immediately make and file
+8 the report or account, or be found in contempt for failure to comply.
+9 SECTION 16. AMENDMENT. Section 30.1-28-12.2 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 30.1-28-12.2. Restrictions on visitation, communication, and interaction with the
+12 ward - Removal of restriction.
+13 1. If it is in the best interests of the ward, a guardian may restrict visitation,
+14 communication, and interaction with the ward.
+15 2. A family member, friend, the ward, clergy member, attorney, agency charged with the
+16 protection of vulnerable adults, or other interested person may move the court to
+17 remove the restriction on visitation, communication, and interaction with the ward.
+18 3. The motion must state:
+19 a. The movant's relationship to the ward;
+20 b. Whether the guardian is unreasonably or arbitrarily denying or restricting
+21 visitation, communication, or interaction between the restricted party and the
+22 ward; and
+23 c. The facts supporting the movant's allegation that the guardian is unreasonably or
+24 arbitrarily denying or restricting visitation, communication, or interaction between
+25 the restricted party and the ward.
+26 4. The movant shall serve the motion on the guardian, the ward, the ward's spouse, and
+27 any other interested person those identified in section 12 of this Ac t.
+28 5. The court shall set a hearing on the motion and provide notice of the hearing to the
+29 movant, the guardian, the ward, the ward's spouse, and any other interested person
+30 and those identified in section 12 of this Ac t.
+Page No. 23 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 6. The court shall take into consideration the ward's wishes, and may conduct an
+2 in-camera interview with the ward and appoint a visitor or guardian ad litem.
+3 7. If the court grants the motion for visitation, communication, or interaction, the court
+4 may impose conditions on visitation, communication, and interaction between the
+5 restricted party and the ward.
+6 8. If the visitation, communication, or interaction is not in the best interests of the ward,
+7 the court may prohibit visitation, communication, or interaction between the restricted
+8 party and the ward.
+9 9. The court may award reasonable costs and attorney's fees to the prevailing party if the
+10 court finds:
+11 a. The guardian unreasonably, arbitrarily, or in bad faith denied or restricted
+12 visitation, communication, or interaction between the restricted party and the
+13 ward; or
+14 b. The motion was frivolous.
+15 10. Costs and attorney's fees awarded against the guardian may not be paid from the
+16 ward's estate.
+17 11. If a movant for visitation, communication, and interaction states the ward's health is in
+18 significant decline or the ward's death may be imminent, the court shall conduct an
+19 emergency hearing on the motion as soon as practicable but not later than fourteen
+20 days after the date the motion is filed or at a later date upon a showing of good cause.
+21 SECTION 17. AMENDMENT. Section 30.1-29-05 of the North Dakota Century Code is
+22 amended and reenacted as follows:
+23 30.1-29-05. (5-405) Notice.
+24 1. On a petition for appointment of a conservator or other protective order, the petitioning
+25 party shall cause notice of the proceeding to be served personally on the person to be protected
+26 and the spouse of the person to be protected or, if none, the parents of the person to be
+27 protected, or any guardian or conservator, at least fourteen days before the date of hearing. If
+28 none of these parties can be found, any government agency paying benefits to the person
+29 sought to be protected, if the person seeking the appointment has knowledge of the existence
+30 of these benefits, must be given notice in accordance with section 30.1-03-01.
+Page No. 24 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 2. Notice of a petition for appointment of a conservator or other initial protective order,
+2 and of any subsequent hearing, must be given to any person who has filed a request
+3 for notice under section 30.1-29-06 and to interested persons and other persons as
+4 the court may direct. Except as otherwise provided in subsection 1, notice shall be
+5 given in accordance with section 30.1-03-01.
+6 SECTION 18. A new section to chapter 30.1-29 of the North Dakota Century Code is
+7 created and enacted as follows:
+8 Notices in conservatorship proceedings subsequent to appointment.
+9 Notice in a conservatorship proceeding subsequent to appointment of a conservator must
+10 be given to the parties, the guardian, if any, the individual in need of protection, and any
+11 interested persons designated by the court.
+12 SECTION 19. AMENDMENT. Subsection 6 of section 30.1-29-07 of the North Dakota
+13 Century Code is amended and reenacted as follows:
+14 6. After hearing, upon finding that the appointment of a conservator or other protective
+15 order is appropriate, the court shall make an appointment or other appropriate
+16 protective order. The court, guardian ad litem, petitioner, or person to be protected
+17 may subpoena the individual who prepared and submitted the report to appear, testify,
+18 and be cross-examined. After the hearing, the guardian ad litem and expert examiner
+19 must be discharged of thetheir duties as guardian ad litem.
+20 SECTION 20. A new section to chapter 30.1-29 of the North Dakota Century Code is
+21 created and enacted as follows:
+22 Confidentiality - Reports - Personal information.
+23 1. A written report prepared and submitted by a guardian ad litem or expert examiner and
+24 annual and final reports and financial accounting prepared and submitted by a
+25 conservator are closed to the public and are not open to inspection except by the
+26 court, parties to the proceeding or their counsel, other persons for those purposes as
+27 the court may order for good cause, and others authorized by court rule.
+28 2. Any medical, psychological, or other treatment information protected by federal law or
+29 regulation, and any financial account numbers related to a protected person or
+30 proposed protected person are confidential and may not be disclosed except to parties
+Page No. 25 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 to the proceeding, their counsel, and others authorized by court rule. The court may
+2 permit access by other persons for good cause.
+3 SECTION 21. AMENDMENT. Subsection 2 of section 30.1-29-08 of the North Dakota
+4 Century Code is amended and reenacted as follows:
+5 2. The court has the following powers which may be exercised directly or through a
+6 conservator, subject to section 30.1-29-22, in respect to the estate and affairs of
+7 protected persons:
+8 a. While a petition for appointment of a conservator or other protective order is
+9 pending and after preliminary hearing and without prior notice to others, the court
+10 has power to preserve and apply the property of the person to be protected as
+11 may be required for the benefit of the person to be protected or the benefit of the
+12 dependents of the person to be protected.
+13 b. After hearing and upon determining that a basis for an appointment or other
+14 protective order exists with respect to a minor, the court has all those powers
+15 over the estate and affairs of the minor which are or might be necessary for the
+16 best interests of the minor, the minor's family, and members of the minor's
+17 household.
+18 c. After hearing and upon determining that appointment of a conservator or other
+19 protective order is appropriate with respect to a person for reasons other than
+20 minority, the court has, for the benefit of the person and members of the person's
+21 household, all the powers over the person's estate and affairs which the person
+22 could exercise if present and not under disability, except the power to make a will.
+23 These powers include power to make gifts, to convey or release the person's
+24 contingent and expectant interests in property, including marital property rights
+25 and any right of survivorship incident to joint tenancy, to exercise or release the
+26 person's powers as trustee, personal representative, custodian for minors,
+27 conservator, or donee of a power of appointment, to enter into contracts, to
+28 create revocable or irrevocable trusts of property of the estate which may extend
+29 beyond the person's disability or life, to exercise options of the disabled person to
+30 purchase securities or other property, to exercise the person's rights to elect
+31 options and change beneficiaries under insurance and annuity policies and to
+Page No. 26 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 surrender the policies for their cash value, to exercise the person's right to an
+2 elective share in the estate of the person's deceased spouse, and to renounce
+3 any interest by testate or intestate succession or by inter vivos transfer.
+4 d. The court may exercise or direct the exercise of its authority to exercise or
+5 release powers of appointment of which the protected person is donee, to
+6 renounce interests, to make gifts in trust or otherwise exceeding twenty percent
+7 of any year's income of the estate, or to change beneficiaries under insurance
+8 and annuity policies, only if satisfied, after notice to those identified in section 18
+9 of this Act and hearing, that it is in the best interests of the protected person, and
+10 that the protected person either is incapable of consenting or has consented to
+11 the proposed exercise of power.
+12 e. An order made pursuant to this section determining that appointment of a
+13 conservator or other protective order is appropriate has no effect on the capacity
+14 of the protected person.
+15 SECTION 22. AMENDMENT. Section 30.1-29-13 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 30.1-29-13. (5-413) Acceptance of appointment - Consent to jurisdiction.
+18 By accepting appointment, a conservator submits personally to the jurisdiction of the court
+19 in any proceeding, relating to the estate, that may be instituted by any interested person. Notice
+20 of any proceeding shall be delivered to the conservator, or mailed to the conservator by
+21 registered or certified mail at the conservator's address as listed in the petition for appointment
+22 or as thereafter reported to the court and to the conservator's address as then known to the
+23 petitioner.
+24 SECTION 23. AMENDMENT. Section 30.1-29-18 of the North Dakota Century Code is
+25 amended and reenacted as follows:
+26 30.1-29-18. (5-418) Inventory and records.
+27 Within ninety days after appointment, every conservator shall prepare and file with the
+28 appointing court a complete inventory of the estate of the protected person together with the
+29 conservator's oath or affirmation that it is complete and accurate so far as the conservator is
+30 informed. The conservator shall provide a copy thereof to the protected person if the protected
+31 person can be located, has attained the age of fourteen years, and has sufficient mental
+Page No. 27 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 capacity to understand these matters, and to any guardian, spouse, or parent, if the protected
+2 person is a minor, and to any interested persons designated by the court in its orderto those
+3 identified in section 18 of this Ac t. The conservator shall keep suitable records of the
+4 conservator's administration and exhibit the same on request of any interested person.
+5 SECTION 24. AMENDMENT. Subsection 3 of section 30.1-29-19 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 3. Copies of the conservator's annual report to the court and of any other reports
+8 required by the court must be mailed by the conservator to the protected person and
+9 other parties as required under section 30.1-29-18provided to those identified in
+10 section 18 of this Ac t. The protected person's copy must be accompanied by a
+11 statement, printed with not less than double-spaced twelve-point type, of the protected
+12 person's right to seek alteration, limitation, or termination of the conservatorship at any
+13 time.
+14 SECTION 25. AMENDMENT. Subsection 1 of section 30.1-29-20.1 of the North Dakota
+15 Century Code is amended and reenacted as follows:
+16 1. On petition by a person interested in the estate of the person to be protected, the court
+17 may appoint an emergency conservator if the court finds that compliance with the
+18 procedures in this chapter likely will result in substantial harm to the estate of the
+19 person to be protected, and that no other person appears to have authority and
+20 willingness to act in the circumstances. The court may appoint the conservator for a
+21 specified period of time, not to exceed ninety days. Immediately upon receipt of the
+22 petition for an emergency conservator, the court shall appoint a guardian ad litem to
+23 advocate for the best interests of the estate of the person to be protected in the
+24 proceeding and any subsequent proceeding. The court shall hold a hearing within
+25 ten days of the filing of the petition to determine if appointment of an emergency
+26 conservator is appropriate. Except as otherwise provided in subsection 2, reasonable
+27 notice of the time and place of a hearing on the petition must be given to the person
+28 whose estate is to be protected, the person's spouse, if any, and any other persons as
+29 the court directs those identified in section 18 of this Ac t.
+30 SECTION 26. AMENDMENT. Subsection 2 of section 30.1-29-22 of the North Dakota
+31 Century Code is amended and reenacted as follows:
+Page No. 28 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 2. A conservator shall move the court for authorization to sell real property of the person
+2 to be protected, upon such terms as the court may order, for the purpose of paying the
+3 protected person's debts; providing for the care, maintenance, rehabilitation, training,
+4 or education of the person to be protected or the dependents of the person to be
+5 protected; or for any other purpose in the best interests of the person to be protected.
+6 a. The motion must contain:
+7 (1) A description of the property;
+8 (2) The details of the sale;
+9 (3) The reason for the transaction;
+10 (4) The current fair market value of the property, including an appraisal unless
+11 good cause is shown;
+12 (5) An explanation of why the transaction is in the best interest of the person to
+13 be protected; and
+14 (6) A notice that any person interested in the real property of the person to be
+15 protected must file an objection to the transaction within ten days of the
+16 notice and demand a hearing.
+17 b. The motion must be served upon the protected person, the spouse of the person
+18 to be protected, and all interested persons those identified in section 18 of this
+19 Act.
+20 c. Consent of the spouse of the person to be protected or interested persons must
+21 be filed with the motion. If the motion is unopposed, the court may authorize the
+22 transaction without a hearing or may conduct a hearing and require proof of the
+23 matters necessary to support the authorization of the transaction.
+24 d. The court's order must include specific findings regarding whether the transaction
+25 is in the best interests of the person to be protected.
+26 SECTION 27. AMENDMENT. Subsection 5 of section 30.1-29-25 of the North Dakota
+27 Century Code is amended and reenacted as follows:
+28 5. If a protected person dies, the conservator shall deliver to the court for safekeeping
+29 any will of the deceased protected person which may have come into the
+30 conservator's possession, inform the executor or a beneficiary named therein that the
+31 conservator has done so, and retain the estate for delivery to a duly appointed
+Page No. 29 25.1110.01000
+Sixty-ninth
+Legislative Assembly
+1 personal representative of the decedent or other persons entitled thereto. If after forty
+2 days from the death of the protected person no other person has been appointed
+3 personal representative and no application or petition for appointment is before the
+4 court, the conservator may apply to exercise the powers and duties of a personal
+5 representative so that the conservator may proceed to administer and distribute the
+6 decedent's estate without additional or further appointment. Upon application for an
+7 order granting the powers of a personal representative to a conservator, after notice to
+8 any person demanding notice under section 30.1-13-04 , those identified in section 18
+9 of this Act, and to any person nominated executor in any will of which the applicant is
+10 aware, the court may order the conferral of the power upon determining that there is
+11 no objection, and endorse the letters of the conservator to note that the formerly
+12 protected person is deceased and that the conservator has acquired all of the powers
+13 and duties of a personal representative. The making and entry of an order under this
+14 section has the effect of an order of appointment of a personal representative as
+15 provided in section 30.1-14-08 and chapters 30.1-17 through 30.1-21, except that
+16 estate in the name of the conservator, after administration, may be distributed to the
+17 decedent's successors without prior retransfer to the conservator as personal
+18 representative.
+19 SECTION 28. REPEAL. Sections 30.1-26-01, 30.1-28-08, and 30.1-28-15 of the North
+20 Dakota Century Code are repealed.
+Page No. 30 25.1110.01000
+[DELETED: .I12]
+[DELETED: .T.T.T.C.P.A.G.G.A.a.U)T22]
+[DELETED: )T)T)T.T.A.T.R.A32]
+[DELETED: ."."."."."42]
+[DELETED: ."."."."."."."."."."52]
+[DELETED: .".".".A.A.A.A.A."."."."62]
+[DELETED: .".".".".". )H)C)S)C)B)A)P)O.F)T72]
+[DELETED: )T)A)A)A)A."."."."."."."82]
+[DELETED: ."."."."."."."."."."."."."."92]
+[DELETED: ."."."."."."."."."."02]
+[DELETED: ."."."."."."."12]
+[DELETED: .A.M.T.T.A.H.H22]
+[DELETED: .A)T)T)T)T.E.T.T32]
+[DELETED: .U.T.A.B42]
+[DELETED: .O.T.B.A52]
+[DELETED: .I.I.O.T.T.U62]
+[DELETED: .A.U.A.I.I.T.A.I72]
+[DELETED: .T.O.A82]
+[DELETED: .I.A.T.T.A.T92]
+[DELETED: .I.N.W.M.I.E.I.I.R02]
+[DELETED: .M)T)T.M.A.I.A12]
+[DELETED: .C.T.A.A.A22]
+[DELETED: .I.A.T.T.W.T.T.T32]
+[DELETED: .T.I.I.T.T.T.C.I.O42]
+[DELETED: .N.A.A.A52]
+[DELETED: .T.W.A.A62]
+[DELETED: .T.A72]
+[DELETED: .C.O82]
+[DELETED: .A.T)A)T)T)T)A)A.T.C.T.I92]
+[DELETED: 02]
+
+
+================================================================================
+
+Raw Text:
+25.1110.01000
+Sixty-ninth
+SENATE BILL NO. 2291
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Dwyer, Sickler, Larson, Weston
+Representatives Hanson, Klemin
+1 A BILL for an Act to create and enact two new sections to chapter 30.1-28 and two new sections
+2 to chapter 30.1-29 of the North Dakota Century Code, relating to removal, resignation and
+3 death of a guardian, notices in a guardianship, notices in a conservatorship, and confidentiality
+4 of reports; to amend and reenact subsection 1 of section 23-12-13, subsection 1 of section
+5 25-03.1-18.1, subsection 1 of section 27-20.1-17, sections 30.1-01-06 and 30.1-28-03.1,
+6 subsection 3 of section 30.1-28-03.2, section 30.1-28-04, subsection 1 of section 30.1-28-05,
+7 section 30.1-28-07, subsection 1 of section 30.1-28-09, sections 30.1-28-10.1, 30.1-28-12,
+8 30.1-28-12.1, 30.1-28-12.2, and 30.1-29-05, subsection 6 of section 30.1-29-07, subsection 2 of
+9 section 30.1-29-08, sections 30.1-29-13 and 30.1-29-18, subsection 3 of section 30.1-29-19,
+10 subsection 1 of section 30.1-29-20.1, subsection 2 of section 30.1-29-22, and subsection 5 of
+11 section 30.1-29-25 of the North Dakota Century Code, relating to incapacitated persons, court-
+12 authorized involuntary treatment, guardianship of a child, guardianship of an incapacitated
+13 person, and protection of property of persons under disability and minors; and to repeal
+14 sections 30.1-26-01, 30.1-28-08, and 30.1-28-15 of the North Dakota Century Code, relating to
+15 visitors in a guardianship proceeding and appointment of successor guardians.
+16 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+17 SECTION 1. AMENDMENT. Subsection 1 of section 23-12-13 of the North Dakota Century
+18 Code is amended and reenacted as follows:
+19 1. Informed consent for health care for a minor patient or a patient who is determined by
+20 a physician, psychiatrist, or psychologist to be an incapacitated person, as defined in
+21 subsection 2 of section 30.1-26-01 30.1 - 01 - 06 , and unable to consent may be obtained
+22 from a person authorized to consent on behalf of the patient. Persons in the following
+23 classes and in the following order of priority may provide informed consent to health
+24 care on behalf of the patient:
+Page No. 1 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. The individual, if any, to whom the patient has given a durable power of attorney
+2 that encompasses the authority to make health care decisions, unless a court of
+3 competent jurisdiction specifically authorizes a guardian to make medical
+4 decisions for the incapacitated person;
+5 b. The appointed guardian or custodian of the patient, if any;
+6 c. The patient's spouse who has maintained significant contacts with the
+7 incapacitated person;
+8 d. Children of the patient who are at least eighteen years of age and who have
+9 maintained significant contacts with the incapacitated person;
+10 e. Parents of the patient, including a stepparent who has maintained significant
+11 contacts with the incapacitated person;
+12 f. Adult brothers and sisters of the patient who have maintained significant contacts
+13 with the incapacitated person;
+14 g. Grandparents of the patient who have maintained significant contacts with the
+15 incapacitated person;
+16 h. Grandchildren of the patient who are at least eighteen years of age and who
+17 have maintained significant contacts with the incapacitated person; or
+18 i. A close relative or friend of the patient who is at least eighteen years of age and
+19 who has maintained significant contacts with the incapacitated person.
+20 SECTION 2. AMENDMENT. Subsection 1 of section 25-03.1-18.1 of the North Dakota
+21 Century Code is amended and reenacted as follows:
+22 1. a. Upon notice and hearing, a tier 1b mental health professional may request
+23 authorization from the court to treat an individual under a mental health treatment
+24 order,or an individual voluntarily admitted to a public treatment facility under
+25 section 25 - 03.1 - 04 , with prescribed medication. The request may be considered
+26 by the court in an involuntary treatment hearing. As a part of the request, a
+27 psychiatrist or a final year psychiatric resident physician not involved in the
+28 current diagnosis or treatment of the patient shall certify:
+29 (1) That the proposed prescribed medication is clinically appropriate and
+30 necessary to effectively treat the patient and that the patient is a person
+31 requiring treatment;
+Page No. 2 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) That the patient was offered that treatment and refused it or that the patient
+2 lacks the capacity to make or communicate a responsible decision about
+3 that treatment;
+4 (3) That prescribed medication is the least restrictive form of intervention
+5 necessary to meet the treatment needs of the patient; and
+6 (4) That the benefits of the treatment outweigh the known risks to the patient.
+7 b. The court shall inquire whether the patient has had a sufficient opportunity to
+8 adequately prepare to meet the issue of involuntary treatment with prescribed
+9 medication and, at the request of the patient, the court may continue the
+10 involuntary treatment hearing for a period not exceeding seven days or may
+11 appoint an independent expert examiner as provided in subsection 4.
+12 SECTION 3. AMENDMENT. Subsection 1 of section 27-20.1-17 of the North Dakota
+13 Century Code is amended and reenacted as follows:
+14 1. An order appointing or reappointing a guardian under this chapter is effective for up to
+15 one year unless the court, upon a finding of good cause, sets a different time frame.
+16 An order may not be effective for more than three years. At least sixty days before the
+17 expiration of the initial order of appointment or any following order of reappointment,
+18 the court shall request and consider information submitted by the guardian, the child, if
+19 fourteen years of age or older, the child's attorney, if any, the child's parents, and any
+20 interested persons regarding whether the need for a guardianship continues to exist.
+21 The court, at its discretion, may appoint a guardian ad litem in accordance with section
+22 27-20.1-08, before the hearing. The court shall hold a hearing on whether the
+23 guardianship should continue. Following the hearing and consideration of submitted
+24 information, the court may:
+25 a. Terminate the guardianship if shown by clear and convincing evidence that the
+26 circumstances that led to the guardianship no longer exist;
+27 b. Reappoint the guardian for up to three years; or
+28 c. Appoint a new guardian.
+29 The court may extend a guardianship up to ninety days past the expiration of the initial
+30 order, for good cause shown, if the hearing cannot be held before the expiration of the
+Page No. 3 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 order. If the court extends an initial order for guardianship, new letters of guardianship
+2 must be issued reflecting the extended expiration date.
+3 SECTION 4. AMENDMENT. Section 30.1-01-06 of the North Dakota Century Code is
+4 amended and reenacted as follows:
+5 30.1-01-06. (1-201) General definitions.
+6 Subject to additional definitions contained in the subsequent chapters which are applicable
+7 to specific chapters, and unless the context otherwise requires, in this title:
+8 1. "Agent" includes an attorney-in-fact under a durable or nondurable power of attorney,
+9 an individual authorized to make decisions concerning another's health care, and an
+10 individual authorized to make decisions for another under a natural death act.
+11 2. "Alternative resource plan" means an alternative plan to guardianship which uses
+12 available support services and arrangements acceptable to the alleged incapacitated
+13 person. The term includes the use of support services such as visiting nurses,
+14 homemakers, home health aides, personal care attendants, adult day care, home and
+15 community-based care, human service zones, developmental disability services,
+16 powers of attorney, durable powers of attorney, health care directives, supported
+17 decisionmaking, representative and protective payees, and licensed congregate care
+18 facilities.
+19 3. "Application" means a written request to the court for an order of informal probate or
+20 appointment under chapter 30.1-14.
+21 3.4. "Augmented estate" means the estate described in section 30.1-05-02.
+22 4.5. "Beneficiary", as it relates to a trust beneficiary, includes a person who has any
+23 present or future interest, vested or contingent, and also includes the owner of an
+24 interest by assignment or other transfer; as it relates to a charitable trust, includes any
+25 person entitled to enforce the trust; as it relates to a beneficiary of a beneficiary
+26 designation, refers to a beneficiary of an account with a payable on death designation,
+27 of a security registered in beneficiary form transferable on death, or other nonprobate
+28 transfer at death; and, as it relates to a "beneficiary designated in a governing
+29 instrument", includes a grantee of a deed, a devisee, a trust beneficiary, a beneficiary
+30 of a beneficiary designation, a donee, or a person in whose favor a power of attorney
+31 or a power held in any individual, fiduciary, or representative capacity is exercised.
+Page No. 4 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5.6. "Beneficiary designation" refers to a governing instrument naming a beneficiary of an
+2 account with payable on death designation, of a security registered in beneficiary form
+3 transferable on death, or other nonprobate transfer at death.
+4 6.7. "Child" includes an individual entitled to take as a child under this title by intestate
+5 succession from the parent whose relationship is involved and excludes a person who
+6 is only a stepchild, a foster child, a grandchild, or any more remote descendant.
+7 7.8. "Claims", in respect to estates of decedents and protected persons, includes liabilities
+8 of the decedent or protected person whether arising in contract, in tort, or otherwise,
+9 and liabilities of the estate which arise at or after the death of the decedent or after the
+10 appointment of a conservator, including funeral expenses and expenses of
+11 administration. The term does not include estate or inheritance taxes or demands or
+12 disputes regarding title of a decedent or protected person to specific assets alleged to
+13 be included in the estate.
+14 8.9. "Conservator" means a person who is appointed by a court to manage the estate of a
+15 protected person, and includes limited conservators as defined in this section.
+16 9.10. "Court" means the court having jurisdiction in matters relating to the affairs of
+17 decedents.
+18 10.11. "Descendant" of an individual means all descendants of all generations, with the
+19 relationship of parent and child at each generation being determined by the definition
+20 of child and parent contained in this title.
+21 11.12. "Devise", when used as a noun, means a testamentary disposition of real or personal
+22 property, and when used as a verb, means to dispose of real or personal property by
+23 will.
+24 12.13. "Devisee" means a person designated in a will to receive a devise. In the case of a
+25 devise to an existing trust or trustee, or to a trustee or trust described by will, the trust
+26 or trustee is the devisee and the beneficiaries are not devisees.
+27 13.14. "Disability" means cause for a protective order as described in section 30.1-29-01.
+28 14.15. "Distributee" means any person who has received property of a decedent from the
+29 decedent's personal representative other than as a creditor or purchaser. A
+30 testamentary trustee is a distributee only to the extent of distributed assets or
+31 increment thereto remaining in the trustee's hands. A beneficiary of a testamentary
+Page No. 5 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 trust to whom the trustee has distributed property received from a personal
+2 representative is a distributee of the personal representative. For the purposes of this
+3 provision, "testamentary trustee" includes a trustee to whom assets are transferred by
+4 will to the extent of the devised assets.
+5 15.16. "Estate" includes the property of the decedent, trust, or other person whose affairs are
+6 subject to this title as originally constituted and as it exists from time to time during
+7 administration.
+8 16.17. "Exempt property" means that property of a decedent's estate which is described in
+9 section 30.1-07-01.
+10 17.18. "Expert examiner" means:
+11 a. A licensed physician;
+12 b. A psychiatrist;
+13 c. A licensed psychologist trained in a clinical program;
+14 d. An advanced practice registered nurse who is licensed under chapter 43-12.1
+15 within the role of a certified nurse practitioner or certified clinical nurse specialist,
+16 who has completed the requirements for a minimum of a master's degree from an
+17 accredited program, and who is functioning within the scope of practice in one of
+18 the population foci as approved by the state board of nursing; or
+19 e. A physician assistant who is licensed under chapter 43-17 and authorized by the
+20 state board of medical examiners to practice in this state.
+21 18.19. "Fiduciary" includes a personal representative, guardian, conservator, and trustee.
+22 19.20. "Foreign personal representative" means a personal representative appointed by
+23 another jurisdiction.
+24 20.21. "Formal proceedings" means proceedings conducted before a judge with notice to
+25 interested persons.
+26 21.22. "Governing instrument" means a deed, will, trust, insurance or annuity policy, account
+27 with payable on death designation, security registered in beneficiary form transferable
+28 on death, pension, profit-sharing, retirement, or similar benefit plan, instrument
+29 creating or exercising a power of appointment or a power of attorney, or a dispositive,
+30 appointive, or nominative instrument of any similar type.
+Page No. 6 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 22.23. "Guardian" means a person who or nonprofit corporation that has qualified as a
+2 guardian of a minor or incapacitated person pursuant to testamentary or court
+3 appointment, and includes limited guardians as defined in this section, but excludes
+4 one who is merely a guardian ad litem.
+5 23.24. "Heirs", except as controlled by section 30.1-09.1-11, means persons, including the
+6 surviving spouse and the state, who are entitled under the statutes of intestate
+7 succession to the property of a decedent.
+8 24.25. "Incapacitated person" means an individual described in section 30.1-26-01any adult
+9 individual who is impaired by reason of mental illness, mental deficiency, physical
+10 illness or disability, or chemical dependency to the extent that the individual lacks
+11 capacity to make or communicate responsible decisions concerning the individual's
+12 matters of residence, education, medical treatment, legal affairs, vocation, finance, or
+13 other matters, or if the incapacity endangers the individual's health or safety.
+14 25.26. "Informal proceedings" means those conducted by the court for probate of a will or
+15 appointment of a personal representative without notice to interested persons.
+16 26.27. "Interested person" includes heirs,:
+17 a. Except as provided under section b :
+18 (1) Heirs and devisees, children, spouses, creditors, beneficiaries, and any
+19 others ;
+20 (2) Children;
+21 (3) Spouses:
+22 (4) Creditors;
+23 (5) Beneficiaries;
+24 (6) Any individual having a property right in or claim against a trust estate or the
+25 estate of a decedent, ward, or protected person. The term also includes
+26 persons;
+27 (7) Person having priority for appointment as personal representative; and other
+28 (8) Other fiduciaries representing interested persons.
+29 b. For purposes of guardianships and conservatorships:
+30 (1) The petitioner for appointment of the guardian;
+Page No. 7 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) The spouse, parent, adult children, or siblings of the ward, protected person,
+2 or an adult relative if a spouse, parent, adult child, sibling, or protected
+3 person cannot be found;
+4 (3) An adult individual who has lived with a ward or a protected person for a
+5 period of more than six months;
+6 (4) An attorney for the ward or protected person;
+7 (5) A representative payee for the ward or protected person; and
+8 (6) Any other person designated by the court.
+9 The meaning as it relates to particular persons may vary from time to time and must
+10 be determined according to the particular purposes of, and matter involved in, any
+11 proceeding.
+12 27.28. "Issue" of a personan individual means descendant as defined in subsection 1011.
+13 28.29. "Joint tenants with the right of survivorship" and "community property with the right of
+14 survivorship" includes co-owners of property held under circumstances that entitle one
+15 or more to the whole of the property on the death of the other or others, but excludes
+16 forms of co-ownership registration in which the underlying ownership of each party is
+17 in proportion to that party's contribution.
+18 29.30. "Lease" includes an oil, gas, or other mineral lease.
+19 30.31. "Least restrictive form of intervention" includes only the limitations necessary to
+20 provide the needed care and services for a guardianship, and the ward must enjoy the
+21 greatest amount of personal freedom and civil liberties consistent with the ward's
+22 mental and physical limitations.
+23 32. "Letters" includes letters testamentary, letters of guardianship, letters of administration,
+24 and letters of conservatorship.
+25 31.33. "Limited conservator" means a person or nonprofit corporation, appointed by the court,
+26 to manage only those financial resources specifically enumerated by the court for the
+27 person with limited capacity and includes limited conservators as described by section
+28 30.1-29-20.
+29 32. "Limited guardian" means a person or nonprofit corporation, appointed by the court, to
+30 supervise certain specified aspects of the care of a person with limited capacity and
+31 includes limited guardians as described by section 30.1-28-04.
+Page No. 8 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 33.34. "Minor" means a person who is under eighteen years of age.
+2 34.35. "Mortgage" means any conveyance, agreement, or arrangement in which property is
+3 encumbered or used as security.
+4 35.36. "Nonresident decedent" means a decedent who was domiciled in another jurisdiction
+5 at the time of death.
+6 36.37. "Organization" means a corporation, limited liability company, government or
+7 governmental subdivision or agency, business trust, estate, trust, partnership, joint
+8 venture, association, or any other legal or commercial entity.
+9 37.38. "Parent" includes any personindividual entitled to take, or who would be entitled to
+10 take if the child died without a will, as a parent under this title, by intestate succession
+11 from the child whose relationship is in question and excludes any person who is only a
+12 stepparent, foster parent, or grandparent.
+13 38.39. "Payer" means a trustee, insurer, business entity, employer, government,
+14 governmental agency or subdivision, or any other person authorized or obligated by
+15 law or a governing instrument to make payments.
+16 39.40. "Person" means an individual, a corporation, a limited liability company, an
+17 organization, or other legal entity.
+18 40. "Person with limited capacity" is as defined in section 30.1-26-01.
+19 41. "Personal representative" includes executor, administrator, successor personal
+20 representative, special administrator, and persons who perform substantially the same
+21 function under the law governing their status. "General personal representative"
+22 excludes special administrator.
+23 42. "Petition" means a written request to the court for an order after notice.
+24 43. "Proceeding" includes action at law and suit in equity.
+25 44. "Property" includes both real and personal property or any interest therein and means
+26 anything that may be the subject of ownership.
+27 45. "Protected person" is as defined in section 30.1-26-01means a minor or other
+28 individual for whom a conservator or limited conservator has been appointed, or other
+29 protective order has been made.
+30 46. "Protective proceeding" means a proceeding described in section 30.1-26-01under
+31 section 30.1 - 29 - 01 to determine that an individual cannot effectively manage or apply
+Page No. 9 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 the individual's estate to necessary ends, either because the individual lacks the ability
+2 or is otherwise inconvenienced, or because the individual is a minor, and to secure
+3 administration of the individual's estate by a conservator or other appropriate relief.
+4 47. "Record" means information that is inscribed on a tangible medium or that is stored in
+5 an electronic or other medium and is retrievable in perceivable form.
+6 48. "Refusal" means declining to accept prescribed mood stabilizer or antipsychotic
+7 medication by a clear and unequivocal response.
+8 49. "Security" includes any note, stock, treasury stock, bond, debenture, membership
+9 interest in a limited liability company, evidence of indebtedness, certificate of interest
+10 or participation in an oil, gas, or mining title or lease or in payments out of production
+11 under such a title or lease, collateral trust certificate, transferable share, voting trust
+12 certificate or, in general, any interest or instrument commonly known as a security, or
+13 any certificate of interest or participation, any temporary or interim certificate, receipt,
+14 or certificate of deposit for, or any warrant or right to subscribe to or purchase, any of
+15 the foregoing.
+16 49.50. "Settlement", in reference to a decedent's estate, includes the full process of
+17 administration, distribution, and closing.
+18 50.51. "Sign" means, with present intent to authenticate or adopt a record other than a will, to
+19 execute or adopt a tangible symbol or to attach to or logically associate with the record
+20 an electronic symbol, sound, or process.
+21 51.52. "Special administrator" means a personal representative as described by sections
+22 30.1-17-14 through 30.1-17-18.
+23 52.53. "State" means a state of the United States, the District of Columbia, the
+24 Commonwealth of Puerto Rico, or any territory or insular possession subject to the
+25 jurisdiction of the United States.
+26 53.54. "Successor personal representative" means a personal representative, other than a
+27 special administrator, who is appointed to succeed a previously appointed personal
+28 representative.
+29 54.55. "Successors" means persons, other than creditors, who are entitled to property of a
+30 decedent under the decedent's will or this title.
+31 55.56. "Supervised administration" refers to the proceedings described in chapter 30.1-16.
+Page No. 10 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 56.57. "Survive" means that an individual has neither predeceased an event, including the
+2 death of another individual, nor predeceased an event under sections 30.1-04-04 and
+3 30.1-09.1-02. The term includes its derivatives, such as "survives", "survived",
+4 "survivor", and "surviving".
+5 57.58. "Testacy proceeding" means a proceeding to establish a will or determine intestacy.
+6 58.59. "Trust" includes an express trust, private or charitable, with additions thereto,
+7 wherever and however created. The term also includes a trust created or determined
+8 by judgment or decree under which the trust is to be administered in the manner of an
+9 express trust. The term excludes other constructive trusts and excludes resulting
+10 trusts, conservatorships, personal representatives, trust accounts as defined in
+11 custodial arrangements pursuant to chapter 11-22, chapter 12-48, sections 25-01.1-19
+12 to 25-01.1-21, chapter 32-10, section 32-16-37, chapter 32-26, former chapter 47-24,
+13 chapter 47-24.1, business trusts providing for certificates to be issued to beneficiaries,
+14 common trust funds, voting trusts, security arrangements, liquidation trusts, and trusts
+15 for the primary purpose of paying debts, dividends, interest, salaries, wages, profits,
+16 pensions, or employee benefits of any kind, and any arrangement under which a
+17 person is nominee or escrowee for another.
+18 59.60. "Trustee" includes an original, additional, or successor trustee, whether or not
+19 appointed or confirmed by court.
+20 60.61. "Visitor" means an individual, in guardianship proceedings, who is trained in nursing,
+21 social work, medical care, mental health care, or rehabilitation and is an employee or
+22 special appointee of the court with no personal interest in the proceedings.
+23 61.62. "Ward" means an individual described in section 30.1-26-01for whom a guardian has
+24 been appointed. A "minor ward" is a minor for whom a guardian has been appointed
+25 solely because of minority.
+26 62.63. "Will" includes codicil and any testamentary instrument that merely appoints an
+27 executor, revokes or revises another will, nominates a guardian, or expressly excludes
+28 or limits the right of an individual or class to succeed to property of the decedent
+29 passing by intestate succession.
+30 SECTION 5. AMENDMENT. Section 30.1-28-03.1 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 11 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 30.1-28-03.1. Confidentiality - Reports - Personal information.
+2 1. A written report prepared and submitted under subsection 5 or 6 of section 30.1-28-03
+3 isby a guardian ad litem, visitor, or expert examiner and annual and final reports and
+4 financial accounting prepared and submitted by a guardian are closed to the public
+5 and isare not open to inspection except by the court, parties to the proceeding or their
+6 counsel, other persons for those purposes as the court may order for good cause, and
+7 others authorized by court rule.
+8 2. Medical, psychological, or other treatment information protected by federal law or
+9 regulation and any financial account numbers related to a ward or proposed ward are
+10 confidential and may not be disclosed except to parties to the proceeding, their
+11 counsel, and others authorized by court rule. The court may permit access by other
+12 persons for good cause.
+13 SECTION 6. AMENDMENT. Subsection 3 of section 30.1-28-03.2 of the North Dakota
+14 Century Code is amended and reenacted as follows:
+15 3. The motion must be served upon the ward, the ward's spouse, and all interested
+16 persons those identified in section 12 of this Ac t.
+17 SECTION 7. AMENDMENT. Section 30.1-28-04 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 30.1-28-04. (5-304) Findings - Order of appointment.
+20 1. The court shall exercise the authority conferred in this chapter consistent with the
+21 maximum self-reliance and independence of the incapacitated person and make
+22 appointive and other orders only to the extent necessitated by the incapacitated
+23 person's actual mental and adaptive limitations or other conditions warranting the
+24 procedure.
+25 2. At a hearing held under this chapter, the court shall:
+26 a. Hear evidence that the proposed ward is an incapacitated person. Age,
+27 eccentricity, poverty, or medical diagnosis alone is not sufficient to justify a finding
+28 of incapacity;
+29 b. Hear evidence and determine whether there are any existing general durable
+30 powers of attorney and durable powers of attorney for health care. If there are
+31 validly executed durable powers of attorney, the court shall consider the
+Page No. 12 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 appointed attorneys in fact and agents appointed thereunder when assessing
+2 alternative resource plans and the need for a guardian; and
+3 c. Appoint a guardian and confer specific powers of guardianship only after finding
+4 in the record based on clear and convincing evidence that:
+5 (1) The proposed ward is an incapacitated person;
+6 (2) There is no available alternative resource plan that is suitable to safeguard
+7 the proposed ward's health, safety, or habilitation which could be used
+8 instead of a guardianship;
+9 (3) The guardianship is necessary as the best means of providing care,
+10 supervision, or habilitation of the ward; and
+11 (4) The powers and duties conferred upon the guardian are appropriate as the
+12 least restrictive form of intervention consistent with the ability of the ward for
+13 self-care.
+14 3. Except upon specific findings of the court, a ward may not be deprived of any of the
+15 following legal rights: to vote, to seek to change marital status, or to obtain or retain a
+16 motor vehicle operator's license.
+17 4. The court may find that the ward retains other specific rights.
+18 5. The order appointing a guardian confers upon the guardian only those powers and
+19 duties specified in the order. In addition to any other powers conferred upon the
+20 guardian, the court's order must state whether the guardian has no authority, general
+21 authority, or limited authority to make decisions on behalf of the ward in each of the
+22 areas of residential, educational, medical, legal, vocational, and financial
+23 decisionmaking. A grant of limited authority must specify the limitations upon the
+24 authority of the guardian or the authority retained by the ward. The court's order must
+25 require the guardian to provide within ninety days from the date of the order a
+26 beginning inventory of all assets owned by the ward or in which the ward has an
+27 interest. The guardian shall provide a copy of the beginning inventory to the ward and
+28 any interested persons designated by the court in its orderthose identified in
+29 section 12 of this Ac t. Unless terminated earlier by the court, an order appointing or
+30 reappointing a guardian under this section is effective for up to five years. At least
+31 ninety days before the expiration of the initial order of appointment or any following
+Page No. 13 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 order of reappointment, the court shall request and consider information submitted by
+2 the guardian, ward, ward's attorney, if any, and any interested persons regarding
+3 whether the need for a guardian continues to exist. If it is recommended that the
+4 guardianship continue, the court may appoint a guardian ad litem or, visitor, or bothall,
+5 in accordance with section 30.1-28-03. The court shall hold a hearing on whether the
+6 guardianship should continue. Following the hearing and consideration of submitted
+7 information, the court may reappoint the guardian for up to another five years, allow
+8 the existing order to expire, or appoint a new guardian in accordance with this section.
+9 If a review hearing cannot be held before the expiration of an initial order for
+10 guardianship, the court may extend the initial order for up to an additional ninety days
+11 upon good cause shown. New letters of guardianship must be issued reflecting the
+12 extended expiration date. The supreme court, by rule or order, shall provide for the
+13 regular review of guardianship in existence on August 1, 2015.
+14 6. Unless a court of competent jurisdiction determines otherwise, a durable power of
+15 attorney for health care executed pursuant to chapter 23-06.5 takes precedence over
+16 any authority to make medical decisions granted to a guardian pursuant to chapter
+17 30.1-28.
+18 7. The court may require a guardian to furnish a bond in the amount and with sureties as
+19 the court specifies.
+20 8. After the hearing, the guardian ad litem, visitor, and expert examiner must be
+21 discharged of the person'stheir duties as guardian ad litem.
+22 SECTION 8. AMENDMENT. Subsection 1 of section 30.1-28-05 of the North Dakota
+23 Century Code is amended and reenacted as follows:
+24 1. By accepting appointment, a guardian submits personally to the jurisdiction of the
+25 court in any proceeding relating to the guardianship that may be instituted by any
+26 interested person. Notice of any proceeding so instituted must be served upon the
+27 guardian by the petitioner.
+28 SECTION 9. AMENDMENT. Section 30.1-28-07 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 14 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 30.1-28-07. (5-307) Removal or resignation of guardian - Change in or termination of
+2 guardianship.
+3 1. On petition of the ward or any person interested in the ward's welfare, the court may
+4 remove a guardian and appoint a successor if in the best interests of the ward. On
+5 petition of the guardian, the court may accept the guardian's resignation and make any
+6 other order which may be appropriate.
+7 2. The ward or any person interested in the ward's welfare may petition for an order that
+8 the ward is no longer incapacitated or no longer incapacitated to the same extent as
+9 the ward was when the original guardianship order was made or last reviewed by the
+10 court, or that the duties and authority of the guardian require modification, and for
+11 removal or resignation of the guardian, termination of the guardianship, or change in
+12 the duties and authority of the guardian. A request for this order may be made by
+13 informal letter to the court or judge. The clerk of district court shall send a copy of the
+14 informal request to the parties and those identified in section 12 of this Act . Any person
+15 who knowingly interferes with transmission of this kind of request to the court or judge
+16 may be adjudged guilty of contempt of court.
+17 3.2. Before removing a guardian, changing the guardian's duties and authority, accepting
+18 the resignation of a guardian, or on finding that the ward is no longer incapacitated, or
+19 no longer incapacitated to the same extent and ordering the guardianship terminated
+20 or modified, the court, following the same procedures to safeguard the rights of the
+21 ward as apply to a petition for appointment of a guardian, may send a visitor to the
+22 place where the ward resides or is detained, to observe conditions and report in
+23 writing to the court.
+24 4.3. A hearing must be held no later than sixty days following the filing of the petition or
+25 informal request, unless good cause is shown. Following the hearing, the court shall
+26 make written findings of fact. Before terminating or modifying the guardianship, the
+27 court shall find by a preponderance of the evidence that the ward is no longer
+28 incapacitated, no longer incapacitated to the same extent as the ward was when the
+29 original guardianship order was made or last reviewed by the court, or that it is in the
+30 best interests of the ward that the duties and authority of the guardian be modified.
+Page No. 15 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 New letters of guardianship must be issued to the guardian in the same manner as
+2 provided in section 30.1-28-05.
+3 5.4. In deciding whether to terminate or modify a guardianship, the court may require a
+4 report by and consider the recommendations of an expert examiner.
+5 6. If the guardian dies, or if on the basis of a petition filed under this section or a report or
+6 other information, there is probable cause to believe a guardian is not performing the
+7 guardian's duties effectively and there is an imminent danger the ward's physical,
+8 mental, or emotional health or safety will be seriously impaired, the court shall take
+9 whatever action is necessary to protect the ward, including dismissal of the guardian
+10 and appointment of an emergency guardian as provided in section 30.1-28-10.1.
+11 7.5. On termination of the guardianship, a guardian shall file a final report and accounting
+12 and provide a copy of the report and accounting to those given notice under section
+13 30.1-28-0912 of this Act. The report and accounting must be filed with the clerk of
+14 district court. The filing of the report and accounting does not constitute the court's
+15 approval of the report and accounting. The court may approve a report and settle and
+16 allow an accounting only upon notice to the ward and other interested persons who
+17 have made an appearance or requested notice of the proceedingsto those identified in
+18 section 12 of this Ac t.
+19 SECTION 10. A new section to chapter 30.1-28 of the North Dakota Century Code is
+20 created and enacted as follows:
+21 Removal, resignation, or death of guardian - Appointment of successor guardian.
+22 1. The court may remove a guardian on its own motion or on petition of the ward or any
+23 interested person if removal is in the best interests of the ward. A request for this order
+24 may be made by informal letter to the court or judge. The clerk of district court shall
+25 send a copy of the informal request to the parties and those identified in section 12 o f
+26 this Act. Any person that knowingly interferes with the transmission of a request under
+27 this section may be adjudged guilty of contempt of court.
+28 2. The court may accept the resignation of a guardian upon petition by the guardian.
+29 3. Upon the death of a guardian, the personal representative of the guardian shall submit
+30 a final report and accounting to the court. Upon removal or resignation of the guardian,
+31 the guardian shall submit a final report and accounting to the court. The report and
+Page No. 16 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 accounting must be filed with the clerk of district court. The filing of the report and
+2 accounting does not constitute the court's approval of the report and accounting. The
+3 court may approve a report and settle and allow an accounting only upon notice to
+4 those identified in section 12 of this Act .
+5 4. A hearing must be held no later than sixty days following the filing of the petition or
+6 informal request, unless good cause is shown. Following the hearing, the court shall
+7 make written findings of fact and conclusions of law.
+8 5. Upon the removal, resignation, or death of a guardian, the court, upon the court's own
+9 motion or upon a motion filed by any interested person, may appoint a successor
+10 guardian or make any other appropriate order.
+11 6. A notice of motion must accompany the motion for appointment of successor guardian
+12 and must include a statement that provides an opportunity for hearing if requested in
+13 regard to the appointment of a successor guardian. The notice of motion and motion
+14 must be served on those identified in section 12 of this Act .
+15 7. If a hearing is not requested by or on behalf of the ward listed in the notice, the court
+16 may sign an order appointing a successor guardian for that ward.
+17 SECTION 11. AMENDMENT. Subsection 1 of section 30.1-28-09 of the North Dakota
+18 Century Code is amended and reenacted as follows:
+19 1. In a proceeding for the appointment or removal of a guardian or for an alteration or
+20 termination of a guardianship other thanand, if notice is required, for the appointment
+21 of an emergency guardian or for the temporary suspension of a guardian, notice of
+22 hearing shall be given by the petitioning party, unless otherwise directed by the court,
+23 to each of the following:
+24 a. The ward or the proposed ward and the ward's or proposed ward's spouse,
+25 parents, and adult children;
+26 b. Any person, corporation, or institution who is serving as the ward's guardian,
+27 attorney in fact, representative payee for public benefits, or conservator, or who
+28 has the ward's care and custody;
+29 c. If no other person is notified under subdivision a, then the adult siblings and any
+30 adult with whom the proposed ward resides in a private residence, or if none can
+31 be found, any known adult relative; and
+Page No. 17 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 d. The attorney for the proposed ward, the visitor, and the expert examiner, together
+2 with a copy of the respective order of appointment for each.
+3 SECTION 12. A new section to chapter 30.1-28 of the North Dakota Century Code is
+4 created and enacted as follows:
+5 Notices in guardianship proceedings subsequent to appointment.
+6 Notice in a guardianship proceeding subsequent to appointment of a guardian must be
+7 given to the parties, the conservator, if any, the ward, and any interested persons designated in
+8 the order of the court.
+9 SECTION 13. AMENDMENT. Section 30.1-28-10.1 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 30.1-28-10.1. Emergency guardian.
+12 1. On petition by a person interested in the alleged incapacitated individual's welfare, the
+13 court may appoint an emergency guardian if the court finds that compliance with the
+14 procedures of this chapter likely will result in substantial harm to the alleged
+15 incapacitated individual's health, safety, or welfare, and that no other person appears
+16 to have authority and willingness to act in the circumstances. The court may appoint
+17 the guardian for a specified period of time, not to exceed ninety days. Immediately
+18 upon receipt of the petition for an emergency guardianship, the court shall appoint a
+19 guardian ad litem to advocate for the best interests of the alleged incapacitated
+20 individual in the proceeding and any subsequent proceeding. Except as otherwise
+21 provided in subsection 2, reasonable notice of the time and place of a hearing on the
+22 petition must be given to the alleged incapacitated individual, the individual's spouse, if
+23 any, and any other person as the court directsThe court shall hold a hearing within
+24 ten days of the filing of the petition to determine if appointment of an emergency
+25 guardian is appropriate.
+26 2. An emergency guardian may be appointed without notice to the alleged incapacitated
+27 individual and the alleged incapacitated individual's guardian ad litem only if the court
+28 finds from affidavit or other sworn testimony that the alleged incapacitated individual
+29 will be substantially harmed before a hearing on the appointment can be held. If the
+30 court appoints an emergency guardian without notice to the alleged incapacitated
+31 individual, the alleged incapacitated individual and the individual's spouse, if any, and
+Page No. 18 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 any other person the court directs must be given notice of the appointment within forty-
+2 eight hours after the appointment. The court shall hold a hearing on the
+3 appropriateness of the appointment within ten days after the appointment.
+4 3. If a conservator has not been appointed for the alleged incapacitated individual and
+5 the emergency guardian has authority for financial decisionmaking, the court's order of
+6 appointment must state that the guardian shall safeguard any assets held by the
+7 alleged incapacitated individual and, during the period of appointment and subject to
+8 any further order of the court, may expend the individual's assets only for the
+9 necessary support and care of the individual.
+10 4. Appointment of an emergency guardian, with or without notice, is not a determination
+11 of the alleged incapacitated individual's incapacity.
+12 5. The court may remove an emergency guardian at any time. An emergency guardian
+13 shall make any report the court requires. In all other respects, the provisions of this
+14 chapter concerning guardians apply to an emergency guardian.
+15 6. The petitioner may request the court extend the emergency order for up to an
+16 additional ninety days upon good cause shown. The request must be filed with the
+17 court at least fourteen days before the expiration of the emergency order and served
+18 on the alleged incapacitated individual, the individual's spouse, if any, and any other
+19 persons as the court directs. The court shall hold a hearing on the appropriateness of
+20 the extension within ten days of the request. No additional extensions of the
+21 emergency guardianship may be granted.
+22 SECTION 14. AMENDMENT. Section 30.1-28-12 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 30.1-28-12. (5-312) General powers and duties of guardian.
+25 1. A guardian of an incapacitated person has only the powers and duties specified by the
+26 court.
+27 2. To the extent that it is consistent with the terms of an order by a court of competent
+28 jurisdiction, the guardian is entitled to custody of the person of the ward and may
+29 establish the ward's place of residence within or without this state. However, no
+30 guardian may voluntarily admit a ward to a mental health facility or state institution for
+31 a period of more than forty-five days without a mental health commitment proceeding
+Page No. 19 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 or other court order. Notwithstanding the other provisions of this subsection, the
+2 guardian may readmit a ward to a mental health facility or a state institution within sixty
+3 days of discharge from that institution, if the original admission to the facility or
+4 institution had been authorized by the court.
+5 3. If entitled to custody of the ward, the guardian should make provision for the care,
+6 comfort, and maintenance of the ward and, whenever appropriate, arrange for the
+7 ward's training, education, or habilitative services. The guardian shall take reasonable
+8 care of the ward's clothing, furniture, vehicles, and personal effects.
+9 4. Notwithstanding general or limited authority to make medical decisions on behalf of
+10 the ward, no guardian may consent to psychosurgery, abortion, sterilization, or
+11 experimental treatment of any kind unless the procedure is first approved by order of
+12 the court.
+13 5. When exercising the authority granted by the court, the guardian shall safeguard the
+14 civil rights and personal autonomy of the ward to the fullest extent possible by:
+15 a. Meeting with the ward following the hearing, unless the ward is represented by
+16 an attorney, and explaining to the fullest extent possible the contents of the
+17 court's order and the extent of the guardian's authority;
+18 b. Involving the ward as fully as is practicable in making decisions with respect to
+19 the ward's living arrangements, health care, and other aspects of the ward's care;
+20 and
+21 c. Ensuring the ward's maximum personal freedom by using the least restrictive
+22 forms of intervention and only as necessary for the safety of the ward or others.
+23 6. If no conservator for the estate of the ward has been appointed and if the guardian
+24 has been granted authority to make financial decisions on behalf of the ward, the
+25 guardian shall:
+26 a. Institute proceedings to compel any person under a duty to support the ward or to
+27 pay sums for the welfare of the ward to perform that duty.
+28 b. Receive money and tangible property deliverable to the ward and apply the
+29 money and property for support, care, and education of the ward; but, the
+30 guardian may not use funds from the ward's estate for room and board which the
+31 guardian or the guardian's spouse, parent, or child have furnished the ward
+Page No. 20 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 unless a charge for the service is approved by order of the court made upon
+2 notice to at least one of the next of kin of the ward, if notice is possiblethose
+3 identified in section 12 of this Ac t. The guardian shall exercise care to conserve
+4 any excess for the ward's needs.
+5 c. Move the court under section 30.1-28-03.2 for authority to sell, mortgage, or
+6 otherwise encumber or transfer ownership or beneficiary of:
+7 (1) The real property of the ward; or
+8 (2) The personal property of the ward valued over two thousand five hundred
+9 dollars upon such terms as the court may order, for the purpose of paying
+10 the ward's debts; providing for the care, maintenance, rehabilitation,
+11 training, or education of the ward or the ward's dependents; or for any other
+12 purpose which is in the best interests of the ward. The sale, mortgage, or
+13 other encumbrance or transfer of ownership of personal property of the
+14 ward valued at two thousand five hundred dollars or less does not require a
+15 court order.
+16 d. Move the court under section 30.1-28-03.2 for authority to lease the real or
+17 personal property of the ward.
+18 e. A guardian may not purchase, lease, or obtain ownership or become the
+19 beneficiary of property of the ward unless the price and manner of the sale are
+20 approved by the court.
+21 7. If a conservator has been appointed, all of the ward's estate received by the guardian
+22 in excess of those funds expended to meet current expenses for support, care, and
+23 education of the ward must be paid to the conservator for management as provided in
+24 this title, and the guardian must account to the conservator for funds expended.
+25 8. A guardian shall file an annual report with the court regarding the exercise of powers
+26 and duties in areas of authority specified in the court's order of appointment. The
+27 report must describe the status or condition of the ward, including any change of
+28 residence and reasons for the change, any medical treatment received by or withheld
+29 from the ward, any expenditure and income affecting the ward, any sale or transfer of
+30 property affecting the ward, and any exercise of legal authority by the guardian
+31 affecting the ward. The report must include changes that have occurred since the
+Page No. 21 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 previous reporting period and an accounting of the ward's estate. The guardian also
+2 shall report whether the ward continues to require guardianship and whether any
+3 powers of the guardian should be increased or limited. The report must be filed with
+4 the clerk of district court. The filing of the report does not constitute an adjudication or
+5 a determination of the merits of the report nor does the filing of the report constitute
+6 the court's approval of the report. The court may approve a report and allow and settle
+7 an accounting only upon notice to the ward's guardian ad litem and other interested
+8 persons who have made an appearance or requested notice of proceedings. The
+9 office of the state court administrator shall provide printed forms that may be used to
+10 fulfill reporting requirements. Any report must be similar in substance to the state court
+11 administrator's form. The forms must be available in the office of clerk of district court
+12 or obtainable through the supreme court's internet website.
+13 9. Copies of the guardian's annual report to the court and of any other reports required
+14 by the court must be mailed to the ward and any interested persons designated by the
+15 court in its order those identified in section 12 of this Ac t. The ward's copy must be
+16 accompanied by a statement, printed with not less than double-spaced twelve-point
+17 type, of the ward's right to seek alteration, limitation, or termination of the guardianship
+18 at any time.
+19 10. The guardian is entitled to receive reasonable sums for services and for room and
+20 board furnished to the ward as approved by the court or as agreed upon between the
+21 guardian and the conservator, provided the amounts agreed upon are reasonable
+22 under the circumstances. The guardian may request the conservator to expend the
+23 ward's estate by payment to third persons or institutions for the ward's care and
+24 maintenance.
+25 11. A guardian has a fiduciary duty to the ward and may be held liable for a breach of that
+26 duty.
+27 12. A guardian is not liable for the acts of the ward, unless the guardian is grossly
+28 negligent as defined in section 1 - 01 - 17 .
+29 13. A guardian is not required to expend personal funds on behalf of the ward solely by
+30 reason of the guardian relationship.
+Page No. 22 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 15. AMENDMENT. Section 30.1-28-12.1 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 30.1-28-12.1. Annual reports and accounts - Failure of guardian to file.
+4 If a guardian fails to file an annual report as required by section 30.1-28-12, fails to file a
+5 report at other times as the court may direct, or fails to provide an accounting of an estate, the
+6 court, upon its own motion or upon petition of any interested partyperson, may issue an order
+7 compelling the guardian to show cause why the guardian should not immediately make and file
+8 the report or account, or be found in contempt for failure to comply.
+9 SECTION 16. AMENDMENT. Section 30.1-28-12.2 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 30.1-28-12.2. Restrictions on visitation, communication, and interaction with the
+12 ward - Removal of restriction.
+13 1. If it is in the best interests of the ward, a guardian may restrict visitation,
+14 communication, and interaction with the ward.
+15 2. A family member, friend, the ward, clergy member, attorney, agency charged with the
+16 protection of vulnerable adults, or other interested person may move the court to
+17 remove the restriction on visitation, communication, and interaction with the ward.
+18 3. The motion must state:
+19 a. The movant's relationship to the ward;
+20 b. Whether the guardian is unreasonably or arbitrarily denying or restricting
+21 visitation, communication, or interaction between the restricted party and the
+22 ward; and
+23 c. The facts supporting the movant's allegation that the guardian is unreasonably or
+24 arbitrarily denying or restricting visitation, communication, or interaction between
+25 the restricted party and the ward.
+26 4. The movant shall serve the motion on the guardian, the ward, the ward's spouse, and
+27 any other interested person those identified in section 12 of this Ac t.
+28 5. The court shall set a hearing on the motion and provide notice of the hearing to the
+29 movant, the guardian, the ward, the ward's spouse, and any other interested person
+30 and those identified in section 12 of this Ac t.
+Page No. 23 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 6. The court shall take into consideration the ward's wishes, and may conduct an
+2 in-camera interview with the ward and appoint a visitor or guardian ad litem.
+3 7. If the court grants the motion for visitation, communication, or interaction, the court
+4 may impose conditions on visitation, communication, and interaction between the
+5 restricted party and the ward.
+6 8. If the visitation, communication, or interaction is not in the best interests of the ward,
+7 the court may prohibit visitation, communication, or interaction between the restricted
+8 party and the ward.
+9 9. The court may award reasonable costs and attorney's fees to the prevailing party if the
+10 court finds:
+11 a. The guardian unreasonably, arbitrarily, or in bad faith denied or restricted
+12 visitation, communication, or interaction between the restricted party and the
+13 ward; or
+14 b. The motion was frivolous.
+15 10. Costs and attorney's fees awarded against the guardian may not be paid from the
+16 ward's estate.
+17 11. If a movant for visitation, communication, and interaction states the ward's health is in
+18 significant decline or the ward's death may be imminent, the court shall conduct an
+19 emergency hearing on the motion as soon as practicable but not later than fourteen
+20 days after the date the motion is filed or at a later date upon a showing of good cause.
+21 SECTION 17. AMENDMENT. Section 30.1-29-05 of the North Dakota Century Code is
+22 amended and reenacted as follows:
+23 30.1-29-05. (5-405) Notice.
+24 1. On a petition for appointment of a conservator or other protective order, the petitioning
+25 party shall cause notice of the proceeding to be served personally on the person to be protected
+26 and the spouse of the person to be protected or, if none, the parents of the person to be
+27 protected, or any guardian or conservator, at least fourteen days before the date of hearing. If
+28 none of these parties can be found, any government agency paying benefits to the person
+29 sought to be protected, if the person seeking the appointment has knowledge of the existence
+30 of these benefits, must be given notice in accordance with section 30.1-03-01.
+Page No. 24 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. Notice of a petition for appointment of a conservator or other initial protective order,
+2 and of any subsequent hearing, must be given to any person who has filed a request
+3 for notice under section 30.1-29-06 and to interested persons and other persons as
+4 the court may direct. Except as otherwise provided in subsection 1, notice shall be
+5 given in accordance with section 30.1-03-01.
+6 SECTION 18. A new section to chapter 30.1-29 of the North Dakota Century Code is
+7 created and enacted as follows:
+8 Notices in conservatorship proceedings subsequent to appointment.
+9 Notice in a conservatorship proceeding subsequent to appointment of a conservator must
+10 be given to the parties, the guardian, if any, the individual in need of protection, and any
+11 interested persons designated by the court.
+12 SECTION 19. AMENDMENT. Subsection 6 of section 30.1-29-07 of the North Dakota
+13 Century Code is amended and reenacted as follows:
+14 6. After hearing, upon finding that the appointment of a conservator or other protective
+15 order is appropriate, the court shall make an appointment or other appropriate
+16 protective order. The court, guardian ad litem, petitioner, or person to be protected
+17 may subpoena the individual who prepared and submitted the report to appear, testify,
+18 and be cross-examined. After the hearing, the guardian ad litem and expert examiner
+19 must be discharged of thetheir duties as guardian ad litem.
+20 SECTION 20. A new section to chapter 30.1-29 of the North Dakota Century Code is
+21 created and enacted as follows:
+22 Confidentiality - Reports - Personal information.
+23 1. A written report prepared and submitted by a guardian ad litem or expert examiner and
+24 annual and final reports and financial accounting prepared and submitted by a
+25 conservator are closed to the public and are not open to inspection except by the
+26 court, parties to the proceeding or their counsel, other persons for those purposes as
+27 the court may order for good cause, and others authorized by court rule.
+28 2. Any medical, psychological, or other treatment information protected by federal law or
+29 regulation, and any financial account numbers related to a protected person or
+30 proposed protected person are confidential and may not be disclosed except to parties
+Page No. 25 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 to the proceeding, their counsel, and others authorized by court rule. The court may
+2 permit access by other persons for good cause.
+3 SECTION 21. AMENDMENT. Subsection 2 of section 30.1-29-08 of the North Dakota
+4 Century Code is amended and reenacted as follows:
+5 2. The court has the following powers which may be exercised directly or through a
+6 conservator, subject to section 30.1-29-22, in respect to the estate and affairs of
+7 protected persons:
+8 a. While a petition for appointment of a conservator or other protective order is
+9 pending and after preliminary hearing and without prior notice to others, the court
+10 has power to preserve and apply the property of the person to be protected as
+11 may be required for the benefit of the person to be protected or the benefit of the
+12 dependents of the person to be protected.
+13 b. After hearing and upon determining that a basis for an appointment or other
+14 protective order exists with respect to a minor, the court has all those powers
+15 over the estate and affairs of the minor which are or might be necessary for the
+16 best interests of the minor, the minor's family, and members of the minor's
+17 household.
+18 c. After hearing and upon determining that appointment of a conservator or other
+19 protective order is appropriate with respect to a person for reasons other than
+20 minority, the court has, for the benefit of the person and members of the person's
+21 household, all the powers over the person's estate and affairs which the person
+22 could exercise if present and not under disability, except the power to make a will.
+23 These powers include power to make gifts, to convey or release the person's
+24 contingent and expectant interests in property, including marital property rights
+25 and any right of survivorship incident to joint tenancy, to exercise or release the
+26 person's powers as trustee, personal representative, custodian for minors,
+27 conservator, or donee of a power of appointment, to enter into contracts, to
+28 create revocable or irrevocable trusts of property of the estate which may extend
+29 beyond the person's disability or life, to exercise options of the disabled person to
+30 purchase securities or other property, to exercise the person's rights to elect
+31 options and change beneficiaries under insurance and annuity policies and to
+Page No. 26 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 surrender the policies for their cash value, to exercise the person's right to an
+2 elective share in the estate of the person's deceased spouse, and to renounce
+3 any interest by testate or intestate succession or by inter vivos transfer.
+4 d. The court may exercise or direct the exercise of its authority to exercise or
+5 release powers of appointment of which the protected person is donee, to
+6 renounce interests, to make gifts in trust or otherwise exceeding twenty percent
+7 of any year's income of the estate, or to change beneficiaries under insurance
+8 and annuity policies, only if satisfied, after notice to those identified in section 18
+9 of this Act and hearing, that it is in the best interests of the protected person, and
+10 that the protected person either is incapable of consenting or has consented to
+11 the proposed exercise of power.
+12 e. An order made pursuant to this section determining that appointment of a
+13 conservator or other protective order is appropriate has no effect on the capacity
+14 of the protected person.
+15 SECTION 22. AMENDMENT. Section 30.1-29-13 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 30.1-29-13. (5-413) Acceptance of appointment - Consent to jurisdiction.
+18 By accepting appointment, a conservator submits personally to the jurisdiction of the court
+19 in any proceeding, relating to the estate, that may be instituted by any interested person. Notice
+20 of any proceeding shall be delivered to the conservator, or mailed to the conservator by
+21 registered or certified mail at the conservator's address as listed in the petition for appointment
+22 or as thereafter reported to the court and to the conservator's address as then known to the
+23 petitioner.
+24 SECTION 23. AMENDMENT. Section 30.1-29-18 of the North Dakota Century Code is
+25 amended and reenacted as follows:
+26 30.1-29-18. (5-418) Inventory and records.
+27 Within ninety days after appointment, every conservator shall prepare and file with the
+28 appointing court a complete inventory of the estate of the protected person together with the
+29 conservator's oath or affirmation that it is complete and accurate so far as the conservator is
+30 informed. The conservator shall provide a copy thereof to the protected person if the protected
+31 person can be located, has attained the age of fourteen years, and has sufficient mental
+Page No. 27 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 capacity to understand these matters, and to any guardian, spouse, or parent, if the protected
+2 person is a minor, and to any interested persons designated by the court in its orderto those
+3 identified in section 18 of this Ac t. The conservator shall keep suitable records of the
+4 conservator's administration and exhibit the same on request of any interested person.
+5 SECTION 24. AMENDMENT. Subsection 3 of section 30.1-29-19 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 3. Copies of the conservator's annual report to the court and of any other reports
+8 required by the court must be mailed by the conservator to the protected person and
+9 other parties as required under section 30.1-29-18provided to those identified in
+10 section 18 of this Ac t. The protected person's copy must be accompanied by a
+11 statement, printed with not less than double-spaced twelve-point type, of the protected
+12 person's right to seek alteration, limitation, or termination of the conservatorship at any
+13 time.
+14 SECTION 25. AMENDMENT. Subsection 1 of section 30.1-29-20.1 of the North Dakota
+15 Century Code is amended and reenacted as follows:
+16 1. On petition by a person interested in the estate of the person to be protected, the court
+17 may appoint an emergency conservator if the court finds that compliance with the
+18 procedures in this chapter likely will result in substantial harm to the estate of the
+19 person to be protected, and that no other person appears to have authority and
+20 willingness to act in the circumstances. The court may appoint the conservator for a
+21 specified period of time, not to exceed ninety days. Immediately upon receipt of the
+22 petition for an emergency conservator, the court shall appoint a guardian ad litem to
+23 advocate for the best interests of the estate of the person to be protected in the
+24 proceeding and any subsequent proceeding. The court shall hold a hearing within
+25 ten days of the filing of the petition to determine if appointment of an emergency
+26 conservator is appropriate. Except as otherwise provided in subsection 2, reasonable
+27 notice of the time and place of a hearing on the petition must be given to the person
+28 whose estate is to be protected, the person's spouse, if any, and any other persons as
+29 the court directs those identified in section 18 of this Ac t.
+30 SECTION 26. AMENDMENT. Subsection 2 of section 30.1-29-22 of the North Dakota
+31 Century Code is amended and reenacted as follows:
+Page No. 28 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. A conservator shall move the court for authorization to sell real property of the person
+2 to be protected, upon such terms as the court may order, for the purpose of paying the
+3 protected person's debts; providing for the care, maintenance, rehabilitation, training,
+4 or education of the person to be protected or the dependents of the person to be
+5 protected; or for any other purpose in the best interests of the person to be protected.
+6 a. The motion must contain:
+7 (1) A description of the property;
+8 (2) The details of the sale;
+9 (3) The reason for the transaction;
+10 (4) The current fair market value of the property, including an appraisal unless
+11 good cause is shown;
+12 (5) An explanation of why the transaction is in the best interest of the person to
+13 be protected; and
+14 (6) A notice that any person interested in the real property of the person to be
+15 protected must file an objection to the transaction within ten days of the
+16 notice and demand a hearing.
+17 b. The motion must be served upon the protected person, the spouse of the person
+18 to be protected, and all interested persons those identified in section 18 of this
+19 Act.
+20 c. Consent of the spouse of the person to be protected or interested persons must
+21 be filed with the motion. If the motion is unopposed, the court may authorize the
+22 transaction without a hearing or may conduct a hearing and require proof of the
+23 matters necessary to support the authorization of the transaction.
+24 d. The court's order must include specific findings regarding whether the transaction
+25 is in the best interests of the person to be protected.
+26 SECTION 27. AMENDMENT. Subsection 5 of section 30.1-29-25 of the North Dakota
+27 Century Code is amended and reenacted as follows:
+28 5. If a protected person dies, the conservator shall deliver to the court for safekeeping
+29 any will of the deceased protected person which may have come into the
+30 conservator's possession, inform the executor or a beneficiary named therein that the
+31 conservator has done so, and retain the estate for delivery to a duly appointed
+Page No. 29 25.1110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 personal representative of the decedent or other persons entitled thereto. If after forty
+2 days from the death of the protected person no other person has been appointed
+3 personal representative and no application or petition for appointment is before the
+4 court, the conservator may apply to exercise the powers and duties of a personal
+5 representative so that the conservator may proceed to administer and distribute the
+6 decedent's estate without additional or further appointment. Upon application for an
+7 order granting the powers of a personal representative to a conservator, after notice to
+8 any person demanding notice under section 30.1-13-04 , those identified in section 18
+9 of this Act, and to any person nominated executor in any will of which the applicant is
+10 aware, the court may order the conferral of the power upon determining that there is
+11 no objection, and endorse the letters of the conservator to note that the formerly
+12 protected person is deceased and that the conservator has acquired all of the powers
+13 and duties of a personal representative. The making and entry of an order under this
+14 section has the effect of an order of appointment of a personal representative as
+15 provided in section 30.1-14-08 and chapters 30.1-17 through 30.1-21, except that
+16 estate in the name of the conservator, after administration, may be distributed to the
+17 decedent's successors without prior retransfer to the conservator as personal
+18 representative.
+19 SECTION 28. REPEAL. Sections 30.1-26-01, 30.1-28-08, and 30.1-28-15 of the North
+20 Dakota Century Code are repealed.
+Page No. 30 25.1110.01000
+
+[DELETED: .I12]
+[DELETED: .T.T.T.C.P.A.G.G.A.a.U)T22]
+[DELETED: )T)T)T.T.A.T.R.A32]
+[DELETED: ."."."."."42]
+[DELETED: ."."."."."."."."."."52]
+[DELETED: .".".".A.A.A.A.A."."."."62]
+[DELETED: .".".".".". )H)C)S)C)B)A)P)O.F)T72]
+[DELETED: )T)A)A)A)A."."."."."."."82]
+[DELETED: ."."."."."."."."."."."."."."92]
+[DELETED: ."."."."."."."."."."02]
+[DELETED: ."."."."."."."12]
+[DELETED: .A.M.T.T.A.H.H22]
+[DELETED: .A)T)T)T)T.E.T.T32]
+[DELETED: .U.T.A.B42]
+[DELETED: .O.T.B.A52]
+[DELETED: .I.I.O.T.T.U62]
+[DELETED: .A.U.A.I.I.T.A.I72]
+[DELETED: .T.O.A82]
+[DELETED: .I.A.T.T.A.T92]
+[DELETED: .I.N.W.M.I.E.I.I.R02]
+[DELETED: .M)T)T.M.A.I.A12]
+[DELETED: .C.T.A.A.A22]
+[DELETED: .I.A.T.T.W.T.T.T32]
+[DELETED: .T.I.I.T.T.T.C.I.O42]
+[DELETED: .N.A.A.A52]
+[DELETED: .T.W.A.A62]
+[DELETED: .T.A72]
+[DELETED: .C.O82]
+[DELETED: .A.T)A)T)T)T)A)A.T.C.T.I92]
+[DELETED: 02]

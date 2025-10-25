@@ -1,0 +1,116 @@
+Title: SENATE BILL NO. 2172
+Official Title: SENATE BILL NO. 2172
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0749.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Patten, Cleary, Hogan, Roers
+Representatives Dobervich, Frelich
+1 A BILL for an Act to create and enact a new section to chapter 26.1-45 of the North Dakota
+2 Century Code, relating to long-term care insurance policy terms and claim payments.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 26.1-45 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Defined term requirements - Claim payments.
+7 1. A long-term care insurance policy delivered or issued for delivery in this state may not
+8 include the following terms, unless the terms are defined in the policy and consistent
+9 with the following requirements:
+10 a. "Activities of daily living" means bathing, continence, dressing, eating, toileting,
+11 and transferring.
+12 b. "Bathing" includes washing oneself by sponge bath, or in a tub or shower, and
+13 the process of getting into and out of the tub or shower.
+14 c. "Cognitive impairment" includes a deficiency in an individual's:
+15 (1) Short-term or long-term memory;
+16 (2) Orientation as to an individual, place, or time;
+17 (3) Deductive or abstract reasoning; or
+18 (4) Judgment as it relates to safety awareness.
+19 d. "Continence" includes the ability to maintain control of bowel and bladder
+20 function, or when unable to maintain control of bowel or bladder function, the
+21 ability to perform associated personal hygiene, including caring for a catheter or
+22 colostomy bag.
+23 e. "Dressing" includes putting on and taking off any item of clothing and any
+24 necessary brace, fastener, or artificial limb.
+Page No. 1 25.0749.01000
+Sixty-ninth
+Legislative Assembly
+1 f. "Eating" includes feeding oneself from a receptacle, including a plate, cup, or
+2 table, or being fed through a feeding tube or intravenously.
+3 g. "Toileting" includes getting to and from the toilet and on and off the toilet, and
+4 performing associated personal hygiene.
+5 h. "Transferring" includes moving into or out of a bed, chair, or wheelchair.
+6 2. A policy defined under this chapter may not prohibit or delay payment of policy
+7 benefits to a basic care facility as defined under section 23-09.3-01 if the insured:
+8 a. Meets the criteria for eligibility for benefits under the policy for care or services
+9 that are medically necessary;
+10 b. Is unable to perform two or more activities of daily living without supervision or
+11 direct assistance; or
+12 c. Has cognitive impairment requiring continual supervision.
+Page No. 2 25.0749.01000
+[DELETED: .A.".".")S)O)D)J."."12]
+[DELETED: .".".".A.M.I.H22]
+
+
+================================================================================
+
+Raw Text:
+25.0749.01000
+Sixty-ninth
+SENATE BILL NO. 2172
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Patten, Cleary, Hogan, Roers
+Representatives Dobervich, Frelich
+1 A BILL for an Act to create and enact a new section to chapter 26.1-45 of the North Dakota
+2 Century Code, relating to long-term care insurance policy terms and claim payments.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 26.1-45 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Defined term requirements - Claim payments.
+7 1. A long-term care insurance policy delivered or issued for delivery in this state may not
+8 include the following terms, unless the terms are defined in the policy and consistent
+9 with the following requirements:
+10 a. "Activities of daily living" means bathing, continence, dressing, eating, toileting,
+11 and transferring.
+12 b. "Bathing" includes washing oneself by sponge bath, or in a tub or shower, and
+13 the process of getting into and out of the tub or shower.
+14 c. "Cognitive impairment" includes a deficiency in an individual's:
+15 (1) Short-term or long-term memory;
+16 (2) Orientation as to an individual, place, or time;
+17 (3) Deductive or abstract reasoning; or
+18 (4) Judgment as it relates to safety awareness.
+19 d. "Continence" includes the ability to maintain control of bowel and bladder
+20 function, or when unable to maintain control of bowel or bladder function, the
+21 ability to perform associated personal hygiene, including caring for a catheter or
+22 colostomy bag.
+23 e. "Dressing" includes putting on and taking off any item of clothing and any
+24 necessary brace, fastener, or artificial limb.
+Page No. 1 25.0749.01000
+
+Sixty-ninth
+Legislative Assembly
+1 f. "Eating" includes feeding oneself from a receptacle, including a plate, cup, or
+2 table, or being fed through a feeding tube or intravenously.
+3 g. "Toileting" includes getting to and from the toilet and on and off the toilet, and
+4 performing associated personal hygiene.
+5 h. "Transferring" includes moving into or out of a bed, chair, or wheelchair.
+6 2. A policy defined under this chapter may not prohibit or delay payment of policy
+7 benefits to a basic care facility as defined under section 23-09.3-01 if the insured:
+8 a. Meets the criteria for eligibility for benefits under the policy for care or services
+9 that are medically necessary;
+10 b. Is unable to perform two or more activities of daily living without supervision or
+11 direct assistance; or
+12 c. Has cognitive impairment requiring continual supervision.
+Page No. 2 25.0749.01000
+
+[DELETED: .A.".".")S)O)D)J."."12]
+[DELETED: .".".".A.M.I.H22]

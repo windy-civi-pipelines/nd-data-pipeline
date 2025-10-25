@@ -1,0 +1,120 @@
+Title: ENGROSSED HOUSE BILL NO. 1429
+Official Title: ENGROSSED HOUSE BILL NO. 1429
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0908.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representatives Holle, Dobervich, Headland, Henderson, Koppelman, Tveit, Brandenburg
+Senators Lemm, Magrum
+1 A BILL for an Act to create and enact a new chapter to title 12.1 of the North Dakota Century
+2 Code, relating to surveillance and animal harassment with a robot; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 12.1 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 As used in this chapter:
+8 1. "Harass" means engaging in behavior that annoys, threatens, or intimidates an animal,
+9 causing a change in behavior due to stress or perceived harm.
+10 2. "Livestock" includes beef cattle, dairy cattle, sheep, swine, poultry, horses, bison, elk,
+11 fur animals raised for their pelts, and any other animals that are raised, fed, or
+12 produced as a part of farming or ranching activities.
+13 3. "Robot" means an artificial object or system that senses, processes, and acts using
+14 technology, including the associated elements, communication links, and artificial
+15 intelligence. The term includes remotely piloted aircraft.
+16 Surveillance by robot - Penalty.
+17 1. An individual may not use a robot to:
+18 a. Conduct surveillance of another individual, a residence occupied by another
+19 individual, or any private real property, whether owned or rented.
+20 b. Photograph another individual under circumstances in which that individual has a
+21 reasonable expectation of privacy.
+22 2. This section does not apply to:
+Page No. 1 25.0908.02000
+Sixty-ninth
+Legislative Assembly
+1 a. Law enforcement activity in accordance with chapter 29 - 29.4 .
+2 b. Surveillance conducted in accordance with the exceptions under section
+3 29 - 29.4 - 04 .
+4 c. An individual conducting surveillance or photographing another individual or
+5 another individual's real property, whether owned or rented, with that individual's
+6 consent.
+7 d. An individual photographing an event open to the public.
+8 3. An individual who violates this section is guilty of a class A misdemeanor .
+9 Harassment by robot - Livestock and wildlife - Penalty .
+10 1. An individual may not intentionally or recklessly harass livestock with a robot. An
+11 individual who violates this subsection is guilty of a class B misdemeanor .
+12 2. An individual who harasses livestock with a robot, causing physical injury or death to
+13 livestock, is guilty of a class A misdemeanor .
+14 3. An individual may not intentionally harass wildlife with a robot. An individual who
+15 violates this subsection is guilty of a class B misdemeanor .
+Page No. 2 25.0908.02000
+[DELETED: .".".".A.C.P.T12]
+[DELETED: . .S.A.A. .A.A.A22]
+
+
+================================================================================
+
+Raw Text:
+25.0908.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1429
+Introduced by
+Representatives Holle, Dobervich, Headland, Henderson, Koppelman, Tveit, Brandenburg
+Senators Lemm, Magrum
+1 A BILL for an Act to create and enact a new chapter to title 12.1 of the North Dakota Century
+2 Code, relating to surveillance and animal harassment with a robot; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 12.1 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 As used in this chapter:
+8 1. "Harass" means engaging in behavior that annoys, threatens, or intimidates an animal,
+9 causing a change in behavior due to stress or perceived harm.
+10 2. "Livestock" includes beef cattle, dairy cattle, sheep, swine, poultry, horses, bison, elk,
+11 fur animals raised for their pelts, and any other animals that are raised, fed, or
+12 produced as a part of farming or ranching activities.
+13 3. "Robot" means an artificial object or system that senses, processes, and acts using
+14 technology, including the associated elements, communication links, and artificial
+15 intelligence. The term includes remotely piloted aircraft.
+16 Surveillance by robot - Penalty.
+17 1. An individual may not use a robot to:
+18 a. Conduct surveillance of another individual, a residence occupied by another
+19 individual, or any private real property, whether owned or rented.
+20 b. Photograph another individual under circumstances in which that individual has a
+21 reasonable expectation of privacy.
+22 2. This section does not apply to:
+Page No. 1 25.0908.02000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Law enforcement activity in accordance with chapter 29 - 29.4 .
+2 b. Surveillance conducted in accordance with the exceptions under section
+3 29 - 29.4 - 04 .
+4 c. An individual conducting surveillance or photographing another individual or
+5 another individual's real property, whether owned or rented, with that individual's
+6 consent.
+7 d. An individual photographing an event open to the public.
+8 3. An individual who violates this section is guilty of a class A misdemeanor .
+9 Harassment by robot - Livestock and wildlife - Penalty .
+10 1. An individual may not intentionally or recklessly harass livestock with a robot. An
+11 individual who violates this subsection is guilty of a class B misdemeanor .
+12 2. An individual who harasses livestock with a robot, causing physical injury or death to
+13 livestock, is guilty of a class A misdemeanor .
+14 3. An individual may not intentionally harass wildlife with a robot. An individual who
+15 violates this subsection is guilty of a class B misdemeanor .
+Page No. 2 25.0908.02000
+
+[DELETED: .".".".A.C.P.T12]
+[DELETED: . .S.A.A. .A.A.A22]

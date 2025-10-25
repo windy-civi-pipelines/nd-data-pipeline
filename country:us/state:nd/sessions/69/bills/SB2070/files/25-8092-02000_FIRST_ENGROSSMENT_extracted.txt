@@ -1,0 +1,794 @@
+Title: ENGROSSED SENATE BILL NO. 2070
+Official Title: ENGROSSED SENATE BILL NO. 2070
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+25.8092.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Human Services Committee
+(At the request of the Department of Health and Human Services)
+1 A BILL for an Act to amend and reenact sections 50-10.2-01, 50-10.2-02, 50-10.2-02.1, and
+2 50-10.2-05 of the North Dakota Century Code, relating to the rights of health care facility
+3 residents.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 50-10.2-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 50-10.2-01. Definitions.
+8 In this chapter, unless the context or subject matter otherwise requires:
+9 1. "Authorized electronic monitoringrecording" means the placement and use of an
+10 authorized electronic monitoringrecording device, by a resident or resident
+11 representative, in the resident's room.
+12 2. "Authorized electronic monitoringrecording device" means video surveillance cameras,
+13 monitoring devices, web-based cameras, video phones, or audio recording or
+14 transmitting devices, or a combination of these devices,a device that is installed in the
+15 room of a resident which are designed to acquire, transmit, broadcast, interact, oris
+16 intended to record or is recording and transmitting video, communications, or other
+17 sounds occurring in the room. The term does not include still cameras or devices used
+18 for the purpose of the resident having contact with another person but not for the
+19 purpose of electronically monitoring a resident.
+20 3. "Conflict of interest" means any type of ownership in a facility or membership on the
+21 governing body of a facility by a provider of goods or services to that facility or by a
+22 member of that individual's immediate family.
+Page No. 1 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 4. "Department" means the department of health and human services.
+2 5. "Facility" means a skilled nursing care facility, basic care facility, assisted living facility,
+3 or swing-bed hospital approved to furnish long-term care services.
+4 6. "Immediate family" means husband, wife, father, mother, brother, sister, son, daughter,
+5 father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law,
+6 stepchild, uncle, aunt, niece, nephew, or grandchild.
+7 7. "Remodeling" means any alteration in structure, refurbishing, or repair that would:
+8 a. Prevent the facility staff from providing customary and required care; or
+9 b. Seriously endanger or inconvenience any resident with noise, dust, fumes,
+10 inoperative equipment, or the presence of remodeling workers.
+11 8. "Resident" means an individual residing in a facility.
+12 9. "Resident representative" means a person authorized to act as a resident's agent
+13 under power of attorney for health care or guardianship.
+14 10. "Technology device" means a device capable of remote audio or video
+15 communications which is used for the purpose of the resident having contact with
+16 another person but not for the purpose of virtual monitoring or recording audio or video
+17 of a resident and the resident's room. A technology device includes a cellular mobile
+18 telephone used primarily for telephonic communication, an electronic tablet not used
+19 for virtual monitoring or recording, and an assistive communication device.
+20 11. "Virtual monitoring" means remote live action monitoring conducted without recording
+21 of a resident by a third party via the placement and use of a virtual monitoring device
+22 in the resident's room.
+23 12. "Virtual monitoring device" means a device owned and operated by the resident or
+24 resident representative placed in the resident's room which allows live action
+25 monitoring without recording of a resident by a third party.
+26 13. "Virtual visitation" means remote visitation between a resident and another individual
+27 using a technology device.
+28 SECTION 2. AMENDMENT. Section 50-10.2-02 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 2 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 50-10.2-02. Residents' rights - Implementation.
+2 1. All facilities shall, upon a resident's admission, provide in hand to the resident and a
+3 member of the resident's immediate family or any existing legal guardian of the
+4 resident representative a statement of the resident's rights during the admission
+5 process and while living in the facility. Within thirty days after admission, the statement
+6 must be orally explained to the resident and, if the resident is unable to understand, to
+7 the resident's immediate family member or members and any existing legal guardian
+8 of the resident representative, and thereafter annually so long as the resident remains
+9 in the facility. The statement must include rights, responsibilities of both the resident
+10 and the facility, and the facility rules governing resident conduct. FacilitiesA facility
+11 shall treat residentsa resident in accordance with provisions of the statement. The
+12 statement must include provisions ensuring each resident the following minimum
+13 rights:
+14 a. The right to civil and religious liberties, including knowledge of available choices,
+15 the right to independent personal decisions without infringement, and the right to
+16 encouragement and assistance from the staff of the facility to promote the fullest
+17 possible exercise of these rights.
+18 b. The right to have private meetings, associations, and communications with any
+19 person of the resident's choice within the facility.
+20 c. The right to participate in the community .
+21 d. The right of each resident, the resident's immediate family, any existing legal
+22 guardian of the resident representative , friends, facility staff, and other persons to
+23 present complaints on the behalf of the resident to the facility's staff, the facility's
+24 administrator, governmental officials, or to any other person, without fear of
+25 reprisal, interference, coercion, discrimination, or restraint. The facility shall adopt
+26 a grievance process and make the process known to each resident and, if the
+27 resident is unable to understand, to the resident's immediate family member or
+28 members and any existing legal guardian of the resident. An individual making a
+29 complaint in good faith is immune from any civil liability that otherwise might
+30 result from making the complaint.
+Page No. 3 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 d.e. The right to send and receive unopened personal mail and electronic mail and
+2 the right of access to and use of telephones and electronic devices for private
+3 conversations.
+4 e.f. The right to assured private visits, subject to restrictions to protect the health or
+5 safety of the resident, by one's spouse, partner, or significant other, or if both are
+6 residents of the same facility, the right to share a room, within the capacity of the
+7 facility, unless sharing a room is not medically advisable as documented in the
+8 medical records by the attending physician.
+9 f.g. The right to manage one's own financial affairs if not under legal guardianship, or
+10 to delegate that responsibility in writing to the administrator or manager of the
+11 facility, but only to the extent of funds held in trust by the facility for the resident. If
+12 such a trust is established, then a written quarterly accounting of any transactions
+13 made on behalf of the resident must be furnished along with an explanation by
+14 the facility to the resident or the person legally responsible for the resident.
+15 g.h. The right to be fully informed in writing prior to or at the time of admission and
+16 during one's stay, of services provided and the charges for those services,
+17 including ancillary charges. Residents, or their legal guardians, must be informed
+18 at least thirty days prior to any change in the costs or availability of the services.
+19 No facility may demand or receive any advance payment or gratuity to assure
+20 admission.
+21 h.i. The right to be adequately informed of one's medical condition and proposed
+22 treatment and to participate in the planning of all medical treatment, including the
+23 right to refuse medication and treatment, to be discharged from the facility upon
+24 written request, and to be notified by the resident's attending physician of the
+25 medical consequences of any such actions.
+26 i.j. The right to have privacy in treatment and in caring for personal needs, to use
+27 personal belongings, to have security in storing and using personal possessions,
+28 and to have confidentiality in the treatment of personal and medical records. The
+29 resident has the right to view, and authorize release of, any personal or medical
+30 records.
+Page No. 4 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 j.k. The right to keep and use personal possessions, including furnishings and
+2 clothing as space permits, unless keeping or using the personal possession
+3 would infringe upon the rights, health, or safety of another resident.
+4 l. The right to be treated courteously, fairly, and with the fullest measure of dignity.
+5 k.m. The right to be free from mental and physical abuse, neglect, and financial
+6 exploitation, and the right to be free from physical or chemical restraint except in
+7 documented emergencies or when necessary to protect the resident from injury
+8 to self or to others. In such cases, the restraint must be authorized and
+9 documented by a physician for a limited period of time and, if the restraint is a
+10 chemical one, it must be administered by a licensed nurse or physician. Except
+11 as provided in this subdivision, drugs or physical restraints may not be used or
+12 threatened to be used for the purposes of punishment, for the convenience of
+13 staff, for behavior conditioning, as a substitute for rehabilitation or treatment, or
+14 for any other purpose not part of an approved treatment plan.
+15 l.n. The right not to be transferred or discharged except for:
+16 (1) Medical reasons;
+17 (2) The resident's welfare or that of other residentsif the safety of an individual
+18 in the facility is endangered due to the clinical or behavioral status of the
+19 resident;
+20 (3) Nonpayment of one's rent or fees; or
+21 (4) A temporary transfer during times of remodeling; or
+22 (5) The facility ceases to operate.
+23 m.o. The right to receive at least a thirty-day written advance notice of any transfer or
+24 discharge when the resident is being discharged to another facility or the
+25 resident's own home, or when the resident is being transferred or discharged
+26 because of a change in the resident's level of care; however, advance notice of
+27 transfer or discharge may be less than thirty days if the resident has urgent
+28 medical needs that require a more immediate transfer or discharge, or a more
+29 immediate transfer or discharge is required to protect the health and safety of
+30 residents and staff within the facility.
+Page No. 5 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 n.p. The right to refuse to perform services on behalf of the facility, unless agreed to
+2 by the resident or legal guardian and established in the plan of care.
+3 o.q. The right to a claim for relief against a facility for any violation of rights
+4 guaranteed under this chapter.
+5 p.r. The right to have each facility display a notice that the following information is
+6 available for public review and make the information available on request:
+7 (1) A complete copy of every inspection report, deficiency report, and plan of
+8 correction the facility received during the previous twothree years.
+9 (2) The facility's grievance process.
+10 (3) A copy of the statement of ownership, board membership, and partners.
+11 (4) A statement of ownership setting forth any conflict of interest in the
+12 operation of the facility.
+13 q.s. The right to a pharmacist of the resident's choice irrespective of the type of
+14 medication distribution system used by the facility, and to not be charged a fee or
+15 receive a financial incentive or disincentive for choosing a pharmacy other than
+16 the facility's preferred pharmacy. The resident may not be charged for
+17 repackaging if that cost can be included on the facility cost repor t.
+18 r.t. The right to not be discriminated against by a facility in the admissions process or
+19 in the provision of appropriate care on the basis of the resident's source of
+20 payment to the facility. Any applicant for admission to a facility who is denied
+21 admission must be given the reason for the denial in writing upon request.
+22 s.u. The right of residents and their families to organize, maintain, and participate in
+23 resident advisory and family councils.
+24 t.v. The right of residents receiving services performed by a provider from outside the
+25 facility to be informed, on request, of the identity of the provider.
+26 2. If there is a change in the resident rights, laws, or regulations, the facility shall
+27 promptly notify the resident, and, if the resident is unable to understand, a member of
+28 the resident's immediate family or the resident representative.
+29 3. For involuntary transfer and discharge actions taken by a facility , the written transfer or
+30 discharge notice issued by the facility must include :
+31 a. The reason for the transfer or discharge.
+Page No. 6 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 b. The effective date of transfer or discharge.
+2 c. The location the resident is to be transferred or discharged to.
+3 d. The name, mailing and electronic mail address, and telephone number of the
+4 office of the state long-term care ombudsman.
+5 4. The facility shall protect the resident from retaliation. The facility shall adopt a
+6 grievance process and make the process known to each resident, the resident's
+7 immediate family member, and the resident representative. A person making a
+8 complaint in good faith is immune from any civil liability that otherwise might result
+9 from making the complaint.
+10 5. If a trust is established by the facility to hold the resident's funds, the facility shall
+11 provide to the resident, resident representative, or an agent under a power of attorney
+12 for financial decisions a written quarterly accounting of any transactions made on
+13 behalf of the resident which includes an explanation of the transactions by the facility.
+14 The facility shall pay out in full, within thirty days, the resident's personal funds
+15 deposited with the facility or refunds due to the resident upon discharge or eviction,
+16 and provide a final accounting of those funds to the resident, or in the case of death, in
+17 accordance with state law. Other refunds due to the resident upon discharge, eviction,
+18 or death must be paid out in full within thirty days from the resident's date of discharge
+19 from the facility.
+20 6. The facility shall inform a resident, resident representative, an agent under a power of
+21 attorney for financial decisions, or immediate family member, at least thirty days before
+22 any change in the costs or availability of the services. A facility may not demand or
+23 receive advance payment or gratuity to assure admission or for the resident to be
+24 placed on a waiting list for admission.
+25 7. A resident and the resident representative may view and authorize release of any
+26 personal or medical records.
+27 8. The use of a physical or chemical restraint in an emergency or when necessary to
+28 protect the resident from injury to self or others must be authorized and documented
+29 by a physician, nurse practitioner, or physician's assistant for a limited period of time. A
+30 chemical restraint must be administered by a licensed nurse , physician, nurse
+31 practitioner, or physician's assistant. Except as provided in this subsection, a drug or
+Page No. 7 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 physical restraint may not be used or threatened to be used for the purpose of
+2 punishment, for the convenience of staff, for behavior conditioning, as a substitute for
+3 rehabilitation or treatment, or for any other purpose not included in an approved
+4 treatment plan.
+5 9. Upon request, a facility shall provide an applicant for admission to a facility who is
+6 denied admission the reason for the denial in writing. The facility shall note in the
+7 written denial when the denial is based on the special characteristics or service
+8 limitations of the facility.
+9 10. A facility shall ensure a resident council meeting is attended by residents only or at the
+10 invitation of a resident.
+11 11. Waiver of any of the rights guaranteed by this chapter may not be made a condition of
+12 admission to a facility or ongoing residence.
+13 3.12. Each facility shall prepare a written plan and provide staff training to implement this
+14 chapter.
+15 4.13. The department shall develop and coordinate with the facility licensing and regulatory
+16 agencies a relocation plan in the event a facility is decertified or unlicensed.
+17 SECTION 3. AMENDMENT. Section 50-10.2-02.1 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 50-10.2-02.1. Authorized electronic monitoring - Penalty.
+20 1. A resident and the resident representative may treat the resident's living quarters as
+21 the resident's home and, subject to rules to protect the privacy and safety of another
+22 resident, may purchase and use a technology device of the resident's choice,
+23 including a technology device that may facilitate virtual monitoring or virtual visitation
+24 with family and other persons, provided operation and use of the technology device
+25 does not violate an individual's right to privacy under state or federal law.
+26 Subsections 3 through 12 apply if a technology device or a virtual monitoring device is
+27 used to record.
+28 2. A resident may use a device of the resident's choice that facilitates virtual monitoring,
+29 provided:
+30 a. The purchase, activation, installation, maintenance, repair, deactivation, and
+31 removal of such device is at the expense of the resident; and
+Page No. 8 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 b. The device and any images obtained from the device are used by the resident
+2 and any person communicating with the resident in a manner that does not
+3 violate an individual's right to privacy under state or federal law.
+4 3. A facility shall permit a resident or the resident representative to conduct authorized
+5 electronic monitoringrecording of the resident's room through an authorized electronic
+6 monitoringrecording device if:
+7 a. The authorized electronic monitoringrecording device is placed in the resident's
+8 room;
+9 b. The electronic monitoringrecording device is placed in a fixed, stationary position;
+10 monitorsrecords only the area occupied by the resident and not the area
+11 occupied by the resident's roommate; and protects the privacy and dignity of the
+12 resident;
+13 c. The facility is given written notice of the placement and use which must include
+14 an installation plan in compliance with the facility's standards and regulations the
+15 facility providesshall provide to the resident;
+16 d. A video tape or recording created using an authorized electronic
+17 monitoringrecording device records the date and time;
+18 e. All costs, except for electricity, associated with the authorized electronic
+19 monitoringrecording device, including installation, operation, removal, repairs,
+20 room damage, and maintenance, are paid by the resident or resident
+21 representative who initiated the use of the authorized electronic
+22 monitoringrecording device; and
+23 f. A signed authorization for the disclosure of protected health information, as
+24 defined by title 45, Code of Federal Regulations, part 160, section 103, compliant
+25 with the federal Health Insurance Portability and Accountability Act of 1996 [Pub.
+26 L. 104-191; 110 Stat. 1936; 29 U.S.C. 1181 et seq.] and consenting to the use of
+27 the device is given by each resident occupying the same room, or by that
+28 resident's resident representative in accordance with subsection 45.
+29 2. A facility that uses an authorized electronic monitoring device in compliance with this
+30 chapter is not guilty of a crime or civilly liable under this code for a violation of a
+31 resident's privacy.
+Page No. 9 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 3.4. The facility shall cooperate to accommodate the placement of the authorized
+2 electronic monitoringrecording device, unless doing so would place undue burden on
+3 the facility.
+4 4.5. Before placing and using the authorized electronic monitoringrecording device or
+5 virtual monitoring device, a resident or resident representative shall obtain the signed
+6 authorization of any other resident residing in the room in accordance with
+7 subsection 13. The authorization may be signed by that resident's resident
+8 representative.
+9 a. The resident's or the resident representative's authorization may limit the use of
+10 an authorized electronic monitoringrecording device to only audio
+11 monitoringrecording or only video monitoringrecording and may limit the device's
+12 time of operation, direction, and focus.
+13 b. At any time, a resident or resident representative who did not request the
+14 authorized electronic monitoringrecording device in the resident's room may
+15 withdraw, in writing, the signed authorization for the use of the device. The
+16 resident who requested the device or the resident's resident representative is
+17 responsible for having the device disabled in compliance with the facility's
+18 standards and regulations after receipt of the written withdrawal.
+19 5.6. The facility shall make a reasonable attempt to accommodate a resident if a resident
+20 or resident representative of a resident who is residing in a shared room wants to have
+21 an authorized electronic monitoringrecording device placed in the room and another
+22 resident living in the same shared room refuses to authorize the use of the authorized
+23 electronic monitoring device.
+24 6.7. If authorized electronic monitoringrecording is being conducted in the room of a
+25 resident, and another resident will be moved into the room, the resident who
+26 requested the device or the resident's resident representative is responsible for having
+27 the existing authorized electronic monitoringrecording device disabled in compliance
+28 with the facility's standards and regulations unless the new resident or the resident's
+29 resident representative authorizes the device pursuant to subsections 13 and 45.
+30 7.8. A facility may not refuse to admit an individual and may not remove a resident from a
+31 facility because of authorized electronic monitoringrecording of a resident's room. A
+Page No. 10 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 person may not intentionally retaliate or discriminate against a resident for
+2 authorization of authorized electronic monitoringrecording.
+3 8.9. A facility clearly and conspicuously shall post a sign where authorized electronic
+4 monitoringrecording is being conducted to alert and inform visitors.
+5 9.10. A facility or staff of the facility may not access any video or audio recording created
+6 through an authorized electronic monitoringrecording device placed in a resident's
+7 room without the written consent of the resident or resident representative or court
+8 order.
+9 10.11. A personAn individual that intentionally hampers, obstructs, tampers with, or destroys
+10 a recording or an authorized electronic monitoringrecording device or virtual
+11 monitoring device placed in a resident's room, without the express written consent of
+12 the resident or resident representative, is subject to a class B misdemeanor. A
+13 personAn individual that places an electronic monitoringrecording device in the room
+14 of a resident or which uses or discloses a tape or other recording made by the device
+15 may be guilty of a crime or civilly liable for any unlawful violation of the privacy rights of
+16 another. In any civil proceeding, administrative proceeding, or survey process, material
+17 obtained through the use of an authorized electronic monitoringrecording device may
+18 not be used if a personan individual intentionally hampered, obstructed, or tampered
+19 with the material without the express written consent of the resident or resident
+20 representative, or if the material was obtained through the operation of an electronic
+21 monitoringrecording device which was not compliant with this section.
+22 11.12. A person may not intercept a communication or disclose or use an intercepted
+23 communication of an authorized electronic monitoringrecording device or a virtual
+24 monitoring device placed in a resident's room, without the express written consent of
+25 the resident or the resident representative.
+26 SECTION 4. AMENDMENT. Section 50-10.2-05 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 50-10.2-05. Furnishing financial information.
+29 A facility may request that an applicant for admission, a resident of the facility, or the
+30 applicant's or resident's legal representative furnish financial information regarding income and
+31 assets, including information regarding any transfers or assignments of income or assets. A
+Page No. 11 25.8092.02000
+Sixty-ninth
+Legislative Assembly
+1 facility may deny admission to an applicant for admission who is unable to verify a viable
+2 payment source.
+Page No. 12 25.8092.02000
+[DELETED: ."."."12]
+[DELETED: .".".".".P.S."."."."."."22]
+[DELETED: .A.T.T. .T32]
+[DELETED: .T.T.T.T.T.T42]
+[DELETED: . .T.T.T)M)T)N)A)T.T52]
+[DELETED: .T.T.T)A)T)A)A.T.T.T.T.I. .T62]
+[DELETED: .T.T.T.T.I.T.A.T72]
+[DELETED: .U.A.W.E.T.A.A.T82]
+[DELETED: .T.A.T.T.T.A.A.A.A92]
+[DELETED: .T.B.T.A.T.I.A02]
+[DELETED: .A.A.A.A12]
+[DELETED: 22]
+
+
+================================================================================
+
+Raw Text:
+25.8092.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2070
+Introduced by
+Human Services Committee
+(At the request of the Department of Health and Human Services)
+1 A BILL for an Act to amend and reenact sections 50-10.2-01, 50-10.2-02, 50-10.2-02.1, and
+2 50-10.2-05 of the North Dakota Century Code, relating to the rights of health care facility
+3 residents.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 50-10.2-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 50-10.2-01. Definitions.
+8 In this chapter, unless the context or subject matter otherwise requires:
+9 1. "Authorized electronic monitoringrecording" means the placement and use of an
+10 authorized electronic monitoringrecording device, by a resident or resident
+11 representative, in the resident's room.
+12 2. "Authorized electronic monitoringrecording device" means video surveillance cameras,
+13 monitoring devices, web-based cameras, video phones, or audio recording or
+14 transmitting devices, or a combination of these devices,a device that is installed in the
+15 room of a resident which are designed to acquire, transmit, broadcast, interact, oris
+16 intended to record or is recording and transmitting video, communications, or other
+17 sounds occurring in the room. The term does not include still cameras or devices used
+18 for the purpose of the resident having contact with another person but not for the
+19 purpose of electronically monitoring a resident.
+20 3. "Conflict of interest" means any type of ownership in a facility or membership on the
+21 governing body of a facility by a provider of goods or services to that facility or by a
+22 member of that individual's immediate family.
+Page No. 1 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 4. "Department" means the department of health and human services.
+2 5. "Facility" means a skilled nursing care facility, basic care facility, assisted living facility,
+3 or swing-bed hospital approved to furnish long-term care services.
+4 6. "Immediate family" means husband, wife, father, mother, brother, sister, son, daughter,
+5 father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law,
+6 stepchild, uncle, aunt, niece, nephew, or grandchild.
+7 7. "Remodeling" means any alteration in structure, refurbishing, or repair that would:
+8 a. Prevent the facility staff from providing customary and required care; or
+9 b. Seriously endanger or inconvenience any resident with noise, dust, fumes,
+10 inoperative equipment, or the presence of remodeling workers.
+11 8. "Resident" means an individual residing in a facility.
+12 9. "Resident representative" means a person authorized to act as a resident's agent
+13 under power of attorney for health care or guardianship.
+14 10. "Technology device" means a device capable of remote audio or video
+15 communications which is used for the purpose of the resident having contact with
+16 another person but not for the purpose of virtual monitoring or recording audio or video
+17 of a resident and the resident's room. A technology device includes a cellular mobile
+18 telephone used primarily for telephonic communication, an electronic tablet not used
+19 for virtual monitoring or recording, and an assistive communication device.
+20 11. "Virtual monitoring" means remote live action monitoring conducted without recording
+21 of a resident by a third party via the placement and use of a virtual monitoring device
+22 in the resident's room.
+23 12. "Virtual monitoring device" means a device owned and operated by the resident or
+24 resident representative placed in the resident's room which allows live action
+25 monitoring without recording of a resident by a third party.
+26 13. "Virtual visitation" means remote visitation between a resident and another individual
+27 using a technology device.
+28 SECTION 2. AMENDMENT. Section 50-10.2-02 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 2 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 50-10.2-02. Residents' rights - Implementation.
+2 1. All facilities shall, upon a resident's admission, provide in hand to the resident and a
+3 member of the resident's immediate family or any existing legal guardian of the
+4 resident representative a statement of the resident's rights during the admission
+5 process and while living in the facility. Within thirty days after admission, the statement
+6 must be orally explained to the resident and, if the resident is unable to understand, to
+7 the resident's immediate family member or members and any existing legal guardian
+8 of the resident representative, and thereafter annually so long as the resident remains
+9 in the facility. The statement must include rights, responsibilities of both the resident
+10 and the facility, and the facility rules governing resident conduct. FacilitiesA facility
+11 shall treat residentsa resident in accordance with provisions of the statement. The
+12 statement must include provisions ensuring each resident the following minimum
+13 rights:
+14 a. The right to civil and religious liberties, including knowledge of available choices,
+15 the right to independent personal decisions without infringement, and the right to
+16 encouragement and assistance from the staff of the facility to promote the fullest
+17 possible exercise of these rights.
+18 b. The right to have private meetings, associations, and communications with any
+19 person of the resident's choice within the facility.
+20 c. The right to participate in the community .
+21 d. The right of each resident, the resident's immediate family, any existing legal
+22 guardian of the resident representative , friends, facility staff, and other persons to
+23 present complaints on the behalf of the resident to the facility's staff, the facility's
+24 administrator, governmental officials, or to any other person, without fear of
+25 reprisal, interference, coercion, discrimination, or restraint. The facility shall adopt
+26 a grievance process and make the process known to each resident and, if the
+27 resident is unable to understand, to the resident's immediate family member or
+28 members and any existing legal guardian of the resident. An individual making a
+29 complaint in good faith is immune from any civil liability that otherwise might
+30 result from making the complaint.
+Page No. 3 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 d.e. The right to send and receive unopened personal mail and electronic mail and
+2 the right of access to and use of telephones and electronic devices for private
+3 conversations.
+4 e.f. The right to assured private visits, subject to restrictions to protect the health or
+5 safety of the resident, by one's spouse, partner, or significant other, or if both are
+6 residents of the same facility, the right to share a room, within the capacity of the
+7 facility, unless sharing a room is not medically advisable as documented in the
+8 medical records by the attending physician.
+9 f.g. The right to manage one's own financial affairs if not under legal guardianship, or
+10 to delegate that responsibility in writing to the administrator or manager of the
+11 facility, but only to the extent of funds held in trust by the facility for the resident. If
+12 such a trust is established, then a written quarterly accounting of any transactions
+13 made on behalf of the resident must be furnished along with an explanation by
+14 the facility to the resident or the person legally responsible for the resident.
+15 g.h. The right to be fully informed in writing prior to or at the time of admission and
+16 during one's stay, of services provided and the charges for those services,
+17 including ancillary charges. Residents, or their legal guardians, must be informed
+18 at least thirty days prior to any change in the costs or availability of the services.
+19 No facility may demand or receive any advance payment or gratuity to assure
+20 admission.
+21 h.i. The right to be adequately informed of one's medical condition and proposed
+22 treatment and to participate in the planning of all medical treatment, including the
+23 right to refuse medication and treatment, to be discharged from the facility upon
+24 written request, and to be notified by the resident's attending physician of the
+25 medical consequences of any such actions.
+26 i.j. The right to have privacy in treatment and in caring for personal needs, to use
+27 personal belongings, to have security in storing and using personal possessions,
+28 and to have confidentiality in the treatment of personal and medical records. The
+29 resident has the right to view, and authorize release of, any personal or medical
+30 records.
+Page No. 4 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 j.k. The right to keep and use personal possessions, including furnishings and
+2 clothing as space permits, unless keeping or using the personal possession
+3 would infringe upon the rights, health, or safety of another resident.
+4 l. The right to be treated courteously, fairly, and with the fullest measure of dignity.
+5 k.m. The right to be free from mental and physical abuse, neglect, and financial
+6 exploitation, and the right to be free from physical or chemical restraint except in
+7 documented emergencies or when necessary to protect the resident from injury
+8 to self or to others. In such cases, the restraint must be authorized and
+9 documented by a physician for a limited period of time and, if the restraint is a
+10 chemical one, it must be administered by a licensed nurse or physician. Except
+11 as provided in this subdivision, drugs or physical restraints may not be used or
+12 threatened to be used for the purposes of punishment, for the convenience of
+13 staff, for behavior conditioning, as a substitute for rehabilitation or treatment, or
+14 for any other purpose not part of an approved treatment plan.
+15 l.n. The right not to be transferred or discharged except for:
+16 (1) Medical reasons;
+17 (2) The resident's welfare or that of other residentsif the safety of an individual
+18 in the facility is endangered due to the clinical or behavioral status of the
+19 resident;
+20 (3) Nonpayment of one's rent or fees; or
+21 (4) A temporary transfer during times of remodeling; or
+22 (5) The facility ceases to operate.
+23 m.o. The right to receive at least a thirty-day written advance notice of any transfer or
+24 discharge when the resident is being discharged to another facility or the
+25 resident's own home, or when the resident is being transferred or discharged
+26 because of a change in the resident's level of care; however, advance notice of
+27 transfer or discharge may be less than thirty days if the resident has urgent
+28 medical needs that require a more immediate transfer or discharge, or a more
+29 immediate transfer or discharge is required to protect the health and safety of
+30 residents and staff within the facility.
+Page No. 5 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 n.p. The right to refuse to perform services on behalf of the facility, unless agreed to
+2 by the resident or legal guardian and established in the plan of care.
+3 o.q. The right to a claim for relief against a facility for any violation of rights
+4 guaranteed under this chapter.
+5 p.r. The right to have each facility display a notice that the following information is
+6 available for public review and make the information available on request:
+7 (1) A complete copy of every inspection report, deficiency report, and plan of
+8 correction the facility received during the previous twothree years.
+9 (2) The facility's grievance process.
+10 (3) A copy of the statement of ownership, board membership, and partners.
+11 (4) A statement of ownership setting forth any conflict of interest in the
+12 operation of the facility.
+13 q.s. The right to a pharmacist of the resident's choice irrespective of the type of
+14 medication distribution system used by the facility, and to not be charged a fee or
+15 receive a financial incentive or disincentive for choosing a pharmacy other than
+16 the facility's preferred pharmacy. The resident may not be charged for
+17 repackaging if that cost can be included on the facility cost repor t.
+18 r.t. The right to not be discriminated against by a facility in the admissions process or
+19 in the provision of appropriate care on the basis of the resident's source of
+20 payment to the facility. Any applicant for admission to a facility who is denied
+21 admission must be given the reason for the denial in writing upon request.
+22 s.u. The right of residents and their families to organize, maintain, and participate in
+23 resident advisory and family councils.
+24 t.v. The right of residents receiving services performed by a provider from outside the
+25 facility to be informed, on request, of the identity of the provider.
+26 2. If there is a change in the resident rights, laws, or regulations, the facility shall
+27 promptly notify the resident, and, if the resident is unable to understand, a member of
+28 the resident's immediate family or the resident representative.
+29 3. For involuntary transfer and discharge actions taken by a facility , the written transfer or
+30 discharge notice issued by the facility must include :
+31 a. The reason for the transfer or discharge.
+Page No. 6 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. The effective date of transfer or discharge.
+2 c. The location the resident is to be transferred or discharged to.
+3 d. The name, mailing and electronic mail address, and telephone number of the
+4 office of the state long-term care ombudsman.
+5 4. The facility shall protect the resident from retaliation. The facility shall adopt a
+6 grievance process and make the process known to each resident, the resident's
+7 immediate family member, and the resident representative. A person making a
+8 complaint in good faith is immune from any civil liability that otherwise might result
+9 from making the complaint.
+10 5. If a trust is established by the facility to hold the resident's funds, the facility shall
+11 provide to the resident, resident representative, or an agent under a power of attorney
+12 for financial decisions a written quarterly accounting of any transactions made on
+13 behalf of the resident which includes an explanation of the transactions by the facility.
+14 The facility shall pay out in full, within thirty days, the resident's personal funds
+15 deposited with the facility or refunds due to the resident upon discharge or eviction,
+16 and provide a final accounting of those funds to the resident, or in the case of death, in
+17 accordance with state law. Other refunds due to the resident upon discharge, eviction,
+18 or death must be paid out in full within thirty days from the resident's date of discharge
+19 from the facility.
+20 6. The facility shall inform a resident, resident representative, an agent under a power of
+21 attorney for financial decisions, or immediate family member, at least thirty days before
+22 any change in the costs or availability of the services. A facility may not demand or
+23 receive advance payment or gratuity to assure admission or for the resident to be
+24 placed on a waiting list for admission.
+25 7. A resident and the resident representative may view and authorize release of any
+26 personal or medical records.
+27 8. The use of a physical or chemical restraint in an emergency or when necessary to
+28 protect the resident from injury to self or others must be authorized and documented
+29 by a physician, nurse practitioner, or physician's assistant for a limited period of time. A
+30 chemical restraint must be administered by a licensed nurse , physician, nurse
+31 practitioner, or physician's assistant. Except as provided in this subsection, a drug or
+Page No. 7 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 physical restraint may not be used or threatened to be used for the purpose of
+2 punishment, for the convenience of staff, for behavior conditioning, as a substitute for
+3 rehabilitation or treatment, or for any other purpose not included in an approved
+4 treatment plan.
+5 9. Upon request, a facility shall provide an applicant for admission to a facility who is
+6 denied admission the reason for the denial in writing. The facility shall note in the
+7 written denial when the denial is based on the special characteristics or service
+8 limitations of the facility.
+9 10. A facility shall ensure a resident council meeting is attended by residents only or at the
+10 invitation of a resident.
+11 11. Waiver of any of the rights guaranteed by this chapter may not be made a condition of
+12 admission to a facility or ongoing residence.
+13 3.12. Each facility shall prepare a written plan and provide staff training to implement this
+14 chapter.
+15 4.13. The department shall develop and coordinate with the facility licensing and regulatory
+16 agencies a relocation plan in the event a facility is decertified or unlicensed.
+17 SECTION 3. AMENDMENT. Section 50-10.2-02.1 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 50-10.2-02.1. Authorized electronic monitoring - Penalty.
+20 1. A resident and the resident representative may treat the resident's living quarters as
+21 the resident's home and, subject to rules to protect the privacy and safety of another
+22 resident, may purchase and use a technology device of the resident's choice,
+23 including a technology device that may facilitate virtual monitoring or virtual visitation
+24 with family and other persons, provided operation and use of the technology device
+25 does not violate an individual's right to privacy under state or federal law.
+26 Subsections 3 through 12 apply if a technology device or a virtual monitoring device is
+27 used to record.
+28 2. A resident may use a device of the resident's choice that facilitates virtual monitoring,
+29 provided:
+30 a. The purchase, activation, installation, maintenance, repair, deactivation, and
+31 removal of such device is at the expense of the resident; and
+Page No. 8 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. The device and any images obtained from the device are used by the resident
+2 and any person communicating with the resident in a manner that does not
+3 violate an individual's right to privacy under state or federal law.
+4 3. A facility shall permit a resident or the resident representative to conduct authorized
+5 electronic monitoringrecording of the resident's room through an authorized electronic
+6 monitoringrecording device if:
+7 a. The authorized electronic monitoringrecording device is placed in the resident's
+8 room;
+9 b. The electronic monitoringrecording device is placed in a fixed, stationary position;
+10 monitorsrecords only the area occupied by the resident and not the area
+11 occupied by the resident's roommate; and protects the privacy and dignity of the
+12 resident;
+13 c. The facility is given written notice of the placement and use which must include
+14 an installation plan in compliance with the facility's standards and regulations the
+15 facility providesshall provide to the resident;
+16 d. A video tape or recording created using an authorized electronic
+17 monitoringrecording device records the date and time;
+18 e. All costs, except for electricity, associated with the authorized electronic
+19 monitoringrecording device, including installation, operation, removal, repairs,
+20 room damage, and maintenance, are paid by the resident or resident
+21 representative who initiated the use of the authorized electronic
+22 monitoringrecording device; and
+23 f. A signed authorization for the disclosure of protected health information, as
+24 defined by title 45, Code of Federal Regulations, part 160, section 103, compliant
+25 with the federal Health Insurance Portability and Accountability Act of 1996 [Pub.
+26 L. 104-191; 110 Stat. 1936; 29 U.S.C. 1181 et seq.] and consenting to the use of
+27 the device is given by each resident occupying the same room, or by that
+28 resident's resident representative in accordance with subsection 45.
+29 2. A facility that uses an authorized electronic monitoring device in compliance with this
+30 chapter is not guilty of a crime or civilly liable under this code for a violation of a
+31 resident's privacy.
+Page No. 9 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 3.4. The facility shall cooperate to accommodate the placement of the authorized
+2 electronic monitoringrecording device, unless doing so would place undue burden on
+3 the facility.
+4 4.5. Before placing and using the authorized electronic monitoringrecording device or
+5 virtual monitoring device, a resident or resident representative shall obtain the signed
+6 authorization of any other resident residing in the room in accordance with
+7 subsection 13. The authorization may be signed by that resident's resident
+8 representative.
+9 a. The resident's or the resident representative's authorization may limit the use of
+10 an authorized electronic monitoringrecording device to only audio
+11 monitoringrecording or only video monitoringrecording and may limit the device's
+12 time of operation, direction, and focus.
+13 b. At any time, a resident or resident representative who did not request the
+14 authorized electronic monitoringrecording device in the resident's room may
+15 withdraw, in writing, the signed authorization for the use of the device. The
+16 resident who requested the device or the resident's resident representative is
+17 responsible for having the device disabled in compliance with the facility's
+18 standards and regulations after receipt of the written withdrawal.
+19 5.6. The facility shall make a reasonable attempt to accommodate a resident if a resident
+20 or resident representative of a resident who is residing in a shared room wants to have
+21 an authorized electronic monitoringrecording device placed in the room and another
+22 resident living in the same shared room refuses to authorize the use of the authorized
+23 electronic monitoring device.
+24 6.7. If authorized electronic monitoringrecording is being conducted in the room of a
+25 resident, and another resident will be moved into the room, the resident who
+26 requested the device or the resident's resident representative is responsible for having
+27 the existing authorized electronic monitoringrecording device disabled in compliance
+28 with the facility's standards and regulations unless the new resident or the resident's
+29 resident representative authorizes the device pursuant to subsections 13 and 45.
+30 7.8. A facility may not refuse to admit an individual and may not remove a resident from a
+31 facility because of authorized electronic monitoringrecording of a resident's room. A
+Page No. 10 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 person may not intentionally retaliate or discriminate against a resident for
+2 authorization of authorized electronic monitoringrecording.
+3 8.9. A facility clearly and conspicuously shall post a sign where authorized electronic
+4 monitoringrecording is being conducted to alert and inform visitors.
+5 9.10. A facility or staff of the facility may not access any video or audio recording created
+6 through an authorized electronic monitoringrecording device placed in a resident's
+7 room without the written consent of the resident or resident representative or court
+8 order.
+9 10.11. A personAn individual that intentionally hampers, obstructs, tampers with, or destroys
+10 a recording or an authorized electronic monitoringrecording device or virtual
+11 monitoring device placed in a resident's room, without the express written consent of
+12 the resident or resident representative, is subject to a class B misdemeanor. A
+13 personAn individual that places an electronic monitoringrecording device in the room
+14 of a resident or which uses or discloses a tape or other recording made by the device
+15 may be guilty of a crime or civilly liable for any unlawful violation of the privacy rights of
+16 another. In any civil proceeding, administrative proceeding, or survey process, material
+17 obtained through the use of an authorized electronic monitoringrecording device may
+18 not be used if a personan individual intentionally hampered, obstructed, or tampered
+19 with the material without the express written consent of the resident or resident
+20 representative, or if the material was obtained through the operation of an electronic
+21 monitoringrecording device which was not compliant with this section.
+22 11.12. A person may not intercept a communication or disclose or use an intercepted
+23 communication of an authorized electronic monitoringrecording device or a virtual
+24 monitoring device placed in a resident's room, without the express written consent of
+25 the resident or the resident representative.
+26 SECTION 4. AMENDMENT. Section 50-10.2-05 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 50-10.2-05. Furnishing financial information.
+29 A facility may request that an applicant for admission, a resident of the facility, or the
+30 applicant's or resident's legal representative furnish financial information regarding income and
+31 assets, including information regarding any transfers or assignments of income or assets. A
+Page No. 11 25.8092.02000
+
+Sixty-ninth
+Legislative Assembly
+1 facility may deny admission to an applicant for admission who is unable to verify a viable
+2 payment source.
+Page No. 12 25.8092.02000
+
+[DELETED: ."."."12]
+[DELETED: .".".".".P.S."."."."."."22]
+[DELETED: .A.T.T. .T32]
+[DELETED: .T.T.T.T.T.T42]
+[DELETED: . .T.T.T)M)T)N)A)T.T52]
+[DELETED: .T.T.T)A)T)A)A.T.T.T.T.I. .T62]
+[DELETED: .T.T.T.T.I.T.A.T72]
+[DELETED: .U.A.W.E.T.A.A.T82]
+[DELETED: .T.A.T.T.T.A.A.A.A92]
+[DELETED: .T.B.T.A.T.I.A02]
+[DELETED: .A.A.A.A12]
+[DELETED: 22]

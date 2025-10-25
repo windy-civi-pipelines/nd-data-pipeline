@@ -1,0 +1,274 @@
+Title: ENGROSSED HOUSE BILL NO. 1445
+Official Title: ENGROSSED HOUSE BILL NO. 1445
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25.0714.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representatives Brandenburg, Beltz, Grueneich, Kempenich, O'Brien, Pyle, VanWinkle
+Senators Erbele, Patten, Wanzek, Weber
+1 A BILL for an Act to amend and reenact sections 48-01.2-01 and 48-01.2-02.1 of the North
+2 Dakota Century Code, relating to the definition of a pre-engineered structure and the threshold
+3 for procuring plans, drawings, and specifications from an architect or engineer for construction
+4 of a public improvement.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 48-01.2-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 48-01.2-01. Definitions.
+9 In this chapter, unless the context otherwise requires:
+10 1. "Agency construction management" means a public improvement delivery method
+11 through which a person provides to a governing body experienced construction
+12 management services, including ideas on constructability, documentation of design
+13 and construction, and coordination of project schedules.
+14 2. "Architect" means an individual registered as an architect under chapter 43-03.
+15 3. "Common ownership" means a shared management or ownership interest in two or
+16 more entities.
+17 4. "Construction" means the process of building, altering, repairing, improving, or
+18 demolishing any public structure or building or other improvement to any public
+19 property. The term does not include the routine operation or maintenance of existing
+20 facilities, structures, buildings, or real property or demolition projects costing less than
+21 the threshold established under section 48-01.2-02.1.
+Page No. 1 25.0714.02000
+Sixty-ninth
+Legislative Assembly
+1 5. "Construction administration" means administrative services provided by a governing
+2 body or an architect, a landscape architect, or an engineer, and includes providing
+3 clarifications, submittal review, recommendations for payment, preparation of change
+4 orders, and other administrative services included in the agreement with the architect,
+5 landscape architect, or engineer. The term does not include supervision of the
+6 construction activities for the construction contracts.
+7 6. "Construction management at-risk" means a public improvement delivery method
+8 through which a construction manager provides advice to the governing body during
+9 the planning and design phase of a public improvement, negotiates a contract with the
+10 governing body for the general construction bid package of the public improvement,
+11 and contracts with subcontractors and suppliers for the actual construction of the
+12 public improvement.
+13 7. "Construction manager" means a contractor licensed under chapter 43-07 or an
+14 individual employed by a licensed contractor which has the expertise and resources to
+15 assist a governing body with the management of the design, contracting, and
+16 construction aspects of a public improvement.
+17 8. "Construction observation" means observation of construction work and site visits by
+18 an architect, a landscape architect, or an engineer to assist the governing body in
+19 determining that the work conforms in general to the requirements of the construction
+20 contract and that the contractor has implemented and maintained the integrity of the
+21 design concept of a project as a functioning whole as indicated in the construction
+22 contract.
+23 9. "Contract" means a type of agency agreement for the procurement of services under
+24 this chapter.
+25 10. "Contractor" means any person, duly licensed, that undertakes or enters a contract
+26 with a governing body for the construction or construction management of any public
+27 improvement, including multiple prime contracts.
+28 11. "Design services" means architect services, engineer services, landscape architect
+29 services, or surveyor services.
+30 12. "Design-bid-build" means a project delivery method in which design and construction
+31 of the project are in sequential phases, and in which the first project phase involves
+Page No. 2 25.0714.02000
+Sixty-ninth
+Legislative Assembly
+1 design services, the second project phase involves securing a contractor through a
+2 bidding process, and the third project phase provides for construction of the project by
+3 a contractor awarded the project.
+4 13. "Emergency situation" means a sudden generally unexpected occurrence that requires
+5 immediate action to protect public health, safety, or property and which ends when the
+6 immediate threat to public health, safety, or property ceases and services are restored.
+7 The term does not include a lack of planning on the part of the governing body,
+8 architect, engineer, landscape architect, or contractor.
+9 14. "Engineer" means an individual registered as an engineer under chapter 43-19.1.
+10 15. "General conditions" means the written portion of a contract setting forth the governing
+11 body's minimum acceptable performance requirements, including the rights,
+12 responsibilities, and relationships of the parties involved in the performance of the
+13 contract.
+14 16. "Governing body" means the governing officer or board of a state entity or a political
+15 subdivision.
+16 17. "Guaranteed maximum price" means the maximum amount a construction manager
+17 at-risk may be paid under a contract to construct a public improvement.
+18 18. "Landscape architect services" means landscape architecture services governed
+19 under chapter 43-03.
+20 19. "Lowest responsible bidder" means the lowest best bidder for the project considering
+21 past experience, financial condition, past work with the governing body, and other
+22 pertinent attributes that may be identified in the advertisement for bids.
+23 20. "Political subdivision" means a county, township, park district, school district, city, and
+24 any other unit of local government which is created either by statute or by the
+25 Constitution of North Dakota for local government or other public purposes.
+26 21. "Pre-engineered structure" means a building, excluding infrastructure regulated under
+27 chapters 23.1 - 01 and 61 - 28.1, which has manufactured roof and wall components
+28 sent to a construction site to be assembled on location, has plans and specifications
+29 stamped by an architect or engineer, and is in compliance with state building code
+30 requirements under chapter 54 - 21.3 .
+Page No. 3 25.0714.02000
+Sixty-ninth
+Legislative Assembly
+1 21.22. "Public improvement" means any improvement undertaken by a governing body for
+2 the good of the public and which is paid for with any public funds, including public
+3 loans, bonds, leases, or alternative funding, and is constructed on public land or within
+4 an existing or new public building or any other public infrastructure or facility if the
+5 result of the improvement will be operated and maintained by the governing body. The
+6 term does not include a county road construction and maintenance, state highway, or
+7 public service commission project governed by title 11, 24, or 38.
+8 22.23. "Subcontractor" means a person that contracts to perform work or render a service to
+9 a contractor or to another subcontractor as part of a contract with a governing body.
+10 SECTION 2. AMENDMENT. Section 48-01.2-02.1 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 48-01.2-02.1. Public improvement construction threshold.
+13 1. The threshold for bidding construction of a public improvement is two hundred
+14 thousand dollars. The threshold for procuring plans, drawings, and specifications from
+15 an architect or engineer for construction of a:
+16 a. A public improvement is two hundred thousand dollars; or
+17 b. A pre-engineered structure to be constructed as a public improvement is
+18 two hundred fifty thousand dollars .
+19 2. Notwithstanding the thresholds in subsection 1, if the state or a political subdivision
+20 undertakes the construction of a public improvement and there is reason to believe
+21 that engineering or architectural services are necessary to protect the health, safety, or
+22 welfare of the public, the state or political subdivision shall consider consulting with an
+23 engineer or architect.
+Page No. 4 25.0714.02000
+[DELETED: ."."."."12]
+[DELETED: ."."."."."."."."22]
+[DELETED: ."."."."."."."."."32]
+[DELETED: .".".T.A.A.N42]
+
+
+================================================================================
+
+Raw Text:
+25.0714.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1445
+Introduced by
+Representatives Brandenburg, Beltz, Grueneich, Kempenich, O'Brien, Pyle, VanWinkle
+Senators Erbele, Patten, Wanzek, Weber
+1 A BILL for an Act to amend and reenact sections 48-01.2-01 and 48-01.2-02.1 of the North
+2 Dakota Century Code, relating to the definition of a pre-engineered structure and the threshold
+3 for procuring plans, drawings, and specifications from an architect or engineer for construction
+4 of a public improvement.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 48-01.2-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 48-01.2-01. Definitions.
+9 In this chapter, unless the context otherwise requires:
+10 1. "Agency construction management" means a public improvement delivery method
+11 through which a person provides to a governing body experienced construction
+12 management services, including ideas on constructability, documentation of design
+13 and construction, and coordination of project schedules.
+14 2. "Architect" means an individual registered as an architect under chapter 43-03.
+15 3. "Common ownership" means a shared management or ownership interest in two or
+16 more entities.
+17 4. "Construction" means the process of building, altering, repairing, improving, or
+18 demolishing any public structure or building or other improvement to any public
+19 property. The term does not include the routine operation or maintenance of existing
+20 facilities, structures, buildings, or real property or demolition projects costing less than
+21 the threshold established under section 48-01.2-02.1.
+Page No. 1 25.0714.02000
+
+Sixty-ninth
+Legislative Assembly
+1 5. "Construction administration" means administrative services provided by a governing
+2 body or an architect, a landscape architect, or an engineer, and includes providing
+3 clarifications, submittal review, recommendations for payment, preparation of change
+4 orders, and other administrative services included in the agreement with the architect,
+5 landscape architect, or engineer. The term does not include supervision of the
+6 construction activities for the construction contracts.
+7 6. "Construction management at-risk" means a public improvement delivery method
+8 through which a construction manager provides advice to the governing body during
+9 the planning and design phase of a public improvement, negotiates a contract with the
+10 governing body for the general construction bid package of the public improvement,
+11 and contracts with subcontractors and suppliers for the actual construction of the
+12 public improvement.
+13 7. "Construction manager" means a contractor licensed under chapter 43-07 or an
+14 individual employed by a licensed contractor which has the expertise and resources to
+15 assist a governing body with the management of the design, contracting, and
+16 construction aspects of a public improvement.
+17 8. "Construction observation" means observation of construction work and site visits by
+18 an architect, a landscape architect, or an engineer to assist the governing body in
+19 determining that the work conforms in general to the requirements of the construction
+20 contract and that the contractor has implemented and maintained the integrity of the
+21 design concept of a project as a functioning whole as indicated in the construction
+22 contract.
+23 9. "Contract" means a type of agency agreement for the procurement of services under
+24 this chapter.
+25 10. "Contractor" means any person, duly licensed, that undertakes or enters a contract
+26 with a governing body for the construction or construction management of any public
+27 improvement, including multiple prime contracts.
+28 11. "Design services" means architect services, engineer services, landscape architect
+29 services, or surveyor services.
+30 12. "Design-bid-build" means a project delivery method in which design and construction
+31 of the project are in sequential phases, and in which the first project phase involves
+Page No. 2 25.0714.02000
+
+Sixty-ninth
+Legislative Assembly
+1 design services, the second project phase involves securing a contractor through a
+2 bidding process, and the third project phase provides for construction of the project by
+3 a contractor awarded the project.
+4 13. "Emergency situation" means a sudden generally unexpected occurrence that requires
+5 immediate action to protect public health, safety, or property and which ends when the
+6 immediate threat to public health, safety, or property ceases and services are restored.
+7 The term does not include a lack of planning on the part of the governing body,
+8 architect, engineer, landscape architect, or contractor.
+9 14. "Engineer" means an individual registered as an engineer under chapter 43-19.1.
+10 15. "General conditions" means the written portion of a contract setting forth the governing
+11 body's minimum acceptable performance requirements, including the rights,
+12 responsibilities, and relationships of the parties involved in the performance of the
+13 contract.
+14 16. "Governing body" means the governing officer or board of a state entity or a political
+15 subdivision.
+16 17. "Guaranteed maximum price" means the maximum amount a construction manager
+17 at-risk may be paid under a contract to construct a public improvement.
+18 18. "Landscape architect services" means landscape architecture services governed
+19 under chapter 43-03.
+20 19. "Lowest responsible bidder" means the lowest best bidder for the project considering
+21 past experience, financial condition, past work with the governing body, and other
+22 pertinent attributes that may be identified in the advertisement for bids.
+23 20. "Political subdivision" means a county, township, park district, school district, city, and
+24 any other unit of local government which is created either by statute or by the
+25 Constitution of North Dakota for local government or other public purposes.
+26 21. "Pre-engineered structure" means a building, excluding infrastructure regulated under
+27 chapters 23.1 - 01 and 61 - 28.1, which has manufactured roof and wall components
+28 sent to a construction site to be assembled on location, has plans and specifications
+29 stamped by an architect or engineer, and is in compliance with state building code
+30 requirements under chapter 54 - 21.3 .
+Page No. 3 25.0714.02000
+
+Sixty-ninth
+Legislative Assembly
+1 21.22. "Public improvement" means any improvement undertaken by a governing body for
+2 the good of the public and which is paid for with any public funds, including public
+3 loans, bonds, leases, or alternative funding, and is constructed on public land or within
+4 an existing or new public building or any other public infrastructure or facility if the
+5 result of the improvement will be operated and maintained by the governing body. The
+6 term does not include a county road construction and maintenance, state highway, or
+7 public service commission project governed by title 11, 24, or 38.
+8 22.23. "Subcontractor" means a person that contracts to perform work or render a service to
+9 a contractor or to another subcontractor as part of a contract with a governing body.
+10 SECTION 2. AMENDMENT. Section 48-01.2-02.1 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 48-01.2-02.1. Public improvement construction threshold.
+13 1. The threshold for bidding construction of a public improvement is two hundred
+14 thousand dollars. The threshold for procuring plans, drawings, and specifications from
+15 an architect or engineer for construction of a:
+16 a. A public improvement is two hundred thousand dollars; or
+17 b. A pre-engineered structure to be constructed as a public improvement is
+18 two hundred fifty thousand dollars .
+19 2. Notwithstanding the thresholds in subsection 1, if the state or a political subdivision
+20 undertakes the construction of a public improvement and there is reason to believe
+21 that engineering or architectural services are necessary to protect the health, safety, or
+22 welfare of the public, the state or political subdivision shall consider consulting with an
+23 engineer or architect.
+Page No. 4 25.0714.02000
+
+[DELETED: ."."."."12]
+[DELETED: ."."."."."."."."22]
+[DELETED: ."."."."."."."."."32]
+[DELETED: .".".T.A.A.N42]

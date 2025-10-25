@@ -1,0 +1,102 @@
+Title: SENATE BILL NO. 2021
+Official Title: SENATE BILL NO. 2021
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0188.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the information
+2 technology department; and to provide an exemption.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+5 as may be necessary, are appropriated out of any moneys in the general fund in the state
+6 treasury, not otherwise appropriated, and from other funds derived from special funds and
+7 federal funds, to the information technology department for the purpose of defraying the
+8 expenses of the information technology department, for the biennium beginning July 1, 2025,
+9 and ending June 30, 2027, as follows:
+10 Adjustments or
+11 Base Level Enhancements Appropriation
+12 Salaries and wages $112,233,364 $0 $112,233,364
+13 Operating expenses 119,115,018 0 119,115,018
+14 Capital assets 3,443,909 0 3,443,909
+15 Statewide longitudinal data system 4,625,661 0 4,625,661
+16 Edutech 10,348,826 0 10,348,826
+17 K-12 wide area network 5,915,668 0 5,915,668
+18 Geographic information system 1,109,786 0 1,109,786
+19 Health information technology office 5,822,725 0 5,822,725
+20 Statewide interoperable radio network 18,449,852 0 18,449,852
+21 Total all funds $281,064,809 $0 $281,064,809
+22 Less other funds 239,646,504 0 239,646,504
+23 Total general fund $41,418,305 $0 $41,418,305
+24 Full-time equivalent positions 507.00 0.00 507.00
+Page No. 1 25.0188.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. EXEMPTION - LINE ITEM TRANSFERS. Notwithstanding section 54-16-04,
+2 the director of the office of management and budget shall make transfers of funds between line
+3 items in section 1 of this Act for the information technology department as may be requested by
+4 the chief information officer as determined necessary for the development and implementation
+5 of information technology projects. The department shall notify the legislative council of any
+6 transfers made pursuant to this section.
+Page No. 2 25.0188.01000
+[DELETED: lEsAs$4$0$s1801s3903m4104h1601k5805m1601e5505k1201s$9$0$s2402d$5$0$s5000512]
+[DELETED: 22]
+
+
+================================================================================
+
+Raw Text:
+25.0188.01000
+Sixty-ninth
+SENATE BILL NO. 2021
+Legislative Assembly
+of North Dakota
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the information
+2 technology department; and to provide an exemption.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+5 as may be necessary, are appropriated out of any moneys in the general fund in the state
+6 treasury, not otherwise appropriated, and from other funds derived from special funds and
+7 federal funds, to the information technology department for the purpose of defraying the
+8 expenses of the information technology department, for the biennium beginning July 1, 2025,
+9 and ending June 30, 2027, as follows:
+10 Adjustments or
+11 Base Level Enhancements Appropriation
+12 Salaries and wages $112,233,364 $0 $112,233,364
+13 Operating expenses 119,115,018 0 119,115,018
+14 Capital assets 3,443,909 0 3,443,909
+15 Statewide longitudinal data system 4,625,661 0 4,625,661
+16 Edutech 10,348,826 0 10,348,826
+17 K-12 wide area network 5,915,668 0 5,915,668
+18 Geographic information system 1,109,786 0 1,109,786
+19 Health information technology office 5,822,725 0 5,822,725
+20 Statewide interoperable radio network 18,449,852 0 18,449,852
+21 Total all funds $281,064,809 $0 $281,064,809
+22 Less other funds 239,646,504 0 239,646,504
+23 Total general fund $41,418,305 $0 $41,418,305
+24 Full-time equivalent positions 507.00 0.00 507.00
+Page No. 1 25.0188.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. EXEMPTION - LINE ITEM TRANSFERS. Notwithstanding section 54-16-04,
+2 the director of the office of management and budget shall make transfers of funds between line
+3 items in section 1 of this Act for the information technology department as may be requested by
+4 the chief information officer as determined necessary for the development and implementation
+5 of information technology projects. The department shall notify the legislative council of any
+6 transfers made pursuant to this section.
+Page No. 2 25.0188.01000
+
+[DELETED: lEsAs$4$0$s1801s3903m4104h1601k5805m1601e5505k1201s$9$0$s2402d$5$0$s5000512]
+[DELETED: 22]

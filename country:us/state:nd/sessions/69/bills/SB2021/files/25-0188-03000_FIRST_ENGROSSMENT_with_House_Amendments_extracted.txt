@@ -1,0 +1,402 @@
+Title: ENGROSSED SENATE BILL NO. 2021
+Official Title: ENGROSSED SENATE BILL NO. 2021
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with House Amendments
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25.0188.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the information
+2 technology department; to amend and reenact sections 54-35-15.1, 54-59-14, and 54-59-15 of
+3 the North Dakota Century Code, relating to membership of the information technology
+4 committee and the information technology operating fund; to provide an exemption; to provide
+5 for a legislative management study; and to provide for a legislative management report.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+8 as may be necessary, are appropriated out of any moneys in the general fund in the state
+9 treasury, not otherwise appropriated, and from other funds derived from special funds and
+10 federal funds, to the information technology department for the purpose of defraying the
+11 expenses of the information technology department, for the biennium beginning July 1, 2025,
+12 and ending June 30, 2027, as follows:
+13 Adjustments or
+14 Base Level Enhancements Appropriation
+15 Salaries and wages $112,233,364 $16,747,954 $128,981,318
+16 New and vacant FTE pool 0 8,403,424 8,403,424
+17 Operating expenses 119,115,018 (98,975,025) 20,139,993
+18 Capital assets 3,443,909 (3,312,874) 131,035
+19 Statewide longitudinal data system 4,625,661 (504,904) 4,120,757
+20 Edutech 10,348,826 (2,832,440) 7,516,386
+21 K-12 wide area network 5,915,668 786,356 6,702,024
+22 Geographic information system 1,109,786 48,157 1,157,943
+Page No. 1 25.0188.03000
+Sixty-ninth
+Legislative Assembly
+1 Health information technology office 5,822,725 1,928,517 7,751,242
+2 Statewide interoperable radio network 18,449,852 (2,845,242) 15,604,610
+3 Total all funds $281,064,809 ($80,556,077) $200,508,732
+4 Less other funds 239,646,504 (87,178,908) 152,467,596
+5 Total general fund $41,418,305 $6,622,831 $48,041,136
+6 Full-time equivalent positions 507.00 2.00 509.00
+7 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+8 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+9 items included in the appropriation in section 1 of this Act which are not included in the entity's
+10 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+11 committees of the seventieth legislative assembly regarding the use of this funding:
+12 One-Time Funding Description General Fund Other Funds Total
+13 State data center migration project $0 $1,719,061 $1,719,061
+14 Information technology services automation 0 1,793,609 1,793,609
+15 Total $0 $3,512,670 $3,512,670
+16 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+17 information technology department may not spend funds appropriated in the new and vacant
+18 FTE pool line item in section 1 of this Act, but may request the office of management and
+19 budget to transfer funds from the new and vacant FTE pool line item to the salaries and wages
+20 line item and other line items with salaries and wages in accordance with the guidelines and
+21 reporting provisions included in House Bill No. 1015, as approved by the sixty-ninth legislative
+22 assembly.
+23 SECTION 4. EXEMPTION - LINE ITEM TRANSFERS. Notwithstanding section 54-16-04,
+24 the director of the office of management and budget shall make transfers of funds between line
+25 items in section 1 of this Act, except the new and vacant FTE pool line item, for the information
+26 technology department as may be requested by the chief information officer as determined
+27 necessary for the development and implementation of information technology projects. The
+28 department shall notify the legislative council of any transfers made pursuant to this section.
+29 SECTION 5. OTHER FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND.
+30 The other funds line item in section 1 of this Act includes the sum of $3,512,670 from the
+31 strategic investment and improvements fund, including $1,719,061 for a state data center
+Page No. 2 25.0188.03000
+Sixty-ninth
+Legislative Assembly
+1 migration project and $1,793,609 for the cost of automating information technology services and
+2 the purchase of software licenses.
+3 SECTION 6. AMENDMENT. Section 54-35-15.1 of the North Dakota Century Code is
+4 amended and reenacted as follows:
+5 54-35-15.1. Information technology committee - Appointment.
+6 The legislative management, during each biennium, shall appoint an information technology
+7 committee in the same manner as the legislative management appoints other interim
+8 committees. The legislative management shall appoint six members of the house of
+9 representatives and five members of the senate to the committee. The chief information officer
+10 of the state is anand an individual with information technology-related experience from the
+11 department of health and human services, appointed by the commissioner of the department of
+12 health and human services, are ex officio, nonvoting membermembers of the committee. The
+13 legislative management shall designate the chairman of the committee. The committee shall
+14 operate according to the statutes and procedure governing the operation of other legislative
+15 management interim committees.
+16 SECTION 7. AMENDMENT. Section 54-59-14 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 54-59-14. Information technology operating accountfund - Continuing appropriation -
+19 Report.
+20 1. The department shall establish a state information technology operating accountfund
+21 in the state treasury to be used, in accordance with legislative appropriation, for
+22 procuring and maintaining information technology and network services and for
+23 providing information technology, and network services, and central microfilm unit
+24 services to state entities and network services to users of the state network.
+25 2. Unless exempted by law, each agency or institution provided with information
+26 technology or network services shall pay to the department the charges for services
+27 provided as determined by the department. The department shall deposit the amounts
+28 received in the information technology operating account or the information technology
+29 development account, as appropriatefund, which are appropriated to the department
+30 on a continuing basis for purposes provided under this section, except the department
+Page No. 3 25.0188.03000
+Sixty-ninth
+Legislative Assembly
+1 may not use continuing appropriation authority to pay salaries and wages-related
+2 expenses.
+3 3. The department shall compile a report regarding the status of the information
+4 technology operating fund to be provided at each meeting of the budget section. The
+5 report must include information regarding expenditures paid from the fund for
+6 department administration, operations, and information technology projects by specific
+7 object code, the amount and category of services provided to state agencies and
+8 institutions and users of the state network from moneys in the fund, and the balance
+9 remaining in the fund from the most recently completed quarter. The department shall
+10 present the mostly recently completed report to the appropriation committees of the
+11 legislative assembly each legislative session.
+12 SECTION 8. AMENDMENT. Section 54-59-15 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 54-59-15. Acceptance of funds.
+15 The department may accept federal or other funds, which must be deposited in the
+16 information technology operating accountfund or other accountsfunds specified by the office of
+17 management and budget and which may be spent subject to legislative appropriation. The
+18 department may apply for any public or private grants available for the improvement of
+19 information technology.
+20 SECTION 9. EXEMPTION - UNEXPENDED APPROPRIATIONS. The following
+21 appropriations are not subject to the provisions of section 54-44.1-11 and any unexpended
+22 appropriation authority remaining may be continued into the biennium beginning July 1, 2025,
+23 and ending June 30, 2027:
+24 1. The sum of $45,000,000 appropriated from the federal coronavirus capital projects
+25 fund for broadband infrastructure grants in section 9 of chapter 548 of the 2021
+26 Special Session Session Laws and continued into the 2023-25 biennium in sections 9
+27 and 10 of chapter 21 of the 2023 Session Laws.
+28 2. The sum of $12,000,000 appropriated from the strategic investment and
+29 improvements fund, of which $7,000,000 was for an enterprise digitization project and
+30 $5,000,000 was for a business gateway enterprise customer relationship management
+31 program, in section 1 of chapter 21 of the 2023 Session Laws.
+Page No. 4 25.0188.03000
+Sixty-ninth
+Legislative Assembly
+1 3. The sum of $4,856,876 appropriated from the information technology operating fund
+2 for governance, risk, and compliance costs and the department of public instruction
+3 lighthouse project in section 1 of chapter 21 of the 2023 Session Laws.
+4 4. The sum of $147,762,480 appropriated from federal funds available as a result of the
+5 Infrastructure Investment and Jobs Act for the broadband, equity, access, and
+6 deployment program, digital equity program, and state and local cybersecurity grant
+7 program in section 1 of chapter 21 of the 2023 Session Laws.
+8 5. The sum of $487,520 appropriated from the general fund as matching funds for the
+9 state and local cybersecurity grant program in section 1 of chapter 21 of the 2023
+10 Session Laws.
+11 6. The sum of $80,000,000 appropriated from the federal state fiscal recovery fund for
+12 the statewide interoperable radio network project in section 4 of chapter 554 of the
+13 2023 Session Laws.
+14 SECTION 10. LEGISLATIVE MANAGEMENT STUDY - STATEWIDE INTEROPERABLE
+15 RADIO NETWORK FUNDING AND EMERGENCY COMMUNICATIONS FEES. During the
+16 2025-26 interim, the legislative management shall consider studying fees collected for
+17 technology services, including emergency communications, behavioral health crisis response,
+18 and the statewide interoperable radio network. The study must include an analysis of the
+19 adequacy of current fee structures, financial needs of the technology services, current fees and
+20 revenue trends for 911 and 988 services, the statewide interoperable radio network project, the
+21 estimated project completion date, estimated ongoing funding needs to operate the network,
+22 current funding available for the network, future funding options for the network that will not
+23 negatively affect existing emergency communication systems, and a comparison of statewide
+24 radio network funding models used in other states. The legislative management shall report its
+25 findings and recommendations, together with any legislation required to implement the
+26 recommendations, to the seventieth legislative assembly.
+27 SECTION 11. LEGISLATIVE MANAGEMENT STUDY - STATE ENTERPRISE RESOURCE
+28 PLANNING SYSTEM. During the 2025-26 interim, the legislative management shall study the
+29 enterprise resource planning system for the state of North Dakota, including state agencies and
+30 institutions of higher education. The study must include consideration of:
+Page No. 5 25.0188.03000
+Sixty-ninth
+Legislative Assembly
+1 1. The current system and potential systems, including functionality, technological
+2 structure, expected life cycle, costs and benefits of cloud-based and on-premises
+3 hosted solutions, support and maintenance costs, and potential implementation costs.
+4 2. The desired functionality for state agency use, including financial management, human
+5 capital management, and procurement.
+6 3. The desired functionality for institutions of higher education, including financial
+7 management, human capital management, grant management, compliance
+8 management, procurement, and student data management.
+9 4. The costs and benefits of continuing with one enterprise resource planning system or
+10 separate systems for state agencies and institutions of higher education.
+11 The legislative management shall report its findings and recommendations, together with any
+12 legislation required to implement the recommendations, to the seventieth legislative assembly.
+13 SECTION 12. LEGISLATIVE MANAGEMENT REPORT - STUDENT INFORMATION
+14 SYSTEM TRANSITION. During the 2025-26 interim, the information technology department
+15 and department of public instruction shall report quarterly to the budget section of the legislative
+16 management regarding the status of the student information system transition.
+Page No. 6 25.0188.03000
+[DELETED: lEsAs$4$4$l0848s18()2s39()1m41()4h16()7k58766m1647112]
+[DELETED: e55177k12()1s$9()$s24()1d$5$1$s50205nGdOsTt$0$1$n0191l$0$0$22]
+[DELETED: .T.U32]
+[DELETED: .T.T.T42]
+[DELETED: .T.T.T.T52]
+[DELETED: .T.T.T.T62]
+
+
+================================================================================
+
+Raw Text:
+25.0188.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+ENGROSSED SENATE BILL NO. 2021
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the information
+2 technology department; to amend and reenact sections 54-35-15.1, 54-59-14, and 54-59-15 of
+3 the North Dakota Century Code, relating to membership of the information technology
+4 committee and the information technology operating fund; to provide an exemption; to provide
+5 for a legislative management study; and to provide for a legislative management report.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+8 as may be necessary, are appropriated out of any moneys in the general fund in the state
+9 treasury, not otherwise appropriated, and from other funds derived from special funds and
+10 federal funds, to the information technology department for the purpose of defraying the
+11 expenses of the information technology department, for the biennium beginning July 1, 2025,
+12 and ending June 30, 2027, as follows:
+13 Adjustments or
+14 Base Level Enhancements Appropriation
+15 Salaries and wages $112,233,364 $16,747,954 $128,981,318
+16 New and vacant FTE pool 0 8,403,424 8,403,424
+17 Operating expenses 119,115,018 (98,975,025) 20,139,993
+18 Capital assets 3,443,909 (3,312,874) 131,035
+19 Statewide longitudinal data system 4,625,661 (504,904) 4,120,757
+20 Edutech 10,348,826 (2,832,440) 7,516,386
+21 K-12 wide area network 5,915,668 786,356 6,702,024
+22 Geographic information system 1,109,786 48,157 1,157,943
+Page No. 1 25.0188.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Health information technology office 5,822,725 1,928,517 7,751,242
+2 Statewide interoperable radio network 18,449,852 (2,845,242) 15,604,610
+3 Total all funds $281,064,809 ($80,556,077) $200,508,732
+4 Less other funds 239,646,504 (87,178,908) 152,467,596
+5 Total general fund $41,418,305 $6,622,831 $48,041,136
+6 Full-time equivalent positions 507.00 2.00 509.00
+7 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+8 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+9 items included in the appropriation in section 1 of this Act which are not included in the entity's
+10 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+11 committees of the seventieth legislative assembly regarding the use of this funding:
+12 One-Time Funding Description General Fund Other Funds Total
+13 State data center migration project $0 $1,719,061 $1,719,061
+14 Information technology services automation 0 1,793,609 1,793,609
+15 Total $0 $3,512,670 $3,512,670
+16 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+17 information technology department may not spend funds appropriated in the new and vacant
+18 FTE pool line item in section 1 of this Act, but may request the office of management and
+19 budget to transfer funds from the new and vacant FTE pool line item to the salaries and wages
+20 line item and other line items with salaries and wages in accordance with the guidelines and
+21 reporting provisions included in House Bill No. 1015, as approved by the sixty-ninth legislative
+22 assembly.
+23 SECTION 4. EXEMPTION - LINE ITEM TRANSFERS. Notwithstanding section 54-16-04,
+24 the director of the office of management and budget shall make transfers of funds between line
+25 items in section 1 of this Act, except the new and vacant FTE pool line item, for the information
+26 technology department as may be requested by the chief information officer as determined
+27 necessary for the development and implementation of information technology projects. The
+28 department shall notify the legislative council of any transfers made pursuant to this section.
+29 SECTION 5. OTHER FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND.
+30 The other funds line item in section 1 of this Act includes the sum of $3,512,670 from the
+31 strategic investment and improvements fund, including $1,719,061 for a state data center
+Page No. 2 25.0188.03000
+
+Sixty-ninth
+Legislative Assembly
+1 migration project and $1,793,609 for the cost of automating information technology services and
+2 the purchase of software licenses.
+3 SECTION 6. AMENDMENT. Section 54-35-15.1 of the North Dakota Century Code is
+4 amended and reenacted as follows:
+5 54-35-15.1. Information technology committee - Appointment.
+6 The legislative management, during each biennium, shall appoint an information technology
+7 committee in the same manner as the legislative management appoints other interim
+8 committees. The legislative management shall appoint six members of the house of
+9 representatives and five members of the senate to the committee. The chief information officer
+10 of the state is anand an individual with information technology-related experience from the
+11 department of health and human services, appointed by the commissioner of the department of
+12 health and human services, are ex officio, nonvoting membermembers of the committee. The
+13 legislative management shall designate the chairman of the committee. The committee shall
+14 operate according to the statutes and procedure governing the operation of other legislative
+15 management interim committees.
+16 SECTION 7. AMENDMENT. Section 54-59-14 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 54-59-14. Information technology operating accountfund - Continuing appropriation -
+19 Report.
+20 1. The department shall establish a state information technology operating accountfund
+21 in the state treasury to be used, in accordance with legislative appropriation, for
+22 procuring and maintaining information technology and network services and for
+23 providing information technology, and network services, and central microfilm unit
+24 services to state entities and network services to users of the state network.
+25 2. Unless exempted by law, each agency or institution provided with information
+26 technology or network services shall pay to the department the charges for services
+27 provided as determined by the department. The department shall deposit the amounts
+28 received in the information technology operating account or the information technology
+29 development account, as appropriatefund, which are appropriated to the department
+30 on a continuing basis for purposes provided under this section, except the department
+Page No. 3 25.0188.03000
+
+Sixty-ninth
+Legislative Assembly
+1 may not use continuing appropriation authority to pay salaries and wages-related
+2 expenses.
+3 3. The department shall compile a report regarding the status of the information
+4 technology operating fund to be provided at each meeting of the budget section. The
+5 report must include information regarding expenditures paid from the fund for
+6 department administration, operations, and information technology projects by specific
+7 object code, the amount and category of services provided to state agencies and
+8 institutions and users of the state network from moneys in the fund, and the balance
+9 remaining in the fund from the most recently completed quarter. The department shall
+10 present the mostly recently completed report to the appropriation committees of the
+11 legislative assembly each legislative session.
+12 SECTION 8. AMENDMENT. Section 54-59-15 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 54-59-15. Acceptance of funds.
+15 The department may accept federal or other funds, which must be deposited in the
+16 information technology operating accountfund or other accountsfunds specified by the office of
+17 management and budget and which may be spent subject to legislative appropriation. The
+18 department may apply for any public or private grants available for the improvement of
+19 information technology.
+20 SECTION 9. EXEMPTION - UNEXPENDED APPROPRIATIONS. The following
+21 appropriations are not subject to the provisions of section 54-44.1-11 and any unexpended
+22 appropriation authority remaining may be continued into the biennium beginning July 1, 2025,
+23 and ending June 30, 2027:
+24 1. The sum of $45,000,000 appropriated from the federal coronavirus capital projects
+25 fund for broadband infrastructure grants in section 9 of chapter 548 of the 2021
+26 Special Session Session Laws and continued into the 2023-25 biennium in sections 9
+27 and 10 of chapter 21 of the 2023 Session Laws.
+28 2. The sum of $12,000,000 appropriated from the strategic investment and
+29 improvements fund, of which $7,000,000 was for an enterprise digitization project and
+30 $5,000,000 was for a business gateway enterprise customer relationship management
+31 program, in section 1 of chapter 21 of the 2023 Session Laws.
+Page No. 4 25.0188.03000
+
+Sixty-ninth
+Legislative Assembly
+1 3. The sum of $4,856,876 appropriated from the information technology operating fund
+2 for governance, risk, and compliance costs and the department of public instruction
+3 lighthouse project in section 1 of chapter 21 of the 2023 Session Laws.
+4 4. The sum of $147,762,480 appropriated from federal funds available as a result of the
+5 Infrastructure Investment and Jobs Act for the broadband, equity, access, and
+6 deployment program, digital equity program, and state and local cybersecurity grant
+7 program in section 1 of chapter 21 of the 2023 Session Laws.
+8 5. The sum of $487,520 appropriated from the general fund as matching funds for the
+9 state and local cybersecurity grant program in section 1 of chapter 21 of the 2023
+10 Session Laws.
+11 6. The sum of $80,000,000 appropriated from the federal state fiscal recovery fund for
+12 the statewide interoperable radio network project in section 4 of chapter 554 of the
+13 2023 Session Laws.
+14 SECTION 10. LEGISLATIVE MANAGEMENT STUDY - STATEWIDE INTEROPERABLE
+15 RADIO NETWORK FUNDING AND EMERGENCY COMMUNICATIONS FEES. During the
+16 2025-26 interim, the legislative management shall consider studying fees collected for
+17 technology services, including emergency communications, behavioral health crisis response,
+18 and the statewide interoperable radio network. The study must include an analysis of the
+19 adequacy of current fee structures, financial needs of the technology services, current fees and
+20 revenue trends for 911 and 988 services, the statewide interoperable radio network project, the
+21 estimated project completion date, estimated ongoing funding needs to operate the network,
+22 current funding available for the network, future funding options for the network that will not
+23 negatively affect existing emergency communication systems, and a comparison of statewide
+24 radio network funding models used in other states. The legislative management shall report its
+25 findings and recommendations, together with any legislation required to implement the
+26 recommendations, to the seventieth legislative assembly.
+27 SECTION 11. LEGISLATIVE MANAGEMENT STUDY - STATE ENTERPRISE RESOURCE
+28 PLANNING SYSTEM. During the 2025-26 interim, the legislative management shall study the
+29 enterprise resource planning system for the state of North Dakota, including state agencies and
+30 institutions of higher education. The study must include consideration of:
+Page No. 5 25.0188.03000
+
+Sixty-ninth
+Legislative Assembly
+1 1. The current system and potential systems, including functionality, technological
+2 structure, expected life cycle, costs and benefits of cloud-based and on-premises
+3 hosted solutions, support and maintenance costs, and potential implementation costs.
+4 2. The desired functionality for state agency use, including financial management, human
+5 capital management, and procurement.
+6 3. The desired functionality for institutions of higher education, including financial
+7 management, human capital management, grant management, compliance
+8 management, procurement, and student data management.
+9 4. The costs and benefits of continuing with one enterprise resource planning system or
+10 separate systems for state agencies and institutions of higher education.
+11 The legislative management shall report its findings and recommendations, together with any
+12 legislation required to implement the recommendations, to the seventieth legislative assembly.
+13 SECTION 12. LEGISLATIVE MANAGEMENT REPORT - STUDENT INFORMATION
+14 SYSTEM TRANSITION. During the 2025-26 interim, the information technology department
+15 and department of public instruction shall report quarterly to the budget section of the legislative
+16 management regarding the status of the student information system transition.
+Page No. 6 25.0188.03000
+
+[DELETED: lEsAs$4$4$l0848s18()2s39()1m41()4h16()7k58766m1647112]
+[DELETED: e55177k12()1s$9()$s24()1d$5$1$s50205nGdOsTt$0$1$n0191l$0$0$22]
+[DELETED: .T.U32]
+[DELETED: .T.T.T42]
+[DELETED: .T.T.T.T52]
+[DELETED: .T.T.T.T62]

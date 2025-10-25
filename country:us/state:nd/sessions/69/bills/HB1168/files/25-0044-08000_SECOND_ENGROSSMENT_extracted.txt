@@ -1,0 +1,1599 @@
+Title: REENGROSSED HOUSE BILL NO. 1168
+Official Title: REENGROSSED HOUSE BILL NO. 1168
+Number of Sections: 1
+Source: versions - SECOND ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+25.0044.08000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+SECOND ENGROSSMENT
+Introduced by
+Representatives Louser, Jonas, Monson, Richter, Sanford, Toman
+Senators Burckhard, Thomas
+1 A BILL for an Act to create and enact a new section to chapter 54-27 and a new section to
+2 chapter 57-15 of the North Dakota Century Code, relating to a legacy earnings fund and
+3 limitations on property tax levies by taxing districts except school districts without voter
+4 approval; to amend and reenact sections 6-09.4-10.1, 15.1-27-04.1, and 15.1-27-04.2,
+5 subsection 1 of section 21-10-06, sections 54-27-19.3 and 57-15-01.1, subsection 1 of section
+6 57-15-14, section 57-15-14.2, and subdivision c of subsection 1 of section 57-20-07.1 of the
+7 North Dakota Century Code, relating to the legacy sinking and interest fund, the state school aid
+8 funding formula, funds invested by the state investment board, the legacy earnings highway
+9 distribution fund, and school district levy authority; to repeal sections 15.1-27-04.3,
+10 15.1-27-15.1, 15.1-27-20.2, 21-10-12, and 21-10-13 of the North Dakota Century Code, relating
+11 to adjustments to state aid payments, legacy fund definitions, and a legacy earnings fund; and
+12 to provide an effective date.
+13 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+14 SECTION 1. AMENDMENT. Section 6-09.4-10.1 of the North Dakota Century Code is
+15 amended and reenacted as follows:
+16 6-09.4-10.1. Legacy sinking and interest fund - Debt service requirements - Public
+17 finance authority.
+18 There is created in the state treasury the legacy sinking and interest fund. The fund consists
+19 of all moneys deposited in the fund under section 21-10-136 of this Act. Moneys in the fund may
+20 be spent by the public finance authority pursuant to legislative appropriations to meet the debt
+21 service requirements for evidences of indebtedness issued by the authority for transfer to the
+22 Bank of North Dakota for allocations to infrastructure projects and programs.
+Page No. 1 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. AMENDMENT. Section 15.1-27-04.1 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 15.1-27-04.1. Baseline funding - Establishment - Determination of state aid. (Effective
+4 through June 30, 2025) (Retroactive application - See note)
+5 1. To determine the amount of state aid payable to each district, the superintendent of
+6 public instruction shall establish each district's baseline funding. A district's baseline
+7 funding consists of:
+8 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+9 2018-19 school year;
+10 b. An amount equal to the property tax deducted by the superintendent of public
+11 instruction to determine the 2018-19 state aid payment;
+12 c. An amount equal to seventy-five percent of the revenue received by the school
+13 district during the 2017-18 school year for the following revenue types:
+14 (1) Revenue reported under code 2000 of the North Dakota school district
+15 financial accounting and reporting manual, as developed by the
+16 superintendent of public instruction in accordance with section 15.1-02-08;
+17 (2) Mineral revenue received by the school district through direct allocation from
+18 the state treasurer and not reported under code 2000 of the North Dakota
+19 school district financial accounting and reporting manual, as developed by
+20 the superintendent of public instruction in accordance with section
+21 15.1-02-08;
+22 (3) Tuition reported under code 1300 of the North Dakota school district
+23 financial accounting and reporting manual, as developed by the
+24 superintendent of public instruction in accordance with section 15.1-02-08,
+25 with the exception of revenue received specifically for the operation of an
+26 educational program provided at a residential treatment facility, tuition
+27 received for the provision of an adult farm management program, and
+28 beginning in the 2021-22 school year, seventeen percent of tuition received
+29 under an agreement to educate students from a school district on an
+30 air force base with funding received through federal impact aid, and an
+31 additional seventeen percent of tuition received under an agreement to
+Page No. 2 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 educate students from a school district on an air force base with funding
+2 received through federal impact aid each school year thereafter, until the
+3 2024-25 school year when sixty-eight percent of tuition received under an
+4 agreement to educate students from a school district on an air force base
+5 with funding received through federal impact aid must be excluded from the
+6 tuition calculation under this paragraph;
+7 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+8 of electric power;
+9 (5) Revenue from payments in lieu of taxes on electricity generated from
+10 sources other than coal; and
+11 (6) Revenue from the leasing of land acquired by the United States for which
+12 compensation is allocated to the state under 33 U.S.C. 701(c)(3);
+13 d. An amount equal to the total revenue received by the school district during the
+14 2017-18 school year for the following revenue types:
+15 (1) Mobile home tax revenue;
+16 (2) Telecommunications tax revenue; and
+17 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+18 homestead credit and disabled veterans credit; and
+19 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+20 baseline funding for any school district that becomes an elementary district
+21 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+22 be proportional to the number of weighted student units in the grades that are
+23 offered through another school district relative to the total number of weighted
+24 student units the school district offered in the year before the school district
+25 became an elementary district. The reduced baseline funding applies to the
+26 calculation of state aid for the first school year in which the school district
+27 becomes an elementary district and for each year thereafter. For districts that
+28 become an elementary district prior to the 2020-21 school year, the
+29 superintendent shall use the reduced baseline funding to calculate state aid for
+30 the 2020-21 school year and for each year thereafter.
+Page No. 3 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 2. a. The superintendent shall divide the district's baseline funding determined in
+2 subsection 1 by the district's 2017-18 weighted student units to determine the
+3 district's baseline funding per weighted student unit.
+4 b. For any school district that becomes an elementary district pursuant to section
+5 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+6 district's baseline funding per weighted student unit used to calculate state aid.
+7 The superintendent shall divide the district's baseline funding determined in
+8 subsection 1 by the district's weighted student units after the school district
+9 becomes an elementary district to determine the district's adjusted baseline
+10 funding per weighted student unit. The superintendent shall use the district's
+11 adjusted baseline funding per weighted student unit in the calculation of state aid
+12 for the first school year in which the school district becomes an elementary
+13 district and for each year thereafter.
+14 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+15 superintendent shall reduce the district's baseline funding per weighted student
+16 unit. Each year the superintendent shall calculate the amount by which the
+17 district's baseline funding per weighted student unit exceeds the payment per
+18 weighted student unit provided in subsection 3. For the 2023-24 school year the
+19 superintendent shall reduce the district's baseline funding per weighted student
+20 unit by forty percent of the amount by which the district's baseline funding per
+21 weighted student unit exceeds the payment per weighted student unit for the
+22 2023-24 school year. For each year thereafter, the reduction percentage is
+23 increased by an additional fifteen percent. However, the district's baseline funding
+24 per weighted student unit, after the reduction, may not be less than the payment
+25 per weighted student unit provided in subsection 3.
+26 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+27 greater of:
+28 (1) The district's weighted student units multiplied by ten thousand six hundred
+29 forty-six dollars;
+30 (2) One hundred two percent of the district's baseline funding per weighted
+31 student unit, as established in subsection 2, multiplied by the district's
+Page No. 4 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 weighted student units, not to exceed the district's 2017-18 baseline
+2 weighted student units, plus any weighted student units in excess of the
+3 2017-18 baseline weighted student units multiplied by ten thousand
+4 six hundred forty-six dollars; or
+5 (3) The district's baseline funding as established in subsection 1 less the
+6 amount in paragraph 1, with the difference reduced by forty percent and
+7 then the difference added to the amount determined in paragraph 1.
+8 b. For the 2024-25 school year and each school year thereafter, the superintendent
+9 shall calculate state aid as the greater of:
+10 (1) The district's weighted student units multiplied by eleven thousand
+11 seventy-two dollars;
+12 (2) One hundred two percent of the district's baseline funding per weighted
+13 student unit, as established in subsection 2, multiplied by the district's
+14 weighted student units, not to exceed the district's 2017-18 baseline
+15 weighted student units, plus any weighted student units in excess of the
+16 2017-18 baseline weighted student units multiplied by eleven thousand
+17 seventy-two dollars; or
+18 (3) The district's baseline funding as established in subsection 1 less the
+19 amount in paragraph 1, with the difference reduced by fifty-five percent for
+20 the 2024-25 school year and the reduction percentage increasing by fifteen
+21 percent each school year thereafter until the difference is reduced to zero,
+22 and then the difference added to the amount determined in paragraph 1.
+23 4. After determining the product in accordance with subsection 3, the superintendent of
+24 public instruction shall:
+25 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+26 school district, except the amount in dollars subtracted for purposes of this
+27 subdivision may not exceed the previous year's amount in dollars subtracted for
+28 purposes of this subdivision by more than twelve percent, adjusted pursuant to
+29 section 15.1-27-04.3; and
+30 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+31 subdivisions c and d of subsection 1. Before determining the deduction for
+Page No. 5 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 seventy-five percent of all revenue types, the superintendent of public instruction
+2 shall adjust revenues as follows:
+3 (1) Tuition revenue shall be adjusted as follows:
+4 (a) In addition to deducting tuition revenue received specifically for the
+5 operation of an educational program provided at a residential
+6 treatment facility, tuition revenue received for the provision of an adult
+7 farm management program, tuition received for the education of
+8 high-cost and special education students, and tuition received under
+9 an agreement to educate students from a school district on an
+10 air force base with funding received through federal impact aid as
+11 directed each school year in paragraph 3 of subdivision c of
+12 subsection 1, the superintendent of public instruction also shall reduce
+13 the total tuition reported by the school district by the amount of tuition
+14 revenue received for the education of students not residing in the
+15 state and for which the state has not entered a cross-border education
+16 contract; and
+17 (b) The superintendent of public instruction also shall reduce the total
+18 tuition reported by admitting school districts meeting the requirements
+19 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+20 of tuition revenue received for the education of students residing in an
+21 adjacent school district.
+22 (2) After adjusting tuition revenue as provided in paragraph 1, the
+23 superintendent shall reduce all remaining revenues from all revenue types
+24 by the percentage of mills levied in 2022 by the school district for sinking
+25 and interest relative to the total mills levied in 2022 by the school district for
+26 all purposes.
+27 5. The amount remaining after the computation required under subsection 4 is the
+28 amount of state aid to which a school district is entitled, subject to any other statutory
+29 requirements or limitations.
+Page No. 6 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 6. On or before June thirtieth of each year, the school board shall certify to the
+2 superintendent of public instruction the final average daily membership for the current
+3 school year.
+4 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+5 with the school districts, shall report the following to the superintendent of public
+6 instruction on an annual basis:
+7 a. The amount of revenue received by each school district in the county during the
+8 previous school year for each type of revenue identified in subdivisions c and d of
+9 subsection 1;
+10 b. The total number of mills levied in the previous calendar year by each school
+11 district for all purposes; and
+12 c. The number of mills levied in the previous calendar year by each school district
+13 for sinking and interest fund purposes.
+14 Baseline funding - Establishment - Determination of state aid. (Effective after
+15 June 30, 2025)
+16 1. To determine the amount of state aid payable to each district, the superintendent of
+17 public instruction shall establish each district's baseline funding. A district's baseline
+18 funding consists of:
+19 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+20 2018-19 school year;
+21 b. An amount equal to the property tax deducted by the superintendent of public
+22 instruction to determine the 2018-19 state aid payment;
+23 c. An amount equal to seventy-five percent of the revenue received by the school
+24 district during the 2017-18 school year for the following revenue types:
+25 (1) Revenue reported under code 2000 of the North Dakota school district
+26 financial accounting and reporting manual, as developed by the
+27 superintendent of public instruction in accordance with section 15.1-02-08;
+28 (2) Mineral revenue received by the school district through direct allocation from
+29 the state treasurer and not reported under code 2000 of the North Dakota
+30 school district financial accounting and reporting manual, as developed by
+Page No. 7 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 the superintendent of public instruction in accordance with section
+2 15.1-02-08;
+3 (3) Tuition reported under code 1300 of the North Dakota school district
+4 financial accounting and reporting manual, as developed by the
+5 superintendent of public instruction in accordance with section 15.1-02-08,
+6 with the exception of revenue received specifically for the operation of an
+7 educational program provided at a residential treatment facility, tuition
+8 received for the provision of an adult farm management program, and
+9 beginning in the 2025-26 school year, eighty-five percent of tuition received
+10 under an agreement to educate students from a school district on an
+11 air force base with funding received through federal impact aid, until the
+12 2026-27 school year, and each school year thereafter, when all tuition
+13 received under an agreement to educate students from a school district on
+14 an air force base with funding received through federal impact aid must be
+15 excluded from the tuition calculation under this paragraph;
+16 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+17 of electric power;
+18 (5) Revenue from payments in lieu of taxes on electricity generated from
+19 sources other than coal; and
+20 (6) Revenue from the leasing of land acquired by the United States for which
+21 compensation is allocated to the state under 33 U.S.C. 701(c)(3); and
+22 d. An amount equal to the total revenue received by the school district during the
+23 2017-18 school year for the following revenue types:
+24 (1) Mobile home tax revenue;
+25 (2) Telecommunications tax revenue; and
+26 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+27 homestead credit and disabled veterans credit.
+28 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+29 baseline funding for any school district that becomes an elementary district
+30 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+31 be proportional to the number of weighted student units in the grades that are
+Page No. 8 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 offered through another school district relative to the total number of weighted
+2 student units the school district offered in the year before the school district
+3 became an elementary district. The reduced baseline funding applies to the
+4 calculation of state aid for the first school year in which the school district
+5 becomes an elementary district and for each year thereafter. For districts that
+6 become an elementary district prior to the 2020-21 school year, the
+7 superintendent shall use the reduced baseline funding to calculate state aid for
+8 the 2020-21 school year and for each year thereafter.
+9 2. a. The superintendent shall divide the district's baseline funding determined in
+10 subsection 1 by the district's 2017-18 weighted student units to determine the
+11 district's baseline funding per weighted student unit.
+12 b. For any school district that becomes an elementary district pursuant to section
+13 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+14 district's baseline funding per weighted student unit used to calculate state aid.
+15 The superintendent shall divide the district's baseline funding determined in
+16 subsection 1 by the district's weighted student units after the school district
+17 becomes an elementary district to determine the district's adjusted baseline
+18 funding per weighted student unit. The superintendent shall use the district's
+19 adjusted baseline funding per weighted student unit in the calculation of state aid
+20 for the first school year in which the school district becomes an elementary
+21 district and for each year thereafter.
+22 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+23 superintendent shall reduce the district's baseline funding per weighted student
+24 unit. Each year the superintendent shall calculate the amount by which the
+25 district's baseline funding per weighted student unit exceeds the payment per
+26 weighted student unit provided in subsection 3. For the 2023-24 school year the
+27 superintendent shall reduce the district's baseline funding per weighted student
+28 unit by forty percent of the amount by which the district's baseline funding per
+29 weighted student unit exceeds the payment per weighted student unit for the
+30 2023-24 school year. For each year thereafter, the reduction percentage is
+31 increased by an additional fifteen percent. However, the district's baseline funding
+Page No. 9 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 per weighted student unit, after the reduction, may not be less than the payment
+2 per weighted student unit provided in subsection 3.
+3 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+4 greater of:
+5 (1) The district's weighted student units multiplied by ten thousand six hundred
+6 forty-six dollars;
+7 (2) One hundred two percent of the district's baseline funding per weighted
+8 student unit, as established in subsection 2, multiplied by the district's
+9 weighted student units, not to exceed the district's 2017-18 baseline
+10 weighted student units, plus any weighted student units in excess of the
+11 2017-18 baseline weighted student units multiplied by ten thousand
+12 six hundred forty-six dollars; or
+13 (3) The district's baseline funding as established in subsection 1 less the
+14 amount in paragraph 1, with the difference reduced by forty percent and
+15 then the difference added to the amount determined in paragraph 1.
+16 b. For the 2024-25 school year and each school year thereafter, the superintendent
+17 shall calculate state aid as the greater of:
+18 (1) The district's weighted student units multiplied by eleven thousand
+19 seventy-two dollars;
+20 (2) One hundred two percent of the district's baseline funding per weighted
+21 student unit, as established in subsection 2, multiplied by the district's
+22 weighted student units, not to exceed the district's 2017-18 baseline
+23 weighted student units, plus any weighted student units in excess of the
+24 2017-18 baseline weighted student units multiplied by eleven thousand
+25 seventy-two dollars; or
+26 (3) The district's baseline funding as established in subsection 1 less the
+27 amount in paragraph 1, with the difference reduced by fifty-five percent for
+28 the 2024-25 school year and the reduction percentage increasing by fifteen
+29 percent each school year thereafter until the difference is reduced to zero,
+30 and then the difference added to the amount determined in paragraph 1.
+Page No. 10 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 4. After determining the product in accordance with subsection 3, the superintendent of
+2 public instruction shall:
+3 a. Subtract an amount equal to sixtyfifty mills multiplied by the taxable valuation of
+4 the school district; and
+5 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+6 subdivisions c and d of subsection 1. Before determining the deduction for
+7 seventy-five percent of all revenue types, the superintendent of public instruction
+8 shall adjust revenues as follows:
+9 (1) Tuition revenue shall be adjusted as follows:
+10 (a) In addition to deducting tuition revenue received specifically for the
+11 operation of an educational program provided at a residential
+12 treatment facility, tuition revenue received for the provision of an adult
+13 farm management program, tuition received for the education of
+14 high-cost and special education students, and tuition received under
+15 an agreement to educate students from a school district on an
+16 air force base with funding received through federal impact aid as
+17 directed each school year in paragraph 3 of subdivision c of
+18 subsection 1, the superintendent of public instruction also shall reduce
+19 the total tuition reported by the school district by the amount of tuition
+20 revenue received for the education of students not residing in the
+21 state and for which the state has not entered a cross-border education
+22 contract; and
+23 (b) The superintendent of public instruction also shall reduce the total
+24 tuition reported by admitting school districts meeting the requirements
+25 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+26 of tuition revenue received for the education of students residing in an
+27 adjacent school district.
+28 (2) After adjusting tuition revenue as provided in paragraph 1, the
+29 superintendent shall reduce all remaining revenues from all revenue types
+30 by the percentage of mills levied in 20222024 by the school district for
+Page No. 11 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 sinking and interest relative to the total mills levied in 20222024 by the
+2 school district for all purposes.
+3 5. The amount remaining after the computation required under subsection 4 is the
+4 amount of state aid to which a school district is entitled, subject to any other statutory
+5 requirements or limitations.
+6 6. On or before June thirtieth of each year, the school board shall certify to the
+7 superintendent of public instruction the final average daily membership for the current
+8 school year.
+9 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+10 with the school districts, shall report the following to the superintendent of public
+11 instruction on an annual basis:
+12 a. The amount of revenue received by each school district in the county during the
+13 previous school year for each type of revenue identified in subdivisions c and d of
+14 subsection 1;
+15 b. The total number of mills levied in the previous calendar year by each school
+16 district for all purposes; and
+17 c. The number of mills levied in the previous calendar year by each school district
+18 for sinking and interest fund purposes.
+19 SECTION 3. AMENDMENT. Section 15.1-27-04.2 of the North Dakota Century Code is
+20 amended and reenacted as follows:
+21 15.1-27-04.2. State aid - Minimum local effort - Determination.
+22 If a district's taxable valuation per student is less than twenty percent of the state average
+23 valuation per student, the superintendent of public instruction, for purposes of determining state
+24 aid in accordance with subsection 4 o f section 15.1-27-04.1, shall utilizeuse an amount equal to
+25 sixtyfifty mills times twenty percent of the state average valuation per student multiplied by the
+26 number of weighted student units in the district.
+27 SECTION 4. AMENDMENT. Subsection 1 of section 21-10-06 of the North Dakota Century
+28 Code is amended and reenacted as follows:
+29 1. Subject to the provisions of section 21-10-02, the board shall invest the following
+30 funds:
+31 a. State bonding fund.
+Page No. 12 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 b. Teachers' fund for retirement.
+2 c. State fire and tornado fund.
+3 d. Workforce safety and insurance fund.
+4 e. Public employees retirement system.
+5 f. Insurance regulatory trust fund.
+6 g. State risk management fund.
+7 h. Budget stabilization fund.
+8 i. Water projects stabilization fund.
+9 j. Health care trust fund.
+10 k. Cultural endowment fund.
+11 l. Petroleum tank release compensation fund.
+12 m. Legacy fund.
+13 n. Legacy earnings fund.
+14 o. Opioid settlement fund.
+15 p.o. A fund under contract with the board pursuant to subsection 3.
+16 SECTION 5. AMENDMENT. Section 54-27-19.3 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 54-27-19.3. Legacy earnings highway distribution fund.
+19 A legacy earnings highway distribution fund is created as a special fund in the state treasury
+20 into which must be deposited any allocations of legacy fund earnings made under section
+21 21-10-136 of this Act. Any moneys in the legacy earnings highway distribution fund must be
+22 allocated and transferred by the state treasurer, as follows:
+23 1. Sixty percent must be transferred to the department of transportation for deposit in the
+24 state highway fund;
+25 2. Ten percent must be transferred to the legacy earnings township highway aid fund;
+26 3. One and five-tenths percent must be transferred to the public transportation fund; and
+27 4. Twenty-eight and five-tenths percent must be allocated to cities and counties using the
+28 formula established in subsection 4 of section 54-27-19. Moneys received by counties
+29 and cities must be used for roadway purposes in accordance with section 11 of
+30 article X of the Constitution of North Dakota.
+Page No. 13 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 6. A new section to chapter 54-27 of the North Dakota Century Code is created
+2 and enacted as follows:
+3 Legacy earnings fund - State treasurer - Legacy fund distribution - Allocations.
+4 1. There is created in the state treasury the legacy earnings fund. The fund consists of all
+5 moneys distributed by the state treasurer from the legacy fund pursuant to section 26
+6 of article X of the Constitution of North Dakota. The distribution from the legacy fund
+7 on July first of each odd - numbered year must be equal to seven percent of the
+8 five - year average value of the legacy fund balance as reported by the state investmen t
+9 board. The average value of the legacy fund balance must be calculated using the
+10 fund balance at the end of each fiscal year for the five - year period ending with the
+11 most recently completed even - numbered fiscal year .
+12 2. From the amount distributed to the legacy earnings fund under subsection 1, the state
+13 treasurer shall allocate funding in July of each odd - numbered year in the following
+14 order:
+15 a. The first one hundred two million six hundred twenty-four thousand dollars or an
+16 amount equal to the amount appropriated from the legacy sinking and interest
+17 fund for debt service payments for a biennium, whichever is less, to the legacy
+18 sinking and interest fund under section 6 - 09.4 - 10.1 .
+19 b. The next two hundred twenty-five million dollars to the general fund to provide
+20 support for tax relief initiatives approved by the legislative assembly.
+21 c. The next one hundred million dollars to the legacy earnings highway distribution
+22 fund for allocations under section 54 - 27 - 19.3 .
+23 d. The next one hundred twenty - one million dollars to the state tuition fund under
+24 section 15.1 - 28.03 .
+25 e. The remaining amount as follows:
+26 (1) Fifty percent to the general fund.
+27 (2) The remainder to the strategic investment and improvements fund to be
+28 used in accordance with section 15 - 08.1 - 08 .
+29 SECTION 7. AMENDMENT. Section 57-15-01.1 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 14 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 57-15-01.1. Protection of taxpayers and taxing districts.
+2 Each taxing district may levy the lesser of the amount in dollars as certified in the budget of
+3 the governing body, or the amount in dollars as allowed in this section, subject to the following:
+4 1. No taxing district may levy more taxes expressed in dollars than the amounts allowed
+5 by this section.
+6 2. For purposes of this section:
+7 a. "Base year" means the taxing district's taxable year with the highest amount
+8 levied in dollars in property taxes of the three taxable years immediately
+9 preceding the budget year;.
+10 b. "Budget year" means the taxing district's year for which the levy is being
+11 determined under this section;.
+12 c. "Calculated mill rate" means the mill rate that results from dividing the base year
+13 taxes levied by the sum of the taxable value of the taxable property in the base
+14 year plus the taxable value of the property exempt by local discretion or
+15 charitable status, calculated in the same manner as the taxable property; and.
+16 d. "Property exempt by local discretion or charitable status" means property
+17 exempted from taxation as new or expanding businesses under chapter 40-57.1;
+18 improvements to property under chapter 57-02.2; or buildings belonging to
+19 institutions of public charity, new single-family residential or townhouse or
+20 condominium property, property used for early childhood services, or pollution
+21 abatement improvements under section 57-02-08.
+22 e. "Taxing district" means any political subdivision, other than a school district,
+23 empowered by law to levy taxes.
+24 3. A taxing district may elect to levy the amount levied in dollars in the base year. Any
+25 levy under this section must be specifically approved by a resolution approved by the
+26 governing body of the taxing district. Before determining the levy limitation under this
+27 section, the dollar amount levied in the base year must be:
+28 a. Reduced by an amount equal to the sum determined by application of the base
+29 year's calculated mill rate for that taxing district to the final base year taxable
+30 valuation of any taxable property and property exempt by local discretion or
+Page No. 15 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 charitable status which is not included in the taxing district for the budget year but
+2 was included in the taxing district for the base year.
+3 b. Increased by an amount equal to the sum determined by the application of the
+4 base year's calculated mill rate for that taxing district to the final budget year
+5 taxable valuation of any taxable property or property exempt by local discretion or
+6 charitable status which was not included in the taxing district for the base year
+7 but which is included in the taxing district for the budget year.
+8 c. Reduced to reflect expired temporary mill levy increases authorized by the
+9 electors of the taxing district. For purposes of this subdivision, an expired
+10 temporary mill levy increase does not include a school district general fund mill
+11 rate exceeding one hundred ten mills which has expired or has not received
+12 approval of electors for an extension under subsection 2 of section 57-64-03.
+13 d. Reduced by the amount of state aid under chapter 15.1-27, which is determined
+14 by multiplying the budget year taxable valuation of the school district by the
+15 lesser of the base year mill rate of the school district minus sixty mills or fifty
+16 mills, if the base year is a taxable year before 2013.
+17 4. In addition to any other levy limitation factor under this section, a taxing district may
+18 increase its levy in dollars to reflect new or increased mill levies authorized by the
+19 legislative assembly or authorized by the electors of the taxing district.
+20 5. Under this section a taxing district may supersede any applicable mill levy limitations
+21 otherwise provided by law, or a taxing district may levy up to the mill levy limitations
+22 otherwise provided by law without reference to this section, but the provisions of this
+23 section do not apply to the following:
+24 a. Any irrepealable tax to pay bonded indebtedness levied pursuant to section 16 of
+25 article X of the Constitution of North Dakota.
+26 b. The one-mill levy for the state medical center authorized by section 10 of article X
+27 of the Constitution of North Dakota.
+28 6. A school district choosing to determine its levy authority under this section may apply
+29 subsection 3 only to the amount in dollars levied for general fund purposes under
+30 section 57-15-14 or, if the levy in the base year included separate general fund and
+31 special fund levies under sections 57-15-14 and 57-15-14.2, the school district may
+Page No. 16 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 apply subsection 3 to the total amount levied in dollars in the base year for both the
+2 general fund and special fund accounts. School district levies under any section other
+3 than section 57-15-14 may be made within applicable limitations but those levies are
+4 not subject to subsection 3.
+5 7. Optional levies under this section may be used by any city or county that has adopted
+6 a home rule charter unless the provisions of the charter supersede state laws related
+7 to property tax levy limitations.
+8 SECTION 8. AMENDMENT. Subsection 1 of section 57-15-14 of the North Dakota Century
+9 Code is amended and reenacted as follows:
+10 1. Unless authorized by the electors of the school district in accordance with this section,
+11 a school district may not impose greater levies than those permitted under section
+12 57-15-14.2.
+13 a. In any school district having a total population in excess of four thousand
+14 according to the last federal decennial census there may be levied any specific
+15 number of mills that upon resolution of the school board has been submitted to
+16 and approved by a majority of the qualified electors voting upon the question at
+17 any regular or special school district election.
+18 b. In any school district having a total population of fewer than four thousand, there
+19 may be levied any specific number of mills that upon resolution of the school
+20 board has been approved by fifty-five percent of the qualified electors voting
+21 upon the question at any regular or special school election.
+22 c. After June 30, 2009, in any school district election for approval by electors of
+23 increased levy authority under subsection 1 or 2, the ballot must specify the
+24 number of mills proposed for approval, and the number of taxable years for which
+25 that approval is to apply. After June 30, 2009, approval by electors of increased
+26 levy authority under subsection 1 or 2 may not be effective for more than ten
+27 taxable years.
+28 d. The authority for a levy of up to a specific number of mills under this section
+29 approved by electors of a school district before July 1, 2009, is terminated
+30 effective for taxable years after 2015. If the electors of a school district subject to
+31 this subsection have not approved a levy for taxable years after 2015 of up to a
+Page No. 17 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 specific number of mills under this section by December 31, 2015, the school
+2 district levy limitation for subsequent years is subject to the limitations under
+3 section 57-15-01.1 or this section.
+4 e. For taxable years beginning after 2012:
+5 (1) The authority for a levy of up to a specific number of mills, approved by
+6 electors of a school district for any period of time that includes a taxable
+7 year before 2009, must be reduced by one hundred fifteen mills as a
+8 precondition of receiving state aid in accordance with chapter 15.1-27.
+9 (2) The authority for a levy of up to a specific number of mills, approved by
+10 electors of a school district for any period of time that does not include a
+11 taxable year before 2009, must be reduced by forty mills as a precondition
+12 of receiving state aid in accordance with chapter 15.1-27.
+13 (3) The authority for a levy of up to a specific number of mills, placed on the
+14 ballot in a school district election for electoral approval of increased levy
+15 authority under subdivision a or b, after June 30, 20132025, must be stated
+16 as a specific number of mills of general fund levy authority and must include
+17 a statement that the statutory school district general fund levy limitation is
+18 seventysixty mills on the dollar of the taxable valuation of the school district.
+19 f. The authority for an unlimited levy approved by electors of a school district before
+20 July 1, 2009, is terminated effective for taxable years after 2015. If the electors of
+21 a school district subject to this subsection have not approved a levy of up to a
+22 specific number of mills under this section by December 31, 2015, the school
+23 district levy limitation for subsequent years is subject to the limitations under
+24 section 57-15-01.1 or this section.
+25 SECTION 9. AMENDMENT. Section 57-15-14.2 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 57-15-14.2. School district levies.
+28 1. The board of a school district may levy a tax not exceeding the amount in dollars that
+29 the school district levied for the prior year, plus twelve percent, up to would be
+30 generated by a levy of seventyfifty mills on the taxable valuation of the district, for any
+31 purpose related to the provision of educational servicesthe school district's local
+Page No. 18 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 contribution to the costs of education. The proceeds of this levy must be deposited into
+2 the school district's general fund and may be used in accordance with this
+3 subsectionfor any purposes related to the provision of educational services. The
+4 proceeds may not be transferred into any other fund.
+5 2. The board of a school district may levy no more than ten mills on the taxable valuation
+6 of the district, for any purpose related to the provision of educational services. The
+7 proceeds of this levy must be deposited into the school district's general fund and
+8 used in accordance with this subsection. The proceeds may not be transferred into
+9 any other fund.
+10 3. The board of a school district may levy no more than twelve mills on the taxable
+11 valuation of the district, for miscellaneous purposes and expenses. The proceeds of
+12 this levy must be deposited into a special fund known as the miscellaneous fund and
+13 used in accordance with this subsection. The proceeds may not be transferred into
+14 any other fund.
+15 3.4. The board of a school district may levy no more than three mills on the taxable
+16 valuation of the district for deposit into a special reserve fund, in accordance with
+17 chapter 57-19.
+18 4.5. The board of a school district may levy no more than the number of mills necessary,
+19 on the taxable valuation of the district, for the payment of tuition, in accordance with
+20 section 15.1-29-15. The proceeds of this levy must be deposited into a special fund
+21 known as the tuition fund and used in accordance with this subsection. The proceeds
+22 may not be transferred into any other fund.
+23 5.6. The board of a school district may levy no more than five mills on the taxable valuation
+24 of the district, pursuant to section 57-15-15.1, for purposes of developing a school
+25 safety plan in accordance with section 15.1-09-60. The proceeds of this levy must be
+26 deposited into a special fund known as the school safety plan fund and used in
+27 accordance with this subsection.
+28 6.7. Nothing in this section limits the board of a school district from levying:
+29 a. Mills for a building fund, as permitted in sections 15.1-09-49 and 57-15-16; and
+Page No. 19 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 b. Mills necessary to pay principal and interest on the bonded debt of the district,
+2 including the mills necessary to pay principal and interest on any bonded debt
+3 incurred under section 57-15-17.1 before July 1, 2013.
+4 SECTION 10. A new section to chapter 57-15 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Limitation on levies by taxing districts without voter approval.
+7 1. a. Notwithstanding that a taxing district may have unused or excess levy authority
+8 under any other provision of law, this section supersedes and limits that authority.
+9 This section may not be interpreted as authority to increase any property tax levy
+10 authority otherwise provided by law and must be applied to limit any property tax
+11 levy authority to which a taxing district may otherwise be entitled. Property taxes
+12 levied in dollars by a taxing district may not exceed the amount the taxing district
+13 levied in dollars in the preceding taxable year by more than three percent,
+14 except:
+15 (1) When property and improvements to property which were not taxable in the
+16 preceding taxable year are taxable in the current year, the amount levied in
+17 dollars in the preceding taxable year by the taxing district must be increased
+18 for purposes of this section to reflect the taxes that would have been
+19 imposed against the additional taxable valuation attributable to that property
+20 at the mill rate applied to all property in the preceding taxable year.
+21 (2) When a property tax exemption existed in the preceding taxable year which
+22 has been reduced or no longer exists for the current taxable year, the
+23 amount levied in dollars in the preceding taxable year by the taxing district
+24 must be increased for purposes of this section to reflect the taxes that would
+25 have been imposed against the portion of the taxable valuation of the
+26 property which is no longer exempt at the mill rate applied to all property in
+27 the preceding taxable year.
+28 (3) When property that was taxable in the preceding taxable year is not taxable
+29 for the current taxable year, the amount levied in dollars in the preceding
+30 taxable year by the taxing district must be reduced for purposes of this
+Page No. 20 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 section by the amount of taxes that were imposed against the taxable
+2 valuation of that property in the preceding taxable year.
+3 (4) When a temporary mill levy increase, excluding an increase under this
+4 section, authorized by the electors of the taxing district or mill levy
+5 imposition authority under state law existed in the previous taxable year but
+6 is no longer applicable or has been reduced, the amount levied in dollars in
+7 the previous taxable year by the taxing district must be adjusted to reflect
+8 the expired temporary mill levy increase and the eliminated or reduced mill
+9 levy under state law before the percentage increase allowable under this
+10 subsection is applied.
+11 b. If the actual percentage increase in property taxes levied in dollars by a taxing
+12 district compared to the property taxes levied in the preceding taxable year is
+13 less than the percentage increase limitation under subdivision a, the taxing
+14 district may carry forward the excess percentage increase to the succeeding
+15 taxable year. A taxing district may not carry forward any amount of unused
+16 excess percentage increase beyond the taxable year succeeding the taxable
+17 year during which the excess percentage increase accumulated.
+18 2. The limitation on the total amount levied by a taxing district under subsection 1 does
+19 not apply to:
+20 a. New or increased property tax levy authority that was not available to the taxing
+21 district in the preceding taxable year, including property tax levy authority
+22 provided by state law or approved by the electors of the taxing district.
+23 b. Any irrepealable tax to pay bonded indebtedness levied under section 16 o f
+24 article X of the Constitution of North Dakota. Any tax levied for this purpose mus t
+25 be excluded from the mill rate applied under paragraphs 1 through 3 o f
+26 subdivision a of subsection 1 .
+27 c. The one - mill levy for the state medical center authorized by section 10 of article X
+28 of the Constitution of North Dakota. Any tax levied for this purpose must be
+29 excluded from the mill rate applied under paragraphs 1 through 3 of subdivision a
+30 of subsection 1 .
+Page No. 21 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 d. The levy, not to exceed one mill, for the Garrison Diversion Conservancy District,
+2 authorized by section 57 - 15 - 26.8 .
+3 e. Taxes or special assessments levied to pay the principal and interest on any
+4 obligations of any political subdivision, including taxes levied for deficiencies in
+5 special assessment and improvement district funds and revenue bond and
+6 reserve funds.
+7 f. Taxes levied pursuant to law for the proportion of the cost to any taxing district for
+8 a special improvement project by general taxation.
+9 g. Taxes levied under sections 40 - 24 - 10, 40 - 43 - 01, and 57 - 15 - 41 , and chapter
+10 61 - 16.1 .
+11 3. A levy exceeding the percentage increase limitation under subsection 1 may be
+12 imposed upon approval of a ballot measure, stating the percentage of the proposed
+13 property tax levy increase percentage compared to the percentage limitation under
+14 subsection 1, by at least sixty percent of the qualified electors of the taxing distric t
+15 voting on the question at a statewide primary or general election . A levy exceeding the
+16 percentage increase limitation under subsection 1 may be approved by electors for no t
+17 more than five taxable years at a time.
+18 4. A city or county may not supersede or modify the application of the provisions of this
+19 section under home rule authority.
+20 5. For purposes of this section:
+21 a. "Excess percentage increase" means the difference between the percentage
+22 increase limitation under subdivision a of subsection 1 for a taxable year and the
+23 actual percentage increase in property taxes levied in dollars by a taxing district
+24 in the taxable year compared to the preceding taxable year.
+25 b. "Taxing district" means any political subdivision, other than a school district,
+26 empowered to levy taxes.
+27 SECTION 11. AMENDMENT. Subdivision c of subsection 1 of section 57-20-07.1 of the
+28 North Dakota Century Code is amended and reenacted as follows:
+29 c. Provide information identifying the property tax savings provided by the state of
+30 North Dakota. The tax statement must include a line item that is entitled
+31 "legislative tax relief" and identifies the dollar amount of property tax savings
+Page No. 22 25.0044.08000
+Sixty-ninth
+Legislative Assembly
+1 realized by the taxpayer under chapter 50-34 for taxable years before 2019,
+2 chapter 50-35 for taxable years after 2018, and chapter 15.1-27.
+3 (1) For purposes of this subdivision, legislative tax relief under chapter 15.1-27
+4 is determined by multiplying the taxable value for the taxable year for each
+5 parcel shown on the tax statement by the number of mills of mill levy
+6 reduction grant under chapter 57-64 for the 2012 taxable year plus the
+7 number of mills determined by subtracting from the 2012 taxable year mill
+8 rate of the school district in which the parcel is located the lesser of one
+9 hundred thirty-five mills or the sum of:
+10 (a) FiftyThe number of mills of mill levy reduction grant under chapter
+11 57 - 64 for the 2012 taxable year ; orand
+12 (b) The 2012 taxable year mill rate of the school district minus, excluding
+13 sixtyfifty mills.
+14 (2) Legislative tax relief under chapter 50-35 is determined by multiplying the
+15 taxable value for the taxable year for each parcel shown on the tax
+16 statement by the number of mills of relief determined by dividing the amount
+17 calculated in subsection 1 of section 50-35-03 for a human service zone by
+18 the taxable value of taxable property in the zone for the taxable year.
+19 SECTION 12. REPEAL. Sections 15.1-27-04.3, 15.1-27-15.1, 15.1-27-20.2, 21-10-12, and
+20 21-10-13 of the North Dakota Century Code are repealed.
+21 SECTION 13. EFFECTIVE DATE. Sections 7, 8, 9, and 10 of this Act are effective for
+22 taxable years beginning after December 31, 2024.
+Page No. 23 25.0044.08000
+[DELETED: 12]
+[DELETED: .T.A.A.A)R)M)T22]
+[DELETED: )R)R)R.A)M)T)R.B32]
+[DELETED: .a.T.F.B.a.F)T)O42]
+[DELETED: )T.F)T)O)T.A.S.S52]
+[DELETED: )T)I)T)A.T62]
+[DELETED: .O.F.T.T.T.T.A.A.A)R)M72]
+[DELETED: )T)R)R)R.A)M)T)R.B82]
+[DELETED: .a.T.F.B92]
+[DELETED: .a.F)T)O)T.F)T)O)T02]
+[DELETED: .A.S.S)T)I)T)A12]
+[DELETED: .T.O.F.T.T.T.S.S22]
+[DELETED: .T.S.W.P.I.S.B.W.H.C.P.L.L.O.A.S.T.O.T32]
+[DELETED: .T. .T.T.T. .T)F)T42]
+[DELETED: .N.F.".".".".".A.R52]
+[DELETED: .I.R.R.I.U.A.T.A62]
+[DELETED: .O.U.I.I.A.T72]
+[DELETED: .F)T)T)T.T.T82]
+[DELETED: .T.T.T.T.T.N.M92]
+[DELETED: .M.a.N)W)W)W02]
+[DELETED: )W.I. .N. . 12]
+[DELETED: .T.T.T. . .A.F.".".P22]
+[DELETED: )F)F)T)L32]
+
+
+================================================================================
+
+Raw Text:
+25.0044.08000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+SECOND ENGROSSMENT
+REENGROSSED HOUSE BILL NO. 1168
+Introduced by
+Representatives Louser, Jonas, Monson, Richter, Sanford, Toman
+Senators Burckhard, Thomas
+1 A BILL for an Act to create and enact a new section to chapter 54-27 and a new section to
+2 chapter 57-15 of the North Dakota Century Code, relating to a legacy earnings fund and
+3 limitations on property tax levies by taxing districts except school districts without voter
+4 approval; to amend and reenact sections 6-09.4-10.1, 15.1-27-04.1, and 15.1-27-04.2,
+5 subsection 1 of section 21-10-06, sections 54-27-19.3 and 57-15-01.1, subsection 1 of section
+6 57-15-14, section 57-15-14.2, and subdivision c of subsection 1 of section 57-20-07.1 of the
+7 North Dakota Century Code, relating to the legacy sinking and interest fund, the state school aid
+8 funding formula, funds invested by the state investment board, the legacy earnings highway
+9 distribution fund, and school district levy authority; to repeal sections 15.1-27-04.3,
+10 15.1-27-15.1, 15.1-27-20.2, 21-10-12, and 21-10-13 of the North Dakota Century Code, relating
+11 to adjustments to state aid payments, legacy fund definitions, and a legacy earnings fund; and
+12 to provide an effective date.
+13 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+14 SECTION 1. AMENDMENT. Section 6-09.4-10.1 of the North Dakota Century Code is
+15 amended and reenacted as follows:
+16 6-09.4-10.1. Legacy sinking and interest fund - Debt service requirements - Public
+17 finance authority.
+18 There is created in the state treasury the legacy sinking and interest fund. The fund consists
+19 of all moneys deposited in the fund under section 21-10-136 of this Act. Moneys in the fund may
+20 be spent by the public finance authority pursuant to legislative appropriations to meet the debt
+21 service requirements for evidences of indebtedness issued by the authority for transfer to the
+22 Bank of North Dakota for allocations to infrastructure projects and programs.
+Page No. 1 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. AMENDMENT. Section 15.1-27-04.1 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 15.1-27-04.1. Baseline funding - Establishment - Determination of state aid. (Effective
+4 through June 30, 2025) (Retroactive application - See note)
+5 1. To determine the amount of state aid payable to each district, the superintendent of
+6 public instruction shall establish each district's baseline funding. A district's baseline
+7 funding consists of:
+8 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+9 2018-19 school year;
+10 b. An amount equal to the property tax deducted by the superintendent of public
+11 instruction to determine the 2018-19 state aid payment;
+12 c. An amount equal to seventy-five percent of the revenue received by the school
+13 district during the 2017-18 school year for the following revenue types:
+14 (1) Revenue reported under code 2000 of the North Dakota school district
+15 financial accounting and reporting manual, as developed by the
+16 superintendent of public instruction in accordance with section 15.1-02-08;
+17 (2) Mineral revenue received by the school district through direct allocation from
+18 the state treasurer and not reported under code 2000 of the North Dakota
+19 school district financial accounting and reporting manual, as developed by
+20 the superintendent of public instruction in accordance with section
+21 15.1-02-08;
+22 (3) Tuition reported under code 1300 of the North Dakota school district
+23 financial accounting and reporting manual, as developed by the
+24 superintendent of public instruction in accordance with section 15.1-02-08,
+25 with the exception of revenue received specifically for the operation of an
+26 educational program provided at a residential treatment facility, tuition
+27 received for the provision of an adult farm management program, and
+28 beginning in the 2021-22 school year, seventeen percent of tuition received
+29 under an agreement to educate students from a school district on an
+30 air force base with funding received through federal impact aid, and an
+31 additional seventeen percent of tuition received under an agreement to
+Page No. 2 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 educate students from a school district on an air force base with funding
+2 received through federal impact aid each school year thereafter, until the
+3 2024-25 school year when sixty-eight percent of tuition received under an
+4 agreement to educate students from a school district on an air force base
+5 with funding received through federal impact aid must be excluded from the
+6 tuition calculation under this paragraph;
+7 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+8 of electric power;
+9 (5) Revenue from payments in lieu of taxes on electricity generated from
+10 sources other than coal; and
+11 (6) Revenue from the leasing of land acquired by the United States for which
+12 compensation is allocated to the state under 33 U.S.C. 701(c)(3);
+13 d. An amount equal to the total revenue received by the school district during the
+14 2017-18 school year for the following revenue types:
+15 (1) Mobile home tax revenue;
+16 (2) Telecommunications tax revenue; and
+17 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+18 homestead credit and disabled veterans credit; and
+19 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+20 baseline funding for any school district that becomes an elementary district
+21 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+22 be proportional to the number of weighted student units in the grades that are
+23 offered through another school district relative to the total number of weighted
+24 student units the school district offered in the year before the school district
+25 became an elementary district. The reduced baseline funding applies to the
+26 calculation of state aid for the first school year in which the school district
+27 becomes an elementary district and for each year thereafter. For districts that
+28 become an elementary district prior to the 2020-21 school year, the
+29 superintendent shall use the reduced baseline funding to calculate state aid for
+30 the 2020-21 school year and for each year thereafter.
+Page No. 3 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 2. a. The superintendent shall divide the district's baseline funding determined in
+2 subsection 1 by the district's 2017-18 weighted student units to determine the
+3 district's baseline funding per weighted student unit.
+4 b. For any school district that becomes an elementary district pursuant to section
+5 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+6 district's baseline funding per weighted student unit used to calculate state aid.
+7 The superintendent shall divide the district's baseline funding determined in
+8 subsection 1 by the district's weighted student units after the school district
+9 becomes an elementary district to determine the district's adjusted baseline
+10 funding per weighted student unit. The superintendent shall use the district's
+11 adjusted baseline funding per weighted student unit in the calculation of state aid
+12 for the first school year in which the school district becomes an elementary
+13 district and for each year thereafter.
+14 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+15 superintendent shall reduce the district's baseline funding per weighted student
+16 unit. Each year the superintendent shall calculate the amount by which the
+17 district's baseline funding per weighted student unit exceeds the payment per
+18 weighted student unit provided in subsection 3. For the 2023-24 school year the
+19 superintendent shall reduce the district's baseline funding per weighted student
+20 unit by forty percent of the amount by which the district's baseline funding per
+21 weighted student unit exceeds the payment per weighted student unit for the
+22 2023-24 school year. For each year thereafter, the reduction percentage is
+23 increased by an additional fifteen percent. However, the district's baseline funding
+24 per weighted student unit, after the reduction, may not be less than the payment
+25 per weighted student unit provided in subsection 3.
+26 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+27 greater of:
+28 (1) The district's weighted student units multiplied by ten thousand six hundred
+29 forty-six dollars;
+30 (2) One hundred two percent of the district's baseline funding per weighted
+31 student unit, as established in subsection 2, multiplied by the district's
+Page No. 4 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 weighted student units, not to exceed the district's 2017-18 baseline
+2 weighted student units, plus any weighted student units in excess of the
+3 2017-18 baseline weighted student units multiplied by ten thousand
+4 six hundred forty-six dollars; or
+5 (3) The district's baseline funding as established in subsection 1 less the
+6 amount in paragraph 1, with the difference reduced by forty percent and
+7 then the difference added to the amount determined in paragraph 1.
+8 b. For the 2024-25 school year and each school year thereafter, the superintendent
+9 shall calculate state aid as the greater of:
+10 (1) The district's weighted student units multiplied by eleven thousand
+11 seventy-two dollars;
+12 (2) One hundred two percent of the district's baseline funding per weighted
+13 student unit, as established in subsection 2, multiplied by the district's
+14 weighted student units, not to exceed the district's 2017-18 baseline
+15 weighted student units, plus any weighted student units in excess of the
+16 2017-18 baseline weighted student units multiplied by eleven thousand
+17 seventy-two dollars; or
+18 (3) The district's baseline funding as established in subsection 1 less the
+19 amount in paragraph 1, with the difference reduced by fifty-five percent for
+20 the 2024-25 school year and the reduction percentage increasing by fifteen
+21 percent each school year thereafter until the difference is reduced to zero,
+22 and then the difference added to the amount determined in paragraph 1.
+23 4. After determining the product in accordance with subsection 3, the superintendent of
+24 public instruction shall:
+25 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+26 school district, except the amount in dollars subtracted for purposes of this
+27 subdivision may not exceed the previous year's amount in dollars subtracted for
+28 purposes of this subdivision by more than twelve percent, adjusted pursuant to
+29 section 15.1-27-04.3; and
+30 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+31 subdivisions c and d of subsection 1. Before determining the deduction for
+Page No. 5 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 seventy-five percent of all revenue types, the superintendent of public instruction
+2 shall adjust revenues as follows:
+3 (1) Tuition revenue shall be adjusted as follows:
+4 (a) In addition to deducting tuition revenue received specifically for the
+5 operation of an educational program provided at a residential
+6 treatment facility, tuition revenue received for the provision of an adult
+7 farm management program, tuition received for the education of
+8 high-cost and special education students, and tuition received under
+9 an agreement to educate students from a school district on an
+10 air force base with funding received through federal impact aid as
+11 directed each school year in paragraph 3 of subdivision c of
+12 subsection 1, the superintendent of public instruction also shall reduce
+13 the total tuition reported by the school district by the amount of tuition
+14 revenue received for the education of students not residing in the
+15 state and for which the state has not entered a cross-border education
+16 contract; and
+17 (b) The superintendent of public instruction also shall reduce the total
+18 tuition reported by admitting school districts meeting the requirements
+19 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+20 of tuition revenue received for the education of students residing in an
+21 adjacent school district.
+22 (2) After adjusting tuition revenue as provided in paragraph 1, the
+23 superintendent shall reduce all remaining revenues from all revenue types
+24 by the percentage of mills levied in 2022 by the school district for sinking
+25 and interest relative to the total mills levied in 2022 by the school district for
+26 all purposes.
+27 5. The amount remaining after the computation required under subsection 4 is the
+28 amount of state aid to which a school district is entitled, subject to any other statutory
+29 requirements or limitations.
+Page No. 6 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 6. On or before June thirtieth of each year, the school board shall certify to the
+2 superintendent of public instruction the final average daily membership for the current
+3 school year.
+4 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+5 with the school districts, shall report the following to the superintendent of public
+6 instruction on an annual basis:
+7 a. The amount of revenue received by each school district in the county during the
+8 previous school year for each type of revenue identified in subdivisions c and d of
+9 subsection 1;
+10 b. The total number of mills levied in the previous calendar year by each school
+11 district for all purposes; and
+12 c. The number of mills levied in the previous calendar year by each school district
+13 for sinking and interest fund purposes.
+14 Baseline funding - Establishment - Determination of state aid. (Effective after
+15 June 30, 2025)
+16 1. To determine the amount of state aid payable to each district, the superintendent of
+17 public instruction shall establish each district's baseline funding. A district's baseline
+18 funding consists of:
+19 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+20 2018-19 school year;
+21 b. An amount equal to the property tax deducted by the superintendent of public
+22 instruction to determine the 2018-19 state aid payment;
+23 c. An amount equal to seventy-five percent of the revenue received by the school
+24 district during the 2017-18 school year for the following revenue types:
+25 (1) Revenue reported under code 2000 of the North Dakota school district
+26 financial accounting and reporting manual, as developed by the
+27 superintendent of public instruction in accordance with section 15.1-02-08;
+28 (2) Mineral revenue received by the school district through direct allocation from
+29 the state treasurer and not reported under code 2000 of the North Dakota
+30 school district financial accounting and reporting manual, as developed by
+Page No. 7 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 the superintendent of public instruction in accordance with section
+2 15.1-02-08;
+3 (3) Tuition reported under code 1300 of the North Dakota school district
+4 financial accounting and reporting manual, as developed by the
+5 superintendent of public instruction in accordance with section 15.1-02-08,
+6 with the exception of revenue received specifically for the operation of an
+7 educational program provided at a residential treatment facility, tuition
+8 received for the provision of an adult farm management program, and
+9 beginning in the 2025-26 school year, eighty-five percent of tuition received
+10 under an agreement to educate students from a school district on an
+11 air force base with funding received through federal impact aid, until the
+12 2026-27 school year, and each school year thereafter, when all tuition
+13 received under an agreement to educate students from a school district on
+14 an air force base with funding received through federal impact aid must be
+15 excluded from the tuition calculation under this paragraph;
+16 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+17 of electric power;
+18 (5) Revenue from payments in lieu of taxes on electricity generated from
+19 sources other than coal; and
+20 (6) Revenue from the leasing of land acquired by the United States for which
+21 compensation is allocated to the state under 33 U.S.C. 701(c)(3); and
+22 d. An amount equal to the total revenue received by the school district during the
+23 2017-18 school year for the following revenue types:
+24 (1) Mobile home tax revenue;
+25 (2) Telecommunications tax revenue; and
+26 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+27 homestead credit and disabled veterans credit.
+28 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+29 baseline funding for any school district that becomes an elementary district
+30 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+31 be proportional to the number of weighted student units in the grades that are
+Page No. 8 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 offered through another school district relative to the total number of weighted
+2 student units the school district offered in the year before the school district
+3 became an elementary district. The reduced baseline funding applies to the
+4 calculation of state aid for the first school year in which the school district
+5 becomes an elementary district and for each year thereafter. For districts that
+6 become an elementary district prior to the 2020-21 school year, the
+7 superintendent shall use the reduced baseline funding to calculate state aid for
+8 the 2020-21 school year and for each year thereafter.
+9 2. a. The superintendent shall divide the district's baseline funding determined in
+10 subsection 1 by the district's 2017-18 weighted student units to determine the
+11 district's baseline funding per weighted student unit.
+12 b. For any school district that becomes an elementary district pursuant to section
+13 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+14 district's baseline funding per weighted student unit used to calculate state aid.
+15 The superintendent shall divide the district's baseline funding determined in
+16 subsection 1 by the district's weighted student units after the school district
+17 becomes an elementary district to determine the district's adjusted baseline
+18 funding per weighted student unit. The superintendent shall use the district's
+19 adjusted baseline funding per weighted student unit in the calculation of state aid
+20 for the first school year in which the school district becomes an elementary
+21 district and for each year thereafter.
+22 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+23 superintendent shall reduce the district's baseline funding per weighted student
+24 unit. Each year the superintendent shall calculate the amount by which the
+25 district's baseline funding per weighted student unit exceeds the payment per
+26 weighted student unit provided in subsection 3. For the 2023-24 school year the
+27 superintendent shall reduce the district's baseline funding per weighted student
+28 unit by forty percent of the amount by which the district's baseline funding per
+29 weighted student unit exceeds the payment per weighted student unit for the
+30 2023-24 school year. For each year thereafter, the reduction percentage is
+31 increased by an additional fifteen percent. However, the district's baseline funding
+Page No. 9 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 per weighted student unit, after the reduction, may not be less than the payment
+2 per weighted student unit provided in subsection 3.
+3 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+4 greater of:
+5 (1) The district's weighted student units multiplied by ten thousand six hundred
+6 forty-six dollars;
+7 (2) One hundred two percent of the district's baseline funding per weighted
+8 student unit, as established in subsection 2, multiplied by the district's
+9 weighted student units, not to exceed the district's 2017-18 baseline
+10 weighted student units, plus any weighted student units in excess of the
+11 2017-18 baseline weighted student units multiplied by ten thousand
+12 six hundred forty-six dollars; or
+13 (3) The district's baseline funding as established in subsection 1 less the
+14 amount in paragraph 1, with the difference reduced by forty percent and
+15 then the difference added to the amount determined in paragraph 1.
+16 b. For the 2024-25 school year and each school year thereafter, the superintendent
+17 shall calculate state aid as the greater of:
+18 (1) The district's weighted student units multiplied by eleven thousand
+19 seventy-two dollars;
+20 (2) One hundred two percent of the district's baseline funding per weighted
+21 student unit, as established in subsection 2, multiplied by the district's
+22 weighted student units, not to exceed the district's 2017-18 baseline
+23 weighted student units, plus any weighted student units in excess of the
+24 2017-18 baseline weighted student units multiplied by eleven thousand
+25 seventy-two dollars; or
+26 (3) The district's baseline funding as established in subsection 1 less the
+27 amount in paragraph 1, with the difference reduced by fifty-five percent for
+28 the 2024-25 school year and the reduction percentage increasing by fifteen
+29 percent each school year thereafter until the difference is reduced to zero,
+30 and then the difference added to the amount determined in paragraph 1.
+Page No. 10 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 4. After determining the product in accordance with subsection 3, the superintendent of
+2 public instruction shall:
+3 a. Subtract an amount equal to sixtyfifty mills multiplied by the taxable valuation of
+4 the school district; and
+5 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+6 subdivisions c and d of subsection 1. Before determining the deduction for
+7 seventy-five percent of all revenue types, the superintendent of public instruction
+8 shall adjust revenues as follows:
+9 (1) Tuition revenue shall be adjusted as follows:
+10 (a) In addition to deducting tuition revenue received specifically for the
+11 operation of an educational program provided at a residential
+12 treatment facility, tuition revenue received for the provision of an adult
+13 farm management program, tuition received for the education of
+14 high-cost and special education students, and tuition received under
+15 an agreement to educate students from a school district on an
+16 air force base with funding received through federal impact aid as
+17 directed each school year in paragraph 3 of subdivision c of
+18 subsection 1, the superintendent of public instruction also shall reduce
+19 the total tuition reported by the school district by the amount of tuition
+20 revenue received for the education of students not residing in the
+21 state and for which the state has not entered a cross-border education
+22 contract; and
+23 (b) The superintendent of public instruction also shall reduce the total
+24 tuition reported by admitting school districts meeting the requirements
+25 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+26 of tuition revenue received for the education of students residing in an
+27 adjacent school district.
+28 (2) After adjusting tuition revenue as provided in paragraph 1, the
+29 superintendent shall reduce all remaining revenues from all revenue types
+30 by the percentage of mills levied in 20222024 by the school district for
+Page No. 11 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 sinking and interest relative to the total mills levied in 20222024 by the
+2 school district for all purposes.
+3 5. The amount remaining after the computation required under subsection 4 is the
+4 amount of state aid to which a school district is entitled, subject to any other statutory
+5 requirements or limitations.
+6 6. On or before June thirtieth of each year, the school board shall certify to the
+7 superintendent of public instruction the final average daily membership for the current
+8 school year.
+9 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+10 with the school districts, shall report the following to the superintendent of public
+11 instruction on an annual basis:
+12 a. The amount of revenue received by each school district in the county during the
+13 previous school year for each type of revenue identified in subdivisions c and d of
+14 subsection 1;
+15 b. The total number of mills levied in the previous calendar year by each school
+16 district for all purposes; and
+17 c. The number of mills levied in the previous calendar year by each school district
+18 for sinking and interest fund purposes.
+19 SECTION 3. AMENDMENT. Section 15.1-27-04.2 of the North Dakota Century Code is
+20 amended and reenacted as follows:
+21 15.1-27-04.2. State aid - Minimum local effort - Determination.
+22 If a district's taxable valuation per student is less than twenty percent of the state average
+23 valuation per student, the superintendent of public instruction, for purposes of determining state
+24 aid in accordance with subsection 4 o f section 15.1-27-04.1, shall utilizeuse an amount equal to
+25 sixtyfifty mills times twenty percent of the state average valuation per student multiplied by the
+26 number of weighted student units in the district.
+27 SECTION 4. AMENDMENT. Subsection 1 of section 21-10-06 of the North Dakota Century
+28 Code is amended and reenacted as follows:
+29 1. Subject to the provisions of section 21-10-02, the board shall invest the following
+30 funds:
+31 a. State bonding fund.
+Page No. 12 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Teachers' fund for retirement.
+2 c. State fire and tornado fund.
+3 d. Workforce safety and insurance fund.
+4 e. Public employees retirement system.
+5 f. Insurance regulatory trust fund.
+6 g. State risk management fund.
+7 h. Budget stabilization fund.
+8 i. Water projects stabilization fund.
+9 j. Health care trust fund.
+10 k. Cultural endowment fund.
+11 l. Petroleum tank release compensation fund.
+12 m. Legacy fund.
+13 n. Legacy earnings fund.
+14 o. Opioid settlement fund.
+15 p.o. A fund under contract with the board pursuant to subsection 3.
+16 SECTION 5. AMENDMENT. Section 54-27-19.3 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 54-27-19.3. Legacy earnings highway distribution fund.
+19 A legacy earnings highway distribution fund is created as a special fund in the state treasury
+20 into which must be deposited any allocations of legacy fund earnings made under section
+21 21-10-136 of this Act. Any moneys in the legacy earnings highway distribution fund must be
+22 allocated and transferred by the state treasurer, as follows:
+23 1. Sixty percent must be transferred to the department of transportation for deposit in the
+24 state highway fund;
+25 2. Ten percent must be transferred to the legacy earnings township highway aid fund;
+26 3. One and five-tenths percent must be transferred to the public transportation fund; and
+27 4. Twenty-eight and five-tenths percent must be allocated to cities and counties using the
+28 formula established in subsection 4 of section 54-27-19. Moneys received by counties
+29 and cities must be used for roadway purposes in accordance with section 11 of
+30 article X of the Constitution of North Dakota.
+Page No. 13 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 6. A new section to chapter 54-27 of the North Dakota Century Code is created
+2 and enacted as follows:
+3 Legacy earnings fund - State treasurer - Legacy fund distribution - Allocations.
+4 1. There is created in the state treasury the legacy earnings fund. The fund consists of all
+5 moneys distributed by the state treasurer from the legacy fund pursuant to section 26
+6 of article X of the Constitution of North Dakota. The distribution from the legacy fund
+7 on July first of each odd - numbered year must be equal to seven percent of the
+8 five - year average value of the legacy fund balance as reported by the state investmen t
+9 board. The average value of the legacy fund balance must be calculated using the
+10 fund balance at the end of each fiscal year for the five - year period ending with the
+11 most recently completed even - numbered fiscal year .
+12 2. From the amount distributed to the legacy earnings fund under subsection 1, the state
+13 treasurer shall allocate funding in July of each odd - numbered year in the following
+14 order:
+15 a. The first one hundred two million six hundred twenty-four thousand dollars or an
+16 amount equal to the amount appropriated from the legacy sinking and interest
+17 fund for debt service payments for a biennium, whichever is less, to the legacy
+18 sinking and interest fund under section 6 - 09.4 - 10.1 .
+19 b. The next two hundred twenty-five million dollars to the general fund to provide
+20 support for tax relief initiatives approved by the legislative assembly.
+21 c. The next one hundred million dollars to the legacy earnings highway distribution
+22 fund for allocations under section 54 - 27 - 19.3 .
+23 d. The next one hundred twenty - one million dollars to the state tuition fund under
+24 section 15.1 - 28.03 .
+25 e. The remaining amount as follows:
+26 (1) Fifty percent to the general fund.
+27 (2) The remainder to the strategic investment and improvements fund to be
+28 used in accordance with section 15 - 08.1 - 08 .
+29 SECTION 7. AMENDMENT. Section 57-15-01.1 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 14 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 57-15-01.1. Protection of taxpayers and taxing districts.
+2 Each taxing district may levy the lesser of the amount in dollars as certified in the budget of
+3 the governing body, or the amount in dollars as allowed in this section, subject to the following:
+4 1. No taxing district may levy more taxes expressed in dollars than the amounts allowed
+5 by this section.
+6 2. For purposes of this section:
+7 a. "Base year" means the taxing district's taxable year with the highest amount
+8 levied in dollars in property taxes of the three taxable years immediately
+9 preceding the budget year;.
+10 b. "Budget year" means the taxing district's year for which the levy is being
+11 determined under this section;.
+12 c. "Calculated mill rate" means the mill rate that results from dividing the base year
+13 taxes levied by the sum of the taxable value of the taxable property in the base
+14 year plus the taxable value of the property exempt by local discretion or
+15 charitable status, calculated in the same manner as the taxable property; and.
+16 d. "Property exempt by local discretion or charitable status" means property
+17 exempted from taxation as new or expanding businesses under chapter 40-57.1;
+18 improvements to property under chapter 57-02.2; or buildings belonging to
+19 institutions of public charity, new single-family residential or townhouse or
+20 condominium property, property used for early childhood services, or pollution
+21 abatement improvements under section 57-02-08.
+22 e. "Taxing district" means any political subdivision, other than a school district,
+23 empowered by law to levy taxes.
+24 3. A taxing district may elect to levy the amount levied in dollars in the base year. Any
+25 levy under this section must be specifically approved by a resolution approved by the
+26 governing body of the taxing district. Before determining the levy limitation under this
+27 section, the dollar amount levied in the base year must be:
+28 a. Reduced by an amount equal to the sum determined by application of the base
+29 year's calculated mill rate for that taxing district to the final base year taxable
+30 valuation of any taxable property and property exempt by local discretion or
+Page No. 15 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 charitable status which is not included in the taxing district for the budget year but
+2 was included in the taxing district for the base year.
+3 b. Increased by an amount equal to the sum determined by the application of the
+4 base year's calculated mill rate for that taxing district to the final budget year
+5 taxable valuation of any taxable property or property exempt by local discretion or
+6 charitable status which was not included in the taxing district for the base year
+7 but which is included in the taxing district for the budget year.
+8 c. Reduced to reflect expired temporary mill levy increases authorized by the
+9 electors of the taxing district. For purposes of this subdivision, an expired
+10 temporary mill levy increase does not include a school district general fund mill
+11 rate exceeding one hundred ten mills which has expired or has not received
+12 approval of electors for an extension under subsection 2 of section 57-64-03.
+13 d. Reduced by the amount of state aid under chapter 15.1-27, which is determined
+14 by multiplying the budget year taxable valuation of the school district by the
+15 lesser of the base year mill rate of the school district minus sixty mills or fifty
+16 mills, if the base year is a taxable year before 2013.
+17 4. In addition to any other levy limitation factor under this section, a taxing district may
+18 increase its levy in dollars to reflect new or increased mill levies authorized by the
+19 legislative assembly or authorized by the electors of the taxing district.
+20 5. Under this section a taxing district may supersede any applicable mill levy limitations
+21 otherwise provided by law, or a taxing district may levy up to the mill levy limitations
+22 otherwise provided by law without reference to this section, but the provisions of this
+23 section do not apply to the following:
+24 a. Any irrepealable tax to pay bonded indebtedness levied pursuant to section 16 of
+25 article X of the Constitution of North Dakota.
+26 b. The one-mill levy for the state medical center authorized by section 10 of article X
+27 of the Constitution of North Dakota.
+28 6. A school district choosing to determine its levy authority under this section may apply
+29 subsection 3 only to the amount in dollars levied for general fund purposes under
+30 section 57-15-14 or, if the levy in the base year included separate general fund and
+31 special fund levies under sections 57-15-14 and 57-15-14.2, the school district may
+Page No. 16 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 apply subsection 3 to the total amount levied in dollars in the base year for both the
+2 general fund and special fund accounts. School district levies under any section other
+3 than section 57-15-14 may be made within applicable limitations but those levies are
+4 not subject to subsection 3.
+5 7. Optional levies under this section may be used by any city or county that has adopted
+6 a home rule charter unless the provisions of the charter supersede state laws related
+7 to property tax levy limitations.
+8 SECTION 8. AMENDMENT. Subsection 1 of section 57-15-14 of the North Dakota Century
+9 Code is amended and reenacted as follows:
+10 1. Unless authorized by the electors of the school district in accordance with this section,
+11 a school district may not impose greater levies than those permitted under section
+12 57-15-14.2.
+13 a. In any school district having a total population in excess of four thousand
+14 according to the last federal decennial census there may be levied any specific
+15 number of mills that upon resolution of the school board has been submitted to
+16 and approved by a majority of the qualified electors voting upon the question at
+17 any regular or special school district election.
+18 b. In any school district having a total population of fewer than four thousand, there
+19 may be levied any specific number of mills that upon resolution of the school
+20 board has been approved by fifty-five percent of the qualified electors voting
+21 upon the question at any regular or special school election.
+22 c. After June 30, 2009, in any school district election for approval by electors of
+23 increased levy authority under subsection 1 or 2, the ballot must specify the
+24 number of mills proposed for approval, and the number of taxable years for which
+25 that approval is to apply. After June 30, 2009, approval by electors of increased
+26 levy authority under subsection 1 or 2 may not be effective for more than ten
+27 taxable years.
+28 d. The authority for a levy of up to a specific number of mills under this section
+29 approved by electors of a school district before July 1, 2009, is terminated
+30 effective for taxable years after 2015. If the electors of a school district subject to
+31 this subsection have not approved a levy for taxable years after 2015 of up to a
+Page No. 17 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 specific number of mills under this section by December 31, 2015, the school
+2 district levy limitation for subsequent years is subject to the limitations under
+3 section 57-15-01.1 or this section.
+4 e. For taxable years beginning after 2012:
+5 (1) The authority for a levy of up to a specific number of mills, approved by
+6 electors of a school district for any period of time that includes a taxable
+7 year before 2009, must be reduced by one hundred fifteen mills as a
+8 precondition of receiving state aid in accordance with chapter 15.1-27.
+9 (2) The authority for a levy of up to a specific number of mills, approved by
+10 electors of a school district for any period of time that does not include a
+11 taxable year before 2009, must be reduced by forty mills as a precondition
+12 of receiving state aid in accordance with chapter 15.1-27.
+13 (3) The authority for a levy of up to a specific number of mills, placed on the
+14 ballot in a school district election for electoral approval of increased levy
+15 authority under subdivision a or b, after June 30, 20132025, must be stated
+16 as a specific number of mills of general fund levy authority and must include
+17 a statement that the statutory school district general fund levy limitation is
+18 seventysixty mills on the dollar of the taxable valuation of the school district.
+19 f. The authority for an unlimited levy approved by electors of a school district before
+20 July 1, 2009, is terminated effective for taxable years after 2015. If the electors of
+21 a school district subject to this subsection have not approved a levy of up to a
+22 specific number of mills under this section by December 31, 2015, the school
+23 district levy limitation for subsequent years is subject to the limitations under
+24 section 57-15-01.1 or this section.
+25 SECTION 9. AMENDMENT. Section 57-15-14.2 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 57-15-14.2. School district levies.
+28 1. The board of a school district may levy a tax not exceeding the amount in dollars that
+29 the school district levied for the prior year, plus twelve percent, up to would be
+30 generated by a levy of seventyfifty mills on the taxable valuation of the district, for any
+31 purpose related to the provision of educational servicesthe school district's local
+Page No. 18 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 contribution to the costs of education. The proceeds of this levy must be deposited into
+2 the school district's general fund and may be used in accordance with this
+3 subsectionfor any purposes related to the provision of educational services. The
+4 proceeds may not be transferred into any other fund.
+5 2. The board of a school district may levy no more than ten mills on the taxable valuation
+6 of the district, for any purpose related to the provision of educational services. The
+7 proceeds of this levy must be deposited into the school district's general fund and
+8 used in accordance with this subsection. The proceeds may not be transferred into
+9 any other fund.
+10 3. The board of a school district may levy no more than twelve mills on the taxable
+11 valuation of the district, for miscellaneous purposes and expenses. The proceeds of
+12 this levy must be deposited into a special fund known as the miscellaneous fund and
+13 used in accordance with this subsection. The proceeds may not be transferred into
+14 any other fund.
+15 3.4. The board of a school district may levy no more than three mills on the taxable
+16 valuation of the district for deposit into a special reserve fund, in accordance with
+17 chapter 57-19.
+18 4.5. The board of a school district may levy no more than the number of mills necessary,
+19 on the taxable valuation of the district, for the payment of tuition, in accordance with
+20 section 15.1-29-15. The proceeds of this levy must be deposited into a special fund
+21 known as the tuition fund and used in accordance with this subsection. The proceeds
+22 may not be transferred into any other fund.
+23 5.6. The board of a school district may levy no more than five mills on the taxable valuation
+24 of the district, pursuant to section 57-15-15.1, for purposes of developing a school
+25 safety plan in accordance with section 15.1-09-60. The proceeds of this levy must be
+26 deposited into a special fund known as the school safety plan fund and used in
+27 accordance with this subsection.
+28 6.7. Nothing in this section limits the board of a school district from levying:
+29 a. Mills for a building fund, as permitted in sections 15.1-09-49 and 57-15-16; and
+Page No. 19 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Mills necessary to pay principal and interest on the bonded debt of the district,
+2 including the mills necessary to pay principal and interest on any bonded debt
+3 incurred under section 57-15-17.1 before July 1, 2013.
+4 SECTION 10. A new section to chapter 57-15 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Limitation on levies by taxing districts without voter approval.
+7 1. a. Notwithstanding that a taxing district may have unused or excess levy authority
+8 under any other provision of law, this section supersedes and limits that authority.
+9 This section may not be interpreted as authority to increase any property tax levy
+10 authority otherwise provided by law and must be applied to limit any property tax
+11 levy authority to which a taxing district may otherwise be entitled. Property taxes
+12 levied in dollars by a taxing district may not exceed the amount the taxing district
+13 levied in dollars in the preceding taxable year by more than three percent,
+14 except:
+15 (1) When property and improvements to property which were not taxable in the
+16 preceding taxable year are taxable in the current year, the amount levied in
+17 dollars in the preceding taxable year by the taxing district must be increased
+18 for purposes of this section to reflect the taxes that would have been
+19 imposed against the additional taxable valuation attributable to that property
+20 at the mill rate applied to all property in the preceding taxable year.
+21 (2) When a property tax exemption existed in the preceding taxable year which
+22 has been reduced or no longer exists for the current taxable year, the
+23 amount levied in dollars in the preceding taxable year by the taxing district
+24 must be increased for purposes of this section to reflect the taxes that would
+25 have been imposed against the portion of the taxable valuation of the
+26 property which is no longer exempt at the mill rate applied to all property in
+27 the preceding taxable year.
+28 (3) When property that was taxable in the preceding taxable year is not taxable
+29 for the current taxable year, the amount levied in dollars in the preceding
+30 taxable year by the taxing district must be reduced for purposes of this
+Page No. 20 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 section by the amount of taxes that were imposed against the taxable
+2 valuation of that property in the preceding taxable year.
+3 (4) When a temporary mill levy increase, excluding an increase under this
+4 section, authorized by the electors of the taxing district or mill levy
+5 imposition authority under state law existed in the previous taxable year but
+6 is no longer applicable or has been reduced, the amount levied in dollars in
+7 the previous taxable year by the taxing district must be adjusted to reflect
+8 the expired temporary mill levy increase and the eliminated or reduced mill
+9 levy under state law before the percentage increase allowable under this
+10 subsection is applied.
+11 b. If the actual percentage increase in property taxes levied in dollars by a taxing
+12 district compared to the property taxes levied in the preceding taxable year is
+13 less than the percentage increase limitation under subdivision a, the taxing
+14 district may carry forward the excess percentage increase to the succeeding
+15 taxable year. A taxing district may not carry forward any amount of unused
+16 excess percentage increase beyond the taxable year succeeding the taxable
+17 year during which the excess percentage increase accumulated.
+18 2. The limitation on the total amount levied by a taxing district under subsection 1 does
+19 not apply to:
+20 a. New or increased property tax levy authority that was not available to the taxing
+21 district in the preceding taxable year, including property tax levy authority
+22 provided by state law or approved by the electors of the taxing district.
+23 b. Any irrepealable tax to pay bonded indebtedness levied under section 16 o f
+24 article X of the Constitution of North Dakota. Any tax levied for this purpose mus t
+25 be excluded from the mill rate applied under paragraphs 1 through 3 o f
+26 subdivision a of subsection 1 .
+27 c. The one - mill levy for the state medical center authorized by section 10 of article X
+28 of the Constitution of North Dakota. Any tax levied for this purpose must be
+29 excluded from the mill rate applied under paragraphs 1 through 3 of subdivision a
+30 of subsection 1 .
+Page No. 21 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 d. The levy, not to exceed one mill, for the Garrison Diversion Conservancy District,
+2 authorized by section 57 - 15 - 26.8 .
+3 e. Taxes or special assessments levied to pay the principal and interest on any
+4 obligations of any political subdivision, including taxes levied for deficiencies in
+5 special assessment and improvement district funds and revenue bond and
+6 reserve funds.
+7 f. Taxes levied pursuant to law for the proportion of the cost to any taxing district for
+8 a special improvement project by general taxation.
+9 g. Taxes levied under sections 40 - 24 - 10, 40 - 43 - 01, and 57 - 15 - 41 , and chapter
+10 61 - 16.1 .
+11 3. A levy exceeding the percentage increase limitation under subsection 1 may be
+12 imposed upon approval of a ballot measure, stating the percentage of the proposed
+13 property tax levy increase percentage compared to the percentage limitation under
+14 subsection 1, by at least sixty percent of the qualified electors of the taxing distric t
+15 voting on the question at a statewide primary or general election . A levy exceeding the
+16 percentage increase limitation under subsection 1 may be approved by electors for no t
+17 more than five taxable years at a time.
+18 4. A city or county may not supersede or modify the application of the provisions of this
+19 section under home rule authority.
+20 5. For purposes of this section:
+21 a. "Excess percentage increase" means the difference between the percentage
+22 increase limitation under subdivision a of subsection 1 for a taxable year and the
+23 actual percentage increase in property taxes levied in dollars by a taxing district
+24 in the taxable year compared to the preceding taxable year.
+25 b. "Taxing district" means any political subdivision, other than a school district,
+26 empowered to levy taxes.
+27 SECTION 11. AMENDMENT. Subdivision c of subsection 1 of section 57-20-07.1 of the
+28 North Dakota Century Code is amended and reenacted as follows:
+29 c. Provide information identifying the property tax savings provided by the state of
+30 North Dakota. The tax statement must include a line item that is entitled
+31 "legislative tax relief" and identifies the dollar amount of property tax savings
+Page No. 22 25.0044.08000
+
+Sixty-ninth
+Legislative Assembly
+1 realized by the taxpayer under chapter 50-34 for taxable years before 2019,
+2 chapter 50-35 for taxable years after 2018, and chapter 15.1-27.
+3 (1) For purposes of this subdivision, legislative tax relief under chapter 15.1-27
+4 is determined by multiplying the taxable value for the taxable year for each
+5 parcel shown on the tax statement by the number of mills of mill levy
+6 reduction grant under chapter 57-64 for the 2012 taxable year plus the
+7 number of mills determined by subtracting from the 2012 taxable year mill
+8 rate of the school district in which the parcel is located the lesser of one
+9 hundred thirty-five mills or the sum of:
+10 (a) FiftyThe number of mills of mill levy reduction grant under chapter
+11 57 - 64 for the 2012 taxable year ; orand
+12 (b) The 2012 taxable year mill rate of the school district minus, excluding
+13 sixtyfifty mills.
+14 (2) Legislative tax relief under chapter 50-35 is determined by multiplying the
+15 taxable value for the taxable year for each parcel shown on the tax
+16 statement by the number of mills of relief determined by dividing the amount
+17 calculated in subsection 1 of section 50-35-03 for a human service zone by
+18 the taxable value of taxable property in the zone for the taxable year.
+19 SECTION 12. REPEAL. Sections 15.1-27-04.3, 15.1-27-15.1, 15.1-27-20.2, 21-10-12, and
+20 21-10-13 of the North Dakota Century Code are repealed.
+21 SECTION 13. EFFECTIVE DATE. Sections 7, 8, 9, and 10 of this Act are effective for
+22 taxable years beginning after December 31, 2024.
+Page No. 23 25.0044.08000
+
+[DELETED: 12]
+[DELETED: .T.A.A.A)R)M)T22]
+[DELETED: )R)R)R.A)M)T)R.B32]
+[DELETED: .a.T.F.B.a.F)T)O42]
+[DELETED: )T.F)T)O)T.A.S.S52]
+[DELETED: )T)I)T)A.T62]
+[DELETED: .O.F.T.T.T.T.A.A.A)R)M72]
+[DELETED: )T)R)R)R.A)M)T)R.B82]
+[DELETED: .a.T.F.B92]
+[DELETED: .a.F)T)O)T.F)T)O)T02]
+[DELETED: .A.S.S)T)I)T)A12]
+[DELETED: .T.O.F.T.T.T.S.S22]
+[DELETED: .T.S.W.P.I.S.B.W.H.C.P.L.L.O.A.S.T.O.T32]
+[DELETED: .T. .T.T.T. .T)F)T42]
+[DELETED: .N.F.".".".".".A.R52]
+[DELETED: .I.R.R.I.U.A.T.A62]
+[DELETED: .O.U.I.I.A.T72]
+[DELETED: .F)T)T)T.T.T82]
+[DELETED: .T.T.T.T.T.N.M92]
+[DELETED: .M.a.N)W)W)W02]
+[DELETED: )W.I. .N. . 12]
+[DELETED: .T.T.T. . .A.F.".".P22]
+[DELETED: )F)F)T)L32]

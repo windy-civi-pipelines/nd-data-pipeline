@@ -1,0 +1,193 @@
+Title: ENGROSSED HOUSE BILL NO. 1322
+Official Title: ENGROSSED HOUSE BILL NO. 1322
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0744.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representative Weisz
+Senator Roers
+1 A BILL for an Act to create and enact a new chapter to title 23 of the North Dakota Century
+2 Code, relating to ambulance service provider reimbursement; to amend and reenact section
+3 23-27-04.8 of the North Dakota Century Code, relating to emergency medical services
+4 communication; to provide for a legislative management study; and to provide an appropriation.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 23-27-04.8 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 23-27-04.8. Emergency medical services operation communications.
+9 The department shall use pagers or third-party vendors and cell phones as a
+10 communication method and may regulate the communications methods and protocols for
+11 emergency medical services operations in a manner consistent with the protocols established
+12 by the department of emergency services.
+13 SECTION 2. A new chapter to title 23 of the North Dakota Century Code is created and
+14 enacted as follows:
+15 Definitions.
+16 1. "Ambulance service provider" means a service entity licensed under chapter 23 - 27 as
+17 a basic life support or advanced life support ambulance service. The term does not
+18 include an air ambulance provider.
+19 2. "Balance bill" means the amount an ambulance service provider may charge and
+20 collect from a covered individual for the provision of ambulance services, equaling the
+21 difference between the amount paid by the health care insurer and the amount the
+22 ambulance service provider billed.
+Page No. 1 25.0744.03000
+Sixty-ninth
+Legislative Assembly
+1 3. "Covered person" means an individual eligible to receive coverage of covered services
+2 by a health care insurer under a health benefit plan.
+3 4. "Covered services" means medically necessary patient care or transportation provided
+4 by ambulance service providers.
+5 5. "Health care insurer" means an entity subject to state insurance regulation that
+6 provides health benefit coverage in this state. The term includes:
+7 a. An insurance company;
+8 b. A health maintenance organization;
+9 c. A hospital or medical service corporation; and
+10 d. A risk-based provider organization .
+11 6. "Medicare reimbursement rate" means the reimbursement rate for a particular health
+12 care service provided under the Health Insurance for the Aged and Disabled Act, title
+13 XVII of the federal Social Security Act of 1965 [42 U.S.C. 1395 et seq.], as amended.
+14 Direct payment required - Determination of reimbursement rate for out-of-network
+15 ambulance service providers.
+16 1. All reimbursements made by a health care insurer for the provision of ambulance
+17 services to a covered individual must be paid directly to the ambulance service
+18 provider or the provider's designee.
+19 2. If a covered person receives ambulance services from an out-of-network ambulance
+20 service provider, the health care insurer shall pay the ambulance service provider the
+21 lesser of:
+22 a. Two hundred fifty percent of the Medicare reimbursement rate for the same
+23 service in the same geographic area; or
+24 b. The ambulance provider's billed charges.
+25 3. Any rate the health care insurer pays under this section may not be required to include
+26 the coinsurance, copayment, and deductible owed or already paid by the covered
+27 person.
+28 Balance billing prohibited - Enforcement .
+29 1. An ambulance service provider may not collect or bill more than the covered
+30 individual's deductible, coinsurance, copayment, or other cost-sharing amount the
+Page No. 2 25.0744.03000
+Sixty-ninth
+Legislative Assembly
+1 covered individual would be responsible for if services were provided by a participating
+2 ambulance service provider.
+3 2. The insurance commissioner may adopt rules to implement and enforce this section.
+4 SECTION 3. LEGISLATIVE MANAGEMENT STUDY - DELINQUENT BILLING
+5 REIMBURSEMENT. During the 2025-26 interim, the legislative management shall consider
+6 studying the feasibility and desirability of establishing a delinquent billing reimbursement grant
+7 system for ambulance service providers. The study must include input from stakeholders,
+8 including the insurance department, and a survey of ambulance service providers. The
+9 legislative management shall report its findings and recommendations, together with any
+10 legislation required to implement the recommendations, to the seventieth legislative assembly.
+11 SECTION 4. APPROPRIATION - LEGISLATIVE COUNCIL - DELINQUENT BILLING
+12 REIMBURSEMENT - ONE-TIME FUNDING. There is appropriated out of any moneys in the
+13 general fund in the state treasury, not otherwise appropriated, the sum of $20,000, or so much
+14 of the sum as may be necessary, to the legislative council for the purpose of contracting for
+15 consulting services for the study provided for in section 3 of this Act, for the biennium beginning
+16 July 1, 2025, and ending June 30, 2027. The funding provided in this section is a one-time
+17 funding item.
+Page No. 3 25.0744.03000
+[DELETED: . ."12]
+[DELETED: .".".".A.A.A. .".A.I.T.T.A.A22]
+[DELETED: .T32]
+
+
+================================================================================
+
+Raw Text:
+25.0744.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1322
+Introduced by
+Representative Weisz
+Senator Roers
+1 A BILL for an Act to create and enact a new chapter to title 23 of the North Dakota Century
+2 Code, relating to ambulance service provider reimbursement; to amend and reenact section
+3 23-27-04.8 of the North Dakota Century Code, relating to emergency medical services
+4 communication; to provide for a legislative management study; and to provide an appropriation.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 23-27-04.8 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 23-27-04.8. Emergency medical services operation communications.
+9 The department shall use pagers or third-party vendors and cell phones as a
+10 communication method and may regulate the communications methods and protocols for
+11 emergency medical services operations in a manner consistent with the protocols established
+12 by the department of emergency services.
+13 SECTION 2. A new chapter to title 23 of the North Dakota Century Code is created and
+14 enacted as follows:
+15 Definitions.
+16 1. "Ambulance service provider" means a service entity licensed under chapter 23 - 27 as
+17 a basic life support or advanced life support ambulance service. The term does not
+18 include an air ambulance provider.
+19 2. "Balance bill" means the amount an ambulance service provider may charge and
+20 collect from a covered individual for the provision of ambulance services, equaling the
+21 difference between the amount paid by the health care insurer and the amount the
+22 ambulance service provider billed.
+Page No. 1 25.0744.03000
+
+Sixty-ninth
+Legislative Assembly
+1 3. "Covered person" means an individual eligible to receive coverage of covered services
+2 by a health care insurer under a health benefit plan.
+3 4. "Covered services" means medically necessary patient care or transportation provided
+4 by ambulance service providers.
+5 5. "Health care insurer" means an entity subject to state insurance regulation that
+6 provides health benefit coverage in this state. The term includes:
+7 a. An insurance company;
+8 b. A health maintenance organization;
+9 c. A hospital or medical service corporation; and
+10 d. A risk-based provider organization .
+11 6. "Medicare reimbursement rate" means the reimbursement rate for a particular health
+12 care service provided under the Health Insurance for the Aged and Disabled Act, title
+13 XVII of the federal Social Security Act of 1965 [42 U.S.C. 1395 et seq.], as amended.
+14 Direct payment required - Determination of reimbursement rate for out-of-network
+15 ambulance service providers.
+16 1. All reimbursements made by a health care insurer for the provision of ambulance
+17 services to a covered individual must be paid directly to the ambulance service
+18 provider or the provider's designee.
+19 2. If a covered person receives ambulance services from an out-of-network ambulance
+20 service provider, the health care insurer shall pay the ambulance service provider the
+21 lesser of:
+22 a. Two hundred fifty percent of the Medicare reimbursement rate for the same
+23 service in the same geographic area; or
+24 b. The ambulance provider's billed charges.
+25 3. Any rate the health care insurer pays under this section may not be required to include
+26 the coinsurance, copayment, and deductible owed or already paid by the covered
+27 person.
+28 Balance billing prohibited - Enforcement .
+29 1. An ambulance service provider may not collect or bill more than the covered
+30 individual's deductible, coinsurance, copayment, or other cost-sharing amount the
+Page No. 2 25.0744.03000
+
+Sixty-ninth
+Legislative Assembly
+1 covered individual would be responsible for if services were provided by a participating
+2 ambulance service provider.
+3 2. The insurance commissioner may adopt rules to implement and enforce this section.
+4 SECTION 3. LEGISLATIVE MANAGEMENT STUDY - DELINQUENT BILLING
+5 REIMBURSEMENT. During the 2025-26 interim, the legislative management shall consider
+6 studying the feasibility and desirability of establishing a delinquent billing reimbursement grant
+7 system for ambulance service providers. The study must include input from stakeholders,
+8 including the insurance department, and a survey of ambulance service providers. The
+9 legislative management shall report its findings and recommendations, together with any
+10 legislation required to implement the recommendations, to the seventieth legislative assembly.
+11 SECTION 4. APPROPRIATION - LEGISLATIVE COUNCIL - DELINQUENT BILLING
+12 REIMBURSEMENT - ONE-TIME FUNDING. There is appropriated out of any moneys in the
+13 general fund in the state treasury, not otherwise appropriated, the sum of $20,000, or so much
+14 of the sum as may be necessary, to the legislative council for the purpose of contracting for
+15 consulting services for the study provided for in section 3 of this Act, for the biennium beginning
+16 July 1, 2025, and ending June 30, 2027. The funding provided in this section is a one-time
+17 funding item.
+Page No. 3 25.0744.03000
+
+[DELETED: . ."12]
+[DELETED: .".".".A.A.A. .".A.I.T.T.A.A22]
+[DELETED: .T32]

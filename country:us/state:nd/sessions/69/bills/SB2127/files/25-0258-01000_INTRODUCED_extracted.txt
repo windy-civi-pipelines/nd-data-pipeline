@@ -1,0 +1,451 @@
+Title: SENATE BILL NO. 2127
+Official Title: SENATE BILL NO. 2127
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25.0258.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Judiciary Committee
+(At the request of the Commission on Uniform State Laws)
+1 A BILL for an Act to create and enact chapter 59-22 of the North Dakota Century Code, relating
+2 to the Uniform Electronic Estate Planning Documents Act; and to provide for application.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. Chapter 59-22 of the North Dakota Century Code is created and enacted as
+5 follows:
+6 59 - 22 - 01. (102) Definitions .
+7 As used in this chapter:
+8 1. "Electronic" means relating to technology having electrical, digital, magnetic, wireless,
+9 optical, electromagnetic, or similar capabilities.
+10 2. "Electronic record" means a record created, generated, sent, communicated, received,
+11 or stored by electronic means.
+12 3. "Electronic signature" means an electronic symbol or process attached to or logically
+13 associated with a record and executed or adopted by a person with the intent to sign
+14 the record.
+15 4. "Information" includes data, text, images, codes, computer programs, software, and
+16 databases.
+17 5. "Nontestamentary estate planning document" means a record relating to estate
+18 planning which is readable as text at the time of signing and is not a will or contained
+19 in a will. The term:
+20 a. Includes a record readable as text at the time of signing which creates, exercises,
+21 modifies, releases, or revokes:
+22 (1) A trust instrument;
+23 (2) A trust power that under the terms of the trust requires a signed record;
+24 (3) A certification of a trust under section 59 - 18 - 13 ;
+Page No. 1 25.0258.01000
+Sixty-ninth
+Legislative Assembly
+1 (4) A durable power of attorney under chapter 30.1-30;
+2 (5) An agent's certification of the validity of a power of attorney and the agent's
+3 authority;
+4 (6) A power of appointment;
+5 (7) An advance directive, including a health care power of attorney, directive to
+6 physicians, natural death statement, living will, and medical or physician
+7 order for life-sustaining treatment;
+8 (8) A record directing disposition of an individual's body after death;
+9 (9) A nomination of a guardian for the signing individual;
+10 (10) A nomination of a guardian for a minor child or disabled adult child;
+11 (11) A mental health treatment declaration;
+12 (12) A disclaimer as defined under section 30.1 - 10 - 01; and
+13 (13) Any other record intended to carry out an individual's intent regarding
+14 property or health care while incapacitated or on death.
+15 b. Does not include a deed of real property, or certificate of title for a motor vehicle,
+16 watercraft, or aircraft.
+17 6. "Person" means an individual, estate, business or nonprofit entity, government or
+18 governmental subdivision, agency or instrumentality, or other legal entity.
+19 7. "Power of attorney" means a record that grants authority to an agent to act in place of
+20 the principal, even if the term is not used in the record.
+21 8. "Record" means information:
+22 a. Inscribed on a tangible medium; or
+23 b. Stored in an electronic or other medium and retrievable in perceivable form.
+24 9. "Security procedure" means a procedure to verify an electronic signature, record, or
+25 performance is of a specific person or to detect a change or error in an electronic
+26 record. The term includes a procedure that uses an algorithm, code, identifying word
+27 or number, encryption, or callback or other acknowledgment procedure.
+28 10. "Settlor" means a person, including a testator, that creates or contributes property to a
+29 trust.
+30 11. "Sign" means with present intent to authenticate or adopt a record to:
+31 a. Execute or adopt a tangible symbol; or
+Page No. 2 25.0258.01000
+Sixty-ninth
+Legislative Assembly
+1 b. Attach to or logically associate with the record an electronic signature.
+2 12. "State" means a state of the United States, the District of Columbia, Puerto Rico, the
+3 United States Virgin Islands, or other territory or possession subject to the jurisdiction
+4 of the United States. The term includes a federally recognized Indian tribe.
+5 13. "Terms of the trust" means:
+6 a. Except as provided under subdivision b, the manifestation of the settlor's inten t
+7 regarding a trust's provisions as:
+8 (1) Expressed in the trust instrument; or
+9 (2) Established by other evidence that would be admissible in a judicial
+10 proceeding.
+11 b. The trust's provisions as established, determined, or amended by:
+12 (1) A trustee or other person in accordance with applicable law;
+13 (2) A court order; or
+14 (3) A nonjudicial settlement agreement under section 59 - 09 - 11 .
+15 14. "Trust instrument" means an instrument executed by the settlor which contains terms
+16 of the trust, including any amendments.
+17 15. "Will" includes a codicil and a testamentary instrument that appoints an executor,
+18 revokes or revises another will, nominates a guardian, or expressly excludes or limits
+19 the right of an individual or class to succeed to property of the decedent passing by
+20 intestate succession.
+21 59 - 22 - 02. (103) Construction .
+22 This chapter must be construed and applied to:
+23 1. Facilitate electronic estate planning documents and signatures consistent with other
+24 law; and
+25 2. Be consistent with reasonable practices concerning electronic documents and
+26 signatures and continued expansion of those practices.
+27 59 - 22 - 03. (201) Scope .
+28 1. Except as provided in subsection 2, this chapter applies to an electronic
+29 nontestamentary estate planning document and an electronic signature on a
+30 nontestamentary estate planning document.
+Page No. 3 25.0258.01000
+Sixty-ninth
+Legislative Assembly
+1 2. This chapter does not apply to a nontestamentary estate planning document if the
+2 document precludes use of an electronic record or electronic signature.
+3 3. This chapter does not affect the validity of an electronic record or electronic signature
+4 that is valid under chapter 30.1 - 37 or 9 - 16 .
+5 59 - 22 - 04. (202) Principles of law and equity .
+6 The law of this state and principles of equity applicable to a nontestamentary estate
+7 planning document apply to an electronic nontestamentary estate planning document except as
+8 modified by this chapter.
+9 59 - 22 - 05. (203) Use of electronic record or signature not required .
+10 1. This chapter does not require a nontestamentary estate planning document or
+11 signature on a nontestamentary estate planning document to be created, generated,
+12 sent, communicated, received, stored, or otherwise processed or used by electronic
+13 means or in electronic form.
+14 2. A person is not required to have a nontestamentary estate planning document in
+15 electronic form or signed electronically even if the person previously created or signed
+16 a nontestamentary estate planning document by electronic means.
+17 3. A person may not waive the provisions of this section.
+18 59 - 22 - 06. (204) Recognition of electronic nontestamentary estate planning document
+19 and electronic signature.
+20 1. A nontestamentary estate planning document or a signature on a nontestamentary
+21 estate planning document may not be denied legal effect or enforceability because the
+22 document or signature is in electronic form.
+23 2. If any other provision of law requires a nontestamentary estate planning document to
+24 be in writing, an electronic record of the document satisfies the requirement.
+25 3. If any other provision of law requires a signature on a nontestamentary estate planning
+26 document, an electronic signature satisfies the requirement.
+27 59 - 22 - 07. (205) Attribution and effect of electronic record and electronic signature .
+28 1. An electronic nontestamentary estate planning document or electronic signature on an
+29 electronic nontestamentary estate planning document is attributable to a person if it
+30 was the act of the person. The act of the person may be shown in any manner,
+Page No. 4 25.0258.01000
+Sixty-ninth
+Legislative Assembly
+1 including by showing the efficacy of a security procedure applied to determine the
+2 person to which the electronic record or electronic signature was attributable.
+3 2. The effect of attribution to a person under subsection 1 is determined from the contex t
+4 and surrounding circumstances at the time the document or signature was created,
+5 executed, or adopted, and as provided by law.
+6 59 - 22 - 08. (206) Notarization and acknowledgment .
+7 If any other provision of law requires a signature or record to be notarized, acknowledged,
+8 verified, or made under oath, the requirement is satisfied with respect to an electronic
+9 nontestamentary estate planning document if an individual authorized to perform the
+10 notarization, acknowledgment, verification, or oath attaches or logically associates the
+11 individual's electronic signature on the document together with all other information required to
+12 be included under law.
+13 59 - 22 - 09. (207) Witnessing and attestation .
+14 1. If any other provision of law bases the validity of a nontestamentary estate planning
+15 document on whether the document is signed, witnessed, or attested by another
+16 individual, the signature, witnessing, or attestation of that individual may be electronic.
+17 2. As used in this subsection, "electronic presence" means two or more individuals in
+18 different locations are able to communicate in real time to the same extent as if the
+19 individuals were physically present in the same location. If any other provision of law
+20 bases the validity of a nontestamentary estate planning document on whether the
+21 document is signed, witnessed, or attested by another individual in the presence of the
+22 individual signing the document, the presence requirement is satisfied if the individuals
+23 are in each other's electronic presence.
+24 59 - 22 - 10. (208) Retention of electronic record - Original .
+25 1. Except as provided in subsection 2, if any other provision of law requires an electronic
+26 nontestamentary estate planning document to be retained, transmitted, copied, or
+27 filed, the requirement is satisfied by retaining, transmitting, copying, or filing an
+28 electronic record that:
+29 a. Accurately reflects the information in the document after the document was first
+30 generated in final form as an electronic record or under section 59 - 22 - 11; and
+31 b. Remains accessible to the extent required by the other law.
+Page No. 5 25.0258.01000
+Sixty-ninth
+Legislative Assembly
+1 2. A requirement under subsection 1 to retain a record does not apply to information the
+2 purpose of which is to enable the record to be sent, communicated, or received.
+3 3. A person may satisfy subsection 1 by using the services of another person .
+4 4. If any other provision of law requires a nontestamentary estate planning document to
+5 be presented or retained in its original form, or provides consequences if a
+6 nontestamentary estate planning document is not presented or retained in its original
+7 form, an electronic record retained in accordance with subsection 1 satisfies the other
+8 law.
+9 5. This section does not preclude a governmental agency from specifying requirements
+10 for the retention of a record subject to the agency's jurisdiction in addition to those in
+11 this section.
+12 6. As used in this section, "governmental agency" means an executive, legislative, or
+13 judicial agency, department, board, commission, authority, institution, or
+14 instrumentality of the federal government or of the state or of a county, municipality, or
+15 other political subdivision of the state.
+16 59 - 22 - 11. (209) Certification of paper copy .
+17 An individual may create a certified paper copy of an electronic nontestamentary estate
+18 planning document by affirming under penalty of perjury that the paper copy is a complete and
+19 accurate copy of the document.
+20 59 - 22 - 12. (210) Admissibility in evidence .
+21 Evidence relating to an electronic nontestamentary estate planning document or an
+22 electronic signature on the document may not be excluded in a proceeding solely because it is
+23 in electronic form.
+24 59 - 22 - 13. (401) Uniformity of application and construction .
+25 In applying and construing this chapter, a court shall consider the promotion of uniformity of
+26 the law among the states that enact it.
+27 59 - 22 - 14. (402) Relation to Electronic Signatures in Global and National Commerce
+28 Act.
+29 This chapter modifies, limits, or supersedes the Electronic Signatures in Global and
+30 National Commerce Act, [15 U.S.C. Section 7001 et seq.] but does not modify, limit, or
+Page No. 6 25.0258.01000
+Sixty-ninth
+Legislative Assembly
+1 supersede 15 U.S.C. Section 7001(c), or authorize electronic delivery of any of the notices
+2 described in 15 U.S.C. Section 7003(b).
+3 SECTION 2. APPLICATION. This Act applies to an electronic nontestamentary estate
+4 planning document created, signed, generated, sent, communicated, received, or stored before,
+5 on, or after July 31, 2025.
+Page No. 7 25.0258.01000
+[DELETED: .".".".".".I)A)A) 12]
+[DELETED: )A)A)A)A)A)A)A)A) )A.D.".".".I.S.".".".E22]
+[DELETED: .A.".". )E)E.T)A)A) .".".F.B. 32]
+[DELETED: .T.T.T.A.A.A.I.I.A42]
+[DELETED: . .I.A. .A.R52]
+[DELETED: . . .I.T.A62]
+[DELETED: 72]
+
+
+================================================================================
+
+Raw Text:
+25.0258.01000
+Sixty-ninth
+SENATE BILL NO. 2127
+Legislative Assembly
+of North Dakota
+Introduced by
+Judiciary Committee
+(At the request of the Commission on Uniform State Laws)
+1 A BILL for an Act to create and enact chapter 59-22 of the North Dakota Century Code, relating
+2 to the Uniform Electronic Estate Planning Documents Act; and to provide for application.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. Chapter 59-22 of the North Dakota Century Code is created and enacted as
+5 follows:
+6 59 - 22 - 01. (102) Definitions .
+7 As used in this chapter:
+8 1. "Electronic" means relating to technology having electrical, digital, magnetic, wireless,
+9 optical, electromagnetic, or similar capabilities.
+10 2. "Electronic record" means a record created, generated, sent, communicated, received,
+11 or stored by electronic means.
+12 3. "Electronic signature" means an electronic symbol or process attached to or logically
+13 associated with a record and executed or adopted by a person with the intent to sign
+14 the record.
+15 4. "Information" includes data, text, images, codes, computer programs, software, and
+16 databases.
+17 5. "Nontestamentary estate planning document" means a record relating to estate
+18 planning which is readable as text at the time of signing and is not a will or contained
+19 in a will. The term:
+20 a. Includes a record readable as text at the time of signing which creates, exercises,
+21 modifies, releases, or revokes:
+22 (1) A trust instrument;
+23 (2) A trust power that under the terms of the trust requires a signed record;
+24 (3) A certification of a trust under section 59 - 18 - 13 ;
+Page No. 1 25.0258.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (4) A durable power of attorney under chapter 30.1-30;
+2 (5) An agent's certification of the validity of a power of attorney and the agent's
+3 authority;
+4 (6) A power of appointment;
+5 (7) An advance directive, including a health care power of attorney, directive to
+6 physicians, natural death statement, living will, and medical or physician
+7 order for life-sustaining treatment;
+8 (8) A record directing disposition of an individual's body after death;
+9 (9) A nomination of a guardian for the signing individual;
+10 (10) A nomination of a guardian for a minor child or disabled adult child;
+11 (11) A mental health treatment declaration;
+12 (12) A disclaimer as defined under section 30.1 - 10 - 01; and
+13 (13) Any other record intended to carry out an individual's intent regarding
+14 property or health care while incapacitated or on death.
+15 b. Does not include a deed of real property, or certificate of title for a motor vehicle,
+16 watercraft, or aircraft.
+17 6. "Person" means an individual, estate, business or nonprofit entity, government or
+18 governmental subdivision, agency or instrumentality, or other legal entity.
+19 7. "Power of attorney" means a record that grants authority to an agent to act in place of
+20 the principal, even if the term is not used in the record.
+21 8. "Record" means information:
+22 a. Inscribed on a tangible medium; or
+23 b. Stored in an electronic or other medium and retrievable in perceivable form.
+24 9. "Security procedure" means a procedure to verify an electronic signature, record, or
+25 performance is of a specific person or to detect a change or error in an electronic
+26 record. The term includes a procedure that uses an algorithm, code, identifying word
+27 or number, encryption, or callback or other acknowledgment procedure.
+28 10. "Settlor" means a person, including a testator, that creates or contributes property to a
+29 trust.
+30 11. "Sign" means with present intent to authenticate or adopt a record to:
+31 a. Execute or adopt a tangible symbol; or
+Page No. 2 25.0258.01000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Attach to or logically associate with the record an electronic signature.
+2 12. "State" means a state of the United States, the District of Columbia, Puerto Rico, the
+3 United States Virgin Islands, or other territory or possession subject to the jurisdiction
+4 of the United States. The term includes a federally recognized Indian tribe.
+5 13. "Terms of the trust" means:
+6 a. Except as provided under subdivision b, the manifestation of the settlor's inten t
+7 regarding a trust's provisions as:
+8 (1) Expressed in the trust instrument; or
+9 (2) Established by other evidence that would be admissible in a judicial
+10 proceeding.
+11 b. The trust's provisions as established, determined, or amended by:
+12 (1) A trustee or other person in accordance with applicable law;
+13 (2) A court order; or
+14 (3) A nonjudicial settlement agreement under section 59 - 09 - 11 .
+15 14. "Trust instrument" means an instrument executed by the settlor which contains terms
+16 of the trust, including any amendments.
+17 15. "Will" includes a codicil and a testamentary instrument that appoints an executor,
+18 revokes or revises another will, nominates a guardian, or expressly excludes or limits
+19 the right of an individual or class to succeed to property of the decedent passing by
+20 intestate succession.
+21 59 - 22 - 02. (103) Construction .
+22 This chapter must be construed and applied to:
+23 1. Facilitate electronic estate planning documents and signatures consistent with other
+24 law; and
+25 2. Be consistent with reasonable practices concerning electronic documents and
+26 signatures and continued expansion of those practices.
+27 59 - 22 - 03. (201) Scope .
+28 1. Except as provided in subsection 2, this chapter applies to an electronic
+29 nontestamentary estate planning document and an electronic signature on a
+30 nontestamentary estate planning document.
+Page No. 3 25.0258.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. This chapter does not apply to a nontestamentary estate planning document if the
+2 document precludes use of an electronic record or electronic signature.
+3 3. This chapter does not affect the validity of an electronic record or electronic signature
+4 that is valid under chapter 30.1 - 37 or 9 - 16 .
+5 59 - 22 - 04. (202) Principles of law and equity .
+6 The law of this state and principles of equity applicable to a nontestamentary estate
+7 planning document apply to an electronic nontestamentary estate planning document except as
+8 modified by this chapter.
+9 59 - 22 - 05. (203) Use of electronic record or signature not required .
+10 1. This chapter does not require a nontestamentary estate planning document or
+11 signature on a nontestamentary estate planning document to be created, generated,
+12 sent, communicated, received, stored, or otherwise processed or used by electronic
+13 means or in electronic form.
+14 2. A person is not required to have a nontestamentary estate planning document in
+15 electronic form or signed electronically even if the person previously created or signed
+16 a nontestamentary estate planning document by electronic means.
+17 3. A person may not waive the provisions of this section.
+18 59 - 22 - 06. (204) Recognition of electronic nontestamentary estate planning document
+19 and electronic signature.
+20 1. A nontestamentary estate planning document or a signature on a nontestamentary
+21 estate planning document may not be denied legal effect or enforceability because the
+22 document or signature is in electronic form.
+23 2. If any other provision of law requires a nontestamentary estate planning document to
+24 be in writing, an electronic record of the document satisfies the requirement.
+25 3. If any other provision of law requires a signature on a nontestamentary estate planning
+26 document, an electronic signature satisfies the requirement.
+27 59 - 22 - 07. (205) Attribution and effect of electronic record and electronic signature .
+28 1. An electronic nontestamentary estate planning document or electronic signature on an
+29 electronic nontestamentary estate planning document is attributable to a person if it
+30 was the act of the person. The act of the person may be shown in any manner,
+Page No. 4 25.0258.01000
+
+Sixty-ninth
+Legislative Assembly
+1 including by showing the efficacy of a security procedure applied to determine the
+2 person to which the electronic record or electronic signature was attributable.
+3 2. The effect of attribution to a person under subsection 1 is determined from the contex t
+4 and surrounding circumstances at the time the document or signature was created,
+5 executed, or adopted, and as provided by law.
+6 59 - 22 - 08. (206) Notarization and acknowledgment .
+7 If any other provision of law requires a signature or record to be notarized, acknowledged,
+8 verified, or made under oath, the requirement is satisfied with respect to an electronic
+9 nontestamentary estate planning document if an individual authorized to perform the
+10 notarization, acknowledgment, verification, or oath attaches or logically associates the
+11 individual's electronic signature on the document together with all other information required to
+12 be included under law.
+13 59 - 22 - 09. (207) Witnessing and attestation .
+14 1. If any other provision of law bases the validity of a nontestamentary estate planning
+15 document on whether the document is signed, witnessed, or attested by another
+16 individual, the signature, witnessing, or attestation of that individual may be electronic.
+17 2. As used in this subsection, "electronic presence" means two or more individuals in
+18 different locations are able to communicate in real time to the same extent as if the
+19 individuals were physically present in the same location. If any other provision of law
+20 bases the validity of a nontestamentary estate planning document on whether the
+21 document is signed, witnessed, or attested by another individual in the presence of the
+22 individual signing the document, the presence requirement is satisfied if the individuals
+23 are in each other's electronic presence.
+24 59 - 22 - 10. (208) Retention of electronic record - Original .
+25 1. Except as provided in subsection 2, if any other provision of law requires an electronic
+26 nontestamentary estate planning document to be retained, transmitted, copied, or
+27 filed, the requirement is satisfied by retaining, transmitting, copying, or filing an
+28 electronic record that:
+29 a. Accurately reflects the information in the document after the document was first
+30 generated in final form as an electronic record or under section 59 - 22 - 11; and
+31 b. Remains accessible to the extent required by the other law.
+Page No. 5 25.0258.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. A requirement under subsection 1 to retain a record does not apply to information the
+2 purpose of which is to enable the record to be sent, communicated, or received.
+3 3. A person may satisfy subsection 1 by using the services of another person .
+4 4. If any other provision of law requires a nontestamentary estate planning document to
+5 be presented or retained in its original form, or provides consequences if a
+6 nontestamentary estate planning document is not presented or retained in its original
+7 form, an electronic record retained in accordance with subsection 1 satisfies the other
+8 law.
+9 5. This section does not preclude a governmental agency from specifying requirements
+10 for the retention of a record subject to the agency's jurisdiction in addition to those in
+11 this section.
+12 6. As used in this section, "governmental agency" means an executive, legislative, or
+13 judicial agency, department, board, commission, authority, institution, or
+14 instrumentality of the federal government or of the state or of a county, municipality, or
+15 other political subdivision of the state.
+16 59 - 22 - 11. (209) Certification of paper copy .
+17 An individual may create a certified paper copy of an electronic nontestamentary estate
+18 planning document by affirming under penalty of perjury that the paper copy is a complete and
+19 accurate copy of the document.
+20 59 - 22 - 12. (210) Admissibility in evidence .
+21 Evidence relating to an electronic nontestamentary estate planning document or an
+22 electronic signature on the document may not be excluded in a proceeding solely because it is
+23 in electronic form.
+24 59 - 22 - 13. (401) Uniformity of application and construction .
+25 In applying and construing this chapter, a court shall consider the promotion of uniformity of
+26 the law among the states that enact it.
+27 59 - 22 - 14. (402) Relation to Electronic Signatures in Global and National Commerce
+28 Act.
+29 This chapter modifies, limits, or supersedes the Electronic Signatures in Global and
+30 National Commerce Act, [15 U.S.C. Section 7001 et seq.] but does not modify, limit, or
+Page No. 6 25.0258.01000
+
+Sixty-ninth
+Legislative Assembly
+1 supersede 15 U.S.C. Section 7001(c), or authorize electronic delivery of any of the notices
+2 described in 15 U.S.C. Section 7003(b).
+3 SECTION 2. APPLICATION. This Act applies to an electronic nontestamentary estate
+4 planning document created, signed, generated, sent, communicated, received, or stored before,
+5 on, or after July 31, 2025.
+Page No. 7 25.0258.01000
+
+[DELETED: .".".".".".I)A)A) 12]
+[DELETED: )A)A)A)A)A)A)A)A) )A.D.".".".I.S.".".".E22]
+[DELETED: .A.".". )E)E.T)A)A) .".".F.B. 32]
+[DELETED: .T.T.T.A.A.A.I.I.A42]
+[DELETED: . .I.A. .A.R52]
+[DELETED: . . .I.T.A62]
+[DELETED: 72]

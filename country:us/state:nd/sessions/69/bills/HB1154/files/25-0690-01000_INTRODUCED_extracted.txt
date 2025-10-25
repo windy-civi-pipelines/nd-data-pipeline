@@ -1,0 +1,108 @@
+Title: HOUSE BILL NO. 1154
+Official Title: HOUSE BILL NO. 1154
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0690.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives M. Ruby, Frelich
+Senator Lee
+1 A BILL for an Act to amend and reenact subsection 1 of section 23-09.3-01.1 and subsection 1
+2 of section 23-16-01.1 of the North Dakota Century Code, relating to the moratorium on basic
+3 care and nursing facility bed capacity.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Subsection 1 of section 23-09.3-01.1 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 1. Basic care beds may not be added to the state's licensed bed capacity during the
+8 period between August 1, 20232025, and July 31, 20252029, except if:
+9 a. A nursing facility converts nursing facility beds to basic care;
+10 b. An entity licenses bed capacity transferred as basic care bed capacity under
+11 section 23-16-01.1;
+12 c. An entity demonstrates to the department that basic care services are not readily
+13 available within a designated area of the state or that existing basic care beds
+14 within a fifty-mile [80.47-kilometer] radius have been occupied at ninety percent
+15 or more for the previous twelve months. In determining whether basic care
+16 services will be readily available if an additional license is issued, preference may
+17 be given to an entity that agrees to any participation program established by the
+18 department for individuals eligible for services under the medical assistance
+19 program under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.]; or
+20 d. The department grant approval of new basic care beds to an entity. The approved
+21 entity shall license the beds within forty-eight months from the date of approval.
+22 SECTION 2. AMENDMENT. Subsection 1 of section 23-16-01.1 of the North Dakota
+23 Century Code is amended and reenacted as follows:
+Page No. 1 25.0690.01000
+Sixty-ninth
+Legislative Assembly
+1 1. Notwithstanding sections 23-16-06 and 23-16-10, except when a facility reverts basic
+2 care beds to nursing facility beds or relicenses nursing facility beds delicensed after
+3 July 31, 2011, nursing facility beds may not be added to the state's licensed bed
+4 capacity during the period between August 1, 20232025, and July 31, 20252029. A
+5 nursing facility may not delicense nursing facility bed capacity, relicense nursing facility
+6 bed capacity, convert licensed nursing bed capacity to basic care bed capacity, revert
+7 licensed basic care bed capacity back to nursing facility bed capacity, or otherwise
+8 reconfigure licensed nursing facility bed capacity more than two times in a
+9 twelve-month period.
+Page No. 2 25.0690.01000
+[DELETED: .B.A.A.A.T12]
+[DELETED: .N22]
+
+
+================================================================================
+
+Raw Text:
+25.0690.01000
+Sixty-ninth
+HOUSE BILL NO. 1154
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives M. Ruby, Frelich
+Senator Lee
+1 A BILL for an Act to amend and reenact subsection 1 of section 23-09.3-01.1 and subsection 1
+2 of section 23-16-01.1 of the North Dakota Century Code, relating to the moratorium on basic
+3 care and nursing facility bed capacity.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Subsection 1 of section 23-09.3-01.1 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 1. Basic care beds may not be added to the state's licensed bed capacity during the
+8 period between August 1, 20232025, and July 31, 20252029, except if:
+9 a. A nursing facility converts nursing facility beds to basic care;
+10 b. An entity licenses bed capacity transferred as basic care bed capacity under
+11 section 23-16-01.1;
+12 c. An entity demonstrates to the department that basic care services are not readily
+13 available within a designated area of the state or that existing basic care beds
+14 within a fifty-mile [80.47-kilometer] radius have been occupied at ninety percent
+15 or more for the previous twelve months. In determining whether basic care
+16 services will be readily available if an additional license is issued, preference may
+17 be given to an entity that agrees to any participation program established by the
+18 department for individuals eligible for services under the medical assistance
+19 program under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.]; or
+20 d. The department grant approval of new basic care beds to an entity. The approved
+21 entity shall license the beds within forty-eight months from the date of approval.
+22 SECTION 2. AMENDMENT. Subsection 1 of section 23-16-01.1 of the North Dakota
+23 Century Code is amended and reenacted as follows:
+Page No. 1 25.0690.01000
+
+Sixty-ninth
+Legislative Assembly
+1 1. Notwithstanding sections 23-16-06 and 23-16-10, except when a facility reverts basic
+2 care beds to nursing facility beds or relicenses nursing facility beds delicensed after
+3 July 31, 2011, nursing facility beds may not be added to the state's licensed bed
+4 capacity during the period between August 1, 20232025, and July 31, 20252029. A
+5 nursing facility may not delicense nursing facility bed capacity, relicense nursing facility
+6 bed capacity, convert licensed nursing bed capacity to basic care bed capacity, revert
+7 licensed basic care bed capacity back to nursing facility bed capacity, or otherwise
+8 reconfigure licensed nursing facility bed capacity more than two times in a
+9 twelve-month period.
+Page No. 2 25.0690.01000
+
+[DELETED: .B.A.A.A.T12]
+[DELETED: .N22]

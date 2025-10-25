@@ -1,0 +1,708 @@
+Title: HOUSE BILL NO. 1203
+Official Title: HOUSE BILL NO. 1203
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+25.0503.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Vetter, Dobervich, M. Ruby, Steiner, Frelich, Christianson, Christy, Bahl
+Senators Cory, Meyer
+1 A BILL for an Act to create and enact section 19-24.1-24.1 and a new subsection to section
+2 19-24.1-36 of the North Dakota Century Code, relating to regulating edible medical marijuana
+3 products; and to amend and reenact section 19-24.1-01 of the North Dakota Century Code,
+4 relating to definitions of medical marijuana products.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 19-24.1-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 19-24.1-01. Definitions.
+9 As used in this chapter, unless the context indicates otherwise:
+10 1. "Advanced practice registered nurse" means an advanced practice registered nurse
+11 defined under section 43-12.1-02.
+12 2. "Agent" means an individual who is authorized to act for, in place of, or on behalf of a
+13 compassion center.
+14 3. "Allowable amount of usable marijuana" means the amount of usable marijuana a
+15 registered qualifying patient or registered designated caregiver may purchase in a
+16 thirty-day period under this chapter.
+17 a. Except as provided under subdivision b:
+18 (1) During a thirty-day period, a registered qualifying patient may not purchase
+19 or have purchased by a registered designated caregiver more than two and
+20 one-half ounces [70.87 grams] of dried leaves or flowers of the plant of the
+21 genus cannabis in a combustible delivery form.
+22 (2) At any time a registered qualifying patient, or a registered designated
+23 caregiver on behalf of a registered qualifying patient, may not possess more
+Page No. 1 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 than three ounces [85.05 grams] of dried leaves or flowers of the plant of
+2 the genus cannabis in a combustible delivery form.
+3 (3) At any time, a registered qualifying patient, or a registered designated
+4 caregiver on behalf of a registered qualifying patient, may not possess more
+5 than five hundred milligrams of an edible marijuana product.
+6 b. Notwithstanding subdivision a, if a registered qualifying patient has a registry
+7 identification card authorizing an enhanced allowable amount:
+8 (1) During a thirty-day period a registered qualifying patient may not purchase
+9 or have purchased by a registered designated caregiver more than six
+10 ounces [170.01 grams] of dried leaves or flowers of the plant of genus
+11 cannabis in a combustible delivery form.
+12 (2) At any time a registered qualifying patient, or a registered designated
+13 caregiver on behalf of a registered qualifying patient, may not possess more
+14 than seven and one-half ounces [212.62 grams] of dried leaves or flowers of
+15 the plant of the genus cannabis in a combustible delivery form.
+16 (3) At any time, a registered qualifying patient, or a registered designated
+17 caregiver on behalf of a registered qualifying patient, may not possess more
+18 than five hundred milligrams of an edible marijuana product.
+19 c. A registered qualifying patient may not purchase or have purchased by a
+20 registered designated caregiver more than the maximum concentration or
+21 amount of tetrahydrocannabinol permitted in a thirty-day period. The maximum
+22 concentration or amount of tetrahydrocannabinol permitted in a thirty-day period
+23 for a cannabinoid concentrate or medical cannabinoid product, or the cumulative
+24 total of both, is six thousand milligrams. At any time, a registered qualifying
+25 patient, or a registered designated caregiver on behalf of a registered qualifying
+26 patient, may not purchase or possess more than three hundred ten milligrams of
+27 tetrahydrocannabinol in the form of a cannabinoid edible product.
+28 4. "Bona fide provider-patient relationship" means a treatment or counseling relationship
+29 between a health care provider and patient in which all the following are present:
+Page No. 2 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 a. The health care provider has reviewed the patient's relevant medical records and
+2 completed a full assessment of the patient's medical history and current medical
+3 condition, including a relevant, in-person, medical evaluation of the patient.
+4 b. The health care provider has created and maintained records of the patient's
+5 condition in accordance with medically accepted standards.
+6 c. The patient is under the health care provider's continued care for the debilitating
+7 medical condition that qualifies the patient for the medical use of marijuana.
+8 d. The health care provider has a reasonable expectation that provider will continue
+9 to provide followup care to the patient to monitor the medical use of marijuana as
+10 a treatment of the patient's debilitating medical condition.
+11 e. The relationship is not for the sole purpose of providing written certification for the
+12 medical use of marijuana.
+13 5. "Cannabinoid" means a chemical compound that is one of the active constituents of
+14 marijuana.
+15 6. "Cannabinoid capsule" means a small, soluble container, usually made of gelatin,
+16 which encloses a dose of a cannabinoid product or a cannabinoid concentrate
+17 intended for consumption. The maximum concentration of amount of
+18 tetrahydrocannabinol permitted in a serving of a cannabinoid capsule is fifty
+19 milligrams.
+20 7. "Cannabinoid concentrate" means a concentrate or extract obtained by separating
+21 cannabinoids from marijuana by a mechanical, chemical, or other process.
+22 8. "Cannabinoid edible product" means a food or potable liquidsoft or hard lozenge in a
+23 geometric square shape into which a cannabinoid concentrate or the dried leaves or
+24 flowers of the plant of the genus cannabis is incorporated.
+25 a. The maximum concentration or amount of tetrahydrocannabinol permitted in a
+26 serving of a cannabinoid edible product is ten milligrams.
+27 b. The term does not include a hard or soft lozenge in a geometric square shape
+28 into which a cannabinoid concentrate or the dried leaves or flowers of the plant of
+29 the genus cannabis is incorporated if the form, packaging, or labeling is target
+30 marketed to minors.
+Page No. 3 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 9. "Cannabinoid solution" means a solution consisting of a mixture created from
+2 cannabinoid concentrate and other ingredients. A container holding a cannabinoid
+3 solution for dispensing may not exceed thirty milliliters.
+4 10. "Cannabinoid topical" means a cannabinoid product intended to be applied to the skin
+5 or hair. The maximum concentration or amount of tetrahydrocannabinol permitted in a
+6 cannabinoid topical is six percent.
+7 11. "Cannabinoid transdermal patch" means an adhesive substance applied to the skin
+8 which contains a cannabinoid product or cannabinoid concentrate for absorption into
+9 the bloodstream. The maximum concentration or amount of tetrahydrocannabinol
+10 permitted in a serving of a cannabinoid transdermal patch is fifty milligrams.
+11 12. "Cardholder" means a qualifying patient, designated caregiver, or compassion center
+12 agent who has been issued and possesses a valid registry identification card.
+13 13. "Compassion center" means a manufacturing facility or dispensary.
+14 14. "Compassion center agent" means a principal officer, board member, member,
+15 manager, governor, employee, volunteer, or agent of a compassion center. The term
+16 does not include a lawyer representing a compassion center in civil or criminal
+17 litigation or in an adversarial administrative proceeding.
+18 15. "Contaminated" means made impure or inferior by extraneous substances.
+19 16. "Debilitating medical condition" means one of the following:
+20 a. Cancer;
+21 b. Positive status for human immunodeficiency virus;
+22 c. Acquired immune deficiency syndrome;
+23 d. Decompensated cirrhosis caused by hepatitis C;
+24 e. Amyotrophic lateral sclerosis;
+25 f. Posttraumatic stress disorder;
+26 g. Agitation of Alzheimer's disease or related dementia;
+27 h. Crohn's disease;
+28 i. Fibromyalgia;
+29 j. Spinal stenosis or chronic back pain, including neuropathy or damage to the
+30 nervous tissue of the spinal cord with objective neurological indication of
+31 intractable spasticity;
+Page No. 4 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 k. Glaucoma;
+2 l. Epilepsy;
+3 m. Anorexia nervosa;
+4 n. Bulimia nervosa;
+5 o. Anxiety disorder;
+6 p. Tourette syndrome;
+7 q. Ehlers-Danlos syndrome;
+8 r. Endometriosis;
+9 s. Interstitial cystitis;
+10 t. Neuropathy;
+11 u. Migraine;
+12 v. Rheumatoid arthritis;
+13 w. Autism spectrum disorder;
+14 x. A brain injury;
+15 y. A terminal illness; or
+16 z. A chronic or debilitating disease or medical condition or treatment for such
+17 disease or medical condition that produces one or more of the following:
+18 (1) Cachexia or wasting syndrome;
+19 (2) Severe debilitating pain that has not responded to previously prescribed
+20 medication or surgical measures for more than three months or for which
+21 other treatment options produced serious side effects;
+22 (3) Intractable nausea;
+23 (4) Seizures; or
+24 (5) Severe and persistent muscle spasms, including those characteristic of
+25 multiple sclerosis.
+26 17. "Department" means the department of health and human services.
+27 18. "Designated caregiver" means an individual who agrees to manage the well-being of a
+28 registered qualifying patient with respect to the qualifying patient's medical use of
+29 marijuana.
+Page No. 5 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 19. "Dispensary" means an entity registered by the department as a compassion center
+2 authorized to dispense usable marijuana to a registered qualifying patient and a
+3 registered designated caregiver.
+4 20. "Enclosed, locked facility" means a closet, room, greenhouse, building, or other
+5 enclosed area equipped with locks or other security devices that permit access limited
+6 to individuals authorized under this chapter or rules adopted under this chapter.
+7 21. "Health care provider" means a physician, a physician assistant, or an advanced
+8 practice registered nurse.
+9 22. "Manager'' means an individual who administers or supervises the day-to-day
+10 operations and affairs of a compassion center.
+11 23. "Manufacturing facility" means an entity registered by the department as a compassion
+12 center authorized to produce and process and to sell usable marijuana to a
+13 dispensary.
+14 24. "Marijuana" means all parts of the plant of the genus cannabis; the seeds of the plant;
+15 the resin extracted from any part of the plant; and every compound, manufacture, salt,
+16 derivative, mixture, or preparation of the plant, the seeds of the plant, or the resin
+17 extracted from any part of the plant. The term marijuana does not include:
+18 a. Hemp as regulated under section 4.1-18.1-01; or
+19 b. A prescription drug approved by the United States food and drug administration
+20 under section 505 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355].
+21 25. "Maximum concentration or amount of tetrahydrocannabinol" means the total amount
+22 of tetrahydrocannabinol and tetrahydrocannabinolic acid in a medical cannabinoid
+23 product or a cannabinoid concentrate.
+24 26. "Medical cannabinoid product" means a product intended for human consumption or
+25 use which contains cannabinoids.
+26 a. Medical cannabinoid products are limited to the following forms:
+27 (1) Cannabinoid solution;
+28 (2) Cannabinoid capsule;
+29 (3) Cannabinoid transdermal patch; and
+30 (4) Cannabinoid topical; and
+31 (5) Cannabinoid edible products.
+Page No. 6 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 b. "Medical cannabinoid product" does not include:
+2 (1) A cannabinoid edible product;
+3 (2) A cannabinoid concentrate by itself; or
+4 (3)(2) The dried leaves or flowers of the plant of the genus cannabis by itself.
+5 27. "Medical marijuana product" means a cannabinoid concentrate or a medical
+6 cannabinoid product.
+7 28. "Medical marijuana waste" means unused, surplus, returned, or out-of-date usable
+8 marijuana; recalled usable marijuana; unused marijuana; or plant debris of the plant of
+9 the genus cannabis, including dead plants and all unused plant parts and roots.
+10 29. "Medical use of marijuana" means the acquisition, use, and possession of usable
+11 marijuana to treat or alleviate a qualifying patient's debilitating medical condition.
+12 30. "Member" means an individual who has a ten percent or more ownership interest in
+13 the compassion center limited liability company, limited liability partnership, or
+14 partnership.
+15 31. "Minor" means an individual under the age of nineteen.
+16 32. "North Dakota identification" means a North Dakota driver's license or comparable
+17 state of North Dakota or federal issued photo identification card verifying North Dakota
+18 residence.
+19 33. "Owner" means an individual or an organization with an ownership interest in a
+20 compassion center.
+21 34. "Ownership interest" means an aggregate ownership interest of five percent or more in
+22 a compassion center, unless the interest is solely a security, lien, or encumbrance, or
+23 an individual who will be participating in the direction, control, or management of the
+24 compassion center.
+25 35. "Pediatric medical marijuana" means a medical marijuana product containing
+26 cannabidiol which may not contain a maximum concentration or amount of
+27 tetrahydrocannabinol of more than six percent.
+28 36. "Physician" means a physician licensed under chapter 43-17 to practice medicine in
+29 the state of North Dakota.
+30 37. "Physician assistant" means an individual licensed under chapter 43-17 to practice as
+31 a physician assistant in the state.
+Page No. 7 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 38. "Posttraumatic stress disorder" means a patient meets the diagnostic criteria for
+2 posttraumatic stress disorder under the "Diagnostic and Statistical Manual of Mental
+3 Disorders", American psychiatric association, fifth edition, text revision (2013).
+4 39. "Processing" or "process" means the compounding or conversion of marijuana into a
+5 medical marijuana product.
+6 40. "Producing", "produce", or "production" mean the planting, cultivating, growing,
+7 trimming, or harvesting of the plant of the genus cannabis or the drying of the leaves
+8 or flowers of the plant of the genus cannabis.
+9 41. "Qualifying patient" means an individual who has been diagnosed by a health care
+10 provider as having a debilitating medical condition.
+11 42. "Registry identification card" means a document issued by the department which
+12 identifies an individual as a registered qualifying patient, registered designated
+13 caregiver, or registered compassion center agent.
+14 43. "Substantial corporate change" means:
+15 a. For a corporation, a change of ten percent or more of the officers or directors, or
+16 a transfer of ten percent or more of the stock of the corporation, or an existing
+17 stockholder obtaining ten percent or more of the stock of the corporation;
+18 b. For a limited liability company, a change of ten percent or more of the managing
+19 members of the company, or a transfer of ten percent or more of the ownership
+20 interest in the company, or an existing member obtaining a cumulative of ten
+21 percent or more of the ownership interest in the company; or
+22 c. For a partnership, a change of ten percent or more of the managing partners of
+23 the company, or a transfer of ten percent or more of the ownership interest in the
+24 company, or an existing member obtaining a cumulative of ten percent or more of
+25 the ownership interest in the company.
+26 44. "Terminal illness" means a disease, illness, or condition of a patient:
+27 a. For which there is not a reasonable medical expectation of recovery;
+28 b. Which as a medical probability, will result in the death of the patient, regardless of
+29 the use or discontinuance of medical treatment implemented for the purpose of
+30 sustaining life or the life processes; and
+Page No. 8 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 c. As a result of which, the patient's health care provider would not be surprised if
+2 death were to occur within six months.
+3 45. "Tetrahydrocannabinol" means tetrahydrocannabinols naturally contained in a plant of
+4 the genus cannabis, and synthetic equivalents of the substances contained in the
+5 cannabis plant, or in the resinous extractives of the plant, including synthetic
+6 substances, derivatives, and their isomers with similar chemical structure and
+7 pharmacological activity to those substances contained in the plant, including:
+8 a. (1) Delta-1 cis or trans tetrahydrocannabinol, and their optical isomers. Other
+9 names: Delta-9-tetrahydrocannabinol.
+10 (2) Delta-6 or trans tetrahydrocannabinol, and their optical isomers. Other
+11 names: Delta-8 tetrahydrocannabinol.
+12 (3) Delta-3, 4 cis or trans tetrahydrocannabinol, and its optical isomers.
+13 (Since nomenclature of these substances is not intentionally standardized, compounds
+14 of these structures, regardless of numerical designation or atomic positions covered.)
+15 b. Tetrahydrocannabinol does not include:
+16 (1) The allowable amount of total tetrahydrocannabinol found in hemp as
+17 defined in chapter 4.1-18.1; or
+18 (2) A prescription drug approved by the United States food and drug
+19 administration under section 505 of the Federal Food, Drug, and Cosmetic
+20 Act [21 U.S.C. 355].
+21 46. "Total tetrahydrocannabinol" means the sum of the percentage by weight of
+22 tetrahydrocannabinolic acid multiplied by eight hundred seventy-seven thousandths
+23 plus the percentage of weight of tetrahydrocannabinol.
+24 47. "Usable marijuana" means a medical marijuana product or the dried leaves or flowers
+25 of the plant of the genus cannabis in a combustible delivery form. However, the term
+26 does not include a cannabinoid edible product. In the case of a registered qualifying
+27 patient who is a minor, "usable marijuana" is limited to pediatric medical marijuana.
+28 48. "Verification system" means the system maintained by the department under section
+29 19-24.1-31 for verification of registry identification cards.
+30 49. "Written certification" means a form established by the department which is executed,
+31 dated, and signed by a health care provider within ninety calendar days of the date of
+Page No. 9 25.0503.01000
+Sixty-ninth
+Legislative Assembly
+1 application, stating the patient has a debilitating medical condition. A health care
+2 provider may authorize an enhanced amount of dried leaves or flowers of the plant of
+3 the genus cannabis in a combustible delivery form to treat or alleviate the patient's
+4 debilitating medical condition of cancer. A written certification may not be made except
+5 in the course of a bona fide provider-patient relationship.
+6 SECTION 2. Section 19-24.1-24.1 of the North Dakota Century Code is created and
+7 enacted as follows:
+8 19-24.1-24.1. Compassion centers - Cannabinoid edible products.
+9 1. A manufacturing facility may not manufacture a cannabinoid edible product unless the
+10 manufacturing facility has received the prior approval of the department.
+11 2. A dispensary may not possess, market, or sell a cannabinoid edible product unless the
+12 dispensary has received the prior approval of the department.
+13 3. The department may not approve the manufacturing, possession, marketing, or sale of
+14 a cannabinoid edible product unless the department has reviewed and approved the
+15 form, manufacturing, packaging, labeling, and marketing of the cannabinoid edible
+16 product.
+17 a. Manufacturing of a cannabinoid edible product must take place in a department
+18 licensed commercial kitchen that is inspected annually by the department.
+19 b. Packaging of a cannabinoid edible product must be resealable, must be child
+20 resistant, and may not be transparent. The maximum concentration or amount of
+21 tetrahydrocannabinol permitted in a package is one hundred milligrams.
+22 c. Labeling of a cannabinoid edible product must be in black arial font
+23 which provides the name of the product, manufacturer's information, ingredient
+24 list, milligrams of tetrahydrocannabinol per serving, and number of servings per
+25 package. The labeling may not include an image other than text.
+26 d. Marketing may not target market to minors.
+27 SECTION 3. A new subsection to section 19-24.1-36 of the North Dakota Century Code is
+28 created and enacted as follows:
+29 The department shall adopt rules to regulate the form, manufacturing, packaging,
+30 labeling, and marketing of a cannabinoid edible product. The rules must prohibit the
+31 marketing of a cannabinoid edible product to a minor.
+Page No. 10 25.0503.01000
+[DELETED: .".".".E)D)A12]
+[DELETED: )A.N)D)A)A.A."22]
+[DELETED: .T.T.T.T.T.".".".".T.T32]
+[DELETED: .".".".".".".".".C.P.A.D.A.P.A.C.F.S42]
+[DELETED: .G.E.A.B.A.T.E.E.I.N.M.R.A.A.A.A)C)S)I)S)S."."52]
+[DELETED: .".".".".".".H.A.".".M)C)C)C)C)C62]
+[DELETED: .")A)A)T."."."."."."."."."."."72]
+[DELETED: .".".".".".".F.F.F.".F.W82]
+[DELETED: .A.".()D)D)D.T)T)A."."."."92]
+[DELETED: .A.A.T.M.P.L.M02]
+
+
+================================================================================
+
+Raw Text:
+25.0503.01000
+Sixty-ninth
+HOUSE BILL NO. 1203
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Vetter, Dobervich, M. Ruby, Steiner, Frelich, Christianson, Christy, Bahl
+Senators Cory, Meyer
+1 A BILL for an Act to create and enact section 19-24.1-24.1 and a new subsection to section
+2 19-24.1-36 of the North Dakota Century Code, relating to regulating edible medical marijuana
+3 products; and to amend and reenact section 19-24.1-01 of the North Dakota Century Code,
+4 relating to definitions of medical marijuana products.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 19-24.1-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 19-24.1-01. Definitions.
+9 As used in this chapter, unless the context indicates otherwise:
+10 1. "Advanced practice registered nurse" means an advanced practice registered nurse
+11 defined under section 43-12.1-02.
+12 2. "Agent" means an individual who is authorized to act for, in place of, or on behalf of a
+13 compassion center.
+14 3. "Allowable amount of usable marijuana" means the amount of usable marijuana a
+15 registered qualifying patient or registered designated caregiver may purchase in a
+16 thirty-day period under this chapter.
+17 a. Except as provided under subdivision b:
+18 (1) During a thirty-day period, a registered qualifying patient may not purchase
+19 or have purchased by a registered designated caregiver more than two and
+20 one-half ounces [70.87 grams] of dried leaves or flowers of the plant of the
+21 genus cannabis in a combustible delivery form.
+22 (2) At any time a registered qualifying patient, or a registered designated
+23 caregiver on behalf of a registered qualifying patient, may not possess more
+Page No. 1 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 than three ounces [85.05 grams] of dried leaves or flowers of the plant of
+2 the genus cannabis in a combustible delivery form.
+3 (3) At any time, a registered qualifying patient, or a registered designated
+4 caregiver on behalf of a registered qualifying patient, may not possess more
+5 than five hundred milligrams of an edible marijuana product.
+6 b. Notwithstanding subdivision a, if a registered qualifying patient has a registry
+7 identification card authorizing an enhanced allowable amount:
+8 (1) During a thirty-day period a registered qualifying patient may not purchase
+9 or have purchased by a registered designated caregiver more than six
+10 ounces [170.01 grams] of dried leaves or flowers of the plant of genus
+11 cannabis in a combustible delivery form.
+12 (2) At any time a registered qualifying patient, or a registered designated
+13 caregiver on behalf of a registered qualifying patient, may not possess more
+14 than seven and one-half ounces [212.62 grams] of dried leaves or flowers of
+15 the plant of the genus cannabis in a combustible delivery form.
+16 (3) At any time, a registered qualifying patient, or a registered designated
+17 caregiver on behalf of a registered qualifying patient, may not possess more
+18 than five hundred milligrams of an edible marijuana product.
+19 c. A registered qualifying patient may not purchase or have purchased by a
+20 registered designated caregiver more than the maximum concentration or
+21 amount of tetrahydrocannabinol permitted in a thirty-day period. The maximum
+22 concentration or amount of tetrahydrocannabinol permitted in a thirty-day period
+23 for a cannabinoid concentrate or medical cannabinoid product, or the cumulative
+24 total of both, is six thousand milligrams. At any time, a registered qualifying
+25 patient, or a registered designated caregiver on behalf of a registered qualifying
+26 patient, may not purchase or possess more than three hundred ten milligrams of
+27 tetrahydrocannabinol in the form of a cannabinoid edible product.
+28 4. "Bona fide provider-patient relationship" means a treatment or counseling relationship
+29 between a health care provider and patient in which all the following are present:
+Page No. 2 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. The health care provider has reviewed the patient's relevant medical records and
+2 completed a full assessment of the patient's medical history and current medical
+3 condition, including a relevant, in-person, medical evaluation of the patient.
+4 b. The health care provider has created and maintained records of the patient's
+5 condition in accordance with medically accepted standards.
+6 c. The patient is under the health care provider's continued care for the debilitating
+7 medical condition that qualifies the patient for the medical use of marijuana.
+8 d. The health care provider has a reasonable expectation that provider will continue
+9 to provide followup care to the patient to monitor the medical use of marijuana as
+10 a treatment of the patient's debilitating medical condition.
+11 e. The relationship is not for the sole purpose of providing written certification for the
+12 medical use of marijuana.
+13 5. "Cannabinoid" means a chemical compound that is one of the active constituents of
+14 marijuana.
+15 6. "Cannabinoid capsule" means a small, soluble container, usually made of gelatin,
+16 which encloses a dose of a cannabinoid product or a cannabinoid concentrate
+17 intended for consumption. The maximum concentration of amount of
+18 tetrahydrocannabinol permitted in a serving of a cannabinoid capsule is fifty
+19 milligrams.
+20 7. "Cannabinoid concentrate" means a concentrate or extract obtained by separating
+21 cannabinoids from marijuana by a mechanical, chemical, or other process.
+22 8. "Cannabinoid edible product" means a food or potable liquidsoft or hard lozenge in a
+23 geometric square shape into which a cannabinoid concentrate or the dried leaves or
+24 flowers of the plant of the genus cannabis is incorporated.
+25 a. The maximum concentration or amount of tetrahydrocannabinol permitted in a
+26 serving of a cannabinoid edible product is ten milligrams.
+27 b. The term does not include a hard or soft lozenge in a geometric square shape
+28 into which a cannabinoid concentrate or the dried leaves or flowers of the plant of
+29 the genus cannabis is incorporated if the form, packaging, or labeling is target
+30 marketed to minors.
+Page No. 3 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 9. "Cannabinoid solution" means a solution consisting of a mixture created from
+2 cannabinoid concentrate and other ingredients. A container holding a cannabinoid
+3 solution for dispensing may not exceed thirty milliliters.
+4 10. "Cannabinoid topical" means a cannabinoid product intended to be applied to the skin
+5 or hair. The maximum concentration or amount of tetrahydrocannabinol permitted in a
+6 cannabinoid topical is six percent.
+7 11. "Cannabinoid transdermal patch" means an adhesive substance applied to the skin
+8 which contains a cannabinoid product or cannabinoid concentrate for absorption into
+9 the bloodstream. The maximum concentration or amount of tetrahydrocannabinol
+10 permitted in a serving of a cannabinoid transdermal patch is fifty milligrams.
+11 12. "Cardholder" means a qualifying patient, designated caregiver, or compassion center
+12 agent who has been issued and possesses a valid registry identification card.
+13 13. "Compassion center" means a manufacturing facility or dispensary.
+14 14. "Compassion center agent" means a principal officer, board member, member,
+15 manager, governor, employee, volunteer, or agent of a compassion center. The term
+16 does not include a lawyer representing a compassion center in civil or criminal
+17 litigation or in an adversarial administrative proceeding.
+18 15. "Contaminated" means made impure or inferior by extraneous substances.
+19 16. "Debilitating medical condition" means one of the following:
+20 a. Cancer;
+21 b. Positive status for human immunodeficiency virus;
+22 c. Acquired immune deficiency syndrome;
+23 d. Decompensated cirrhosis caused by hepatitis C;
+24 e. Amyotrophic lateral sclerosis;
+25 f. Posttraumatic stress disorder;
+26 g. Agitation of Alzheimer's disease or related dementia;
+27 h. Crohn's disease;
+28 i. Fibromyalgia;
+29 j. Spinal stenosis or chronic back pain, including neuropathy or damage to the
+30 nervous tissue of the spinal cord with objective neurological indication of
+31 intractable spasticity;
+Page No. 4 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 k. Glaucoma;
+2 l. Epilepsy;
+3 m. Anorexia nervosa;
+4 n. Bulimia nervosa;
+5 o. Anxiety disorder;
+6 p. Tourette syndrome;
+7 q. Ehlers-Danlos syndrome;
+8 r. Endometriosis;
+9 s. Interstitial cystitis;
+10 t. Neuropathy;
+11 u. Migraine;
+12 v. Rheumatoid arthritis;
+13 w. Autism spectrum disorder;
+14 x. A brain injury;
+15 y. A terminal illness; or
+16 z. A chronic or debilitating disease or medical condition or treatment for such
+17 disease or medical condition that produces one or more of the following:
+18 (1) Cachexia or wasting syndrome;
+19 (2) Severe debilitating pain that has not responded to previously prescribed
+20 medication or surgical measures for more than three months or for which
+21 other treatment options produced serious side effects;
+22 (3) Intractable nausea;
+23 (4) Seizures; or
+24 (5) Severe and persistent muscle spasms, including those characteristic of
+25 multiple sclerosis.
+26 17. "Department" means the department of health and human services.
+27 18. "Designated caregiver" means an individual who agrees to manage the well-being of a
+28 registered qualifying patient with respect to the qualifying patient's medical use of
+29 marijuana.
+Page No. 5 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 19. "Dispensary" means an entity registered by the department as a compassion center
+2 authorized to dispense usable marijuana to a registered qualifying patient and a
+3 registered designated caregiver.
+4 20. "Enclosed, locked facility" means a closet, room, greenhouse, building, or other
+5 enclosed area equipped with locks or other security devices that permit access limited
+6 to individuals authorized under this chapter or rules adopted under this chapter.
+7 21. "Health care provider" means a physician, a physician assistant, or an advanced
+8 practice registered nurse.
+9 22. "Manager'' means an individual who administers or supervises the day-to-day
+10 operations and affairs of a compassion center.
+11 23. "Manufacturing facility" means an entity registered by the department as a compassion
+12 center authorized to produce and process and to sell usable marijuana to a
+13 dispensary.
+14 24. "Marijuana" means all parts of the plant of the genus cannabis; the seeds of the plant;
+15 the resin extracted from any part of the plant; and every compound, manufacture, salt,
+16 derivative, mixture, or preparation of the plant, the seeds of the plant, or the resin
+17 extracted from any part of the plant. The term marijuana does not include:
+18 a. Hemp as regulated under section 4.1-18.1-01; or
+19 b. A prescription drug approved by the United States food and drug administration
+20 under section 505 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355].
+21 25. "Maximum concentration or amount of tetrahydrocannabinol" means the total amount
+22 of tetrahydrocannabinol and tetrahydrocannabinolic acid in a medical cannabinoid
+23 product or a cannabinoid concentrate.
+24 26. "Medical cannabinoid product" means a product intended for human consumption or
+25 use which contains cannabinoids.
+26 a. Medical cannabinoid products are limited to the following forms:
+27 (1) Cannabinoid solution;
+28 (2) Cannabinoid capsule;
+29 (3) Cannabinoid transdermal patch; and
+30 (4) Cannabinoid topical; and
+31 (5) Cannabinoid edible products.
+Page No. 6 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 b. "Medical cannabinoid product" does not include:
+2 (1) A cannabinoid edible product;
+3 (2) A cannabinoid concentrate by itself; or
+4 (3)(2) The dried leaves or flowers of the plant of the genus cannabis by itself.
+5 27. "Medical marijuana product" means a cannabinoid concentrate or a medical
+6 cannabinoid product.
+7 28. "Medical marijuana waste" means unused, surplus, returned, or out-of-date usable
+8 marijuana; recalled usable marijuana; unused marijuana; or plant debris of the plant of
+9 the genus cannabis, including dead plants and all unused plant parts and roots.
+10 29. "Medical use of marijuana" means the acquisition, use, and possession of usable
+11 marijuana to treat or alleviate a qualifying patient's debilitating medical condition.
+12 30. "Member" means an individual who has a ten percent or more ownership interest in
+13 the compassion center limited liability company, limited liability partnership, or
+14 partnership.
+15 31. "Minor" means an individual under the age of nineteen.
+16 32. "North Dakota identification" means a North Dakota driver's license or comparable
+17 state of North Dakota or federal issued photo identification card verifying North Dakota
+18 residence.
+19 33. "Owner" means an individual or an organization with an ownership interest in a
+20 compassion center.
+21 34. "Ownership interest" means an aggregate ownership interest of five percent or more in
+22 a compassion center, unless the interest is solely a security, lien, or encumbrance, or
+23 an individual who will be participating in the direction, control, or management of the
+24 compassion center.
+25 35. "Pediatric medical marijuana" means a medical marijuana product containing
+26 cannabidiol which may not contain a maximum concentration or amount of
+27 tetrahydrocannabinol of more than six percent.
+28 36. "Physician" means a physician licensed under chapter 43-17 to practice medicine in
+29 the state of North Dakota.
+30 37. "Physician assistant" means an individual licensed under chapter 43-17 to practice as
+31 a physician assistant in the state.
+Page No. 7 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 38. "Posttraumatic stress disorder" means a patient meets the diagnostic criteria for
+2 posttraumatic stress disorder under the "Diagnostic and Statistical Manual of Mental
+3 Disorders", American psychiatric association, fifth edition, text revision (2013).
+4 39. "Processing" or "process" means the compounding or conversion of marijuana into a
+5 medical marijuana product.
+6 40. "Producing", "produce", or "production" mean the planting, cultivating, growing,
+7 trimming, or harvesting of the plant of the genus cannabis or the drying of the leaves
+8 or flowers of the plant of the genus cannabis.
+9 41. "Qualifying patient" means an individual who has been diagnosed by a health care
+10 provider as having a debilitating medical condition.
+11 42. "Registry identification card" means a document issued by the department which
+12 identifies an individual as a registered qualifying patient, registered designated
+13 caregiver, or registered compassion center agent.
+14 43. "Substantial corporate change" means:
+15 a. For a corporation, a change of ten percent or more of the officers or directors, or
+16 a transfer of ten percent or more of the stock of the corporation, or an existing
+17 stockholder obtaining ten percent or more of the stock of the corporation;
+18 b. For a limited liability company, a change of ten percent or more of the managing
+19 members of the company, or a transfer of ten percent or more of the ownership
+20 interest in the company, or an existing member obtaining a cumulative of ten
+21 percent or more of the ownership interest in the company; or
+22 c. For a partnership, a change of ten percent or more of the managing partners of
+23 the company, or a transfer of ten percent or more of the ownership interest in the
+24 company, or an existing member obtaining a cumulative of ten percent or more of
+25 the ownership interest in the company.
+26 44. "Terminal illness" means a disease, illness, or condition of a patient:
+27 a. For which there is not a reasonable medical expectation of recovery;
+28 b. Which as a medical probability, will result in the death of the patient, regardless of
+29 the use or discontinuance of medical treatment implemented for the purpose of
+30 sustaining life or the life processes; and
+Page No. 8 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. As a result of which, the patient's health care provider would not be surprised if
+2 death were to occur within six months.
+3 45. "Tetrahydrocannabinol" means tetrahydrocannabinols naturally contained in a plant of
+4 the genus cannabis, and synthetic equivalents of the substances contained in the
+5 cannabis plant, or in the resinous extractives of the plant, including synthetic
+6 substances, derivatives, and their isomers with similar chemical structure and
+7 pharmacological activity to those substances contained in the plant, including:
+8 a. (1) Delta-1 cis or trans tetrahydrocannabinol, and their optical isomers. Other
+9 names: Delta-9-tetrahydrocannabinol.
+10 (2) Delta-6 or trans tetrahydrocannabinol, and their optical isomers. Other
+11 names: Delta-8 tetrahydrocannabinol.
+12 (3) Delta-3, 4 cis or trans tetrahydrocannabinol, and its optical isomers.
+13 (Since nomenclature of these substances is not intentionally standardized, compounds
+14 of these structures, regardless of numerical designation or atomic positions covered.)
+15 b. Tetrahydrocannabinol does not include:
+16 (1) The allowable amount of total tetrahydrocannabinol found in hemp as
+17 defined in chapter 4.1-18.1; or
+18 (2) A prescription drug approved by the United States food and drug
+19 administration under section 505 of the Federal Food, Drug, and Cosmetic
+20 Act [21 U.S.C. 355].
+21 46. "Total tetrahydrocannabinol" means the sum of the percentage by weight of
+22 tetrahydrocannabinolic acid multiplied by eight hundred seventy-seven thousandths
+23 plus the percentage of weight of tetrahydrocannabinol.
+24 47. "Usable marijuana" means a medical marijuana product or the dried leaves or flowers
+25 of the plant of the genus cannabis in a combustible delivery form. However, the term
+26 does not include a cannabinoid edible product. In the case of a registered qualifying
+27 patient who is a minor, "usable marijuana" is limited to pediatric medical marijuana.
+28 48. "Verification system" means the system maintained by the department under section
+29 19-24.1-31 for verification of registry identification cards.
+30 49. "Written certification" means a form established by the department which is executed,
+31 dated, and signed by a health care provider within ninety calendar days of the date of
+Page No. 9 25.0503.01000
+
+Sixty-ninth
+Legislative Assembly
+1 application, stating the patient has a debilitating medical condition. A health care
+2 provider may authorize an enhanced amount of dried leaves or flowers of the plant of
+3 the genus cannabis in a combustible delivery form to treat or alleviate the patient's
+4 debilitating medical condition of cancer. A written certification may not be made except
+5 in the course of a bona fide provider-patient relationship.
+6 SECTION 2. Section 19-24.1-24.1 of the North Dakota Century Code is created and
+7 enacted as follows:
+8 19-24.1-24.1. Compassion centers - Cannabinoid edible products.
+9 1. A manufacturing facility may not manufacture a cannabinoid edible product unless the
+10 manufacturing facility has received the prior approval of the department.
+11 2. A dispensary may not possess, market, or sell a cannabinoid edible product unless the
+12 dispensary has received the prior approval of the department.
+13 3. The department may not approve the manufacturing, possession, marketing, or sale of
+14 a cannabinoid edible product unless the department has reviewed and approved the
+15 form, manufacturing, packaging, labeling, and marketing of the cannabinoid edible
+16 product.
+17 a. Manufacturing of a cannabinoid edible product must take place in a department
+18 licensed commercial kitchen that is inspected annually by the department.
+19 b. Packaging of a cannabinoid edible product must be resealable, must be child
+20 resistant, and may not be transparent. The maximum concentration or amount of
+21 tetrahydrocannabinol permitted in a package is one hundred milligrams.
+22 c. Labeling of a cannabinoid edible product must be in black arial font
+23 which provides the name of the product, manufacturer's information, ingredient
+24 list, milligrams of tetrahydrocannabinol per serving, and number of servings per
+25 package. The labeling may not include an image other than text.
+26 d. Marketing may not target market to minors.
+27 SECTION 3. A new subsection to section 19-24.1-36 of the North Dakota Century Code is
+28 created and enacted as follows:
+29 The department shall adopt rules to regulate the form, manufacturing, packaging,
+30 labeling, and marketing of a cannabinoid edible product. The rules must prohibit the
+31 marketing of a cannabinoid edible product to a minor.
+Page No. 10 25.0503.01000
+
+[DELETED: .".".".E)D)A12]
+[DELETED: )A.N)D)A)A.A."22]
+[DELETED: .T.T.T.T.T.".".".".T.T32]
+[DELETED: .".".".".".".".".C.P.A.D.A.P.A.C.F.S42]
+[DELETED: .G.E.A.B.A.T.E.E.I.N.M.R.A.A.A.A)C)S)I)S)S."."52]
+[DELETED: .".".".".".".H.A.".".M)C)C)C)C)C62]
+[DELETED: .")A)A)T."."."."."."."."."."."72]
+[DELETED: .".".".".".".F.F.F.".F.W82]
+[DELETED: .A.".()D)D)D.T)T)A."."."."92]
+[DELETED: .A.A.T.M.P.L.M02]

@@ -1,0 +1,1187 @@
+Title: HOUSE BILL NO. 1393
+Official Title: HOUSE BILL NO. 1393
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+25.1073.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative Dockter
+Senator Klein
+1 A BILL for an Act to create and enact a new chapter to title 13 of the North Dakota Century
+2 Code, relating to payday lending organizations; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 13 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 As used in this chapter:
+8 1. " Business entity " means a limited liability company, partnership, or corporation
+9 authorized to engage in business under the laws of this state. The term does not
+10 include a single-member limited liability company.
+11 2. " Commissioner" means the commissioner of financial institutions .
+12 3. " Consumer" means an individual who is a resident of this state and who engages in or
+13 intends to engage in an earned income access transaction.
+14 4. "Control" means:
+15 a. In the case of a business entity:
+16 (1) A direct or indirect ownership;
+17 (2) The right to control twenty-five percent or more of the voting shares of the
+18 business entity; or
+19 (3) The ability of an individual to elect a majority of the directors or otherwise
+20 affect a change in policy of the business entity.
+21 b. In the case of any other entity, the ability to exchange the principals of the
+22 organization, whether active or passive.
+23 5. "Debt collection" means the:
+Page No. 1 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 a. Act of collecting or attempting to collect debts owed or due or asserted to be
+2 owed or due another; and
+3 b. Solicitation of debts for the purpose of collection and accepting assignment of
+4 debts for the purpose of collection.
+5 6. " Earned but unpaid income" means wages or compensation that have been earned or
+6 have accrued to the benefit of a consumer but have not been paid by an obligor to that
+7 consumer for labor or services performed for or on behalf of an obligor.
+8 7. " Earned income access rate cap" means the limit on the amount that may be charged
+9 to or received from a consumer, over which the consumer has no option, for an earned
+10 income access transaction established by the department.
+11 8. "Earned income access transaction" means the payment of earned but unpaid income
+12 to a consumer at a time other than the consumer's regular payday or other regularly
+13 scheduled time on which the obligor pays to the consumer wages or compensation
+14 earned or that have accrued to the benefit of consumer income.
+15 9. "Earned income access provider" or "provider" means a person that:
+16 a. Provides, or offers to provide, on behalf of an obligor earned income access
+17 transactions to consumers earning wages or compensation from the obligor; or
+18 b. Offers earned income access transactions to, or enters earned income
+19 transactions with, consumers.
+20 10. " Exempt organization" means :
+21 a. Any banking organization, foreign banking corporation licensed by the
+22 department to transact business in this state, national bank, federal savings
+23 bank, federal savings and loan association, federal credit union, or any bank,
+24 trust company, savings bank, savings and loan association, or credit union
+25 organized under the laws of this state, another state, or the United States.
+26 b. A service provider, including a payroll service provider, that verifies available
+27 earnings, but is not contractually obligated to pay earned but unpaid income as
+28 part of an earned income access transaction; or
+29 c. An obligor that offers a portion of salary, wages, or compensation directly to its
+30 employees or independent contractors before the normally scheduled pay date.
+Page No. 2 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 11. " Fees" means any amount charged or received by a provider to a consumer for an
+2 earned income access transaction, including amounts paid voluntarily as described in
+3 this chapter.
+4 12. " Licensee " means an earned income access provider licensed by the commissioner .
+5 13. " Nonrecourse" means the unavailability of any legal cause of action or remedy agains t
+6 a consumer relating to an earned income access transaction.
+7 14. "Notice" means communication from the provider to the consumer in a clear and
+8 conspicuous manner.
+9 15. “Obligor" means a person obligated to pay a consumer any sum of money on an
+10 hourly, project-based, piecework, or other basis for labor or services performed by the
+11 consumer for or on behalf of that person. The term does not include a customer of an
+12 obligor or another third party that has an obligation to make any payment to a
+13 consumer based solely on the consumer's agency relationship with the obligor.
+14 16. "Proceeds" means funds received by a consumer under an earned income access
+15 transaction.
+16 License.
+17 1. An individual or business entity, except for an exempt organization as defined in this
+18 chapter, may not engage in the business of providing or offering earned income
+19 access transactions to consumers, or enter an earned income access transaction with
+20 a consumer, without first obtaining a license under this chapter. An individual or
+21 business entity is considered to be engaging in the business of earned wage access
+22 service if the consumer is located in this state.
+23 2. An application for a license under this chapter must be in writing, under oath, and in
+24 the form prescribed by the commissioner .
+25 3. Each applicant shall maintain a tangible net worth of at least twenty-five thousand
+26 dollars or other amount as the commissioner may determine necessary to protect the
+27 public interests.
+28 4. The financial responsibility, financial condition, business experience, character, and
+29 general fitness of the applicant must reasonably warrant the belief that the applicant's
+30 business will be conducted lawfully and fairly. In determining whether this qualification
+31 is met and for the purpose of investigating compliance with this chapter, the
+Page No. 3 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 commissioner may review and consider the relevant business records and the capital
+2 adequacy of the applicant and the competence, experience, integrity, and financial
+3 ability of any person that is a member, partner, director, officer, or twenty - five percen t
+4 or more shareholder of the applicant, and whether the applicant has filed any
+5 appropriate registration with the secretary of state.
+6 5. Each applicant shall establish that neither the individual nor any officer, director, or
+7 proposed employee of the applicant has been convicted of a crime involving
+8 dishonesty, fraud, or breach of trust. A deferred imposition of sentence or federal
+9 pretrial diversion must be considered a conviction for purposes of this section.
+10 6. Each applicant shall maintain a bond issued by a surety company authorized to
+11 conduct business in this state, in the amount of fifty thousand dollars, and the
+12 commissioner may require a larger bond if the commissioner determines the larger
+13 bond is necessary based on the volume of the applicant's business.
+14 7. Each application for a license must include:
+15 a. An application fee as determined by the commissioner;
+16 b. The legal name of the applicant, residence of the applicant, business address of
+17 the applicant, and, if applicable, the address at which earned wage access
+18 service is provided if different from the business address and, if the applicant is a
+19 business entity, the name and address of every member, officer, and director;
+20 c. The location at which the registered office of the applicant is located; and
+21 d. Any other data or information the commissioner may require with respect to the
+22 applicant and the applicant's directors, officers, members, and shareholders.
+23 8. The commissioner may establish relationships or contracts with a nationwide
+24 multistate licensing system and registry or other entities designated by a nationwide
+25 multistate licensing system and registry to collect and maintain records and process
+26 transaction fees or other fees related to licensees or other persons subject to the
+27 chapter. The applicant shall pay directly to the nationwide multistate licensing system
+28 any additional fee relating to participation in the nationwide multistate licensing
+29 system.
+30 9. In connection with an application for licensure as an earned wage access service
+31 provider, or any license renewals, the applicant shall furnish to the nationwide
+Page No. 4 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 multistate licensing system information concerning the applicant's identity, which may
+2 include:
+3 a. Fingerprints for submission to the federal bureau of investigation and any
+4 governmental agency or entity authorized to receive information for a state,
+5 national, and international criminal history background check;
+6 b. Personal history and experience in a form prescribed by the nationwide multistate
+7 licensing system, including the submission of authorization for the nationwide
+8 multistate licensing system and the commissioner to obtain:
+9 (1) An independent credit report obtained from a consumer reporting agency
+10 described in the Fair Credit Reporting Act [15 U.S.C. 1681a]; and
+11 (2) Information related to any administrative, civil, or criminal findings by any
+12 governmental jurisdiction; and
+13 c. Any other documents, information, or evidence the commissioner deems
+14 necessary.
+15 10. The commissioner may use the nationwide multistate licensing system and registry as
+16 a channeling agent for requesting information from and distributing information to the
+17 department of justice or any governmental agency or to any other source.
+18 11. Upon receipt of a completed application, the commissioner shall determine whether
+19 the qualifications prescribed under this chapter are satisfied. The commissioner may
+20 refuse to issue the license if the commissioner finds the financial responsibility,
+21 experience, character, or general fitness of the applicant or any person associated
+22 with the applicant are insufficient to warrant the belief the business will be conducted
+23 honestly, fairly, and efficiently. If the commissioner determines the qualifications are
+24 satisfied and approves the documents, the commissioner shall issue a license to
+25 engage in the earned wage access service business.
+26 Denial of license - Hearing - Notification of change in status .
+27 1. If the commissioner determines an applicant is not qualified to receive a license, the
+28 commissioner shall notify the applicant, in writing, stating the application is denied and
+29 stating the basis for denial. If the commissioner denies an application, the applicant
+30 may request a hearing in accordance with chapter 28 - 32 before the commissioner on
+31 the question of whether the license should be granted. The hearing must be scheduled
+Page No. 5 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 within thirty days after receipt of the request. At the hearing, the commissioner shall
+2 reconsider the application and issue a written order granting or denying the
+3 application. If an applicant requests a hearing and the commissioner's denial is
+4 upheld, the commissioner may assess the reasonable ou t - of-pocket costs incurred for
+5 the hearing to the applicant.
+6 2. Within fifteen days of the occurrence of any of the following events, a licensee shall file
+7 a written report with the commissioner describing the event and the event's expected
+8 impact on the activities of the licensee:
+9 a. The filing for bankruptcy or reorganization by the licensee.
+10 b. The institution of revocation or suspension proceedings against the licensee by
+11 any governmental authority.
+12 c. The filing of any criminal charges involving dishonesty, fraud, or breach of trust of
+13 the licensee or any of the licensee's members, directors, officers, or
+14 shareholders.
+15 d. Any other event the commissioner identifies by rule.
+16 License renewal.
+17 A license may be renewed upon application, continued qualification for licensure as
+18 required in this chapter, and the payment to the commissioner of the annual license fee, which
+19 is not subject to refund, before December first of each year. A renewal application may be
+20 denied upon the same grounds as would justify denial of an initial application for licensure.
+21 When a licensee has been delinquent in renewing the licensee's license, the department may
+22 charge an additional fee of fifty dollars for the renewal of the license.
+23 Records.
+24 1. Each licensee shall keep and use in the licensee's business any books, accounts, and
+25 records the commissioner may require. A licensee shall preserve required books,
+26 accounts, and records for at least six years. The records of a licensee may be
+27 maintained electronically if the records can be reproduced upon request by the
+28 commissioner and within the time required under this section. When a licensee ceases
+29 operations for any reason, the licensee shall inform the commissioner of the location
+30 of the records. In addition, the licensee shall provide the name of the individual
+31 responsible for maintenance of the records. The licensee shall notify the commissioner
+Page No. 6 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 within ten business days of the change of the location of the records or the change of
+2 the individual responsible for maintenance of the records.
+3 2. An applicant, licensee, or other person subject to this chapter shall comply with any
+4 request for information, documents, or other records from the commissioner within the
+5 time specified in the request, which must be a minimum of ten days, or, if no time is
+6 specified, within thirty days of receipt of the request by the commissione r . If the
+7 request for information is related to a new application or renewal of an existing
+8 application and is not received by the commissioner within the time specified in the
+9 request, or within thirty days of receip t of the request, the commissioner may deny the
+10 application.
+11 Suspension, nonrenewal, or revocation of license.
+12 1. The commissioner may issue and serve upon any licensee an order suspending or
+13 revoking a license if the commissioner finds the licensee has been convicted of a
+14 felony or any crime involving dishonesty, fraud, or breach of trust, or the licensee
+15 knowingly or through lack of reasonable care:
+16 a. Failed to pay the annual license fee imposed under this chapter or any
+17 examination fee imposed by the commissioner;
+18 b. Committed any fraud, engaged in any dishonest activities, or made any
+19 misrepresentations;
+20 c. Violated this chapter or any rule adopted by the commissioner under this chapter
+21 or violated any other law in the course of the licensee's business activities as a
+22 licensee;
+23 d. Made false statements in the application for the license;
+24 e. Engaged in any unfair or deceptive acts, practices, or advertising in the conduct
+25 of an earned wage access business;
+26 f. Failed to fully cooperate with an examination or investigation authorized by the
+27 commissioner;
+28 g. Continued to allow any current or former officer, director, or employee to provide
+29 earned income access services or participate in any earned income service
+30 transaction after the officer, director, or employee has been suspended or
+31 removed by an order issued by the commissioner;
+Page No. 7 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 h. Failed to maintain the required bond;
+2 i. Failed to maintain any required registration with the secretary of state; or
+3 j. No longer meets the requirements for licensure under this chapter.
+4 2. An order issued by the commissioner under this section must contain a notice of
+5 opportunity for hearing under chapter 28 - 32 .
+6 3. If a hearing is not requested within twenty business days of the date of service upon
+7 the licensee, the order becomes final.
+8 Temporary suspension - Appeal.
+9 1. If the commissioner determines probable cause exists for the suspension or
+10 revocation of a license, that enforcement of this chapter requires immediate
+11 suspension of the license pending investigation, or that probable cause exists to
+12 indicate the continued operation of a licensee ' s business may create a significant risk
+13 of serious and ongoing harm to the public while a disciplinary action is pending, the
+14 commissioner may, upon written notice to the licensee, issue an ex parte order
+15 suspending the license.
+16 2. An ex parte order remains in effect until a final order is issued after a full hearing and
+17 appeal is conducted in accordance with chapter 28 - 32 or until the suspension is
+18 otherwise terminated by the commissioner. If a hearing is not requested within twenty
+19 business days of the date of service of the order upon the licensee, the order becomes
+20 final.
+21 3. The commissioner shall conduct a full hearing on the merits of the evidence
+22 warranting immediate suspension to determine if disciplinary action must be taken
+23 against the licensee.
+24 4. The licensee may appeal the ex parte temporary suspension order before a full
+25 hearing is conducted. For purposes of appeal, the district court shall decide whether
+26 the commissioner acted reasonably or arbitrarily. The court shall give priority to the
+27 appeal for prompt disposition.
+Page No. 8 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 Suspension and removal of earned wage access service provider officers and
+2 employees.
+3 1. The commissioner may issue and serve upon any current or former officer, director, or
+4 employee of a licensed business entity, and upon the licensee involved, an order
+5 stating:
+6 a. That the current or former officer, director, or employee is willfully engaging or
+7 has willfully engaged in any of the following conduct:
+8 (1) Violation of a law, rule, order, or written agreement with the commissioner;
+9 (2) Harassment or abuse, false or misleading representations to the
+10 commissioner, or unfair practices; or
+11 (3) An act of commission or omission or practice which constitutes breach o f
+12 trust or a breach of fiduciary duty.
+13 b. The term of suspension or removal from employment and participation within the
+14 conduct or the affairs of an earned wage access service provider.
+15 2. An order issued by the commissioner under this section must contain a notice of
+16 opportunity for hearing under chapter 28 - 32. The order becomes effective immediately
+17 upon service on the officer, director, or employee, and remains in effect pending the
+18 outcome of a hearing held in accordance with chapter 28 - 32 .
+19 3. If a hearing is not requested within twenty business days of the date the order is
+20 served, the order becomes final and the officer, director, or employee must be
+21 removed from any further participation in the affairs of, or employment with, the
+22 licensee.
+23 4. A contested or default suspension or removal order is effective immediately upon
+24 service of the final order on the current or former officer or employee and upon the
+25 licensee. A consent order is effective as agreed upon in the order. Any current or
+26 former officer or employee suspended or removed from employment and participation
+27 within the conduct or the affairs of a licensee under this section is not eligible, while
+28 under suspension or removal, to be employed or otherwise participate in the affairs of
+29 any financial corporation, financial institution, credit union, or any other entity licensed
+30 by the department of financial institutions.
+Page No. 9 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 5. When a current or former officer or employee or other person participating in the
+2 conduct of the affairs of a licensee is charged with a felony in state or federal court
+3 which involves dishonesty, fraud, or breach of trust, the commissioner may
+4 immediately suspend the individual from office or prohibit the individual from further
+5 participation in the earned wage access service provider affairs, or both. The order is
+6 effective immediately upon service of the order on the licensee and the individual
+7 charged and remains in effect until the criminal charge is finally disposed of or until
+8 modified by the commissioner. If a judgment of conviction, federal pretrial diversion, or
+9 similar state order or judgment is entered, the commissioner may order the
+10 suspension or prohibition be made permanent. A finding of not guilty or other
+11 disposition of the charge does not preclude the commissioner from pursuing
+12 administrative or civil remedies.
+13 6. The commissioner may deny an application to renew a license if the licensee no
+14 longer meets the criteria for licensure or otherwise fails to comply with this chapter.
+15 Violations - Cease and desist orders - Penalties.
+16 Except as otherwise provided in this chapter, any person that willfully provides earned wage
+17 access services without a license is guilty of a class C felony and any person that violates any
+18 other provision of this chapter or any rule adopted under this chapter is guilty of an infraction. If
+19 the commissioner finds, whether without a hearing or after a hearing if a hearing is requested
+20 within twenty days of notice of an action by the commissioner, a person violated this chapter or
+21 any rule adopted under chapter, the commissioner may:
+22 1. Order the person to cease and desist violating this chapter or the rule;
+23 2. Require the refund of any fees collected by the person in violation of this chapter; or
+24 3. Impose a civil penalty not to exceed one hundred thousand dollars per violation upon
+25 a person that willfully violates a law, rule, written agreement, or order under this
+26 chapter. An interested party may appeal the assessment of a civil money penalty
+27 under chapter 28 - 32 by filing a written notice of appeal within twenty days after service
+28 of the assessment of civil money penalties. A civil money penalty collected under this
+29 section must be paid to the state treasurer and deposited in the financial institutions
+30 regulatory fund.
+Page No. 10 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 Investigations and examinations.
+2 1. A licensee shall pay an examination or visitation fee, and the commissioner shall
+3 charge the licensee for the actual cost of the examination or visitation at an hourly rate
+4 set by the commissioner which is sufficient to cover all reasonable expenses
+5 associated with the examination or visitation.
+6 2. a. Except as otherwise provided in Public Law 110-289, section 1512, the
+7 requirements under any federal law, chapter 44 - 04, or section 6 - 01 - 07.1 ,
+8 regarding the privacy or confidentiality of any information or material provided to
+9 the nationwide multistate licensing system and registry, and any privilege arising
+10 under federal or state law, including the rules of any federal or state court, with
+11 respect to the information or material, continue to apply to the information or
+12 material after the information or material has been disclosed to the nationwide
+13 multistate licensing system and registry. Any information and material may be
+14 shared with all state and federal regulatory officials with mortgage industry
+15 oversight authority without the loss of privilege or the loss of confidentiality
+16 protections provided by federal law, chapter 44 - 04, or section 6 - 01 - 07.1 .
+17 b. The commissioner may enter agreements or sharing arrangements with other
+18 governmental agencies, the conference of state bank supervisors, the American
+19 association of residential mortgage regulators, or other associations representing
+20 governmental agencies.
+21 c. Information or material subject to a privilege or confidentiality under this section is
+22 not subject to:
+23 (1) Disclosure under any federal or state law governing the disclosure to the
+24 public of information held by an officer or an agency of the federal
+25 government or the respective state; or
+26 (2) Subpoena or discovery, or admission into evidence, in any administrative
+27 process, unless with respect to any privilege held by the nationwide
+28 multistate licensing system and registry with respect to the information or
+29 material, the person to which the information or material pertains waives, in
+30 whole or in part, in the discretion of the person, that privilege.
+Page No. 11 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 d. The commissioner shall take all necessary steps, under any applicable law or
+2 rule, to protect the disclosure of information or material subject to a privilege or
+3 confidentiality under this section. Records subject to a privilege or confidentiality
+4 may be required to be disclosed only pursuant to an order of the court. The court
+5 ordering the disclosure shall issue a protective order to protect the confidential
+6 nature of the records.
+7 Documentation of earned wage access transaction and notification to consumer.
+8 1. Each earned wage access transaction must be documented by a written or electronic
+9 agreement signed or similarly authenticated by the consumer. The original agreement
+10 must contain:
+11 a. The name of the licensee.
+12 b. The transaction date.
+13 c. The amount of the obligation.
+14 d. A statement of the total amount of fees charged, expressed as a dollar amount.
+15 e. The name and signature of the individual who signs the agreement on behalf of
+16 the licensee.
+17 f. The transaction number assigned by the database.
+18 g. A statement that indicates the maximum term of the transaction may not exceed
+19 fourteen calendar days.
+20 2. The earned wage access service agreement must include in no less than ten-point
+21 font, the following notification: State law prohibits this business from allowing
+22 consumers to have earned wage access totaling more than one thousand dollars
+23 outstanding at any time.
+24 3. Before distributing funds as part of an earned wage access transaction, a licensee
+25 shall provide to the consumer a clear and conspicuous notice which indicates:
+26 a. An earned wage access service transaction is not intended to meet long-term
+27 financial needs.
+28 b. The customer should use an earned wage access service transaction only to
+29 meet short-term cash needs.
+30 c. The schedule of fees charged for each earned wage access transaction.
+31 d. Any additional information required under federal law.
+Page No. 12 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 4. This section does not apply to earned wage access transactions in which the fees or
+2 charges are paid by the consumer's employer, or for earned wage access transactions
+3 with fees and charges which total less than an effective annual percentage rate of less
+4 than thirty - six percent .
+5 5. A licensee may charge any fees for the earned wage access service, not to exceed
+6 ten percent of the amount paid to the consumer by the licensee. A fee may not be
+7 deemed interest for any purpose of law. No other fee or charge may be charged for
+8 the earned wage access service, except that a fee, not to exceed the cost to the
+9 licensee, may be charged for registering a transaction on a database administered or
+10 authorized by the commissioner. No fee, including the fee for registering a transaction
+11 on a database, may be charged when the consumer elects the no-cost option.
+12 6. A licensee may not disburse more than a total of one thousand dollars to a consumer
+13 across earned wage access service transactions. If disbursing an additional amount
+14 would result in the consumer having more than one thousand dollars outstanding
+15 across all licensees, the licensee may disburse only an amount that brings the total to
+16 one thousand dollars.
+17 7. A licensee may not engage in an earned wage access service transaction with a
+18 consumer who has an aggregate value of all outstanding obligations from any one
+19 consumer exceeding one thousand dollars which is payable to the same or any other
+20 licensee. A licensee may not enter a new earned wage access service transaction with
+21 a consumer within three business days of that consumer's completion of a previous
+22 earned wage access service transaction. A licensee may rely on a written or electronic
+23 representation of a consumer regarding the existence of any outstanding obligations
+24 for earned wage access transactions held by a licensee other than the licensee
+25 receiving the representation until the database provided for under subsection 8 is
+26 operational, and after that time may not rely on a consumer's representation but must
+27 verify the fact using the database.
+28 8. The commissioner shall administer or authorize the development of a database in
+29 which each transaction must be recorded for the purpose of preventing violations of
+30 this section. The commissioner shall adopt rules governing the creation, structure, and
+31 use of the database.
+Page No. 13 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 9. An earned wage access provider may rely on the information contained in the
+2 database as accurate and is not subject to any administrative penalty or civil liability
+3 due to relying on inaccurate information contained in the database.
+4 10. A consumer agreeing to an electronic earned wage access service transaction may
+5 repay the obligation at any time before the agreed-upon date. A consumer may
+6 rescind, at no cost, any transaction by the close of the business day following the day
+7 on which the consumer receives payment from the licensee. If a consumer agreeing to
+8 an electronic earned wage access service transaction rescinds the transaction, the
+9 licensee must facilitate the repayment of the funds through the same electronic means
+10 the licensee used to deliver the funds to the customer.
+11 11. If an electronic debit is returned to the licensee from a payer financial institution due to
+12 insufficient funds, closed account, or a stop payment order, the licensee may seek civil
+13 remedies available to collect the obligation.
+14 12. A consumer who has authority to authorize an electronic debit and enters an earned
+15 wage access service agreement is not subject to a criminal penalty relating to the
+16 electronic debit or the earned wage access service agreement unless the consumer's
+17 account was closed on the original date of the transaction. A licensee may not pursue
+18 or threaten to pursue criminal penalties against a consumer for criminal penalties
+19 prohibited by this subsection.
+20 13. A licensee may not engage in unfair or deceptive acts, practices, or advertising in the
+21 conduct of an earned wage access service business.
+22 14. The amount paid to the consumer by the licensee in an earned wage access service
+23 transaction must be paid in the form of electronic credit to the customer's account.
+24 15. A licensee may enter a workout agreement with the consumer if the consumer
+25 believes financial hardship prevents the consumer from paying off the earned wage
+26 access service transaction at the end of the original agreement. The workout
+27 agreement must outline the repayment terms in writing and must require weekly,
+28 biweekly, or monthly even installments not to exceed twelve months. An additional
+29 interest or fee may not be charged as part of this workout and the earned wage
+30 access service provider shall continue to report the transaction as an outstanding
+31 earned wage access service transaction on the database administered by the
+Page No. 14 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 commissioner. Entering a workout agreement is voluntary on the part of the earned
+2 wage access service provider and the consumer.
+3 16. A licensee may not renew, repay, refinance, or consolidate an earned wage access
+4 service transaction with the proceeds of another earned wage access service
+5 transaction with that licensee by the consumer. It is presumed that an earned wage
+6 access service transaction initiated within three business days before completion of an
+7 earned wage access service transaction is a violation of this subsection.
+8 17. A licensee or any agent of a licensee that willfully violates this section is guilty of a
+9 class A misdemeanor .
+10 18. If an earned income access provider takes custody of a consumer's earned but unpaid
+11 income before paying proceeds to the consumer, the provider shall ensure the
+12 proceeds are fully insured by the federal deposit insurance corporation at the
+13 consumer's individual account level. At least quarterly, a provider shall deliver written
+14 notice to each consumer to whom it has paid proceeds in that quarter an itemization of
+15 transactions and costs, the total amount the consumer has paid in fees, information on
+16 how to report complaints to the provider and to the commissione r , definitions of terms
+17 used in the notice, and an explanation of the costs of the services provided.
+18 19. It is a violation of this chapter to conduct an earned income access transaction unless:
+19 a. The transaction is nonrecourse;
+20 b. The provider does not engage in debt collection activity or retain the services of
+21 another to engage in debt collection activity in connection with the earned income
+22 access transaction and does not convey the debt itself;
+23 c. If repayment is to be made through a debit of a consumer's account, the debit is
+24 made in accordance with rules established by the commissioner ;
+25 d. The provider charges or receives a fee for the earned income access transaction
+26 that does not exceed the earned income access rate cap or charges or receives
+27 no fee for a transaction;
+28 e. No portion of the earned but unpaid income to be paid as part of the earned
+29 income access transaction is used before receipt by the consumer to settle or
+30 pay down an obligation arising from a prior earned income access transaction;
+Page No. 15 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 and no proceeds roll over or are structured in any way to create any continuing
+2 obligation to the provider on the part of a consumer;
+3 f. The provider offers the consumer at least one reasonable option to obtain
+4 proceeds at no cost to the consumer and clearly explains how to elect a no-cost
+5 option;
+6 g. The consumer receives the proceeds no less than three business days after a
+7 consumer's request for no-fee procession, no less than one business day after a
+8 consumer's request for processing subject to a fee, and no less than one
+9 business day before the next regularly scheduled date on which the obligor is
+10 scheduled to pay earned wages or income to the consumer;
+11 h. Before a consumer enters the earned income access transaction, the provider
+12 gives the consumer written notice, of all fees associated with the earned income
+13 access transaction and the full potential cost of the transaction, including the cost
+14 expressed as an annual percentage rate;
+15 i. If the provider offers consumers the opportunity to pay an additional amount for
+16 an earned income access transaction voluntarily, including a tip or donation:
+17 (1) The provider gives notice to the consumer in writing that paying an
+18 additional amount is not required for the consumer to receive the proceeds;
+19 and
+20 (2) The provider offers zero dollars among any amounts suggested to the
+21 consumer by, for example, offering amount options from which the
+22 consumer may select or pre-filling an amount in any form used in the
+23 transaction process, or otherwise using a transaction process designed to
+24 require the consumer to take affirmative action to avoid or op t - out of paying
+25 an additional amount;
+26 j. The provider does not charge a late fee or prepayment penalty on the earned
+27 income access transaction;
+28 k. The provider does not pull a credit report or otherwise assess credit risk of the
+29 consumer prior to, during, or after the earned income access transaction except
+30 that the provider may verify the consumer's source of income as part of
+31 determining the amount of the proceeds;
+Page No. 16 25.1073.01000
+Sixty-ninth
+Legislative Assembly
+1 l. The provider does not report on the earned income access transaction to a
+2 consumer reporting agency prior to, during, or after the transaction;
+3 m. The provider does not require a consumer to waive the right to class action to
+4 engage in an earned income access transaction;
+5 n. The provider gives a consumer written notice of any amendment to the contract
+6 or terms of service for earned income access transactions, and the consumer
+7 agrees to the amendments before proceeding with an earned income access
+8 transaction to which the amendments would apply;
+9 o. If the provider charges a subscription or membership fee it is optional and must
+10 be for a bona fide group of services that include earned income access
+11 transactions; and
+12 p. The consumer is eighteen years of age or older.
+13 20. Transactions made in accordance with this section may not be subject to usury laws.
+14 Advertising.
+15 1. An advertisement for an earned income access transaction service may not be
+16 misleading or otherwise deceptive.
+17 2. An advertisement for earned income access transaction service shall clearly and
+18 accurately disclose the costs of the service to consumers.
+19 3. The commissioner may adopt rules governing advertising of earned income
+20 transaction services consistent with the purposes of this section.
+21 Regulations and rulings.
+22 The commissioner is authorized and empowered to make rules and regulations, conduc t
+23 hearings and make specific rulings, orders, demands and findings as may be necessary for the
+24 proper conduct of the business authorized and licensed under and for the enforcement of this
+25 chapter.
+Page No. 17 25.1073.01000
+[DELETED: . . . .".I)A)T)T.I."12]
+[DELETED: .A.S. . .".".P.O. .A.A.A22]
+[DELETED: . . . .".“.".A.A.E.T32]
+[DELETED: .E.E.E.A.T.T.A.T.I42]
+[DELETED: .F.P)A)I.A.T. .I52]
+[DELETED: .W.T.T.T.A.E62]
+[DELETED: .A.T.F.C. .M.E.F.C72]
+[DELETED: .F.F.N.A.I.I.A.T.T82]
+[DELETED: . .T)V)H) .T.A.I.A92]
+[DELETED: .W.T.O.R.I02]
+[DELETED: .A.a.E.T.I)D)S12]
+[DELETED: .T.E.T.T.T.A.T.T.A.T.B.A.T.T.A22]
+[DELETED: .T.A.A.A.T32]
+[DELETED: .A.A.I.A.A.T.A42]
+[DELETED: .A.A.I.I.T.T.I.T.N52]
+[DELETED: .T.T.B.I)T)T.T.T62]
+[DELETED: .T.T.T.I.T.T.A.A. 72]
+
+
+================================================================================
+
+Raw Text:
+25.1073.01000
+Sixty-ninth
+HOUSE BILL NO. 1393
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative Dockter
+Senator Klein
+1 A BILL for an Act to create and enact a new chapter to title 13 of the North Dakota Century
+2 Code, relating to payday lending organizations; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 13 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 As used in this chapter:
+8 1. " Business entity " means a limited liability company, partnership, or corporation
+9 authorized to engage in business under the laws of this state. The term does not
+10 include a single-member limited liability company.
+11 2. " Commissioner" means the commissioner of financial institutions .
+12 3. " Consumer" means an individual who is a resident of this state and who engages in or
+13 intends to engage in an earned income access transaction.
+14 4. "Control" means:
+15 a. In the case of a business entity:
+16 (1) A direct or indirect ownership;
+17 (2) The right to control twenty-five percent or more of the voting shares of the
+18 business entity; or
+19 (3) The ability of an individual to elect a majority of the directors or otherwise
+20 affect a change in policy of the business entity.
+21 b. In the case of any other entity, the ability to exchange the principals of the
+22 organization, whether active or passive.
+23 5. "Debt collection" means the:
+Page No. 1 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Act of collecting or attempting to collect debts owed or due or asserted to be
+2 owed or due another; and
+3 b. Solicitation of debts for the purpose of collection and accepting assignment of
+4 debts for the purpose of collection.
+5 6. " Earned but unpaid income" means wages or compensation that have been earned or
+6 have accrued to the benefit of a consumer but have not been paid by an obligor to that
+7 consumer for labor or services performed for or on behalf of an obligor.
+8 7. " Earned income access rate cap" means the limit on the amount that may be charged
+9 to or received from a consumer, over which the consumer has no option, for an earned
+10 income access transaction established by the department.
+11 8. "Earned income access transaction" means the payment of earned but unpaid income
+12 to a consumer at a time other than the consumer's regular payday or other regularly
+13 scheduled time on which the obligor pays to the consumer wages or compensation
+14 earned or that have accrued to the benefit of consumer income.
+15 9. "Earned income access provider" or "provider" means a person that:
+16 a. Provides, or offers to provide, on behalf of an obligor earned income access
+17 transactions to consumers earning wages or compensation from the obligor; or
+18 b. Offers earned income access transactions to, or enters earned income
+19 transactions with, consumers.
+20 10. " Exempt organization" means :
+21 a. Any banking organization, foreign banking corporation licensed by the
+22 department to transact business in this state, national bank, federal savings
+23 bank, federal savings and loan association, federal credit union, or any bank,
+24 trust company, savings bank, savings and loan association, or credit union
+25 organized under the laws of this state, another state, or the United States.
+26 b. A service provider, including a payroll service provider, that verifies available
+27 earnings, but is not contractually obligated to pay earned but unpaid income as
+28 part of an earned income access transaction; or
+29 c. An obligor that offers a portion of salary, wages, or compensation directly to its
+30 employees or independent contractors before the normally scheduled pay date.
+Page No. 2 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 11. " Fees" means any amount charged or received by a provider to a consumer for an
+2 earned income access transaction, including amounts paid voluntarily as described in
+3 this chapter.
+4 12. " Licensee " means an earned income access provider licensed by the commissioner .
+5 13. " Nonrecourse" means the unavailability of any legal cause of action or remedy agains t
+6 a consumer relating to an earned income access transaction.
+7 14. "Notice" means communication from the provider to the consumer in a clear and
+8 conspicuous manner.
+9 15. “Obligor" means a person obligated to pay a consumer any sum of money on an
+10 hourly, project-based, piecework, or other basis for labor or services performed by the
+11 consumer for or on behalf of that person. The term does not include a customer of an
+12 obligor or another third party that has an obligation to make any payment to a
+13 consumer based solely on the consumer's agency relationship with the obligor.
+14 16. "Proceeds" means funds received by a consumer under an earned income access
+15 transaction.
+16 License.
+17 1. An individual or business entity, except for an exempt organization as defined in this
+18 chapter, may not engage in the business of providing or offering earned income
+19 access transactions to consumers, or enter an earned income access transaction with
+20 a consumer, without first obtaining a license under this chapter. An individual or
+21 business entity is considered to be engaging in the business of earned wage access
+22 service if the consumer is located in this state.
+23 2. An application for a license under this chapter must be in writing, under oath, and in
+24 the form prescribed by the commissioner .
+25 3. Each applicant shall maintain a tangible net worth of at least twenty-five thousand
+26 dollars or other amount as the commissioner may determine necessary to protect the
+27 public interests.
+28 4. The financial responsibility, financial condition, business experience, character, and
+29 general fitness of the applicant must reasonably warrant the belief that the applicant's
+30 business will be conducted lawfully and fairly. In determining whether this qualification
+31 is met and for the purpose of investigating compliance with this chapter, the
+Page No. 3 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 commissioner may review and consider the relevant business records and the capital
+2 adequacy of the applicant and the competence, experience, integrity, and financial
+3 ability of any person that is a member, partner, director, officer, or twenty - five percen t
+4 or more shareholder of the applicant, and whether the applicant has filed any
+5 appropriate registration with the secretary of state.
+6 5. Each applicant shall establish that neither the individual nor any officer, director, or
+7 proposed employee of the applicant has been convicted of a crime involving
+8 dishonesty, fraud, or breach of trust. A deferred imposition of sentence or federal
+9 pretrial diversion must be considered a conviction for purposes of this section.
+10 6. Each applicant shall maintain a bond issued by a surety company authorized to
+11 conduct business in this state, in the amount of fifty thousand dollars, and the
+12 commissioner may require a larger bond if the commissioner determines the larger
+13 bond is necessary based on the volume of the applicant's business.
+14 7. Each application for a license must include:
+15 a. An application fee as determined by the commissioner;
+16 b. The legal name of the applicant, residence of the applicant, business address of
+17 the applicant, and, if applicable, the address at which earned wage access
+18 service is provided if different from the business address and, if the applicant is a
+19 business entity, the name and address of every member, officer, and director;
+20 c. The location at which the registered office of the applicant is located; and
+21 d. Any other data or information the commissioner may require with respect to the
+22 applicant and the applicant's directors, officers, members, and shareholders.
+23 8. The commissioner may establish relationships or contracts with a nationwide
+24 multistate licensing system and registry or other entities designated by a nationwide
+25 multistate licensing system and registry to collect and maintain records and process
+26 transaction fees or other fees related to licensees or other persons subject to the
+27 chapter. The applicant shall pay directly to the nationwide multistate licensing system
+28 any additional fee relating to participation in the nationwide multistate licensing
+29 system.
+30 9. In connection with an application for licensure as an earned wage access service
+31 provider, or any license renewals, the applicant shall furnish to the nationwide
+Page No. 4 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 multistate licensing system information concerning the applicant's identity, which may
+2 include:
+3 a. Fingerprints for submission to the federal bureau of investigation and any
+4 governmental agency or entity authorized to receive information for a state,
+5 national, and international criminal history background check;
+6 b. Personal history and experience in a form prescribed by the nationwide multistate
+7 licensing system, including the submission of authorization for the nationwide
+8 multistate licensing system and the commissioner to obtain:
+9 (1) An independent credit report obtained from a consumer reporting agency
+10 described in the Fair Credit Reporting Act [15 U.S.C. 1681a]; and
+11 (2) Information related to any administrative, civil, or criminal findings by any
+12 governmental jurisdiction; and
+13 c. Any other documents, information, or evidence the commissioner deems
+14 necessary.
+15 10. The commissioner may use the nationwide multistate licensing system and registry as
+16 a channeling agent for requesting information from and distributing information to the
+17 department of justice or any governmental agency or to any other source.
+18 11. Upon receipt of a completed application, the commissioner shall determine whether
+19 the qualifications prescribed under this chapter are satisfied. The commissioner may
+20 refuse to issue the license if the commissioner finds the financial responsibility,
+21 experience, character, or general fitness of the applicant or any person associated
+22 with the applicant are insufficient to warrant the belief the business will be conducted
+23 honestly, fairly, and efficiently. If the commissioner determines the qualifications are
+24 satisfied and approves the documents, the commissioner shall issue a license to
+25 engage in the earned wage access service business.
+26 Denial of license - Hearing - Notification of change in status .
+27 1. If the commissioner determines an applicant is not qualified to receive a license, the
+28 commissioner shall notify the applicant, in writing, stating the application is denied and
+29 stating the basis for denial. If the commissioner denies an application, the applicant
+30 may request a hearing in accordance with chapter 28 - 32 before the commissioner on
+31 the question of whether the license should be granted. The hearing must be scheduled
+Page No. 5 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 within thirty days after receipt of the request. At the hearing, the commissioner shall
+2 reconsider the application and issue a written order granting or denying the
+3 application. If an applicant requests a hearing and the commissioner's denial is
+4 upheld, the commissioner may assess the reasonable ou t - of-pocket costs incurred for
+5 the hearing to the applicant.
+6 2. Within fifteen days of the occurrence of any of the following events, a licensee shall file
+7 a written report with the commissioner describing the event and the event's expected
+8 impact on the activities of the licensee:
+9 a. The filing for bankruptcy or reorganization by the licensee.
+10 b. The institution of revocation or suspension proceedings against the licensee by
+11 any governmental authority.
+12 c. The filing of any criminal charges involving dishonesty, fraud, or breach of trust of
+13 the licensee or any of the licensee's members, directors, officers, or
+14 shareholders.
+15 d. Any other event the commissioner identifies by rule.
+16 License renewal.
+17 A license may be renewed upon application, continued qualification for licensure as
+18 required in this chapter, and the payment to the commissioner of the annual license fee, which
+19 is not subject to refund, before December first of each year. A renewal application may be
+20 denied upon the same grounds as would justify denial of an initial application for licensure.
+21 When a licensee has been delinquent in renewing the licensee's license, the department may
+22 charge an additional fee of fifty dollars for the renewal of the license.
+23 Records.
+24 1. Each licensee shall keep and use in the licensee's business any books, accounts, and
+25 records the commissioner may require. A licensee shall preserve required books,
+26 accounts, and records for at least six years. The records of a licensee may be
+27 maintained electronically if the records can be reproduced upon request by the
+28 commissioner and within the time required under this section. When a licensee ceases
+29 operations for any reason, the licensee shall inform the commissioner of the location
+30 of the records. In addition, the licensee shall provide the name of the individual
+31 responsible for maintenance of the records. The licensee shall notify the commissioner
+Page No. 6 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 within ten business days of the change of the location of the records or the change of
+2 the individual responsible for maintenance of the records.
+3 2. An applicant, licensee, or other person subject to this chapter shall comply with any
+4 request for information, documents, or other records from the commissioner within the
+5 time specified in the request, which must be a minimum of ten days, or, if no time is
+6 specified, within thirty days of receipt of the request by the commissione r . If the
+7 request for information is related to a new application or renewal of an existing
+8 application and is not received by the commissioner within the time specified in the
+9 request, or within thirty days of receip t of the request, the commissioner may deny the
+10 application.
+11 Suspension, nonrenewal, or revocation of license.
+12 1. The commissioner may issue and serve upon any licensee an order suspending or
+13 revoking a license if the commissioner finds the licensee has been convicted of a
+14 felony or any crime involving dishonesty, fraud, or breach of trust, or the licensee
+15 knowingly or through lack of reasonable care:
+16 a. Failed to pay the annual license fee imposed under this chapter or any
+17 examination fee imposed by the commissioner;
+18 b. Committed any fraud, engaged in any dishonest activities, or made any
+19 misrepresentations;
+20 c. Violated this chapter or any rule adopted by the commissioner under this chapter
+21 or violated any other law in the course of the licensee's business activities as a
+22 licensee;
+23 d. Made false statements in the application for the license;
+24 e. Engaged in any unfair or deceptive acts, practices, or advertising in the conduct
+25 of an earned wage access business;
+26 f. Failed to fully cooperate with an examination or investigation authorized by the
+27 commissioner;
+28 g. Continued to allow any current or former officer, director, or employee to provide
+29 earned income access services or participate in any earned income service
+30 transaction after the officer, director, or employee has been suspended or
+31 removed by an order issued by the commissioner;
+Page No. 7 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 h. Failed to maintain the required bond;
+2 i. Failed to maintain any required registration with the secretary of state; or
+3 j. No longer meets the requirements for licensure under this chapter.
+4 2. An order issued by the commissioner under this section must contain a notice of
+5 opportunity for hearing under chapter 28 - 32 .
+6 3. If a hearing is not requested within twenty business days of the date of service upon
+7 the licensee, the order becomes final.
+8 Temporary suspension - Appeal.
+9 1. If the commissioner determines probable cause exists for the suspension or
+10 revocation of a license, that enforcement of this chapter requires immediate
+11 suspension of the license pending investigation, or that probable cause exists to
+12 indicate the continued operation of a licensee ' s business may create a significant risk
+13 of serious and ongoing harm to the public while a disciplinary action is pending, the
+14 commissioner may, upon written notice to the licensee, issue an ex parte order
+15 suspending the license.
+16 2. An ex parte order remains in effect until a final order is issued after a full hearing and
+17 appeal is conducted in accordance with chapter 28 - 32 or until the suspension is
+18 otherwise terminated by the commissioner. If a hearing is not requested within twenty
+19 business days of the date of service of the order upon the licensee, the order becomes
+20 final.
+21 3. The commissioner shall conduct a full hearing on the merits of the evidence
+22 warranting immediate suspension to determine if disciplinary action must be taken
+23 against the licensee.
+24 4. The licensee may appeal the ex parte temporary suspension order before a full
+25 hearing is conducted. For purposes of appeal, the district court shall decide whether
+26 the commissioner acted reasonably or arbitrarily. The court shall give priority to the
+27 appeal for prompt disposition.
+Page No. 8 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Suspension and removal of earned wage access service provider officers and
+2 employees.
+3 1. The commissioner may issue and serve upon any current or former officer, director, or
+4 employee of a licensed business entity, and upon the licensee involved, an order
+5 stating:
+6 a. That the current or former officer, director, or employee is willfully engaging or
+7 has willfully engaged in any of the following conduct:
+8 (1) Violation of a law, rule, order, or written agreement with the commissioner;
+9 (2) Harassment or abuse, false or misleading representations to the
+10 commissioner, or unfair practices; or
+11 (3) An act of commission or omission or practice which constitutes breach o f
+12 trust or a breach of fiduciary duty.
+13 b. The term of suspension or removal from employment and participation within the
+14 conduct or the affairs of an earned wage access service provider.
+15 2. An order issued by the commissioner under this section must contain a notice of
+16 opportunity for hearing under chapter 28 - 32. The order becomes effective immediately
+17 upon service on the officer, director, or employee, and remains in effect pending the
+18 outcome of a hearing held in accordance with chapter 28 - 32 .
+19 3. If a hearing is not requested within twenty business days of the date the order is
+20 served, the order becomes final and the officer, director, or employee must be
+21 removed from any further participation in the affairs of, or employment with, the
+22 licensee.
+23 4. A contested or default suspension or removal order is effective immediately upon
+24 service of the final order on the current or former officer or employee and upon the
+25 licensee. A consent order is effective as agreed upon in the order. Any current or
+26 former officer or employee suspended or removed from employment and participation
+27 within the conduct or the affairs of a licensee under this section is not eligible, while
+28 under suspension or removal, to be employed or otherwise participate in the affairs of
+29 any financial corporation, financial institution, credit union, or any other entity licensed
+30 by the department of financial institutions.
+Page No. 9 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5. When a current or former officer or employee or other person participating in the
+2 conduct of the affairs of a licensee is charged with a felony in state or federal court
+3 which involves dishonesty, fraud, or breach of trust, the commissioner may
+4 immediately suspend the individual from office or prohibit the individual from further
+5 participation in the earned wage access service provider affairs, or both. The order is
+6 effective immediately upon service of the order on the licensee and the individual
+7 charged and remains in effect until the criminal charge is finally disposed of or until
+8 modified by the commissioner. If a judgment of conviction, federal pretrial diversion, or
+9 similar state order or judgment is entered, the commissioner may order the
+10 suspension or prohibition be made permanent. A finding of not guilty or other
+11 disposition of the charge does not preclude the commissioner from pursuing
+12 administrative or civil remedies.
+13 6. The commissioner may deny an application to renew a license if the licensee no
+14 longer meets the criteria for licensure or otherwise fails to comply with this chapter.
+15 Violations - Cease and desist orders - Penalties.
+16 Except as otherwise provided in this chapter, any person that willfully provides earned wage
+17 access services without a license is guilty of a class C felony and any person that violates any
+18 other provision of this chapter or any rule adopted under this chapter is guilty of an infraction. If
+19 the commissioner finds, whether without a hearing or after a hearing if a hearing is requested
+20 within twenty days of notice of an action by the commissioner, a person violated this chapter or
+21 any rule adopted under chapter, the commissioner may:
+22 1. Order the person to cease and desist violating this chapter or the rule;
+23 2. Require the refund of any fees collected by the person in violation of this chapter; or
+24 3. Impose a civil penalty not to exceed one hundred thousand dollars per violation upon
+25 a person that willfully violates a law, rule, written agreement, or order under this
+26 chapter. An interested party may appeal the assessment of a civil money penalty
+27 under chapter 28 - 32 by filing a written notice of appeal within twenty days after service
+28 of the assessment of civil money penalties. A civil money penalty collected under this
+29 section must be paid to the state treasurer and deposited in the financial institutions
+30 regulatory fund.
+Page No. 10 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Investigations and examinations.
+2 1. A licensee shall pay an examination or visitation fee, and the commissioner shall
+3 charge the licensee for the actual cost of the examination or visitation at an hourly rate
+4 set by the commissioner which is sufficient to cover all reasonable expenses
+5 associated with the examination or visitation.
+6 2. a. Except as otherwise provided in Public Law 110-289, section 1512, the
+7 requirements under any federal law, chapter 44 - 04, or section 6 - 01 - 07.1 ,
+8 regarding the privacy or confidentiality of any information or material provided to
+9 the nationwide multistate licensing system and registry, and any privilege arising
+10 under federal or state law, including the rules of any federal or state court, with
+11 respect to the information or material, continue to apply to the information or
+12 material after the information or material has been disclosed to the nationwide
+13 multistate licensing system and registry. Any information and material may be
+14 shared with all state and federal regulatory officials with mortgage industry
+15 oversight authority without the loss of privilege or the loss of confidentiality
+16 protections provided by federal law, chapter 44 - 04, or section 6 - 01 - 07.1 .
+17 b. The commissioner may enter agreements or sharing arrangements with other
+18 governmental agencies, the conference of state bank supervisors, the American
+19 association of residential mortgage regulators, or other associations representing
+20 governmental agencies.
+21 c. Information or material subject to a privilege or confidentiality under this section is
+22 not subject to:
+23 (1) Disclosure under any federal or state law governing the disclosure to the
+24 public of information held by an officer or an agency of the federal
+25 government or the respective state; or
+26 (2) Subpoena or discovery, or admission into evidence, in any administrative
+27 process, unless with respect to any privilege held by the nationwide
+28 multistate licensing system and registry with respect to the information or
+29 material, the person to which the information or material pertains waives, in
+30 whole or in part, in the discretion of the person, that privilege.
+Page No. 11 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 d. The commissioner shall take all necessary steps, under any applicable law or
+2 rule, to protect the disclosure of information or material subject to a privilege or
+3 confidentiality under this section. Records subject to a privilege or confidentiality
+4 may be required to be disclosed only pursuant to an order of the court. The court
+5 ordering the disclosure shall issue a protective order to protect the confidential
+6 nature of the records.
+7 Documentation of earned wage access transaction and notification to consumer.
+8 1. Each earned wage access transaction must be documented by a written or electronic
+9 agreement signed or similarly authenticated by the consumer. The original agreement
+10 must contain:
+11 a. The name of the licensee.
+12 b. The transaction date.
+13 c. The amount of the obligation.
+14 d. A statement of the total amount of fees charged, expressed as a dollar amount.
+15 e. The name and signature of the individual who signs the agreement on behalf of
+16 the licensee.
+17 f. The transaction number assigned by the database.
+18 g. A statement that indicates the maximum term of the transaction may not exceed
+19 fourteen calendar days.
+20 2. The earned wage access service agreement must include in no less than ten-point
+21 font, the following notification: State law prohibits this business from allowing
+22 consumers to have earned wage access totaling more than one thousand dollars
+23 outstanding at any time.
+24 3. Before distributing funds as part of an earned wage access transaction, a licensee
+25 shall provide to the consumer a clear and conspicuous notice which indicates:
+26 a. An earned wage access service transaction is not intended to meet long-term
+27 financial needs.
+28 b. The customer should use an earned wage access service transaction only to
+29 meet short-term cash needs.
+30 c. The schedule of fees charged for each earned wage access transaction.
+31 d. Any additional information required under federal law.
+Page No. 12 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 4. This section does not apply to earned wage access transactions in which the fees or
+2 charges are paid by the consumer's employer, or for earned wage access transactions
+3 with fees and charges which total less than an effective annual percentage rate of less
+4 than thirty - six percent .
+5 5. A licensee may charge any fees for the earned wage access service, not to exceed
+6 ten percent of the amount paid to the consumer by the licensee. A fee may not be
+7 deemed interest for any purpose of law. No other fee or charge may be charged for
+8 the earned wage access service, except that a fee, not to exceed the cost to the
+9 licensee, may be charged for registering a transaction on a database administered or
+10 authorized by the commissioner. No fee, including the fee for registering a transaction
+11 on a database, may be charged when the consumer elects the no-cost option.
+12 6. A licensee may not disburse more than a total of one thousand dollars to a consumer
+13 across earned wage access service transactions. If disbursing an additional amount
+14 would result in the consumer having more than one thousand dollars outstanding
+15 across all licensees, the licensee may disburse only an amount that brings the total to
+16 one thousand dollars.
+17 7. A licensee may not engage in an earned wage access service transaction with a
+18 consumer who has an aggregate value of all outstanding obligations from any one
+19 consumer exceeding one thousand dollars which is payable to the same or any other
+20 licensee. A licensee may not enter a new earned wage access service transaction with
+21 a consumer within three business days of that consumer's completion of a previous
+22 earned wage access service transaction. A licensee may rely on a written or electronic
+23 representation of a consumer regarding the existence of any outstanding obligations
+24 for earned wage access transactions held by a licensee other than the licensee
+25 receiving the representation until the database provided for under subsection 8 is
+26 operational, and after that time may not rely on a consumer's representation but must
+27 verify the fact using the database.
+28 8. The commissioner shall administer or authorize the development of a database in
+29 which each transaction must be recorded for the purpose of preventing violations of
+30 this section. The commissioner shall adopt rules governing the creation, structure, and
+31 use of the database.
+Page No. 13 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 9. An earned wage access provider may rely on the information contained in the
+2 database as accurate and is not subject to any administrative penalty or civil liability
+3 due to relying on inaccurate information contained in the database.
+4 10. A consumer agreeing to an electronic earned wage access service transaction may
+5 repay the obligation at any time before the agreed-upon date. A consumer may
+6 rescind, at no cost, any transaction by the close of the business day following the day
+7 on which the consumer receives payment from the licensee. If a consumer agreeing to
+8 an electronic earned wage access service transaction rescinds the transaction, the
+9 licensee must facilitate the repayment of the funds through the same electronic means
+10 the licensee used to deliver the funds to the customer.
+11 11. If an electronic debit is returned to the licensee from a payer financial institution due to
+12 insufficient funds, closed account, or a stop payment order, the licensee may seek civil
+13 remedies available to collect the obligation.
+14 12. A consumer who has authority to authorize an electronic debit and enters an earned
+15 wage access service agreement is not subject to a criminal penalty relating to the
+16 electronic debit or the earned wage access service agreement unless the consumer's
+17 account was closed on the original date of the transaction. A licensee may not pursue
+18 or threaten to pursue criminal penalties against a consumer for criminal penalties
+19 prohibited by this subsection.
+20 13. A licensee may not engage in unfair or deceptive acts, practices, or advertising in the
+21 conduct of an earned wage access service business.
+22 14. The amount paid to the consumer by the licensee in an earned wage access service
+23 transaction must be paid in the form of electronic credit to the customer's account.
+24 15. A licensee may enter a workout agreement with the consumer if the consumer
+25 believes financial hardship prevents the consumer from paying off the earned wage
+26 access service transaction at the end of the original agreement. The workout
+27 agreement must outline the repayment terms in writing and must require weekly,
+28 biweekly, or monthly even installments not to exceed twelve months. An additional
+29 interest or fee may not be charged as part of this workout and the earned wage
+30 access service provider shall continue to report the transaction as an outstanding
+31 earned wage access service transaction on the database administered by the
+Page No. 14 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 commissioner. Entering a workout agreement is voluntary on the part of the earned
+2 wage access service provider and the consumer.
+3 16. A licensee may not renew, repay, refinance, or consolidate an earned wage access
+4 service transaction with the proceeds of another earned wage access service
+5 transaction with that licensee by the consumer. It is presumed that an earned wage
+6 access service transaction initiated within three business days before completion of an
+7 earned wage access service transaction is a violation of this subsection.
+8 17. A licensee or any agent of a licensee that willfully violates this section is guilty of a
+9 class A misdemeanor .
+10 18. If an earned income access provider takes custody of a consumer's earned but unpaid
+11 income before paying proceeds to the consumer, the provider shall ensure the
+12 proceeds are fully insured by the federal deposit insurance corporation at the
+13 consumer's individual account level. At least quarterly, a provider shall deliver written
+14 notice to each consumer to whom it has paid proceeds in that quarter an itemization of
+15 transactions and costs, the total amount the consumer has paid in fees, information on
+16 how to report complaints to the provider and to the commissione r , definitions of terms
+17 used in the notice, and an explanation of the costs of the services provided.
+18 19. It is a violation of this chapter to conduct an earned income access transaction unless:
+19 a. The transaction is nonrecourse;
+20 b. The provider does not engage in debt collection activity or retain the services of
+21 another to engage in debt collection activity in connection with the earned income
+22 access transaction and does not convey the debt itself;
+23 c. If repayment is to be made through a debit of a consumer's account, the debit is
+24 made in accordance with rules established by the commissioner ;
+25 d. The provider charges or receives a fee for the earned income access transaction
+26 that does not exceed the earned income access rate cap or charges or receives
+27 no fee for a transaction;
+28 e. No portion of the earned but unpaid income to be paid as part of the earned
+29 income access transaction is used before receipt by the consumer to settle or
+30 pay down an obligation arising from a prior earned income access transaction;
+Page No. 15 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 and no proceeds roll over or are structured in any way to create any continuing
+2 obligation to the provider on the part of a consumer;
+3 f. The provider offers the consumer at least one reasonable option to obtain
+4 proceeds at no cost to the consumer and clearly explains how to elect a no-cost
+5 option;
+6 g. The consumer receives the proceeds no less than three business days after a
+7 consumer's request for no-fee procession, no less than one business day after a
+8 consumer's request for processing subject to a fee, and no less than one
+9 business day before the next regularly scheduled date on which the obligor is
+10 scheduled to pay earned wages or income to the consumer;
+11 h. Before a consumer enters the earned income access transaction, the provider
+12 gives the consumer written notice, of all fees associated with the earned income
+13 access transaction and the full potential cost of the transaction, including the cost
+14 expressed as an annual percentage rate;
+15 i. If the provider offers consumers the opportunity to pay an additional amount for
+16 an earned income access transaction voluntarily, including a tip or donation:
+17 (1) The provider gives notice to the consumer in writing that paying an
+18 additional amount is not required for the consumer to receive the proceeds;
+19 and
+20 (2) The provider offers zero dollars among any amounts suggested to the
+21 consumer by, for example, offering amount options from which the
+22 consumer may select or pre-filling an amount in any form used in the
+23 transaction process, or otherwise using a transaction process designed to
+24 require the consumer to take affirmative action to avoid or op t - out of paying
+25 an additional amount;
+26 j. The provider does not charge a late fee or prepayment penalty on the earned
+27 income access transaction;
+28 k. The provider does not pull a credit report or otherwise assess credit risk of the
+29 consumer prior to, during, or after the earned income access transaction except
+30 that the provider may verify the consumer's source of income as part of
+31 determining the amount of the proceeds;
+Page No. 16 25.1073.01000
+
+Sixty-ninth
+Legislative Assembly
+1 l. The provider does not report on the earned income access transaction to a
+2 consumer reporting agency prior to, during, or after the transaction;
+3 m. The provider does not require a consumer to waive the right to class action to
+4 engage in an earned income access transaction;
+5 n. The provider gives a consumer written notice of any amendment to the contract
+6 or terms of service for earned income access transactions, and the consumer
+7 agrees to the amendments before proceeding with an earned income access
+8 transaction to which the amendments would apply;
+9 o. If the provider charges a subscription or membership fee it is optional and must
+10 be for a bona fide group of services that include earned income access
+11 transactions; and
+12 p. The consumer is eighteen years of age or older.
+13 20. Transactions made in accordance with this section may not be subject to usury laws.
+14 Advertising.
+15 1. An advertisement for an earned income access transaction service may not be
+16 misleading or otherwise deceptive.
+17 2. An advertisement for earned income access transaction service shall clearly and
+18 accurately disclose the costs of the service to consumers.
+19 3. The commissioner may adopt rules governing advertising of earned income
+20 transaction services consistent with the purposes of this section.
+21 Regulations and rulings.
+22 The commissioner is authorized and empowered to make rules and regulations, conduc t
+23 hearings and make specific rulings, orders, demands and findings as may be necessary for the
+24 proper conduct of the business authorized and licensed under and for the enforcement of this
+25 chapter.
+Page No. 17 25.1073.01000
+
+[DELETED: . . . .".I)A)T)T.I."12]
+[DELETED: .A.S. . .".".P.O. .A.A.A22]
+[DELETED: . . . .".“.".A.A.E.T32]
+[DELETED: .E.E.E.A.T.T.A.T.I42]
+[DELETED: .F.P)A)I.A.T. .I52]
+[DELETED: .W.T.T.T.A.E62]
+[DELETED: .A.T.F.C. .M.E.F.C72]
+[DELETED: .F.F.N.A.I.I.A.T.T82]
+[DELETED: . .T)V)H) .T.A.I.A92]
+[DELETED: .W.T.O.R.I02]
+[DELETED: .A.a.E.T.I)D)S12]
+[DELETED: .T.E.T.T.T.A.T.T.A.T.B.A.T.T.A22]
+[DELETED: .T.A.A.A.T32]
+[DELETED: .A.A.I.A.A.T.A42]
+[DELETED: .A.A.I.I.T.T.I.T.N52]
+[DELETED: .T.T.B.I)T)T.T.T62]
+[DELETED: .T.T.T.I.T.T.A.A. 72]

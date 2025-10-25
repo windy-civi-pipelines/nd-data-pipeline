@@ -1,0 +1,197 @@
+Title: HOUSE BILL NO. 1028
+Official Title: HOUSE BILL NO. 1028
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0375.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Legislative Management
+(Government Services Committee)
+1 A BILL for an Act to amend and reenact subsection 1 of section 48-01.2-20, subdivision f of
+2 subsection 5 of section 48-01.2-20, subsection 6 of section 48-01.2-20, section 48-01.2-22, and
+3 subsection 5 of section 54-44.7-03 of the North Dakota Century Code, relating to the selection
+4 process for construction management at-risk planning and design phase services and the
+5 procurement of architect, engineer, construction management, and land surveying services.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Subsection 1 of section 48-01.2-20 of the North Dakota
+8 Century Code is amended and reenacted as follows:
+9 1. A governing body electing to utilize a construction management at-risk delivery
+10 process for a proposed public improvement shall create a selection committee
+11 composed of:
+12 a. An administrative individual from the governing body.
+13 b. A registered architect, excluding any architect contracted for the project.
+14 c. A registered engineer, excluding any engineer contracted for the project.
+15 d. A licensed contractor.
+16 SECTION 2. AMENDMENT. Subdivision f of subsection 5 of section 48-01.2-20 of the North
+17 Dakota Century Code is amended and reenacted as follows:
+18 f. The person's fees and expenses, which must be identified on a standard bid form
+19 approved by the director of the office of management and budget and issued by
+20 the governing body for the project;
+21 SECTION 3. AMENDMENT. Subsection 6 of section 48-01.2-20 of the North Dakota
+22 Century Code is amended and reenacted as follows:
+23 6. The selection committee shall evaluate each submission based on the qualification
+24 criteria under subsection 5 and shall include the numeric scoring of each criteria item
+Page No. 1 25.0375.04000
+Sixty-ninth
+Legislative Assembly
+1 on a weighted basis, with. Excluding the person's fees and expenses, which must be
+2 weighted no less than twenty percent, no item beingmay be weighted at more than
+3 twenty percent and no less than five percent. The weighting of the qualification criteria
+4 must be done in a manner to ensure no subjective bias and encourage the maximum
+5 participation of qualified construction managers at-risk. Each member of the selection
+6 committee shall apply the same weighting of qualification criteria for a project.
+7 SECTION 4. AMENDMENT. Section 48-01.2-22 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 48-01.2-22. Subcontractor bids.
+10 1. An agency construction manager selected for a public improvement shall publicly
+11 advertise pursuant to section 48 - 01.2 - 04 and publicly open bids pursuant to section
+12 48 - 01.2 - 07 from subcontractors for the work items necessary to complete the general
+13 construction portions of the improvement. The agency construction manager shall
+14 evaluate the bids and award the subcontract to the lowest responsible bidder. The
+15 governing body may influence the selection of the subcontractors, but only insofar as
+16 the governing body's past experience with a subcontractor or a current legal dispute
+17 with a subcontractor.
+18 2. A construction manager at-risk selected for a public improvement shall publicly
+19 advertise pursuant to section 48 - 01.2 - 04 and publicly open bids pursuant to section
+20 48 - 01.2 - 07 from subcontractors for the work items the construction manager at-risk
+21 chooses not to performnecessary to complete the general construction portions of the
+22 improvement. A construction manager a t - risk must submit a bid for any work item
+23 necessary to complete the general construction portions of the improvement the
+24 construction manager a t - risk chooses to perform pursuant to this section . The
+25 construction manager at-risk then shall evaluate the bids and determine which is the
+26 most responsibleaward the subcontract to the lowest responsible bidder. The
+27 governing body may influence the selection of the subcontractors, but only insofar as
+28 the governing body's past experience with a subcontractor or a current legal dispute
+29 with a subcontractor.
+30 SECTION 5. AMENDMENT. Subsection 5 of section 54-44.7-03 of the North Dakota
+31 Century Code is amended and reenacted as follows:
+Page No. 2 25.0375.04000
+Sixty-ninth
+Legislative Assembly
+1 5. a. The agency selection committee shall evaluate each of the persons or firms
+2 interviewed on the basis of the following criteria:
+3 a. (1) Past performance.
+4 b. (2) The ability of professional personnel.
+5 c. (3) Willingness to meet time and budget requirements.
+6 d. (4) Location, with higher priority given to firms headquartered in North Dakota.
+7 e. (5) Recent, current, and projected workloads of the persons or firms.
+8 f. (6) Related experience on similar projects.
+9 g. (7) Recent and current work for the agency.
+10 (8) Fees and expenses, which must be identified on a standard information
+11 submission form approved by the director of the office of management and
+12 budget and issued by the agency selection committee for the project.
+13 b. Based upon these evaluations, the agency selection committee shall select the
+14 three which, in its judgment, are most qualified, ranking the three in priority order.
+15 The agency selection committee's report ranking the interviewed persons or firms
+16 must be in writing and must include data substantiating its determinations. This
+17 data must be available to the public upon written request.
+Page No. 3 25.0375.04000
+[DELETED: .A.A.A.A.A.T.T12]
+[DELETED: .A.A22]
+[DELETED: .a.T.()P.()T.()W.()L.()R.()R.()R)F.B32]
+
+
+================================================================================
+
+Raw Text:
+25.0375.04000
+Sixty-ninth
+HOUSE BILL NO. 1028
+Legislative Assembly
+of North Dakota
+Introduced by
+Legislative Management
+(Government Services Committee)
+1 A BILL for an Act to amend and reenact subsection 1 of section 48-01.2-20, subdivision f of
+2 subsection 5 of section 48-01.2-20, subsection 6 of section 48-01.2-20, section 48-01.2-22, and
+3 subsection 5 of section 54-44.7-03 of the North Dakota Century Code, relating to the selection
+4 process for construction management at-risk planning and design phase services and the
+5 procurement of architect, engineer, construction management, and land surveying services.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Subsection 1 of section 48-01.2-20 of the North Dakota
+8 Century Code is amended and reenacted as follows:
+9 1. A governing body electing to utilize a construction management at-risk delivery
+10 process for a proposed public improvement shall create a selection committee
+11 composed of:
+12 a. An administrative individual from the governing body.
+13 b. A registered architect, excluding any architect contracted for the project.
+14 c. A registered engineer, excluding any engineer contracted for the project.
+15 d. A licensed contractor.
+16 SECTION 2. AMENDMENT. Subdivision f of subsection 5 of section 48-01.2-20 of the North
+17 Dakota Century Code is amended and reenacted as follows:
+18 f. The person's fees and expenses, which must be identified on a standard bid form
+19 approved by the director of the office of management and budget and issued by
+20 the governing body for the project;
+21 SECTION 3. AMENDMENT. Subsection 6 of section 48-01.2-20 of the North Dakota
+22 Century Code is amended and reenacted as follows:
+23 6. The selection committee shall evaluate each submission based on the qualification
+24 criteria under subsection 5 and shall include the numeric scoring of each criteria item
+Page No. 1 25.0375.04000
+
+Sixty-ninth
+Legislative Assembly
+1 on a weighted basis, with. Excluding the person's fees and expenses, which must be
+2 weighted no less than twenty percent, no item beingmay be weighted at more than
+3 twenty percent and no less than five percent. The weighting of the qualification criteria
+4 must be done in a manner to ensure no subjective bias and encourage the maximum
+5 participation of qualified construction managers at-risk. Each member of the selection
+6 committee shall apply the same weighting of qualification criteria for a project.
+7 SECTION 4. AMENDMENT. Section 48-01.2-22 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 48-01.2-22. Subcontractor bids.
+10 1. An agency construction manager selected for a public improvement shall publicly
+11 advertise pursuant to section 48 - 01.2 - 04 and publicly open bids pursuant to section
+12 48 - 01.2 - 07 from subcontractors for the work items necessary to complete the general
+13 construction portions of the improvement. The agency construction manager shall
+14 evaluate the bids and award the subcontract to the lowest responsible bidder. The
+15 governing body may influence the selection of the subcontractors, but only insofar as
+16 the governing body's past experience with a subcontractor or a current legal dispute
+17 with a subcontractor.
+18 2. A construction manager at-risk selected for a public improvement shall publicly
+19 advertise pursuant to section 48 - 01.2 - 04 and publicly open bids pursuant to section
+20 48 - 01.2 - 07 from subcontractors for the work items the construction manager at-risk
+21 chooses not to performnecessary to complete the general construction portions of the
+22 improvement. A construction manager a t - risk must submit a bid for any work item
+23 necessary to complete the general construction portions of the improvement the
+24 construction manager a t - risk chooses to perform pursuant to this section . The
+25 construction manager at-risk then shall evaluate the bids and determine which is the
+26 most responsibleaward the subcontract to the lowest responsible bidder. The
+27 governing body may influence the selection of the subcontractors, but only insofar as
+28 the governing body's past experience with a subcontractor or a current legal dispute
+29 with a subcontractor.
+30 SECTION 5. AMENDMENT. Subsection 5 of section 54-44.7-03 of the North Dakota
+31 Century Code is amended and reenacted as follows:
+Page No. 2 25.0375.04000
+
+Sixty-ninth
+Legislative Assembly
+1 5. a. The agency selection committee shall evaluate each of the persons or firms
+2 interviewed on the basis of the following criteria:
+3 a. (1) Past performance.
+4 b. (2) The ability of professional personnel.
+5 c. (3) Willingness to meet time and budget requirements.
+6 d. (4) Location, with higher priority given to firms headquartered in North Dakota.
+7 e. (5) Recent, current, and projected workloads of the persons or firms.
+8 f. (6) Related experience on similar projects.
+9 g. (7) Recent and current work for the agency.
+10 (8) Fees and expenses, which must be identified on a standard information
+11 submission form approved by the director of the office of management and
+12 budget and issued by the agency selection committee for the project.
+13 b. Based upon these evaluations, the agency selection committee shall select the
+14 three which, in its judgment, are most qualified, ranking the three in priority order.
+15 The agency selection committee's report ranking the interviewed persons or firms
+16 must be in writing and must include data substantiating its determinations. This
+17 data must be available to the public upon written request.
+Page No. 3 25.0375.04000
+
+[DELETED: .A.A.A.A.A.T.T12]
+[DELETED: .A.A22]
+[DELETED: .a.T.()P.()T.()W.()L.()R.()R.()R)F.B32]

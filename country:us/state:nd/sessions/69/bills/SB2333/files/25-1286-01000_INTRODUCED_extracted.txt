@@ -1,0 +1,183 @@
+Title: SENATE BILL NO. 2333
+Official Title: SENATE BILL NO. 2333
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1286.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Wanzek, Kessel, Sorvaag
+Representatives Beltz, Brandenburg, Hagert
+1 A BILL for an Act to create and enact a new section to chapter 4.1-01 of the North Dakota
+2 Century Code, relating to a low-carbon fuels fund; to amend and reenact sections 39-04-39 and
+3 54-44.5-09 of the North Dakota Century Code, relating to the distribution of certain vehicle
+4 registration fees and ethanol production incentives; to repeal chapter 17-02 of the North Dakota
+5 Century Code, relating to ethanol production incentives; to provide a continuing appropriation;
+6 to provide for a transfer; and to provide for a report.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. A new section to chapter 4.1-01 of the North Dakota Century Code is created
+9 and enacted as follows:
+10 Low - carbon fuels fund - Continuing appropriation .
+11 1. The low - carbon fuels fund is created as a special fund in the state treasury. The fund
+12 consists of all moneys transferred to the fund under section 39 - 04 - 39. The moneys in
+13 the fund are appropriated to the commissioner on a continuing basis to distribute
+14 low - carbon fuels incentives and carbon intensity verification under this section .
+15 2. The commissioner shall distribute low - carbon fuels incentives to ethanol production
+16 facilities for eligible capital projects that increase the efficiency of a facility and
+17 decrease the carbon intensity of the production process. Distributions of low - carbon
+18 fuels incentives to an ethanol production facility are limited to fifty percent of the cost
+19 of eligible capital projects and may not exceed:
+20 a. Three million dollars per biennium;
+21 b. Cumulative distributions of ten million dollars per facility; and
+22 c. A period of ten years beginning with the first distribution to the facility.
+23 3. For purposes of this section, "eligible capital projects" means construction of new
+24 infrastructure or replacement of existing infrastructure for carbon dioxide capture and
+Page No. 1 25.1286.01000
+Sixty-ninth
+Legislative Assembly
+1 storage, beneficial use of carbon dioxide, energy efficiency enhancements, or ethanol
+2 yield improvements.
+3 4. The commissioner may use up to one million dollars from the fund to contract with an
+4 entity to develop a carbon intensity verification process.
+5 5. At least once per biennium, the commissioner shall provide a report to the legislative
+6 management regarding the status of the fund, including the revenues deposited in the
+7 fund, the low - carbon fuels incentives distributed from the fund, and the balance of the
+8 fund.
+9 SECTION 2. AMENDMENT. Section 39-04-39 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 39-04-39. Distribution of registration fees collected.
+12 1. Any moneys in the registration fund accruing from license fees or from other like
+13 sources, in excess of the amount required to pay salaries and other necessary
+14 expenses, in accordance with the legislative assembly's appropriation for such
+15 purposes, must be promptly deposited in the highway tax distribution fund which must
+16 be distributed in the manner as prescribed by law.
+17 2. The state treasurer shall transfer annually from the highway tax distribution fund to the
+18 ethanol production incentive low - carbon fuels fund under section 1 of this Ac t an
+19 amount equal to forty percent of all sums collected for the registration of farm vehicles
+20 under subsection 5 of section 39-04-19 except that no transfer may be made in an
+21 amount that would result in the balance of the ethanol production incentive fund
+22 exceeding seven million five hundred thousand dollarsuntil the cumulative total
+23 transfers under this subsection equals thirty million dollars.
+24 SECTION 3. AMENDMENT. Section 54-44.5-09 of the North Dakota Century Code is
+25 amended and reenacted as follows:
+26 54-44.5-09. Office of renewable energy and energy efficiency.
+27 The office of renewable energy and energy efficiency is established within the division of
+28 community services. The office shall assist in the development of renewable energy within this
+29 state to provide secure, diverse, sustainable, and competitive renewable energy supplies and
+30 promote the conservation of energy and the wise use of energy resources in both the public and
+31 private sectors. The office shall communicate and disseminate information concerning state and
+Page No. 2 25.1286.01000
+Sixty-ninth
+Legislative Assembly
+1 federal energy conservation and renewable energy incentives, including tax credits, financing
+2 and grants to business entities seeking to invest in wind-generated power and transmission,
+3 ethanol production and distribution, and the development of biodiesel, green diesel, biomass,
+4 solar, hydropower, geothermal, and other renewable energy sources. The office also shall
+5 manage and distribute all production incentive payments as authorized by chapter 17-02.
+6 SECTION 4. REPEAL. Chapter 17-02 of the North Dakota Century Code is repealed.
+7 SECTION 5. TRANSFER - ETHANOL PRODUCTION INCENTIVE FUND TO
+8 LOW-CARBON FUELS FUND. The office of management and budget shall transfer any
+9 remaining balance from the ethanol production incentive fund to the low-carbon fuels fund on
+10 July 1, 2025.
+Page No. 3 25.1286.01000
+[DELETED: . . .T.C.A.F12]
+[DELETED: .T.A.A.T22]
+[DELETED: 32]
+
+
+================================================================================
+
+Raw Text:
+25.1286.01000
+Sixty-ninth
+SENATE BILL NO. 2333
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Wanzek, Kessel, Sorvaag
+Representatives Beltz, Brandenburg, Hagert
+1 A BILL for an Act to create and enact a new section to chapter 4.1-01 of the North Dakota
+2 Century Code, relating to a low-carbon fuels fund; to amend and reenact sections 39-04-39 and
+3 54-44.5-09 of the North Dakota Century Code, relating to the distribution of certain vehicle
+4 registration fees and ethanol production incentives; to repeal chapter 17-02 of the North Dakota
+5 Century Code, relating to ethanol production incentives; to provide a continuing appropriation;
+6 to provide for a transfer; and to provide for a report.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. A new section to chapter 4.1-01 of the North Dakota Century Code is created
+9 and enacted as follows:
+10 Low - carbon fuels fund - Continuing appropriation .
+11 1. The low - carbon fuels fund is created as a special fund in the state treasury. The fund
+12 consists of all moneys transferred to the fund under section 39 - 04 - 39. The moneys in
+13 the fund are appropriated to the commissioner on a continuing basis to distribute
+14 low - carbon fuels incentives and carbon intensity verification under this section .
+15 2. The commissioner shall distribute low - carbon fuels incentives to ethanol production
+16 facilities for eligible capital projects that increase the efficiency of a facility and
+17 decrease the carbon intensity of the production process. Distributions of low - carbon
+18 fuels incentives to an ethanol production facility are limited to fifty percent of the cost
+19 of eligible capital projects and may not exceed:
+20 a. Three million dollars per biennium;
+21 b. Cumulative distributions of ten million dollars per facility; and
+22 c. A period of ten years beginning with the first distribution to the facility.
+23 3. For purposes of this section, "eligible capital projects" means construction of new
+24 infrastructure or replacement of existing infrastructure for carbon dioxide capture and
+Page No. 1 25.1286.01000
+
+Sixty-ninth
+Legislative Assembly
+1 storage, beneficial use of carbon dioxide, energy efficiency enhancements, or ethanol
+2 yield improvements.
+3 4. The commissioner may use up to one million dollars from the fund to contract with an
+4 entity to develop a carbon intensity verification process.
+5 5. At least once per biennium, the commissioner shall provide a report to the legislative
+6 management regarding the status of the fund, including the revenues deposited in the
+7 fund, the low - carbon fuels incentives distributed from the fund, and the balance of the
+8 fund.
+9 SECTION 2. AMENDMENT. Section 39-04-39 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 39-04-39. Distribution of registration fees collected.
+12 1. Any moneys in the registration fund accruing from license fees or from other like
+13 sources, in excess of the amount required to pay salaries and other necessary
+14 expenses, in accordance with the legislative assembly's appropriation for such
+15 purposes, must be promptly deposited in the highway tax distribution fund which must
+16 be distributed in the manner as prescribed by law.
+17 2. The state treasurer shall transfer annually from the highway tax distribution fund to the
+18 ethanol production incentive low - carbon fuels fund under section 1 of this Ac t an
+19 amount equal to forty percent of all sums collected for the registration of farm vehicles
+20 under subsection 5 of section 39-04-19 except that no transfer may be made in an
+21 amount that would result in the balance of the ethanol production incentive fund
+22 exceeding seven million five hundred thousand dollarsuntil the cumulative total
+23 transfers under this subsection equals thirty million dollars.
+24 SECTION 3. AMENDMENT. Section 54-44.5-09 of the North Dakota Century Code is
+25 amended and reenacted as follows:
+26 54-44.5-09. Office of renewable energy and energy efficiency.
+27 The office of renewable energy and energy efficiency is established within the division of
+28 community services. The office shall assist in the development of renewable energy within this
+29 state to provide secure, diverse, sustainable, and competitive renewable energy supplies and
+30 promote the conservation of energy and the wise use of energy resources in both the public and
+31 private sectors. The office shall communicate and disseminate information concerning state and
+Page No. 2 25.1286.01000
+
+Sixty-ninth
+Legislative Assembly
+1 federal energy conservation and renewable energy incentives, including tax credits, financing
+2 and grants to business entities seeking to invest in wind-generated power and transmission,
+3 ethanol production and distribution, and the development of biodiesel, green diesel, biomass,
+4 solar, hydropower, geothermal, and other renewable energy sources. The office also shall
+5 manage and distribute all production incentive payments as authorized by chapter 17-02.
+6 SECTION 4. REPEAL. Chapter 17-02 of the North Dakota Century Code is repealed.
+7 SECTION 5. TRANSFER - ETHANOL PRODUCTION INCENTIVE FUND TO
+8 LOW-CARBON FUELS FUND. The office of management and budget shall transfer any
+9 remaining balance from the ethanol production incentive fund to the low-carbon fuels fund on
+10 July 1, 2025.
+Page No. 3 25.1286.01000
+
+[DELETED: . . .T.C.A.F12]
+[DELETED: .T.A.A.T22]
+[DELETED: 32]

@@ -1,0 +1,130 @@
+Title: SENATE BILL NO. 2204
+Official Title: SENATE BILL NO. 2204
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0456.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Barta, Boschee, Dever
+Representatives Conmy, Schauer
+1 A BILL for an Act to create and enact a new section to chapter 47-10 of the North Dakota
+2 Century Code, relating to the required disclosure of radon hazards by a seller.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 47-10 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Disclosure of prior radon test - Immunity from liability - Definitions .
+7 1. As used in this section:
+8 a. "Buyer" means a person negotiating or offering to acquire real property for value
+9 or legal or equitable title, or the right to acquire legal or equitable title to
+10 residential or commercial real property.
+11 b. "Mitigation" means measures designed to permanently reduce indoor radon
+12 concentrations.
+13 c. "Seller" means a person that owns legal or equitable title to residential or
+14 commercial real property.
+15 d. "Test" or "testing" means a measurement of indoor radon concentrations
+16 according to the National Radon Action Plan 2021-2025 , published by the
+17 environmental protection agency .
+18 2. Before executing an agreement to sell or transfer residential or commercial real
+19 property, a seller shall disclose in writing to the buyer any knowledge the seller has of
+20 radon concentrations in the property. The seller or seller's agent shall provide the
+21 following disclosure statement to the buyer, and the buyer shall acknowledge its
+22 receipt by signing a copy of the disclosure statement:
+23 RADON GAS IS A NATURALLY OCCURRING RADIOACTIVE GAS THAT,
+24 WHEN IT HAS ACCUMULATED IN A BUILDING IN SUFFICIENT QUANTITIES,
+Page No. 1 25.0456.01000
+Sixty-ninth
+Legislative Assembly
+1 MAY PRESENT HEALTH RISKS TO PERSONS WHO ARE EXPOSED TO IT
+2 OVER TIME. LEVELS OF RADON THAT EXCEED FEDERAL GUIDELINES
+3 HAVE BEEN FOUND IN BUILDINGS ON RESIDENTIAL AND COMMERCIAL
+4 REAL PROPERTY IN NORTH DAKOTA. ADDITIONAL INFORMATION
+5 REGARDING RADON AND RADON TESTING MAY BE OBTAINED FROM
+6 YOUR LOCAL PUBLIC HEALTH UNIT OR THE STATE DEPARTMENT OF
+7 ENVIRONMENTAL QUALITY.
+8 3. If the seller has knowledge the property previously has undergone testing for radon
+9 gas and radon progeny, the seller shall provide a copy of the test results and evidence
+10 of mitigation to the buyer before executing an agreement to sell or transfer the
+11 property. Any test result or evidence of mitigation furnished under this section does not
+12 constitute a promise, warranty, or representation by the seller or the seller's agent that
+13 the test results are accurate or the mitigation is effective.
+14 4. This section does not create a contingency on the purchase of the property or any
+15 right to rescind a contract for purchase unless the contingency or right to rescind is an
+16 express term of the contract.
+17 5. A seller or seller's agent complying with this section is not liable for any claim or action
+18 based on the presence of radon gas or radon progeny found in the residential or
+19 commercial real property subject to disclosure under this section.
+Page No. 2 25.0456.01000
+[DELETED: .A.".".".".B12]
+[DELETED: .I.T.A22]
+
+
+================================================================================
+
+Raw Text:
+25.0456.01000
+Sixty-ninth
+SENATE BILL NO. 2204
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Barta, Boschee, Dever
+Representatives Conmy, Schauer
+1 A BILL for an Act to create and enact a new section to chapter 47-10 of the North Dakota
+2 Century Code, relating to the required disclosure of radon hazards by a seller.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 47-10 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Disclosure of prior radon test - Immunity from liability - Definitions .
+7 1. As used in this section:
+8 a. "Buyer" means a person negotiating or offering to acquire real property for value
+9 or legal or equitable title, or the right to acquire legal or equitable title to
+10 residential or commercial real property.
+11 b. "Mitigation" means measures designed to permanently reduce indoor radon
+12 concentrations.
+13 c. "Seller" means a person that owns legal or equitable title to residential or
+14 commercial real property.
+15 d. "Test" or "testing" means a measurement of indoor radon concentrations
+16 according to the National Radon Action Plan 2021-2025 , published by the
+17 environmental protection agency .
+18 2. Before executing an agreement to sell or transfer residential or commercial real
+19 property, a seller shall disclose in writing to the buyer any knowledge the seller has of
+20 radon concentrations in the property. The seller or seller's agent shall provide the
+21 following disclosure statement to the buyer, and the buyer shall acknowledge its
+22 receipt by signing a copy of the disclosure statement:
+23 RADON GAS IS A NATURALLY OCCURRING RADIOACTIVE GAS THAT,
+24 WHEN IT HAS ACCUMULATED IN A BUILDING IN SUFFICIENT QUANTITIES,
+Page No. 1 25.0456.01000
+
+Sixty-ninth
+Legislative Assembly
+1 MAY PRESENT HEALTH RISKS TO PERSONS WHO ARE EXPOSED TO IT
+2 OVER TIME. LEVELS OF RADON THAT EXCEED FEDERAL GUIDELINES
+3 HAVE BEEN FOUND IN BUILDINGS ON RESIDENTIAL AND COMMERCIAL
+4 REAL PROPERTY IN NORTH DAKOTA. ADDITIONAL INFORMATION
+5 REGARDING RADON AND RADON TESTING MAY BE OBTAINED FROM
+6 YOUR LOCAL PUBLIC HEALTH UNIT OR THE STATE DEPARTMENT OF
+7 ENVIRONMENTAL QUALITY.
+8 3. If the seller has knowledge the property previously has undergone testing for radon
+9 gas and radon progeny, the seller shall provide a copy of the test results and evidence
+10 of mitigation to the buyer before executing an agreement to sell or transfer the
+11 property. Any test result or evidence of mitigation furnished under this section does not
+12 constitute a promise, warranty, or representation by the seller or the seller's agent that
+13 the test results are accurate or the mitigation is effective.
+14 4. This section does not create a contingency on the purchase of the property or any
+15 right to rescind a contract for purchase unless the contingency or right to rescind is an
+16 express term of the contract.
+17 5. A seller or seller's agent complying with this section is not liable for any claim or action
+18 based on the presence of radon gas or radon progeny found in the residential or
+19 commercial real property subject to disclosure under this section.
+Page No. 2 25.0456.01000
+
+[DELETED: .A.".".".".B12]
+[DELETED: .I.T.A22]
