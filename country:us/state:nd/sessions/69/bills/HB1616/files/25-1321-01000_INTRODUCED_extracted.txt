@@ -1,0 +1,96 @@
+Title: HOUSE BILL NO. 1616
+Official Title: HOUSE BILL NO. 1616
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1321.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Marschall, D. Johnston, Koppelman, Morton
+Senator Cory
+1 A BILL for an Act to amend and reenact section 16.1-02-15 of the North Dakota Century Code,
+2 relating to availability of voter lists.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 16.1-02-15 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 16.1-02-15. Voter lists and reports may be made available for election-related
+7 purposes - Funds received.
+8 1. Except as otherwise provided by law, a voter list or a report generated from the central
+9 voter file may be made available to a candidate, political party, or a political
+10 committeeany person located within or outside the state for election-related purposes.
+11 Any information obtained by a candidate, political party, or political committeeperson
+12 for election-related purposes from a list or report generated from the central voter file
+13 may not be sold or distributed for a purpose that is not election-related. Except for
+14 information identified in the central voter file under subsections 1, 2, 3, 4, 5, 6, 7,
+15 and 10 of section 16.1-02-12, which may be made available to a candidate, political
+16 party, or political committeeperson for election-related purposes, information in the
+17 central voter file is an exempt record.
+18 2. An individual's record that is designated as "secured active" is an exempt record and
+19 is not available to any candidate, political party, or political committeeperson for any
+20 purpose , except for information identified under subsections 1, 2, and 7 of section
+21 16.1 - 02 - 12 .
+22 3. Any information submitted by a requesting party to the secretary of state to obtain
+23 information under subsection 2 is an exempt record .
+Page No. 1 25.1321.01000
+Sixty-ninth
+Legislative Assembly
+1 4. Any funds received by the secretary of state to pay the cost of producing a report or
+2 list of voters contained in the central voter file must be deposited in the secretary of
+3 state's general services operating fund.
+Page No. 2 25.1321.01000
+[DELETED: .E.A.A12]
+[DELETED: .A22]
+
+
+================================================================================
+
+Raw Text:
+25.1321.01000
+Sixty-ninth
+HOUSE BILL NO. 1616
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Marschall, D. Johnston, Koppelman, Morton
+Senator Cory
+1 A BILL for an Act to amend and reenact section 16.1-02-15 of the North Dakota Century Code,
+2 relating to availability of voter lists.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 16.1-02-15 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 16.1-02-15. Voter lists and reports may be made available for election-related
+7 purposes - Funds received.
+8 1. Except as otherwise provided by law, a voter list or a report generated from the central
+9 voter file may be made available to a candidate, political party, or a political
+10 committeeany person located within or outside the state for election-related purposes.
+11 Any information obtained by a candidate, political party, or political committeeperson
+12 for election-related purposes from a list or report generated from the central voter file
+13 may not be sold or distributed for a purpose that is not election-related. Except for
+14 information identified in the central voter file under subsections 1, 2, 3, 4, 5, 6, 7,
+15 and 10 of section 16.1-02-12, which may be made available to a candidate, political
+16 party, or political committeeperson for election-related purposes, information in the
+17 central voter file is an exempt record.
+18 2. An individual's record that is designated as "secured active" is an exempt record and
+19 is not available to any candidate, political party, or political committeeperson for any
+20 purpose , except for information identified under subsections 1, 2, and 7 of section
+21 16.1 - 02 - 12 .
+22 3. Any information submitted by a requesting party to the secretary of state to obtain
+23 information under subsection 2 is an exempt record .
+Page No. 1 25.1321.01000
+
+Sixty-ninth
+Legislative Assembly
+1 4. Any funds received by the secretary of state to pay the cost of producing a report or
+2 list of voters contained in the central voter file must be deposited in the secretary of
+3 state's general services operating fund.
+Page No. 2 25.1321.01000
+
+[DELETED: .E.A.A12]
+[DELETED: .A22]

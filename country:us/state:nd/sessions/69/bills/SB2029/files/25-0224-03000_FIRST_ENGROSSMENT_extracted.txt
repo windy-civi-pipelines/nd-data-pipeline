@@ -1,0 +1,745 @@
+Title: ENGROSSED SENATE BILL NO. 2029
+Official Title: ENGROSSED SENATE BILL NO. 2029
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+25.0224.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Legislative Management
+(Government Finance Committee)
+1 A BILL for an Act to create and enact chapter 27-27.1 and a new subsection to section
+2 30.1-28-07 of the North Dakota Century Code, relating to an office of guardianship and
+3 conservatorship and the removal of a guardian; to amend and reenact section 30.1-29-15 and
+4 subsection 1 of section 50-24.1-07 of the North Dakota Century Code, relating to the removal of
+5 a conservator and the recovery of medical assistance expenses; to repeal chapter 27-27 of the
+6 North Dakota Century Code, relating to the task force on guardianship monitoring; to provide a
+7 penalty; to provide for a report; to provide an appropriation; and to provide a continuing
+8 appropriation.
+9 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+10 SECTION 1. Chapter 27-27.1 of the North Dakota Century Code is created and enacted as
+11 follows:
+12 27 - 27.1 - 01. Definitions .
+13 As used in this chapter:
+14 1. "Agency permit" means temporary authorization given by the office to an employee of
+15 a professional guardianship or professional conservatorship entity which allows the
+16 permitholder to provide guardianship or conservatorship services as an agent of the
+17 entity.
+18 2. "Board" means the guardianship and conservatorship review board.
+19 3. "Identifiable information" means an individual's personal details, including the
+20 individual's name, address, telephone number, facsimile number, social security
+21 number, electronic mail address, program identification number, or any other unique
+Page No. 1 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 identifying number, characteristic, or code, and any demographic information collected
+2 about the individual.
+3 4. "Investigation counsel" means the guardianship and conservatorship counsel.
+4 5. "Licensed conservator" means a person licensed by the office to provide
+5 conservatorship services.
+6 6. "Licensed guardian" means a person licensed by the office to provide guardianship
+7 services.
+8 7. "Office" means the office of guardianship and conservatorship.
+9 8. "Public conservator" means a conservator under contract with the office to provide
+10 conservatorship services for an individual eligible for public services.
+11 9. "Public guardian" means a guardian under contract with the office to provide
+12 guardianship services for an individual eligible for public services.
+13 10. "Public services" means state or federally funded programs administered by the office
+14 available to eligible individuals.
+15 11. "Unlicensed conservator" means a person providing conservatorship services without
+16 a conservator license.
+17 12. "Unlicensed guardian" means a person providing guardianship services without a
+18 guardian license.
+19 27 - 27.1 - 02. Office of guardianship and conservatorship - Purpose - Powers and
+20 duties - Report - Audit.
+21 1. The office of guardianship and conservatorship is created as a division under the
+22 supreme court to administer the programs assigned by state law or the supreme court.
+23 2. The office shall:
+24 a. Develop policies and procedures, including eligibility criteria, for:
+25 (1) Receiving public services;
+26 (2) A public guardian or a public conservator;
+27 (3) A licensed guardian or a licensed conservator; and
+28 (4) Distribution of funding for direct payments and expense reimbursements for
+29 public services.
+30 b. Develop ethical standards for:
+31 (1) A licensed guardian or a licensed conservator; and
+Page No. 2 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 (2) An unlicensed guardian or an unlicensed conservator.
+2 c. Develop policies and procedures for proceedings when a guardian or a
+3 conservator is unable to fulfill the duties of a guardian or a conservator.
+4 d. Keep accurate records of all financial transactions performed under this chapter
+5 in the manner required by the office of management and budget.
+6 e. Provide a report each biennium to the legislative management regarding the
+7 operations of the office, including the cost of public guardians and public
+8 conservators, and any other information requested by the legislative
+9 management.
+10 3. The office may:
+11 a. Recommend rules applicable to a licensed guardian or a licensed conservator.
+12 b. Grant licenses to a guardian or conservator and agency permits, including
+13 revoking or suspending an agency permit.
+14 c. Require insurance or bond coverage for a licensed guardian or a licensed
+15 conservator as a condition for licensure.
+16 d. Establish mandatory disclosure and reporting requirements for a licensed
+17 guardian or a licensed conservator, including a process to disclose information or
+18 submit reports to the office.
+19 e. Provide training for guardians and conservators.
+20 f. Monitor guardianship and conservatorship services.
+21 g. Provide annual reports to the supreme court.
+22 h. Distribute funding for direct payments, expense reimbursements, or other public
+23 services, including funding for public administrators.
+24 i. Establish and collect fees to support guardianship and conservatorship services
+25 and the duties of the office, which must be deposited in the guardianship and
+26 conservatorship support fund.
+27 j. Seek and apply for private, federal, or other funds to help support guardians and
+28 conservators and to safeguard the rights of individuals who receive public
+29 services.
+30 k. Accept private funds for deposit in the guardianship and conservatorship support
+31 fund.
+Page No. 3 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 4. The office may not authorize payment for services for any public guardian or public
+2 conservator that provides services for more individuals than allowed through statute,
+3 regulation, court rule, or policy adopted by the office.
+4 5. The office, its officers, or its employees, may not act as a public guardian or a public
+5 conservator or act in any other representative capacity for any individual. This
+6 subsection does not prohibit an officer or employee from acting as a guardian or
+7 conservator in a personal capacity apart from any duties as an officer or employee.
+8 6. The office is subject to audits by the state auditor under chapter 54 - 10 .
+9 27 - 27.1 - 03. Guardianship and conservatorship support fund - Continuing
+10 appropriation.
+11 There is created in the state treasury the guardianship and conservatorship support fund.
+12 The fund consists of all moneys transferred to the fund by the legislative assembly, interest
+13 upon moneys in the fund, fee collections, donations, grants, and other contributions received for
+14 deposit in the fund. All moneys in the fund are appropriated on a continuing basis to the judicial
+15 branch to defray the expenses of the office for supporting guardianship and conservatorship
+16 services, including guardianship and conservatorship training and monitoring.
+17 27 - 27.1 - 04. Records - Confidentiality - Disclosure - Penalty .
+18 1. Identifiable information concerning an individual who is applying for or receiving public
+19 services under this chapter is confidential and may be disclosed only:
+20 a. In the administration of any program under the supervision or administration of
+21 the office.
+22 b. When authorized by a policy or procedure of the office.
+23 c. When allowed or required by rule or law.
+24 2. A report concerning an applicant, provider, or recipient of public services is confidential
+25 if the report is made in good faith and may be disclosed only to:
+26 a. Authorized staff and agents of the office, who may further disclose the
+27 information to a person that has a definite interest in the well-being of the
+28 individual concerned, is in a position to serve the individual's interests, and that
+29 needs to know the contents of the records to assure the well-being and interests
+30 of the individual concerned.
+Page No. 4 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 b. An individual who is the subject of the report, if the identity of the person
+2 reporting or supplying information under this chapter is protected until the
+3 information is needed for use in an administrative, legal, or disciplinary
+4 proceeding arising out of the report.
+5 c. A public official and the public official's authorized agent who requires the
+6 information in connection with the discharge of official duties.
+7 d. A court when the court determines the information is necessary for the
+8 determination of an issue before the court.
+9 e. The investigation counsel.
+10 3. The investigation counsel may disclose information uncovered during a disciplinary
+11 investigation to the attorney general or bureau of criminal investigation related to a
+12 criminal investigation when the investigation counsel suspects the subject of the
+13 investigation has committed a crime.
+14 4. A person that discloses, authorizes, or knowingly allows, participates in, or acquiesces
+15 in the disclosure of confidential information in violation of this section is guilty of a
+16 class C felony .
+17 27 - 27.1 - 05. Guardianship and conservatorship limitations - Representation to the
+18 public - Exemption.
+19 1. A person may not serve as a guardian or a conservator for three or more adult
+20 individuals at the same time unless that person is a licensed guardian or a licensed
+21 conservator or has an agency permit.
+22 2. A public guardian or a public conservator may not provide services to a minor unless
+23 authorized by a proceeding under section 30.1 - 28 - 03.3 .
+24 3. A person must be a licensed guardian or a licensed conservator to offer guardianship
+25 or conservatorship services to the public.
+26 4. This section does not apply to:
+27 a. A federal or state agency.
+28 b. A financial institution under section 6 - 08.1 - 01 when appointed as a conservator .
+29 c. An individual appointed as a guardian or conservator for a family member.
+30 5. A person who violates this section after Augus t 1, 2026, is guilty of a class B
+31 misdemeanor.
+Page No. 5 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 27 - 27.1 - 06. Immunity .
+2 A person who in good faith provides information or testimony regarding a guardian's or
+3 conservator's misconduct or lack of professionalism is not subject to civil liability.
+4 27 - 27.1 - 07. Jurisdiction - Waiver of court costs - Applicability .
+5 1. The supreme court has original jurisdiction to revoke or suspend a guardian or a
+6 conservator license.
+7 2. The supreme court must establish a process to appeal license denials and board
+8 orders.
+9 3. The courts shall waive court costs and filing fees in any proceeding in which a person
+10 is receiving public services under this chapter.
+11 4. A guardian or conservator subject to the jurisdiction of a court of this state shall follow
+12 the applicable policies, procedures, and standards of the office, or other approval
+13 authority authorized by court rule, if the guardian or the conservator serves an adult
+14 ward, adult protected person, or incapacitated person, as defined in title 30.1.
+15 27 - 27.1 - 08. Guardianship and conservatorship review board - Guardianship and
+16 conservatorship counsel - Guardianship and conservatorship operations committee.
+17 1. The supreme court may establish a guardianship and conservatorship review board to
+18 conduct disciplinary proceedings for a guardian or conservator.
+19 2. The supreme court may establish a guardianship and conservatorship counsel to
+20 investigate noncompliance reported under this chapter. The director of the office is the
+21 hiring authority for the investigation counsel.
+22 3. The supreme court must create a guardianship and conservatorship operations
+23 committee to supervise the operations of the office and investigation counsel. The
+24 operations committee:
+25 a. Must develop and submit budgets for the office, board, and investigation counsel.
+26 b. Is the hiring authority for the office director.
+27 c. May adopt policies recommended by the office.
+28 27 - 27.1 - 09. Supreme court - Discretionary powers .
+29 The supreme court may:
+30 1. Grant immunity to a member of the board and the board's agents if a district court or
+31 the supreme court would have immunity in performing the same functions.
+Page No. 6 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 2. Establish confidentiality and disclosure standards for disciplinary proceedings.
+2 3. Authorize officials, officers, agents, and designees of the office, the board, and the
+3 investigation counsel to:
+4 a. Administer oaths.
+5 b. Order and otherwise provide for the inspection of books and records.
+6 c. Issue subpoenas for the attendance of witnesses and the production of
+7 designated documents, electronically stored information, or tangible things in
+8 accordance with the North Dakota Rules of Civil Procedure.
+9 d. Order the deposition of a person residing within or outside the state to be taken in
+10 accordance with the North Dakota Rules of Civil Procedure.
+11 4. Adopt rules to effectuate the powers and duties under this chapter.
+12 27 - 27.1 - 10. Attorney general - Counsel - Bureau of criminal investigation - Primary
+13 authority for investigations.
+14 1. The attorney general shall act as legal counsel in any particular investigation or
+15 proceeding under section 54 - 12 - 02. The attorney general shall appear and defend any
+16 officer or employee of the office and any member of the board in any action founded
+17 on an act or omission arising out of performance of an official duty consistent with
+18 section 54 - 12 - 01.3 .
+19 2. In accordance with chapter 54 - 12, the attorney general and bureau of crimina l
+20 investigation have primary authority to investigate criminal cases related to a
+21 guardianship or conservatorship.
+22 27 - 27.1 - 11. Duty to disclose and cooperate .
+23 1. A state and local governmental entity and its officers and employees, and the officials,
+24 officers, and employees of the courts of this state shall disclose records and
+25 information requested by the board or investigation counsel or any authorized
+26 representative of the board or investigation counsel and shall cooperate with and give
+27 reasonable assistance to the board or investigation counsel and any authorized
+28 representative of the board or counsel unless prohibited by federal regulation or law.
+29 2. The service of process extends to all parts of the state in any investigation or
+30 disciplinary proceeding under this chapter. A sheriff or police officer shall serve
+Page No. 7 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 process and execute all lawful orders upon request of the office, its authorized
+2 representative, the board, or the investigation counsel.
+3 27 - 27.1 - 12. Duties of witnesses - Penalty .
+4 1. An individual is obliged to attend as a witness in any investigation or disciplinary
+5 proceeding commenced under this chapter.
+6 2. If an individual refuses to attend, testify, or produce any writings or things required by
+7 subpoena, the office, board, or investigation counsel that issued the subpoena may
+8 petition the district court of the district in which the attendance or production is
+9 required for an order compelling the individual to attend and testify or produce the
+10 writings or things required by the subpoena. The court shall order the individual to
+11 appear before the court at a specified time and place to show cause why the individual
+12 has not attended, testified, or produced the writings or things as required. A copy of
+13 the order must be served on the individual. If the court determines the subpoena was
+14 regularly issued, the court shall order the individual to appear at the time and place
+15 fixed in the order and testify or produce the required writings or things.
+16 3. An individual who fails to obey an order under this section is guilty of a class A
+17 misdemeanor.
+18 27-27.1-13. Preferred claim.
+19 1. The office has a preferred claim against the estate of an individual or an individual's
+20 spouse for recovery of funds expended under this chapter for the care of that
+21 individual or the individual's spouse. All funds recovered under this chapter must be
+22 deposited in the general fund.
+23 2. A claim may not be required to be paid and interest may not begin to accrue during the
+24 lifetime of the decedent's surviving spouse, if any.
+25 3. A statute of limitation or similar statute or the doctrine of laches may not bar a claim
+26 under this chapter.
+27 SECTION 2. A new subsection to section 30.1-28-07 of the North Dakota Century Code is
+28 created and enacted as follows:
+29 The court may order a guardian to be listed on a registry if the court removed the
+30 guardian for good cause. A guardian listed on the registry is disqualified from acting as
+31 a guardian in any guardianship proceeding. The court shall send a copy of the order to
+Page No. 8 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 the state court administrator, who shall maintain and administer the registry. This
+2 subsection does not apply to a licensed guardian. For purposes of this subsection, a
+3 licensed guardian includes a guardian whose license has been suspended but
+4 excludes a guardian whose license is revoked.
+5 SECTION 3. AMENDMENT. Section 30.1-29-15 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 30.1-29-15. (5-415) Death, resignation, or removal of conservator.
+8 1. The court may remove a conservator for good cause, upon notice and hearing, or
+9 accept the resignation of a conservator. After a conservator's death, resignation, or
+10 removal, the court may appoint another conservator. A conservator so appointed
+11 succeeds to the title and powers of the predecessor.
+12 2. The court may order a conservator to be listed on a registry if the court removed the
+13 conservator for good cause. A conservator listed on the registry is disqualified from
+14 acting as a conservator in any conservatorship proceeding. The court shall send a
+15 copy of the order to the state court administrator, who shall maintain and administer
+16 the registry. This subsection does not apply to a licensed conservator. For purposes of
+17 this subsection, a licensed conservator includes a conservator whose license has
+18 been suspended but excludes a conservator whose license is revoked.
+19 SECTION 4. AMENDMENT. Subsection 1 of section 50-24.1-07 of the North Dakota
+20 Century Code is amended and reenacted as follows:
+21 1. On the death of any recipient of medical assistance who was a resident of a nursing
+22 facility, intermediate care facility for individuals with intellectual disabilities, or other
+23 medical institution and with respect to whom the department determined that resident
+24 reasonably was not expected to be discharged from the medical institution and to
+25 return home, or who was fifty-five years of age or older when the recipient received the
+26 assistance, and on the death of the spouse of the deceased recipient, the total amount
+27 of medical assistance paid on behalf of the recipient following the institutionalization of
+28 the recipient who cannot reasonably be expected to be discharged from the medical
+29 institution, or following the recipient's fifty-fifth birthday, as the case may be, must be
+30 allowed as a preferred claim against the decedent's estate after payment, in the
+31 following order, of:
+Page No. 9 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 a. Recipient liability expense applicable to the month of death for nursing home or
+2 basic care services;
+3 b. Funeral expenses not in excess of three thousand five hundred dollars;
+4 c. Expenses of the last illness, other than those incurred by medical assistance;
+5 d. Expenses of administering the estate, including attorney's fees approved by the
+6 court;
+7 e. Claims made under chapter 50-01;
+8 f. Claims made under chapter 50-24.5;
+9 g. Claims made under chapter 50-06.3 and on behalf of the state hospital; and
+10 h. Claims made under chapter 27 - 27.1; and
+11 i. Claims made under subsection 4.
+12 SECTION 5. REPEAL. Chapter 27-27 of the North Dakota Century Code is repealed.
+13 SECTION 6. APPROPRIATION - JUDICIAL BRANCH - OFFICE OF GUARDIANSHIP
+14 AND CONSERVATORSHIP. The funds provided in this section, or so much of the funds as may
+15 be necessary, are appropriated out of any moneys in the general fund in the state treasury, not
+16 otherwise appropriated, to the judicial branch for the purpose of defraying the expenses of the
+17 office of guardianship and conservatorship, for the biennium beginning July 1, 2025, and ending
+18 June 30, 2027, as follows:
+19 Establishment costs - indigents $1,550,000
+20 Establishment costs - developmentally disabled 1,296,400
+21 Public guardian and conservator fees - indigents 8,638,020
+22 Guardianship contracts - developmentally disabled 6,835,136
+23 Total general fund $18,319,556
+24 SECTION 7. APPROPRIATION - ATTORNEY GENERAL - FULL-TIME EQUIVALENT
+25 POSITION AUTHORIZATION - ONE-TIME FUNDING.
+26 1. The funds provided in this section, or so much of the funds as may be necessary, are
+27 appropriated out of any moneys in the general fund in the state treasury, not otherwise
+28 appropriated, to the attorney general for the purpose of defraying the expenses of
+29 full-time equivalent positions, for the biennium beginning July 1, 2025, and ending
+30 June 30, 2027, as follows:
+Page No. 10 25.0224.03000
+Sixty-ninth
+Legislative Assembly
+1 Salaries and wages $1,304,676
+2 Operating expenses 365,700
+3 Capital assets 256,400
+4 Total general fund $1,926,776
+5 Full-time equivalent positions 5.00
+6 2. The following amounts reflect the 2025-27 biennium one-time funding items included
+7 in the appropriation under subsection 1, which are not part of the entity's base budget
+8 for the 2027-29 biennium:
+9 One - Time Funding Description General Fund Other Funds Total
+10 Operating expenses - small equipment $79,140 $0 $79,140
+11 Capital assets - cars and radios 256,400 0 256,400
+12 Grand total $335,540 $0 $335,540
+Page No. 11 25.0224.03000
+[DELETED: ."."."12]
+[DELETED: .".".".".".".".".".T.T.D)R)A)A)D.D)A22]
+[DELETED: )A.D.K.P.T.R.G.R.E.P.M.P.D.E.S.A32]
+[DELETED: .T.T. .I.I.W.W.A.A42]
+[DELETED: .A.A.A.T.T.A.A.A. .T.A. .A. 52]
+[DELETED: .T. .T.A.T. .T.M.I.M.G62]
+[DELETED: .E.A.A.O.I.O.A.T. .A.T72]
+[DELETED: .A.I. .T.A.A82]
+[DELETED: .T.T.O92]
+[DELETED: .R.F.E.E.C.C.C. .Cs$d1s8d6d$.T02]
+[DELETED: s$s3s2d$s5.T GdOsTt$0$0$s2002l$0$0$12]
+
+
+================================================================================
+
+Raw Text:
+25.0224.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2029
+Introduced by
+Legislative Management
+(Government Finance Committee)
+1 A BILL for an Act to create and enact chapter 27-27.1 and a new subsection to section
+2 30.1-28-07 of the North Dakota Century Code, relating to an office of guardianship and
+3 conservatorship and the removal of a guardian; to amend and reenact section 30.1-29-15 and
+4 subsection 1 of section 50-24.1-07 of the North Dakota Century Code, relating to the removal of
+5 a conservator and the recovery of medical assistance expenses; to repeal chapter 27-27 of the
+6 North Dakota Century Code, relating to the task force on guardianship monitoring; to provide a
+7 penalty; to provide for a report; to provide an appropriation; and to provide a continuing
+8 appropriation.
+9 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+10 SECTION 1. Chapter 27-27.1 of the North Dakota Century Code is created and enacted as
+11 follows:
+12 27 - 27.1 - 01. Definitions .
+13 As used in this chapter:
+14 1. "Agency permit" means temporary authorization given by the office to an employee of
+15 a professional guardianship or professional conservatorship entity which allows the
+16 permitholder to provide guardianship or conservatorship services as an agent of the
+17 entity.
+18 2. "Board" means the guardianship and conservatorship review board.
+19 3. "Identifiable information" means an individual's personal details, including the
+20 individual's name, address, telephone number, facsimile number, social security
+21 number, electronic mail address, program identification number, or any other unique
+Page No. 1 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 identifying number, characteristic, or code, and any demographic information collected
+2 about the individual.
+3 4. "Investigation counsel" means the guardianship and conservatorship counsel.
+4 5. "Licensed conservator" means a person licensed by the office to provide
+5 conservatorship services.
+6 6. "Licensed guardian" means a person licensed by the office to provide guardianship
+7 services.
+8 7. "Office" means the office of guardianship and conservatorship.
+9 8. "Public conservator" means a conservator under contract with the office to provide
+10 conservatorship services for an individual eligible for public services.
+11 9. "Public guardian" means a guardian under contract with the office to provide
+12 guardianship services for an individual eligible for public services.
+13 10. "Public services" means state or federally funded programs administered by the office
+14 available to eligible individuals.
+15 11. "Unlicensed conservator" means a person providing conservatorship services without
+16 a conservator license.
+17 12. "Unlicensed guardian" means a person providing guardianship services without a
+18 guardian license.
+19 27 - 27.1 - 02. Office of guardianship and conservatorship - Purpose - Powers and
+20 duties - Report - Audit.
+21 1. The office of guardianship and conservatorship is created as a division under the
+22 supreme court to administer the programs assigned by state law or the supreme court.
+23 2. The office shall:
+24 a. Develop policies and procedures, including eligibility criteria, for:
+25 (1) Receiving public services;
+26 (2) A public guardian or a public conservator;
+27 (3) A licensed guardian or a licensed conservator; and
+28 (4) Distribution of funding for direct payments and expense reimbursements for
+29 public services.
+30 b. Develop ethical standards for:
+31 (1) A licensed guardian or a licensed conservator; and
+Page No. 2 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) An unlicensed guardian or an unlicensed conservator.
+2 c. Develop policies and procedures for proceedings when a guardian or a
+3 conservator is unable to fulfill the duties of a guardian or a conservator.
+4 d. Keep accurate records of all financial transactions performed under this chapter
+5 in the manner required by the office of management and budget.
+6 e. Provide a report each biennium to the legislative management regarding the
+7 operations of the office, including the cost of public guardians and public
+8 conservators, and any other information requested by the legislative
+9 management.
+10 3. The office may:
+11 a. Recommend rules applicable to a licensed guardian or a licensed conservator.
+12 b. Grant licenses to a guardian or conservator and agency permits, including
+13 revoking or suspending an agency permit.
+14 c. Require insurance or bond coverage for a licensed guardian or a licensed
+15 conservator as a condition for licensure.
+16 d. Establish mandatory disclosure and reporting requirements for a licensed
+17 guardian or a licensed conservator, including a process to disclose information or
+18 submit reports to the office.
+19 e. Provide training for guardians and conservators.
+20 f. Monitor guardianship and conservatorship services.
+21 g. Provide annual reports to the supreme court.
+22 h. Distribute funding for direct payments, expense reimbursements, or other public
+23 services, including funding for public administrators.
+24 i. Establish and collect fees to support guardianship and conservatorship services
+25 and the duties of the office, which must be deposited in the guardianship and
+26 conservatorship support fund.
+27 j. Seek and apply for private, federal, or other funds to help support guardians and
+28 conservators and to safeguard the rights of individuals who receive public
+29 services.
+30 k. Accept private funds for deposit in the guardianship and conservatorship support
+31 fund.
+Page No. 3 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 4. The office may not authorize payment for services for any public guardian or public
+2 conservator that provides services for more individuals than allowed through statute,
+3 regulation, court rule, or policy adopted by the office.
+4 5. The office, its officers, or its employees, may not act as a public guardian or a public
+5 conservator or act in any other representative capacity for any individual. This
+6 subsection does not prohibit an officer or employee from acting as a guardian or
+7 conservator in a personal capacity apart from any duties as an officer or employee.
+8 6. The office is subject to audits by the state auditor under chapter 54 - 10 .
+9 27 - 27.1 - 03. Guardianship and conservatorship support fund - Continuing
+10 appropriation.
+11 There is created in the state treasury the guardianship and conservatorship support fund.
+12 The fund consists of all moneys transferred to the fund by the legislative assembly, interest
+13 upon moneys in the fund, fee collections, donations, grants, and other contributions received for
+14 deposit in the fund. All moneys in the fund are appropriated on a continuing basis to the judicial
+15 branch to defray the expenses of the office for supporting guardianship and conservatorship
+16 services, including guardianship and conservatorship training and monitoring.
+17 27 - 27.1 - 04. Records - Confidentiality - Disclosure - Penalty .
+18 1. Identifiable information concerning an individual who is applying for or receiving public
+19 services under this chapter is confidential and may be disclosed only:
+20 a. In the administration of any program under the supervision or administration of
+21 the office.
+22 b. When authorized by a policy or procedure of the office.
+23 c. When allowed or required by rule or law.
+24 2. A report concerning an applicant, provider, or recipient of public services is confidential
+25 if the report is made in good faith and may be disclosed only to:
+26 a. Authorized staff and agents of the office, who may further disclose the
+27 information to a person that has a definite interest in the well-being of the
+28 individual concerned, is in a position to serve the individual's interests, and that
+29 needs to know the contents of the records to assure the well-being and interests
+30 of the individual concerned.
+Page No. 4 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 b. An individual who is the subject of the report, if the identity of the person
+2 reporting or supplying information under this chapter is protected until the
+3 information is needed for use in an administrative, legal, or disciplinary
+4 proceeding arising out of the report.
+5 c. A public official and the public official's authorized agent who requires the
+6 information in connection with the discharge of official duties.
+7 d. A court when the court determines the information is necessary for the
+8 determination of an issue before the court.
+9 e. The investigation counsel.
+10 3. The investigation counsel may disclose information uncovered during a disciplinary
+11 investigation to the attorney general or bureau of criminal investigation related to a
+12 criminal investigation when the investigation counsel suspects the subject of the
+13 investigation has committed a crime.
+14 4. A person that discloses, authorizes, or knowingly allows, participates in, or acquiesces
+15 in the disclosure of confidential information in violation of this section is guilty of a
+16 class C felony .
+17 27 - 27.1 - 05. Guardianship and conservatorship limitations - Representation to the
+18 public - Exemption.
+19 1. A person may not serve as a guardian or a conservator for three or more adult
+20 individuals at the same time unless that person is a licensed guardian or a licensed
+21 conservator or has an agency permit.
+22 2. A public guardian or a public conservator may not provide services to a minor unless
+23 authorized by a proceeding under section 30.1 - 28 - 03.3 .
+24 3. A person must be a licensed guardian or a licensed conservator to offer guardianship
+25 or conservatorship services to the public.
+26 4. This section does not apply to:
+27 a. A federal or state agency.
+28 b. A financial institution under section 6 - 08.1 - 01 when appointed as a conservator .
+29 c. An individual appointed as a guardian or conservator for a family member.
+30 5. A person who violates this section after Augus t 1, 2026, is guilty of a class B
+31 misdemeanor.
+Page No. 5 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 27 - 27.1 - 06. Immunity .
+2 A person who in good faith provides information or testimony regarding a guardian's or
+3 conservator's misconduct or lack of professionalism is not subject to civil liability.
+4 27 - 27.1 - 07. Jurisdiction - Waiver of court costs - Applicability .
+5 1. The supreme court has original jurisdiction to revoke or suspend a guardian or a
+6 conservator license.
+7 2. The supreme court must establish a process to appeal license denials and board
+8 orders.
+9 3. The courts shall waive court costs and filing fees in any proceeding in which a person
+10 is receiving public services under this chapter.
+11 4. A guardian or conservator subject to the jurisdiction of a court of this state shall follow
+12 the applicable policies, procedures, and standards of the office, or other approval
+13 authority authorized by court rule, if the guardian or the conservator serves an adult
+14 ward, adult protected person, or incapacitated person, as defined in title 30.1.
+15 27 - 27.1 - 08. Guardianship and conservatorship review board - Guardianship and
+16 conservatorship counsel - Guardianship and conservatorship operations committee.
+17 1. The supreme court may establish a guardianship and conservatorship review board to
+18 conduct disciplinary proceedings for a guardian or conservator.
+19 2. The supreme court may establish a guardianship and conservatorship counsel to
+20 investigate noncompliance reported under this chapter. The director of the office is the
+21 hiring authority for the investigation counsel.
+22 3. The supreme court must create a guardianship and conservatorship operations
+23 committee to supervise the operations of the office and investigation counsel. The
+24 operations committee:
+25 a. Must develop and submit budgets for the office, board, and investigation counsel.
+26 b. Is the hiring authority for the office director.
+27 c. May adopt policies recommended by the office.
+28 27 - 27.1 - 09. Supreme court - Discretionary powers .
+29 The supreme court may:
+30 1. Grant immunity to a member of the board and the board's agents if a district court or
+31 the supreme court would have immunity in performing the same functions.
+Page No. 6 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 2. Establish confidentiality and disclosure standards for disciplinary proceedings.
+2 3. Authorize officials, officers, agents, and designees of the office, the board, and the
+3 investigation counsel to:
+4 a. Administer oaths.
+5 b. Order and otherwise provide for the inspection of books and records.
+6 c. Issue subpoenas for the attendance of witnesses and the production of
+7 designated documents, electronically stored information, or tangible things in
+8 accordance with the North Dakota Rules of Civil Procedure.
+9 d. Order the deposition of a person residing within or outside the state to be taken in
+10 accordance with the North Dakota Rules of Civil Procedure.
+11 4. Adopt rules to effectuate the powers and duties under this chapter.
+12 27 - 27.1 - 10. Attorney general - Counsel - Bureau of criminal investigation - Primary
+13 authority for investigations.
+14 1. The attorney general shall act as legal counsel in any particular investigation or
+15 proceeding under section 54 - 12 - 02. The attorney general shall appear and defend any
+16 officer or employee of the office and any member of the board in any action founded
+17 on an act or omission arising out of performance of an official duty consistent with
+18 section 54 - 12 - 01.3 .
+19 2. In accordance with chapter 54 - 12, the attorney general and bureau of crimina l
+20 investigation have primary authority to investigate criminal cases related to a
+21 guardianship or conservatorship.
+22 27 - 27.1 - 11. Duty to disclose and cooperate .
+23 1. A state and local governmental entity and its officers and employees, and the officials,
+24 officers, and employees of the courts of this state shall disclose records and
+25 information requested by the board or investigation counsel or any authorized
+26 representative of the board or investigation counsel and shall cooperate with and give
+27 reasonable assistance to the board or investigation counsel and any authorized
+28 representative of the board or counsel unless prohibited by federal regulation or law.
+29 2. The service of process extends to all parts of the state in any investigation or
+30 disciplinary proceeding under this chapter. A sheriff or police officer shall serve
+Page No. 7 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 process and execute all lawful orders upon request of the office, its authorized
+2 representative, the board, or the investigation counsel.
+3 27 - 27.1 - 12. Duties of witnesses - Penalty .
+4 1. An individual is obliged to attend as a witness in any investigation or disciplinary
+5 proceeding commenced under this chapter.
+6 2. If an individual refuses to attend, testify, or produce any writings or things required by
+7 subpoena, the office, board, or investigation counsel that issued the subpoena may
+8 petition the district court of the district in which the attendance or production is
+9 required for an order compelling the individual to attend and testify or produce the
+10 writings or things required by the subpoena. The court shall order the individual to
+11 appear before the court at a specified time and place to show cause why the individual
+12 has not attended, testified, or produced the writings or things as required. A copy of
+13 the order must be served on the individual. If the court determines the subpoena was
+14 regularly issued, the court shall order the individual to appear at the time and place
+15 fixed in the order and testify or produce the required writings or things.
+16 3. An individual who fails to obey an order under this section is guilty of a class A
+17 misdemeanor.
+18 27-27.1-13. Preferred claim.
+19 1. The office has a preferred claim against the estate of an individual or an individual's
+20 spouse for recovery of funds expended under this chapter for the care of that
+21 individual or the individual's spouse. All funds recovered under this chapter must be
+22 deposited in the general fund.
+23 2. A claim may not be required to be paid and interest may not begin to accrue during the
+24 lifetime of the decedent's surviving spouse, if any.
+25 3. A statute of limitation or similar statute or the doctrine of laches may not bar a claim
+26 under this chapter.
+27 SECTION 2. A new subsection to section 30.1-28-07 of the North Dakota Century Code is
+28 created and enacted as follows:
+29 The court may order a guardian to be listed on a registry if the court removed the
+30 guardian for good cause. A guardian listed on the registry is disqualified from acting as
+31 a guardian in any guardianship proceeding. The court shall send a copy of the order to
+Page No. 8 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 the state court administrator, who shall maintain and administer the registry. This
+2 subsection does not apply to a licensed guardian. For purposes of this subsection, a
+3 licensed guardian includes a guardian whose license has been suspended but
+4 excludes a guardian whose license is revoked.
+5 SECTION 3. AMENDMENT. Section 30.1-29-15 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 30.1-29-15. (5-415) Death, resignation, or removal of conservator.
+8 1. The court may remove a conservator for good cause, upon notice and hearing, or
+9 accept the resignation of a conservator. After a conservator's death, resignation, or
+10 removal, the court may appoint another conservator. A conservator so appointed
+11 succeeds to the title and powers of the predecessor.
+12 2. The court may order a conservator to be listed on a registry if the court removed the
+13 conservator for good cause. A conservator listed on the registry is disqualified from
+14 acting as a conservator in any conservatorship proceeding. The court shall send a
+15 copy of the order to the state court administrator, who shall maintain and administer
+16 the registry. This subsection does not apply to a licensed conservator. For purposes of
+17 this subsection, a licensed conservator includes a conservator whose license has
+18 been suspended but excludes a conservator whose license is revoked.
+19 SECTION 4. AMENDMENT. Subsection 1 of section 50-24.1-07 of the North Dakota
+20 Century Code is amended and reenacted as follows:
+21 1. On the death of any recipient of medical assistance who was a resident of a nursing
+22 facility, intermediate care facility for individuals with intellectual disabilities, or other
+23 medical institution and with respect to whom the department determined that resident
+24 reasonably was not expected to be discharged from the medical institution and to
+25 return home, or who was fifty-five years of age or older when the recipient received the
+26 assistance, and on the death of the spouse of the deceased recipient, the total amount
+27 of medical assistance paid on behalf of the recipient following the institutionalization of
+28 the recipient who cannot reasonably be expected to be discharged from the medical
+29 institution, or following the recipient's fifty-fifth birthday, as the case may be, must be
+30 allowed as a preferred claim against the decedent's estate after payment, in the
+31 following order, of:
+Page No. 9 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Recipient liability expense applicable to the month of death for nursing home or
+2 basic care services;
+3 b. Funeral expenses not in excess of three thousand five hundred dollars;
+4 c. Expenses of the last illness, other than those incurred by medical assistance;
+5 d. Expenses of administering the estate, including attorney's fees approved by the
+6 court;
+7 e. Claims made under chapter 50-01;
+8 f. Claims made under chapter 50-24.5;
+9 g. Claims made under chapter 50-06.3 and on behalf of the state hospital; and
+10 h. Claims made under chapter 27 - 27.1; and
+11 i. Claims made under subsection 4.
+12 SECTION 5. REPEAL. Chapter 27-27 of the North Dakota Century Code is repealed.
+13 SECTION 6. APPROPRIATION - JUDICIAL BRANCH - OFFICE OF GUARDIANSHIP
+14 AND CONSERVATORSHIP. The funds provided in this section, or so much of the funds as may
+15 be necessary, are appropriated out of any moneys in the general fund in the state treasury, not
+16 otherwise appropriated, to the judicial branch for the purpose of defraying the expenses of the
+17 office of guardianship and conservatorship, for the biennium beginning July 1, 2025, and ending
+18 June 30, 2027, as follows:
+19 Establishment costs - indigents $1,550,000
+20 Establishment costs - developmentally disabled 1,296,400
+21 Public guardian and conservator fees - indigents 8,638,020
+22 Guardianship contracts - developmentally disabled 6,835,136
+23 Total general fund $18,319,556
+24 SECTION 7. APPROPRIATION - ATTORNEY GENERAL - FULL-TIME EQUIVALENT
+25 POSITION AUTHORIZATION - ONE-TIME FUNDING.
+26 1. The funds provided in this section, or so much of the funds as may be necessary, are
+27 appropriated out of any moneys in the general fund in the state treasury, not otherwise
+28 appropriated, to the attorney general for the purpose of defraying the expenses of
+29 full-time equivalent positions, for the biennium beginning July 1, 2025, and ending
+30 June 30, 2027, as follows:
+Page No. 10 25.0224.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Salaries and wages $1,304,676
+2 Operating expenses 365,700
+3 Capital assets 256,400
+4 Total general fund $1,926,776
+5 Full-time equivalent positions 5.00
+6 2. The following amounts reflect the 2025-27 biennium one-time funding items included
+7 in the appropriation under subsection 1, which are not part of the entity's base budget
+8 for the 2027-29 biennium:
+9 One - Time Funding Description General Fund Other Funds Total
+10 Operating expenses - small equipment $79,140 $0 $79,140
+11 Capital assets - cars and radios 256,400 0 256,400
+12 Grand total $335,540 $0 $335,540
+Page No. 11 25.0224.03000
+
+[DELETED: ."."."12]
+[DELETED: .".".".".".".".".".T.T.D)R)A)A)D.D)A22]
+[DELETED: )A.D.K.P.T.R.G.R.E.P.M.P.D.E.S.A32]
+[DELETED: .T.T. .I.I.W.W.A.A42]
+[DELETED: .A.A.A.T.T.A.A.A. .T.A. .A. 52]
+[DELETED: .T. .T.A.T. .T.M.I.M.G62]
+[DELETED: .E.A.A.O.I.O.A.T. .A.T72]
+[DELETED: .A.I. .T.A.A82]
+[DELETED: .T.T.O92]
+[DELETED: .R.F.E.E.C.C.C. .Cs$d1s8d6d$.T02]
+[DELETED: s$s3s2d$s5.T GdOsTt$0$0$s2002l$0$0$12]

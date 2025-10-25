@@ -1,0 +1,603 @@
+Title: ENGROSSED HOUSE BILL NO. 1146
+Official Title: ENGROSSED HOUSE BILL NO. 1146
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25.0743.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representatives Lefor, Dockter, Schauer, Stemen, M. Ruby
+Senators Davison, Dever, Hogue
+1 A BILL for an Act to amend and reenact sections 54-52-02.1, 54-52-06, 54-52.6-01,
+2 54-52.6-02.2, 54-52.6-05, and 54-52.6-09.5 of the North Dakota Century Code, relating to
+3 employer eligibility to participate in the public employees retirement system defined contribution
+4 retirement plan, employer contribution requirements for the defined benefit and defined
+5 contribution retirement plans, and employee eligibility to elect to transfer to the defined
+6 contribution retirement plan; to provide for retroactive application; and to declare an emergency.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Section 54-52-02.1 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 54-52-02.1. Political subdivisions authorized to join public employees retirement
+11 system.
+12 1. A political subdivision may, on behalf of its permanent employees, on behalf of its
+13 peace officers, firefighters, and correctional officers separately from its other
+14 employees, and permanent noncertified employees only in the case of school districts,
+15 enter agreements with the retirement board for the purpose of extending the benefits
+16 of the public employees retirement system, as provided in this chapter or chapter
+17 54 - 52.6 , to those employees. The agreement may, in accordance with this chapter and
+18 chapter 54 - 52.6 , contain provisions relating to benefits, contributions, effective date,
+19 modification, administration, and other appropriate provisions as the retirement board
+20 and the political subdivision agree upon, but the agreement must provide:
+21 a. The political subdivision will contribute on behalf of each eligible employee an
+22 amount equal to that provided in section 54-52-06 or 54-52-06.3 for peace
+Page No. 1 25.0743.03000
+Sixty-ninth
+Legislative Assembly
+1 officers, firefighters, and correctional officers participating separately from other
+2 political subdivision employees.
+3 b. A portion of the moneys paid by the political subdivision may be used to pay
+4 administrative expenses of the retirement board.
+5 2. Notwithstanding any other provision of law, a political subdivision having an existing
+6 police or firefighter pension plan may merge that plan into the public employees
+7 retirement system under rules adopted by and in a manner determined by the board.
+8 3. Notwithstanding any other provision of this chapter, a political subdivision of this state
+9 not currently participating in the public employees retirement system may not become
+10 a participant in the retirement system until an actuarial study is performed under the
+11 direction of the board to calculate the required employer contribution for any past
+12 service liability and the required employer contribution must be an amount determined
+13 sufficient to amortize and fund any past service liability over a period not to exceed
+14 thirty years as determined by the board. Any fees incurred in performing the actuarial
+15 study must be paid for by the political subdivision in a manner determined by the
+16 board.
+17 SECTION 2. AMENDMENT. Section 54-52-06 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 54-52-06. Employer's contribution to retirement plan - Report to the employee
+20 benefits programs committee. (Effective through December 31, 2025)
+21 1. Each governmental unit shall contribute an amount equal to four and
+22 twelve-hundredths percent of the monthly salary or wage of a participating member.
+23 Governmental unit contributions increase by one percent of the monthly salary or
+24 wage of a participating member beginning with the monthly reporting period of
+25 January 2012; with an additional increase of one percent, beginning with the reporting
+26 period of January 2013; with an additional increase of one percent, beginning with the
+27 monthly reporting period of January 2014; and with an additional increase of
+28 one percent, beginning with the monthly reporting period of January 2024. For a
+29 participating member who first enrolls after December 31, 2019, the governmental unit
+30 shall contribute an additional amount equal to one and fourteen-hundredths percent of
+31 the monthly salary or wage of the participating member.
+Page No. 2 25.0743.03000
+Sixty-ninth
+Legislative Assembly
+1 2. For those members who elect to exercise their rights under section 54-52-17.14, the
+2 employing governmental unit, or in the case of a member not presently under covered
+3 employment the most recent employing governmental unit, shall pay the associated
+4 employer contribution. If the employee's contribution is paid by the governmental unit
+5 under subsection 3 of section 54-52-05, the employer unit shall contribute, in addition,
+6 an amount equal to the required employee's contribution. Each governmental unit
+7 shall pay the contribution monthly, or in the case of an election made pursuant to
+8 section 54-52-17.14 a lump sum, into the retirement fund from the governmental unit's
+9 funds appropriated for payroll and salary or any other funds available for these
+10 purposes. Any governmental unit failing to pay the contributions monthly, or in the
+11 case of an election made pursuant to section 54-52-17.14 a lump sum, or failing to
+12 otherwise comply with the board's established wage reporting or payroll reporting
+13 process requirements, is subject to a civil penalty of fifty dollars and, as interest,
+14 one percent of the amount due for each month of delay or fraction of a month after the
+15 payment became due. In lieu of assessing a civil penalty or one percent per month, or
+16 both, interest at the actuarial rate of return may be assessed for each month the
+17 contributions are delinquent. If contributions are paid within ninety days of the date the
+18 contributions became due, penalty and interest to be paid on delinquent contributions
+19 may be waived.
+20 3. An employer is required to submit contributions for any past eligible employee who
+21 was employed after July 1, 1977, for which contributions were not made if the
+22 employee would have been eligible to become vested had the employee participated
+23 and if the employee elects to join the public employees retirement system. Employer
+24 contributions may not be assessed for eligible service that an employee has waived
+25 pursuant to subsection 1 of section 54-52-05.
+26 4. Annually, the board shall report to the employee benefits programs committee the
+27 contributions necessary, as determined by the actuarial study, to maintain the fund's
+28 actuarial soundness.
+29 Employer's contribution to retirement plan - Report to the employee benefits
+30 programs committee. (Effective after December 31, 2025)
+Page No. 3 25.0743.03000
+Sixty-ninth
+Legislative Assembly
+1 1. a. As determined by actuarial valuations, each state governmental unit that receives
+2 budgetary approval from the legislative assembly shall contribute to the defined
+3 benefit plan an amount on a level percent of compensation basis for all main
+4 system defined benefit retirement plan employees and all defined contribution
+5 retirement plan employees sufficient under the actuarial valuation to meet both
+6 the normal cost plus the actuarially determined amount required to amortize the
+7 unfunded accrued liability of the main plan over a closed period of thirty and
+8 one-half years, beginning January 1, 2026, and continuing through June 30,
+9 2056. By November fifteenth of each even-numbered year the board shall publish
+10 the contribution rate required under this subsection. The board shall calculate this
+11 rate based on the July first actuarial report of that year. In lieu of each state
+12 governmental unit that receives budgetary approval from the legislative assembly
+13 contributing the additional actuarially determined rate, the legislative assembly
+14 may authorize a transfer to the public employees retirement system fund in an
+15 amount equal to or greater than the actuarially determined amount as most
+16 recently published by the board for the succeeding biennium.
+17 b. Each participating political subdivision and state governmental unit that does not
+18 receive budgetary approval from the legislative assembly shall contribute an
+19 amount equal to eight and twelve-hundredths percent of the monthly salary or
+20 wage of a participating member.
+21 c. For a participating member who first enrolls after December 31, 2019, a
+22 participating political subdivision shall contribute an additional amount equal to
+23 one and fourteen-hundredths percent of the monthly salary or wage of the
+24 participating member.
+25 2. For those members who elect to exercise their rights under section 54-52-17.14, the
+26 employing governmental unit, or in the case of a member not presently under covered
+27 employment the most recent employing governmental unit, shall pay the associated
+28 employer contribution. If the employee's contribution is paid by the governmental unit
+29 under subsection 3 of section 54-52-05, the employer unit shall contribute, in addition,
+30 an amount equal to the required employee's contribution. Each governmental unit
+31 shall pay the contribution monthly, or in the case of an election made pursuant to
+Page No. 4 25.0743.03000
+Sixty-ninth
+Legislative Assembly
+1 section 54-52-17.14 a lump sum, into the retirement fund from the governmental unit's
+2 funds appropriated for payroll and salary or any other funds available for these
+3 purposes. Any governmental unit failing to pay the contributions monthly, or in the
+4 case of an election made pursuant to section 54-52-17.14 a lump sum, or failing to
+5 otherwise comply with the board's established wage reporting or payroll reporting
+6 process requirements, is subject to a civil penalty of fifty dollars and, as interest, one
+7 percent of the amount due for each month of delay or fraction of a month after the
+8 payment became due. In lieu of assessing a civil penalty or one percent per month, or
+9 both, interest at the actuarial rate of return may be assessed for each month the
+10 contributions are delinquent. If contributions are paid within ninety days of the date the
+11 contributions became due, penalty and interest to be paid on delinquent contributions
+12 may be waived.
+13 3. An employer is required to submit contributions for any past eligible employee who
+14 was employed after July 1, 1977, for which contributions were not made if the
+15 employee would have been eligible to become vested had the employee participated
+16 and if the employee elects to join the public employees retirement system. Employer
+17 contributions may not be assessed for eligible service that an employee has waived
+18 pursuant to subsection 1 of section 54-52-05.
+19 4. Annually, the board shall report to the employee benefits programs committee the
+20 contributions necessary, as determined by the actuarial study, to maintain the fund's
+21 actuarial soundness.
+22 SECTION 3. AMENDMENT. Section 54-52.6-01 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 54-52.6-01. Definition of terms.
+25 As used in this chapter, unless the context otherwise requires:
+26 1. "Board" means the public employees retirement system board.
+27 2. "Deferred member" means a personan individual who elected to receive deferred
+28 vested retirement benefits under chapter 54-52.
+29 3. "Eligible employee", for employees who become participating members after
+30 December 31, 2024, has the same meaning as provided under section 54-52-02.15.
+31 For employees who elected to join the defined contribution retirement plan under this
+Page No. 5 25.0743.03000
+Sixty-ninth
+Legislative Assembly
+1 chapter before January 1, 2025, the term includes a permanent state employee,
+2 except an employee of the judicial branch or an employee of the board of higher
+3 education and state institutions under the jurisdiction of the board of higher education,
+4 who is at least eighteen years of age and who is in a position not classified by the
+5 North Dakota human resource management services.
+6 4. "Employee" means any personan individual employed by the state, whose
+7 compensation is paid out of state funds, or funds controlled or administered by the
+8 state or paid by the federal government through any of its executive or administrative
+9 officials.
+10 5. "Employer" means the state of North Dakota, except the highway patrol for members
+11 of the retirement plan created under chapter 39 - 03.1, or a participating politica l
+12 subdivision of the state.
+13 6. "Participating member" means an eligible employee who elects to participate in the
+14 defined contribution retirement plan established under this chapter.
+15 7. "Permanent employee" means a state employee whose services are not limited in
+16 duration and who is filling an approved and regularly funded position and is employed
+17 twenty hours or more per week and at least five months each year.
+18 8. "Wages" and "salaries" means earnings in eligible employment under this chapter
+19 reported as salary on a federal income tax withholding statement plus any salary
+20 reduction or salary deferral amounts under 26 U.S.C. 125, 401(k), 403(b), 414(h), or
+21 457. "Salary" does not include fringe benefits such as payments for unused sick leave,
+22 personal leave, vacation leave paid in a lump sum, overtime, housing allowances,
+23 transportation expenses, early retirement, incentive pay, severance pay, medical
+24 insurance, workforce safety and insurance benefits, disability insurance premiums or
+25 benefits, or salary received by a member in lieu of previously employer-provided fringe
+26 benefits under an agreement between an employee and a participating employer.
+27 Bonuses may be considered as salary under this section if reported and annualized
+28 pursuant to rules adopted by the board.
+29 SECTION 4. AMENDMENT. Section 54-52.6-02.2 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 6 25.0743.03000
+Sixty-ninth
+Legislative Assembly
+1 54-52.6-02.2. Election after December 31, 2024 - Additional employer contribution.
+2 1. As used in this section, "eligible employee" means a permanent state employee of a
+3 state entity that as of January 1, 2025, receives budgetary approval from the
+4 legislative assembly, who on December 31, 2024, is a participating member of the
+5 public employees retirement system main system plan under chapter 54-4254-52, who
+6 has been a participating member under chapter 54-52 for no more than five years, and
+7 who is at least eighteen years of age.
+8 2. The board shall provide a three-month election period, from January 1, 2025, through
+9 March 31, 2025, for an eligible employee to transfer to the defined contribution plan
+10 under this chapter pursuant to the rules and policies adopted by the board.
+11 a. An election under this section made by a member of the public employees
+12 retirement system under chapter 54-52 to transfer to the defined contribution
+13 retirement plan under this chapter is irrevocable.
+14 b. For an eligible employee who elects to transfer from the public employees
+15 retirement system under chapter 54-52 to the defined contribution retirement plan
+16 under this chapter, the board shall transfer a lump sum amount from the public
+17 employees retirement system fund to the member's account in the defined
+18 contribution retirement plan under this chapter. However, if the eligible employee
+19 terminates employment before receiving the lump sum transfer under this
+20 section, the election made is ineffective and the eligible employee remains a
+21 member of the public employees retirement system under chapter 54-52 and
+22 retains all the rights and privileges under that chapter.
+23 c. The board shall calculate the lump sum amount to be transferred based on the
+24 actuarial present value of the eligible employee's accumulated benefit obligation
+25 under the public employees retirement system based on the assumption the
+26 eligible employee will retire under the earlier applicable normal retirement age,
+27 plus interest from January 1, 2025, to the date of transfer, at the rate of one-half
+28 of one percent less than the actuarial interest assumption at the time of the
+29 election.
+30 d. This section does not affect an eligible individual's right to health benefits under
+31 chapter 54-52.1.
+Page No. 7 25.0743.03000
+Sixty-ninth
+Legislative Assembly
+1 3. The state employer of an eligible employee who elects under this section to participate
+2 in the defined contribution retirement plan under this chapter shall pay an additional
+3 annual contribution of three thousand three hundred and thirty-three dollars for up to
+4 three years. Under this subsection, the employer shall pay the additional contribution
+5 each year the eligible employee continues permanent employment with the state,
+6 beginning January 2026, and extending no further than January 2028.
+7 4. If the board receives notification from the internal revenue service that this section or
+8 any portion of this section will cause the public employees retirement system or the
+9 retirement plan established under this chapter to be disqualified for tax purposes
+10 under the Internal Revenue Code, that portion that will cause the disqualification does
+11 not apply.
+12 SECTION 5. AMENDMENT. Section 54-52.6-05 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 54-52.6-05. Direction of investments.
+15 1. Each participating member shall direct the investment of the individual's accumulated
+16 employer and employee contributions and earnings to one or more investment choices
+17 within available categories of investment provided by the board.
+18 2. The board shall provide an investment menu of investment options. In establishing the
+19 investment options, the board shall:
+20 a. Include predetermined investment portfolio options constructed to reflect different
+21 risk profiles that automatically reallocate and rebalance contributions as a
+22 participating member ages.
+23 b. Allow a participating member to construct an investment portfolio using some or
+24 all of the investment options.
+25 3. The board shall provide a diversified menu of mutual fundsinvestment solutions and
+26 in-plan lifetime annuity options that may include in-plan and out-of-plan options , either
+27 fixed, variable, or a combination of both. In selecting an annuity provider the board
+28 shall comply with section 54-52.6-05.1.
+29 SECTION 6. AMENDMENT. Section 54-52.6-09.5 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 8 25.0743.03000
+Sixty-ninth
+Legislative Assembly
+1 54-52.6-09.5. Employer contribution for defined benefit plan. (Effective after
+2 December 31, 2025)
+3 In addition to the employer contribution under section 54-52.6-09, a state employer that
+4 receives budgetary approval from the legislative assembly shall contribute to the defined benefit
+5 retirement plan under chapter 54-52, an amount equal to the contribution rate calculated under
+6 section 54-52-06 less the amount of the required employer contribution under sections
+7 54-52.2-09 and 54-52.6-09. If a state employer uses federal funds to pay any or all of an
+8 employee's wages, the employer shall use state funds to pay this additional contribution.
+9 SECTION 7. RETROACTIVE APPLICATION. Section 4 of this Act applies retroactively to
+10 January 1, 2025.
+11 SECTION 8. EMERGENCY. Section 4 of this Act is declared to be an emergency measure.
+Page No. 9 25.0743.03000
+[DELETED: .A.T12]
+[DELETED: .A.N.N.E22]
+[DELETED: .F.A.A32]
+[DELETED: .a.A.E.F.F42]
+[DELETED: .A.A."."."52]
+[DELETED: ."."."."."62]
+[DELETED: .A.T.A.F.T.T72]
+[DELETED: .T.I.E.T.I.A.T82]
+[DELETED: 92]
+
+
+================================================================================
+
+Raw Text:
+25.0743.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1146
+Introduced by
+Representatives Lefor, Dockter, Schauer, Stemen, M. Ruby
+Senators Davison, Dever, Hogue
+1 A BILL for an Act to amend and reenact sections 54-52-02.1, 54-52-06, 54-52.6-01,
+2 54-52.6-02.2, 54-52.6-05, and 54-52.6-09.5 of the North Dakota Century Code, relating to
+3 employer eligibility to participate in the public employees retirement system defined contribution
+4 retirement plan, employer contribution requirements for the defined benefit and defined
+5 contribution retirement plans, and employee eligibility to elect to transfer to the defined
+6 contribution retirement plan; to provide for retroactive application; and to declare an emergency.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Section 54-52-02.1 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 54-52-02.1. Political subdivisions authorized to join public employees retirement
+11 system.
+12 1. A political subdivision may, on behalf of its permanent employees, on behalf of its
+13 peace officers, firefighters, and correctional officers separately from its other
+14 employees, and permanent noncertified employees only in the case of school districts,
+15 enter agreements with the retirement board for the purpose of extending the benefits
+16 of the public employees retirement system, as provided in this chapter or chapter
+17 54 - 52.6 , to those employees. The agreement may, in accordance with this chapter and
+18 chapter 54 - 52.6 , contain provisions relating to benefits, contributions, effective date,
+19 modification, administration, and other appropriate provisions as the retirement board
+20 and the political subdivision agree upon, but the agreement must provide:
+21 a. The political subdivision will contribute on behalf of each eligible employee an
+22 amount equal to that provided in section 54-52-06 or 54-52-06.3 for peace
+Page No. 1 25.0743.03000
+
+Sixty-ninth
+Legislative Assembly
+1 officers, firefighters, and correctional officers participating separately from other
+2 political subdivision employees.
+3 b. A portion of the moneys paid by the political subdivision may be used to pay
+4 administrative expenses of the retirement board.
+5 2. Notwithstanding any other provision of law, a political subdivision having an existing
+6 police or firefighter pension plan may merge that plan into the public employees
+7 retirement system under rules adopted by and in a manner determined by the board.
+8 3. Notwithstanding any other provision of this chapter, a political subdivision of this state
+9 not currently participating in the public employees retirement system may not become
+10 a participant in the retirement system until an actuarial study is performed under the
+11 direction of the board to calculate the required employer contribution for any past
+12 service liability and the required employer contribution must be an amount determined
+13 sufficient to amortize and fund any past service liability over a period not to exceed
+14 thirty years as determined by the board. Any fees incurred in performing the actuarial
+15 study must be paid for by the political subdivision in a manner determined by the
+16 board.
+17 SECTION 2. AMENDMENT. Section 54-52-06 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 54-52-06. Employer's contribution to retirement plan - Report to the employee
+20 benefits programs committee. (Effective through December 31, 2025)
+21 1. Each governmental unit shall contribute an amount equal to four and
+22 twelve-hundredths percent of the monthly salary or wage of a participating member.
+23 Governmental unit contributions increase by one percent of the monthly salary or
+24 wage of a participating member beginning with the monthly reporting period of
+25 January 2012; with an additional increase of one percent, beginning with the reporting
+26 period of January 2013; with an additional increase of one percent, beginning with the
+27 monthly reporting period of January 2014; and with an additional increase of
+28 one percent, beginning with the monthly reporting period of January 2024. For a
+29 participating member who first enrolls after December 31, 2019, the governmental unit
+30 shall contribute an additional amount equal to one and fourteen-hundredths percent of
+31 the monthly salary or wage of the participating member.
+Page No. 2 25.0743.03000
+
+Sixty-ninth
+Legislative Assembly
+1 2. For those members who elect to exercise their rights under section 54-52-17.14, the
+2 employing governmental unit, or in the case of a member not presently under covered
+3 employment the most recent employing governmental unit, shall pay the associated
+4 employer contribution. If the employee's contribution is paid by the governmental unit
+5 under subsection 3 of section 54-52-05, the employer unit shall contribute, in addition,
+6 an amount equal to the required employee's contribution. Each governmental unit
+7 shall pay the contribution monthly, or in the case of an election made pursuant to
+8 section 54-52-17.14 a lump sum, into the retirement fund from the governmental unit's
+9 funds appropriated for payroll and salary or any other funds available for these
+10 purposes. Any governmental unit failing to pay the contributions monthly, or in the
+11 case of an election made pursuant to section 54-52-17.14 a lump sum, or failing to
+12 otherwise comply with the board's established wage reporting or payroll reporting
+13 process requirements, is subject to a civil penalty of fifty dollars and, as interest,
+14 one percent of the amount due for each month of delay or fraction of a month after the
+15 payment became due. In lieu of assessing a civil penalty or one percent per month, or
+16 both, interest at the actuarial rate of return may be assessed for each month the
+17 contributions are delinquent. If contributions are paid within ninety days of the date the
+18 contributions became due, penalty and interest to be paid on delinquent contributions
+19 may be waived.
+20 3. An employer is required to submit contributions for any past eligible employee who
+21 was employed after July 1, 1977, for which contributions were not made if the
+22 employee would have been eligible to become vested had the employee participated
+23 and if the employee elects to join the public employees retirement system. Employer
+24 contributions may not be assessed for eligible service that an employee has waived
+25 pursuant to subsection 1 of section 54-52-05.
+26 4. Annually, the board shall report to the employee benefits programs committee the
+27 contributions necessary, as determined by the actuarial study, to maintain the fund's
+28 actuarial soundness.
+29 Employer's contribution to retirement plan - Report to the employee benefits
+30 programs committee. (Effective after December 31, 2025)
+Page No. 3 25.0743.03000
+
+Sixty-ninth
+Legislative Assembly
+1 1. a. As determined by actuarial valuations, each state governmental unit that receives
+2 budgetary approval from the legislative assembly shall contribute to the defined
+3 benefit plan an amount on a level percent of compensation basis for all main
+4 system defined benefit retirement plan employees and all defined contribution
+5 retirement plan employees sufficient under the actuarial valuation to meet both
+6 the normal cost plus the actuarially determined amount required to amortize the
+7 unfunded accrued liability of the main plan over a closed period of thirty and
+8 one-half years, beginning January 1, 2026, and continuing through June 30,
+9 2056. By November fifteenth of each even-numbered year the board shall publish
+10 the contribution rate required under this subsection. The board shall calculate this
+11 rate based on the July first actuarial report of that year. In lieu of each state
+12 governmental unit that receives budgetary approval from the legislative assembly
+13 contributing the additional actuarially determined rate, the legislative assembly
+14 may authorize a transfer to the public employees retirement system fund in an
+15 amount equal to or greater than the actuarially determined amount as most
+16 recently published by the board for the succeeding biennium.
+17 b. Each participating political subdivision and state governmental unit that does not
+18 receive budgetary approval from the legislative assembly shall contribute an
+19 amount equal to eight and twelve-hundredths percent of the monthly salary or
+20 wage of a participating member.
+21 c. For a participating member who first enrolls after December 31, 2019, a
+22 participating political subdivision shall contribute an additional amount equal to
+23 one and fourteen-hundredths percent of the monthly salary or wage of the
+24 participating member.
+25 2. For those members who elect to exercise their rights under section 54-52-17.14, the
+26 employing governmental unit, or in the case of a member not presently under covered
+27 employment the most recent employing governmental unit, shall pay the associated
+28 employer contribution. If the employee's contribution is paid by the governmental unit
+29 under subsection 3 of section 54-52-05, the employer unit shall contribute, in addition,
+30 an amount equal to the required employee's contribution. Each governmental unit
+31 shall pay the contribution monthly, or in the case of an election made pursuant to
+Page No. 4 25.0743.03000
+
+Sixty-ninth
+Legislative Assembly
+1 section 54-52-17.14 a lump sum, into the retirement fund from the governmental unit's
+2 funds appropriated for payroll and salary or any other funds available for these
+3 purposes. Any governmental unit failing to pay the contributions monthly, or in the
+4 case of an election made pursuant to section 54-52-17.14 a lump sum, or failing to
+5 otherwise comply with the board's established wage reporting or payroll reporting
+6 process requirements, is subject to a civil penalty of fifty dollars and, as interest, one
+7 percent of the amount due for each month of delay or fraction of a month after the
+8 payment became due. In lieu of assessing a civil penalty or one percent per month, or
+9 both, interest at the actuarial rate of return may be assessed for each month the
+10 contributions are delinquent. If contributions are paid within ninety days of the date the
+11 contributions became due, penalty and interest to be paid on delinquent contributions
+12 may be waived.
+13 3. An employer is required to submit contributions for any past eligible employee who
+14 was employed after July 1, 1977, for which contributions were not made if the
+15 employee would have been eligible to become vested had the employee participated
+16 and if the employee elects to join the public employees retirement system. Employer
+17 contributions may not be assessed for eligible service that an employee has waived
+18 pursuant to subsection 1 of section 54-52-05.
+19 4. Annually, the board shall report to the employee benefits programs committee the
+20 contributions necessary, as determined by the actuarial study, to maintain the fund's
+21 actuarial soundness.
+22 SECTION 3. AMENDMENT. Section 54-52.6-01 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 54-52.6-01. Definition of terms.
+25 As used in this chapter, unless the context otherwise requires:
+26 1. "Board" means the public employees retirement system board.
+27 2. "Deferred member" means a personan individual who elected to receive deferred
+28 vested retirement benefits under chapter 54-52.
+29 3. "Eligible employee", for employees who become participating members after
+30 December 31, 2024, has the same meaning as provided under section 54-52-02.15.
+31 For employees who elected to join the defined contribution retirement plan under this
+Page No. 5 25.0743.03000
+
+Sixty-ninth
+Legislative Assembly
+1 chapter before January 1, 2025, the term includes a permanent state employee,
+2 except an employee of the judicial branch or an employee of the board of higher
+3 education and state institutions under the jurisdiction of the board of higher education,
+4 who is at least eighteen years of age and who is in a position not classified by the
+5 North Dakota human resource management services.
+6 4. "Employee" means any personan individual employed by the state, whose
+7 compensation is paid out of state funds, or funds controlled or administered by the
+8 state or paid by the federal government through any of its executive or administrative
+9 officials.
+10 5. "Employer" means the state of North Dakota, except the highway patrol for members
+11 of the retirement plan created under chapter 39 - 03.1, or a participating politica l
+12 subdivision of the state.
+13 6. "Participating member" means an eligible employee who elects to participate in the
+14 defined contribution retirement plan established under this chapter.
+15 7. "Permanent employee" means a state employee whose services are not limited in
+16 duration and who is filling an approved and regularly funded position and is employed
+17 twenty hours or more per week and at least five months each year.
+18 8. "Wages" and "salaries" means earnings in eligible employment under this chapter
+19 reported as salary on a federal income tax withholding statement plus any salary
+20 reduction or salary deferral amounts under 26 U.S.C. 125, 401(k), 403(b), 414(h), or
+21 457. "Salary" does not include fringe benefits such as payments for unused sick leave,
+22 personal leave, vacation leave paid in a lump sum, overtime, housing allowances,
+23 transportation expenses, early retirement, incentive pay, severance pay, medical
+24 insurance, workforce safety and insurance benefits, disability insurance premiums or
+25 benefits, or salary received by a member in lieu of previously employer-provided fringe
+26 benefits under an agreement between an employee and a participating employer.
+27 Bonuses may be considered as salary under this section if reported and annualized
+28 pursuant to rules adopted by the board.
+29 SECTION 4. AMENDMENT. Section 54-52.6-02.2 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 6 25.0743.03000
+
+Sixty-ninth
+Legislative Assembly
+1 54-52.6-02.2. Election after December 31, 2024 - Additional employer contribution.
+2 1. As used in this section, "eligible employee" means a permanent state employee of a
+3 state entity that as of January 1, 2025, receives budgetary approval from the
+4 legislative assembly, who on December 31, 2024, is a participating member of the
+5 public employees retirement system main system plan under chapter 54-4254-52, who
+6 has been a participating member under chapter 54-52 for no more than five years, and
+7 who is at least eighteen years of age.
+8 2. The board shall provide a three-month election period, from January 1, 2025, through
+9 March 31, 2025, for an eligible employee to transfer to the defined contribution plan
+10 under this chapter pursuant to the rules and policies adopted by the board.
+11 a. An election under this section made by a member of the public employees
+12 retirement system under chapter 54-52 to transfer to the defined contribution
+13 retirement plan under this chapter is irrevocable.
+14 b. For an eligible employee who elects to transfer from the public employees
+15 retirement system under chapter 54-52 to the defined contribution retirement plan
+16 under this chapter, the board shall transfer a lump sum amount from the public
+17 employees retirement system fund to the member's account in the defined
+18 contribution retirement plan under this chapter. However, if the eligible employee
+19 terminates employment before receiving the lump sum transfer under this
+20 section, the election made is ineffective and the eligible employee remains a
+21 member of the public employees retirement system under chapter 54-52 and
+22 retains all the rights and privileges under that chapter.
+23 c. The board shall calculate the lump sum amount to be transferred based on the
+24 actuarial present value of the eligible employee's accumulated benefit obligation
+25 under the public employees retirement system based on the assumption the
+26 eligible employee will retire under the earlier applicable normal retirement age,
+27 plus interest from January 1, 2025, to the date of transfer, at the rate of one-half
+28 of one percent less than the actuarial interest assumption at the time of the
+29 election.
+30 d. This section does not affect an eligible individual's right to health benefits under
+31 chapter 54-52.1.
+Page No. 7 25.0743.03000
+
+Sixty-ninth
+Legislative Assembly
+1 3. The state employer of an eligible employee who elects under this section to participate
+2 in the defined contribution retirement plan under this chapter shall pay an additional
+3 annual contribution of three thousand three hundred and thirty-three dollars for up to
+4 three years. Under this subsection, the employer shall pay the additional contribution
+5 each year the eligible employee continues permanent employment with the state,
+6 beginning January 2026, and extending no further than January 2028.
+7 4. If the board receives notification from the internal revenue service that this section or
+8 any portion of this section will cause the public employees retirement system or the
+9 retirement plan established under this chapter to be disqualified for tax purposes
+10 under the Internal Revenue Code, that portion that will cause the disqualification does
+11 not apply.
+12 SECTION 5. AMENDMENT. Section 54-52.6-05 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 54-52.6-05. Direction of investments.
+15 1. Each participating member shall direct the investment of the individual's accumulated
+16 employer and employee contributions and earnings to one or more investment choices
+17 within available categories of investment provided by the board.
+18 2. The board shall provide an investment menu of investment options. In establishing the
+19 investment options, the board shall:
+20 a. Include predetermined investment portfolio options constructed to reflect different
+21 risk profiles that automatically reallocate and rebalance contributions as a
+22 participating member ages.
+23 b. Allow a participating member to construct an investment portfolio using some or
+24 all of the investment options.
+25 3. The board shall provide a diversified menu of mutual fundsinvestment solutions and
+26 in-plan lifetime annuity options that may include in-plan and out-of-plan options , either
+27 fixed, variable, or a combination of both. In selecting an annuity provider the board
+28 shall comply with section 54-52.6-05.1.
+29 SECTION 6. AMENDMENT. Section 54-52.6-09.5 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 8 25.0743.03000
+
+Sixty-ninth
+Legislative Assembly
+1 54-52.6-09.5. Employer contribution for defined benefit plan. (Effective after
+2 December 31, 2025)
+3 In addition to the employer contribution under section 54-52.6-09, a state employer that
+4 receives budgetary approval from the legislative assembly shall contribute to the defined benefit
+5 retirement plan under chapter 54-52, an amount equal to the contribution rate calculated under
+6 section 54-52-06 less the amount of the required employer contribution under sections
+7 54-52.2-09 and 54-52.6-09. If a state employer uses federal funds to pay any or all of an
+8 employee's wages, the employer shall use state funds to pay this additional contribution.
+9 SECTION 7. RETROACTIVE APPLICATION. Section 4 of this Act applies retroactively to
+10 January 1, 2025.
+11 SECTION 8. EMERGENCY. Section 4 of this Act is declared to be an emergency measure.
+Page No. 9 25.0743.03000
+
+[DELETED: .A.T12]
+[DELETED: .A.N.N.E22]
+[DELETED: .F.A.A32]
+[DELETED: .a.A.E.F.F42]
+[DELETED: .A.A."."."52]
+[DELETED: ."."."."."62]
+[DELETED: .A.T.A.F.T.T72]
+[DELETED: .T.I.E.T.I.A.T82]
+[DELETED: 92]

@@ -1,0 +1,144 @@
+Title: ENGROSSED HOUSE BILL NO. 1329
+Official Title: ENGROSSED HOUSE BILL NO. 1329
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with Senate Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1112.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Senate Amendments
+Introduced by
+Representatives O'Brien, Pyle, Schreiber-Beck, Swiontek
+Senator Axtman
+1 A BILL for an Act to create and enact a new section to chapter 54-44.4 of the North Dakota
+2 Century Code, relating to the duties of the superintendent of public instruction and the
+3 establishment of a government spending database; to provide an appropriation; and to provide
+4 an effective date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 54-44.4 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Government spending database - Requirements - Superintendent of public
+9 instruction.
+10 1. As used in this section, "submitting party" means:
+11 a. A budget unit under section 54 - 44.1 - 04 ;
+12 b. A political subdivision;
+13 c. A school district; and
+14 d. An institution under the control of the state board of higher education.
+15 2. The superintendent of public instruction shall collect data from submitting parties and
+16 establish and maintain a government spending database that is accessible without
+17 cost through the internet and contains detailed expenditure data collected from
+18 submitting parties. The data must be updated at least monthly.
+19 3. The database must include for each expenditure:
+20 a. The amount paid.
+21 b. The payment date.
+22 c. The recipient name.
+Page No. 1 25.1112.03000
+Sixty-ninth
+Legislative Assembly
+1 d. The paying entity.
+2 e. The employee position, if for a personnel payment.
+3 f. For a school district, with respect to educational materials:
+4 (1) A description of curriculum.
+5 (2) The publisher and author of a textbook.
+6 (3) A description of software specifications and developer identification.
+7 g. A standardized categorization using United States census bureau codes for state
+8 and local transactions and nationally recognized standardized codes for school
+9 districts and institutions of higher education.
+10 4. The database must provide:
+11 a. Search capabilities.
+12 b. Data aggregation tools.
+13 c. Download options in common formats.
+14 d. Anonymous salary and benefit information.
+15 e. Regular updates of all information.
+16 5. A submitting party shall provide the required data as directed, ensure the accuracy of
+17 the data, and use existing resources for compliance with the requirements of this
+18 section.
+19 SECTION 2. APPROPRIATION - DEPARTMENT OF PUBLIC INSTRUCTION -
+20 GOVERNMENT SPENDING DATABASE - ONE-TIME FUNDING. There is appropriated out of
+21 any moneys in the general fund in the state treasury, not otherwise appropriated, the sum of
+22 $500,000, or so much of the sum as may be necessary, to the department of public instruction
+23 for the purpose of establishing and maintaining a government spending database, for the
+24 biennium beginning July 1, 2025, and ending June 30, 2027. The funding provided in this
+25 section is considered a one time funding item.
+26 SECTION 3. EFFECTIVE DATE. Section 1 of this Act becomes effective July 1, 2026.
+Page No. 2 25.1112.03000
+[DELETED: .A. .A.A.A.T.T.T.T.T12]
+[DELETED: .T.T.F)A)T)A.A.T.S.D.D.A.R.A22]
+
+
+================================================================================
+
+Raw Text:
+25.1112.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Senate Amendments
+ENGROSSED HOUSE BILL NO. 1329
+Introduced by
+Representatives O'Brien, Pyle, Schreiber-Beck, Swiontek
+Senator Axtman
+1 A BILL for an Act to create and enact a new section to chapter 54-44.4 of the North Dakota
+2 Century Code, relating to the duties of the superintendent of public instruction and the
+3 establishment of a government spending database; to provide an appropriation; and to provide
+4 an effective date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 54-44.4 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Government spending database - Requirements - Superintendent of public
+9 instruction.
+10 1. As used in this section, "submitting party" means:
+11 a. A budget unit under section 54 - 44.1 - 04 ;
+12 b. A political subdivision;
+13 c. A school district; and
+14 d. An institution under the control of the state board of higher education.
+15 2. The superintendent of public instruction shall collect data from submitting parties and
+16 establish and maintain a government spending database that is accessible without
+17 cost through the internet and contains detailed expenditure data collected from
+18 submitting parties. The data must be updated at least monthly.
+19 3. The database must include for each expenditure:
+20 a. The amount paid.
+21 b. The payment date.
+22 c. The recipient name.
+Page No. 1 25.1112.03000
+
+Sixty-ninth
+Legislative Assembly
+1 d. The paying entity.
+2 e. The employee position, if for a personnel payment.
+3 f. For a school district, with respect to educational materials:
+4 (1) A description of curriculum.
+5 (2) The publisher and author of a textbook.
+6 (3) A description of software specifications and developer identification.
+7 g. A standardized categorization using United States census bureau codes for state
+8 and local transactions and nationally recognized standardized codes for school
+9 districts and institutions of higher education.
+10 4. The database must provide:
+11 a. Search capabilities.
+12 b. Data aggregation tools.
+13 c. Download options in common formats.
+14 d. Anonymous salary and benefit information.
+15 e. Regular updates of all information.
+16 5. A submitting party shall provide the required data as directed, ensure the accuracy of
+17 the data, and use existing resources for compliance with the requirements of this
+18 section.
+19 SECTION 2. APPROPRIATION - DEPARTMENT OF PUBLIC INSTRUCTION -
+20 GOVERNMENT SPENDING DATABASE - ONE-TIME FUNDING. There is appropriated out of
+21 any moneys in the general fund in the state treasury, not otherwise appropriated, the sum of
+22 $500,000, or so much of the sum as may be necessary, to the department of public instruction
+23 for the purpose of establishing and maintaining a government spending database, for the
+24 biennium beginning July 1, 2025, and ending June 30, 2027. The funding provided in this
+25 section is considered a one time funding item.
+26 SECTION 3. EFFECTIVE DATE. Section 1 of this Act becomes effective July 1, 2026.
+Page No. 2 25.1112.03000
+
+[DELETED: .A. .A.A.A.T.T.T.T.T12]
+[DELETED: .T.T.F)A)T)A.A.T.S.D.D.A.R.A22]

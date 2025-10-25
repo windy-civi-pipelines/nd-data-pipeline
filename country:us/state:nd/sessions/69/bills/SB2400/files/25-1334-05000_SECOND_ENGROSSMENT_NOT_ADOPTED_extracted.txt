@@ -1,0 +1,183 @@
+Title: REENGROSSED SENATE BILL NO. 2400
+Official Title: REENGROSSED SENATE BILL NO. 2400
+Number of Sections: 1
+Source: versions - SECOND ENGROSSMENT - NOT ADOPTED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1334.05000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+SECOND ENGROSSMENT
+Introduced by
+Senators Axtman, Hogue, Sickler, Myrdal
+Representatives Bosch, M. Ruby
+(Approved by the Delayed Bills Committee)
+1 A BILL for an Act to create and enact a new chapter to title 15.1 of the North Dakota Century
+2 Code, relating to the establishment of the education savings account program; and to provide
+3 an appropriation.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new chapter to title 15.1 of the North Dakota Century Code is created and
+6 enacted as follows:
+7 Definitions.
+8 As used in this chapter:
+9 1. "Eligible student" means an elementary or secondary student attending public schoo l
+10 or private school or receiving home education who is a resident of this state and
+11 eligible to attend a public school, including a student who has received a scholarship
+12 under the education savings account program, if the student has not graduated from
+13 high school or reached twenty - one years of age .
+14 2. "Parent" means parent or legal guardian.
+15 3. "Qualified educational expenses" means:
+16 a. Tuition and fees at a nonpublic school;
+17 b. Textbooks, fees, or payments for educational therapies, including tutoring or
+18 cognitive skills training;
+19 c. Curriculum fees, software, and materials for a course of study for a specific
+20 subject matter or grade level;
+21 d. Tuition or fees for nonpublic online education programs;
+Page No. 1 25.1334.05000
+Sixty-ninth
+Legislative Assembly
+1 e. Tuition for vocational and life skills education approved by the superintenden t o f
+2 education;
+3 f. Education materials and services for students with disabilities from an accredited
+4 provider, including the cost of paraprofessionals and assistants who are trained in
+5 accordance with state law;
+6 g. Standardized test fees and advanced placement examinations or examinations
+7 related to postsecondary education admission or credentialing;
+8 h. Tuition or fees for dual-credit courses;
+9 i. Meals served to students in school buildings;
+10 j. Mental health assistance;
+11 k. Medical appointments necessary for educational benefit;
+12 l. Educational camps; and
+13 m. Qualified expenses as adopted by the superintendent of public instruction in
+14 administrative rules.
+15 Superintendent of public instruction - Administrator - Account deposits - Federa l
+16 educational choice program.
+17 1. The superintendent of public instruction is the education savings account program
+18 administrator.
+19 2. For an eligible studen t , the superintenden t of public instruction shall establish an
+20 individual account for the eligible studen t and deposit any payment the student is
+21 entitled to into the eligible studen t 's individual account no later than July fifteenth o f
+22 each year. The funds must be available immediately for the payment of qualified
+23 educational expenses incurred by the parent for the eligible studen t during the fisca l
+24 year.
+25 3. Beginning with the school budget year beginning July 1, 2026, for each school year ,
+26 an eligible studen t :
+27 a. Shall receive an education savings account payment of one thousand dollars , i f
+28 the eligible studen t 's household has an annual income less than or equal to three
+29 hundred percent of the most recently revised poverty income guidelines
+30 published by the United States department of health and human services; and
+31 b. May receive any federal scholarship for educational choice.
+Page No. 2 25.1334.05000
+Sixty-ninth
+Legislative Assembly
+1 4. Notwithstanding any other provision of this chapter, the superintendent of public
+2 instruction, parents, and eligible students shall comply with any federal law or rule
+3 upon which receiving a federal scholarship for educational choice is contingent. The
+4 education savings accounts under this chapter may be used to facilitate any federal
+5 educational choice program.
+6 SECTION 2. APPROPRIATION - SUPERINTENDENT OF PUBLIC INSTRUCTION -
+7 EDUCATION SAVINGS ACCOUNT PROGRAM. There is appropriated out of any moneys in
+8 the general fund in the state treasury, not otherwise appropriated, the sum of $3,000,000, or so
+9 much of the sum as may be necessary, to the superintendent of public instruction for the
+10 purpose of administering the education savings account program, for the biennium beginning
+11 July 1, 2025, and ending June 30, 2027.
+Page No. 3 25.1334.05000
+[DELETED: . .".".T.T.C.T12]
+[DELETED: . .E.S.T.M.M.M.E.Q.T. . . .M22]
+[DELETED: .N32]
+
+
+================================================================================
+
+Raw Text:
+25.1334.05000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+SECOND ENGROSSMENT
+REENGROSSED SENATE BILL NO. 2400
+Introduced by
+Senators Axtman, Hogue, Sickler, Myrdal
+Representatives Bosch, M. Ruby
+(Approved by the Delayed Bills Committee)
+1 A BILL for an Act to create and enact a new chapter to title 15.1 of the North Dakota Century
+2 Code, relating to the establishment of the education savings account program; and to provide
+3 an appropriation.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new chapter to title 15.1 of the North Dakota Century Code is created and
+6 enacted as follows:
+7 Definitions.
+8 As used in this chapter:
+9 1. "Eligible student" means an elementary or secondary student attending public schoo l
+10 or private school or receiving home education who is a resident of this state and
+11 eligible to attend a public school, including a student who has received a scholarship
+12 under the education savings account program, if the student has not graduated from
+13 high school or reached twenty - one years of age .
+14 2. "Parent" means parent or legal guardian.
+15 3. "Qualified educational expenses" means:
+16 a. Tuition and fees at a nonpublic school;
+17 b. Textbooks, fees, or payments for educational therapies, including tutoring or
+18 cognitive skills training;
+19 c. Curriculum fees, software, and materials for a course of study for a specific
+20 subject matter or grade level;
+21 d. Tuition or fees for nonpublic online education programs;
+Page No. 1 25.1334.05000
+
+Sixty-ninth
+Legislative Assembly
+1 e. Tuition for vocational and life skills education approved by the superintenden t o f
+2 education;
+3 f. Education materials and services for students with disabilities from an accredited
+4 provider, including the cost of paraprofessionals and assistants who are trained in
+5 accordance with state law;
+6 g. Standardized test fees and advanced placement examinations or examinations
+7 related to postsecondary education admission or credentialing;
+8 h. Tuition or fees for dual-credit courses;
+9 i. Meals served to students in school buildings;
+10 j. Mental health assistance;
+11 k. Medical appointments necessary for educational benefit;
+12 l. Educational camps; and
+13 m. Qualified expenses as adopted by the superintendent of public instruction in
+14 administrative rules.
+15 Superintendent of public instruction - Administrator - Account deposits - Federa l
+16 educational choice program.
+17 1. The superintendent of public instruction is the education savings account program
+18 administrator.
+19 2. For an eligible studen t , the superintenden t of public instruction shall establish an
+20 individual account for the eligible studen t and deposit any payment the student is
+21 entitled to into the eligible studen t 's individual account no later than July fifteenth o f
+22 each year. The funds must be available immediately for the payment of qualified
+23 educational expenses incurred by the parent for the eligible studen t during the fisca l
+24 year.
+25 3. Beginning with the school budget year beginning July 1, 2026, for each school year ,
+26 an eligible studen t :
+27 a. Shall receive an education savings account payment of one thousand dollars , i f
+28 the eligible studen t 's household has an annual income less than or equal to three
+29 hundred percent of the most recently revised poverty income guidelines
+30 published by the United States department of health and human services; and
+31 b. May receive any federal scholarship for educational choice.
+Page No. 2 25.1334.05000
+
+Sixty-ninth
+Legislative Assembly
+1 4. Notwithstanding any other provision of this chapter, the superintendent of public
+2 instruction, parents, and eligible students shall comply with any federal law or rule
+3 upon which receiving a federal scholarship for educational choice is contingent. The
+4 education savings accounts under this chapter may be used to facilitate any federal
+5 educational choice program.
+6 SECTION 2. APPROPRIATION - SUPERINTENDENT OF PUBLIC INSTRUCTION -
+7 EDUCATION SAVINGS ACCOUNT PROGRAM. There is appropriated out of any moneys in
+8 the general fund in the state treasury, not otherwise appropriated, the sum of $3,000,000, or so
+9 much of the sum as may be necessary, to the superintendent of public instruction for the
+10 purpose of administering the education savings account program, for the biennium beginning
+11 July 1, 2025, and ending June 30, 2027.
+Page No. 3 25.1334.05000
+
+[DELETED: . .".".T.T.C.T12]
+[DELETED: . .E.S.T.M.M.M.E.Q.T. . . .M22]
+[DELETED: .N32]

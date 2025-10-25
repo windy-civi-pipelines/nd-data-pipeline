@@ -1,0 +1,167 @@
+Title: HOUSE BILL NO. 1329
+Official Title: HOUSE BILL NO. 1329
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1112.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives O'Brien, Pyle, Schreiber-Beck, Swiontek
+Senator Axtman
+1 A BILL for an Act to create and enact a new section to chapter 15.1-02 and a new section to
+2 chapter 54-44.4 of the North Dakota Century Code, relating to duties of the superintendent of
+3 public instruction and the establishment of a government spending database; to provide an
+4 appropriation; and to provide an effective date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 15.1-02 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Training of school officials.
+9 The superintendent of public instruction shall:
+10 1. Contract for training servicesfor school board members, superintendents, principals,
+11 and business managers relating to the requirements of section 2 of this Act .
+12 2. Ensure the training includes academic best practices, personnel management,
+13 financial operations, facility planning, and regulatory compliance.
+14 SECTION 2. A new section to chapter 54-44.4 of the North Dakota Century Code is created
+15 and enacted as follows:
+16 Government spending database - Requirements - State treasurer - Office of
+17 management and budget - Superintendent of public instruction.
+18 1. As used in this section, "submitting party" means:
+19 a. A budget unit under section 54 - 44.1 - 04 ;
+20 b. A political subdivision;
+21 c. A school district; and
+22 d. An institution under the control of the state board of higher education.
+23 2. The state treasurer shall collect data from submitting parties and establish and
+24 maintain a government spending database that is accessible without cost through the
+Page No. 1 25.1112.01000
+Sixty-ninth
+Legislative Assembly
+1 internet and contains detailed expenditure data collected from submitting parties. The
+2 data must be updated at least monthly.
+3 3. The database must include for each expenditure:
+4 a. The amount paid.
+5 b. The payment date.
+6 c. The recipient name.
+7 d. The paying entity.
+8 e. The employee position, if for a personnel payment.
+9 f. For a school district, with respect to educational materials:
+10 (1) A description of curriculum.
+11 (2) The publisher and author of a textbook.
+12 (3) A description of software specifications and developer identification.
+13 g. A standardized categorization using United States census bureau codes for state
+14 and local transactions and nationally recognized standardized codes for school
+15 districts and institutions of higher education.
+16 4. The database must provide:
+17 a. Search capabilities.
+18 b. Data aggregation tools.
+19 c. Download options in common formats.
+20 d. Anonymous salary and benefit information.
+21 e. Regular updates of all information.
+22 5. The office of management and budget, in coordination with the state treasurer shall
+23 establish data submission standards for the submitting parties, develop security
+24 protocols, create reporting schedules, and ensure compliance with section 44 - 04 - 18 .
+25 6. A submitting party shall provide the required data as directed, ensure the accuracy of
+26 the data, and use existing resources for compliance with the requirements of this
+27 section.
+28 SECTION 3. APPROPRIATION - STATE TREASURER - GOVERNMENT SPENDING
+29 DATABASE. There is appropriated out of any moneys in the general fund in the state treasury,
+30 not otherwise appropriated, the sum of $350,000, or so much of the sum as may be necessary,
+Page No. 2 25.1112.01000
+Sixty-ninth
+Legislative Assembly
+1 to the state treasurer for the purpose of establishing and maintaining a government spending
+2 database, for the biennium beginning July 1, 2025, and ending June 30, 2027.
+3 SECTION 4. EFFECTIVE DATE. Sections 1 and 2 of this Act become effective July 1, 2026.
+Page No. 3 25.1112.01000
+[DELETED: .C.E.A. .A.A.A.T12]
+[DELETED: .T.T.T.T.T.T.F)A)T)A.A.T.S.D.D.A.R.T.A22]
+[DELETED: 32]
+
+
+================================================================================
+
+Raw Text:
+25.1112.01000
+Sixty-ninth
+HOUSE BILL NO. 1329
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives O'Brien, Pyle, Schreiber-Beck, Swiontek
+Senator Axtman
+1 A BILL for an Act to create and enact a new section to chapter 15.1-02 and a new section to
+2 chapter 54-44.4 of the North Dakota Century Code, relating to duties of the superintendent of
+3 public instruction and the establishment of a government spending database; to provide an
+4 appropriation; and to provide an effective date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 15.1-02 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Training of school officials.
+9 The superintendent of public instruction shall:
+10 1. Contract for training servicesfor school board members, superintendents, principals,
+11 and business managers relating to the requirements of section 2 of this Act .
+12 2. Ensure the training includes academic best practices, personnel management,
+13 financial operations, facility planning, and regulatory compliance.
+14 SECTION 2. A new section to chapter 54-44.4 of the North Dakota Century Code is created
+15 and enacted as follows:
+16 Government spending database - Requirements - State treasurer - Office of
+17 management and budget - Superintendent of public instruction.
+18 1. As used in this section, "submitting party" means:
+19 a. A budget unit under section 54 - 44.1 - 04 ;
+20 b. A political subdivision;
+21 c. A school district; and
+22 d. An institution under the control of the state board of higher education.
+23 2. The state treasurer shall collect data from submitting parties and establish and
+24 maintain a government spending database that is accessible without cost through the
+Page No. 1 25.1112.01000
+
+Sixty-ninth
+Legislative Assembly
+1 internet and contains detailed expenditure data collected from submitting parties. The
+2 data must be updated at least monthly.
+3 3. The database must include for each expenditure:
+4 a. The amount paid.
+5 b. The payment date.
+6 c. The recipient name.
+7 d. The paying entity.
+8 e. The employee position, if for a personnel payment.
+9 f. For a school district, with respect to educational materials:
+10 (1) A description of curriculum.
+11 (2) The publisher and author of a textbook.
+12 (3) A description of software specifications and developer identification.
+13 g. A standardized categorization using United States census bureau codes for state
+14 and local transactions and nationally recognized standardized codes for school
+15 districts and institutions of higher education.
+16 4. The database must provide:
+17 a. Search capabilities.
+18 b. Data aggregation tools.
+19 c. Download options in common formats.
+20 d. Anonymous salary and benefit information.
+21 e. Regular updates of all information.
+22 5. The office of management and budget, in coordination with the state treasurer shall
+23 establish data submission standards for the submitting parties, develop security
+24 protocols, create reporting schedules, and ensure compliance with section 44 - 04 - 18 .
+25 6. A submitting party shall provide the required data as directed, ensure the accuracy of
+26 the data, and use existing resources for compliance with the requirements of this
+27 section.
+28 SECTION 3. APPROPRIATION - STATE TREASURER - GOVERNMENT SPENDING
+29 DATABASE. There is appropriated out of any moneys in the general fund in the state treasury,
+30 not otherwise appropriated, the sum of $350,000, or so much of the sum as may be necessary,
+Page No. 2 25.1112.01000
+
+Sixty-ninth
+Legislative Assembly
+1 to the state treasurer for the purpose of establishing and maintaining a government spending
+2 database, for the biennium beginning July 1, 2025, and ending June 30, 2027.
+3 SECTION 4. EFFECTIVE DATE. Sections 1 and 2 of this Act become effective July 1, 2026.
+Page No. 3 25.1112.01000
+
+[DELETED: .C.E.A. .A.A.A.T12]
+[DELETED: .T.T.T.T.T.T.F)A)T)A.A.T.S.D.D.A.R.T.A22]
+[DELETED: 32]

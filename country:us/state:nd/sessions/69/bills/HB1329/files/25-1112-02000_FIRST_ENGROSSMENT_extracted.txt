@@ -1,0 +1,126 @@
+Title: ENGROSSED HOUSE BILL NO. 1329
+Official Title: ENGROSSED HOUSE BILL NO. 1329
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1112.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representatives O'Brien, Pyle, Schreiber-Beck, Swiontek
+Senator Axtman
+1 A BILL for an Act to provide for a legislative management study regarding the establishment of a
+2 government spending database; and to provide an appropriation.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. LEGISLATIVE MANAGEMENT STUDY - GOVERNMENT SPENDING
+5 DATABASE. During the 2025-26 interim, the legislative management shall consider studying
+6 the feasibility of the establishment of a government spending database. The study must include:
+7 1. A review of the training services necessary for school board members,
+8 superintendents, principals, and business managers regarding the government
+9 spending database, including best practices, personnel management, financial
+10 operations, facility planning, and regulatory compliance.
+11 2. The feasibility of establishing a database that compiles the following information for
+12 each expenditure:
+13 a. The amount paid.
+14 b. The payment date.
+15 c. The recipient name.
+16 d. The paying entity.
+17 e. The employee position, if for a personnel payment.
+18 f. For a school district, with respect to educational materials:
+19 (1) A description of curriculum.
+20 (2) The publisher and author of a textbook.
+21 (3) A description of software specifications and developer identification.
+Page No. 1 25.1112.02000
+Sixty-ninth
+Legislative Assembly
+1 g. A standardized categorization using United States census bureau codes for state
+2 and local transactions and nationally recognized standardized codes for school
+3 districts and institutions of higher education.
+4 3. The feasibility of establishing a database capable of providing:
+5 a. Search capabilities.
+6 b. Data aggregation tools.
+7 c. Download options in common formats.
+8 d. Anonymous salary and benefit information.
+9 e. Regular updates of all information.
+10 The legislative management shall report its findings and recommendations, together with any
+11 legislation necessary to implement the recommendations, to the seventieth legislative assembly.
+12 SECTION 2. APPROPRIATION - LEGISLATIVE COUNCIL - CONSULTANTS FOR
+13 INTERIM STUDY - GOVERNMENT SPENDING DATABASE STUDY - ONE-TIME FUNDING.
+14 There is appropriated out of any moneys in the general fund in the state treasury, not otherwise
+15 appropriated, the sum of $97,000, or so much of the sum as may be necessary, to the
+16 legislative council for the purpose of contracting with a consultant to assist in conducting a study
+17 regarding the feasibility of a government spending database, for the biennium beginning July 1,
+18 2025, and ending June 30, 2027. The funding provided in this section is considered a one-time
+19 funding item.
+Page No. 2 25.1112.02000
+[DELETED: .A.T.T.T.T.T.T.F)A)T)A12]
+[DELETED: .A.T.S.D.D.A.R22]
+
+
+================================================================================
+
+Raw Text:
+25.1112.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1329
+Introduced by
+Representatives O'Brien, Pyle, Schreiber-Beck, Swiontek
+Senator Axtman
+1 A BILL for an Act to provide for a legislative management study regarding the establishment of a
+2 government spending database; and to provide an appropriation.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. LEGISLATIVE MANAGEMENT STUDY - GOVERNMENT SPENDING
+5 DATABASE. During the 2025-26 interim, the legislative management shall consider studying
+6 the feasibility of the establishment of a government spending database. The study must include:
+7 1. A review of the training services necessary for school board members,
+8 superintendents, principals, and business managers regarding the government
+9 spending database, including best practices, personnel management, financial
+10 operations, facility planning, and regulatory compliance.
+11 2. The feasibility of establishing a database that compiles the following information for
+12 each expenditure:
+13 a. The amount paid.
+14 b. The payment date.
+15 c. The recipient name.
+16 d. The paying entity.
+17 e. The employee position, if for a personnel payment.
+18 f. For a school district, with respect to educational materials:
+19 (1) A description of curriculum.
+20 (2) The publisher and author of a textbook.
+21 (3) A description of software specifications and developer identification.
+Page No. 1 25.1112.02000
+
+Sixty-ninth
+Legislative Assembly
+1 g. A standardized categorization using United States census bureau codes for state
+2 and local transactions and nationally recognized standardized codes for school
+3 districts and institutions of higher education.
+4 3. The feasibility of establishing a database capable of providing:
+5 a. Search capabilities.
+6 b. Data aggregation tools.
+7 c. Download options in common formats.
+8 d. Anonymous salary and benefit information.
+9 e. Regular updates of all information.
+10 The legislative management shall report its findings and recommendations, together with any
+11 legislation necessary to implement the recommendations, to the seventieth legislative assembly.
+12 SECTION 2. APPROPRIATION - LEGISLATIVE COUNCIL - CONSULTANTS FOR
+13 INTERIM STUDY - GOVERNMENT SPENDING DATABASE STUDY - ONE-TIME FUNDING.
+14 There is appropriated out of any moneys in the general fund in the state treasury, not otherwise
+15 appropriated, the sum of $97,000, or so much of the sum as may be necessary, to the
+16 legislative council for the purpose of contracting with a consultant to assist in conducting a study
+17 regarding the feasibility of a government spending database, for the biennium beginning July 1,
+18 2025, and ending June 30, 2027. The funding provided in this section is considered a one-time
+19 funding item.
+Page No. 2 25.1112.02000
+
+[DELETED: .A.T.T.T.T.T.T.F)A)T)A12]
+[DELETED: .A.T.S.D.D.A.R22]

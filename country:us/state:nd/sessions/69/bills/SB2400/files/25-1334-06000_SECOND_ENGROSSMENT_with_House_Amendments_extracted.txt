@@ -1,0 +1,605 @@
+Title: REENGROSSED SENATE BILL NO. 2400
+Official Title: REENGROSSED SENATE BILL NO. 2400
+Number of Sections: 1
+Source: versions - SECOND ENGROSSMENT with House Amendments
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25.1334.06000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+SECOND ENGROSSMENT
+with House Amendments
+Introduced by
+Senators Axtman, Hogue, Sickler, Myrdal
+Representatives Bosch, M. Ruby
+(Approved by the Delayed Bills Committee)
+1 A BILL for an Act to create and enact a new section to chapter 12.1-23 and chapter 15.1-27.1 of
+2 the North Dakota Century Code, relating to the creation of a criminal offense for the misuse of
+3 education savings account funds and the establishment of the education savings account
+4 program; to amend and reenact section 15.1-20-02 of the North Dakota Century Code, relating
+5 to exceptions to compulsory school attendance; to provide a penalty; to provide an
+6 appropriation; and to provide a continuing appropriation.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. A new section to chapter 12.1-23 of the North Dakota Century Code is created
+9 and enacted as follows:
+10 Misuse of education savings account funds - Penalty.
+11 1. A person is guilty of an offense under this section if the person:
+12 a. Spends the funds in an education savings account for an expense the person
+13 knows is not a qualified education expense; or
+14 b. Intentionally fails to provide an eligible student with the educational services
+15 funded by the education savings account.
+16 2. An offense under this section is:
+17 a. A class A felony if the value of the funds spent or the educational services not
+18 provided exceeds fifty thousand dollars;
+19 b. A class B felony if the value of the funds spent or the educational services not
+20 provided exceeds ten thousand dollars but does not exceed fifty thousand
+21 dollars;
+Page No. 1 25.1334.06000
+Sixty-ninth
+Legislative Assembly
+1 c. A class C felony if the value of the funds spent or the educational services not
+2 provided exceeds one thousand dollars but does not exceed ten thousand
+3 dollars;
+4 d. A class A misdemeanor if the value of the funds spent or the educational services
+5 not provided exceeds five hundred dollars but does not exceed one thousand
+6 dollars; or
+7 e. A class B misdemeanor in all other cases.
+8 SECTION 2. Chapter 15.1-27.1 of the North Dakota Century Code is created and enacted
+9 as follows:
+10 15.1 - 27.1 - 01. Definitions .
+11 As used in this chapter:
+12 1. "Education service provider" means a person approved to provide qualified education
+13 services. The term does not include a participating school or a parent supervising
+14 home education in accordance with chapter 15.1 - 23 .
+15 2. "Eligible student" means an elementary or secondary student who is a resident of this
+16 state and eligible to attend a public school, including a student who has received a
+17 scholarship under the education savings account program, if the student has not
+18 graduated from high school or reached twenty - one years of age .
+19 3. "Parent" means parent or legal guardian.
+20 4. "Participating school" means a nonpublic school providing education to elementary
+21 students, secondary students, or both, which has notified the administrator of the
+22 school's intention to participate in the education savings account program and comply
+23 with the education savings account program requirements.
+24 5. "Qualified educational expenses" means:
+25 a. Tuition and fees at a nonpublic school;
+26 b. Textbooks, fees, or payments for educational therapies, including tutoring or
+27 cognitive skills training;
+28 c. Curriculum fees, software, and materials for a course of study for a specific
+29 subject matter or grade level;
+30 d. Tuition or fees for nonpublic online education programs;
+Page No. 2 25.1334.06000
+Sixty-ninth
+Legislative Assembly
+1 e. Tuition for vocational and life skills education approved by the superintenden t o f
+2 education;
+3 f. Education materials and services for students with disabilities from an accredited
+4 provider, including the cost of paraprofessionals and assistants who are trained in
+5 accordance with state law;
+6 g. Standardized test fees and advanced placement examinations or examinations
+7 related to postsecondary education admission or credentialing;
+8 h. Tuition or fees for dual-credit courses;
+9 i. Meals served to students in school buildings;
+10 j. Mental health assistance;
+11 k. Medical appointments necessary for educational benefit;
+12 l. Educational camps; and
+13 m. Qualified expenses as adopted by the superintendent of public instruction in
+14 administrative rules.
+15 15.1 - 27.1 - 02. Education savings account fund - Establishment - Continuing
+16 appropriation.
+17 There is created in the state treasury an education savings account fund. The fund consists
+18 of moneys appropriated to the superintendent of public instruction for the education savings
+19 account program. Moneys in the fund are appropriated on a continuing basis for education
+20 savings accounts.
+21 15.1 - 27.1 - 03. Superintendent of public instruction - Administrator - Duties .
+22 1. The superintendent of public instruction is the education savings account program
+23 administrator, and shall:
+24 a. Annually inform eligible students and parents of the schools participating in the
+25 education savings account program .
+26 b. Create a standard application form a parent of an eligible student may submit to
+27 establish the student's eligibility for the education savings account program. The
+28 superintendent shall ensure the application is readily available to interested
+29 families through various sources, including the department's website .
+Page No. 3 25.1334.06000
+Sixty-ninth
+Legislative Assembly
+1 c. Execute a multimedia marketing program targeting eligible families, particularly
+2 families below the state's median household income, informing the families about
+3 the education savings account program and how to apply .
+4 d. Establish a web and phone-based support system providing parents with
+5 education savings account program application support and ongoing account
+6 maintenance suppor t .
+7 e. Reduce potential waste, fraud, and abuse, and ensure that any technology
+8 platform used for the program meets the state's highest security requirements,
+9 including compliance .
+10 f. Report evidence of the misuse of education savings account funds to law
+11 enforcement.
+12 g. Inform the parent of a student with a disability under the Individuals with
+13 Disabilities Education Act of 1990 [Pub. L. 91-230; 84 Stat. 121; 20 U.S.C. 1400
+14 et seq.] if the parent spends the funds in the student's education savings account
+15 on tuition or fees at a nonpublic school, the services received from the nonpublic
+16 school constitute a parental placement and the protections under the Individuals
+17 with Disabilities Education Act of 1990 no longer apply to the student.
+18 h. Adopt rules to implement this chapter.
+19 2. The superintendent of public instruction may:
+20 a. Make and enter a contract with a third-party entity to administer and audit the
+21 program, including allocating funds from each eligible studen t 's account for the
+22 payment of qualified educational expenses by the eligible studen t 's paren t .
+23 b. Conduct audits or other reviews necessary to properly administer the program .
+24 c. Bar a participating school or education service provider from the education
+25 savings account program, if the superintenden t determines the participating
+26 school or education provider has:
+27 (1) Routinely failed to comply with the accountability standards established
+28 under this chapter; or
+29 (2) Failed to provide the eligible studen t with the educational services funded by
+30 the education savings account.
+Page No. 4 25.1334.06000
+Sixty-ninth
+Legislative Assembly
+1 15.1 - 27.1 - 04. Enrollment - Account deposits .
+2 1. From January first to June thirtieth immediately preceding the school year for which
+3 the education savings account payment is requested, the parent of an eligible student
+4 may request an education savings account payment by submitting an application to
+5 the superintendent of public instruction.
+6 2. Within thirty days of submission of an application, the superintenden t of public
+7 instruction or third-party entity shall notify the parent whether the eligible studen t is
+8 approved for the following school year and specify the amount of the education
+9 savings account payment for the eligible studen t , if known at the time of the notice .
+10 3. For an eligible studen t approved for an education savings account payment, the
+11 superintenden t of public instruction or third-party entity shall establish an individua l
+12 account for the eligible studen t in the education savings account fund and deposit the
+13 payment into the eligible studen t 's individual account within thirty days following
+14 submission of the application, but in any case no later than July fifteenth. The funds
+15 must be available immediately for the payment of qualified educational expenses
+16 incurred by the parent for the eligible studen t during the fiscal year .
+17 4. A participating school or education service provider accepting payment from a paren t
+18 using funds from an eligible studen t 's individual account in the fund may not refund ,
+19 rebate, or share any portion of the payment with the parent or eligible studen t .
+20 5. Moneys remaining in an eligible studen t 's individual account upon conclusion of the
+21 fiscal year must be returned to the education savings account fund.
+22 6. Beginning with the school budget year beginning July 1, 2026, for each school year ,
+23 an eligible studen t who :
+24 a. Is enrolled full-time in and attends a public school is eligible to receive an
+25 education savings account payment of one thousand dollars .
+26 b. Is enrolled full-time in and attends a participating school, or who participates in a
+27 home education program subject to subsection 9 and is enrolled in courses at the
+28 center for distance education, is eligible to receive an education savings account
+29 payment of:
+30 (1) Three thousand five hundred dollars, if the eligible studen t 's household has
+31 an annual income less than or equal to three hundred percent of the most
+Page No. 5 25.1334.06000
+Sixty-ninth
+Legislative Assembly
+1 recently revised poverty income guidelines published by the United States
+2 department of health and human services.
+3 (2) Two thousand dollars, if the eligible studen t 's household has an annua l
+4 income greater than three hundred percent and less than or equal to five
+5 hundred percent of the most recently revised poverty income guidelines
+6 published by the United States department of health and human services.
+7 (3) One thousand dollars, if the eligible studen t does not qualify under
+8 paragraph 1 or 2 .
+9 c. Participates in a home education program subject to subsection 9 is eligible to
+10 receive an education savings account payment of one thousand dollars .
+11 d. Attends a nonpublic school that is not a participating school is eligible to receive
+12 an education savings account payment of five hundred dollars.
+13 7. Education savings account payments may be approved for one school year and
+14 applications must be submitted annually for payments in subsequent school years.
+15 8. Funds deposited in an education savings account are not taxable income to the parent
+16 or eligible studen t .
+17 9. A parent who submits an application for an education savings account for an eligible
+18 student, which is approved by the superintendent of public instruction, may not file a
+19 statement of intent under section 15.1 - 23 - 02. If a statement of intent is on file at the
+20 time the application is approved, the approval of the application constitutes revocation
+21 of the statement of intent. This chapter and related rules do not apply to a home
+22 education student who is not participating in the program under this chapter.
+23 15.1 - 27.1 - 05. Participating schools - Accountability standards - Autonomy .
+24 1. A participating school shall:
+25 a. Certify the school complies with the nondiscrimination policies under 42 U.S.C .
+26 1981.
+27 b. Provide a parent with a receipt for all qualifying expenses at the school.
+28 c. Demonstrate the school's financial viability, if the school will receive fifty thousand
+29 dollars or more during the school year, by filing with the superintendent of public
+30 instruction before the start of the school year:
+Page No. 6 25.1334.06000
+Sixty-ninth
+Legislative Assembly
+1 (1) A surety bond payable to the state in an amount equal to the aggregate
+2 amount of funds from education savings accounts the participating school
+3 expects to receive; or
+4 (2) Financial information demonstrating the school is able to pay an aggregate
+5 amount equal to the amount of the funds from education savings accounts
+6 the participating school expects to receive.
+7 d. Administer state tests and assessments and comply with requirements in
+8 accordance with sections 15.1 - 21 - 08, 15.1 - 21 - 09, and 15.1 - 21 - 10 .
+9 2. An eligible studen t using education savings account program funds for tuition
+10 payments at a participating school shall take required state tests and assessments in
+11 accordance with section 15.1 - 21 - 08. This subsection does not apply to an eligible
+12 student participating in a home education program subject to subsection 9 of section
+13 15.1 - 27.1 - 04 who is enrolled in courses at the center for distance education .
+14 3. The superintenden t of public instruction :
+15 a. Shall compile and publish assessment results in accordance with sections
+16 15.1 - 21 - 09 and 15.1 - 21 - 10 .
+17 b. Shall administer an annual parental satisfaction survey requesting each parent of
+18 an eligible studen t receiving an education savings account program payment to
+19 indicate the number of years the child has participated in the education savings
+20 account program and express the parent's:
+21 (1) Satisfaction with the education savings account program .
+22 (2) Opinions on other topics, items, or issues that may indicate the
+23 effectiveness of the education savings account program.
+24 c. May apply to a federal agency for supplemental funds for this program and may
+25 create other education savings account programs in accordance with
+26 requirements identified in a federal grant. The department of public instruction
+27 may adopt rules to implement this subdivision. If there is a conflict between a
+28 provision of this chapter and rules adopted to receive a federal grant under this
+29 subdivision, the rules supersede this chapter.
+30 4. A participating school or education service provider is autonomous and not an agent of
+31 the state or federal government. The superintenden t may not regulate the educationa l
+Page No. 7 25.1334.06000
+Sixty-ninth
+Legislative Assembly
+1 program of a participating school or education service provider that accepts funds from
+2 an education savings account. The creation of the education savings account program
+3 does not expand the regulatory authority of the state, its officers, or a school district
+4 beyond the regulations necessary to enforce the requirements of the education
+5 savings account program.
+6 SECTION 3. AMENDMENT. Section 15.1-20-02 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 15.1-20-02. Compulsory attendance - Exceptions.
+9 1. Section 15.1-20-01 does not apply if the person having responsibility for the child
+10 demonstrates to the satisfaction of the school board that:
+11 a. The child is in attendance for the same length of time at an approved nonpublic
+12 school;.
+13 b. The child has completed high school;.
+14 c. The child is necessary to the support of the child's family;.
+15 d. A multidisciplinary team including the child's school district superintendent, the
+16 director of the child's special education unit, the child's classroom teacher, the
+17 child's physician, and the child's parent has determined that the child has a
+18 disability that renders attendance or participation in a regular or special education
+19 program inexpedient or impracticable;.
+20 e. The child is receiving home education; or under chapter 15.1 - 23 .
+21 f. The child is a military-connected student engaging in virtual instruction under
+22 section 15.1-07-37 at the educational entity of the gaining or losing military
+23 installation, a student with a medical condition unable to physically attend school,
+24 or a student moving out of state and virtual instruction is allowed by the gaining
+25 or losing educational entity.
+26 g. The child is participating in a home education program and is participating in the
+27 education savings account program under chapter 15.1 - 27.1 .
+28 2. The period of virtual instruction under subdivision f of subsection 1 may not extend
+29 beyond the current school year.
+30 3. A decision by the board of a school district under subsection 1 is appealable to the
+31 district court.
+Page No. 8 25.1334.06000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 4. APPROPRIATION - SUPERINTENDENT OF PUBLIC INSTRUCTION -
+2 EDUCATION SAVINGS ACCOUNT PROGRAM. There is appropriated out of any moneys in
+3 the general fund in the state treasury, not otherwise appropriated, the sum of $3,000,000, or so
+4 much of the sum as may be necessary, to the superintendent of public instruction for the
+5 purpose of administering the education savings account program, for the biennium beginning
+6 July 1, 2025, and ending June 30, 2027.
+7 SECTION 5. APPROPRIATION - SUPERINTENDENT OF PUBLIC INSTRUCTION -
+8 EDUCATION SAVINGS ACCOUNT PROGRAM - LEGAL DEFENSE. There is appropriated out
+9 of any moneys in the general fund in the state treasury, not otherwise appropriated, the sum of
+10 $3,000,000, or so much of the sum as may be necessary, to the superintendent of public
+11 instruction for the purpose of defending any lawsuit related to the education savings account
+12 program under chapter 15.1-27.1, in which the state is a defendant, for the biennium beginning
+13 July 1, 2025, and ending June 30, 2027.
+Page No. 9 25.1334.06000
+[DELETED: .A.S.I.A.A.A12]
+[DELETED: .A.A.A.".".".".".T.T.C.T22]
+[DELETED: . .E.S.T.M.M.M.E.Q.T.A.C32]
+[DELETED: .E.E.R.R.I.A.T.M. .B)R) 42]
+[DELETED: .F. . . . . .I. ) 52]
+[DELETED: ) ) . .A.E.F.A.A. .P.D62]
+[DELETED: )A)F.A. . .S.S) )O.M.A72]
+[DELETED: .S.T.T.T.A.T.T.T.T.A82]
+[DELETED: 92]
+
+
+================================================================================
+
+Raw Text:
+25.1334.06000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+SECOND ENGROSSMENT
+with House Amendments
+REENGROSSED SENATE BILL NO. 2400
+Introduced by
+Senators Axtman, Hogue, Sickler, Myrdal
+Representatives Bosch, M. Ruby
+(Approved by the Delayed Bills Committee)
+1 A BILL for an Act to create and enact a new section to chapter 12.1-23 and chapter 15.1-27.1 of
+2 the North Dakota Century Code, relating to the creation of a criminal offense for the misuse of
+3 education savings account funds and the establishment of the education savings account
+4 program; to amend and reenact section 15.1-20-02 of the North Dakota Century Code, relating
+5 to exceptions to compulsory school attendance; to provide a penalty; to provide an
+6 appropriation; and to provide a continuing appropriation.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. A new section to chapter 12.1-23 of the North Dakota Century Code is created
+9 and enacted as follows:
+10 Misuse of education savings account funds - Penalty.
+11 1. A person is guilty of an offense under this section if the person:
+12 a. Spends the funds in an education savings account for an expense the person
+13 knows is not a qualified education expense; or
+14 b. Intentionally fails to provide an eligible student with the educational services
+15 funded by the education savings account.
+16 2. An offense under this section is:
+17 a. A class A felony if the value of the funds spent or the educational services not
+18 provided exceeds fifty thousand dollars;
+19 b. A class B felony if the value of the funds spent or the educational services not
+20 provided exceeds ten thousand dollars but does not exceed fifty thousand
+21 dollars;
+Page No. 1 25.1334.06000
+
+Sixty-ninth
+Legislative Assembly
+1 c. A class C felony if the value of the funds spent or the educational services not
+2 provided exceeds one thousand dollars but does not exceed ten thousand
+3 dollars;
+4 d. A class A misdemeanor if the value of the funds spent or the educational services
+5 not provided exceeds five hundred dollars but does not exceed one thousand
+6 dollars; or
+7 e. A class B misdemeanor in all other cases.
+8 SECTION 2. Chapter 15.1-27.1 of the North Dakota Century Code is created and enacted
+9 as follows:
+10 15.1 - 27.1 - 01. Definitions .
+11 As used in this chapter:
+12 1. "Education service provider" means a person approved to provide qualified education
+13 services. The term does not include a participating school or a parent supervising
+14 home education in accordance with chapter 15.1 - 23 .
+15 2. "Eligible student" means an elementary or secondary student who is a resident of this
+16 state and eligible to attend a public school, including a student who has received a
+17 scholarship under the education savings account program, if the student has not
+18 graduated from high school or reached twenty - one years of age .
+19 3. "Parent" means parent or legal guardian.
+20 4. "Participating school" means a nonpublic school providing education to elementary
+21 students, secondary students, or both, which has notified the administrator of the
+22 school's intention to participate in the education savings account program and comply
+23 with the education savings account program requirements.
+24 5. "Qualified educational expenses" means:
+25 a. Tuition and fees at a nonpublic school;
+26 b. Textbooks, fees, or payments for educational therapies, including tutoring or
+27 cognitive skills training;
+28 c. Curriculum fees, software, and materials for a course of study for a specific
+29 subject matter or grade level;
+30 d. Tuition or fees for nonpublic online education programs;
+Page No. 2 25.1334.06000
+
+Sixty-ninth
+Legislative Assembly
+1 e. Tuition for vocational and life skills education approved by the superintenden t o f
+2 education;
+3 f. Education materials and services for students with disabilities from an accredited
+4 provider, including the cost of paraprofessionals and assistants who are trained in
+5 accordance with state law;
+6 g. Standardized test fees and advanced placement examinations or examinations
+7 related to postsecondary education admission or credentialing;
+8 h. Tuition or fees for dual-credit courses;
+9 i. Meals served to students in school buildings;
+10 j. Mental health assistance;
+11 k. Medical appointments necessary for educational benefit;
+12 l. Educational camps; and
+13 m. Qualified expenses as adopted by the superintendent of public instruction in
+14 administrative rules.
+15 15.1 - 27.1 - 02. Education savings account fund - Establishment - Continuing
+16 appropriation.
+17 There is created in the state treasury an education savings account fund. The fund consists
+18 of moneys appropriated to the superintendent of public instruction for the education savings
+19 account program. Moneys in the fund are appropriated on a continuing basis for education
+20 savings accounts.
+21 15.1 - 27.1 - 03. Superintendent of public instruction - Administrator - Duties .
+22 1. The superintendent of public instruction is the education savings account program
+23 administrator, and shall:
+24 a. Annually inform eligible students and parents of the schools participating in the
+25 education savings account program .
+26 b. Create a standard application form a parent of an eligible student may submit to
+27 establish the student's eligibility for the education savings account program. The
+28 superintendent shall ensure the application is readily available to interested
+29 families through various sources, including the department's website .
+Page No. 3 25.1334.06000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Execute a multimedia marketing program targeting eligible families, particularly
+2 families below the state's median household income, informing the families about
+3 the education savings account program and how to apply .
+4 d. Establish a web and phone-based support system providing parents with
+5 education savings account program application support and ongoing account
+6 maintenance suppor t .
+7 e. Reduce potential waste, fraud, and abuse, and ensure that any technology
+8 platform used for the program meets the state's highest security requirements,
+9 including compliance .
+10 f. Report evidence of the misuse of education savings account funds to law
+11 enforcement.
+12 g. Inform the parent of a student with a disability under the Individuals with
+13 Disabilities Education Act of 1990 [Pub. L. 91-230; 84 Stat. 121; 20 U.S.C. 1400
+14 et seq.] if the parent spends the funds in the student's education savings account
+15 on tuition or fees at a nonpublic school, the services received from the nonpublic
+16 school constitute a parental placement and the protections under the Individuals
+17 with Disabilities Education Act of 1990 no longer apply to the student.
+18 h. Adopt rules to implement this chapter.
+19 2. The superintendent of public instruction may:
+20 a. Make and enter a contract with a third-party entity to administer and audit the
+21 program, including allocating funds from each eligible studen t 's account for the
+22 payment of qualified educational expenses by the eligible studen t 's paren t .
+23 b. Conduct audits or other reviews necessary to properly administer the program .
+24 c. Bar a participating school or education service provider from the education
+25 savings account program, if the superintenden t determines the participating
+26 school or education provider has:
+27 (1) Routinely failed to comply with the accountability standards established
+28 under this chapter; or
+29 (2) Failed to provide the eligible studen t with the educational services funded by
+30 the education savings account.
+Page No. 4 25.1334.06000
+
+Sixty-ninth
+Legislative Assembly
+1 15.1 - 27.1 - 04. Enrollment - Account deposits .
+2 1. From January first to June thirtieth immediately preceding the school year for which
+3 the education savings account payment is requested, the parent of an eligible student
+4 may request an education savings account payment by submitting an application to
+5 the superintendent of public instruction.
+6 2. Within thirty days of submission of an application, the superintenden t of public
+7 instruction or third-party entity shall notify the parent whether the eligible studen t is
+8 approved for the following school year and specify the amount of the education
+9 savings account payment for the eligible studen t , if known at the time of the notice .
+10 3. For an eligible studen t approved for an education savings account payment, the
+11 superintenden t of public instruction or third-party entity shall establish an individua l
+12 account for the eligible studen t in the education savings account fund and deposit the
+13 payment into the eligible studen t 's individual account within thirty days following
+14 submission of the application, but in any case no later than July fifteenth. The funds
+15 must be available immediately for the payment of qualified educational expenses
+16 incurred by the parent for the eligible studen t during the fiscal year .
+17 4. A participating school or education service provider accepting payment from a paren t
+18 using funds from an eligible studen t 's individual account in the fund may not refund ,
+19 rebate, or share any portion of the payment with the parent or eligible studen t .
+20 5. Moneys remaining in an eligible studen t 's individual account upon conclusion of the
+21 fiscal year must be returned to the education savings account fund.
+22 6. Beginning with the school budget year beginning July 1, 2026, for each school year ,
+23 an eligible studen t who :
+24 a. Is enrolled full-time in and attends a public school is eligible to receive an
+25 education savings account payment of one thousand dollars .
+26 b. Is enrolled full-time in and attends a participating school, or who participates in a
+27 home education program subject to subsection 9 and is enrolled in courses at the
+28 center for distance education, is eligible to receive an education savings account
+29 payment of:
+30 (1) Three thousand five hundred dollars, if the eligible studen t 's household has
+31 an annual income less than or equal to three hundred percent of the most
+Page No. 5 25.1334.06000
+
+Sixty-ninth
+Legislative Assembly
+1 recently revised poverty income guidelines published by the United States
+2 department of health and human services.
+3 (2) Two thousand dollars, if the eligible studen t 's household has an annua l
+4 income greater than three hundred percent and less than or equal to five
+5 hundred percent of the most recently revised poverty income guidelines
+6 published by the United States department of health and human services.
+7 (3) One thousand dollars, if the eligible studen t does not qualify under
+8 paragraph 1 or 2 .
+9 c. Participates in a home education program subject to subsection 9 is eligible to
+10 receive an education savings account payment of one thousand dollars .
+11 d. Attends a nonpublic school that is not a participating school is eligible to receive
+12 an education savings account payment of five hundred dollars.
+13 7. Education savings account payments may be approved for one school year and
+14 applications must be submitted annually for payments in subsequent school years.
+15 8. Funds deposited in an education savings account are not taxable income to the parent
+16 or eligible studen t .
+17 9. A parent who submits an application for an education savings account for an eligible
+18 student, which is approved by the superintendent of public instruction, may not file a
+19 statement of intent under section 15.1 - 23 - 02. If a statement of intent is on file at the
+20 time the application is approved, the approval of the application constitutes revocation
+21 of the statement of intent. This chapter and related rules do not apply to a home
+22 education student who is not participating in the program under this chapter.
+23 15.1 - 27.1 - 05. Participating schools - Accountability standards - Autonomy .
+24 1. A participating school shall:
+25 a. Certify the school complies with the nondiscrimination policies under 42 U.S.C .
+26 1981.
+27 b. Provide a parent with a receipt for all qualifying expenses at the school.
+28 c. Demonstrate the school's financial viability, if the school will receive fifty thousand
+29 dollars or more during the school year, by filing with the superintendent of public
+30 instruction before the start of the school year:
+Page No. 6 25.1334.06000
+
+Sixty-ninth
+Legislative Assembly
+1 (1) A surety bond payable to the state in an amount equal to the aggregate
+2 amount of funds from education savings accounts the participating school
+3 expects to receive; or
+4 (2) Financial information demonstrating the school is able to pay an aggregate
+5 amount equal to the amount of the funds from education savings accounts
+6 the participating school expects to receive.
+7 d. Administer state tests and assessments and comply with requirements in
+8 accordance with sections 15.1 - 21 - 08, 15.1 - 21 - 09, and 15.1 - 21 - 10 .
+9 2. An eligible studen t using education savings account program funds for tuition
+10 payments at a participating school shall take required state tests and assessments in
+11 accordance with section 15.1 - 21 - 08. This subsection does not apply to an eligible
+12 student participating in a home education program subject to subsection 9 of section
+13 15.1 - 27.1 - 04 who is enrolled in courses at the center for distance education .
+14 3. The superintenden t of public instruction :
+15 a. Shall compile and publish assessment results in accordance with sections
+16 15.1 - 21 - 09 and 15.1 - 21 - 10 .
+17 b. Shall administer an annual parental satisfaction survey requesting each parent of
+18 an eligible studen t receiving an education savings account program payment to
+19 indicate the number of years the child has participated in the education savings
+20 account program and express the parent's:
+21 (1) Satisfaction with the education savings account program .
+22 (2) Opinions on other topics, items, or issues that may indicate the
+23 effectiveness of the education savings account program.
+24 c. May apply to a federal agency for supplemental funds for this program and may
+25 create other education savings account programs in accordance with
+26 requirements identified in a federal grant. The department of public instruction
+27 may adopt rules to implement this subdivision. If there is a conflict between a
+28 provision of this chapter and rules adopted to receive a federal grant under this
+29 subdivision, the rules supersede this chapter.
+30 4. A participating school or education service provider is autonomous and not an agent of
+31 the state or federal government. The superintenden t may not regulate the educationa l
+Page No. 7 25.1334.06000
+
+Sixty-ninth
+Legislative Assembly
+1 program of a participating school or education service provider that accepts funds from
+2 an education savings account. The creation of the education savings account program
+3 does not expand the regulatory authority of the state, its officers, or a school district
+4 beyond the regulations necessary to enforce the requirements of the education
+5 savings account program.
+6 SECTION 3. AMENDMENT. Section 15.1-20-02 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 15.1-20-02. Compulsory attendance - Exceptions.
+9 1. Section 15.1-20-01 does not apply if the person having responsibility for the child
+10 demonstrates to the satisfaction of the school board that:
+11 a. The child is in attendance for the same length of time at an approved nonpublic
+12 school;.
+13 b. The child has completed high school;.
+14 c. The child is necessary to the support of the child's family;.
+15 d. A multidisciplinary team including the child's school district superintendent, the
+16 director of the child's special education unit, the child's classroom teacher, the
+17 child's physician, and the child's parent has determined that the child has a
+18 disability that renders attendance or participation in a regular or special education
+19 program inexpedient or impracticable;.
+20 e. The child is receiving home education; or under chapter 15.1 - 23 .
+21 f. The child is a military-connected student engaging in virtual instruction under
+22 section 15.1-07-37 at the educational entity of the gaining or losing military
+23 installation, a student with a medical condition unable to physically attend school,
+24 or a student moving out of state and virtual instruction is allowed by the gaining
+25 or losing educational entity.
+26 g. The child is participating in a home education program and is participating in the
+27 education savings account program under chapter 15.1 - 27.1 .
+28 2. The period of virtual instruction under subdivision f of subsection 1 may not extend
+29 beyond the current school year.
+30 3. A decision by the board of a school district under subsection 1 is appealable to the
+31 district court.
+Page No. 8 25.1334.06000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 4. APPROPRIATION - SUPERINTENDENT OF PUBLIC INSTRUCTION -
+2 EDUCATION SAVINGS ACCOUNT PROGRAM. There is appropriated out of any moneys in
+3 the general fund in the state treasury, not otherwise appropriated, the sum of $3,000,000, or so
+4 much of the sum as may be necessary, to the superintendent of public instruction for the
+5 purpose of administering the education savings account program, for the biennium beginning
+6 July 1, 2025, and ending June 30, 2027.
+7 SECTION 5. APPROPRIATION - SUPERINTENDENT OF PUBLIC INSTRUCTION -
+8 EDUCATION SAVINGS ACCOUNT PROGRAM - LEGAL DEFENSE. There is appropriated out
+9 of any moneys in the general fund in the state treasury, not otherwise appropriated, the sum of
+10 $3,000,000, or so much of the sum as may be necessary, to the superintendent of public
+11 instruction for the purpose of defending any lawsuit related to the education savings account
+12 program under chapter 15.1-27.1, in which the state is a defendant, for the biennium beginning
+13 July 1, 2025, and ending June 30, 2027.
+Page No. 9 25.1334.06000
+
+[DELETED: .A.S.I.A.A.A12]
+[DELETED: .A.A.A.".".".".".T.T.C.T22]
+[DELETED: . .E.S.T.M.M.M.E.Q.T.A.C32]
+[DELETED: .E.E.R.R.I.A.T.M. .B)R) 42]
+[DELETED: .F. . . . . .I. ) 52]
+[DELETED: ) ) . .A.E.F.A.A. .P.D62]
+[DELETED: )A)F.A. . .S.S) )O.M.A72]
+[DELETED: .S.T.T.T.A.T.T.T.T.A82]
+[DELETED: 92]

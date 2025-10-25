@@ -1,0 +1,128 @@
+Title: ENGROSSED SENATE BILL NO. 2009
+Official Title: ENGROSSED SENATE BILL NO. 2009
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with House Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0176.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the state fair
+2 association; to repeal section 4.1-45-22.1 of the North Dakota Century Code, relating to state
+3 fair facility operations and maintenance costs; and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+6 as may be necessary, are appropriated out of any moneys in the general fund in the state
+7 treasury, not otherwise appropriated, to the state fair association for the purpose of defraying
+8 the expenses of the state fair association, for the biennium beginning July 1, 2025, and ending
+9 June 30, 2027, as follows:
+10 Adjustments or
+11 Base Level Enhancements Appropriation
+12 Premiums $642,833 $0 $642,833
+13 Campground rest facility 0 600,000 600,000
+14 Safety and security infrastructure 0 500,000 500,000
+15 Facility enhancements 0 100,000 100,000
+16 Total all funds $642,833 $1,200,000 $1,842,833
+17 Less other funds 0 1,200,000 1,200,000
+18 Total general fund $642,833 $0 $642,833
+19 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+20 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+21 items included in the appropriation in section 1 of this Act which are not included in the entity's
+Page No. 1 25.0176.03000
+Sixty-ninth
+Legislative Assembly
+1 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+2 committees of the seventieth legislative assembly regarding the use of this funding:
+3 One-Time Funding Description General Fund Other Funds Total
+4 Campground rest facility $0 $600,000 $600,000
+5 Safety and security infrastructure 0 500,000 500,000
+6 Facility enhancements 0 100,000 100,000
+7 Total $0 $1,200,000 $1,200,000
+8 SECTION 3. OTHER FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND.
+9 The other funds line item in section 1 of this Act includes the sum of $1,200,000 from the
+10 strategic investment and improvements fund for a campground rest facility, safety and security
+11 infrastructure, and facility enhancements.
+12 SECTION 4. CAMPGROUND REST FACILITY AND SAFETY AND SECURITY
+13 INFRASTRUCTURE FUNDING - DISTRIBUTION. Funding provided for the campground rest
+14 facility and safety and security infrastructure in section 1 of this Act is to provide a fifty percent
+15 cost-share, not to exceed $600,000 for the campground rest facility and $500,000 for the safety
+16 and security infrastructure.
+17 SECTION 5. REPEAL. Section 4.1-45-22.1 of the North Dakota Century Code is repealed.
+18 SECTION 6. EMERGENCY. The sum of $1,100,000 provided for the campground rest
+19 facility and the safety and security infrastructure in section 1 of this Act is declared to be an
+20 emergency measure.
+Page No. 2 25.0176.03000
+[DELETED: lEsAs$3$0$y0606e0505s0101s$3$0$s0101d$3$0$12]
+[DELETED: nGdOsTy$0$0$e0505s0101l$0$0$22]
+
+
+================================================================================
+
+Raw Text:
+25.0176.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+ENGROSSED SENATE BILL NO. 2009
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the state fair
+2 association; to repeal section 4.1-45-22.1 of the North Dakota Century Code, relating to state
+3 fair facility operations and maintenance costs; and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+6 as may be necessary, are appropriated out of any moneys in the general fund in the state
+7 treasury, not otherwise appropriated, to the state fair association for the purpose of defraying
+8 the expenses of the state fair association, for the biennium beginning July 1, 2025, and ending
+9 June 30, 2027, as follows:
+10 Adjustments or
+11 Base Level Enhancements Appropriation
+12 Premiums $642,833 $0 $642,833
+13 Campground rest facility 0 600,000 600,000
+14 Safety and security infrastructure 0 500,000 500,000
+15 Facility enhancements 0 100,000 100,000
+16 Total all funds $642,833 $1,200,000 $1,842,833
+17 Less other funds 0 1,200,000 1,200,000
+18 Total general fund $642,833 $0 $642,833
+19 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+20 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+21 items included in the appropriation in section 1 of this Act which are not included in the entity's
+Page No. 1 25.0176.03000
+
+Sixty-ninth
+Legislative Assembly
+1 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+2 committees of the seventieth legislative assembly regarding the use of this funding:
+3 One-Time Funding Description General Fund Other Funds Total
+4 Campground rest facility $0 $600,000 $600,000
+5 Safety and security infrastructure 0 500,000 500,000
+6 Facility enhancements 0 100,000 100,000
+7 Total $0 $1,200,000 $1,200,000
+8 SECTION 3. OTHER FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND.
+9 The other funds line item in section 1 of this Act includes the sum of $1,200,000 from the
+10 strategic investment and improvements fund for a campground rest facility, safety and security
+11 infrastructure, and facility enhancements.
+12 SECTION 4. CAMPGROUND REST FACILITY AND SAFETY AND SECURITY
+13 INFRASTRUCTURE FUNDING - DISTRIBUTION. Funding provided for the campground rest
+14 facility and safety and security infrastructure in section 1 of this Act is to provide a fifty percent
+15 cost-share, not to exceed $600,000 for the campground rest facility and $500,000 for the safety
+16 and security infrastructure.
+17 SECTION 5. REPEAL. Section 4.1-45-22.1 of the North Dakota Century Code is repealed.
+18 SECTION 6. EMERGENCY. The sum of $1,100,000 provided for the campground rest
+19 facility and the safety and security infrastructure in section 1 of this Act is declared to be an
+20 emergency measure.
+Page No. 2 25.0176.03000
+
+[DELETED: lEsAs$3$0$y0606e0505s0101s$3$0$s0101d$3$0$12]
+[DELETED: nGdOsTy$0$0$e0505s0101l$0$0$22]

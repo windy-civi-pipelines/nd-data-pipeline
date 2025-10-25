@@ -1,0 +1,481 @@
+Title: SENATE BILL NO. 2088
+Official Title: SENATE BILL NO. 2088
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25.8122.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry and Business Committee
+(At the request of the Insurance Commissioner)
+1 A BILL for an Act to amend and reenact subsection 4 of section 26.1-02.2-01, sections
+2 26.1-02.2-05 and 26.1-02.2-07, and subsection 1 of section 26.1-02.2-08 of the North Dakota
+3 Century Code, relating to data security requirements for insurance producers; and to repeal
+4 section 26.1-02.2-11 of the North Dakota Century Code, relating to implementation dates for
+5 certain data security requirements for insurance producers.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Subsection 4 of section 26.1-02.2-01 of the North Dakota
+8 Century Code is amended and reenacted as follows:
+9 4. "Cybersecurity event" means an event resulting in unauthorized access to, disruption,
+10 or misuse of, an information system or nonpublic information stored on the information
+11 system. The term does not include:
+12 a. Thethe unauthorized acquisition of encrypted nonpublic information if the
+13 encryption, process, or key is not also acquired, released, or used without
+14 authorization; or
+15 b. An event the licensee has determined that the nonpublic information accessed by
+16 an unauthorized person has not been used or released and has been returned or
+17 destroyed.
+18 SECTION 2. AMENDMENT. Section 26.1-02.2-05 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 26.1-02.2-05. Notification of a cybersecurity event.
+21 1. A licensee shall notify the commissioner as promptly as possible, but no later than
+22 three business daysseventy-two hours from a determination that a cybersecurity event
+23 involving nonpublic information that is in the possession of a licensee has occurred if:
+Page No. 1 25.8122.01000
+Sixty-ninth
+Legislative Assembly
+1 a. This state is the licensee's state of domicile, in the case of an insurer, or this state
+2 is the licensee's home state, in the case of a producer as defined in chapter
+3 26.1-26, and the cybersecurity event has a reasonable likelihood of materially
+4 harming a consumer residing in this state or reasonable likelihood of materially
+5 harming any material part of the normal operations of the licensee; or
+6 b. The licensee reasonably believes the nonpublic information involved is of
+7 two hundred fifty or more consumers residing in this state and is:
+8 (1) A cybersecurity event impacting the licensee for which notice is required to
+9 be provided to any government body, self-regulatory agency, or any other
+10 supervisory body pursuant to any state or federal law; or
+11 (2) A cybersecurity event that has a reasonable likelihood of materially harming
+12 any consumer residing in this state or materially harming any part of the
+13 normal operations of the licensee.
+14 2. The licensee shall provide the notice required under this section in electronic form as
+15 directed by the commissioner. The licensee shall update and supplement the initial
+16 and any subsequent notifications to the commissioner regarding material changes to
+17 previously provided information relating to the cybersecurity event. The licensee's
+18 notice required under this section must include:
+19 a. The date of the cybersecurity event;
+20 b. Description of how the information was exposed, lost, stolen, or breached,
+21 including the specific roles and responsibilities of third-party service providers, if
+22 any;
+23 c. How the cybersecurity event was discovered;
+24 d. Whether any lost, stolen, or breached information has been recovered and if so,
+25 how;
+26 e. The identity of the source of the cybersecurity event;
+27 f. Whether the licensee has filed a police report or has notified any regulatory,
+28 government, or law enforcement agencies and, if so, when the notification was
+29 provided;
+30 g. Description of the specific types of information acquired without authorization.
+31 Specific types of information means particular data elements, including medical
+Page No. 2 25.8122.01000
+Sixty-ninth
+Legislative Assembly
+1 information, financial information, or any other information allowing identification
+2 of the consumer;
+3 h. The period during which the information system was compromised by the
+4 cybersecurity event;
+5 i. The total number of consumers in this state affected by the cybersecurity event.
+6 The licensee shall provide the best estimate in the initial report to the
+7 commissioner and update the estimate with a subsequent report to the
+8 commissioner pursuant to this section;
+9 j. The results of any internal review identifying a lapse in either automated controls
+10 or internal procedures, or confirming that all automated controls or internal
+11 procedures were followed;
+12 k. Description of efforts being undertaken to remediate the situation that permitted
+13 the cybersecurity event to occur;
+14 l. A copy of the licensee's privacy policy and a statement outlining the steps the
+15 licensee will take to investigate and notify consumers affected by the
+16 cybersecurity event; and
+17 m. Name of a contact person that is both familiar with the cybersecurity event and
+18 authorized to act for the licensee.
+19 3. The licensee shall comply with chapter 51-30, as applicable, and provide a copy of the
+20 notice sent to consumers to the commissioner, when a licensee is required to notify
+21 the commissioner under subsection 1.
+22 4. In the case of a cybersecurity event in a system maintained by a third-party service
+23 provider, of which the licensee has become aware, the licensee shall treat the event in
+24 accordance with subsection 1 unless the third-party service provider provides the
+25 notice required under chapter 26.1-02.2 to the commissioner.
+26 a. The computation of licensee's deadlines under this subsection begin on the day
+27 after the third-party service provider notifies the licensee of the cybersecurity
+28 event or the licensee otherwise has actual knowledge of the cybersecurity event,
+29 whichever is sooner.
+30 b. Nothing in this chapter prevents or abrogates an agreement between a licensee
+31 and another licensee, a third-party service provider, or any other party to fulfill
+Page No. 3 25.8122.01000
+Sixty-ninth
+Legislative Assembly
+1 any of the investigation requirements imposed under section 26.1-02.2-04 or
+2 notice requirements imposed under subsection 1.
+3 5. If a cybersecurity event involving nonpublic information that is used by a licensee that
+4 is acting as an assuming insurer or in the possession, custody, or control of a licensee
+5 that is acting as an assuming insurer and that does not have a direct contractual
+6 relationship with the affected consumers, the assuming insurer shall notify the
+7 insurer's affected ceding insurers and the commissioner of the insurer's state of
+8 domicile within three business days seventy - two hours of making the determination
+9 that a cybersecurity event has occurred. The ceding insurer that has a direct
+10 contractual relationship with affected consumers shall fulfill the consumer notification
+11 requirements imposed under chapter 51-30 and any other notification requirements
+12 relating to a cybersecurity event imposed under subsection 1.
+13 6. If a cybersecurity event involving nonpublic information that is in the possession,
+14 custody, or control of a third-party service provider of a licensee that is an assuming
+15 insurer, the assuming insurer shall notify the insurer's affected ceding insurers and the
+16 commissioner of the insurer's state of domicile within three business daysseventy-two
+17 hours of receiving notice from its third-party service provider that a cybersecurity event
+18 has occurred. The ceding insurers that have a direct contractual relationship with
+19 affected consumers shall fulfill the consumer notification requirements imposed under
+20 chapter 51-30 and any other notification requirements relating to a cybersecurity event
+21 imposed under subsection 1.
+22 7. Any licensee acting as assuming insurer does not have any other notice obligations
+23 relating to a cybersecurity event or other data breach under this section or any other
+24 law of this state.
+25 8. If a cybersecurity event involving nonpublic information that is in the possession,
+26 custody, or control of a licensee that is an insurer or the insurer's third-party service
+27 provider for which a consumer accessed the insurer's services through an
+28 independent insurance producer, and for which consumer notice is required by chapter
+29 51-30, the insurer shall notify the producers of record of all affected consumers of the
+30 cybersecurity event no later than the time at which notice is provided to the affected
+31 consumers. The insurer is excused from the obligation imposed under this subsection
+Page No. 4 25.8122.01000
+Sixty-ninth
+Legislative Assembly
+1 for any producers that are not authorized by law or contract to sell, solicit, or negotiate
+2 on behalf of the insurer, and those instances in which the insurer does not have the
+3 current producer of record information for an individual consumer.
+4 SECTION 3. AMENDMENT. Section 26.1-02.2-07 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 26.1-02.2-07. Confidentiality.
+7 1. Any documents, materials, or other information in the control or possession of the
+8 department which are furnished by a licensee, or an employee or agent thereof acting
+9 on behalf of a licensee pursuant to this chapter, or that are obtained by the
+10 commissioner in an investigation or examination pursuant to section 26.1-02.2-06 are
+11 confidential, not subject to chapter 44-04, not subject to subpoena, and are not subject
+12 to discovery or admissible in evidence in any private civil action. The commissioner
+13 may use the documents, materials, or other information in the furtherance of any
+14 regulatory or legal action brought as a part of the commissioner's duties. The
+15 commissioner may not otherwise make the documents, materials, or other information
+16 public without the prior written consent of the licensee.
+17 2. The commissioner or any person that received documents, materials, or other
+18 information while acting under the authority of the commissioner may not be permitted
+19 or required to testify in any private civil action concerning any confidential documents,
+20 materials, or information subject to subsection 1.
+21 3. In order to assist in the performance of the commissioner's duties under this chapter,
+22 the commissioner:
+23 a. May share documents, materials, or other information, including the confidential
+24 and privileged documents, materials, or information subject to subsection 1, with
+25 other state, federal, and international regulatory agencies, with the national
+26 association of insurance commissioners, its affiliates or subsidiaries, and with
+27 state, federal, and international law enforcement authorities, provided the
+28 recipient agrees in writing to maintain the confidentiality and privileged status of
+29 the document, material, or other information;
+30 b. May receive documents, materials, or information, including otherwise
+31 confidential and privileged documents, materials, or information, from the national
+Page No. 5 25.8122.01000
+Sixty-ninth
+Legislative Assembly
+1 association of insurance commissioners, its affiliates or subsidiaries, and from
+2 regulatory and law enforcement officials of other foreign or domestic jurisdictions,
+3 and shall maintain as confidential or privileged any document, material, or
+4 information received with notice or the understanding that it is confidential or
+5 privileged under the laws of the jurisdiction that is the source of the document,
+6 material, or information;
+7 c. May share documents, materials, or other information subject to this section, with
+8 a third-party consultant or vendor provided the consultant agrees in writing to
+9 maintain the confidentiality and privileged status of the document, material, or
+10 other information; and
+11 d. May enter agreements governing sharing and use of information consistent with
+12 this subsection.
+13 4. A waiver of any applicable privilege or claim of confidentiality in the documents,
+14 materials, or information does not occur as a result of disclosure to the commissioner
+15 under this section or as a result of sharing as authorized in subsection 3.
+16 5. Documents, materials, or other information in the possession or control of the national
+17 association of insurance commissioners or a third-party consultant or vendor pursuant
+18 to this chapter are confidential, not subject to chapter 44-04, not subject to subpoena,
+19 and not subject to discovery or admissible in evidence in any private civil action.
+20 SECTION 4. AMENDMENT. Subsection 1 of section 26.1-02.2-08 of the North Dakota
+21 Century Code is amended and reenacted as follows:
+22 1. The following exceptions apply to this chapter:
+23 a. A licensee with less than five million dollars in gross revenue or less than
+24 ten million dollars in year-end assets is exempt from subsections 2 through 10 o f
+25 section 26.1-02.2-03.
+26 b. During the period beginning on August 1, 2021, and ending on July 31, 2023, a
+27 licensee with fewer than fifty employees, including independent contractors and
+28 employees of affiliated companies having access to nonpublic information used
+29 by the licensee or in the licensee's possession, custody, or control, is exempt
+30 from section 26.1-02.2-03.
+Page No. 6 25.8122.01000
+Sixty-ninth
+Legislative Assembly
+1 c. After July 31, 2023, a licensee with fewer than twenty-five employees, including
+2 independent contractors and employees of affiliated companies having access to
+3 nonpublic information used by the licensee or in the licensee's possession,
+4 custody, or control is exempt from section 26.1-02.2-03.
+5 d.b. A licensee that is subject to and, governed by, and compliant with the privacy,
+6 security, and breach notification rules issued by the United States department of
+7 health and human services, title 45, Code of Federal Regulations, parts 160
+8 and 164, established pursuant to the federal Health Insurance Portability and
+9 Accountability Act of 1996 [Pub. L. 104-191], and the federal Health Information
+10 Technology for Economic and Clinical Health Act [Pub. L. 111-5], and which
+11 maintains nonpublic information concerning a consumer in the same manner as
+12 protected health information is deemed to comply with the requirements of this
+13 chapter except for the commissioner notification requirements under
+14 subsections 1 and 2 of section 26.1-02.2-05 section 26.1 - 02.2 - 03 .
+15 e.c. An employee, agent, representative, or designee of a licensee, that also is a
+16 licensee, is exempt from section 26.1-02.2-03 and is not required to develop an
+17 information security program to the extent the employee, agent, representative,
+18 or designee is covered by the information security program of the other licensee.
+19 SECTION 5. REPEAL. Section 26.1-02.2-11 of the North Dakota Century Code is repealed.
+Page No. 7 25.8122.01000
+[DELETED: .".T.A.A12]
+[DELETED: .T.T)A)A.T.T.D.H.W.T.W.D22]
+[DELETED: .T.T.T.D.A.N.T.I.T.N32]
+[DELETED: .I.I.A.I42]
+[DELETED: .A.T.I.M.M52]
+[DELETED: .M.M.A.D.T.A.D62]
+[DELETED: .A.A.A72]
+
+
+================================================================================
+
+Raw Text:
+25.8122.01000
+Sixty-ninth
+SENATE BILL NO. 2088
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry and Business Committee
+(At the request of the Insurance Commissioner)
+1 A BILL for an Act to amend and reenact subsection 4 of section 26.1-02.2-01, sections
+2 26.1-02.2-05 and 26.1-02.2-07, and subsection 1 of section 26.1-02.2-08 of the North Dakota
+3 Century Code, relating to data security requirements for insurance producers; and to repeal
+4 section 26.1-02.2-11 of the North Dakota Century Code, relating to implementation dates for
+5 certain data security requirements for insurance producers.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Subsection 4 of section 26.1-02.2-01 of the North Dakota
+8 Century Code is amended and reenacted as follows:
+9 4. "Cybersecurity event" means an event resulting in unauthorized access to, disruption,
+10 or misuse of, an information system or nonpublic information stored on the information
+11 system. The term does not include:
+12 a. Thethe unauthorized acquisition of encrypted nonpublic information if the
+13 encryption, process, or key is not also acquired, released, or used without
+14 authorization; or
+15 b. An event the licensee has determined that the nonpublic information accessed by
+16 an unauthorized person has not been used or released and has been returned or
+17 destroyed.
+18 SECTION 2. AMENDMENT. Section 26.1-02.2-05 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 26.1-02.2-05. Notification of a cybersecurity event.
+21 1. A licensee shall notify the commissioner as promptly as possible, but no later than
+22 three business daysseventy-two hours from a determination that a cybersecurity event
+23 involving nonpublic information that is in the possession of a licensee has occurred if:
+Page No. 1 25.8122.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. This state is the licensee's state of domicile, in the case of an insurer, or this state
+2 is the licensee's home state, in the case of a producer as defined in chapter
+3 26.1-26, and the cybersecurity event has a reasonable likelihood of materially
+4 harming a consumer residing in this state or reasonable likelihood of materially
+5 harming any material part of the normal operations of the licensee; or
+6 b. The licensee reasonably believes the nonpublic information involved is of
+7 two hundred fifty or more consumers residing in this state and is:
+8 (1) A cybersecurity event impacting the licensee for which notice is required to
+9 be provided to any government body, self-regulatory agency, or any other
+10 supervisory body pursuant to any state or federal law; or
+11 (2) A cybersecurity event that has a reasonable likelihood of materially harming
+12 any consumer residing in this state or materially harming any part of the
+13 normal operations of the licensee.
+14 2. The licensee shall provide the notice required under this section in electronic form as
+15 directed by the commissioner. The licensee shall update and supplement the initial
+16 and any subsequent notifications to the commissioner regarding material changes to
+17 previously provided information relating to the cybersecurity event. The licensee's
+18 notice required under this section must include:
+19 a. The date of the cybersecurity event;
+20 b. Description of how the information was exposed, lost, stolen, or breached,
+21 including the specific roles and responsibilities of third-party service providers, if
+22 any;
+23 c. How the cybersecurity event was discovered;
+24 d. Whether any lost, stolen, or breached information has been recovered and if so,
+25 how;
+26 e. The identity of the source of the cybersecurity event;
+27 f. Whether the licensee has filed a police report or has notified any regulatory,
+28 government, or law enforcement agencies and, if so, when the notification was
+29 provided;
+30 g. Description of the specific types of information acquired without authorization.
+31 Specific types of information means particular data elements, including medical
+Page No. 2 25.8122.01000
+
+Sixty-ninth
+Legislative Assembly
+1 information, financial information, or any other information allowing identification
+2 of the consumer;
+3 h. The period during which the information system was compromised by the
+4 cybersecurity event;
+5 i. The total number of consumers in this state affected by the cybersecurity event.
+6 The licensee shall provide the best estimate in the initial report to the
+7 commissioner and update the estimate with a subsequent report to the
+8 commissioner pursuant to this section;
+9 j. The results of any internal review identifying a lapse in either automated controls
+10 or internal procedures, or confirming that all automated controls or internal
+11 procedures were followed;
+12 k. Description of efforts being undertaken to remediate the situation that permitted
+13 the cybersecurity event to occur;
+14 l. A copy of the licensee's privacy policy and a statement outlining the steps the
+15 licensee will take to investigate and notify consumers affected by the
+16 cybersecurity event; and
+17 m. Name of a contact person that is both familiar with the cybersecurity event and
+18 authorized to act for the licensee.
+19 3. The licensee shall comply with chapter 51-30, as applicable, and provide a copy of the
+20 notice sent to consumers to the commissioner, when a licensee is required to notify
+21 the commissioner under subsection 1.
+22 4. In the case of a cybersecurity event in a system maintained by a third-party service
+23 provider, of which the licensee has become aware, the licensee shall treat the event in
+24 accordance with subsection 1 unless the third-party service provider provides the
+25 notice required under chapter 26.1-02.2 to the commissioner.
+26 a. The computation of licensee's deadlines under this subsection begin on the day
+27 after the third-party service provider notifies the licensee of the cybersecurity
+28 event or the licensee otherwise has actual knowledge of the cybersecurity event,
+29 whichever is sooner.
+30 b. Nothing in this chapter prevents or abrogates an agreement between a licensee
+31 and another licensee, a third-party service provider, or any other party to fulfill
+Page No. 3 25.8122.01000
+
+Sixty-ninth
+Legislative Assembly
+1 any of the investigation requirements imposed under section 26.1-02.2-04 or
+2 notice requirements imposed under subsection 1.
+3 5. If a cybersecurity event involving nonpublic information that is used by a licensee that
+4 is acting as an assuming insurer or in the possession, custody, or control of a licensee
+5 that is acting as an assuming insurer and that does not have a direct contractual
+6 relationship with the affected consumers, the assuming insurer shall notify the
+7 insurer's affected ceding insurers and the commissioner of the insurer's state of
+8 domicile within three business days seventy - two hours of making the determination
+9 that a cybersecurity event has occurred. The ceding insurer that has a direct
+10 contractual relationship with affected consumers shall fulfill the consumer notification
+11 requirements imposed under chapter 51-30 and any other notification requirements
+12 relating to a cybersecurity event imposed under subsection 1.
+13 6. If a cybersecurity event involving nonpublic information that is in the possession,
+14 custody, or control of a third-party service provider of a licensee that is an assuming
+15 insurer, the assuming insurer shall notify the insurer's affected ceding insurers and the
+16 commissioner of the insurer's state of domicile within three business daysseventy-two
+17 hours of receiving notice from its third-party service provider that a cybersecurity event
+18 has occurred. The ceding insurers that have a direct contractual relationship with
+19 affected consumers shall fulfill the consumer notification requirements imposed under
+20 chapter 51-30 and any other notification requirements relating to a cybersecurity event
+21 imposed under subsection 1.
+22 7. Any licensee acting as assuming insurer does not have any other notice obligations
+23 relating to a cybersecurity event or other data breach under this section or any other
+24 law of this state.
+25 8. If a cybersecurity event involving nonpublic information that is in the possession,
+26 custody, or control of a licensee that is an insurer or the insurer's third-party service
+27 provider for which a consumer accessed the insurer's services through an
+28 independent insurance producer, and for which consumer notice is required by chapter
+29 51-30, the insurer shall notify the producers of record of all affected consumers of the
+30 cybersecurity event no later than the time at which notice is provided to the affected
+31 consumers. The insurer is excused from the obligation imposed under this subsection
+Page No. 4 25.8122.01000
+
+Sixty-ninth
+Legislative Assembly
+1 for any producers that are not authorized by law or contract to sell, solicit, or negotiate
+2 on behalf of the insurer, and those instances in which the insurer does not have the
+3 current producer of record information for an individual consumer.
+4 SECTION 3. AMENDMENT. Section 26.1-02.2-07 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 26.1-02.2-07. Confidentiality.
+7 1. Any documents, materials, or other information in the control or possession of the
+8 department which are furnished by a licensee, or an employee or agent thereof acting
+9 on behalf of a licensee pursuant to this chapter, or that are obtained by the
+10 commissioner in an investigation or examination pursuant to section 26.1-02.2-06 are
+11 confidential, not subject to chapter 44-04, not subject to subpoena, and are not subject
+12 to discovery or admissible in evidence in any private civil action. The commissioner
+13 may use the documents, materials, or other information in the furtherance of any
+14 regulatory or legal action brought as a part of the commissioner's duties. The
+15 commissioner may not otherwise make the documents, materials, or other information
+16 public without the prior written consent of the licensee.
+17 2. The commissioner or any person that received documents, materials, or other
+18 information while acting under the authority of the commissioner may not be permitted
+19 or required to testify in any private civil action concerning any confidential documents,
+20 materials, or information subject to subsection 1.
+21 3. In order to assist in the performance of the commissioner's duties under this chapter,
+22 the commissioner:
+23 a. May share documents, materials, or other information, including the confidential
+24 and privileged documents, materials, or information subject to subsection 1, with
+25 other state, federal, and international regulatory agencies, with the national
+26 association of insurance commissioners, its affiliates or subsidiaries, and with
+27 state, federal, and international law enforcement authorities, provided the
+28 recipient agrees in writing to maintain the confidentiality and privileged status of
+29 the document, material, or other information;
+30 b. May receive documents, materials, or information, including otherwise
+31 confidential and privileged documents, materials, or information, from the national
+Page No. 5 25.8122.01000
+
+Sixty-ninth
+Legislative Assembly
+1 association of insurance commissioners, its affiliates or subsidiaries, and from
+2 regulatory and law enforcement officials of other foreign or domestic jurisdictions,
+3 and shall maintain as confidential or privileged any document, material, or
+4 information received with notice or the understanding that it is confidential or
+5 privileged under the laws of the jurisdiction that is the source of the document,
+6 material, or information;
+7 c. May share documents, materials, or other information subject to this section, with
+8 a third-party consultant or vendor provided the consultant agrees in writing to
+9 maintain the confidentiality and privileged status of the document, material, or
+10 other information; and
+11 d. May enter agreements governing sharing and use of information consistent with
+12 this subsection.
+13 4. A waiver of any applicable privilege or claim of confidentiality in the documents,
+14 materials, or information does not occur as a result of disclosure to the commissioner
+15 under this section or as a result of sharing as authorized in subsection 3.
+16 5. Documents, materials, or other information in the possession or control of the national
+17 association of insurance commissioners or a third-party consultant or vendor pursuant
+18 to this chapter are confidential, not subject to chapter 44-04, not subject to subpoena,
+19 and not subject to discovery or admissible in evidence in any private civil action.
+20 SECTION 4. AMENDMENT. Subsection 1 of section 26.1-02.2-08 of the North Dakota
+21 Century Code is amended and reenacted as follows:
+22 1. The following exceptions apply to this chapter:
+23 a. A licensee with less than five million dollars in gross revenue or less than
+24 ten million dollars in year-end assets is exempt from subsections 2 through 10 o f
+25 section 26.1-02.2-03.
+26 b. During the period beginning on August 1, 2021, and ending on July 31, 2023, a
+27 licensee with fewer than fifty employees, including independent contractors and
+28 employees of affiliated companies having access to nonpublic information used
+29 by the licensee or in the licensee's possession, custody, or control, is exempt
+30 from section 26.1-02.2-03.
+Page No. 6 25.8122.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. After July 31, 2023, a licensee with fewer than twenty-five employees, including
+2 independent contractors and employees of affiliated companies having access to
+3 nonpublic information used by the licensee or in the licensee's possession,
+4 custody, or control is exempt from section 26.1-02.2-03.
+5 d.b. A licensee that is subject to and, governed by, and compliant with the privacy,
+6 security, and breach notification rules issued by the United States department of
+7 health and human services, title 45, Code of Federal Regulations, parts 160
+8 and 164, established pursuant to the federal Health Insurance Portability and
+9 Accountability Act of 1996 [Pub. L. 104-191], and the federal Health Information
+10 Technology for Economic and Clinical Health Act [Pub. L. 111-5], and which
+11 maintains nonpublic information concerning a consumer in the same manner as
+12 protected health information is deemed to comply with the requirements of this
+13 chapter except for the commissioner notification requirements under
+14 subsections 1 and 2 of section 26.1-02.2-05 section 26.1 - 02.2 - 03 .
+15 e.c. An employee, agent, representative, or designee of a licensee, that also is a
+16 licensee, is exempt from section 26.1-02.2-03 and is not required to develop an
+17 information security program to the extent the employee, agent, representative,
+18 or designee is covered by the information security program of the other licensee.
+19 SECTION 5. REPEAL. Section 26.1-02.2-11 of the North Dakota Century Code is repealed.
+Page No. 7 25.8122.01000
+
+[DELETED: .".T.A.A12]
+[DELETED: .T.T)A)A.T.T.D.H.W.T.W.D22]
+[DELETED: .T.T.T.D.A.N.T.I.T.N32]
+[DELETED: .I.I.A.I42]
+[DELETED: .A.T.I.M.M52]
+[DELETED: .M.M.A.D.T.A.D62]
+[DELETED: .A.A.A72]

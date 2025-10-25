@@ -1,0 +1,148 @@
+Title: SENATE BILL NO. 2282
+Official Title: SENATE BILL NO. 2282
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1035.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Hogan, Weber, Wobbema
+Representatives Mitskog, O'Brien
+1 A BILL for an Act to create and enact a new section to chapter 57-38 and new subdivision to
+2 subsection 7 of section 57-38-30.3 of the North Dakota Century Code, relating to an income tax
+3 credit for child care contributions provided by qualified employers; and to provide an effective
+4 date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 57-38 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Child care contribution credit.
+9 1. A taxpayer that is a qualified employer is entitled to a credit against the income tax
+10 liability under section 57 - 38 - 30 or 57 - 38 - 30.3 as provided in this section. The tota l
+11 credit available with respect to each qualifying employee is equal to thirty percent of
+12 the taxpayer's aggregate child care contributions toward child care costs of qualified
+13 employees paid during the taxable year in which the credit is claimed. The credit must
+14 be claimed for the taxable year in which the child care contributions are made.
+15 2. The credit allowed under this section may not exceed the liability for tax under this
+16 chapter. Any credit amount exceeding a taxpayer's liability for the taxable year may not
+17 be claimed as a carryback or carryforward.
+18 3. A passthrough entity entitled to the credit under this section must be considered to be
+19 the taxpayer for purposes of this section and the amount of the credit allowed must be
+20 determined at the passthrough entity level. The amount of the total credit determined
+21 at the passthrough entity level must be allowed to the partners, shareholders, or
+22 members in proportion to their respective interests in the passthrough entity.
+23 4. To receive the tax credit provided under this section, a taxpayer shall claim the credit
+24 in the form and manner prescribed by the tax commissioner. The tax commissioner
+Page No. 1 25.1035.01000
+Sixty-ninth
+Legislative Assembly
+1 shall prescribe, design, and make available all forms necessary to effectuate this
+2 section.
+3 5. For purposes of this section:
+4 a. "Aggregate child care contributions" means the total amount of child care
+5 contributions made by a qualified employer to all qualified employees during the
+6 taxable year, limited to the first five hundred dollars in child care contributions per
+7 qualifying employee.
+8 b. "Child care costs" means costs incurred by an employee for early childhood
+9 services rendered by a child care provider, which are incurred to enable the
+10 employee to be gainfully employed by an employer.
+11 c. "Child care contribution" means a payment made to a child care provider by a
+12 qualified employer to subsidize a qualified employee's child care costs.
+13 d. "Child care provider" means an early childhood services provider licensed under
+14 chapter 50 - 11.1 .
+15 e. "Early childhood services" has the same meaning as in section 50 - 11.1 - 02 .
+16 f. "Qualified employee" means an individual employed by the qualified employer
+17 claiming the credit under this section.
+18 g. "Qualified employer" means an employer that, in the taxable year for which the
+19 employer claimed the credit under this section:
+20 (1) Made a child care contribution; and
+21 (2) Provided an equal opportunity to all employees that have child care costs to
+22 receive an equal child care contribution from the employer during the
+23 taxable year.
+24 SECTION 2. A new subdivision to subsection 7 of section 57-38-30.3 of the North Dakota
+25 Century Code is created and enacted as follows:
+26 Child care contribution credit under section 1 of this Act .
+27 SECTION 3. EFFECTIVE DATE. This Act is effective for taxable years beginning after
+28 December 31, 2024.
+Page No. 2 25.1035.01000
+[DELETED: .A.T.A.T12]
+[DELETED: .F.".".".". .".")M)P22]
+
+
+================================================================================
+
+Raw Text:
+25.1035.01000
+Sixty-ninth
+SENATE BILL NO. 2282
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Hogan, Weber, Wobbema
+Representatives Mitskog, O'Brien
+1 A BILL for an Act to create and enact a new section to chapter 57-38 and new subdivision to
+2 subsection 7 of section 57-38-30.3 of the North Dakota Century Code, relating to an income tax
+3 credit for child care contributions provided by qualified employers; and to provide an effective
+4 date.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 57-38 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Child care contribution credit.
+9 1. A taxpayer that is a qualified employer is entitled to a credit against the income tax
+10 liability under section 57 - 38 - 30 or 57 - 38 - 30.3 as provided in this section. The tota l
+11 credit available with respect to each qualifying employee is equal to thirty percent of
+12 the taxpayer's aggregate child care contributions toward child care costs of qualified
+13 employees paid during the taxable year in which the credit is claimed. The credit must
+14 be claimed for the taxable year in which the child care contributions are made.
+15 2. The credit allowed under this section may not exceed the liability for tax under this
+16 chapter. Any credit amount exceeding a taxpayer's liability for the taxable year may not
+17 be claimed as a carryback or carryforward.
+18 3. A passthrough entity entitled to the credit under this section must be considered to be
+19 the taxpayer for purposes of this section and the amount of the credit allowed must be
+20 determined at the passthrough entity level. The amount of the total credit determined
+21 at the passthrough entity level must be allowed to the partners, shareholders, or
+22 members in proportion to their respective interests in the passthrough entity.
+23 4. To receive the tax credit provided under this section, a taxpayer shall claim the credit
+24 in the form and manner prescribed by the tax commissioner. The tax commissioner
+Page No. 1 25.1035.01000
+
+Sixty-ninth
+Legislative Assembly
+1 shall prescribe, design, and make available all forms necessary to effectuate this
+2 section.
+3 5. For purposes of this section:
+4 a. "Aggregate child care contributions" means the total amount of child care
+5 contributions made by a qualified employer to all qualified employees during the
+6 taxable year, limited to the first five hundred dollars in child care contributions per
+7 qualifying employee.
+8 b. "Child care costs" means costs incurred by an employee for early childhood
+9 services rendered by a child care provider, which are incurred to enable the
+10 employee to be gainfully employed by an employer.
+11 c. "Child care contribution" means a payment made to a child care provider by a
+12 qualified employer to subsidize a qualified employee's child care costs.
+13 d. "Child care provider" means an early childhood services provider licensed under
+14 chapter 50 - 11.1 .
+15 e. "Early childhood services" has the same meaning as in section 50 - 11.1 - 02 .
+16 f. "Qualified employee" means an individual employed by the qualified employer
+17 claiming the credit under this section.
+18 g. "Qualified employer" means an employer that, in the taxable year for which the
+19 employer claimed the credit under this section:
+20 (1) Made a child care contribution; and
+21 (2) Provided an equal opportunity to all employees that have child care costs to
+22 receive an equal child care contribution from the employer during the
+23 taxable year.
+24 SECTION 2. A new subdivision to subsection 7 of section 57-38-30.3 of the North Dakota
+25 Century Code is created and enacted as follows:
+26 Child care contribution credit under section 1 of this Act .
+27 SECTION 3. EFFECTIVE DATE. This Act is effective for taxable years beginning after
+28 December 31, 2024.
+Page No. 2 25.1035.01000
+
+[DELETED: .A.T.A.T12]
+[DELETED: .F.".".".". .".")M)P22]

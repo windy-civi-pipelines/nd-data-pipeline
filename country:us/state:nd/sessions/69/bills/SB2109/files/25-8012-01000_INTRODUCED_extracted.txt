@@ -1,0 +1,1743 @@
+Title: SENATE BILL NO. 2109
+Official Title: SENATE BILL NO. 2109
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+25.8012.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry and Business Committee
+(At the request of Workforce Safety and Insurance)
+1 A BILL for an Act to amend and reenact sections 65-01-02, 65-01-16, and 65-02-27,
+2 subsection 1 of section 65-05-17, and subsection 4 of section 65-05-20.1 of the North Dakota
+3 Century Code, relating to the definition of disability, the definition of electronic means, forms and
+4 decisions issued by electronic means, requests for rehearing of an administrative order,
+5 maximum death benefits, and the scholarship fund; and to provide for application.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Section 65-01-02 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 65-01-02. Definitions. (Effective through August 31, 2028)
+10 In this title:
+11 1. "Acute care" means a short course of intensive diagnostic and therapeutic services
+12 provided immediately following a work injury with a rapid onset of pronounced
+13 symptoms.
+14 2. "Adopted" or "adoption" refers only to a legal adoption effected prior to the time of the
+15 injury.
+16 3. "Allied health care professional" includes a health care provider, pharmacist,
+17 audiologist, speech language pathologist, or naturopath or any recognized practitioner
+18 who provides skilled services pursuant to the prescription of, or under the supervision
+19 or direction of any of these individuals.
+20 4. "Artificial members" includes a device that is a substitute for a natural part, organ,
+21 limb, or other part of the body. The term includes a prescriptive device that is an aid for
+22 a natural part, organ, limb, or other part of the body if the damage to the prescriptive
+23 device is accompanied by an injury to the body. A prescriptive device includes
+24 prescription eyeglasses, contact lenses, dental braces, and orthopedic braces.
+Page No. 1 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 5. "Artificial replacements" means mechanical aids, including braces, belts, casts, or
+2 crutches as may be reasonable and necessary due to compensable injury.
+3 6. "Average weekly wage" means the weekly wages the injured employee was receiving
+4 from all employments for which coverage is required or otherwise secured at the date
+5 of first disability. The average weekly wage determined under this subsection must be
+6 rounded to the nearest dollar. If the injured employee's wages are not fixed by the
+7 week, they must be determined by using the first applicable formula from the schedule
+8 below:
+9 a. For seasonal employment, during the first consecutive days of disability up to
+10 twenty-eight days the average weekly wage is calculated pursuant to the first
+11 applicable formula in subdivisions b through g, and after that are calculated as
+12 one-fiftieth of the total wages from all occupations during the twelve months
+13 preceding the date of first disability or during the tax year preceding the date of
+14 first disability, or an average of the three tax years preceding the date of first
+15 disability, whichever is highest and for which accurate, reliable, and complete
+16 records are readily available.
+17 b. The "average weekly wage" of a self-employed employer is determined by the
+18 following formula: one fifty-second of the average annual net self-employed
+19 earnings reported the three preceding tax years or preceding fifty-two weeks
+20 whichever is higher if accurate, reliable, and complete records for those fifty-two
+21 weeks are readily available.
+22 c. Hourly or daily rate multiplied by number of hours or days worked per seven-day
+23 week.
+24 d. Monthly rate multiplied by twelve months and divided by fifty-two weeks.
+25 e. Biweekly rate divided by two.
+26 f. The usual wage paid other employees engaged in similar occupations.
+27 g. A wage reasonably and fairly approximating the weekly wage lost by the injured
+28 employee during the period of disability.
+29 7. "Average weekly wage in the state" means the determination made of the average
+30 weekly wage in the state by job service North Dakota on or before July first of each
+31 year, computed to the next highest dollar.
+Page No. 2 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 8. "Board" means the workforce safety and insurance board of directors.
+2 9. "Brother" and "sister" include a stepbrother and a stepsister, a half brother and a half
+3 sister, and a brother and sister by adoption. The terms do not include a married
+4 brother or sister unless that person actually is dependent.
+5 10. "Child", for determining eligibility for benefits under chapter 65-05, means a legitimate
+6 child, a stepchild, adopted child, posthumous child, foster child, and acknowledged
+7 illegitimate child who is under eighteen years of age and resides with the injured
+8 employee; or is under eighteen years of age and does not reside with the injured
+9 employee but a duty of support is substantiated by an appropriate court order; or is
+10 between eighteen and twenty-two years of age and enrolled as a full-time student in
+11 any accredited educational institution and dependent upon the injured employee for
+12 support; or is eighteen years of age or over and is physically or mentally incapable of
+13 self-support and is actually dependent upon the injured employee for support. A child
+14 does not include a married child unless actually dependent on the injured employee as
+15 shown on the preceding year's income tax returns.
+16 11. "Compensable injury" means an injury by accident arising out of and in the course of
+17 hazardous employment which must be established by medical evidence supported by
+18 objective medical findings.
+19 a. The term includes:
+20 (1) Disease caused by a hazard to which an employee is subjected in the
+21 course of employment. The disease must be incidental to the character of
+22 the business and not independent of the relation of employer and employee.
+23 Disease includes effects from radiation.
+24 (2) An injury to artificial members.
+25 (3) Injuries due to heart attack or other heart-related disease, stroke, and
+26 physical injury caused by mental stimulus, but only when caused by the
+27 employee's employment with reasonable medical certainty, and only when it
+28 is determined with reasonable medical certainty that unusual stress is at
+29 least fifty percent of the cause of the injury or disease as compared with all
+30 other contributing causes combined. Unusual stress means stress greater
+Page No. 3 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 than the highest level of stress normally experienced or anticipated in that
+2 position or line of work.
+3 (4) Injuries arising out of employer-required or supplied travel to and from a
+4 remote jobsite or activities performed at the direction or under the control of
+5 the employer.
+6 (5) An injury caused by the willful act of a third person directed against an
+7 employee because of the employee's employment.
+8 (6) A mental or psychological condition caused by a physical injury, but only
+9 when the physical injury is determined with reasonable medical certainty to
+10 be at least fifty percent of the cause of the condition as compared with all
+11 other contributing causes combined, and only when the condition did not
+12 pre-exist the work injury.
+13 b. The term does not include:
+14 (1) Ordinary diseases of life to which the general public outside of employment
+15 is exposed or preventive treatment for communicable diseases, except the
+16 organization may pay for preventive treatment for an exposure to a
+17 bloodborne pathogen as defined in section 23-07.5-01 occurring in the
+18 course of employment and for exposure to rabies occurring in the course of
+19 employment.
+20 (2) A willfully self-inflicted injury, including suicide or attempted suicide, or an
+21 injury caused by the employee's willful intention to injure or kill another.
+22 (3) Any injury caused by the use of intoxicants, including recreational marijuana
+23 use, or the illegal use of controlled substances.
+24 (4) An injury that arises out of an altercation in which the injured employee is an
+25 aggressor. This paragraph does not apply to public safety employees,
+26 including law enforcement officers or private security personnel who are
+27 required to engage in altercations as part of their job duties if the altercation
+28 arises out of the performance of those job duties.
+29 (5) An injury that arises out of an illegal act committed by the injured employee.
+Page No. 4 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 (6) An injury that arises out of an employee's voluntary nonpaid participation in
+2 any recreational activity, including athletic events, parties, and picnics, even
+3 though the employer pays some or all of the cost of the activity.
+4 (7) Injuries attributable to a pre-existing injury, disease, or other condition,
+5 including when the employment acts as a trigger to produce symptoms in
+6 the pre-existing injury, disease, or other condition unless the employment
+7 substantially accelerates its progression or substantially worsens its
+8 severity. Pain is a symptom and may be considered in determining whether
+9 there is a substantial acceleration or substantial worsening of a pre-existing
+10 injury, disease, or other condition, but pain alone is not a substantial
+11 acceleration or a substantial worsening.
+12 (8) A nonemployment injury that, although acting upon a prior compensable
+13 injury, is an independent intervening cause of injury.
+14 (9) A latent or asymptomatic degenerative condition, caused in substantial part
+15 by employment duties, which is triggered or made active by a subsequent
+16 injury.
+17 (10) A mental injury arising from mental stimulus.
+18 12. "Date of first disability" means the first date the injured employee was unable to work
+19 because of a compensable injury.
+20 13. "Date of maximum medical improvement" or "date of maximum medical recovery"
+21 means the date after which further recovery from, or lasting improvement to, an injury
+22 or disease can no longer reasonably be anticipated based upon reasonable medical
+23 probability.
+24 14. "Director" means the director of the organization.
+25 15. "Disability" means loss of actual earnings capacity and may be permanent total,
+26 temporary total, or partial.
+27 16. "Electronic means" means relating to technology having electrical, digital, magnetic,
+28 wireless, optical, electromagnetic, or similar capabilities.
+29 17. "Employee" means an individual who performs hazardous employment for another for
+30 remuneration unless the individual is an independent contractor under the
+31 common-law test.
+Page No. 5 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 a. The term includes:
+2 (1) All elective and appointed officials of this state and its political subdivisions,
+3 including municipal corporations and including the members of the
+4 legislative assembly, all elective officials of any county, and all elective
+5 peace officers of any city.
+6 (2) Aliens.
+7 (3) Human service zone general assistance workers, except those who are
+8 engaged in repaying to human service zones or the department of health
+9 and human services moneys the human service zones or the department of
+10 health and human services have been compelled by statute to expend for
+11 general assistance.
+12 (4) Minors, whether lawfully or unlawfully employed. A minor is deemed sui juris
+13 for the purposes of this title, and no other person has any claim for relief or
+14 right to claim workforce safety and insurance benefits for any injury to a
+15 minor worker, but in the event of the award of a lump sum of benefits to a
+16 minor employee, the lump sum may be paid only to the legally appointed
+17 guardian of the minor.
+18 b. The term does not include:
+19 (1) An individual whose employment is both casual and not in the course of the
+20 trade, business, profession, or occupation of that individual's employer.
+21 (2) An individual who is engaged in an illegal enterprise or occupation.
+22 (3) The spouse of an employer or the child under the age of twenty-two of an
+23 employer. For purposes of this paragraph and section 65-07-01, "child"
+24 means any legitimate child, stepchild, adopted child, foster child, or
+25 acknowledged illegitimate child.
+26 (4) A real estate broker or real estate salesperson, provided the individual
+27 meets the following three requirements:
+28 (a) The salesperson or broker must be a licensed real estate agent under
+29 section 43-23-05.
+Page No. 6 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 (b) Substantially all of the salesperson's or broker's remuneration for the
+2 services performed as a real estate agent must be directly related to
+3 sales or other efforts rather than to the number of hours worked.
+4 (c) A written agreement must exist between the salesperson or broker
+5 and the person for which the salesperson or broker works, which
+6 agreement must provide the salesperson or broker will not be treated
+7 as an employee but rather as an independent contractor.
+8 (5) The members of the board of directors of a business corporation who are
+9 not employed in any capacity by the corporation other than as members of
+10 the board of directors.
+11 (6) An individual delivering newspapers or shopping news, if substantially all of
+12 the individual's remuneration is directly related to sales or other efforts
+13 rather than to the number of hours worked and a written agreement exists
+14 between the individual and the publisher of the newspaper or shopping
+15 news which states the individual is an independent contractor.
+16 (7) An employer.
+17 (8) An athlete participating in a contact sport. As used in this paragraph,
+18 "contact sport" means a team or individual competitive athletic activity that
+19 includes significant physical contact between the athletes involved. The
+20 term includes football and hockey.
+21 17.18. "Employer" means a person that engages or received the services of another for
+22 remuneration unless the person performing the services is an independent contractor
+23 under the common-law test. The term includes:
+24 a. The state and all political subdivisions thereof.
+25 b. All public and quasi-public corporations in this state.
+26 c. Every person, partnership, limited liability company, association, and private
+27 corporation, including a public service corporation.
+28 d. The legal representative of any deceased employer.
+29 e. The receiver or trustee of any person, partnership, limited liability company,
+30 association, or corporation having one or more employees as herein defined.
+Page No. 7 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 f. The president, vice presidents, secretary, or treasurer of a business corporation,
+2 but not members of the board of directors of a business corporation who are not
+3 also officers of the corporation.
+4 g. The managers of a limited liability company.
+5 h. The president, vice presidents, secretary, treasurer, or board of directors of an
+6 association or cooperative organized under chapter 6-06, 10-12, 10-13, 10-15,
+7 36-08, or 49-21.
+8 i. The clerk, assessor, treasurer, or any member of the board of supervisors of an
+9 organized township, if the person is not employed by the township in any other
+10 capacity.
+11 j. A multidistrict special education unit.
+12 k. An area career and technology center.
+13 l. A regional education association.
+14 18.19. "Fee schedule" means the payment formulas established in the organization
+15 publication entitled "Medical and Hospital Fees".
+16 19.20. "Fund" means the workforce safety and insurance fund.
+17 20.21. "Hazardous employment" means any employment in which one or more employees
+18 are employed regularly in the same business or in or about the establishment except:
+19 a. Agricultural or domestic service.
+20 b. Any employment of a common carrier by railroad.
+21 c. Any employment for the transportation of property or persons by nonresidents,
+22 where, in such transportation, the highways are not traveled more than seven
+23 miles [11.27 kilometers] and return over the same route within the state of North
+24 Dakota.
+25 d. All members of the clergy and employees of religious organizations engaged in
+26 the operation, maintenance, and conduct of the place of worship.
+27 21.22. "Health care provider" means a doctor of medicine or osteopathy, chiropractor, dentist,
+28 optometrist, podiatrist, or psychologist acting within the scope of the doctor's license, a
+29 physical therapist, an advanced practice registered nurse, or a certified physician
+30 assistant.
+Page No. 8 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 22.23. "Medical marijuana" means the use of all parts of the plant of the genus cannabis, the
+2 seeds of the plant, the resin extracted from any part of the plant, and every compound,
+3 manufacture, salt, derivative, mixture, or preparation of the plant, the seeds of the
+4 plant, or the resin extracted from any part of the plant as a physician-recommended
+5 form of medicine or herbal therapy. The term does not include treatments or
+6 preparations specifically approved by the United States food and drug administration
+7 as a drug product.
+8 23.24. "Noncompliance" means failure to follow the requirements of chapter 65-04. An
+9 employer may be in noncompliance regardless of the employer's insured or uninsured
+10 status with the organization.
+11 24.25. "Organization" means workforce safety and insurance, or the director, or any
+12 department head, assistant, or employee of workforce safety and insurance
+13 designated by the director, to act within the course and scope of that person's
+14 employment in administering the policies, powers, and duties of this title.
+15 25.26. "Parent" includes a stepparent and a parent by adoption.
+16 26.27. "Payroll report" means the mechanism created by the organization and used by
+17 employers to report all employee payroll required by the organization.
+18 27.28. "Permanent impairment" means the loss of or loss of use of a member of the body
+19 existing after the date of maximum medical improvement and includes disfigurement
+20 resulting from an injury.
+21 28.29. "Permanent total disability" means disability that is the direct result of a compensable
+22 injury that prevents an injured employee from performing any work and results from
+23 any one of the following conditions:
+24 a. Total and permanent loss of sight of both eyes;
+25 b. Loss of both legs or loss of both feet at or above the ankle;
+26 c. Loss of both arms or loss of both hands at or above the wrist;
+27 d. Loss of any two of the members or faculties in subdivision a, b, or c;
+28 e. Permanent and complete paralysis of both legs or both arms or of one leg and
+29 one arm;
+30 f. Third-degree burns that cover at least forty percent of the body and require
+31 grafting;
+Page No. 9 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 g. A medically documented brain injury affecting cognitive and mental functioning
+2 which renders an injured employee unable to provide self-care and requires
+3 supervision or assistance with a majority of the activities of daily living; or
+4 h. A compensable injury that results in a permanent partial impairment rating of the
+5 whole body of at least twenty-five percent pursuant to section 65-05-12.2.
+6 If the injured employee has not reached maximum medical improvement within one
+7 hundred four weeks, the injured employee may receive a permanent partial
+8 impairment rating if a rating will assist the organization in assessing the injured
+9 employee's capabilities. Entitlement to a rating is solely within the discretion of the
+10 organization.
+11 29.30. "Rehabilitation services" means nonmedical services reasonably necessary to restore
+12 a disabled employee to substantial gainful employment as defined by section
+13 65-05.1-01 as near as possible. The term may include vocational evaluation,
+14 counseling, education, workplace modification, vocational retraining including training
+15 for alternative employment with the same employer, and job placement assistance.
+16 30.31. "Seasonal employment" includes occupations that are not permanent or that do not
+17 customarily operate throughout the entire year. Seasonal employment is determined
+18 by what is customary with respect to the employer at the time of injury.
+19 31.32. "Spouse" includes only the decedent's husband or wife who was living with the
+20 decedent or was dependent upon the decedent for support at the time of injury.
+21 32.33. "Subcontractor" means a person that agrees to perform all or part of the work for a
+22 contractor or another subcontractor.
+23 33.34. "Temporary total disability" means disability that results in the inability of an injured
+24 employee to earn wages as a result of a compensable injury for which disability
+25 benefits may not exceed a cumulative total of one hundred four weeks or the date the
+26 injured employee reaches maximum medical improvement or maximum medical
+27 recovery, whichever occurs first.
+28 34.35. "Uninsured" means failure of an employer to secure mandatory coverage with the
+29 organization or failure to pay premium, assessment, penalty, or interest, as calculated
+30 by the organization, which is more than forty-five days past due. An uninsured
+31 employer is subject to chapter 65-09.
+Page No. 10 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 35.36. "Utilization review" means the initial and continuing evaluation of appropriateness in
+2 terms of both the level and the quality of health care and health services provided a
+3 patient, based on medically accepted standards. The evaluation must be
+4 accomplished by means of a system that identifies the utilization of medical services,
+5 based on medically accepted standards, and which refers instances of possible
+6 inappropriate utilization to the organization to obtain opinions and recommendations of
+7 expert medical consultants to review individual cases for which administrative action
+8 may be deemed necessary.
+9 36.37. "Valid functional capacities examination" means:
+10 a. The results of a physical examination consisting of a battery of standardized
+11 assessments that offer reliable results in performance-based measures and
+12 demonstrate the level and duration an injured employee may return to work.
+13 b. The conclusions of medical experts, following observations of other activities the
+14 medical expert determines similarly predictive, when the results of the physical
+15 examination in subdivision a are not obtained or reliable.
+16 37.38. a. "Wages" means:
+17 (1) An injured employee's remuneration from all employment reportable to the
+18 internal revenue service as earned income for federal income tax purposes.
+19 (2) For members of the national guard who sustain a compensable injury while
+20 on state active duty, "wages" includes income from federal employment and
+21 may be included in determining the average weekly wage.
+22 (3) For purposes of chapter 65-04 only, "wages" means all gross earnings of all
+23 employees. The term includes all pretax deductions for amounts allocated
+24 by the employee for deferred compensation, medical reimbursement,
+25 retirement, or any similar program, but may not include dismissal or
+26 severance pay.
+27 b. The organization may consider postinjury wages for which coverage was not
+28 required or otherwise secured in North Dakota for purposes of determining
+29 appropriate vocational rehabilitation options or entitlement to disability benefits
+30 under this title.
+Page No. 11 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 Definitions. (Effective after August 31, 2028)
+2 In this title:
+3 1. "Acute care" means a short course of intensive diagnostic and therapeutic services
+4 provided immediately following a work injury with a rapid onset of pronounced
+5 symptoms.
+6 2. "Adopted" or "adoption" refers only to a legal adoption effected prior to the time of the
+7 injury.
+8 3. "Allied health care professional" includes a health care provider, pharmacist,
+9 audiologist, speech language pathologist, or naturopath or any recognized practitioner
+10 who provides skilled services pursuant to the prescription of, or under the supervision
+11 or direction of any of these individuals.
+12 4. "Artificial members" includes a device that is a substitute for a natural part, organ,
+13 limb, or other part of the body. The term includes a prescriptive device that is an aid for
+14 a natural part, organ, limb, or other part of the body if the damage to the prescriptive
+15 device is accompanied by an injury to the body. A prescriptive device includes
+16 prescription eyeglasses, contact lenses, dental braces, and orthopedic braces.
+17 5. "Artificial replacements" means mechanical aids, including braces, belts, casts, or
+18 crutches as may be reasonable and necessary due to compensable injury.
+19 6. "Average weekly wage" means the weekly wages the injured employee was receiving
+20 from all employments for which coverage is required or otherwise secured at the date
+21 of first disability. The average weekly wage determined under this subsection must be
+22 rounded to the nearest dollar. If the injured employee's wages are not fixed by the
+23 week, they must be determined by using the first applicable formula from the schedule
+24 below:
+25 a. For seasonal employment, during the first consecutive days of disability up to
+26 twenty-eight days the average weekly wage is calculated pursuant to the first
+27 applicable formula in subdivisions b through g, and after that are calculated as
+28 one-fiftieth of the total wages from all occupations during the twelve months
+29 preceding the date of first disability or during the tax year preceding the date of
+30 first disability, or an average of the three tax years preceding the date of first
+Page No. 12 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 disability, whichever is highest and for which accurate, reliable, and complete
+2 records are readily available.
+3 b. The "average weekly wage" of a self-employed employer is determined by the
+4 following formula: one fifty-second of the average annual net self-employed
+5 earnings reported the three preceding tax years or preceding fifty-two weeks
+6 whichever is higher if accurate, reliable, and complete records for those fifty-two
+7 weeks are readily available.
+8 c. Hourly or daily rate multiplied by number of hours or days worked per seven-day
+9 week.
+10 d. Monthly rate multiplied by twelve months and divided by fifty-two weeks.
+11 e. Biweekly rate divided by two.
+12 f. The usual wage paid other employees engaged in similar occupations.
+13 g. A wage reasonably and fairly approximating the weekly wage lost by the injured
+14 employee during the period of disability.
+15 7. "Average weekly wage in the state" means the determination made of the average
+16 weekly wage in the state by job service North Dakota on or before July first of each
+17 year, computed to the next highest dollar.
+18 8. "Board" means the workforce safety and insurance board of directors.
+19 9. "Brother" and "sister" include a stepbrother and a stepsister, a half brother and a half
+20 sister, and a brother and sister by adoption. The terms do not include a married
+21 brother or sister unless that person actually is dependent.
+22 10. "Child", for determining eligibility for benefits under chapter 65-05, means a legitimate
+23 child, a stepchild, adopted child, posthumous child, foster child, and acknowledged
+24 illegitimate child who is under eighteen years of age and resides with the injured
+25 employee; or is under eighteen years of age and does not reside with the injured
+26 employee but a duty of support is substantiated by an appropriate court order; or is
+27 between eighteen and twenty-two years of age and enrolled as a full-time student in
+28 any accredited educational institution and dependent upon the injured employee for
+29 support; or is eighteen years of age or over and is physically or mentally incapable of
+30 self-support and is actually dependent upon the injured employee for support. A child
+Page No. 13 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 does not include a married child unless actually dependent on the injured employee as
+2 shown on the preceding year's income tax returns.
+3 11. "Compensable injury" means an injury by accident arising out of and in the course of
+4 hazardous employment which must be established by medical evidence supported by
+5 objective medical findings.
+6 a. The term includes:
+7 (1) Disease caused by a hazard to which an employee is subjected in the
+8 course of employment. The disease must be incidental to the character of
+9 the business and not independent of the relation of employer and employee.
+10 Disease includes effects from radiation.
+11 (2) An injury to artificial members.
+12 (3) Injuries due to heart attack or other heart-related disease, stroke, and
+13 physical injury caused by mental stimulus, but only when caused by the
+14 employee's employment with reasonable medical certainty, and only when it
+15 is determined with reasonable medical certainty that unusual stress is at
+16 least fifty percent of the cause of the injury or disease as compared with all
+17 other contributing causes combined. Unusual stress means stress greater
+18 than the highest level of stress normally experienced or anticipated in that
+19 position or line of work.
+20 (4) Injuries arising out of employer-required or supplied travel to and from a
+21 remote jobsite or activities performed at the direction or under the control of
+22 the employer.
+23 (5) An injury caused by the willful act of a third person directed against an
+24 employee because of the employee's employment.
+25 (6) A mental or psychological condition caused by a physical injury, but only
+26 when the physical injury is determined with reasonable medical certainty to
+27 be at least fifty percent of the cause of the condition as compared with all
+28 other contributing causes combined, and only when the condition did not
+29 pre-exist the work injury.
+30 b. The term does not include:
+Page No. 14 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 (1) Ordinary diseases of life to which the general public outside of employment
+2 is exposed or preventive treatment for communicable diseases, except the
+3 organization may pay for preventive treatment for an exposure to a
+4 bloodborne pathogen as defined in section 23-07.5-01 occurring in the
+5 course of employment and for exposure to rabies occurring in the course of
+6 employment.
+7 (2) A willfully self-inflicted injury, including suicide or attempted suicide, or an
+8 injury caused by the employee's willful intention to injure or kill another.
+9 (3) Any injury caused by the use of intoxicants, including recreational marijuana
+10 use, or the illegal use of controlled substances.
+11 (4) An injury that arises out of an altercation in which the injured employee is an
+12 aggressor. This paragraph does not apply to public safety employees,
+13 including law enforcement officers or private security personnel who are
+14 required to engage in altercations as part of their job duties if the altercation
+15 arises out of the performance of those job duties.
+16 (5) An injury that arises out of an illegal act committed by the injured employee.
+17 (6) An injury that arises out of an employee's voluntary nonpaid participation in
+18 any recreational activity, including athletic events, parties, and picnics, even
+19 though the employer pays some or all of the cost of the activity.
+20 (7) Injuries attributable to a pre-existing injury, disease, or other condition,
+21 including when the employment acts as a trigger to produce symptoms in
+22 the pre-existing injury, disease, or other condition unless the employment
+23 substantially accelerates its progression or substantially worsens its
+24 severity. Pain is a symptom and may be considered in determining whether
+25 there is a substantial acceleration or substantial worsening of a pre-existing
+26 injury, disease, or other condition, but pain alone is not a substantial
+27 acceleration or a substantial worsening.
+28 (8) A nonemployment injury that, although acting upon a prior compensable
+29 injury, is an independent intervening cause of injury.
+Page No. 15 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 (9) A latent or asymptomatic degenerative condition, caused in substantial part
+2 by employment duties, which is triggered or made active by a subsequent
+3 injury.
+4 (10) A mental injury arising from mental stimulus.
+5 12. "Date of first disability" means the first date the injured employee was unable to work
+6 because of a compensable injury.
+7 13. "Date of maximum medical improvement" or "date of maximum medical recovery"
+8 means the date after which further recovery from, or lasting improvement to, an injury
+9 or disease can no longer reasonably be anticipated based upon reasonable medical
+10 probability.
+11 14. "Director" means the director of the organization.
+12 15. "Disability" means loss of actual earnings capacity and may be permanent total,
+13 temporary total, or partial.
+14 16. "Electronic means" means relating to technology having electrical, digital, magnetic,
+15 wireless, optical, electromagnetic, or similar capabilities.
+16 17. "Employee" means an individual who performs hazardous employment for another for
+17 remuneration unless the individual is an independent contractor under the
+18 common-law test.
+19 a. The term includes:
+20 (1) All elective and appointed officials of this state and its political subdivisions,
+21 including municipal corporations and including the members of the
+22 legislative assembly, all elective officials of any county, and all elective
+23 peace officers of any city.
+24 (2) Aliens.
+25 (3) Human service zone general assistance workers, except those who are
+26 engaged in repaying to human service zones or the department of health
+27 and human services moneys the human service zones or the department of
+28 health and human services have been compelled by statute to expend for
+29 general assistance.
+30 (4) Minors, whether lawfully or unlawfully employed. A minor is deemed sui juris
+31 for the purposes of this title, and no other person has any claim for relief or
+Page No. 16 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 right to claim workforce safety and insurance benefits for any injury to a
+2 minor worker, but in the event of the award of a lump sum of benefits to a
+3 minor employee, the lump sum may be paid only to the legally appointed
+4 guardian of the minor.
+5 b. The term does not include:
+6 (1) An individual whose employment is both casual and not in the course of the
+7 trade, business, profession, or occupation of that individual's employer.
+8 (2) An individual who is engaged in an illegal enterprise or occupation.
+9 (3) The spouse of an employer or the child under the age of twenty-two of an
+10 employer. For purposes of this paragraph and section 65-07-01, "child"
+11 means any legitimate child, stepchild, adopted child, foster child, or
+12 acknowledged illegitimate child.
+13 (4) A real estate broker or real estate salesperson, provided the individual
+14 meets the following three requirements:
+15 (a) The salesperson or broker must be a licensed real estate agent under
+16 section 43-23-05.
+17 (b) Substantially all of the salesperson's or broker's remuneration for the
+18 services performed as a real estate agent must be directly related to
+19 sales or other efforts rather than to the number of hours worked.
+20 (c) A written agreement must exist between the salesperson or broker
+21 and the person for which the salesperson or broker works, which
+22 agreement must provide the salesperson or broker will not be treated
+23 as an employee but rather as an independent contractor.
+24 (5) The members of the board of directors of a business corporation who are
+25 not employed in any capacity by the corporation other than as members of
+26 the board of directors.
+27 (6) An individual delivering newspapers or shopping news, if substantially all of
+28 the individual's remuneration is directly related to sales or other efforts
+29 rather than to the number of hours worked and a written agreement exists
+30 between the individual and the publisher of the newspaper or shopping
+31 news which states the individual is an independent contractor.
+Page No. 17 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 (7) An employer.
+2 17.18. "Employer" means a person that engages or received the services of another for
+3 remuneration unless the person performing the services is an independent contractor
+4 under the common-law test. The term includes:
+5 a. The state and all political subdivisions thereof.
+6 b. All public and quasi-public corporations in this state.
+7 c. Every person, partnership, limited liability company, association, and private
+8 corporation, including a public service corporation.
+9 d. The legal representative of any deceased employer.
+10 e. The receiver or trustee of any person, partnership, limited liability company,
+11 association, or corporation having one or more employees as herein defined.
+12 f. The president, vice presidents, secretary, or treasurer of a business corporation,
+13 but not members of the board of directors of a business corporation who are not
+14 also officers of the corporation.
+15 g. The managers of a limited liability company.
+16 h. The president, vice presidents, secretary, treasurer, or board of directors of an
+17 association or cooperative organized under chapter 6-06, 10-12, 10-13, 10-15,
+18 36-08, or 49-21.
+19 i. The clerk, assessor, treasurer, or any member of the board of supervisors of an
+20 organized township, if the person is not employed by the township in any other
+21 capacity.
+22 j. A multidistrict special education unit.
+23 k. An area career and technology center.
+24 l. A regional education association.
+25 18.19. "Fee schedule" means the payment formulas established in the organization
+26 publication entitled "Medical and Hospital Fees".
+27 19.20. "Fund" means the workforce safety and insurance fund.
+28 20.21. "Hazardous employment" means any employment in which one or more employees
+29 are employed regularly in the same business or in or about the establishment except:
+30 a. Agricultural or domestic service.
+31 b. Any employment of a common carrier by railroad.
+Page No. 18 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 c. Any employment for the transportation of property or persons by nonresidents,
+2 where, in such transportation, the highways are not traveled more than seven
+3 miles [11.27 kilometers] and return over the same route within the state of North
+4 Dakota.
+5 d. All members of the clergy and employees of religious organizations engaged in
+6 the operation, maintenance, and conduct of the place of worship.
+7 21.22. "Health care provider" means a doctor of medicine or osteopathy, chiropractor, dentist,
+8 optometrist, podiatrist, or psychologist acting within the scope of the doctor's license, a
+9 physical therapist, an advanced practice registered nurse, or a certified physician
+10 assistant.
+11 22.23. "Medical marijuana" means the use of all parts of the plant of the genus cannabis, the
+12 seeds of the plant, the resin extracted from any part of the plant, and every compound,
+13 manufacture, salt, derivative, mixture, or preparation of the plant, the seeds of the
+14 plant, or the resin extracted from any part of the plant as a physician-recommended
+15 form of medicine or herbal therapy. The term does not include treatments or
+16 preparations specifically approved by the United States food and drug administration
+17 as a drug product.
+18 23.24. "Noncompliance" means failure to follow the requirements of chapter 65-04. An
+19 employer may be in noncompliance regardless of the employer's insured or uninsured
+20 status with the organization.
+21 24.25. "Organization" means workforce safety and insurance, or the director, or any
+22 department head, assistant, or employee of workforce safety and insurance
+23 designated by the director, to act within the course and scope of that person's
+24 employment in administering the policies, powers, and duties of this title.
+25 25.26. "Parent" includes a stepparent and a parent by adoption.
+26 26.27. "Payroll report" means the mechanism created by the organization and used by
+27 employers to report all employee payroll required by the organization.
+28 27.28. "Permanent impairment" means the loss of or loss of use of a member of the body
+29 existing after the date of maximum medical improvement and includes disfigurement
+30 resulting from an injury.
+Page No. 19 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 28.29. "Permanent total disability" means disability that is the direct result of a compensable
+2 injury that prevents an injured employee from performing any work and results from
+3 any one of the following conditions:
+4 a. Total and permanent loss of sight of both eyes;
+5 b. Loss of both legs or loss of both feet at or above the ankle;
+6 c. Loss of both arms or loss of both hands at or above the wrist;
+7 d. Loss of any two of the members or faculties in subdivision a, b, or c;
+8 e. Permanent and complete paralysis of both legs or both arms or of one leg and
+9 one arm;
+10 f. Third-degree burns that cover at least forty percent of the body and require
+11 grafting;
+12 g. A medically documented brain injury affecting cognitive and mental functioning
+13 which renders an injured employee unable to provide self-care and requires
+14 supervision or assistance with a majority of the activities of daily living; or
+15 h. A compensable injury that results in a permanent partial impairment rating of the
+16 whole body of at least twenty-five percent pursuant to section 65-05-12.2.
+17 If the injured employee has not reached maximum medical improvement within one
+18 hundred four weeks, the injured employee may receive a permanent partial
+19 impairment rating if a rating will assist the organization in assessing the injured
+20 employee's capabilities. Entitlement to a rating is solely within the discretion of the
+21 organization.
+22 29.30. "Rehabilitation services" means nonmedical services reasonably necessary to restore
+23 a disabled employee to substantial gainful employment as defined by section
+24 65-05.1-01 as near as possible. The term may include vocational evaluation,
+25 counseling, education, workplace modification, vocational retraining including training
+26 for alternative employment with the same employer, and job placement assistance.
+27 30.31. "Seasonal employment" includes occupations that are not permanent or that do not
+28 customarily operate throughout the entire year. Seasonal employment is determined
+29 by what is customary with respect to the employer at the time of injury.
+30 31.32. "Spouse" includes only the decedent's husband or wife who was living with the
+31 decedent or was dependent upon the decedent for support at the time of injury.
+Page No. 20 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 32.33. "Subcontractor" means a person that agrees to perform all or part of the work for a
+2 contractor or another subcontractor.
+3 33.34. "Temporary total disability" means disability that results in the inability of an injured
+4 employee to earn wages as a result of a compensable injury for which disability
+5 benefits may not exceed a cumulative total of one hundred four weeks or the date the
+6 injured employee reaches maximum medical improvement or maximum medical
+7 recovery, whichever occurs first.
+8 34.35. "Uninsured" means failure of an employer to secure mandatory coverage with the
+9 organization or failure to pay premium, assessment, penalty, or interest, as calculated
+10 by the organization, which is more than forty-five days past due. An uninsured
+11 employer is subject to chapter 65-09.
+12 35.36. "Utilization review" means the initial and continuing evaluation of appropriateness in
+13 terms of both the level and the quality of health care and health services provided a
+14 patient, based on medically accepted standards. The evaluation must be
+15 accomplished by means of a system that identifies the utilization of medical services,
+16 based on medically accepted standards, and which refers instances of possible
+17 inappropriate utilization to the organization to obtain opinions and recommendations of
+18 expert medical consultants to review individual cases for which administrative action
+19 may be deemed necessary.
+20 36.37. "Valid functional capacities examination" means:
+21 a. The results of a physical examination consisting of a battery of standardized
+22 assessments that offer reliable results in performance-based measures and
+23 demonstrate the level and duration an injured employee may return to work.
+24 b. The conclusions of medical experts, following observations of other activities the
+25 medical expert determines similarly predictive, when the results of the physical
+26 examination in subdivision a are not obtained or reliable.
+27 37.38. a. "Wages" means:
+28 (1) An injured employee's remuneration from all employment reportable to the
+29 internal revenue service as earned income for federal income tax purposes.
+Page No. 21 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 (2) For members of the national guard who sustain a compensable injury while
+2 on state active duty, "wages" includes income from federal employment and
+3 may be included in determining the average weekly wage.
+4 (3) For purposes of chapter 65-04 only, "wages" means all gross earnings of all
+5 employees. The term includes all pretax deductions for amounts allocated
+6 by the employee for deferred compensation, medical reimbursement,
+7 retirement, or any similar program, but may not include dismissal or
+8 severance pay.
+9 b. The organization may consider postinjury wages for which coverage was not
+10 required or otherwise secured in North Dakota for purposes of determining
+11 appropriate vocational rehabilitation options or entitlement to disability benefits
+12 under this title.
+13 SECTION 2. AMENDMENT. Section 65-01-16 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 65-01-16. Decisions by organization - Disputed decisions.
+16 The following procedures must be followed in claimsa claim for benefits, notwithstanding
+17 any provisions to the contrary in chapter 28-32:
+18 1. The organization shall send a copy of each initial claim form filed with the organization
+19 to the claimant's employer, by regular mail or electronic means, along with a form for
+20 the employer's response, if the employer's response has not been filed at the time the
+21 claim is filed.
+22 2. The organization may conduct a hearing on any matter within its jurisdiction by
+23 informal internal review of the information of record.
+24 3. The organization may issue a notice of decision for any decision made by informal
+25 internal review and shall serveissue the notice of decision on the parties by regular
+26 mail or electronic means. A notice of decision must include a statement of the
+27 decision, a short summary of the reason for the decision, and notice of the right to
+28 reconsideration.
+29 4. A party has forty-five days from the day the notice of decision was mailedissued by the
+30 organization by regular mail or electronic means to file a written request for
+31 reconsideration. The request for reconsideration is considered filed only upon receipt
+Page No. 22 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 by the organization. The employer is not required to file the request through an
+2 attorney. The request must state the reason for disagreement with the organization's
+3 decision and the desired outcome. The request may be accompanied by additional
+4 evidence not previously submitted to the organization. The organization shall
+5 reconsider the matter by informal internal review of the information of record. Absent a
+6 timely and sufficient request for reconsideration, the notice of decision is final and may
+7 not be reheard or appealed.
+8 5. After receiving a request for reconsideration, the organization shall serve onissue to
+9 the parties by regular mail or electronic means, a notice of decision reversing the
+10 previous decision or, in accordance with the North Dakota Rules of Civil Procedure, an
+11 administrative order that includes its findings, conclusions, and order. The organization
+12 may serveissue an administrative order on any decision made by informal internal
+13 review without first issuing a notice of decision and receiving a request for
+14 reconsideration. If the organization does not issue an order within sixty days of
+15 receiving a request for reconsideration, any interested party may request, and the
+16 organization shall promptly issue, an appealable determination.
+17 6. An employee has forty-five days from the day the administrative order was mailed in
+18 which to file a request for assistance from the decision review office under section
+19 65-02-27.
+20 7. A party has forty-five days, from the date of serviceissuance of an administrative order
+21 or from the day the decision review office mailsissues its notice by regular mail or
+22 electronic means that the office's assistance is complete, in which to file a written
+23 request for rehearing. The request must specifically state each alleged error of fact
+24 and law to be reheard and the relief sought. The request for rehearing is considered
+25 filed only upon receipt by the organization. Absent a timely and sufficient request for
+26 rehearing, the administrative order is final and may not be reheard or appealed.
+27 8. Rehearings must be conducted as hearings under chapter 28-32 to the extent the
+28 provisions of that chapter do not conflict with this section.
+29 9. A party may appeal a posthearing administrative order to district court in accordance
+30 with chapter 65-10. Chapter 65-10 does not preclude the organization from appealing
+31 to district court a final order issued by a hearing officer under this title.
+Page No. 23 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 10. Any notice of decision, administrative order, or posthearing administrative order is
+2 subject to review and reopening under section 65-05-04.
+3 SECTION 3. AMENDMENT. Section 65-02-27 of the North Dakota Century Code is
+4 amended and reenacted as follows:
+5 65-02-27. Decision review office.
+6 The organization's decision review office is established. The decision review office is
+7 independent of the claims department of the organization and activities administered through
+8 the office must be administered in accordance with this title. The decision review office shall
+9 provide assistance to an injured employee who has filed a claim, which may include acting on
+10 behalf of an injured employee who is aggrieved by a decision of the organization,
+11 communicating with organization staff regarding claim dispute resolution, and informing an
+12 injured employee of the effect of decisions made by the organization, an injured employee, or
+13 an employer under this title. The organization shall employ a director of the decision review
+14 office and other personnel determined to be necessary for the administration of the office. An
+15 individual employed to administer the decision review office may not act as an attorney for an
+16 injured employee. The organization may not pay attorney's fees to an attorney who represents
+17 an injured employee in a disputed claim before the organization unless the injured employee
+18 has first attempted to resolve the dispute through the decision review office. A written request
+19 for assistance by an injured employee who contacts the decision review office within the period
+20 for requesting a hearing on an administrative order tolls the time period for requesting a hearing
+21 on that order. The period begins upon notice to the injured employee, sentissued by regular mail
+22 or electronic means, that the decision review office's assistance to the injured employee is
+23 completed. The information contained in a file established by the decision review office on an
+24 injured employee's disputed claim, including communications from an injured employee, is
+25 privileged and may not be released without the injured employee's permission. Information in
+26 the file containing the notes or mental impressions of decision review office staff is confidential
+27 and may not be released by the decision review office.
+28 SECTION 4. AMENDMENT. Subsection 1 of section 65-05-17 of the North Dakota Century
+29 Code is amended and reenacted as follows:
+30 1. To the decedent's spouse or to the guardian of the children of the decedent, an
+31 amount equal to the benefit rate for total disability under section 65-05-09. All
+Page No. 24 25.8012.01000
+Sixty-ninth
+Legislative Assembly
+1 recipients of benefits under this subsection are eligible for benefits at the rate provided
+2 in this section, regardless of the date of death of the deceased employee. These
+3 benefits continue until the death of the decedent's spouse; or, if the surviving children
+4 of the decedent are under the care of a guardian, until those children no longer meet
+5 the definition of child in this title. If there is more than one guardian for the children
+6 who survive the decedent, the organization shall divide the death benefits equally
+7 among the children and shall pay benefits to the children's guardians. Total death
+8 benefits, including supplementary benefits, paid on any one claim may not exceed
+9 three hundred thousandfour hundred thousand dollars. On July first of each
+10 odd - numbered year, the organization shall increase the cap on total death benefits ,
+11 including supplementary benefits, by ten thousand dollars.
+12 SECTION 5. AMENDMENT. Subsection 4 of section 65-05-20.1 of the North Dakota
+13 Century Code is amended and reenacted as follows:
+14 4. The total amount awarded annually in scholarships may not exceed five hundred
+15 thousand dollars. The maximum amount payable on behalf of an applicant is ten
+16 thousandtwelve thousand five hundred dollars per year for no more than five years,
+17 except that the combined retraining and scholarship periods for applicants
+18 successfully completing a rehabilitation program under subdivision g of subsection 4 of
+19 section 65-05.1-01 may not exceed five years.
+20 SECTION 6. APPLICATION. Section 1 applies to claims filed on or after August 1, 2025.
+21 The increase in the death benefit cap from $300,000 to $400,000 and the biennial increase of
+22 $10,000 in section 5 of this Act applies to employee deaths resulting from injuries that occur on
+23 or after the effective date of this Act. Each biennial increase in the death benefit cap applies
+24 only to those deaths occurring from July first of that odd-numbered year through June thirtieth of
+25 the next odd-numbered year.
+Page No. 25 25.8012.01000
+[DELETED: ."."."."12]
+[DELETED: .".".F.T.H.M.B.T.A."22]
+[DELETED: .".".".".T)D)A)I32]
+[DELETED: )I)A)A.T)O)A)A)A)A42]
+[DELETED: )A)I)A)A)A."."."."."."52]
+[DELETED: .T)A)A)H)M.T)A)A)T)A)T62]
+[DELETED: )S)A)T)A)A)A.".T.A.E.T.T72]
+[DELETED: .T.T.T.T.A.A.A.".".".A.A.A.A."82]
+[DELETED: .".".".".".".".T.L.L.L.P.T92]
+[DELETED: .A.A."."."."."."02]
+[DELETED: .".".T.T.a.")A)F)F.T12]
+[DELETED: .".".".".".".F22]
+[DELETED: .T.H.M.B.T.A."."."."32]
+[DELETED: .".T)D)A)I)I)A)A.T42]
+[DELETED: )O)A)A)A)A)A)I)A52]
+[DELETED: )A)A.".".".".".".T)A)A)H)M62]
+[DELETED: .T)A)A)T)A)T)S)A)T)A72]
+[DELETED: )A.".T.A.E.T.T.T.T.T.T.A.A.A.".".".A.A82]
+[DELETED: .A.A."."."."."."."92]
+[DELETED: .".T.L.L.L.P.T.A.A."."."02]
+[DELETED: .".".".".".T.T.a.")A12]
+[DELETED: )F)F.T.T.T.T.A22]
+[DELETED: .A.A.A.R.A32]
+[DELETED: .A.T42]
+[DELETED: .T52]
+
+
+================================================================================
+
+Raw Text:
+25.8012.01000
+Sixty-ninth
+SENATE BILL NO. 2109
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry and Business Committee
+(At the request of Workforce Safety and Insurance)
+1 A BILL for an Act to amend and reenact sections 65-01-02, 65-01-16, and 65-02-27,
+2 subsection 1 of section 65-05-17, and subsection 4 of section 65-05-20.1 of the North Dakota
+3 Century Code, relating to the definition of disability, the definition of electronic means, forms and
+4 decisions issued by electronic means, requests for rehearing of an administrative order,
+5 maximum death benefits, and the scholarship fund; and to provide for application.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Section 65-01-02 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 65-01-02. Definitions. (Effective through August 31, 2028)
+10 In this title:
+11 1. "Acute care" means a short course of intensive diagnostic and therapeutic services
+12 provided immediately following a work injury with a rapid onset of pronounced
+13 symptoms.
+14 2. "Adopted" or "adoption" refers only to a legal adoption effected prior to the time of the
+15 injury.
+16 3. "Allied health care professional" includes a health care provider, pharmacist,
+17 audiologist, speech language pathologist, or naturopath or any recognized practitioner
+18 who provides skilled services pursuant to the prescription of, or under the supervision
+19 or direction of any of these individuals.
+20 4. "Artificial members" includes a device that is a substitute for a natural part, organ,
+21 limb, or other part of the body. The term includes a prescriptive device that is an aid for
+22 a natural part, organ, limb, or other part of the body if the damage to the prescriptive
+23 device is accompanied by an injury to the body. A prescriptive device includes
+24 prescription eyeglasses, contact lenses, dental braces, and orthopedic braces.
+Page No. 1 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5. "Artificial replacements" means mechanical aids, including braces, belts, casts, or
+2 crutches as may be reasonable and necessary due to compensable injury.
+3 6. "Average weekly wage" means the weekly wages the injured employee was receiving
+4 from all employments for which coverage is required or otherwise secured at the date
+5 of first disability. The average weekly wage determined under this subsection must be
+6 rounded to the nearest dollar. If the injured employee's wages are not fixed by the
+7 week, they must be determined by using the first applicable formula from the schedule
+8 below:
+9 a. For seasonal employment, during the first consecutive days of disability up to
+10 twenty-eight days the average weekly wage is calculated pursuant to the first
+11 applicable formula in subdivisions b through g, and after that are calculated as
+12 one-fiftieth of the total wages from all occupations during the twelve months
+13 preceding the date of first disability or during the tax year preceding the date of
+14 first disability, or an average of the three tax years preceding the date of first
+15 disability, whichever is highest and for which accurate, reliable, and complete
+16 records are readily available.
+17 b. The "average weekly wage" of a self-employed employer is determined by the
+18 following formula: one fifty-second of the average annual net self-employed
+19 earnings reported the three preceding tax years or preceding fifty-two weeks
+20 whichever is higher if accurate, reliable, and complete records for those fifty-two
+21 weeks are readily available.
+22 c. Hourly or daily rate multiplied by number of hours or days worked per seven-day
+23 week.
+24 d. Monthly rate multiplied by twelve months and divided by fifty-two weeks.
+25 e. Biweekly rate divided by two.
+26 f. The usual wage paid other employees engaged in similar occupations.
+27 g. A wage reasonably and fairly approximating the weekly wage lost by the injured
+28 employee during the period of disability.
+29 7. "Average weekly wage in the state" means the determination made of the average
+30 weekly wage in the state by job service North Dakota on or before July first of each
+31 year, computed to the next highest dollar.
+Page No. 2 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 8. "Board" means the workforce safety and insurance board of directors.
+2 9. "Brother" and "sister" include a stepbrother and a stepsister, a half brother and a half
+3 sister, and a brother and sister by adoption. The terms do not include a married
+4 brother or sister unless that person actually is dependent.
+5 10. "Child", for determining eligibility for benefits under chapter 65-05, means a legitimate
+6 child, a stepchild, adopted child, posthumous child, foster child, and acknowledged
+7 illegitimate child who is under eighteen years of age and resides with the injured
+8 employee; or is under eighteen years of age and does not reside with the injured
+9 employee but a duty of support is substantiated by an appropriate court order; or is
+10 between eighteen and twenty-two years of age and enrolled as a full-time student in
+11 any accredited educational institution and dependent upon the injured employee for
+12 support; or is eighteen years of age or over and is physically or mentally incapable of
+13 self-support and is actually dependent upon the injured employee for support. A child
+14 does not include a married child unless actually dependent on the injured employee as
+15 shown on the preceding year's income tax returns.
+16 11. "Compensable injury" means an injury by accident arising out of and in the course of
+17 hazardous employment which must be established by medical evidence supported by
+18 objective medical findings.
+19 a. The term includes:
+20 (1) Disease caused by a hazard to which an employee is subjected in the
+21 course of employment. The disease must be incidental to the character of
+22 the business and not independent of the relation of employer and employee.
+23 Disease includes effects from radiation.
+24 (2) An injury to artificial members.
+25 (3) Injuries due to heart attack or other heart-related disease, stroke, and
+26 physical injury caused by mental stimulus, but only when caused by the
+27 employee's employment with reasonable medical certainty, and only when it
+28 is determined with reasonable medical certainty that unusual stress is at
+29 least fifty percent of the cause of the injury or disease as compared with all
+30 other contributing causes combined. Unusual stress means stress greater
+Page No. 3 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 than the highest level of stress normally experienced or anticipated in that
+2 position or line of work.
+3 (4) Injuries arising out of employer-required or supplied travel to and from a
+4 remote jobsite or activities performed at the direction or under the control of
+5 the employer.
+6 (5) An injury caused by the willful act of a third person directed against an
+7 employee because of the employee's employment.
+8 (6) A mental or psychological condition caused by a physical injury, but only
+9 when the physical injury is determined with reasonable medical certainty to
+10 be at least fifty percent of the cause of the condition as compared with all
+11 other contributing causes combined, and only when the condition did not
+12 pre-exist the work injury.
+13 b. The term does not include:
+14 (1) Ordinary diseases of life to which the general public outside of employment
+15 is exposed or preventive treatment for communicable diseases, except the
+16 organization may pay for preventive treatment for an exposure to a
+17 bloodborne pathogen as defined in section 23-07.5-01 occurring in the
+18 course of employment and for exposure to rabies occurring in the course of
+19 employment.
+20 (2) A willfully self-inflicted injury, including suicide or attempted suicide, or an
+21 injury caused by the employee's willful intention to injure or kill another.
+22 (3) Any injury caused by the use of intoxicants, including recreational marijuana
+23 use, or the illegal use of controlled substances.
+24 (4) An injury that arises out of an altercation in which the injured employee is an
+25 aggressor. This paragraph does not apply to public safety employees,
+26 including law enforcement officers or private security personnel who are
+27 required to engage in altercations as part of their job duties if the altercation
+28 arises out of the performance of those job duties.
+29 (5) An injury that arises out of an illegal act committed by the injured employee.
+Page No. 4 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (6) An injury that arises out of an employee's voluntary nonpaid participation in
+2 any recreational activity, including athletic events, parties, and picnics, even
+3 though the employer pays some or all of the cost of the activity.
+4 (7) Injuries attributable to a pre-existing injury, disease, or other condition,
+5 including when the employment acts as a trigger to produce symptoms in
+6 the pre-existing injury, disease, or other condition unless the employment
+7 substantially accelerates its progression or substantially worsens its
+8 severity. Pain is a symptom and may be considered in determining whether
+9 there is a substantial acceleration or substantial worsening of a pre-existing
+10 injury, disease, or other condition, but pain alone is not a substantial
+11 acceleration or a substantial worsening.
+12 (8) A nonemployment injury that, although acting upon a prior compensable
+13 injury, is an independent intervening cause of injury.
+14 (9) A latent or asymptomatic degenerative condition, caused in substantial part
+15 by employment duties, which is triggered or made active by a subsequent
+16 injury.
+17 (10) A mental injury arising from mental stimulus.
+18 12. "Date of first disability" means the first date the injured employee was unable to work
+19 because of a compensable injury.
+20 13. "Date of maximum medical improvement" or "date of maximum medical recovery"
+21 means the date after which further recovery from, or lasting improvement to, an injury
+22 or disease can no longer reasonably be anticipated based upon reasonable medical
+23 probability.
+24 14. "Director" means the director of the organization.
+25 15. "Disability" means loss of actual earnings capacity and may be permanent total,
+26 temporary total, or partial.
+27 16. "Electronic means" means relating to technology having electrical, digital, magnetic,
+28 wireless, optical, electromagnetic, or similar capabilities.
+29 17. "Employee" means an individual who performs hazardous employment for another for
+30 remuneration unless the individual is an independent contractor under the
+31 common-law test.
+Page No. 5 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. The term includes:
+2 (1) All elective and appointed officials of this state and its political subdivisions,
+3 including municipal corporations and including the members of the
+4 legislative assembly, all elective officials of any county, and all elective
+5 peace officers of any city.
+6 (2) Aliens.
+7 (3) Human service zone general assistance workers, except those who are
+8 engaged in repaying to human service zones or the department of health
+9 and human services moneys the human service zones or the department of
+10 health and human services have been compelled by statute to expend for
+11 general assistance.
+12 (4) Minors, whether lawfully or unlawfully employed. A minor is deemed sui juris
+13 for the purposes of this title, and no other person has any claim for relief or
+14 right to claim workforce safety and insurance benefits for any injury to a
+15 minor worker, but in the event of the award of a lump sum of benefits to a
+16 minor employee, the lump sum may be paid only to the legally appointed
+17 guardian of the minor.
+18 b. The term does not include:
+19 (1) An individual whose employment is both casual and not in the course of the
+20 trade, business, profession, or occupation of that individual's employer.
+21 (2) An individual who is engaged in an illegal enterprise or occupation.
+22 (3) The spouse of an employer or the child under the age of twenty-two of an
+23 employer. For purposes of this paragraph and section 65-07-01, "child"
+24 means any legitimate child, stepchild, adopted child, foster child, or
+25 acknowledged illegitimate child.
+26 (4) A real estate broker or real estate salesperson, provided the individual
+27 meets the following three requirements:
+28 (a) The salesperson or broker must be a licensed real estate agent under
+29 section 43-23-05.
+Page No. 6 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (b) Substantially all of the salesperson's or broker's remuneration for the
+2 services performed as a real estate agent must be directly related to
+3 sales or other efforts rather than to the number of hours worked.
+4 (c) A written agreement must exist between the salesperson or broker
+5 and the person for which the salesperson or broker works, which
+6 agreement must provide the salesperson or broker will not be treated
+7 as an employee but rather as an independent contractor.
+8 (5) The members of the board of directors of a business corporation who are
+9 not employed in any capacity by the corporation other than as members of
+10 the board of directors.
+11 (6) An individual delivering newspapers or shopping news, if substantially all of
+12 the individual's remuneration is directly related to sales or other efforts
+13 rather than to the number of hours worked and a written agreement exists
+14 between the individual and the publisher of the newspaper or shopping
+15 news which states the individual is an independent contractor.
+16 (7) An employer.
+17 (8) An athlete participating in a contact sport. As used in this paragraph,
+18 "contact sport" means a team or individual competitive athletic activity that
+19 includes significant physical contact between the athletes involved. The
+20 term includes football and hockey.
+21 17.18. "Employer" means a person that engages or received the services of another for
+22 remuneration unless the person performing the services is an independent contractor
+23 under the common-law test. The term includes:
+24 a. The state and all political subdivisions thereof.
+25 b. All public and quasi-public corporations in this state.
+26 c. Every person, partnership, limited liability company, association, and private
+27 corporation, including a public service corporation.
+28 d. The legal representative of any deceased employer.
+29 e. The receiver or trustee of any person, partnership, limited liability company,
+30 association, or corporation having one or more employees as herein defined.
+Page No. 7 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 f. The president, vice presidents, secretary, or treasurer of a business corporation,
+2 but not members of the board of directors of a business corporation who are not
+3 also officers of the corporation.
+4 g. The managers of a limited liability company.
+5 h. The president, vice presidents, secretary, treasurer, or board of directors of an
+6 association or cooperative organized under chapter 6-06, 10-12, 10-13, 10-15,
+7 36-08, or 49-21.
+8 i. The clerk, assessor, treasurer, or any member of the board of supervisors of an
+9 organized township, if the person is not employed by the township in any other
+10 capacity.
+11 j. A multidistrict special education unit.
+12 k. An area career and technology center.
+13 l. A regional education association.
+14 18.19. "Fee schedule" means the payment formulas established in the organization
+15 publication entitled "Medical and Hospital Fees".
+16 19.20. "Fund" means the workforce safety and insurance fund.
+17 20.21. "Hazardous employment" means any employment in which one or more employees
+18 are employed regularly in the same business or in or about the establishment except:
+19 a. Agricultural or domestic service.
+20 b. Any employment of a common carrier by railroad.
+21 c. Any employment for the transportation of property or persons by nonresidents,
+22 where, in such transportation, the highways are not traveled more than seven
+23 miles [11.27 kilometers] and return over the same route within the state of North
+24 Dakota.
+25 d. All members of the clergy and employees of religious organizations engaged in
+26 the operation, maintenance, and conduct of the place of worship.
+27 21.22. "Health care provider" means a doctor of medicine or osteopathy, chiropractor, dentist,
+28 optometrist, podiatrist, or psychologist acting within the scope of the doctor's license, a
+29 physical therapist, an advanced practice registered nurse, or a certified physician
+30 assistant.
+Page No. 8 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 22.23. "Medical marijuana" means the use of all parts of the plant of the genus cannabis, the
+2 seeds of the plant, the resin extracted from any part of the plant, and every compound,
+3 manufacture, salt, derivative, mixture, or preparation of the plant, the seeds of the
+4 plant, or the resin extracted from any part of the plant as a physician-recommended
+5 form of medicine or herbal therapy. The term does not include treatments or
+6 preparations specifically approved by the United States food and drug administration
+7 as a drug product.
+8 23.24. "Noncompliance" means failure to follow the requirements of chapter 65-04. An
+9 employer may be in noncompliance regardless of the employer's insured or uninsured
+10 status with the organization.
+11 24.25. "Organization" means workforce safety and insurance, or the director, or any
+12 department head, assistant, or employee of workforce safety and insurance
+13 designated by the director, to act within the course and scope of that person's
+14 employment in administering the policies, powers, and duties of this title.
+15 25.26. "Parent" includes a stepparent and a parent by adoption.
+16 26.27. "Payroll report" means the mechanism created by the organization and used by
+17 employers to report all employee payroll required by the organization.
+18 27.28. "Permanent impairment" means the loss of or loss of use of a member of the body
+19 existing after the date of maximum medical improvement and includes disfigurement
+20 resulting from an injury.
+21 28.29. "Permanent total disability" means disability that is the direct result of a compensable
+22 injury that prevents an injured employee from performing any work and results from
+23 any one of the following conditions:
+24 a. Total and permanent loss of sight of both eyes;
+25 b. Loss of both legs or loss of both feet at or above the ankle;
+26 c. Loss of both arms or loss of both hands at or above the wrist;
+27 d. Loss of any two of the members or faculties in subdivision a, b, or c;
+28 e. Permanent and complete paralysis of both legs or both arms or of one leg and
+29 one arm;
+30 f. Third-degree burns that cover at least forty percent of the body and require
+31 grafting;
+Page No. 9 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 g. A medically documented brain injury affecting cognitive and mental functioning
+2 which renders an injured employee unable to provide self-care and requires
+3 supervision or assistance with a majority of the activities of daily living; or
+4 h. A compensable injury that results in a permanent partial impairment rating of the
+5 whole body of at least twenty-five percent pursuant to section 65-05-12.2.
+6 If the injured employee has not reached maximum medical improvement within one
+7 hundred four weeks, the injured employee may receive a permanent partial
+8 impairment rating if a rating will assist the organization in assessing the injured
+9 employee's capabilities. Entitlement to a rating is solely within the discretion of the
+10 organization.
+11 29.30. "Rehabilitation services" means nonmedical services reasonably necessary to restore
+12 a disabled employee to substantial gainful employment as defined by section
+13 65-05.1-01 as near as possible. The term may include vocational evaluation,
+14 counseling, education, workplace modification, vocational retraining including training
+15 for alternative employment with the same employer, and job placement assistance.
+16 30.31. "Seasonal employment" includes occupations that are not permanent or that do not
+17 customarily operate throughout the entire year. Seasonal employment is determined
+18 by what is customary with respect to the employer at the time of injury.
+19 31.32. "Spouse" includes only the decedent's husband or wife who was living with the
+20 decedent or was dependent upon the decedent for support at the time of injury.
+21 32.33. "Subcontractor" means a person that agrees to perform all or part of the work for a
+22 contractor or another subcontractor.
+23 33.34. "Temporary total disability" means disability that results in the inability of an injured
+24 employee to earn wages as a result of a compensable injury for which disability
+25 benefits may not exceed a cumulative total of one hundred four weeks or the date the
+26 injured employee reaches maximum medical improvement or maximum medical
+27 recovery, whichever occurs first.
+28 34.35. "Uninsured" means failure of an employer to secure mandatory coverage with the
+29 organization or failure to pay premium, assessment, penalty, or interest, as calculated
+30 by the organization, which is more than forty-five days past due. An uninsured
+31 employer is subject to chapter 65-09.
+Page No. 10 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 35.36. "Utilization review" means the initial and continuing evaluation of appropriateness in
+2 terms of both the level and the quality of health care and health services provided a
+3 patient, based on medically accepted standards. The evaluation must be
+4 accomplished by means of a system that identifies the utilization of medical services,
+5 based on medically accepted standards, and which refers instances of possible
+6 inappropriate utilization to the organization to obtain opinions and recommendations of
+7 expert medical consultants to review individual cases for which administrative action
+8 may be deemed necessary.
+9 36.37. "Valid functional capacities examination" means:
+10 a. The results of a physical examination consisting of a battery of standardized
+11 assessments that offer reliable results in performance-based measures and
+12 demonstrate the level and duration an injured employee may return to work.
+13 b. The conclusions of medical experts, following observations of other activities the
+14 medical expert determines similarly predictive, when the results of the physical
+15 examination in subdivision a are not obtained or reliable.
+16 37.38. a. "Wages" means:
+17 (1) An injured employee's remuneration from all employment reportable to the
+18 internal revenue service as earned income for federal income tax purposes.
+19 (2) For members of the national guard who sustain a compensable injury while
+20 on state active duty, "wages" includes income from federal employment and
+21 may be included in determining the average weekly wage.
+22 (3) For purposes of chapter 65-04 only, "wages" means all gross earnings of all
+23 employees. The term includes all pretax deductions for amounts allocated
+24 by the employee for deferred compensation, medical reimbursement,
+25 retirement, or any similar program, but may not include dismissal or
+26 severance pay.
+27 b. The organization may consider postinjury wages for which coverage was not
+28 required or otherwise secured in North Dakota for purposes of determining
+29 appropriate vocational rehabilitation options or entitlement to disability benefits
+30 under this title.
+Page No. 11 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Definitions. (Effective after August 31, 2028)
+2 In this title:
+3 1. "Acute care" means a short course of intensive diagnostic and therapeutic services
+4 provided immediately following a work injury with a rapid onset of pronounced
+5 symptoms.
+6 2. "Adopted" or "adoption" refers only to a legal adoption effected prior to the time of the
+7 injury.
+8 3. "Allied health care professional" includes a health care provider, pharmacist,
+9 audiologist, speech language pathologist, or naturopath or any recognized practitioner
+10 who provides skilled services pursuant to the prescription of, or under the supervision
+11 or direction of any of these individuals.
+12 4. "Artificial members" includes a device that is a substitute for a natural part, organ,
+13 limb, or other part of the body. The term includes a prescriptive device that is an aid for
+14 a natural part, organ, limb, or other part of the body if the damage to the prescriptive
+15 device is accompanied by an injury to the body. A prescriptive device includes
+16 prescription eyeglasses, contact lenses, dental braces, and orthopedic braces.
+17 5. "Artificial replacements" means mechanical aids, including braces, belts, casts, or
+18 crutches as may be reasonable and necessary due to compensable injury.
+19 6. "Average weekly wage" means the weekly wages the injured employee was receiving
+20 from all employments for which coverage is required or otherwise secured at the date
+21 of first disability. The average weekly wage determined under this subsection must be
+22 rounded to the nearest dollar. If the injured employee's wages are not fixed by the
+23 week, they must be determined by using the first applicable formula from the schedule
+24 below:
+25 a. For seasonal employment, during the first consecutive days of disability up to
+26 twenty-eight days the average weekly wage is calculated pursuant to the first
+27 applicable formula in subdivisions b through g, and after that are calculated as
+28 one-fiftieth of the total wages from all occupations during the twelve months
+29 preceding the date of first disability or during the tax year preceding the date of
+30 first disability, or an average of the three tax years preceding the date of first
+Page No. 12 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 disability, whichever is highest and for which accurate, reliable, and complete
+2 records are readily available.
+3 b. The "average weekly wage" of a self-employed employer is determined by the
+4 following formula: one fifty-second of the average annual net self-employed
+5 earnings reported the three preceding tax years or preceding fifty-two weeks
+6 whichever is higher if accurate, reliable, and complete records for those fifty-two
+7 weeks are readily available.
+8 c. Hourly or daily rate multiplied by number of hours or days worked per seven-day
+9 week.
+10 d. Monthly rate multiplied by twelve months and divided by fifty-two weeks.
+11 e. Biweekly rate divided by two.
+12 f. The usual wage paid other employees engaged in similar occupations.
+13 g. A wage reasonably and fairly approximating the weekly wage lost by the injured
+14 employee during the period of disability.
+15 7. "Average weekly wage in the state" means the determination made of the average
+16 weekly wage in the state by job service North Dakota on or before July first of each
+17 year, computed to the next highest dollar.
+18 8. "Board" means the workforce safety and insurance board of directors.
+19 9. "Brother" and "sister" include a stepbrother and a stepsister, a half brother and a half
+20 sister, and a brother and sister by adoption. The terms do not include a married
+21 brother or sister unless that person actually is dependent.
+22 10. "Child", for determining eligibility for benefits under chapter 65-05, means a legitimate
+23 child, a stepchild, adopted child, posthumous child, foster child, and acknowledged
+24 illegitimate child who is under eighteen years of age and resides with the injured
+25 employee; or is under eighteen years of age and does not reside with the injured
+26 employee but a duty of support is substantiated by an appropriate court order; or is
+27 between eighteen and twenty-two years of age and enrolled as a full-time student in
+28 any accredited educational institution and dependent upon the injured employee for
+29 support; or is eighteen years of age or over and is physically or mentally incapable of
+30 self-support and is actually dependent upon the injured employee for support. A child
+Page No. 13 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 does not include a married child unless actually dependent on the injured employee as
+2 shown on the preceding year's income tax returns.
+3 11. "Compensable injury" means an injury by accident arising out of and in the course of
+4 hazardous employment which must be established by medical evidence supported by
+5 objective medical findings.
+6 a. The term includes:
+7 (1) Disease caused by a hazard to which an employee is subjected in the
+8 course of employment. The disease must be incidental to the character of
+9 the business and not independent of the relation of employer and employee.
+10 Disease includes effects from radiation.
+11 (2) An injury to artificial members.
+12 (3) Injuries due to heart attack or other heart-related disease, stroke, and
+13 physical injury caused by mental stimulus, but only when caused by the
+14 employee's employment with reasonable medical certainty, and only when it
+15 is determined with reasonable medical certainty that unusual stress is at
+16 least fifty percent of the cause of the injury or disease as compared with all
+17 other contributing causes combined. Unusual stress means stress greater
+18 than the highest level of stress normally experienced or anticipated in that
+19 position or line of work.
+20 (4) Injuries arising out of employer-required or supplied travel to and from a
+21 remote jobsite or activities performed at the direction or under the control of
+22 the employer.
+23 (5) An injury caused by the willful act of a third person directed against an
+24 employee because of the employee's employment.
+25 (6) A mental or psychological condition caused by a physical injury, but only
+26 when the physical injury is determined with reasonable medical certainty to
+27 be at least fifty percent of the cause of the condition as compared with all
+28 other contributing causes combined, and only when the condition did not
+29 pre-exist the work injury.
+30 b. The term does not include:
+Page No. 14 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (1) Ordinary diseases of life to which the general public outside of employment
+2 is exposed or preventive treatment for communicable diseases, except the
+3 organization may pay for preventive treatment for an exposure to a
+4 bloodborne pathogen as defined in section 23-07.5-01 occurring in the
+5 course of employment and for exposure to rabies occurring in the course of
+6 employment.
+7 (2) A willfully self-inflicted injury, including suicide or attempted suicide, or an
+8 injury caused by the employee's willful intention to injure or kill another.
+9 (3) Any injury caused by the use of intoxicants, including recreational marijuana
+10 use, or the illegal use of controlled substances.
+11 (4) An injury that arises out of an altercation in which the injured employee is an
+12 aggressor. This paragraph does not apply to public safety employees,
+13 including law enforcement officers or private security personnel who are
+14 required to engage in altercations as part of their job duties if the altercation
+15 arises out of the performance of those job duties.
+16 (5) An injury that arises out of an illegal act committed by the injured employee.
+17 (6) An injury that arises out of an employee's voluntary nonpaid participation in
+18 any recreational activity, including athletic events, parties, and picnics, even
+19 though the employer pays some or all of the cost of the activity.
+20 (7) Injuries attributable to a pre-existing injury, disease, or other condition,
+21 including when the employment acts as a trigger to produce symptoms in
+22 the pre-existing injury, disease, or other condition unless the employment
+23 substantially accelerates its progression or substantially worsens its
+24 severity. Pain is a symptom and may be considered in determining whether
+25 there is a substantial acceleration or substantial worsening of a pre-existing
+26 injury, disease, or other condition, but pain alone is not a substantial
+27 acceleration or a substantial worsening.
+28 (8) A nonemployment injury that, although acting upon a prior compensable
+29 injury, is an independent intervening cause of injury.
+Page No. 15 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (9) A latent or asymptomatic degenerative condition, caused in substantial part
+2 by employment duties, which is triggered or made active by a subsequent
+3 injury.
+4 (10) A mental injury arising from mental stimulus.
+5 12. "Date of first disability" means the first date the injured employee was unable to work
+6 because of a compensable injury.
+7 13. "Date of maximum medical improvement" or "date of maximum medical recovery"
+8 means the date after which further recovery from, or lasting improvement to, an injury
+9 or disease can no longer reasonably be anticipated based upon reasonable medical
+10 probability.
+11 14. "Director" means the director of the organization.
+12 15. "Disability" means loss of actual earnings capacity and may be permanent total,
+13 temporary total, or partial.
+14 16. "Electronic means" means relating to technology having electrical, digital, magnetic,
+15 wireless, optical, electromagnetic, or similar capabilities.
+16 17. "Employee" means an individual who performs hazardous employment for another for
+17 remuneration unless the individual is an independent contractor under the
+18 common-law test.
+19 a. The term includes:
+20 (1) All elective and appointed officials of this state and its political subdivisions,
+21 including municipal corporations and including the members of the
+22 legislative assembly, all elective officials of any county, and all elective
+23 peace officers of any city.
+24 (2) Aliens.
+25 (3) Human service zone general assistance workers, except those who are
+26 engaged in repaying to human service zones or the department of health
+27 and human services moneys the human service zones or the department of
+28 health and human services have been compelled by statute to expend for
+29 general assistance.
+30 (4) Minors, whether lawfully or unlawfully employed. A minor is deemed sui juris
+31 for the purposes of this title, and no other person has any claim for relief or
+Page No. 16 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 right to claim workforce safety and insurance benefits for any injury to a
+2 minor worker, but in the event of the award of a lump sum of benefits to a
+3 minor employee, the lump sum may be paid only to the legally appointed
+4 guardian of the minor.
+5 b. The term does not include:
+6 (1) An individual whose employment is both casual and not in the course of the
+7 trade, business, profession, or occupation of that individual's employer.
+8 (2) An individual who is engaged in an illegal enterprise or occupation.
+9 (3) The spouse of an employer or the child under the age of twenty-two of an
+10 employer. For purposes of this paragraph and section 65-07-01, "child"
+11 means any legitimate child, stepchild, adopted child, foster child, or
+12 acknowledged illegitimate child.
+13 (4) A real estate broker or real estate salesperson, provided the individual
+14 meets the following three requirements:
+15 (a) The salesperson or broker must be a licensed real estate agent under
+16 section 43-23-05.
+17 (b) Substantially all of the salesperson's or broker's remuneration for the
+18 services performed as a real estate agent must be directly related to
+19 sales or other efforts rather than to the number of hours worked.
+20 (c) A written agreement must exist between the salesperson or broker
+21 and the person for which the salesperson or broker works, which
+22 agreement must provide the salesperson or broker will not be treated
+23 as an employee but rather as an independent contractor.
+24 (5) The members of the board of directors of a business corporation who are
+25 not employed in any capacity by the corporation other than as members of
+26 the board of directors.
+27 (6) An individual delivering newspapers or shopping news, if substantially all of
+28 the individual's remuneration is directly related to sales or other efforts
+29 rather than to the number of hours worked and a written agreement exists
+30 between the individual and the publisher of the newspaper or shopping
+31 news which states the individual is an independent contractor.
+Page No. 17 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (7) An employer.
+2 17.18. "Employer" means a person that engages or received the services of another for
+3 remuneration unless the person performing the services is an independent contractor
+4 under the common-law test. The term includes:
+5 a. The state and all political subdivisions thereof.
+6 b. All public and quasi-public corporations in this state.
+7 c. Every person, partnership, limited liability company, association, and private
+8 corporation, including a public service corporation.
+9 d. The legal representative of any deceased employer.
+10 e. The receiver or trustee of any person, partnership, limited liability company,
+11 association, or corporation having one or more employees as herein defined.
+12 f. The president, vice presidents, secretary, or treasurer of a business corporation,
+13 but not members of the board of directors of a business corporation who are not
+14 also officers of the corporation.
+15 g. The managers of a limited liability company.
+16 h. The president, vice presidents, secretary, treasurer, or board of directors of an
+17 association or cooperative organized under chapter 6-06, 10-12, 10-13, 10-15,
+18 36-08, or 49-21.
+19 i. The clerk, assessor, treasurer, or any member of the board of supervisors of an
+20 organized township, if the person is not employed by the township in any other
+21 capacity.
+22 j. A multidistrict special education unit.
+23 k. An area career and technology center.
+24 l. A regional education association.
+25 18.19. "Fee schedule" means the payment formulas established in the organization
+26 publication entitled "Medical and Hospital Fees".
+27 19.20. "Fund" means the workforce safety and insurance fund.
+28 20.21. "Hazardous employment" means any employment in which one or more employees
+29 are employed regularly in the same business or in or about the establishment except:
+30 a. Agricultural or domestic service.
+31 b. Any employment of a common carrier by railroad.
+Page No. 18 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Any employment for the transportation of property or persons by nonresidents,
+2 where, in such transportation, the highways are not traveled more than seven
+3 miles [11.27 kilometers] and return over the same route within the state of North
+4 Dakota.
+5 d. All members of the clergy and employees of religious organizations engaged in
+6 the operation, maintenance, and conduct of the place of worship.
+7 21.22. "Health care provider" means a doctor of medicine or osteopathy, chiropractor, dentist,
+8 optometrist, podiatrist, or psychologist acting within the scope of the doctor's license, a
+9 physical therapist, an advanced practice registered nurse, or a certified physician
+10 assistant.
+11 22.23. "Medical marijuana" means the use of all parts of the plant of the genus cannabis, the
+12 seeds of the plant, the resin extracted from any part of the plant, and every compound,
+13 manufacture, salt, derivative, mixture, or preparation of the plant, the seeds of the
+14 plant, or the resin extracted from any part of the plant as a physician-recommended
+15 form of medicine or herbal therapy. The term does not include treatments or
+16 preparations specifically approved by the United States food and drug administration
+17 as a drug product.
+18 23.24. "Noncompliance" means failure to follow the requirements of chapter 65-04. An
+19 employer may be in noncompliance regardless of the employer's insured or uninsured
+20 status with the organization.
+21 24.25. "Organization" means workforce safety and insurance, or the director, or any
+22 department head, assistant, or employee of workforce safety and insurance
+23 designated by the director, to act within the course and scope of that person's
+24 employment in administering the policies, powers, and duties of this title.
+25 25.26. "Parent" includes a stepparent and a parent by adoption.
+26 26.27. "Payroll report" means the mechanism created by the organization and used by
+27 employers to report all employee payroll required by the organization.
+28 27.28. "Permanent impairment" means the loss of or loss of use of a member of the body
+29 existing after the date of maximum medical improvement and includes disfigurement
+30 resulting from an injury.
+Page No. 19 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 28.29. "Permanent total disability" means disability that is the direct result of a compensable
+2 injury that prevents an injured employee from performing any work and results from
+3 any one of the following conditions:
+4 a. Total and permanent loss of sight of both eyes;
+5 b. Loss of both legs or loss of both feet at or above the ankle;
+6 c. Loss of both arms or loss of both hands at or above the wrist;
+7 d. Loss of any two of the members or faculties in subdivision a, b, or c;
+8 e. Permanent and complete paralysis of both legs or both arms or of one leg and
+9 one arm;
+10 f. Third-degree burns that cover at least forty percent of the body and require
+11 grafting;
+12 g. A medically documented brain injury affecting cognitive and mental functioning
+13 which renders an injured employee unable to provide self-care and requires
+14 supervision or assistance with a majority of the activities of daily living; or
+15 h. A compensable injury that results in a permanent partial impairment rating of the
+16 whole body of at least twenty-five percent pursuant to section 65-05-12.2.
+17 If the injured employee has not reached maximum medical improvement within one
+18 hundred four weeks, the injured employee may receive a permanent partial
+19 impairment rating if a rating will assist the organization in assessing the injured
+20 employee's capabilities. Entitlement to a rating is solely within the discretion of the
+21 organization.
+22 29.30. "Rehabilitation services" means nonmedical services reasonably necessary to restore
+23 a disabled employee to substantial gainful employment as defined by section
+24 65-05.1-01 as near as possible. The term may include vocational evaluation,
+25 counseling, education, workplace modification, vocational retraining including training
+26 for alternative employment with the same employer, and job placement assistance.
+27 30.31. "Seasonal employment" includes occupations that are not permanent or that do not
+28 customarily operate throughout the entire year. Seasonal employment is determined
+29 by what is customary with respect to the employer at the time of injury.
+30 31.32. "Spouse" includes only the decedent's husband or wife who was living with the
+31 decedent or was dependent upon the decedent for support at the time of injury.
+Page No. 20 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 32.33. "Subcontractor" means a person that agrees to perform all or part of the work for a
+2 contractor or another subcontractor.
+3 33.34. "Temporary total disability" means disability that results in the inability of an injured
+4 employee to earn wages as a result of a compensable injury for which disability
+5 benefits may not exceed a cumulative total of one hundred four weeks or the date the
+6 injured employee reaches maximum medical improvement or maximum medical
+7 recovery, whichever occurs first.
+8 34.35. "Uninsured" means failure of an employer to secure mandatory coverage with the
+9 organization or failure to pay premium, assessment, penalty, or interest, as calculated
+10 by the organization, which is more than forty-five days past due. An uninsured
+11 employer is subject to chapter 65-09.
+12 35.36. "Utilization review" means the initial and continuing evaluation of appropriateness in
+13 terms of both the level and the quality of health care and health services provided a
+14 patient, based on medically accepted standards. The evaluation must be
+15 accomplished by means of a system that identifies the utilization of medical services,
+16 based on medically accepted standards, and which refers instances of possible
+17 inappropriate utilization to the organization to obtain opinions and recommendations of
+18 expert medical consultants to review individual cases for which administrative action
+19 may be deemed necessary.
+20 36.37. "Valid functional capacities examination" means:
+21 a. The results of a physical examination consisting of a battery of standardized
+22 assessments that offer reliable results in performance-based measures and
+23 demonstrate the level and duration an injured employee may return to work.
+24 b. The conclusions of medical experts, following observations of other activities the
+25 medical expert determines similarly predictive, when the results of the physical
+26 examination in subdivision a are not obtained or reliable.
+27 37.38. a. "Wages" means:
+28 (1) An injured employee's remuneration from all employment reportable to the
+29 internal revenue service as earned income for federal income tax purposes.
+Page No. 21 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) For members of the national guard who sustain a compensable injury while
+2 on state active duty, "wages" includes income from federal employment and
+3 may be included in determining the average weekly wage.
+4 (3) For purposes of chapter 65-04 only, "wages" means all gross earnings of all
+5 employees. The term includes all pretax deductions for amounts allocated
+6 by the employee for deferred compensation, medical reimbursement,
+7 retirement, or any similar program, but may not include dismissal or
+8 severance pay.
+9 b. The organization may consider postinjury wages for which coverage was not
+10 required or otherwise secured in North Dakota for purposes of determining
+11 appropriate vocational rehabilitation options or entitlement to disability benefits
+12 under this title.
+13 SECTION 2. AMENDMENT. Section 65-01-16 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 65-01-16. Decisions by organization - Disputed decisions.
+16 The following procedures must be followed in claimsa claim for benefits, notwithstanding
+17 any provisions to the contrary in chapter 28-32:
+18 1. The organization shall send a copy of each initial claim form filed with the organization
+19 to the claimant's employer, by regular mail or electronic means, along with a form for
+20 the employer's response, if the employer's response has not been filed at the time the
+21 claim is filed.
+22 2. The organization may conduct a hearing on any matter within its jurisdiction by
+23 informal internal review of the information of record.
+24 3. The organization may issue a notice of decision for any decision made by informal
+25 internal review and shall serveissue the notice of decision on the parties by regular
+26 mail or electronic means. A notice of decision must include a statement of the
+27 decision, a short summary of the reason for the decision, and notice of the right to
+28 reconsideration.
+29 4. A party has forty-five days from the day the notice of decision was mailedissued by the
+30 organization by regular mail or electronic means to file a written request for
+31 reconsideration. The request for reconsideration is considered filed only upon receipt
+Page No. 22 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 by the organization. The employer is not required to file the request through an
+2 attorney. The request must state the reason for disagreement with the organization's
+3 decision and the desired outcome. The request may be accompanied by additional
+4 evidence not previously submitted to the organization. The organization shall
+5 reconsider the matter by informal internal review of the information of record. Absent a
+6 timely and sufficient request for reconsideration, the notice of decision is final and may
+7 not be reheard or appealed.
+8 5. After receiving a request for reconsideration, the organization shall serve onissue to
+9 the parties by regular mail or electronic means, a notice of decision reversing the
+10 previous decision or, in accordance with the North Dakota Rules of Civil Procedure, an
+11 administrative order that includes its findings, conclusions, and order. The organization
+12 may serveissue an administrative order on any decision made by informal internal
+13 review without first issuing a notice of decision and receiving a request for
+14 reconsideration. If the organization does not issue an order within sixty days of
+15 receiving a request for reconsideration, any interested party may request, and the
+16 organization shall promptly issue, an appealable determination.
+17 6. An employee has forty-five days from the day the administrative order was mailed in
+18 which to file a request for assistance from the decision review office under section
+19 65-02-27.
+20 7. A party has forty-five days, from the date of serviceissuance of an administrative order
+21 or from the day the decision review office mailsissues its notice by regular mail or
+22 electronic means that the office's assistance is complete, in which to file a written
+23 request for rehearing. The request must specifically state each alleged error of fact
+24 and law to be reheard and the relief sought. The request for rehearing is considered
+25 filed only upon receipt by the organization. Absent a timely and sufficient request for
+26 rehearing, the administrative order is final and may not be reheard or appealed.
+27 8. Rehearings must be conducted as hearings under chapter 28-32 to the extent the
+28 provisions of that chapter do not conflict with this section.
+29 9. A party may appeal a posthearing administrative order to district court in accordance
+30 with chapter 65-10. Chapter 65-10 does not preclude the organization from appealing
+31 to district court a final order issued by a hearing officer under this title.
+Page No. 23 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 10. Any notice of decision, administrative order, or posthearing administrative order is
+2 subject to review and reopening under section 65-05-04.
+3 SECTION 3. AMENDMENT. Section 65-02-27 of the North Dakota Century Code is
+4 amended and reenacted as follows:
+5 65-02-27. Decision review office.
+6 The organization's decision review office is established. The decision review office is
+7 independent of the claims department of the organization and activities administered through
+8 the office must be administered in accordance with this title. The decision review office shall
+9 provide assistance to an injured employee who has filed a claim, which may include acting on
+10 behalf of an injured employee who is aggrieved by a decision of the organization,
+11 communicating with organization staff regarding claim dispute resolution, and informing an
+12 injured employee of the effect of decisions made by the organization, an injured employee, or
+13 an employer under this title. The organization shall employ a director of the decision review
+14 office and other personnel determined to be necessary for the administration of the office. An
+15 individual employed to administer the decision review office may not act as an attorney for an
+16 injured employee. The organization may not pay attorney's fees to an attorney who represents
+17 an injured employee in a disputed claim before the organization unless the injured employee
+18 has first attempted to resolve the dispute through the decision review office. A written request
+19 for assistance by an injured employee who contacts the decision review office within the period
+20 for requesting a hearing on an administrative order tolls the time period for requesting a hearing
+21 on that order. The period begins upon notice to the injured employee, sentissued by regular mail
+22 or electronic means, that the decision review office's assistance to the injured employee is
+23 completed. The information contained in a file established by the decision review office on an
+24 injured employee's disputed claim, including communications from an injured employee, is
+25 privileged and may not be released without the injured employee's permission. Information in
+26 the file containing the notes or mental impressions of decision review office staff is confidential
+27 and may not be released by the decision review office.
+28 SECTION 4. AMENDMENT. Subsection 1 of section 65-05-17 of the North Dakota Century
+29 Code is amended and reenacted as follows:
+30 1. To the decedent's spouse or to the guardian of the children of the decedent, an
+31 amount equal to the benefit rate for total disability under section 65-05-09. All
+Page No. 24 25.8012.01000
+
+Sixty-ninth
+Legislative Assembly
+1 recipients of benefits under this subsection are eligible for benefits at the rate provided
+2 in this section, regardless of the date of death of the deceased employee. These
+3 benefits continue until the death of the decedent's spouse; or, if the surviving children
+4 of the decedent are under the care of a guardian, until those children no longer meet
+5 the definition of child in this title. If there is more than one guardian for the children
+6 who survive the decedent, the organization shall divide the death benefits equally
+7 among the children and shall pay benefits to the children's guardians. Total death
+8 benefits, including supplementary benefits, paid on any one claim may not exceed
+9 three hundred thousandfour hundred thousand dollars. On July first of each
+10 odd - numbered year, the organization shall increase the cap on total death benefits ,
+11 including supplementary benefits, by ten thousand dollars.
+12 SECTION 5. AMENDMENT. Subsection 4 of section 65-05-20.1 of the North Dakota
+13 Century Code is amended and reenacted as follows:
+14 4. The total amount awarded annually in scholarships may not exceed five hundred
+15 thousand dollars. The maximum amount payable on behalf of an applicant is ten
+16 thousandtwelve thousand five hundred dollars per year for no more than five years,
+17 except that the combined retraining and scholarship periods for applicants
+18 successfully completing a rehabilitation program under subdivision g of subsection 4 of
+19 section 65-05.1-01 may not exceed five years.
+20 SECTION 6. APPLICATION. Section 1 applies to claims filed on or after August 1, 2025.
+21 The increase in the death benefit cap from $300,000 to $400,000 and the biennial increase of
+22 $10,000 in section 5 of this Act applies to employee deaths resulting from injuries that occur on
+23 or after the effective date of this Act. Each biennial increase in the death benefit cap applies
+24 only to those deaths occurring from July first of that odd-numbered year through June thirtieth of
+25 the next odd-numbered year.
+Page No. 25 25.8012.01000
+
+[DELETED: ."."."."12]
+[DELETED: .".".F.T.H.M.B.T.A."22]
+[DELETED: .".".".".T)D)A)I32]
+[DELETED: )I)A)A.T)O)A)A)A)A42]
+[DELETED: )A)I)A)A)A."."."."."."52]
+[DELETED: .T)A)A)H)M.T)A)A)T)A)T62]
+[DELETED: )S)A)T)A)A)A.".T.A.E.T.T72]
+[DELETED: .T.T.T.T.A.A.A.".".".A.A.A.A."82]
+[DELETED: .".".".".".".".T.L.L.L.P.T92]
+[DELETED: .A.A."."."."."."02]
+[DELETED: .".".T.T.a.")A)F)F.T12]
+[DELETED: .".".".".".".F22]
+[DELETED: .T.H.M.B.T.A."."."."32]
+[DELETED: .".T)D)A)I)I)A)A.T42]
+[DELETED: )O)A)A)A)A)A)I)A52]
+[DELETED: )A)A.".".".".".".T)A)A)H)M62]
+[DELETED: .T)A)A)T)A)T)S)A)T)A72]
+[DELETED: )A.".T.A.E.T.T.T.T.T.T.A.A.A.".".".A.A82]
+[DELETED: .A.A."."."."."."."92]
+[DELETED: .".T.L.L.L.P.T.A.A."."."02]
+[DELETED: .".".".".".T.T.a.")A12]
+[DELETED: )F)F.T.T.T.T.A22]
+[DELETED: .A.A.A.R.A32]
+[DELETED: .A.T42]
+[DELETED: .T52]

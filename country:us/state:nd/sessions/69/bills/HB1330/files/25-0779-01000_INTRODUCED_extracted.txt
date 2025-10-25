@@ -1,0 +1,118 @@
+Title: HOUSE BILL NO. 1330
+Official Title: HOUSE BILL NO. 1330
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0779.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Satrom, Grueneich, Ostlie
+Senators Conley, Lemm
+1 A BILL for an Act to create and enact a new section to chapter 21-10 of the North Dakota
+2 Century Code, relating to divestment from legacy fund investments in Chinese companies.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 21-10 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Prohibition against Chinese investment.
+7 1. As used in this section:
+8 a. "China" means the government of the People's Republic of China, the Chinese
+9 Communist Party, the Chinese military, or any instrumentality thereof.
+10 b. "Chinese company" means a company publicly known to be majority-owned by,
+11 controlled by, or subject to the jurisdiction or direction of China.
+12 c. "Company" means a sole proprietorship, an organization, an association, a
+13 corporation, a partnership, a joint venture, a limited partnership, a limited liability
+14 partnership, a limited liability company, or any other entity or business
+15 association, including all wholly owned subsidiaries, majority-owned subsidiaries,
+16 and parent companies, or an affiliate of such entity or business associate which
+17 exists for the purpose of making a profit.
+18 d. "Direct holdings" means all securities of a company which are held directly by the
+19 legacy fund or in an account or fund in which the legacy fund owns all shares or
+20 interests. The term does not include indirect holdings in actively managed
+21 investment funds, including a private equity fund, or holdings in exchange-traded
+22 funds.
+23 e. "Indirect holdings" means all securities of a company which are held in a
+24 commingled fund or other collective investment, such as a mutual fund, in which
+Page No. 1 25.0779.01000
+Sixty-ninth
+Legislative Assembly
+1 the legacy fund owns shares or interests, together with other investors not
+2 subject to this chapter.
+3 f. "Majority-owned" means to have ownership of more than fifty percent of the
+4 outstanding equity interests of a company.
+5 2. The legacy fund investments may not consist of direct holdings in a Chinese company.
+6 3. The state investment board shall:
+7 a. Initiate a review of all direct holdings of legacy fund investments to determine
+8 which direct holdings, if any, include securities of a Chinese company;
+9 b. Develop a divestment plan for all direct holdings in Chinese companies, which
+10 must divest at least twenty percent of the total value of Chinese investments held
+11 as of Augus t 1, 2025, per year; and
+12 c. Complete divestment from direct holdings in Chinese companies under the
+13 divestment plan pursuant to subdivision b no later than Augus t 1, 2030 .
+Page No. 2 25.0779.01000
+[DELETED: .A."."."."."12]
+[DELETED: .".T.T.I.D.C22]
+
+
+================================================================================
+
+Raw Text:
+25.0779.01000
+Sixty-ninth
+HOUSE BILL NO. 1330
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Satrom, Grueneich, Ostlie
+Senators Conley, Lemm
+1 A BILL for an Act to create and enact a new section to chapter 21-10 of the North Dakota
+2 Century Code, relating to divestment from legacy fund investments in Chinese companies.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 21-10 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Prohibition against Chinese investment.
+7 1. As used in this section:
+8 a. "China" means the government of the People's Republic of China, the Chinese
+9 Communist Party, the Chinese military, or any instrumentality thereof.
+10 b. "Chinese company" means a company publicly known to be majority-owned by,
+11 controlled by, or subject to the jurisdiction or direction of China.
+12 c. "Company" means a sole proprietorship, an organization, an association, a
+13 corporation, a partnership, a joint venture, a limited partnership, a limited liability
+14 partnership, a limited liability company, or any other entity or business
+15 association, including all wholly owned subsidiaries, majority-owned subsidiaries,
+16 and parent companies, or an affiliate of such entity or business associate which
+17 exists for the purpose of making a profit.
+18 d. "Direct holdings" means all securities of a company which are held directly by the
+19 legacy fund or in an account or fund in which the legacy fund owns all shares or
+20 interests. The term does not include indirect holdings in actively managed
+21 investment funds, including a private equity fund, or holdings in exchange-traded
+22 funds.
+23 e. "Indirect holdings" means all securities of a company which are held in a
+24 commingled fund or other collective investment, such as a mutual fund, in which
+Page No. 1 25.0779.01000
+
+Sixty-ninth
+Legislative Assembly
+1 the legacy fund owns shares or interests, together with other investors not
+2 subject to this chapter.
+3 f. "Majority-owned" means to have ownership of more than fifty percent of the
+4 outstanding equity interests of a company.
+5 2. The legacy fund investments may not consist of direct holdings in a Chinese company.
+6 3. The state investment board shall:
+7 a. Initiate a review of all direct holdings of legacy fund investments to determine
+8 which direct holdings, if any, include securities of a Chinese company;
+9 b. Develop a divestment plan for all direct holdings in Chinese companies, which
+10 must divest at least twenty percent of the total value of Chinese investments held
+11 as of Augus t 1, 2025, per year; and
+12 c. Complete divestment from direct holdings in Chinese companies under the
+13 divestment plan pursuant to subdivision b no later than Augus t 1, 2030 .
+Page No. 2 25.0779.01000
+
+[DELETED: .A."."."."."12]
+[DELETED: .".T.T.I.D.C22]

@@ -1,0 +1,112 @@
+Title: HOUSE BILL NO. 1166
+Official Title: HOUSE BILL NO. 1166
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0400.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Pyle, O'Brien, Vetter, Berg
+Senators Larson, Myrdal
+1 A BILL for an Act to create and enact a new section to chapter 12-60.1 of the North Dakota
+2 Century Code, relating to sealing certain criminal records; to amend and reenact section
+3 12-60.1-02 of the North Dakota Century Code, relating to grounds to file a petition to seal a
+4 criminal record; to provide for retroactive application; and to declare an emergency.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 12-60.1-02 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 12-60.1-02. Grounds to file petition to seal criminal record.
+9 1. An individual may file a petition to seal a criminal record if:
+10 a. The individual pled guilty to or was found guilty of a misdemeanor offense and
+11 the individual has not been convicted of a new crime for at least three years
+12 before filing the petition; or
+13 b. The individual pled guilty to or was found guilty of a felony offense and the
+14 individual has not been convicted of a new crime for at least five years before
+15 filing the petition.
+16 2. This Except as provided under section 2 of this Act, this chapter does not apply to:
+17 a. A felony offense involving violence or intimidation during the period in which the
+18 offender is ineligible to possess a firearm under subdivision a of subsection 1 of
+19 section 62.1-02-01; or
+20 b. An offense for which an offender has been ordered to register under section
+21 12.1-32-15.
+22 SECTION 2. A new section to chapter 12-60.1 of the North Dakota Century Code is created
+23 and enacted as follows:
+Page No. 1 25.0400.03000
+Sixty-ninth
+Legislative Assembly
+1 Certain criminal records automatically sealed.
+2 1. The court shall seal any criminal record wherein:
+3 a. An individual was found not guilty by a jury or at the conclusion of a bench trial;
+4 b. The criminal charge was dismissed; or
+5 c. An individual was granted a pardon by the governor of the criminal conviction.
+6 2. The court shall seal a criminal record under subsection 1 within sixty-one days after
+7 the judgment of acquittal, order to dismiss, or pardon was filed with the clerk of court.
+8 SECTION 3. RETROACTIVE APPLICATION. This Act applies to the criminal record of any
+9 criminal case closed before the effective date of this Act, for which there was no conviction or
+10 for which a pardon was granted.
+11 SECTION 4. EMERGENCY. This Act is declared to be an emergency measure.
+Page No. 2 25.0400.03000
+[DELETED: .A.T.T.T.A.A12]
+[DELETED: .T.A.T.A. 22]
+
+
+================================================================================
+
+Raw Text:
+25.0400.03000
+Sixty-ninth
+HOUSE BILL NO. 1166
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Pyle, O'Brien, Vetter, Berg
+Senators Larson, Myrdal
+1 A BILL for an Act to create and enact a new section to chapter 12-60.1 of the North Dakota
+2 Century Code, relating to sealing certain criminal records; to amend and reenact section
+3 12-60.1-02 of the North Dakota Century Code, relating to grounds to file a petition to seal a
+4 criminal record; to provide for retroactive application; and to declare an emergency.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 12-60.1-02 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 12-60.1-02. Grounds to file petition to seal criminal record.
+9 1. An individual may file a petition to seal a criminal record if:
+10 a. The individual pled guilty to or was found guilty of a misdemeanor offense and
+11 the individual has not been convicted of a new crime for at least three years
+12 before filing the petition; or
+13 b. The individual pled guilty to or was found guilty of a felony offense and the
+14 individual has not been convicted of a new crime for at least five years before
+15 filing the petition.
+16 2. This Except as provided under section 2 of this Act, this chapter does not apply to:
+17 a. A felony offense involving violence or intimidation during the period in which the
+18 offender is ineligible to possess a firearm under subdivision a of subsection 1 of
+19 section 62.1-02-01; or
+20 b. An offense for which an offender has been ordered to register under section
+21 12.1-32-15.
+22 SECTION 2. A new section to chapter 12-60.1 of the North Dakota Century Code is created
+23 and enacted as follows:
+Page No. 1 25.0400.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Certain criminal records automatically sealed.
+2 1. The court shall seal any criminal record wherein:
+3 a. An individual was found not guilty by a jury or at the conclusion of a bench trial;
+4 b. The criminal charge was dismissed; or
+5 c. An individual was granted a pardon by the governor of the criminal conviction.
+6 2. The court shall seal a criminal record under subsection 1 within sixty-one days after
+7 the judgment of acquittal, order to dismiss, or pardon was filed with the clerk of court.
+8 SECTION 3. RETROACTIVE APPLICATION. This Act applies to the criminal record of any
+9 criminal case closed before the effective date of this Act, for which there was no conviction or
+10 for which a pardon was granted.
+11 SECTION 4. EMERGENCY. This Act is declared to be an emergency measure.
+Page No. 2 25.0400.03000
+
+[DELETED: .A.T.T.T.A.A12]
+[DELETED: .T.A.T.A. 22]
