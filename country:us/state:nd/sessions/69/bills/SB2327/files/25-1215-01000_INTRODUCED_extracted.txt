@@ -1,0 +1,154 @@
+Title: SENATE BILL NO. 2327
+Official Title: SENATE BILL NO. 2327
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1215.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Wanzek, Erbele, Conley
+Representatives Beltz, Brandenburg, Hagert
+1 A BILL for an Act to amend and reenact section 4.1-01.1-07 of the North Dakota Century Code,
+2 relating to uses of the agriculture diversification and development fund; to provide an
+3 appropriation; and to provide for a transfer.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 4.1-01.1-07 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 4.1-01.1-07. Agriculture diversification and development fund - Continuing
+8 appropriation.
+9 1. There is created in the state treasury the agriculture diversification and development
+10 fund. The fund consists of all moneys transferred to the fund by the legislative
+11 assembly, interest upon moneys in the fund, and payments of interest and principal on
+12 loans made from the fund. Moneys in the fund are appropriated to the Bank of North
+13 Dakota on a continuing basis for loan disbursements and administrative costs
+14 pursuant to this section, and moneys in the fund are appropriated to the agriculture
+15 commissioner on a continuing basis for grants pursuant to this section and section
+16 4.1-01-27. The agriculture diversification and development committee shall designate
+17 the amount available from the fund for loans, interest rate buydowns, and grants.
+18 2. Loans, interest rate buydowns, or grants under subsections 3 and 4 may be issued
+19 from the fund to support new or expanding value-added agriculture businesses that
+20 demonstrate financial feasibility, enhance profitability for farmers and ranchers, create
+21 jobs, and grow the state's economy. Grants under section 4.1-01-27 may be issued
+22 from the fund for infrastructure improvements necessary for the development or
+23 expansion of new or existing value-added agriculture businesses. Value-added
+24 agriculture businesses include food production or processing facilities; feed or pet food
+Page No. 1 25.1215.01000
+Sixty-ninth
+Legislative Assembly
+1 processing facilities; commodity processing facilities; agriculture product
+2 manufacturers; and animal agriculture production facilities, including swine, poultry,
+3 dairy, and feed lot production facilities.
+4 3. The Bank of North Dakota shall develop policies for loans and interest rate buydowns
+5 from the fund in consultation with the agriculture diversification and development
+6 committee. The Bank shall review loan applications. To be eligible for a loan under this
+7 section, an entity shall agree to provide the Bank with information as requested. The
+8 Bank may develop policies for loan participation with local financial institutions. The
+9 Bank shall deposit in the fund all principal and interest paid on the outstanding loans.
+10 The Bank may use a portion of the interest paid as a servicing fee to pay for
+11 administrative costs, which may not exceed one-half of one percent of the amount of
+12 the outstanding loans. The fund must be audited annually pursuant to section 6-09-29,
+13 and the cost of the audit must be paid from the fund.
+14 4. The agricultural diversification and development committee shall develop policies for
+15 grants from the fund to support new or expanding value-added agriculture businesses,
+16 including eligibility criteria, maximum grant amounts, and reporting requirements.
+17 Based on recommendations from the agricultural diversification and development
+18 committee, the agriculture commissioner shall distribute the grant funding.
+19 5. The agriculture diversification and development committee may use up to five percen t
+20 of the funding available in the agriculture diversification and development fund on July
+21 first of each odd - numbered year for administrative expenses related to the agriculture
+22 infrastructure grant program each biennium. The agriculture commissioner may
+23 reimburse agriculture diversification and development committee members for costs
+24 incurred associated with the program.
+25 SECTION 2. APPROPRIATION - TRANSFER TO AGRICULTURE DIVERSIFICATION
+26 AND DEVELOPMENT FUND. There is appropriated out of any moneys in the general fund in
+27 the state treasury, not otherwise appropriated, the sum of $25,000,000, which the office of
+28 management and budget shall transfer to the agriculture diversification and development fund,
+29 for the biennium beginning July 1, 2025, and ending June 30, 2027. Of the $25,000,000, up to
+30 $10,000,000 is available for agriculture infrastructure grants to political subdivisions under
+31 section 4.1-01-27.
+Page No. 2 25.1215.01000
+[DELETED: .T.L12]
+[DELETED: .T.T. 22]
+
+
+================================================================================
+
+Raw Text:
+25.1215.01000
+Sixty-ninth
+SENATE BILL NO. 2327
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Wanzek, Erbele, Conley
+Representatives Beltz, Brandenburg, Hagert
+1 A BILL for an Act to amend and reenact section 4.1-01.1-07 of the North Dakota Century Code,
+2 relating to uses of the agriculture diversification and development fund; to provide an
+3 appropriation; and to provide for a transfer.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 4.1-01.1-07 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 4.1-01.1-07. Agriculture diversification and development fund - Continuing
+8 appropriation.
+9 1. There is created in the state treasury the agriculture diversification and development
+10 fund. The fund consists of all moneys transferred to the fund by the legislative
+11 assembly, interest upon moneys in the fund, and payments of interest and principal on
+12 loans made from the fund. Moneys in the fund are appropriated to the Bank of North
+13 Dakota on a continuing basis for loan disbursements and administrative costs
+14 pursuant to this section, and moneys in the fund are appropriated to the agriculture
+15 commissioner on a continuing basis for grants pursuant to this section and section
+16 4.1-01-27. The agriculture diversification and development committee shall designate
+17 the amount available from the fund for loans, interest rate buydowns, and grants.
+18 2. Loans, interest rate buydowns, or grants under subsections 3 and 4 may be issued
+19 from the fund to support new or expanding value-added agriculture businesses that
+20 demonstrate financial feasibility, enhance profitability for farmers and ranchers, create
+21 jobs, and grow the state's economy. Grants under section 4.1-01-27 may be issued
+22 from the fund for infrastructure improvements necessary for the development or
+23 expansion of new or existing value-added agriculture businesses. Value-added
+24 agriculture businesses include food production or processing facilities; feed or pet food
+Page No. 1 25.1215.01000
+
+Sixty-ninth
+Legislative Assembly
+1 processing facilities; commodity processing facilities; agriculture product
+2 manufacturers; and animal agriculture production facilities, including swine, poultry,
+3 dairy, and feed lot production facilities.
+4 3. The Bank of North Dakota shall develop policies for loans and interest rate buydowns
+5 from the fund in consultation with the agriculture diversification and development
+6 committee. The Bank shall review loan applications. To be eligible for a loan under this
+7 section, an entity shall agree to provide the Bank with information as requested. The
+8 Bank may develop policies for loan participation with local financial institutions. The
+9 Bank shall deposit in the fund all principal and interest paid on the outstanding loans.
+10 The Bank may use a portion of the interest paid as a servicing fee to pay for
+11 administrative costs, which may not exceed one-half of one percent of the amount of
+12 the outstanding loans. The fund must be audited annually pursuant to section 6-09-29,
+13 and the cost of the audit must be paid from the fund.
+14 4. The agricultural diversification and development committee shall develop policies for
+15 grants from the fund to support new or expanding value-added agriculture businesses,
+16 including eligibility criteria, maximum grant amounts, and reporting requirements.
+17 Based on recommendations from the agricultural diversification and development
+18 committee, the agriculture commissioner shall distribute the grant funding.
+19 5. The agriculture diversification and development committee may use up to five percen t
+20 of the funding available in the agriculture diversification and development fund on July
+21 first of each odd - numbered year for administrative expenses related to the agriculture
+22 infrastructure grant program each biennium. The agriculture commissioner may
+23 reimburse agriculture diversification and development committee members for costs
+24 incurred associated with the program.
+25 SECTION 2. APPROPRIATION - TRANSFER TO AGRICULTURE DIVERSIFICATION
+26 AND DEVELOPMENT FUND. There is appropriated out of any moneys in the general fund in
+27 the state treasury, not otherwise appropriated, the sum of $25,000,000, which the office of
+28 management and budget shall transfer to the agriculture diversification and development fund,
+29 for the biennium beginning July 1, 2025, and ending June 30, 2027. Of the $25,000,000, up to
+30 $10,000,000 is available for agriculture infrastructure grants to political subdivisions under
+31 section 4.1-01-27.
+Page No. 2 25.1215.01000
+
+[DELETED: .T.L12]
+[DELETED: .T.T. 22]

@@ -1,0 +1,2199 @@
+Title: In Regular Session Commencing Tuesday, January 7, 2025
+Official Title: In Regular Session Commencing Tuesday, January 7, 2025
+Number of Sections: 153
+Source: versions - Enrollment
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+Sixty-ninth Legislative Assembly of North Dakota
+HOUSE BILL NO. 1507
+(Representative Vollmer)
+AN ACT to create and enact a new chapter to title 6 of the North Dakota Century Code, relating to the
+establishment and organization of cooperative financial institutions; and to amend and reenact
+
+Section 2:
+sections 6-01-02, 6-01-15, 6-01-17.1, 6-02-02, 6-02-03, 6-03-02, 6-03-11, 6-03-13.1, 6-03-34,
+6-05-01, 6-06-35, 6-07.2-09, 6-07.2-19, and 6-08-08.1 of the North Dakota Century Code,
+relating to the application, powers, payment of claims, liquidation, and sale of cooperative
+financial institutions.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+
+Section 3:
+SECTION 1. AMENDMENT. Section 6-01-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-01-02. Definitions.
+As used in this title, unless the context or subject matter otherwise requires:
+
+Section 4:
+1. "Association", "banking association", or "state banking association" means any corporation
+organized under the laws of this state covering state banking associations, and all
+corporations, limited liability companies, partnerships, firms, or associations whose business
+in whole or in part consists of the taking of money on deposit, except national banks, trust
+companies, and the Bank of North Dakota.
+
+Section 5:
+2. "Bank" means any national bank, national banking association, corporation, state bank,
+cooperative financial institution, state banking association, or savings bank, whether organized
+under the laws of this state or of the United States, engaged in the business of banking.
+
+Section 6:
+3. "Bank holding company" means bank holding company as defined in 12 U.S.C. 1841(a)(1).
+
+Section 7:
+4. "Banking" means the business of receiving deposits, making loans, discounting commercial
+paper, issuing drafts, traveler's checks, and similar instruments, handling and making
+collections, cashing checks and drafts, and buying and selling exchange.
+
+Section 8:
+5. "Banking department" means the state department of financial institutions.
+
+Section 9:
+6. "Banking institution" means any bank, trust company, or bank and trust company organized
+under the laws of this state.
+
+Section 10:
+7. "Branch" means a place of business where deposits are received, checks paid, or money lent
+as a result of a bank that was merged into another bank pursuant to an interstate merger.
+
+Section 11:
+8. "Commissioner" means the commissioner of financial institutions.
+
+Section 12:
+9. "Cooperative financial institution" means an institution without capital stock organized under
+
+Section 13:
+section 10 of this Act and operated for mutual purposes and without profit, and which is
+subject by law to supervision and examination by the department and federal authority which
+have supervision over such institutions.
+
+Section 14:
+10. "Corporate central credit union" means a credit union operated for the primary purpose of
+serving corporate accounts. A credit union is deemed to be a corporate central credit union
+when its total dollar amount of outstanding corporate loans plus corporate share and deposit
+H. B. NO. 1507 - PAGE 2
+holdings is equal to or greater than seventy-five percent of its outstanding loans plus share
+and deposit holdings.
+
+Section 15:
+10.11. "Credit union" means a cooperative, nonprofit association organized for the purposes of
+encouraging thrift among its members, creating a source of credit at a fair and reasonable rate
+of interest, and providing an opportunity for its members to improve their economic and social
+condition.
+
+Section 16:
+11.12. "Derivative transaction" means derivative transaction as defined in 12 U.S.C. 84(b)(3).
+
+Section 17:
+12.13. "Electronic" means relating to technology having electrical, digital, magnetic, wireless, optical,
+electromagnetic, or similar capabilities.
+
+Section 18:
+13.14. "Electronic communication" means any form of communication, not directly involving the
+physical transmission of paper that creates a record that may be retained, retrieved, and
+reviewed by a recipient of the communication and may be directly reproduced in paper form
+by the recipient through an automated process.
+
+Section 19:
+14.15. "Electronic record" means a record created, generated, sent, communicated, received, or
+stored by electronic means.
+
+Section 20:
+15.16. "Electronic signature" means an electronic sound, symbol, or process attached to or logically
+associated with a record and signed or adopted by a person with the intent to sign the record.
+
+Section 21:
+16.17. "Financial corporation" means all entities regulated by the department of financial institutions,
+excluding financial institutions and credit unions.
+
+Section 22:
+17.18. "Financial institution" means any bank, industrial loan company, or savings and loan
+association organized under the laws of this state or of the United States.
+
+Section 23:
+18.19. "Market value" means the highest price for which property can be sold in the open market by a
+willing seller to a willing purchaser, neither acting upon compulsion and both exercising
+reasonable judgment.
+
+Section 24:
+19.20. "Merger" or "merge" means the merging or consolidation of two or more banks including the
+purchase of all or substantially all of the assets and assumption of liabilities of a bank, facility,
+or branch.
+
+Section 25:
+20.21. "Mutual investment corporation" or "mutual savings corporation" means a corporation
+organized to engage in the investment or savings business, but having no capital stock or a
+nominal capital stock.
+
+Section 26:
+21.22. "National bank" or "national banking association" means an institution chartered by the
+comptroller of the currency under the National Bank Act [12 U.S.C. 24].
+
+Section 27:
+22.23. "Record" means information that is inscribed on a tangible medium or that is stored in an
+electronic or other medium and is retrievable in perceivable form.
+
+Section 28:
+23.24. "Technology service provider" includes any person that provides services to a financial
+institution, financial corporation, or credit union, including: core processing; information and
+transaction processing and settlement activities that support banking functions such as
+lending, deposit-taking, funds transfer, fiduciary, or trading activities; internet-related services;
+security monitoring; and system development and maintenance.
+
+Section 29:
+24.25. "Tier 1, tier 2, and tier 3 capital" means those terms as set under title 12, Code of Federal
+Regulations, part 325, in effect on August 1, 2011.
+
+Section 30:
+25.26. "Trust company" means any corporation formed for the purpose of transacting business as an
+annuity, safe deposit, surety, or trust company.
+H. B. NO. 1507 - PAGE 3
+
+Section 31:
+SECTION 2. AMENDMENT. Section 6-01-15 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-01-15. Officers and employees to be disinterested.
+
+Section 32:
+1. No officer or employee of this department may have any interest, directly or indirectly, in any
+financial corporation or financial institution within the jurisdiction of the department of financial
+institutions, nor in any corporation or institution engaged wholly or in part in the writing or
+issuing of bonds of or for any such corporation or institution or any officer or employee thereof.
+Provided, however, this prohibition does not apply to membership in a state-chartered credit
+union or savings and loan associationcooperative financial institution.
+
+Section 33:
+2. For purposes of this section, "interest" means ownership of or investment in such corporations
+or institutions.
+
+Section 34:
+SECTION 3. AMENDMENT. Section 6-01-17.1 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-01-17.1. Application fees - Cost of transcript.
+The following fees must accompany an application presented to the state banking board, state
+credit union board, or commissioner and must be paid by the commissioner into the financial institutions
+regulatory fund:
+
+Section 35:
+1. For a certificate of authority to organize a banking association, a fee of five thousand dollars,
+paid by the applicants.
+
+Section 36:
+2. A banking association's application for authority to remove its business to some place within
+the state other than the town in which it is presently located and to change its name, a fee of
+two thousand five hundred dollars.
+
+Section 37:
+3. National bank conversion to a state bank, a fee of two thousand five hundred dollars.
+
+Section 38:
+4. Application by two or more banks to merge or consolidate, a fee of one thousand five hundred
+dollars.
+
+Section 39:
+5. Application by a person to sell, dispose, or purchase an association, banking institution, or
+holding company, a fee of five hundred dollars unless a hearing is held before the board in
+which case the fee is two thousand dollars.
+
+Section 40:
+6. A banking association's application to establish and operate a separate facility, a fee of one
+thousand five hundred dollars. A banking institution that discontinues a facility established for
+the purpose of providing educational opportunities to a high school is entitled to a refund of
+any application fee paid.
+
+Section 41:
+7. A banking association's application to establish customer electronic funds transfer centers, a
+fee not to exceed five hundred dollars.
+
+Section 42:
+8. For a certificate of authority to organize an annuity, safe deposit, surety, or trust company, a
+fee of five thousand dollars.
+
+Section 43:
+9. A banking association's application for authority to exercise trust powers, a fee of one
+thousand five hundred dollars.
+
+Section 44:
+10. Application to organize a credit union, a fee of three hundred dollars, paid by the applicants.
+
+Section 45:
+11. Application for a credit union to establish a branch, a fee of three hundred dollars.
+H. B. NO. 1507 - PAGE 4
+
+Section 46:
+12. Application by a credit union to expand its field of membership, a fee of one hundred fifty
+dollars.
+
+Section 47:
+13. Application by a federal credit union to convert to a state credit union, a fee of three hundred
+dollars.
+
+Section 48:
+14. For a certificate of authority to organize a savings and loan associationcooperative financial
+institution, a fee of five thousand dollars.
+
+Section 49:
+15. A savings and loan association'scooperative financial institution's application to establish and
+operate a branch office, a fee of one thousand five hundred dollars.
+
+Section 50:
+16. A trust company's application or notification to establish an operating subsidiary or branch
+office, a fee of five hundred dollars.
+
+Section 51:
+17. Application by two or more credit unions to merge, a fee of three hundred dollars.
+
+Section 52:
+18. A banking institution, credit union, or other financial institution to convert to a cooperative
+financial institution, a fee of five thousand dollars.
+The commissioner may cause a certified transcript to be prepared for any hearing conducted on an
+application. The costs for the original and up to six copies of the transcript must be paid by the
+applicant.
+
+Section 53:
+SECTION 4. AMENDMENT. Section 6-02-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-02-02. Banking corporations - Who may form.
+An association for carrying on the business of banking under this title may be formed by any
+number of natural persons, not less than three, at least two-thirds of whom must be residents of this
+state. They shall enter into articles of association which must specify in general terms the object for
+which the association is formed and which may contain any other provisions, not inconsistent with law,
+which the association may see fit to adopt for the regulation of its business and the conduct of its
+affairs. These articles must be signed and acknowledged by the persons uniting to form the association
+and must be filed in the office of the secretary of state. This section does not apply to a cooperative
+financial institution.
+
+Section 54:
+SECTION 5. AMENDMENT. Section 6-02-03 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-02-03. Capital stock, surplus, and federal deposit insurance requirements.
+
+Section 55:
+1. The capital stock of any banking association organized after June 30, 1987, must be not less
+than one hundred thousand dollars. In addition to such capital requirements, there must be
+subscribed and paid in at the time of organization a surplus of not less than fifty thousand
+dollars. This subsection does not apply to cooperative financial institutions.
+
+Section 56:
+2. The state banking board may require such additional capital, surplus, and undivided profits as
+it may determine necessary to properly serve the area and to protect the public interest.
+
+Section 57:
+3. All of the capital stock and surplus of every association must be paid in before it is authorized
+to commence business and evidence of such payment either in actual money or a deposit in a
+previously approved correspondent bank must be furnished to the commissioner before the
+certificate of authority may be delivered to it.
+
+Section 58:
+4. A banking association shall secure federal deposit insurance corporation insurance of deposits
+before it is authorized to commence business. Evidence of securing such insurance must be
+H. B. NO. 1507 - PAGE 5
+furnished to the commissioner before the certificate of authority may be delivered to the
+banking association.
+
+Section 59:
+SECTION 6. AMENDMENT. Section 6-03-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-03-02. Powers.
+After an association has made and filed articles of association and an organization certificate, it
+becomes a body corporate, and as such, and in the name designated in the certificate, it, subject to
+
+Section 60:
+section 6-03-01, has the power to:
+
+Section 61:
+1. Have a perpetual existence, unless it is sooner dissolved according to the provisions of this
+title, or unless its franchise becomes forfeited by a violation of law.
+
+Section 62:
+2. Make contracts.
+
+Section 63:
+3. Sue and be sued.
+
+Section 64:
+4. Elect or appoint directors, such board to consist of any number of members, not less than
+three nor more than twenty-five, at least two-thirds of whom must be citizens of the United
+States, and, by such board of directors, to appoint a president, who must be a member of said
+board, and such other employees as may be required, to define their duties, to require bonds
+of them and fix the penalty thereof, and to dismiss such officers and employees, or any of
+them, and appoint others to fill their places. This subsection does not apply to a cooperative
+financial institution.
+
+Section 65:
+5. Provide, by its board of directors, bylaws not inconsistent with the laws of this state to regulate
+the manner in which its directors and officers must be elected or appointed. Vacancies in the
+board of directors, not exceeding one-third of the whole membership thereof in any calendar
+year, must be filled by a majority vote of the remaining members. The bylaws must provide a
+method for filling vacancies exceeding that number. This subsection does not apply to a
+cooperative financial institution.
+
+Section 66:
+6. Provide, by its board of directors, bylaws not inconsistent with the laws of this state to regulate
+the manner in which its stock and property must be transferred, its business conducted, and
+the privileges granted to it by law exercised and enjoyed. This subsection does not apply to a
+cooperative financial institution.
+
+Section 67:
+7. Exercise, as determined by the board by order or rule, all the incidental powers as are
+necessary to carry on the business of banking, including discounting and negotiating
+promissory notes, bills of exchange, drafts, and other evidences of debt; receiving deposits;
+buying and selling exchange, coin, and bullion; loaning money upon real or personal security,
+or both; soliciting and receiving deposits in the nature of custodial accounts for the purpose of
+health savings or similar health care cost funding accounts, retirement fund contracts, or
+pension programs, and such custodial accounts are exempt from chapter 6-05; and providing
+services to its customers involving electronic transfer of funds to the same extent that other
+financial institutions chartered and regulated by an agency of the federal government are
+permitted to provide those services within this state. A bank that provides electronic funds
+transfer equipment and service to its customers, at premises separate from its main banking
+house or duly authorized facility approved by the state banking board, must make the
+equipment and service available for use by customers of any other bank upon the request of
+the other bank to share its use and the agreement of the other bank to share pro rata all costs
+incurred in connection with its installation and operation, and the electronic operations are not
+deemed to be the establishment of a branch, nor of a separate facility. The electronic
+operations at premises separate from its banking house or duly authorized facility must be
+considered a customer electronic funds transfer center and may be established subject to
+rules that the state banking board adopts.
+H. B. NO. 1507 - PAGE 6
+
+Section 68:
+8. Enter into contracts, incur obligations, and generally to perform all acts necessary or
+appropriate to take advantage of any and all memberships, loans, subscriptions, contracts,
+grants, rights, or privileges which may be or become available or may inure to banking
+institutions or to their depositors, creditors, stockholders, conservators, receivers, or
+liquidators under the provisions of the federal Act creating the federal deposit insurance
+corporation or under any other Act or regulation of Congress to aid, regulate, or safeguard
+banking institutions and their depositors, including any amendments thereto or substitution
+therefor, when authorized so to do by its board of directors.
+
+Section 69:
+9. Subscribe for and acquire any stock, debentures, bonds, or other types of securities of the
+federal deposit insurance corporation and to comply with the lawful regulations and
+requirements from time to time issued or made by such corporation.
+
+Section 70:
+10. Take, receive, and hold United States postal savings deposits and to take any action
+necessary to procure the deposit of the same.
+
+Section 71:
+11. Enter into the business of dealing in securities and stock for the purpose of purchasing and
+selling such securities and stock without recourse, solely upon the order, and for the account
+of individual and institutional customers and to provide portfolio investment advisory,
+management, information, forecasting, and research services to such customers in
+combination with or separate from such purchases and sales.
+
+Section 72:
+12. Exercise fiduciary powers upon application as provided under section 6-05-01 as the board
+may prescribe by rule.
+
+Section 73:
+13. Invest all moneys received by it in a trust, in authorized securities, and be responsible to the
+owner or a third-party beneficiary for the validity, regularity, quality, value, and genuineness of
+these investments and securities at the time made and for the safekeeping of these securities
+and the evidences of the securities. When special directions are given in any order, judgment,
+decree, will, or other written instrument as to the particular manner or the particular class or
+kind of securities or property in which any investment may be made, a bank shall follow this
+direction and, in such case, it is not further responsible by reason of the performance of the
+trust. A bank may retain and continue any investment and security or securities coming into its
+possession in any fiduciary capacity. For the faithful discharge of its duties and the discharge
+of its trust, it is entitled to reasonable compensation or an amount as has been or may be
+agreed upon by the parties and all necessary expenses, with legal interest on those amounts.
+The trustee may acquire and retain securities of any open-end or closed-end management
+type investment company or investment trust registered under the Federal Investment
+Company Act of 1940 [Pub. L. 76-686; 54 Stat. 789; 15 U.S.C. 80a-1 - 80a-52]. The fact that
+the banking institution, or an affiliate of the banking institution, is providing services to the
+investment company or trust as investment advisor, sponsor, broker, distributor, custodian,
+transfer agent, registrar, or otherwise and receiving compensation for the services does not
+preclude the trustee from investing in the securities of that investment company or trust. The
+banking institution and trust shall disclose to all current income beneficiaries of the trust the
+rate, formula, and method of the compensation, and the relationship of ownership. No
+compensation or commission paid or agreed to be paid to it for the negotiation of a loan or the
+execution of a trust may be deemed interest within the meaning of the law, nor may any
+excess thereof over the legal rate be deemed usury.
+
+Section 74:
+SECTION 7. AMENDMENT. Section 6-03-11 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-03-11. Conversion, consolidation, or merger.
+
+Section 75:
+1. Any two or more banking institutions upon making application to the commissioner or the state
+banking board may consolidate or merge if authorized by the commissioner or board into one
+banking institution under the charter of either existing banking institution on such terms and
+H. B. NO. 1507 - PAGE 7
+conditions as lawfully may be agreed upon by a majority of the board of directors of each
+banking institution proposing to consolidate or merge subject to rules adopted by the state
+banking board.
+
+Section 76:
+2. Before becoming final, such consolidation or merger must be ratified and confirmed by the
+vote:
+a. Vote of the shareholders of each such banking institution owning at least two-thirds of its
+capital stock outstanding at a meeting to be held on the call of the directors. Notice of
+such meeting and of the purpose thereof must be given to each shareholder of record by
+registered or certified mail at least ten days prior to the meeting. The shareholders may
+unanimously waive such notice and may consent to such meeting and consolidation or
+merger in writing.; or
+b. Vote of the members of a cooperative financial institution.
+(1) The proposition for a merger first must be approved by the board of directors, and
+on a date set for a vote by the members either at a meeting or by written ballot filed
+on or before the date, by a majority of the directors of the organization which seeks
+the merger. Written notice of the proposition and the date set for the vote must be
+delivered in person to each member or mailed to each member at the address
+appearing on the records of the organization. The notice must be mailed between
+seven and thirty days before the date of the merger. Approval of the proposition for
+merger must be made by the affirmative vote of two - thirds of the members
+participating in the meeting.
+(2) Each member of the cooperative financial institution is entitled to one vote during a
+regular or special meeting of the membership. Voting rights for a banking institution
+or financial institution are determined by applicable law.
+(3) At least forty - five days before consideration of a merger, the membership and board
+acting upon the proposed change must be made aware of the merger under
+consideration and day and time of the meeting the change will be acted upon.
+(4) Promptly after the vote, and in no event later than ninety days thereafter, if the
+proposition for merger was approved, the organization seeking the merger shall
+provide the state banking board with the results of the vote, verified by the affidavits
+of the president or vice president and secretary.
+
+Section 77:
+3. The capital stock and surplus of such consolidated banking institution must not be less than
+that required under this title for the organization of a banking institution of the class of the
+largest consolidating banking institution.
+
+Section 78:
+4. Immediately after the consolidation or merger a full report thereof, including a statement of the
+assets and liabilities of the consolidated banking institution, must be made to the
+commissioner by the surviving banking institution.
+
+Section 79:
+5. Any banking institution may without approval by any state authority convert into or merge or
+consolidate with a national banking association as provided by federal law.
+
+Section 80:
+6. A national bank proposing to merge into a state-chartered bank shall grant the commissioner
+discretionary authority to conduct an examination. The commissioner shall set fees for such
+examination at an hourly rate sufficient to cover all reasonable expenses of the department of
+financial institutions associated with the examination. Fees must be collected by the
+commissioner and deposited in the financial institutions regulatory fund.
+
+Section 81:
+SECTION 8. AMENDMENT. Section 6-03-13.1 of the North Dakota Century Code is amended and
+reenacted as follows:
+H. B. NO. 1507 - PAGE 8
+6-03-13.1. Separate facilities authorized.
+Upon compliance with section 6-03-13.3, any bank organized under chapter 6-02 or section 10 o f
+this Act and under the supervision of the state banking board, and any national bank doing business in
+this state, may maintain and operate separate and apart from its banking house facilities, in addition to
+such service at its main banking house. Any activity incidental to the business of banking may be
+transacted at a separate facility, including receiving deposits of every kind and nature, cashing checks
+or orders to pay, issuing exchange, making loans, renting safe deposit boxes, exercising fiduciary
+powers if authorized by the board, and receiving payments payable at the bank. Whenever any banking
+institution that has been granted approval to establish and maintain a facility deems it advisable to
+discontinue the maintenance of the facility, the banking institution may apply to the commissioner or
+state banking board for cancellation and the commissioner or board may order the cancellation
+approval within the time the board specifies. The banking institution shall provide notice of the
+application as required by the board by rule.
+
+Section 82:
+SECTION 9. AMENDMENT. Section 6-03-34 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-03-34. Surplus fund required - Dividends only out of earnings not required for surplus.
+The board of directors of any association organized under this title may declare and pay dividends
+out of the net profits of the association subject to the limitations of this chapter. EveryExcept for
+cooperative financial institutions, every such association, as its board of directors deems advisable,
+shall ascertain, set apart, and convert into a surplus fund at least fifty percent of its net earnings until
+such surplus fund equals one hundred percent of its common stock, and no dividend may be declared
+upon its stock except from the remaining fifty percent of its net earnings.
+
+Section 83:
+SECTION 10. A new chapter to title 6 of the North Dakota Century Code is created and enacted as
+follows:
+Definitions.
+
+Section 84:
+1. "Converted organization" means the banking institution, credit union, or other financial
+institution previously authorized by the commissioner to engage in the business of banking
+under the laws of this state and has been converted into a cooperative financial institution
+under this chapter.
+
+Section 85:
+2. "Member" means a holder of a cooperative financial institution savings, demand, or other
+authorized deposit account.
+
+Section 86:
+3. "Originating member" means an individual who seeks to form a cooperative financial institution
+under this chapter.
+Formation.
+Fifteen or more originating members who intend to associate themselves by written agreement and
+a cooperative financial institution may, upon compliance with this title, become a cooperative financial
+institution, with all the powers and privileges and subject to the duties, restrictions, and liabilities under
+
+Section 87:
+section 6 - 03 - 02 .
+Capital structure.
+A cooperative financial institution formed under this chapter shall have a capital structure the state
+banking board or commissioner determines is adequate. The cooperative financial institution shall
+comply with prompt corrective actions requirements of section 6 - 01 - 04.4. A cooperative financia l
+institution is not authorized to issue capital stock, common stock, preferred stock, or other forms of
+equity ownership authorized by this title for other types of banking associations.
+H. B. NO. 1507 - PAGE 9
+Contents of agreement of association.
+
+Section 88:
+1. Before the formation of a cooperative financial institution under this chapter, the originating
+members of the proposed cooperative financial institution shall execute a written agreement of
+association to form a cooperative financial institution. The written agreement of association
+must identify and comply with the capital structure required by the state banking board and
+must specifically state:
+a. That the originating members of the cooperative financial institution intend to associate
+themselves with the intention of forming a cooperative financial institution;
+b. The name of the cooperative financial institution;
+c. The location of the principal office of the cooperative financial institution;
+d. The purposes for which the cooperative financial institution is formed and the nature of
+the business the cooperative financial institution is to conduct; and
+e. The names and addresses of each originating member of the financial institution.
+
+Section 89:
+2. Each originating member shall subscribe to the agreement of association before submission to
+the state banking board.
+Organization certificate - Contents.
+Before formation of a cooperative financial institution under this chapter, originating members who
+wish to associate themselves in a cooperative financial institution shall sign and execute an
+organization certificate on a form prescribed by the commissioner, which must state:
+
+Section 90:
+1. The name of the cooperative financial institution. The name may not be the name of any other
+bank, credit union, or financial intuition previously incorporated within the this state;
+
+Section 91:
+2. The location of the principal office of the cooperative financial institution at which business will
+be conducted;
+
+Section 92:
+3. The names and places of residence of the originating members; and
+
+Section 93:
+4. The respective dates on which the cooperative financial institution will commence business.
+Acknowledgment of organization certificate - Application for certificate of authority - Notice
+of hearing.
+The organization certificate must be notarized. The authenticated certificate must be transmitted to
+the state banking board with a request for permission to present the certificate to the secretary of state,
+with application for the issuance of a certificate of authority, as well as payment of an application fee.
+The commissioner shall establish the application by rule. After receipt of the proposed organization
+certificate, application, and application fee, the board shall publish the application in the official
+newspaper of the county the cooperative financial institution is proposed to be established. The notice
+must contain a statement of a time and place at which the board will hear the application and must
+specify that any individual objecting the application may appear and show cause why the application
+should not be approved.
+Hearing by board - Conclusions - Management - Confidentiality.
+
+Section 94:
+1. At the hearing, the board shall inquire whether the originating members have the character,
+integrity, reputation, and financial standing shown by a detailed financial statement, to
+demonstrate the establishment of the proposed cooperative financial institution will be
+beneficial to the public welfare of the community where the cooperative financial institution will
+H. B. NO. 1507 - PAGE 10
+be located. The board shall keep financial statement furnished by the originating members
+confidential.
+
+Section 95:
+2. The board shall inquire into the qualifications of the management of the proposed cooperative
+financial institution, including any experience with financial institutions and other related
+experience. The board shall keep any inquiry into the qualifications of the proposed
+management confidential.
+
+Section 96:
+3. The board shall hear any reasons advanced by the originating members as to why the
+members should be permitted to organize the cooperative financial institution.
+
+Section 97:
+4. At the conclusion of the hearing, the board shall make a statement in writing of its conclusions
+and conditions, if any, and if it finds the proposed cooperative financial institution may not be
+permitted to organize, the board shall state the reasons why. If approval is granted, a copy of
+the board's order must be attached to the organization certificate and both must be presented
+to the secretary of state. A determination to approve the organization of the cooperative
+financial institution must be joined by a majority of all the members of the board.
+Determination of board - Recording of organization certificate.
+
+Section 98:
+1. If the state banking board votes to approve the application to organize a cooperative financial
+institution, the organization certificate and permission of the board must be recorded in the
+county where the cooperative financial institution will be established and must be transmitted
+to the secretary of state.
+
+Section 99:
+2. The secretary of state shall certify the facts to the state banking board and record the
+document in the secretary of state's office. The secretary of state shall issue a certificate of
+authority to the cooperative financial institution.
+
+Section 100:
+3. The secretary of state shall send the certificate to the commissioner. The commissioner may
+not issue the certificate until an examination is made and the certificate of the commissioner
+stating the capital structure as required by the state banking board has been acquired, federal
+deposit insurance corporation insurance of deposits has been secured, and all conditions of
+the law have been complied with strictly.
+
+Section 101:
+4. If the determination of the state banking board is against the organization of the cooperative
+financial institution, the organization certificate may not be recorded in the office of recorder
+and may not be accepted by the secretary of state.
+Conversion to or from a cooperative financial institution.
+
+Section 102:
+1. Any banking institution, credit union, or financial institution authorized by the commissioner to
+engage in the business of banking under the laws of this state, laws of the United States, or
+laws of another state may be converted into a cooperative financial institution.
+
+Section 103:
+2. A cooperative financial institution may convert to a federal savings association by complying
+with the following requirements:
+a. The proposition for conversion must be approved by a majority of the directors of the
+organization that seeks conversion. If approved by a majority of the directors, the
+directors shall set a date for a vote by the members either at a meeting or by written
+ballot to be filed on or before the date. Written notice of the proposition and the date set
+for the vote must be delivered in person to each member or mailed to each member at
+the address for the member appearing on the records of the organization, between seven
+and thirty days before the date. Conversion must be approved by two - thirds of the
+members participating in the vote.
+H. B. NO. 1507 - PAGE 11
+b. Each member of the credit union is entitled to one vote during regular or special
+meetings of the membership.
+c. The voting rights for a banking institution or financial institution are determined by
+applicable law.
+d. Forty - five days before consideration of a conversion, the membership or board acting on
+the proposed change must be notified of the bylaw change under consideration and of
+the date and time of the meeting the change will be acted on.
+e. Promptly after the vote is taken, but no more than ninety days after, if the proposition for
+conversion was approved, the organization seeking conversion shall provide the state
+banking board with the results of the vote, verified by the affidavits of the president or
+vice president and secretary.
+f. A cooperative financial institution converting to a federal savings association shall
+provide notice of completion of subdivisions a, b, c, d and e, and may not be subject to
+any other provision of this chapter. The converted cooperative financial institution shall
+provide notice to the state banking board upon commencement of operations as a
+federal savings association, at which time the state charter must be terminated.
+
+Section 104:
+3. If a cooperative financial institution converts to a state-chartered credit union, the institution
+shall:
+a. Obtain federal deposit insurance.
+b. File with the commissioner an organization certificate as required in section 6 - 06 - 02 and
+all other documentation necessary as determined by the commissioner.
+c. Obtain approval from the state credit union board.
+Application for conversion.
+
+Section 105:
+1. A banking institution, credit union, or financial institution may be converted to a cooperative
+financial institution under this chapter through submission of an application, which must
+include:
+a. A statement of the results of the vote to approve the conversion, along with affidavits of
+the president or vice president and secretary;
+b. A completed form, prescribed by the commissioner, requesting an amendment to the
+organization certificate;
+c. A copy of the executed bylaws to establish the cooperative financial institution;
+d. An application fee, as established by the commissioner by rule; and
+e. An affirmation from the organization granting discretionary authority to the commissioner
+to conduct an examination before the conversion date.
+
+Section 106:
+2. The commissioner shall set fees for an examination at an hourly rate sufficient to cover all
+reasonable expenses of the department associated with the examination. Fees must be
+collected by the commissioner, transferred to the state treasurer, and deposited in the financial
+institution regulatory fund.
+
+Section 107:
+3. When the commissioner determines all requirements have been met, the commissioner shall
+notify the applicant and the state banking board. The board shall instruct the secretary of state
+to issue an amended organization certificate for the converted organization to operate as a
+cooperative financial institution. After issuance of the amended organization certificate, the
+H. B. NO. 1507 - PAGE 12
+organization becomes a cooperative financial institution and ceases to operate as originally
+organized. The cooperative financial institution is vested with all assets of the prior
+organization and is responsible for all of the obligations of the converted organization to the
+same extent as though the conversion had not taken place.
+Benefit to directors or management.
+
+Section 108:
+1. A director or senior management official of a converted organization may not receive any
+economic benefit in connection with a conversion of the converted organization other than
+reasonable director fees, compensation, and other benefits paid to the directors or senior
+management officials in the ordinary course of business.
+
+Section 109:
+2. For purposes of this section "senior management official" means a chief executive officer, an
+assistant chief executive officer, a chief financial officer, and any other senior executive officer
+as may be defined by the state bank board.
+Adoption of rules.
+The commissioner may adopt rules necessary to carry out the conversion of a banking institution,
+credit union, or other financial institution to or from a cooperative financial institution under this chapter.
+Review by commissioner.
+The commissioner shall review the process for the conversion member vote and procedures
+applicable to the member vote. The commissioner shall report the commissioner's findings to the state
+banking board. If the commissioner or the state banking board disapproves of the methods by which the
+conversion member vote was taken or procedures applicable to the member vote, the member vote
+must be retaken as directed by the commissioner or the state banking board.
+Membership, voting, meetings, and bylaws.
+
+Section 110:
+1. Each member of the cooperative financial institution is entitled to one vote during regular or
+special meetings of the membership.
+
+Section 111:
+2. Voting may be conducted in - person or digital as outlined in the cooperative financia l
+institution's bylaws. Proxy voting is permitted as authorized in the bylaws. A quorum for a
+meeting must be defined in the bylaws.
+
+Section 112:
+3. Changes to a cooperative financial institution's charter or bylaws require a majority vote of the
+membership at an annual or special membership meeting or a two - thirds majority vote of the
+board of directors. Fifteen days before consideration of a bylaw change, the membership or
+board acting upon the proposed change must be made aware of the bylaw change under
+consideration and the day and time of the meeting the change will be acted upon. No
+amendment to the bylaws are effective until reviewed for appropriateness and compliance with
+applicable law and approved by the state banking board.
+
+Section 113:
+4. A cooperative financial institution shall conduct at least one meeting of the membership
+annually. Meetings:
+a. Must be noticed at least fifteen days before the meeting date and include the time, place,
+and agenda for any items considered at the meeting.
+b. May be conducted virtually if permitted within the bylaws.
+
+Section 114:
+5. At the annual meeting the membership shall:
+a. Fill any vacancies on the board of directors as outlined in the bylaws; and
+H. B. NO. 1507 - PAGE 13
+b. Review the financial conditions of the cooperative financial institution, financial
+performance since the prior annual meeting, and the projection for the upcoming year.
+
+Section 115:
+6. Special meetings of the membership may be called by the board of directors as outlined in the
+bylaws.
+
+Section 116:
+7. The board of directors:
+a. May exercise powers of the cooperative financial institution not expressly reserved for
+the members.
+b. May not be fewer than five or more than fifteen members as outlined in the bylaws.
+c. Must be elected to terms of one to three years and until their successors are elected, and
+shall serve staggered terms with approximately one - third of the board positions up for
+consideration at any given annual meeting, as outlined in the bylaws.
+d. Must be elected from the membership of the cooperative financial institution, and
+nomination shall be made of any member in good standing and following a nomination
+process as outlined in the bylaws.
+e. Must set the time and place of meetings as outlined in the bylaws, with a minimum of
+twenty - four hours' notice required unless waived by all members of the board .
+f. Shall elect from among the elected board members, officers, including the positions of
+chair, vice chair, treasurer, and recorder, with duties and responsibilities as outlined in the
+bylaws.
+g. Must be independent and the majority of board of directors may not be employees of the
+cooperative financial institution.
+h. Must be made up of at least two members with appropriate banking experience.
+i. Must be made up of at least two-thirds members who are both citizens of the United
+States and North Dakota residents.
+j. May remove a board member as outlined in the bylaws.
+
+Section 117:
+8. The board of directors may terminate membership in a cooperative financial institution for
+cause as outlined in the bylaws.
+
+Section 118:
+SECTION 11. AMENDMENT. Section 6-05-01 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-05-01. Who may form - Corporation has perpetual existence.
+Any number of persons, not less than nine, at least three of whom must be residents of this state,
+may associate themselves and form a corporation for the purpose of transacting business as an
+annuity, safe deposit, and trust company. Its existence shall be perpetual.
+At the time and place stated, and through any sources of information at its command, the board
+shall examine and consider all relevant factors, including whether the place where such company is
+proposed to be located is in need of a further annuity, safe deposit, and trust company, whether the
+proposed institution is adapted to the filling of such need, and whether the proposed incorporators are
+possessed of such character, integrity, reputation, and financial standing as shown by a detailed
+financial statement to be furnished by them, that their connection with the company will be beneficial to
+the public welfare of the community in which such company is proposed to be established. The board
+shall hear any reasons advanced by the applicants why they should be permitted to organize the
+proposed institution and any reasons advanced by any person why such institution should not be
+H. B. NO. 1507 - PAGE 14
+permitted to be organized. At the termination of such hearing, the board shall make a brief statement in
+writing of its conclusions, and if it finds that the proposed institution should not be permitted to organize,
+it shall state briefly the reasons why. A copy of such conclusions either shall be endorsed upon or
+attached to the organization certificate, together with the refusal or grant of permission to the proposed
+incorporators to present the said organization certificate to the secretary of state. A determination in
+favor of such organization must be joined in by a majority of the members of the board.
+Any banking association organized under chapter 6-02 or section 10 of this Ac t may apply to the
+board for an order authorizing the applicant to exercise fiduciary powers. If the determination of the
+board is in favor of the applicant, the board shall make its order authorizing the applicant to engage in
+the business of a trust company upon its showing full compliance with sections 6-05-03, 6-05-04, and
+6-05-05 except the capital stock of the banking association shall not be required to be divided in shares
+of one hundred dollars each as provided by section 6-05-03. Sections 6-05-06 and 6-05-07 are not
+applicable to banking associations granted authority to engage in the business of a trust company by
+the board. Thereafter, such banking association must be subject to the jurisdiction of the board as to its
+trust company operations the same as trust companies organized under chapter 6-05.
+Any corporation organized and authorized to transact the business of fidelity insurance and
+corporate suretyship prior to July 1, 1983, pursuant to the former sections 6-05-08 and 6-05-19 through
+6-05-24 and sections 6-05-30 through 6-05-33 may continue to operate under the provisions of those
+
+Section 119:
+sections as they existed on June 30, 1983.
+
+Section 120:
+SECTION 12. AMENDMENT. Section 6-06-35 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-06-35. Conversion from state to federal credit union and from federal to state credit union
+and from state credit union to building and loan associationa cooperative financial institution.
+
+Section 121:
+1. A state credit union may be converted into a federal credit union under the laws of the United
+States by complying with the following requirements:
+a. The proposition for such conversion must first be approved, and a date set for a vote
+thereon by the members either at a meeting to be held on such date or by written ballot
+to be filed on or before such date, by a majority of the directors of the state credit union.
+Written notice of the proposition and of the date set for the vote must then be delivered in
+person to each member or mailed to each member at the address for such member
+appearing on the records of the credit union, not more than thirty nor less than seven
+days prior to such date. Approval of the proposition for conversion must be by the
+affirmative vote of two-thirds of the members present at the meeting.
+b. A statement of the results of the vote, verified by the affidavits of the president or vice
+president and the secretary, must be filed with the state credit union board within ten
+days after the vote is taken.
+c. Promptly after the vote is taken and in no event later than ninety days thereafter, if the
+proposition for conversion was approved by such vote, the credit union shall take such
+action as may be necessary under the applicable federal law to make it a federal credit
+union, and within ten days after receipt of the federal credit union charter there must be
+filed with the state credit union board a copy of the charter thus issued. Upon such filing,
+the credit union must cease to be a state credit union.
+d. Upon ceasing to be a state credit union, such credit union is no longer subject to any of
+the provisions of the North Dakota credit union law. The successor federal credit union is
+vested with all of the assets and shall continue to be responsible for all of the obligations
+of the state credit union to the same extent as though the conversion had not taken
+place.
+H. B. NO. 1507 - PAGE 15
+
+Section 122:
+2. a. A federal credit union, organized under the laws of the United States may be converted
+into a state credit union by:
+(1) Complying with all federal requirements requisite to enabling it to convert to a state
+credit union or to cease being a federal credit union;
+(2) Filing with the state credit union board proof of such compliance, satisfactory to the
+commissioner;
+(3) Filing with the commissioner an organization certificate and bylaws, both in
+triplicate, as required by section 6-06-02; and
+(4) Granting discretionary authority to the commissioner to conduct an examination
+prior to the conversion date.
+The commissioner shall set fees for such examination at an hourly rate sufficient to cover
+all reasonable expenses of the department of financial institutions associated with the
+examination. Fees must be collected by the commissioner, transferred to the state
+treasurer, and deposited in the financial institutions regulatory fund.
+b. When the commissioner has been satisfied that all of such requirements and all other
+requirements of the North Dakota law have been complied with, the commissioner shall
+notify the applicants and the state credit union board of that fact, and the board shall
+instruct the secretary of state to issue a charter in accordance with section 6-06-02. Upon
+issuance of the charter, the federal credit union shall become a state credit union and
+ceases to be a federal credit union. The state credit union is vested with all of the assets
+and shall continue to be responsible for all of the obligations of the federal credit union to
+the same extent as though the conversion had not taken place.
+
+Section 123:
+3. After July 31, 2009, a state credit union may convert to a building and loan association by
+complying with the following requirements:
+a. The proposal for a conversion first must be approved and a date set for a vote on the
+proposal by the members either at a meeting to be held on such date or by written ballot
+to be filed on or before such date by a majority of the directors of the credit union.
+Approval of the proposal for the conversion must be by the affirmative vote of two-thirds
+of the members voting.
+b. A state credit union that proposes to convert to a building and loan association shall
+submit notice to each of the credit union's members who are eligible to vote on the matter
+of the credit union's intent to convert:
+(1) Ninety days before the date of the member vote on the conversion;
+(2) Sixty days before the date of the member vote on the conversion; and
+(3) Thirty days before the date of the member vote on the conversion.
+c. A state credit union that proposes to convert to a building and loan association shall
+submit a notice to the state credit union board of the credit union's intent to convert at
+least ninety days before the date of the completion of the conversion.
+d. Upon completion of a conversion, the state credit union is no longer subject to any of the
+provisions of this chapter.
+e. A director or senior management official of a state credit union may not receive any
+economic benefit in connection with a conversion of the state credit union other than
+reasonable director fees and reasonable compensation and other benefits paid to
+directors or senior management officials of the converted institution in the ordinary
+H. B. NO. 1507 - PAGE 16
+course of business. As used in this subdivision, the term senior management official
+means a chief executive officer, an assistant chief executive officer, a chief financial
+officer, and any other senior executive officer as may be defined by the state credit union
+board.
+f. Before January 1, 2009, the state credit union board shall adopt rules applicable to state
+credit union conversion to a building and loan association which are consistent with the
+conversion rules of the national credit union administration.
+g. The commissioner shall review the methodology by which the conversion member vote
+was taken and procedures applicable to the member vote. The commissioner shall report
+the commissioner's findings to the state credit union board. If the commissioner or the
+state credit union board disapproves of the methods by which the conversion member
+vote was taken or procedures applicable to the member vote, the member vote must be
+retaken as directed by the commissioner or the state credit union boardA credit union
+may convert to a cooperative financial institution following the procedures outlined in
+
+Section 124:
+section 10 of this Ac t.
+
+Section 125:
+SECTION 13. AMENDMENT. Section 6-07.2-09 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-07.2-09. Payment of claims.
+
+Section 126:
+1. All claims against the institution's estate, proved to the receiver's satisfaction or approved by
+the circuit court, must be paid in the following order:
+a. Administration expenses, including compensation of each regular officer or employee of
+the receiver for the time actually devoted to the liquidation of the institution at an amount
+not to exceed the compensation paid to the officer or employee for the performance of
+the officer's or employee's regular duties; actual expenses of each regular officer and
+employee necessarily incurred in the performance of the officer's or employee's duties;
+compensation and expenses of any special representative, assistant, accountant, agent,
+or attorney employed by the receiver; court costs; and if the commissioner is acting as
+receiver, such reasonable general overhead expenses as may be incurred by the
+commissioner in the liquidation of the affairs of the institution which shall be ascertained,
+determined, and fixed by the commissioner.
+b. Claims given priority under other provisions of state or federal law.
+c. Deposit obligations, except that notwithstanding sections 6-03-67 and 41-04-31, if a
+depositor is indebted to an insolvent bank, the insolvent bank has a right to setoff against
+the depositor's account.
+d. Other general liabilities.
+e. Debt subordinated to the claims of depositors and general creditors.
+f. Equity capital securities.
+g. For credit unions and cooperative financial institutions, pro rata distribution to members
+computed based on the total amount in each member's deposit accounts as of the date
+of liquidation.
+
+Section 127:
+2. Interest on a claim may not be paid until all claims within the same class have received the full
+principal amount of claim.
+
+Section 128:
+SECTION 14. AMENDMENT. Section 6-07.2-19 of the North Dakota Century Code is amended and
+reenacted as follows:
+H. B. NO. 1507 - PAGE 17
+6-07.2-19. Voluntary liquidation of a credit union or cooperative financial institution.
+
+Section 129:
+1. A credit union or cooperative financial institution may go into voluntary liquidation following a
+vote of the majority of the board of directors and approval by the majority of its members in
+writing or by a vote in favor of the liquidation by a majority of the members of the credit union
+or cooperative financial institution at a regular meeting of the members or at a special meeting
+called for that purpose.
+a. When authorization for liquidation is to be obtained at a meeting of members:
+(1) Notice in writing must be given to each member at least ten days before the
+meeting and the notice must inform members they have the right to vote on the
+proposed liquidation.
+(2) The minutes of the meeting must show the number of members present and the
+number that voted for and against liquidation.
+b. If approval by a majority of all members of a credit union is not obtained at the meeting of
+members, authorization for voluntary liquidation may be obtained by having a majority of
+members sign a statement in substantially the following form: We the undersigned
+members of the _____ Credit Union, Charter No. _____, hereby request the dissolution
+of our credit union.
+c. If approval by a majority of all members of a cooperative financial institution is not
+obtained at the meeting of members, authorization for voluntary liquidation may be
+obtained by having a majority of members sign a statement in substantially the following
+form: We the undersigned members of the _____ cooperative financial institution,
+Charter No. _____, hereby request the dissolution of our cooperative financial
+institutions.
+
+Section 130:
+2. The board of directors of a credit union or cooperative financial institution in voluntary
+liquidation:
+a. Is responsible for conserving the assets, for expediting the liquidation, and for equitably
+distributing the assets to members.
+b. Shall determine all persons handling or having access to funds of the credit union or
+cooperative financial institution are adequately covered by surety bond.
+c. Shall appoint a custodian for the credit union's or cooperative financial institution's
+records that are to be retained for five years after the charter is canceled.
+d. May appoint a liquidating agent and delegate part or all of these responsibilities to the
+agent and may authorize reasonable compensation for the agent's services. A liquidating
+agent must be adequately bonded for faithful performance of the agent's duties, and the
+coverage must remain in effect or the discovery period extended for at least four months
+after the final distribution of assets.
+
+Section 131:
+3. The supervisory committee, a certified public accountant hired by the supervisory committee,
+or if the bylaws do not establish a supervisory committee, a certified public accountant hired
+by the board of directors, is responsible for making periodic audits of the credit union's or
+cooperative financial institution's records, at least quarterly, during the period of liquidation.
+
+Section 132:
+4. Within three days after the decision of the board of directors to submit the question of
+liquidation to the members, the president shall notify the commissioner and the regional
+director of the national credit union administration or federal deposit insurance corporation as
+appropriate in writing, setting forth in detail:
+a. The reasons for the proposed action;
+H. B. NO. 1507 - PAGE 18
+b. The previous month-end balance sheet and income statement; and
+c. A written plan for the liquidation of assets, payment of creditors, and payment of shares
+to be completed within one year of the date of membership approval to liquidate.
+
+Section 133:
+5. Within three days after the action of the members on the question of liquidation, the president
+shall notify the commissioner and the regional director of the national credit union
+administration or federal deposit insurance corporation as appropriate in writing as to whether
+a majority of the members approved the proposed liquidation.
+
+Section 134:
+6. Within ten days of the decision to liquidate by the board of directors, a notice of the decision
+must be handed to each member, electronically distributed, or mailed to the member's last-
+known address to confirm in writing the shares and deposits held by the member in the credit
+union or cooperative financial institution and the loans owed by the member to the credit union
+or cooperative financial institution.
+
+Section 135:
+7. Within ten days of the approval of a majority of the members of a credit union or cooperative
+financial institution of a proposal to liquidate, the board of directors of the credit union or
+cooperative financial institution shall have prepared and mailed to all creditors a notice of
+liquidation containing instructions to present claims to the credit union or cooperative financial
+institution within ninety days for payment. New creditor claims subsequent to this notice which
+are necessary for the continued operation of the credit union during liquidation must continue
+to be paid upon authorization of the board of directors or liquidating agent.
+
+Section 136:
+8. Immediately upon the decision of the membership to liquidate, the credit union or cooperative
+financial institution may continue to do all things under the original corporate name of the
+institution, to sue and be sued, to execute conveyances and other instruments, to take, hold,
+and own property, and to do all other things as may be necessary to realize upon the
+institution's remaining assets for the benefit of the institution's members, but not to engage or
+continue in any new or other business under the institution's charter or otherwise. At the
+discretion of the board of directors or the liquidating agent, transactions upon membership
+transactional accounts may continue to be honored up to the federal insurance limit until the
+accounts are sold or otherwise liquidated.
+
+Section 137:
+9. At the commencement of voluntary liquidation of a credit union or cooperative financial
+institution, the treasurer or agent conducting the liquidation shall file with the commissioner a
+financial and statistical report and a schedule showing the name, book number or account
+number, share balance, and loan balance of each member.
+
+Section 138:
+10. Credit unions or cooperative financial institution in the process of voluntary liquidation shall file
+with the commissioner a financial and statistical report as of December thirty-first or within
+thirty days after such date. Additional reports, as determined by the commissioner to be
+necessary, must be furnished promptly on written request.
+
+Section 139:
+11. When deemed advisable by the commissioner, an examination of the books and records of a
+credit union or cooperative financial institution may be made before, during, or following
+completion of voluntary liquidation. The commissioner shall set fees for the examination at an
+hourly rate sufficient to cover all reasonable expenses of the department of financial
+institutions associated with the examination. Fees must be collected by the commissioner and
+deposited in the financial institutions regulatory fund.
+
+Section 140:
+12. If at any time during the liquidation of credit union assets or cooperative financial institution, it
+is found the value of remaining assets will not be sufficient to cover the claims of creditors and
+shareholders, the board of directors or, if appointed, the liquidating agent shall immediately
+notify the commissioner and the regional director of the national credit union administration or
+federal deposit insurance corporation as appropriate. Further liquidation of credit union or
+cooperative financial institution assets or distributions to shareholders after notice requires
+written approval from the commissioner.
+H. B. NO. 1507 - PAGE 19
+
+Section 141:
+13. With the written approval of the commissioner, a partial distribution of the credit union's or
+cooperative financial institution's assets may be made to its members from cash funds
+available on authorization by its board of directors or by a duly authorized liquidating agent
+whose appointment specifically includes the authority. Partial distributions cannot exceed the
+national credit union share insurance limit.
+
+Section 142:
+14. When all assets of the credit union or cooperative financial institution have been converted to
+cash or found to be worthless and all loans and debts owing to it have been collected, sold, or
+found to be uncollectible and all obligations of the credit union or cooperative financial
+institution have been paid, with the exception of amounts due its members:
+a. The books must be closed and the pro rata distribution to members computed. This
+computation must be based on the total amount in each member's share accounts as of
+the date the board of directors voted to voluntarily liquidate.
+b. The amount of gain or loss must be entered in each member's share account and should
+be entered in the member's passbook or statement of account.
+c. Promptly, funds must be distributed to each member. The funds must be mailed to such
+members at their last-known addresses, electronically transmitted to the members
+designated account, or handed to them in person.
+d. The passbooks or written confirmations submitted by members to verify balances must
+be retained with the credit union or cooperative financial institution records.
+e. Unclaimed share accounts subject to the escheat or abandoned property laws of the
+state or the state of the members' residence must be paid to the state as required by
+such laws.
+f. The commissioner must be promptly notified of the date final distribution of assets to the
+members is started.
+g. In the event of a loss on members share accounts, a claim must be submitted by the
+board of directors or the liquidating agent if appointed, to the national credit union
+administration or federal deposit insurance corporation as appropriate, private share
+insurance if available, and bonding company.
+
+Section 143:
+15. Within one hundred twenty days after the final distribution to members is started, the credit
+union or cooperative financial institution shall furnish to the commissioner's office a schedule
+of unpaid claims. The board of directors of the credit union or cooperative financial institution
+or the liquidating agent if appointed shall report money in the account of a member who failed
+to surrender their passbooks or confirm their balances, final distribution checks not cashed
+within one hundred twenty days, and any unpaid claims to the unclaimed property division of
+the board of university and school lands pursuant to chapter 47-30.2.
+
+Section 144:
+SECTION 15. AMENDMENT. Section 6-08-08.1 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-08-08.1. Sale or purchase of associations, banking institutions, or holding companies -
+Notification to commissioner - Hearing.
+
+Section 145:
+1. No person, acting directly or indirectly or through or in concert with one or more other persons,
+may purchase or otherwise acquire control of an association or banking institution unless the
+state banking board or commissioner has been given prior written notice by application of the
+proposed disposition or acquisition. The written application must include such information as
+the state banking board shall specify. The transaction may not be consummated before the
+board or commissioner has granted approval.
+H. B. NO. 1507 - PAGE 20
+
+Section 146:
+2. The applicant shall publish notice of the application as required by the board by rule.
+
+Section 147:
+3. The commissioner shall determine if the application is complete and notify the applicant of the
+determination. If the commissioner determines the application is incomplete, the commissioner
+shall request additional information deemed necessary to complete the application.
+
+Section 148:
+4. If not approved by the commissioner, the commissioner shall submit the application to the
+board. The board may approve or disapprove the application if the board determines that:
+a. The character, reputation, general fitness, financial standing, and responsibility of the
+persons proposed as new stockholders, directors, or officers is such that the interests of
+the other stockholders, depositors, and creditors of the institution and the public generally
+will be jeopardized by the change in control and management.
+b. The qualifications of management do not include adequate experience with financial
+institutions or other approved related experience.
+
+Section 149:
+5. Within three business days after the board's decision to disapprove an application, the board
+shall notify the applicant in writing of the disapproval. The notice must provide a statement of
+the basis for the disapproval.
+
+Section 150:
+6. Within twenty days after receipt of the notice of disapproval, the applicant may request a
+hearing on the disapproval. The board must conduct a hearing, if requested, under the
+provisions of chapter 28-32. At the conclusion of the hearing, the board shall by order approve
+or disapprove the application on the basis of the record at the hearing.
+
+Section 151:
+7. For purposes of this section, "control" means ownership or control, directly, indirectly, or
+through the actions of one or more persons of the power to vote twenty-five percent or more of
+any class of voting securities of an association, banking institution, controlling bank holding
+company, or the direct or indirect power to control in any manner the election of a majority of
+the directors of an association or banking institution, or to direct the management or policies of
+an association or banking institution, whether by individuals, corporations, limited liability
+companies, partnerships, trusts, or other entities or organizations of any type.
+
+Section 152:
+8. The following acquisitions of voting securities of a North Dakota state chartered bank, which
+would otherwise require submission of an application under this section, are not subject to the
+application requirements if the acquiring person notifies the commissioner within ninety days
+after the acquisition and provides any relevant information requested by the commissioner:
+acquisition of voting securities through inheritance; acquisition of voting securities as a bona
+fide gift; and acquisition of voting securities in satisfaction of a debt previously contracted in
+good faith. This subsection does not limit the authority of the commissioner to require a party
+to submit a written application to the board under subsection 1.
+
+Section 153:
+9. This section does not apply to a cooperative financial institution.
+H. B. NO. 1507 - PAGE 21
+____________________________ ____________________________
+Speaker of the House President of the Senate
+____________________________ ____________________________
+Chief Clerk of the House Secretary of the Senate
+This certifies that the within bill originated in the House of Representatives of the Sixty-ninth Legislative
+Assembly of North Dakota and is known on the records of that body as House Bill No. 1507.
+House Vote: Yeas 87 Nays 3 Absent 4
+Senate Vote: Yeas 44 Nays 0 Absent 3
+____________________________
+Chief Clerk of the House
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+____________________________
+Governor
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+____________________________
+Secretary of State
+[DELETED: f ."d ur te ls of ts se cg se bg a, ad a.".".", ig d, ts c, ad sr i, hg ad m."."."."."."]
+[DELETED: ."."."."."."."."l i" ms ay b, il ln c, or ss ad l."."."l it c" or "l ss c" ms a c."."."t s ."."]
+[DELETED: .N.F.F.A.N.A.A.A.A.F.A.A.A]
+[DELETED: .A.A.F.A.A.A.A.T.T.A.A]
+[DELETED: .H.M.S.E.P T.P.Ey to cy on te bs of b, ig dg ad n]
+[DELETED: .Er io c, ir o, ad gy t pm al as ny os or to tr d, c, s, c, r, o.Sl dt ie cn ad to cy wh te ll rs a.Ts .Ef il ad il cs ad to pe po it a, i, f, ad rh ss to sh cs i.E.Ie it cy or it tt rd ur te Fl I.A]
+[DELETED: .B.V.V)Tr mt be m b t ae v of ts of te m)E) )P.T.Is ad ls of te cd bg i, mt be me to t.A.Al is ad wh te e. Fs mt be cd by t]
+[DELETED: . ."d o" ms te bg i, ct u, or or f."."]
+[DELETED: .B.T.T.T.T.T.Eh to ae ts in a ce fl in sl sn ad ee a.T.T.T.T.A, ,  f sn  a d s te te et of te pd ce fl in wl b]
+[DELETED: .T. Te bd sl kp ay iy io te qs of te p.T.A.I.T.T.I.A.A.T]
+[DELETED: .E.T. .P.As .I.O. .O.A.A.A.A.A.A.T.W]
+[DELETED: . Te ce fl in is vd wh al as of te p.A.F.E. g my be cd in or dl as od in te ce f.C.A.M.M.A.F]
+[DELETED: .Rw te fl cs of te ce fl i, f.S.T.M.M.M.M.M.S.M.M.M.M.T]
+[DELETED: .A.T.A.P.U]
+[DELETED: .a.A)C)F)Fg wh te cr an on ce ad b, bh i)G.W.A.T.A)N)S)T.A.U.A a fs r s ]
+[DELETED: .B.T.A.A.C.D.O.D.E.F.I]
+[DELETED: .A.W)N)T.I.I Ws f  _r N. _, hy rt te dn of or ce f.Tn  i.I.S.Ss .M.T.W.T]
+[DELETED: .T.A.Wl ny te cr ad te rl dr of te nl ct u.W.W on  s.I.An .C.Wn  my re st to cr al re es of te dt of f.I Fn  a]
+[DELETED: .W a.Wn .T T.T.Ps t tr n a,  td  te .T.U.T.In .Ws .N]
+[DELETED: .T.T.I.T.T.W.W.F.T.T]
+[DELETED: __eP__eS:Y7N3A:Y4N0A]
+
+
+================================================================================
+
+Raw Text:
+Sixty-ninth Legislative Assembly of North Dakota
+In Regular Session Commencing Tuesday, January 7, 2025
+HOUSE BILL NO. 1507
+(Representative Vollmer)
+AN ACT to create and enact a new chapter to title 6 of the North Dakota Century Code, relating to the
+establishment and organization of cooperative financial institutions; and to amend and reenact
+sections 6-01-02, 6-01-15, 6-01-17.1, 6-02-02, 6-02-03, 6-03-02, 6-03-11, 6-03-13.1, 6-03-34,
+6-05-01, 6-06-35, 6-07.2-09, 6-07.2-19, and 6-08-08.1 of the North Dakota Century Code,
+relating to the application, powers, payment of claims, liquidation, and sale of cooperative
+financial institutions.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. AMENDMENT. Section 6-01-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-01-02. Definitions.
+As used in this title, unless the context or subject matter otherwise requires:
+1. "Association", "banking association", or "state banking association" means any corporation
+organized under the laws of this state covering state banking associations, and all
+corporations, limited liability companies, partnerships, firms, or associations whose business
+in whole or in part consists of the taking of money on deposit, except national banks, trust
+companies, and the Bank of North Dakota.
+2. "Bank" means any national bank, national banking association, corporation, state bank,
+cooperative financial institution, state banking association, or savings bank, whether organized
+under the laws of this state or of the United States, engaged in the business of banking.
+3. "Bank holding company" means bank holding company as defined in 12 U.S.C. 1841(a)(1).
+4. "Banking" means the business of receiving deposits, making loans, discounting commercial
+paper, issuing drafts, traveler's checks, and similar instruments, handling and making
+collections, cashing checks and drafts, and buying and selling exchange.
+5. "Banking department" means the state department of financial institutions.
+6. "Banking institution" means any bank, trust company, or bank and trust company organized
+under the laws of this state.
+7. "Branch" means a place of business where deposits are received, checks paid, or money lent
+as a result of a bank that was merged into another bank pursuant to an interstate merger.
+8. "Commissioner" means the commissioner of financial institutions.
+9. "Cooperative financial institution" means an institution without capital stock organized under
+section 10 of this Act and operated for mutual purposes and without profit, and which is
+subject by law to supervision and examination by the department and federal authority which
+have supervision over such institutions.
+10. "Corporate central credit union" means a credit union operated for the primary purpose of
+serving corporate accounts. A credit union is deemed to be a corporate central credit union
+when its total dollar amount of outstanding corporate loans plus corporate share and deposit
+
+H. B. NO. 1507 - PAGE 2
+holdings is equal to or greater than seventy-five percent of its outstanding loans plus share
+and deposit holdings.
+10.11. "Credit union" means a cooperative, nonprofit association organized for the purposes of
+encouraging thrift among its members, creating a source of credit at a fair and reasonable rate
+of interest, and providing an opportunity for its members to improve their economic and social
+condition.
+11.12. "Derivative transaction" means derivative transaction as defined in 12 U.S.C. 84(b)(3).
+12.13. "Electronic" means relating to technology having electrical, digital, magnetic, wireless, optical,
+electromagnetic, or similar capabilities.
+13.14. "Electronic communication" means any form of communication, not directly involving the
+physical transmission of paper that creates a record that may be retained, retrieved, and
+reviewed by a recipient of the communication and may be directly reproduced in paper form
+by the recipient through an automated process.
+14.15. "Electronic record" means a record created, generated, sent, communicated, received, or
+stored by electronic means.
+15.16. "Electronic signature" means an electronic sound, symbol, or process attached to or logically
+associated with a record and signed or adopted by a person with the intent to sign the record.
+16.17. "Financial corporation" means all entities regulated by the department of financial institutions,
+excluding financial institutions and credit unions.
+17.18. "Financial institution" means any bank, industrial loan company, or savings and loan
+association organized under the laws of this state or of the United States.
+18.19. "Market value" means the highest price for which property can be sold in the open market by a
+willing seller to a willing purchaser, neither acting upon compulsion and both exercising
+reasonable judgment.
+19.20. "Merger" or "merge" means the merging or consolidation of two or more banks including the
+purchase of all or substantially all of the assets and assumption of liabilities of a bank, facility,
+or branch.
+20.21. "Mutual investment corporation" or "mutual savings corporation" means a corporation
+organized to engage in the investment or savings business, but having no capital stock or a
+nominal capital stock.
+21.22. "National bank" or "national banking association" means an institution chartered by the
+comptroller of the currency under the National Bank Act [12 U.S.C. 24].
+22.23. "Record" means information that is inscribed on a tangible medium or that is stored in an
+electronic or other medium and is retrievable in perceivable form.
+23.24. "Technology service provider" includes any person that provides services to a financial
+institution, financial corporation, or credit union, including: core processing; information and
+transaction processing and settlement activities that support banking functions such as
+lending, deposit-taking, funds transfer, fiduciary, or trading activities; internet-related services;
+security monitoring; and system development and maintenance.
+24.25. "Tier 1, tier 2, and tier 3 capital" means those terms as set under title 12, Code of Federal
+Regulations, part 325, in effect on August 1, 2011.
+25.26. "Trust company" means any corporation formed for the purpose of transacting business as an
+annuity, safe deposit, surety, or trust company.
+
+H. B. NO. 1507 - PAGE 3
+SECTION 2. AMENDMENT. Section 6-01-15 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-01-15. Officers and employees to be disinterested.
+1. No officer or employee of this department may have any interest, directly or indirectly, in any
+financial corporation or financial institution within the jurisdiction of the department of financial
+institutions, nor in any corporation or institution engaged wholly or in part in the writing or
+issuing of bonds of or for any such corporation or institution or any officer or employee thereof.
+Provided, however, this prohibition does not apply to membership in a state-chartered credit
+union or savings and loan associationcooperative financial institution.
+2. For purposes of this section, "interest" means ownership of or investment in such corporations
+or institutions.
+SECTION 3. AMENDMENT. Section 6-01-17.1 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-01-17.1. Application fees - Cost of transcript.
+The following fees must accompany an application presented to the state banking board, state
+credit union board, or commissioner and must be paid by the commissioner into the financial institutions
+regulatory fund:
+1. For a certificate of authority to organize a banking association, a fee of five thousand dollars,
+paid by the applicants.
+2. A banking association's application for authority to remove its business to some place within
+the state other than the town in which it is presently located and to change its name, a fee of
+two thousand five hundred dollars.
+3. National bank conversion to a state bank, a fee of two thousand five hundred dollars.
+4. Application by two or more banks to merge or consolidate, a fee of one thousand five hundred
+dollars.
+5. Application by a person to sell, dispose, or purchase an association, banking institution, or
+holding company, a fee of five hundred dollars unless a hearing is held before the board in
+which case the fee is two thousand dollars.
+6. A banking association's application to establish and operate a separate facility, a fee of one
+thousand five hundred dollars. A banking institution that discontinues a facility established for
+the purpose of providing educational opportunities to a high school is entitled to a refund of
+any application fee paid.
+7. A banking association's application to establish customer electronic funds transfer centers, a
+fee not to exceed five hundred dollars.
+8. For a certificate of authority to organize an annuity, safe deposit, surety, or trust company, a
+fee of five thousand dollars.
+9. A banking association's application for authority to exercise trust powers, a fee of one
+thousand five hundred dollars.
+10. Application to organize a credit union, a fee of three hundred dollars, paid by the applicants.
+11. Application for a credit union to establish a branch, a fee of three hundred dollars.
+
+H. B. NO. 1507 - PAGE 4
+12. Application by a credit union to expand its field of membership, a fee of one hundred fifty
+dollars.
+13. Application by a federal credit union to convert to a state credit union, a fee of three hundred
+dollars.
+14. For a certificate of authority to organize a savings and loan associationcooperative financial
+institution, a fee of five thousand dollars.
+15. A savings and loan association'scooperative financial institution's application to establish and
+operate a branch office, a fee of one thousand five hundred dollars.
+16. A trust company's application or notification to establish an operating subsidiary or branch
+office, a fee of five hundred dollars.
+17. Application by two or more credit unions to merge, a fee of three hundred dollars.
+18. A banking institution, credit union, or other financial institution to convert to a cooperative
+financial institution, a fee of five thousand dollars.
+The commissioner may cause a certified transcript to be prepared for any hearing conducted on an
+application. The costs for the original and up to six copies of the transcript must be paid by the
+applicant.
+SECTION 4. AMENDMENT. Section 6-02-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-02-02. Banking corporations - Who may form.
+An association for carrying on the business of banking under this title may be formed by any
+number of natural persons, not less than three, at least two-thirds of whom must be residents of this
+state. They shall enter into articles of association which must specify in general terms the object for
+which the association is formed and which may contain any other provisions, not inconsistent with law,
+which the association may see fit to adopt for the regulation of its business and the conduct of its
+affairs. These articles must be signed and acknowledged by the persons uniting to form the association
+and must be filed in the office of the secretary of state. This section does not apply to a cooperative
+financial institution.
+SECTION 5. AMENDMENT. Section 6-02-03 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-02-03. Capital stock, surplus, and federal deposit insurance requirements.
+1. The capital stock of any banking association organized after June 30, 1987, must be not less
+than one hundred thousand dollars. In addition to such capital requirements, there must be
+subscribed and paid in at the time of organization a surplus of not less than fifty thousand
+dollars. This subsection does not apply to cooperative financial institutions.
+2. The state banking board may require such additional capital, surplus, and undivided profits as
+it may determine necessary to properly serve the area and to protect the public interest.
+3. All of the capital stock and surplus of every association must be paid in before it is authorized
+to commence business and evidence of such payment either in actual money or a deposit in a
+previously approved correspondent bank must be furnished to the commissioner before the
+certificate of authority may be delivered to it.
+4. A banking association shall secure federal deposit insurance corporation insurance of deposits
+before it is authorized to commence business. Evidence of securing such insurance must be
+
+H. B. NO. 1507 - PAGE 5
+furnished to the commissioner before the certificate of authority may be delivered to the
+banking association.
+SECTION 6. AMENDMENT. Section 6-03-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-03-02. Powers.
+After an association has made and filed articles of association and an organization certificate, it
+becomes a body corporate, and as such, and in the name designated in the certificate, it, subject to
+section 6-03-01, has the power to:
+1. Have a perpetual existence, unless it is sooner dissolved according to the provisions of this
+title, or unless its franchise becomes forfeited by a violation of law.
+2. Make contracts.
+3. Sue and be sued.
+4. Elect or appoint directors, such board to consist of any number of members, not less than
+three nor more than twenty-five, at least two-thirds of whom must be citizens of the United
+States, and, by such board of directors, to appoint a president, who must be a member of said
+board, and such other employees as may be required, to define their duties, to require bonds
+of them and fix the penalty thereof, and to dismiss such officers and employees, or any of
+them, and appoint others to fill their places. This subsection does not apply to a cooperative
+financial institution.
+5. Provide, by its board of directors, bylaws not inconsistent with the laws of this state to regulate
+the manner in which its directors and officers must be elected or appointed. Vacancies in the
+board of directors, not exceeding one-third of the whole membership thereof in any calendar
+year, must be filled by a majority vote of the remaining members. The bylaws must provide a
+method for filling vacancies exceeding that number. This subsection does not apply to a
+cooperative financial institution.
+6. Provide, by its board of directors, bylaws not inconsistent with the laws of this state to regulate
+the manner in which its stock and property must be transferred, its business conducted, and
+the privileges granted to it by law exercised and enjoyed. This subsection does not apply to a
+cooperative financial institution.
+7. Exercise, as determined by the board by order or rule, all the incidental powers as are
+necessary to carry on the business of banking, including discounting and negotiating
+promissory notes, bills of exchange, drafts, and other evidences of debt; receiving deposits;
+buying and selling exchange, coin, and bullion; loaning money upon real or personal security,
+or both; soliciting and receiving deposits in the nature of custodial accounts for the purpose of
+health savings or similar health care cost funding accounts, retirement fund contracts, or
+pension programs, and such custodial accounts are exempt from chapter 6-05; and providing
+services to its customers involving electronic transfer of funds to the same extent that other
+financial institutions chartered and regulated by an agency of the federal government are
+permitted to provide those services within this state. A bank that provides electronic funds
+transfer equipment and service to its customers, at premises separate from its main banking
+house or duly authorized facility approved by the state banking board, must make the
+equipment and service available for use by customers of any other bank upon the request of
+the other bank to share its use and the agreement of the other bank to share pro rata all costs
+incurred in connection with its installation and operation, and the electronic operations are not
+deemed to be the establishment of a branch, nor of a separate facility. The electronic
+operations at premises separate from its banking house or duly authorized facility must be
+considered a customer electronic funds transfer center and may be established subject to
+rules that the state banking board adopts.
+
+H. B. NO. 1507 - PAGE 6
+8. Enter into contracts, incur obligations, and generally to perform all acts necessary or
+appropriate to take advantage of any and all memberships, loans, subscriptions, contracts,
+grants, rights, or privileges which may be or become available or may inure to banking
+institutions or to their depositors, creditors, stockholders, conservators, receivers, or
+liquidators under the provisions of the federal Act creating the federal deposit insurance
+corporation or under any other Act or regulation of Congress to aid, regulate, or safeguard
+banking institutions and their depositors, including any amendments thereto or substitution
+therefor, when authorized so to do by its board of directors.
+9. Subscribe for and acquire any stock, debentures, bonds, or other types of securities of the
+federal deposit insurance corporation and to comply with the lawful regulations and
+requirements from time to time issued or made by such corporation.
+10. Take, receive, and hold United States postal savings deposits and to take any action
+necessary to procure the deposit of the same.
+11. Enter into the business of dealing in securities and stock for the purpose of purchasing and
+selling such securities and stock without recourse, solely upon the order, and for the account
+of individual and institutional customers and to provide portfolio investment advisory,
+management, information, forecasting, and research services to such customers in
+combination with or separate from such purchases and sales.
+12. Exercise fiduciary powers upon application as provided under section 6-05-01 as the board
+may prescribe by rule.
+13. Invest all moneys received by it in a trust, in authorized securities, and be responsible to the
+owner or a third-party beneficiary for the validity, regularity, quality, value, and genuineness of
+these investments and securities at the time made and for the safekeeping of these securities
+and the evidences of the securities. When special directions are given in any order, judgment,
+decree, will, or other written instrument as to the particular manner or the particular class or
+kind of securities or property in which any investment may be made, a bank shall follow this
+direction and, in such case, it is not further responsible by reason of the performance of the
+trust. A bank may retain and continue any investment and security or securities coming into its
+possession in any fiduciary capacity. For the faithful discharge of its duties and the discharge
+of its trust, it is entitled to reasonable compensation or an amount as has been or may be
+agreed upon by the parties and all necessary expenses, with legal interest on those amounts.
+The trustee may acquire and retain securities of any open-end or closed-end management
+type investment company or investment trust registered under the Federal Investment
+Company Act of 1940 [Pub. L. 76-686; 54 Stat. 789; 15 U.S.C. 80a-1 - 80a-52]. The fact that
+the banking institution, or an affiliate of the banking institution, is providing services to the
+investment company or trust as investment advisor, sponsor, broker, distributor, custodian,
+transfer agent, registrar, or otherwise and receiving compensation for the services does not
+preclude the trustee from investing in the securities of that investment company or trust. The
+banking institution and trust shall disclose to all current income beneficiaries of the trust the
+rate, formula, and method of the compensation, and the relationship of ownership. No
+compensation or commission paid or agreed to be paid to it for the negotiation of a loan or the
+execution of a trust may be deemed interest within the meaning of the law, nor may any
+excess thereof over the legal rate be deemed usury.
+SECTION 7. AMENDMENT. Section 6-03-11 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-03-11. Conversion, consolidation, or merger.
+1. Any two or more banking institutions upon making application to the commissioner or the state
+banking board may consolidate or merge if authorized by the commissioner or board into one
+banking institution under the charter of either existing banking institution on such terms and
+
+H. B. NO. 1507 - PAGE 7
+conditions as lawfully may be agreed upon by a majority of the board of directors of each
+banking institution proposing to consolidate or merge subject to rules adopted by the state
+banking board.
+2. Before becoming final, such consolidation or merger must be ratified and confirmed by the
+vote:
+a. Vote of the shareholders of each such banking institution owning at least two-thirds of its
+capital stock outstanding at a meeting to be held on the call of the directors. Notice of
+such meeting and of the purpose thereof must be given to each shareholder of record by
+registered or certified mail at least ten days prior to the meeting. The shareholders may
+unanimously waive such notice and may consent to such meeting and consolidation or
+merger in writing.; or
+b. Vote of the members of a cooperative financial institution.
+(1) The proposition for a merger first must be approved by the board of directors, and
+on a date set for a vote by the members either at a meeting or by written ballot filed
+on or before the date, by a majority of the directors of the organization which seeks
+the merger. Written notice of the proposition and the date set for the vote must be
+delivered in person to each member or mailed to each member at the address
+appearing on the records of the organization. The notice must be mailed between
+seven and thirty days before the date of the merger. Approval of the proposition for
+merger must be made by the affirmative vote of two - thirds of the members
+participating in the meeting.
+(2) Each member of the cooperative financial institution is entitled to one vote during a
+regular or special meeting of the membership. Voting rights for a banking institution
+or financial institution are determined by applicable law.
+(3) At least forty - five days before consideration of a merger, the membership and board
+acting upon the proposed change must be made aware of the merger under
+consideration and day and time of the meeting the change will be acted upon.
+(4) Promptly after the vote, and in no event later than ninety days thereafter, if the
+proposition for merger was approved, the organization seeking the merger shall
+provide the state banking board with the results of the vote, verified by the affidavits
+of the president or vice president and secretary.
+3. The capital stock and surplus of such consolidated banking institution must not be less than
+that required under this title for the organization of a banking institution of the class of the
+largest consolidating banking institution.
+4. Immediately after the consolidation or merger a full report thereof, including a statement of the
+assets and liabilities of the consolidated banking institution, must be made to the
+commissioner by the surviving banking institution.
+5. Any banking institution may without approval by any state authority convert into or merge or
+consolidate with a national banking association as provided by federal law.
+6. A national bank proposing to merge into a state-chartered bank shall grant the commissioner
+discretionary authority to conduct an examination. The commissioner shall set fees for such
+examination at an hourly rate sufficient to cover all reasonable expenses of the department of
+financial institutions associated with the examination. Fees must be collected by the
+commissioner and deposited in the financial institutions regulatory fund.
+SECTION 8. AMENDMENT. Section 6-03-13.1 of the North Dakota Century Code is amended and
+reenacted as follows:
+
+H. B. NO. 1507 - PAGE 8
+6-03-13.1. Separate facilities authorized.
+Upon compliance with section 6-03-13.3, any bank organized under chapter 6-02 or section 10 o f
+this Act and under the supervision of the state banking board, and any national bank doing business in
+this state, may maintain and operate separate and apart from its banking house facilities, in addition to
+such service at its main banking house. Any activity incidental to the business of banking may be
+transacted at a separate facility, including receiving deposits of every kind and nature, cashing checks
+or orders to pay, issuing exchange, making loans, renting safe deposit boxes, exercising fiduciary
+powers if authorized by the board, and receiving payments payable at the bank. Whenever any banking
+institution that has been granted approval to establish and maintain a facility deems it advisable to
+discontinue the maintenance of the facility, the banking institution may apply to the commissioner or
+state banking board for cancellation and the commissioner or board may order the cancellation
+approval within the time the board specifies. The banking institution shall provide notice of the
+application as required by the board by rule.
+SECTION 9. AMENDMENT. Section 6-03-34 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-03-34. Surplus fund required - Dividends only out of earnings not required for surplus.
+The board of directors of any association organized under this title may declare and pay dividends
+out of the net profits of the association subject to the limitations of this chapter. EveryExcept for
+cooperative financial institutions, every such association, as its board of directors deems advisable,
+shall ascertain, set apart, and convert into a surplus fund at least fifty percent of its net earnings until
+such surplus fund equals one hundred percent of its common stock, and no dividend may be declared
+upon its stock except from the remaining fifty percent of its net earnings.
+SECTION 10. A new chapter to title 6 of the North Dakota Century Code is created and enacted as
+follows:
+Definitions.
+1. "Converted organization" means the banking institution, credit union, or other financial
+institution previously authorized by the commissioner to engage in the business of banking
+under the laws of this state and has been converted into a cooperative financial institution
+under this chapter.
+2. "Member" means a holder of a cooperative financial institution savings, demand, or other
+authorized deposit account.
+3. "Originating member" means an individual who seeks to form a cooperative financial institution
+under this chapter.
+Formation.
+Fifteen or more originating members who intend to associate themselves by written agreement and
+a cooperative financial institution may, upon compliance with this title, become a cooperative financial
+institution, with all the powers and privileges and subject to the duties, restrictions, and liabilities under
+section 6 - 03 - 02 .
+Capital structure.
+A cooperative financial institution formed under this chapter shall have a capital structure the state
+banking board or commissioner determines is adequate. The cooperative financial institution shall
+comply with prompt corrective actions requirements of section 6 - 01 - 04.4. A cooperative financia l
+institution is not authorized to issue capital stock, common stock, preferred stock, or other forms of
+equity ownership authorized by this title for other types of banking associations.
+
+H. B. NO. 1507 - PAGE 9
+Contents of agreement of association.
+1. Before the formation of a cooperative financial institution under this chapter, the originating
+members of the proposed cooperative financial institution shall execute a written agreement of
+association to form a cooperative financial institution. The written agreement of association
+must identify and comply with the capital structure required by the state banking board and
+must specifically state:
+a. That the originating members of the cooperative financial institution intend to associate
+themselves with the intention of forming a cooperative financial institution;
+b. The name of the cooperative financial institution;
+c. The location of the principal office of the cooperative financial institution;
+d. The purposes for which the cooperative financial institution is formed and the nature of
+the business the cooperative financial institution is to conduct; and
+e. The names and addresses of each originating member of the financial institution.
+2. Each originating member shall subscribe to the agreement of association before submission to
+the state banking board.
+Organization certificate - Contents.
+Before formation of a cooperative financial institution under this chapter, originating members who
+wish to associate themselves in a cooperative financial institution shall sign and execute an
+organization certificate on a form prescribed by the commissioner, which must state:
+1. The name of the cooperative financial institution. The name may not be the name of any other
+bank, credit union, or financial intuition previously incorporated within the this state;
+2. The location of the principal office of the cooperative financial institution at which business will
+be conducted;
+3. The names and places of residence of the originating members; and
+4. The respective dates on which the cooperative financial institution will commence business.
+Acknowledgment of organization certificate - Application for certificate of authority - Notice
+of hearing.
+The organization certificate must be notarized. The authenticated certificate must be transmitted to
+the state banking board with a request for permission to present the certificate to the secretary of state,
+with application for the issuance of a certificate of authority, as well as payment of an application fee.
+The commissioner shall establish the application by rule. After receipt of the proposed organization
+certificate, application, and application fee, the board shall publish the application in the official
+newspaper of the county the cooperative financial institution is proposed to be established. The notice
+must contain a statement of a time and place at which the board will hear the application and must
+specify that any individual objecting the application may appear and show cause why the application
+should not be approved.
+Hearing by board - Conclusions - Management - Confidentiality.
+1. At the hearing, the board shall inquire whether the originating members have the character,
+integrity, reputation, and financial standing shown by a detailed financial statement, to
+demonstrate the establishment of the proposed cooperative financial institution will be
+beneficial to the public welfare of the community where the cooperative financial institution will
+
+H. B. NO. 1507 - PAGE 10
+be located. The board shall keep financial statement furnished by the originating members
+confidential.
+2. The board shall inquire into the qualifications of the management of the proposed cooperative
+financial institution, including any experience with financial institutions and other related
+experience. The board shall keep any inquiry into the qualifications of the proposed
+management confidential.
+3. The board shall hear any reasons advanced by the originating members as to why the
+members should be permitted to organize the cooperative financial institution.
+4. At the conclusion of the hearing, the board shall make a statement in writing of its conclusions
+and conditions, if any, and if it finds the proposed cooperative financial institution may not be
+permitted to organize, the board shall state the reasons why. If approval is granted, a copy of
+the board's order must be attached to the organization certificate and both must be presented
+to the secretary of state. A determination to approve the organization of the cooperative
+financial institution must be joined by a majority of all the members of the board.
+Determination of board - Recording of organization certificate.
+1. If the state banking board votes to approve the application to organize a cooperative financial
+institution, the organization certificate and permission of the board must be recorded in the
+county where the cooperative financial institution will be established and must be transmitted
+to the secretary of state.
+2. The secretary of state shall certify the facts to the state banking board and record the
+document in the secretary of state's office. The secretary of state shall issue a certificate of
+authority to the cooperative financial institution.
+3. The secretary of state shall send the certificate to the commissioner. The commissioner may
+not issue the certificate until an examination is made and the certificate of the commissioner
+stating the capital structure as required by the state banking board has been acquired, federal
+deposit insurance corporation insurance of deposits has been secured, and all conditions of
+the law have been complied with strictly.
+4. If the determination of the state banking board is against the organization of the cooperative
+financial institution, the organization certificate may not be recorded in the office of recorder
+and may not be accepted by the secretary of state.
+Conversion to or from a cooperative financial institution.
+1. Any banking institution, credit union, or financial institution authorized by the commissioner to
+engage in the business of banking under the laws of this state, laws of the United States, or
+laws of another state may be converted into a cooperative financial institution.
+2. A cooperative financial institution may convert to a federal savings association by complying
+with the following requirements:
+a. The proposition for conversion must be approved by a majority of the directors of the
+organization that seeks conversion. If approved by a majority of the directors, the
+directors shall set a date for a vote by the members either at a meeting or by written
+ballot to be filed on or before the date. Written notice of the proposition and the date set
+for the vote must be delivered in person to each member or mailed to each member at
+the address for the member appearing on the records of the organization, between seven
+and thirty days before the date. Conversion must be approved by two - thirds of the
+members participating in the vote.
+
+H. B. NO. 1507 - PAGE 11
+b. Each member of the credit union is entitled to one vote during regular or special
+meetings of the membership.
+c. The voting rights for a banking institution or financial institution are determined by
+applicable law.
+d. Forty - five days before consideration of a conversion, the membership or board acting on
+the proposed change must be notified of the bylaw change under consideration and of
+the date and time of the meeting the change will be acted on.
+e. Promptly after the vote is taken, but no more than ninety days after, if the proposition for
+conversion was approved, the organization seeking conversion shall provide the state
+banking board with the results of the vote, verified by the affidavits of the president or
+vice president and secretary.
+f. A cooperative financial institution converting to a federal savings association shall
+provide notice of completion of subdivisions a, b, c, d and e, and may not be subject to
+any other provision of this chapter. The converted cooperative financial institution shall
+provide notice to the state banking board upon commencement of operations as a
+federal savings association, at which time the state charter must be terminated.
+3. If a cooperative financial institution converts to a state-chartered credit union, the institution
+shall:
+a. Obtain federal deposit insurance.
+b. File with the commissioner an organization certificate as required in section 6 - 06 - 02 and
+all other documentation necessary as determined by the commissioner.
+c. Obtain approval from the state credit union board.
+Application for conversion.
+1. A banking institution, credit union, or financial institution may be converted to a cooperative
+financial institution under this chapter through submission of an application, which must
+include:
+a. A statement of the results of the vote to approve the conversion, along with affidavits of
+the president or vice president and secretary;
+b. A completed form, prescribed by the commissioner, requesting an amendment to the
+organization certificate;
+c. A copy of the executed bylaws to establish the cooperative financial institution;
+d. An application fee, as established by the commissioner by rule; and
+e. An affirmation from the organization granting discretionary authority to the commissioner
+to conduct an examination before the conversion date.
+2. The commissioner shall set fees for an examination at an hourly rate sufficient to cover all
+reasonable expenses of the department associated with the examination. Fees must be
+collected by the commissioner, transferred to the state treasurer, and deposited in the financial
+institution regulatory fund.
+3. When the commissioner determines all requirements have been met, the commissioner shall
+notify the applicant and the state banking board. The board shall instruct the secretary of state
+to issue an amended organization certificate for the converted organization to operate as a
+cooperative financial institution. After issuance of the amended organization certificate, the
+
+H. B. NO. 1507 - PAGE 12
+organization becomes a cooperative financial institution and ceases to operate as originally
+organized. The cooperative financial institution is vested with all assets of the prior
+organization and is responsible for all of the obligations of the converted organization to the
+same extent as though the conversion had not taken place.
+Benefit to directors or management.
+1. A director or senior management official of a converted organization may not receive any
+economic benefit in connection with a conversion of the converted organization other than
+reasonable director fees, compensation, and other benefits paid to the directors or senior
+management officials in the ordinary course of business.
+2. For purposes of this section "senior management official" means a chief executive officer, an
+assistant chief executive officer, a chief financial officer, and any other senior executive officer
+as may be defined by the state bank board.
+Adoption of rules.
+The commissioner may adopt rules necessary to carry out the conversion of a banking institution,
+credit union, or other financial institution to or from a cooperative financial institution under this chapter.
+Review by commissioner.
+The commissioner shall review the process for the conversion member vote and procedures
+applicable to the member vote. The commissioner shall report the commissioner's findings to the state
+banking board. If the commissioner or the state banking board disapproves of the methods by which the
+conversion member vote was taken or procedures applicable to the member vote, the member vote
+must be retaken as directed by the commissioner or the state banking board.
+Membership, voting, meetings, and bylaws.
+1. Each member of the cooperative financial institution is entitled to one vote during regular or
+special meetings of the membership.
+2. Voting may be conducted in - person or digital as outlined in the cooperative financia l
+institution's bylaws. Proxy voting is permitted as authorized in the bylaws. A quorum for a
+meeting must be defined in the bylaws.
+3. Changes to a cooperative financial institution's charter or bylaws require a majority vote of the
+membership at an annual or special membership meeting or a two - thirds majority vote of the
+board of directors. Fifteen days before consideration of a bylaw change, the membership or
+board acting upon the proposed change must be made aware of the bylaw change under
+consideration and the day and time of the meeting the change will be acted upon. No
+amendment to the bylaws are effective until reviewed for appropriateness and compliance with
+applicable law and approved by the state banking board.
+4. A cooperative financial institution shall conduct at least one meeting of the membership
+annually. Meetings:
+a. Must be noticed at least fifteen days before the meeting date and include the time, place,
+and agenda for any items considered at the meeting.
+b. May be conducted virtually if permitted within the bylaws.
+5. At the annual meeting the membership shall:
+a. Fill any vacancies on the board of directors as outlined in the bylaws; and
+
+H. B. NO. 1507 - PAGE 13
+b. Review the financial conditions of the cooperative financial institution, financial
+performance since the prior annual meeting, and the projection for the upcoming year.
+6. Special meetings of the membership may be called by the board of directors as outlined in the
+bylaws.
+7. The board of directors:
+a. May exercise powers of the cooperative financial institution not expressly reserved for
+the members.
+b. May not be fewer than five or more than fifteen members as outlined in the bylaws.
+c. Must be elected to terms of one to three years and until their successors are elected, and
+shall serve staggered terms with approximately one - third of the board positions up for
+consideration at any given annual meeting, as outlined in the bylaws.
+d. Must be elected from the membership of the cooperative financial institution, and
+nomination shall be made of any member in good standing and following a nomination
+process as outlined in the bylaws.
+e. Must set the time and place of meetings as outlined in the bylaws, with a minimum of
+twenty - four hours' notice required unless waived by all members of the board .
+f. Shall elect from among the elected board members, officers, including the positions of
+chair, vice chair, treasurer, and recorder, with duties and responsibilities as outlined in the
+bylaws.
+g. Must be independent and the majority of board of directors may not be employees of the
+cooperative financial institution.
+h. Must be made up of at least two members with appropriate banking experience.
+i. Must be made up of at least two-thirds members who are both citizens of the United
+States and North Dakota residents.
+j. May remove a board member as outlined in the bylaws.
+8. The board of directors may terminate membership in a cooperative financial institution for
+cause as outlined in the bylaws.
+SECTION 11. AMENDMENT. Section 6-05-01 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-05-01. Who may form - Corporation has perpetual existence.
+Any number of persons, not less than nine, at least three of whom must be residents of this state,
+may associate themselves and form a corporation for the purpose of transacting business as an
+annuity, safe deposit, and trust company. Its existence shall be perpetual.
+At the time and place stated, and through any sources of information at its command, the board
+shall examine and consider all relevant factors, including whether the place where such company is
+proposed to be located is in need of a further annuity, safe deposit, and trust company, whether the
+proposed institution is adapted to the filling of such need, and whether the proposed incorporators are
+possessed of such character, integrity, reputation, and financial standing as shown by a detailed
+financial statement to be furnished by them, that their connection with the company will be beneficial to
+the public welfare of the community in which such company is proposed to be established. The board
+shall hear any reasons advanced by the applicants why they should be permitted to organize the
+proposed institution and any reasons advanced by any person why such institution should not be
+
+H. B. NO. 1507 - PAGE 14
+permitted to be organized. At the termination of such hearing, the board shall make a brief statement in
+writing of its conclusions, and if it finds that the proposed institution should not be permitted to organize,
+it shall state briefly the reasons why. A copy of such conclusions either shall be endorsed upon or
+attached to the organization certificate, together with the refusal or grant of permission to the proposed
+incorporators to present the said organization certificate to the secretary of state. A determination in
+favor of such organization must be joined in by a majority of the members of the board.
+Any banking association organized under chapter 6-02 or section 10 of this Ac t may apply to the
+board for an order authorizing the applicant to exercise fiduciary powers. If the determination of the
+board is in favor of the applicant, the board shall make its order authorizing the applicant to engage in
+the business of a trust company upon its showing full compliance with sections 6-05-03, 6-05-04, and
+6-05-05 except the capital stock of the banking association shall not be required to be divided in shares
+of one hundred dollars each as provided by section 6-05-03. Sections 6-05-06 and 6-05-07 are not
+applicable to banking associations granted authority to engage in the business of a trust company by
+the board. Thereafter, such banking association must be subject to the jurisdiction of the board as to its
+trust company operations the same as trust companies organized under chapter 6-05.
+Any corporation organized and authorized to transact the business of fidelity insurance and
+corporate suretyship prior to July 1, 1983, pursuant to the former sections 6-05-08 and 6-05-19 through
+6-05-24 and sections 6-05-30 through 6-05-33 may continue to operate under the provisions of those
+sections as they existed on June 30, 1983.
+SECTION 12. AMENDMENT. Section 6-06-35 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-06-35. Conversion from state to federal credit union and from federal to state credit union
+and from state credit union to building and loan associationa cooperative financial institution.
+1. A state credit union may be converted into a federal credit union under the laws of the United
+States by complying with the following requirements:
+a. The proposition for such conversion must first be approved, and a date set for a vote
+thereon by the members either at a meeting to be held on such date or by written ballot
+to be filed on or before such date, by a majority of the directors of the state credit union.
+Written notice of the proposition and of the date set for the vote must then be delivered in
+person to each member or mailed to each member at the address for such member
+appearing on the records of the credit union, not more than thirty nor less than seven
+days prior to such date. Approval of the proposition for conversion must be by the
+affirmative vote of two-thirds of the members present at the meeting.
+b. A statement of the results of the vote, verified by the affidavits of the president or vice
+president and the secretary, must be filed with the state credit union board within ten
+days after the vote is taken.
+c. Promptly after the vote is taken and in no event later than ninety days thereafter, if the
+proposition for conversion was approved by such vote, the credit union shall take such
+action as may be necessary under the applicable federal law to make it a federal credit
+union, and within ten days after receipt of the federal credit union charter there must be
+filed with the state credit union board a copy of the charter thus issued. Upon such filing,
+the credit union must cease to be a state credit union.
+d. Upon ceasing to be a state credit union, such credit union is no longer subject to any of
+the provisions of the North Dakota credit union law. The successor federal credit union is
+vested with all of the assets and shall continue to be responsible for all of the obligations
+of the state credit union to the same extent as though the conversion had not taken
+place.
+
+H. B. NO. 1507 - PAGE 15
+2. a. A federal credit union, organized under the laws of the United States may be converted
+into a state credit union by:
+(1) Complying with all federal requirements requisite to enabling it to convert to a state
+credit union or to cease being a federal credit union;
+(2) Filing with the state credit union board proof of such compliance, satisfactory to the
+commissioner;
+(3) Filing with the commissioner an organization certificate and bylaws, both in
+triplicate, as required by section 6-06-02; and
+(4) Granting discretionary authority to the commissioner to conduct an examination
+prior to the conversion date.
+The commissioner shall set fees for such examination at an hourly rate sufficient to cover
+all reasonable expenses of the department of financial institutions associated with the
+examination. Fees must be collected by the commissioner, transferred to the state
+treasurer, and deposited in the financial institutions regulatory fund.
+b. When the commissioner has been satisfied that all of such requirements and all other
+requirements of the North Dakota law have been complied with, the commissioner shall
+notify the applicants and the state credit union board of that fact, and the board shall
+instruct the secretary of state to issue a charter in accordance with section 6-06-02. Upon
+issuance of the charter, the federal credit union shall become a state credit union and
+ceases to be a federal credit union. The state credit union is vested with all of the assets
+and shall continue to be responsible for all of the obligations of the federal credit union to
+the same extent as though the conversion had not taken place.
+3. After July 31, 2009, a state credit union may convert to a building and loan association by
+complying with the following requirements:
+a. The proposal for a conversion first must be approved and a date set for a vote on the
+proposal by the members either at a meeting to be held on such date or by written ballot
+to be filed on or before such date by a majority of the directors of the credit union.
+Approval of the proposal for the conversion must be by the affirmative vote of two-thirds
+of the members voting.
+b. A state credit union that proposes to convert to a building and loan association shall
+submit notice to each of the credit union's members who are eligible to vote on the matter
+of the credit union's intent to convert:
+(1) Ninety days before the date of the member vote on the conversion;
+(2) Sixty days before the date of the member vote on the conversion; and
+(3) Thirty days before the date of the member vote on the conversion.
+c. A state credit union that proposes to convert to a building and loan association shall
+submit a notice to the state credit union board of the credit union's intent to convert at
+least ninety days before the date of the completion of the conversion.
+d. Upon completion of a conversion, the state credit union is no longer subject to any of the
+provisions of this chapter.
+e. A director or senior management official of a state credit union may not receive any
+economic benefit in connection with a conversion of the state credit union other than
+reasonable director fees and reasonable compensation and other benefits paid to
+directors or senior management officials of the converted institution in the ordinary
+
+H. B. NO. 1507 - PAGE 16
+course of business. As used in this subdivision, the term senior management official
+means a chief executive officer, an assistant chief executive officer, a chief financial
+officer, and any other senior executive officer as may be defined by the state credit union
+board.
+f. Before January 1, 2009, the state credit union board shall adopt rules applicable to state
+credit union conversion to a building and loan association which are consistent with the
+conversion rules of the national credit union administration.
+g. The commissioner shall review the methodology by which the conversion member vote
+was taken and procedures applicable to the member vote. The commissioner shall report
+the commissioner's findings to the state credit union board. If the commissioner or the
+state credit union board disapproves of the methods by which the conversion member
+vote was taken or procedures applicable to the member vote, the member vote must be
+retaken as directed by the commissioner or the state credit union boardA credit union
+may convert to a cooperative financial institution following the procedures outlined in
+section 10 of this Ac t.
+SECTION 13. AMENDMENT. Section 6-07.2-09 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-07.2-09. Payment of claims.
+1. All claims against the institution's estate, proved to the receiver's satisfaction or approved by
+the circuit court, must be paid in the following order:
+a. Administration expenses, including compensation of each regular officer or employee of
+the receiver for the time actually devoted to the liquidation of the institution at an amount
+not to exceed the compensation paid to the officer or employee for the performance of
+the officer's or employee's regular duties; actual expenses of each regular officer and
+employee necessarily incurred in the performance of the officer's or employee's duties;
+compensation and expenses of any special representative, assistant, accountant, agent,
+or attorney employed by the receiver; court costs; and if the commissioner is acting as
+receiver, such reasonable general overhead expenses as may be incurred by the
+commissioner in the liquidation of the affairs of the institution which shall be ascertained,
+determined, and fixed by the commissioner.
+b. Claims given priority under other provisions of state or federal law.
+c. Deposit obligations, except that notwithstanding sections 6-03-67 and 41-04-31, if a
+depositor is indebted to an insolvent bank, the insolvent bank has a right to setoff against
+the depositor's account.
+d. Other general liabilities.
+e. Debt subordinated to the claims of depositors and general creditors.
+f. Equity capital securities.
+g. For credit unions and cooperative financial institutions, pro rata distribution to members
+computed based on the total amount in each member's deposit accounts as of the date
+of liquidation.
+2. Interest on a claim may not be paid until all claims within the same class have received the full
+principal amount of claim.
+SECTION 14. AMENDMENT. Section 6-07.2-19 of the North Dakota Century Code is amended and
+reenacted as follows:
+
+H. B. NO. 1507 - PAGE 17
+6-07.2-19. Voluntary liquidation of a credit union or cooperative financial institution.
+1. A credit union or cooperative financial institution may go into voluntary liquidation following a
+vote of the majority of the board of directors and approval by the majority of its members in
+writing or by a vote in favor of the liquidation by a majority of the members of the credit union
+or cooperative financial institution at a regular meeting of the members or at a special meeting
+called for that purpose.
+a. When authorization for liquidation is to be obtained at a meeting of members:
+(1) Notice in writing must be given to each member at least ten days before the
+meeting and the notice must inform members they have the right to vote on the
+proposed liquidation.
+(2) The minutes of the meeting must show the number of members present and the
+number that voted for and against liquidation.
+b. If approval by a majority of all members of a credit union is not obtained at the meeting of
+members, authorization for voluntary liquidation may be obtained by having a majority of
+members sign a statement in substantially the following form: We the undersigned
+members of the _____ Credit Union, Charter No. _____, hereby request the dissolution
+of our credit union.
+c. If approval by a majority of all members of a cooperative financial institution is not
+obtained at the meeting of members, authorization for voluntary liquidation may be
+obtained by having a majority of members sign a statement in substantially the following
+form: We the undersigned members of the _____ cooperative financial institution,
+Charter No. _____, hereby request the dissolution of our cooperative financial
+institutions.
+2. The board of directors of a credit union or cooperative financial institution in voluntary
+liquidation:
+a. Is responsible for conserving the assets, for expediting the liquidation, and for equitably
+distributing the assets to members.
+b. Shall determine all persons handling or having access to funds of the credit union or
+cooperative financial institution are adequately covered by surety bond.
+c. Shall appoint a custodian for the credit union's or cooperative financial institution's
+records that are to be retained for five years after the charter is canceled.
+d. May appoint a liquidating agent and delegate part or all of these responsibilities to the
+agent and may authorize reasonable compensation for the agent's services. A liquidating
+agent must be adequately bonded for faithful performance of the agent's duties, and the
+coverage must remain in effect or the discovery period extended for at least four months
+after the final distribution of assets.
+3. The supervisory committee, a certified public accountant hired by the supervisory committee,
+or if the bylaws do not establish a supervisory committee, a certified public accountant hired
+by the board of directors, is responsible for making periodic audits of the credit union's or
+cooperative financial institution's records, at least quarterly, during the period of liquidation.
+4. Within three days after the decision of the board of directors to submit the question of
+liquidation to the members, the president shall notify the commissioner and the regional
+director of the national credit union administration or federal deposit insurance corporation as
+appropriate in writing, setting forth in detail:
+a. The reasons for the proposed action;
+
+H. B. NO. 1507 - PAGE 18
+b. The previous month-end balance sheet and income statement; and
+c. A written plan for the liquidation of assets, payment of creditors, and payment of shares
+to be completed within one year of the date of membership approval to liquidate.
+5. Within three days after the action of the members on the question of liquidation, the president
+shall notify the commissioner and the regional director of the national credit union
+administration or federal deposit insurance corporation as appropriate in writing as to whether
+a majority of the members approved the proposed liquidation.
+6. Within ten days of the decision to liquidate by the board of directors, a notice of the decision
+must be handed to each member, electronically distributed, or mailed to the member's last-
+known address to confirm in writing the shares and deposits held by the member in the credit
+union or cooperative financial institution and the loans owed by the member to the credit union
+or cooperative financial institution.
+7. Within ten days of the approval of a majority of the members of a credit union or cooperative
+financial institution of a proposal to liquidate, the board of directors of the credit union or
+cooperative financial institution shall have prepared and mailed to all creditors a notice of
+liquidation containing instructions to present claims to the credit union or cooperative financial
+institution within ninety days for payment. New creditor claims subsequent to this notice which
+are necessary for the continued operation of the credit union during liquidation must continue
+to be paid upon authorization of the board of directors or liquidating agent.
+8. Immediately upon the decision of the membership to liquidate, the credit union or cooperative
+financial institution may continue to do all things under the original corporate name of the
+institution, to sue and be sued, to execute conveyances and other instruments, to take, hold,
+and own property, and to do all other things as may be necessary to realize upon the
+institution's remaining assets for the benefit of the institution's members, but not to engage or
+continue in any new or other business under the institution's charter or otherwise. At the
+discretion of the board of directors or the liquidating agent, transactions upon membership
+transactional accounts may continue to be honored up to the federal insurance limit until the
+accounts are sold or otherwise liquidated.
+9. At the commencement of voluntary liquidation of a credit union or cooperative financial
+institution, the treasurer or agent conducting the liquidation shall file with the commissioner a
+financial and statistical report and a schedule showing the name, book number or account
+number, share balance, and loan balance of each member.
+10. Credit unions or cooperative financial institution in the process of voluntary liquidation shall file
+with the commissioner a financial and statistical report as of December thirty-first or within
+thirty days after such date. Additional reports, as determined by the commissioner to be
+necessary, must be furnished promptly on written request.
+11. When deemed advisable by the commissioner, an examination of the books and records of a
+credit union or cooperative financial institution may be made before, during, or following
+completion of voluntary liquidation. The commissioner shall set fees for the examination at an
+hourly rate sufficient to cover all reasonable expenses of the department of financial
+institutions associated with the examination. Fees must be collected by the commissioner and
+deposited in the financial institutions regulatory fund.
+12. If at any time during the liquidation of credit union assets or cooperative financial institution, it
+is found the value of remaining assets will not be sufficient to cover the claims of creditors and
+shareholders, the board of directors or, if appointed, the liquidating agent shall immediately
+notify the commissioner and the regional director of the national credit union administration or
+federal deposit insurance corporation as appropriate. Further liquidation of credit union or
+cooperative financial institution assets or distributions to shareholders after notice requires
+written approval from the commissioner.
+
+H. B. NO. 1507 - PAGE 19
+13. With the written approval of the commissioner, a partial distribution of the credit union's or
+cooperative financial institution's assets may be made to its members from cash funds
+available on authorization by its board of directors or by a duly authorized liquidating agent
+whose appointment specifically includes the authority. Partial distributions cannot exceed the
+national credit union share insurance limit.
+14. When all assets of the credit union or cooperative financial institution have been converted to
+cash or found to be worthless and all loans and debts owing to it have been collected, sold, or
+found to be uncollectible and all obligations of the credit union or cooperative financial
+institution have been paid, with the exception of amounts due its members:
+a. The books must be closed and the pro rata distribution to members computed. This
+computation must be based on the total amount in each member's share accounts as of
+the date the board of directors voted to voluntarily liquidate.
+b. The amount of gain or loss must be entered in each member's share account and should
+be entered in the member's passbook or statement of account.
+c. Promptly, funds must be distributed to each member. The funds must be mailed to such
+members at their last-known addresses, electronically transmitted to the members
+designated account, or handed to them in person.
+d. The passbooks or written confirmations submitted by members to verify balances must
+be retained with the credit union or cooperative financial institution records.
+e. Unclaimed share accounts subject to the escheat or abandoned property laws of the
+state or the state of the members' residence must be paid to the state as required by
+such laws.
+f. The commissioner must be promptly notified of the date final distribution of assets to the
+members is started.
+g. In the event of a loss on members share accounts, a claim must be submitted by the
+board of directors or the liquidating agent if appointed, to the national credit union
+administration or federal deposit insurance corporation as appropriate, private share
+insurance if available, and bonding company.
+15. Within one hundred twenty days after the final distribution to members is started, the credit
+union or cooperative financial institution shall furnish to the commissioner's office a schedule
+of unpaid claims. The board of directors of the credit union or cooperative financial institution
+or the liquidating agent if appointed shall report money in the account of a member who failed
+to surrender their passbooks or confirm their balances, final distribution checks not cashed
+within one hundred twenty days, and any unpaid claims to the unclaimed property division of
+the board of university and school lands pursuant to chapter 47-30.2.
+SECTION 15. AMENDMENT. Section 6-08-08.1 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-08-08.1. Sale or purchase of associations, banking institutions, or holding companies -
+Notification to commissioner - Hearing.
+1. No person, acting directly or indirectly or through or in concert with one or more other persons,
+may purchase or otherwise acquire control of an association or banking institution unless the
+state banking board or commissioner has been given prior written notice by application of the
+proposed disposition or acquisition. The written application must include such information as
+the state banking board shall specify. The transaction may not be consummated before the
+board or commissioner has granted approval.
+
+H. B. NO. 1507 - PAGE 20
+2. The applicant shall publish notice of the application as required by the board by rule.
+3. The commissioner shall determine if the application is complete and notify the applicant of the
+determination. If the commissioner determines the application is incomplete, the commissioner
+shall request additional information deemed necessary to complete the application.
+4. If not approved by the commissioner, the commissioner shall submit the application to the
+board. The board may approve or disapprove the application if the board determines that:
+a. The character, reputation, general fitness, financial standing, and responsibility of the
+persons proposed as new stockholders, directors, or officers is such that the interests of
+the other stockholders, depositors, and creditors of the institution and the public generally
+will be jeopardized by the change in control and management.
+b. The qualifications of management do not include adequate experience with financial
+institutions or other approved related experience.
+5. Within three business days after the board's decision to disapprove an application, the board
+shall notify the applicant in writing of the disapproval. The notice must provide a statement of
+the basis for the disapproval.
+6. Within twenty days after receipt of the notice of disapproval, the applicant may request a
+hearing on the disapproval. The board must conduct a hearing, if requested, under the
+provisions of chapter 28-32. At the conclusion of the hearing, the board shall by order approve
+or disapprove the application on the basis of the record at the hearing.
+7. For purposes of this section, "control" means ownership or control, directly, indirectly, or
+through the actions of one or more persons of the power to vote twenty-five percent or more of
+any class of voting securities of an association, banking institution, controlling bank holding
+company, or the direct or indirect power to control in any manner the election of a majority of
+the directors of an association or banking institution, or to direct the management or policies of
+an association or banking institution, whether by individuals, corporations, limited liability
+companies, partnerships, trusts, or other entities or organizations of any type.
+8. The following acquisitions of voting securities of a North Dakota state chartered bank, which
+would otherwise require submission of an application under this section, are not subject to the
+application requirements if the acquiring person notifies the commissioner within ninety days
+after the acquisition and provides any relevant information requested by the commissioner:
+acquisition of voting securities through inheritance; acquisition of voting securities as a bona
+fide gift; and acquisition of voting securities in satisfaction of a debt previously contracted in
+good faith. This subsection does not limit the authority of the commissioner to require a party
+to submit a written application to the board under subsection 1.
+9. This section does not apply to a cooperative financial institution.
+
+H. B. NO. 1507 - PAGE 21
+____________________________ ____________________________
+Speaker of the House President of the Senate
+____________________________ ____________________________
+Chief Clerk of the House Secretary of the Senate
+This certifies that the within bill originated in the House of Representatives of the Sixty-ninth Legislative
+Assembly of North Dakota and is known on the records of that body as House Bill No. 1507.
+House Vote: Yeas 87 Nays 3 Absent 4
+Senate Vote: Yeas 44 Nays 0 Absent 3
+____________________________
+Chief Clerk of the House
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+____________________________
+Governor
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+____________________________
+Secretary of State
+
+[DELETED: f ."d ur te ls of ts se cg se bg a, ad a.".".", ig d, ts c, ad sr i, hg ad m."."."."."."]
+[DELETED: ."."."."."."."."l i" ms ay b, il ln c, or ss ad l."."."l it c" or "l ss c" ms a c."."."t s ."."]
+[DELETED: .N.F.F.A.N.A.A.A.A.F.A.A.A]
+[DELETED: .A.A.F.A.A.A.A.T.T.A.A]
+[DELETED: .H.M.S.E.P T.P.Ey to cy on te bs of b, ig dg ad n]
+[DELETED: .Er io c, ir o, ad gy t pm al as ny os or to tr d, c, s, c, r, o.Sl dt ie cn ad to cy wh te ll rs a.Ts .Ef il ad il cs ad to pe po it a, i, f, ad rh ss to sh cs i.E.Ie it cy or it tt rd ur te Fl I.A]
+[DELETED: .B.V.V)Tr mt be m b t ae v of ts of te m)E) )P.T.Is ad ls of te cd bg i, mt be me to t.A.Al is ad wh te e. Fs mt be cd by t]
+[DELETED: . ."d o" ms te bg i, ct u, or or f."."]
+[DELETED: .B.T.T.T.T.T.Eh to ae ts in a ce fl in sl sn ad ee a.T.T.T.T.A, ,  f sn  a d s te te et of te pd ce fl in wl b]
+[DELETED: .T. Te bd sl kp ay iy io te qs of te p.T.A.I.T.T.I.A.A.T]
+[DELETED: .E.T. .P.As .I.O. .O.A.A.A.A.A.A.T.W]
+[DELETED: . Te ce fl in is vd wh al as of te p.A.F.E. g my be cd in or dl as od in te ce f.C.A.M.M.A.F]
+[DELETED: .Rw te fl cs of te ce fl i, f.S.T.M.M.M.M.M.S.M.M.M.M.T]
+[DELETED: .A.T.A.P.U]
+[DELETED: .a.A)C)F)Fg wh te cr an on ce ad b, bh i)G.W.A.T.A)N)S)T.A.U.A a fs r s ]
+[DELETED: .B.T.A.A.C.D.O.D.E.F.I]
+[DELETED: .A.W)N)T.I.I Ws f  _r N. _, hy rt te dn of or ce f.Tn  i.I.S.Ss .M.T.W.T]
+[DELETED: .T.A.Wl ny te cr ad te rl dr of te nl ct u.W.W on  s.I.An .C.Wn  my re st to cr al re es of te dt of f.I Fn  a]
+[DELETED: .W a.Wn .T T.T.Ps t tr n a,  td  te .T.U.T.In .Ws .N]
+[DELETED: .T.T.I.T.T.W.W.F.T.T]
+[DELETED: __eP__eS:Y7N3A:Y4N0A]

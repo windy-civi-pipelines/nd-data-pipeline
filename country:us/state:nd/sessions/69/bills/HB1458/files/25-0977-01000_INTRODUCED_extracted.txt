@@ -1,0 +1,73 @@
+Title: HOUSE BILL NO. 1458
+Official Title: HOUSE BILL NO. 1458
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+25.0977.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Henderson, Schatz, Wolff, Maki, Morton, Rios, Frelich, VanWinkle
+Senator Magrum
+1 A BILL for an Act to create and enact a new section to chapter 23-12 of the North Dakota
+2 Century Code, relating to releasing a self-spreading virus; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 23-12 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Releasing a self-spreading virus - Written consent required.
+7 1. As used in this section:
+8 a. "Release" means any act that results in the actual or potential infection or
+9 transmission of, or exposure to, a self-spreading virus or bacteria.
+10 b. "Self-spreading virus or bacteria" means any engineered virus or bacteria,
+11 including any recombinant, attenuated or modified version of any virus or
+12 bacteria, or particles or substance similar to any virus or bacteria, capable of
+13 spreading from individual to individual.
+14 2. A person may not develop, release, or take part in causing the release of any self-
+15 spreading virus or bacteria without the express written consent of each individual that
+16 may potentially be exposed to the self-spreading virus or bacteria.
+17 3. Any person may bring an action to enjoin any violation of this section and to recover
+18 actual monetary loss or five thousand dollars for each violation of this section,
+19 whichever is greater.
+Page No. 1 25.0977.01000
+[DELETED: .A.".".A.A12]
+
+
+================================================================================
+
+Raw Text:
+25.0977.01000
+Sixty-ninth
+HOUSE BILL NO. 1458
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Henderson, Schatz, Wolff, Maki, Morton, Rios, Frelich, VanWinkle
+Senator Magrum
+1 A BILL for an Act to create and enact a new section to chapter 23-12 of the North Dakota
+2 Century Code, relating to releasing a self-spreading virus; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 23-12 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Releasing a self-spreading virus - Written consent required.
+7 1. As used in this section:
+8 a. "Release" means any act that results in the actual or potential infection or
+9 transmission of, or exposure to, a self-spreading virus or bacteria.
+10 b. "Self-spreading virus or bacteria" means any engineered virus or bacteria,
+11 including any recombinant, attenuated or modified version of any virus or
+12 bacteria, or particles or substance similar to any virus or bacteria, capable of
+13 spreading from individual to individual.
+14 2. A person may not develop, release, or take part in causing the release of any self-
+15 spreading virus or bacteria without the express written consent of each individual that
+16 may potentially be exposed to the self-spreading virus or bacteria.
+17 3. Any person may bring an action to enjoin any violation of this section and to recover
+18 actual monetary loss or five thousand dollars for each violation of this section,
+19 whichever is greater.
+Page No. 1 25.0977.01000
+
+[DELETED: .A.".".A.A12]

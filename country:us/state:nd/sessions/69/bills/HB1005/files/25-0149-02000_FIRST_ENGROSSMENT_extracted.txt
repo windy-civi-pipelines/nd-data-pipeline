@@ -1,0 +1,1072 @@
+Title: ENGROSSED HOUSE BILL NO. 1005
+Official Title: ENGROSSED HOUSE BILL NO. 1005
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+25.0149.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the state treasurer;
+2 to amend and reenact subsection 15 of section 6-07.2-19, sections 10-15-49, 47-30.2-01, and
+3 47-30.2-03, subdivision j of subsection 1 of section 47-30.2-22, subsection 4 of section
+4 47-30.2-23, subsection 1 of section 47-30.2-24, subdivision b of subsection 3 of section
+5 47-30.2-28, section 47-30.2-44, subsection 2 of section 47-30.2-46, subdivision c of
+6 subsection 2 of section 47-30.2-50, section 47-30.2-53, subsection 1 of section 47-30.2-56,
+7 subsection 2 of section 47-30.2-57, sections 47-30.2-64 and 47-30.2-66, subsection 4 of section
+8 47-30.2-67, section 47-30.2-75, sections 54-11-13 and 54-27-15.1, subsection 6 of section
+9 57-38-57, and subsections 3 and 8 of section 57-39.2-23 of the North Dakota Century Code,
+10 relating to the transfer of unclaimed property administration from the commissioner of university
+11 and school lands to the state treasurer and the salary of the state treasurer.
+12 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+13 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+14 as may be necessary, are appropriated out of any moneys in the general fund in the state
+15 treasury, not otherwise appropriated, to the state treasurer for the purpose of defraying the
+16 expenses of the state treasurer, for the biennium beginning July 1, 2025, and ending June 30,
+17 2027, as follows:
+18 Adjustments or
+19 Base Level Enhancements Appropriation
+20 Salaries and wages $1,605,584 $975,431 $2,581,015
+21 New and vacant FTE pool 0 54,672 54,672
+22 Operating expenses 265,346 804,258 1,069,604
+Page No. 1 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 Coal severance payments 118,000 4,000 122,000
+2 Carbon dioxide pipeline payments 0 2,000,000 2,000,000
+3 Total all funds $1,988,930 $3,838,361 $5,827,291
+4 Total special funds 0 1,711,352 1,711,352
+5 Total general fund $1,988,930 $2,127,009 $4,115,939
+6 Full-time equivalent positions 7.00 4.00 11.00
+7 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+8 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+9 items included in the appropriation in section 1 of this Act which are not included in the entity's
+10 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+11 committees of the seventieth legislative assembly regarding the use of this funding:
+12 One-Time Funding Description General Fund Other Funds Total
+13 Information technology projects $0 $110,000 $110,000
+14 Office furniture or equipment 0 8,000 8,000
+15 Total $0 $118,000 $118,000
+16 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+17 state treasurer may not spend funds appropriated in the new and vacant FTE pool line item in
+18 section 1 of this Act, but may request the office of management and budget to transfer funds
+19 from the new and vacant FTE pool line item to the salaries and wages line item in accordance
+20 with the guidelines and reporting provisions included in House Bill No. 1015, as approved by the
+21 sixty-ninth legislative assembly.
+22 SECTION 4. SPECIAL FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS
+23 FUND - OFFICE AND INFORMATION TECHNOLOGY PROJECTS. The sum of $110,000
+24 included in the other funds line item in section 1 of this Act and identified as one-time funding in
+25 section 2 of this Act is from the strategic investment and improvements fund for information
+26 technology projects.
+27 SECTION 5. AMENDMENT. Subsection 15 of section 6-07.2-19 of the North Dakota
+28 Century Code is amended and reenacted as follows:
+29 15. Within one hundred twenty days after the final distribution to members is started, the
+30 credit union shall furnish to the commissioner's office a schedule of unpaid claims. The
+31 board of directors of the credit union or the liquidating agent if appointed shall report
+Page No. 2 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 money in the account of a member who failed to surrender their passbooks or confirm
+2 their balances, final distribution checks not cashed within one hundred twenty days,
+3 and any unpaid claims to the unclaimed property division of the board of university and
+4 school lands pursuant toadministrator under chapter 47-30.2.
+5 SECTION 6. AMENDMENT. Section 10-15-49 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 10-15-49. Amounts due unknown persons.
+8 Upon liquidation of a cooperative, the assets distributable to persons who are unknown or
+9 cannot be found may be reduced to cash and transferred to the commissioner of university and
+10 school landsunclaimed property administrator and shall be treated as abandoned and
+11 unclaimed property under the escheat and abandoned property laws of the state.
+12 SECTION 7. AMENDMENT. Section 47-30.2-01 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 47-30.2-01. (102) Definitions.
+15 As used in this chapter:
+16 1. "Administrator" means the administrator of the state abandoned property office under
+17 the state treasurer.
+18 2. "Administrator's agent" means a person with which the commissionerstate treasurer
+19 contracts to conduct an examination under sections 47-30.2-54, 47-30.2-55,
+20 47-30.2-56, 47-30.2-57, 47-30.2-58, 47-30.2-59, 47-30.2-60, 47-30.2-61, and
+21 47-30.2-62 on behalf of the administrator. The term includes an independent
+22 contractor of the person and each individual participating in the examination on behalf
+23 of the person or contractor.
+24 3. "Apparent owner" means a person whose name appears on the records of a holder as
+25 the owner of property held, issued, or owing by the holder.
+26 4. "Board" means the board of university and school lands.
+27 5. "Business association" means a corporation, joint stock company, investment
+28 company, partnership, unincorporated association, joint venture, limited liability
+29 company, business trust, trust company, land bank, safe deposit company,
+30 safekeeping depository, financial organization, insurance company, federally chartered
+31 entity, utility, sole proprietorship, or other business entity, whether or not for profit.
+Page No. 3 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 6.5. "Cashier's check" means a check that:
+2 a. Is purchased by a remitter and made payable to a designated payee;
+3 b. Is signed by an officer or employee of the financial organization;
+4 c. Authorizes payment of the amount shown on the check's face to the payee;
+5 d. Is a direct obligation of the financial organization; and
+6 e. Is provided to a customer of the financial institution or acquired from the financial
+7 institution for remittance purposes.
+8 7. "Commissioner" means the commissioner of university and school lands.
+9 8.6. "Confidential record" has the same meaning as defined in section 44-04-17.1.
+10 9. "Department" means the department of trust lands.
+11 10.7. "Domicile" means:
+12 a. For a corporation, the state of its incorporation;
+13 b. For a business association whose formation requires a filing with a state, other
+14 than a corporation, the state of its filing;
+15 c. For a federally chartered entity, the state of its home office; and
+16 d. For any other holder, the state of its principal place of business.
+17 11.8. "Electronic" means relating to technology having electrical, digital, magnetic, wireless,
+18 optical, electromagnetic, or similar capabilities.
+19 12.9. "Electronic mail" means a communication by electronic means, together with
+20 attachments, which is automatically retained and stored and may be readily accessed
+21 or retrieved.
+22 13.10. "Financial organization" means a savings and loan association, building and loan
+23 association, savings bank, industrial bank, bank, banking organization, private banker,
+24 trust company, credit union, or an organization defined as a bank or banking
+25 organization under the laws of this state or of the United States.
+26 14.11. "Game-related digital content" means digital content that exists only in an electronic
+27 game or electronic-game platform.
+28 a. The term includes:
+29 (1) Game-play currency such as a virtual wallet, even if denominated in United
+30 States currency; and
+Page No. 4 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 (2) The following if for use or redemption only within the game or platform or
+2 another electronic game or electronic-game platform:
+3 (a) Points sometimes referred to as gems, tokens, gold, and similar
+4 names; and
+5 (b) Digital codes; and
+6 b. The term does not include an item that the issuer:
+7 (1) Permits to be redeemed for use outside a game or platform for:
+8 (a) Money; or
+9 (b) Goods or services that have more than minimal value; or
+10 (2) Otherwise monetizes for use outside a game or platform.
+11 15.12. "Gift card" means a record that:
+12 a. Is usable at:
+13 (1) A single merchant; or
+14 (2) A specified group of merchants;
+15 b. Is prefunded before the record is used; and
+16 c. Can be used for purchases of goods or services.
+17 16.13. "Holder" means a person obligated to hold for the account of, or to deliver or pay to,
+18 the owner, property subject to this chapter.
+19 17.14. "Insurance company" has the same meaning as defined in section 26.1-02-01, and
+20 also includes a benevolent society, nonprofit health service corporation, and a health
+21 maintenance organization.
+22 18.15. "Loyalty card" means a record given without monetary consideration under an award,
+23 reward, benefit, loyalty, incentive, rebate, or promotional program which may be used
+24 or redeemed only to obtain goods or services or a discount on goods or services. The
+25 term does not include a record that may be redeemed for money or otherwise
+26 monetized by the issuer.
+27 19.16. "Mineral proceeds" means an obligation:
+28 a. To pay resulting from the production and sale of minerals, including net revenue
+29 interest, royalties, overriding royalties, production payments, and joint operating
+30 agreements; or
+Page No. 5 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 b. For the acquisition and retention of a mineral lease, including bonuses, delay
+2 rentals, shut-in royalties, and minimum royalties.
+3 20.17. "Money order" means a payment order for a specified amount of money. The term
+4 includes an express money order and a personal money order on which the remitter is
+5 the purchaser.
+6 21.18. "Municipal bond" means a bond or evidence of indebtedness issued by a municipality
+7 or other political subdivision of a state.
+8 22.19. "Net card value" means the original purchase price or original issued value of a stored-
+9 value card, plus amounts added to the original price or value, minus amounts used
+10 and any service charge, fee, or dormancy charge permitted by law.
+11 23.20. "Non-freely transferable security" means a security that cannot be delivered to the
+12 administrator by the depository trust clearing corporation or similar custodian of
+13 securities providing post-trade clearing and settlement services to financial markets or
+14 cannot be delivered because there is no agent to effect transfer. The term includes a
+15 worthless security.
+16 24.21. "Owner" means a person that has a legal, beneficial, or equitable interest in property
+17 subject to this chapter or the person's legal representative when acting on behalf of
+18 and in the best interest of the owner. The term includes:
+19 a. A depositor, for a deposit;
+20 b. A beneficiary, for a trust other than a deposit in trust;
+21 c. A creditor, claimant, or payee, for other property; and
+22 d. The lawful bearer of a record that may be used to obtain money, a reward, or a
+23 thing of value.
+24 25.22. "Payroll card" means a record that evidences a payroll-card account that is directly or
+25 indirectly established through an employer and to which electronic fund transfers of
+26 the consumer's wages, salary, or other employee compensation, such as
+27 commissions, are made on a recurring basis, whether the account is operated or
+28 managed by the employer, a third-party payroll processor, a depository institution, or
+29 any other person.
+Page No. 6 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 26.23. "Person" means an individual, estate, business association, public corporation,
+2 government or governmental subdivision, agency, or instrumentality, or other legal
+3 entity.
+4 27.24. "Property" means tangible property described in section 47-30.2-08 or a fixed and
+5 certain interest in intangible property held, issued, or owed in the course of a holder's
+6 business or by a government, governmental subdivision, agency, or instrumentality.
+7 a. The term includes:
+8 (1) All income from or increments to the property; and
+9 (2) Property referred to as or evidenced by:
+10 (a) Money, virtual currency, interest, or a dividend, check, draft, deposit,
+11 or payroll card;
+12 (b) A credit balance, customer's overpayment, stored-value card, security
+13 deposit, refund, credit memorandum, unpaid wage, unused ticket for
+14 which the issuer has an obligation to provide a refund, mineral
+15 proceeds, or unidentified remittance;
+16 (c) A security except for:
+17 [1] A worthless security; or
+18 [2] A security that is subject to a lien, legal hold, or restriction
+19 evidenced on the records of the holder or imposed by operation
+20 of law, if the lien, legal hold, or restriction restricts the holder's or
+21 owner's ability to receive, transfer, sell, or otherwise negotiate
+22 the security;
+23 (d) A bond, debenture, note, or other evidence of indebtedness;
+24 (e) Money deposited to redeem a security, make a distribution, or pay a
+25 dividend;
+26 (f) An amount due and payable under an annuity contract or insurance
+27 policy;
+28 (g) An amount distributable from a trust or custodial fund established
+29 under a plan to provide health, welfare, pension, vacation, severance,
+30 retirement, death, stock purchase, profit-sharing, employee-savings,
+31 supplemental-unemployment insurance, or a similar benefit;
+Page No. 7 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 (h) Intangible property and any income or increment derived from the
+2 intangible property held in a fiduciary capacity for the benefit of
+3 another person;
+4 (i) Mineral proceeds; and
+5 (j) An in-store credit for returned merchandise.
+6 b. The term does not include:
+7 (1) Property held in a plan described in section 529A of the Internal Revenue
+8 Code, as amended, [26 U.S.C. 529A];
+9 (2) Game-related digital content;
+10 (3) A loyalty card; or
+11 (4) A gift card.
+12 28.25. "Putative holder" means a person believed by the administrator to be a holder, until the
+13 person pays or delivers to the administrator property subject to this chapter or the
+14 administrator or a court makes a final determination that the person is or is not a
+15 holder.
+16 29.26. "Record" has the same meaning as defined in section 44-04-17.1.
+17 30.27. "Security" means:
+18 a. A security as defined in section 41-08-02;
+19 b. A security entitlement as defined in section 41-08-02, including a customer
+20 security account held by a registered broker-dealer, to the extent the financial
+21 assets held in the security account are not:
+22 (1) Registered on the books of the issuer in the name of the person for which
+23 the broker-dealer holds the assets;
+24 (2) Payable to the order of the person; or
+25 (3) Specifically indorsed to the person; or
+26 c. An equity interest in a business association not included in subdivision a or b.
+27 31.28. "Sign" means, with present intent to authenticate or adopt a record:
+28 a. To execute or adopt a tangible symbol; or
+29 b. To attach to or logically associate with the record an electronic symbol, sound, or
+30 process.
+Page No. 8 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 32.29. "State" means a state of the United States, the District of Columbia, the
+2 Commonwealth of Puerto Rico, the United States Virgin Islands, or any territory or
+3 insular possession subject to the jurisdiction of the United States.
+4 33.30. "Stored-value card" means a card, code, or other device, including a merchandise
+5 credit or rebate card, which is:
+6 a. Issued on a prepaid basis primarily for personal, family, or household purposes to
+7 a consumer in a specified amount, whether or not that amount may be increased
+8 or reloaded in exchange for payment;
+9 b. Redeemable upon presentation at multiple unaffiliated merchants for goods or
+10 services or usable at automated teller machines; and
+11 c. Not a gift card, payroll card, loyalty card, or game-related digital content.
+12 34.31. "Utility" means a person that owns or operates for public use a plant, equipment, real
+13 property, franchise, or license for the following public services:
+14 a. Transmission of communications or information;
+15 b. Production, storage, transmission, sale, delivery, or furnishing of electricity, water,
+16 steam, or gas; or
+17 c. Provision of sewage or septic services, or trash, garbage, or recycling disposal.
+18 35.32. "Virtual currency" means a digital representation of value used as a medium of
+19 exchange, unit of account, or store of value, which does not have legal tender status
+20 recognized by the United States. The term does not include:
+21 a. The software or protocols governing the transfer of the digital representation of
+22 value;
+23 b. Game-related digital content; or
+24 c. A loyalty card or gift card.
+25 36.33. "Worthless security" means a security whose cost of liquidation and delivery to the
+26 administrator would exceed the value of the security on the date a report is due under
+27 this chapter.
+28 SECTION 8. AMENDMENT. Section 47-30.2-03 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+30 47-30.2-03. (104) Rulemaking.
+31 The commissionerstate treasurer may adopt rules to implement and administer this chapter.
+Page No. 9 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 9. AMENDMENT. Subdivision j of subsection 1 of section 47-30.2-22 of the North
+2 Dakota Century Code is amended and reenacted as follows:
+3 j. Contain other information the commissionerstate treasurer prescribes by rules.
+4 SECTION 10. AMENDMENT. Subsection 4 of section 47-30.2-23 of the North Dakota
+5 Century Code is amended and reenacted as follows:
+6 4. The commissionerstate treasurer may grant an extension of the reporting date for
+7 good cause in the event of a national or state emergency.
+8 SECTION 11. AMENDMENT. Subsection 1 of section 47-30.2-24 of the North Dakota
+9 Century Code is amended and reenacted as follows:
+10 1. A holder required to file a report under section 47-30.2-21 shall retain records for ten
+11 years after the later of the date the report was filed or the last date a timely report was
+12 due to be filed, unless a shorter period is provided by rule of the commissionerstate
+13 treasurer.
+14 SECTION 12. AMENDMENT. Subdivision b of subsection 3 of section 47-30.2-28 of the
+15 North Dakota Century Code is amended and reenacted as follows:
+16 b. Maintain a website or database accessible by the public and electronically
+17 searchable which contains the names reported to the administrator of apparent
+18 owners for whom property that meets or exceeds the searchable value as set by
+19 the commissionerstate treasurer is being held by the administrator. Property that
+20 does not meet or exceed the searchable value must continue to be held by the
+21 administrator but may not appear in the searchable website or database.
+22 SECTION 13. AMENDMENT. Section 47-30.2-44 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 47-30.2-44. (801) Deposit of funds by administrator.
+25 1. Except as otherwise provided in this section, the departmentstate treasurer shall
+26 deposit to the credit of the common schools trust fund all funds received under this
+27 chapter, including proceeds from the sale of property under sections 47-30.2-40,
+28 47-30.2-41, 47-30.2-42, and 47-30.2-43.
+29 2. The departmentstate treasurer shall maintain an account with an amount of funds the
+30 commissionerstate treasurer reasonably estimates is sufficient to pay claims allowed
+31 under this chapter.
+Page No. 10 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 14. AMENDMENT. Subsection 2 of section 47-30.2-46 of the North Dakota
+2 Century Code is amended and reenacted as follows:
+3 2. There is appropriated annually theThe amounts necessary are appropriated to the
+4 state treasurer on a continuing basis to pay all expense deductions under this section,
+5 including:
+6 a. Any costs in connection with the sale of abandoned property;
+7 b. Costs of mailing, publication, and outreach efforts in connection with any
+8 abandoned property;
+9 c. Reasonable service charges;
+10 d. Costs incurred in examining records of holders of property and in collecting the
+11 property from those holders;
+12 e. Funds for the payment of claims;
+13 f. Funds for the payment of holder refunds; and
+14 g. Funds for attorney's fees and all other reasonable costs and expenses incurred in
+15 an action or suit.
+16 SECTION 15. AMENDMENT. Subdivision c of subsection 2 of section 47-30.2-50 of the
+17 North Dakota Century Code is amended and reenacted as follows:
+18 c. The property has a value as provided by rules adopted by the commissionerstate
+19 treasurer.
+20 SECTION 16. AMENDMENT. Section 47-30.2-53 of the North Dakota Century Code is
+21 amended and reenacted as follows:
+22 47-30.2-53. (906) Action by person whose claim is denied.
+23 Not later than one hundred eighty days after filing a claim under subsection 1 of section
+24 47-30.2-50, the claimant may commence an action against the boardstate treasurer in the
+25 Burleigh County district court to establish a claim that has been denied or deemed denied under
+26 section 47-30.2-50. If the boardstate treasurer is successful in a proceeding brought under this
+27 section, the district court shall allow the boardstate treasurer to recover court costs; reasonable
+28 costs, fees, disbursements, and expenses incurred by the boardstate treasurer in the
+29 proceeding; and reasonable attorney's fees.
+30 SECTION 17. AMENDMENT. Subsection 1 of section 47-30.2-56 of the North Dakota
+31 Century Code is amended and reenacted as follows:
+Page No. 11 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 1. The commissionerstate treasurer shall adopt rules governing an examination under
+2 section 47-30.2-55, including rules for use of an estimation, extrapolation, and
+3 statistical sampling in conducting an examination. An examination commenced after
+4 adoption of rules under this subsection must comply with the rules.
+5 SECTION 18. AMENDMENT. Subsection 2 of section 47-30.2-57 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 2. The records subject to subsection 1:
+8 a. May be used by the boardstate treasurer in an action to collect property or
+9 otherwise enforce this chapter;
+10 b. May be used in a joint examination conducted with or pursuant to agreements
+11 with other states, the federal government, or other governmental entities;
+12 c. May be disclosed at the discretion of the commissionerstate treasurer, on
+13 request, to the person that administers the unclaimed property law of another
+14 state for that state's use in circumstances equivalent to circumstances described
+15 in sections 47-30.2-54, 47-30.2-55, 47-30.2-56, 47-30.2-57, 47-30.2-58,
+16 47-30.2-59, 47-30.2-60, 47-30.2-61, and 47-30.2-62. A state to which information
+17 is disclosed shall maintain the confidentiality and security of information obtained
+18 in a manner substantially equivalent to sections 47-30.2-71, 47-30.2-72, and
+19 47-30.2-73;
+20 d. May be required to be produced under section 44-04-18.11; and
+21 e. May be required to be produced by the administrator on request of the person
+22 subject to the examination in an administrative or judicial proceeding relating to
+23 the property.
+24 SECTION 19. AMENDMENT. Section 47-30.2-64 of the North Dakota Century Code is
+25 amended and reenacted as follows:
+26 47-30.2-64. (1203) Action involving another state or foreign country.
+27 1. The administrator may join another state or foreign country to examine and seek
+28 enforcement of this chapter against a putative holder.
+29 2. The boardstate treasurer may pursue an action on behalf of this state to recover
+30 property subject to this chapter but delivered to the custody of another state if the
+31 administrator believes the property is subject to the custody of the administrator.
+Page No. 12 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 3. The boardstate treasurer may retain an attorney in this state, another state, or a
+2 foreign country to commence an action to recover property on behalf of the boardstate
+3 treasurer and may agree to pay attorney's fees based in whole or in part on a fixed
+4 fee, hourly fee, or a percentage of the amount or value of property recovered in the
+5 action.
+6 4. Expenses incurred by this state in an action under this section must be paid in
+7 accordance with section 47-30.2-46.
+8 SECTION 20. AMENDMENT. Section 47-30.2-66 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 47-30.2-66. (1205) Other civil penalties.
+11 1. If a holder enters into a contract or other arrangement for the purpose of evading an
+12 obligation under this chapter or otherwise willfully fails to perform a duty imposed on
+13 the holder under this chapter, the commissionerstate treasurer may require the holder
+14 to pay the administrator, in addition to interest as provided in subsection 1 of section
+15 47-30.2-65, a civil penalty of one thousand dollars for each day the obligation is
+16 evaded or the duty is not performed, up to a cumulative maximum amount of twenty-
+17 five thousand dollars, plus twenty-five percent of the amount or value of property that
+18 should have been, but was not reported, paid, or delivered as a result of the evasion
+19 or failure to perform.
+20 2. If a holder makes a fraudulent report under this chapter, the commissionerstate
+21 treasurer may require the holder to pay to the administrator, in addition to interest
+22 under subsection 1 of section 47-30.2-65, a civil penalty of one thousand dollars for
+23 each day from the date the report was made until corrected, up to a cumulative
+24 maximum of twenty-five thousand dollars, plus twenty-five percent of the amount or
+25 value of any property that should have been reported, but was not included in the
+26 report or was underreported.
+27 SECTION 21. AMENDMENT. Subsection 4 of section 47-30.2-67 of the North Dakota
+28 Century Code is amended and reenacted as follows:
+29 4. The commissionerstate treasurer may waive up to twenty-five thousand dollars of the
+30 penalty or reduce interest. A request for a waiver or reduction of penalty in excess of
+Page No. 13 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 twenty-five thousand dollars must be presented to the board, with the commissioner's
+2 recommendation,state treasurer for review and decision.
+3 SECTION 22. AMENDMENT. Section 47-30.2-75 of the North Dakota Century Code is
+4 amended and reenacted as follows:
+5 47-30.2-75. Enforcement - Appeals.
+6 The administrator may bring an action in a court of competent jurisdiction to enforce this
+7 chapter. A person in this state aggrieved by an audit that in any form requests the payment of
+8 money or a civil penalty is entitled to a hearing before the boardstate treasurer. A demand for a
+9 hearing must be made within thirty days of the request by the administrator. The request by the
+10 administrator must contain notice of the right to a hearing. The board'sstate treasurer's decision
+11 is the final order of the agency and is appealable to the district court. Any amount of money
+12 requested by the administrator which may increase over time is tolled at the time of filing an
+13 appeal, retroactive to the date of the request.
+14 SECTION 23. AMENDMENT. Section 54-11-13 of the North Dakota Century Code is
+15 amended and reenacted as follows:
+16 54-11-13. Salary of state treasurer.
+17 The annual salary of the state treasurer is one hundred thirty thousandone hundred
+18 thirty - nine thousand two hundred fifty - six dollars through June 30, 20242026, and one hundred
+19 thirty-five thousand two hundred one hundred forty - three thousand four hundred thirty - four
+20 dollars thereafter.
+21 SECTION 24. AMENDMENT. Section 54-27-15.1 of the North Dakota Century Code is
+22 amended and reenacted as follows:
+23 54-27-15.1. State treasurer's checks, warrants, and warrant-checks - Cancellation -
+24 Deposit to common schools trust fund - Subsequent payment - Continuing
+25 appropriation.
+26 The state treasurer, at the beginning of each fiscal year, shall prepare a list of the checks,
+27 warrants, and warrant-checks drawn on various depositories which are more than two years old
+28 which remain outstanding and unpaid and shall show the number, date, payee, with address of
+29 payee if available, amount, and fund, if available, against which said instrument was drawn. A
+30 copy of such list must then be used as an authority for writing a receipt of the total of such
+31 check or checks and shall credit such amount to the common schools trust fund pursuant to
+Page No. 14 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 chapter 47-30.2. One copy of such receipt with list of instruments affected must be provided to
+2 the unclaimed property administrator of unclaimed properties. In the event such check, warrant,
+3 or warrant-check is at any subsequent time presented for payment, or a claim is made by any
+4 person for the amount of any such instrument, further proceedings must be conducted in
+5 accordance with chapter 47-30.2. These expenditures are hereby subject to a standing and
+6 continuing appropriation.
+7 SECTION 25. AMENDMENT. Subsection 6 of section 57-38-57 of the North Dakota
+8 Century Code is amended and reenacted as follows:
+9 6. Upon request, the tax commissioner may furnish to the unclaimed property division of
+10 the board of university and school landsadministrator, a taxpayer's name, address,
+11 and federal identification number for identifying the taxpayer as the owner of an
+12 unclaimed voucher authorized by the tax commissioner or to locate the apparent
+13 owner of unclaimed property as provided under chapter 47-30.2.
+14 SECTION 26. AMENDMENT. Subsection 3 of section 57-39.2-23 of the North Dakota
+15 Century Code is amended and reenacted as follows:
+16 3. The commissioner may furnish to workforce safety and insurance, the job insurance
+17 division of job service North Dakota, and the secretary of state, upon request of the
+18 respective agency, a list or lists of holders of permits issued under this chapter or
+19 chapter 57-40.2, together with the addresses and tax department file identification
+20 numbers of those permitholders. The agency may use the list or lists only for the
+21 purpose of administering the duties of the agency. The commissioner may furnish to
+22 the unclaimed property division of the board of university and school
+23 landsadministrator, upon its request, the name, address, and the permitholder's
+24 federal identification number for the sole purpose of identifying the owner of an
+25 unclaimed voucher authorized by the commissioner.
+26 SECTION 27. AMENDMENT. Subsection 8 of section 57-39.2-23 of the North Dakota
+27 Century Code is amended and reenacted as follows:
+28 8. Upon request, the commissioner may furnish to the unclaimed property division of the
+29 board of university and school landsadministrator, a taxpayer's name, address, and
+30 federal identification number for identifying the owner of an unclaimed voucher
+Page No. 15 25.0149.02000
+Sixty-ninth
+Legislative Assembly
+1 authorized by the commissioner or to locate the apparent owner of unclaimed property
+2 as provided under chapter 47-30.2.
+Page No. 16 25.0149.02000
+[DELETED: lEsAs$4$1$l0525s2688112]
+[DELETED: s10401s0202s$0$1$s0121d$0$9$s70401nGdOsTs$0$0$t0808l$0$0$.W22]
+[DELETED: ."."."."."32]
+[DELETED: .".I.I.A.I.I.".".".".F.F.F.F.".".".".T)G42]
+[DELETED: )T)P)D.T)P)M)G)O.".I)A)A.I.C.".".".".T52]
+[DELETED: .F.".".".".".A.A.A.T."62]
+[DELETED: .".".T)A)P)M)A)A]A]A)A)M)A)A72]
+[DELETED: )I)M)A.T)P)G)A)A.".".".A.A)R)P)S.A.".T.T82]
+[DELETED: .".".I.R.N.".T.P.P.".T.G.A."92]
+[DELETED: .C.T.A.M.E.T02]
+[DELETED: .T.A.C.R.C.F.F.F.T12]
+[DELETED: .T.T.M.M.M.M.M.T.T22]
+[DELETED: .T.E.I.I.T32]
+[DELETED: 42]
+[DELETED: .U.T.U52]
+[DELETED: 62]
+
+
+================================================================================
+
+Raw Text:
+25.0149.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1005
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the state treasurer;
+2 to amend and reenact subsection 15 of section 6-07.2-19, sections 10-15-49, 47-30.2-01, and
+3 47-30.2-03, subdivision j of subsection 1 of section 47-30.2-22, subsection 4 of section
+4 47-30.2-23, subsection 1 of section 47-30.2-24, subdivision b of subsection 3 of section
+5 47-30.2-28, section 47-30.2-44, subsection 2 of section 47-30.2-46, subdivision c of
+6 subsection 2 of section 47-30.2-50, section 47-30.2-53, subsection 1 of section 47-30.2-56,
+7 subsection 2 of section 47-30.2-57, sections 47-30.2-64 and 47-30.2-66, subsection 4 of section
+8 47-30.2-67, section 47-30.2-75, sections 54-11-13 and 54-27-15.1, subsection 6 of section
+9 57-38-57, and subsections 3 and 8 of section 57-39.2-23 of the North Dakota Century Code,
+10 relating to the transfer of unclaimed property administration from the commissioner of university
+11 and school lands to the state treasurer and the salary of the state treasurer.
+12 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+13 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+14 as may be necessary, are appropriated out of any moneys in the general fund in the state
+15 treasury, not otherwise appropriated, to the state treasurer for the purpose of defraying the
+16 expenses of the state treasurer, for the biennium beginning July 1, 2025, and ending June 30,
+17 2027, as follows:
+18 Adjustments or
+19 Base Level Enhancements Appropriation
+20 Salaries and wages $1,605,584 $975,431 $2,581,015
+21 New and vacant FTE pool 0 54,672 54,672
+22 Operating expenses 265,346 804,258 1,069,604
+Page No. 1 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Coal severance payments 118,000 4,000 122,000
+2 Carbon dioxide pipeline payments 0 2,000,000 2,000,000
+3 Total all funds $1,988,930 $3,838,361 $5,827,291
+4 Total special funds 0 1,711,352 1,711,352
+5 Total general fund $1,988,930 $2,127,009 $4,115,939
+6 Full-time equivalent positions 7.00 4.00 11.00
+7 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+8 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+9 items included in the appropriation in section 1 of this Act which are not included in the entity's
+10 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+11 committees of the seventieth legislative assembly regarding the use of this funding:
+12 One-Time Funding Description General Fund Other Funds Total
+13 Information technology projects $0 $110,000 $110,000
+14 Office furniture or equipment 0 8,000 8,000
+15 Total $0 $118,000 $118,000
+16 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+17 state treasurer may not spend funds appropriated in the new and vacant FTE pool line item in
+18 section 1 of this Act, but may request the office of management and budget to transfer funds
+19 from the new and vacant FTE pool line item to the salaries and wages line item in accordance
+20 with the guidelines and reporting provisions included in House Bill No. 1015, as approved by the
+21 sixty-ninth legislative assembly.
+22 SECTION 4. SPECIAL FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS
+23 FUND - OFFICE AND INFORMATION TECHNOLOGY PROJECTS. The sum of $110,000
+24 included in the other funds line item in section 1 of this Act and identified as one-time funding in
+25 section 2 of this Act is from the strategic investment and improvements fund for information
+26 technology projects.
+27 SECTION 5. AMENDMENT. Subsection 15 of section 6-07.2-19 of the North Dakota
+28 Century Code is amended and reenacted as follows:
+29 15. Within one hundred twenty days after the final distribution to members is started, the
+30 credit union shall furnish to the commissioner's office a schedule of unpaid claims. The
+31 board of directors of the credit union or the liquidating agent if appointed shall report
+Page No. 2 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 money in the account of a member who failed to surrender their passbooks or confirm
+2 their balances, final distribution checks not cashed within one hundred twenty days,
+3 and any unpaid claims to the unclaimed property division of the board of university and
+4 school lands pursuant toadministrator under chapter 47-30.2.
+5 SECTION 6. AMENDMENT. Section 10-15-49 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 10-15-49. Amounts due unknown persons.
+8 Upon liquidation of a cooperative, the assets distributable to persons who are unknown or
+9 cannot be found may be reduced to cash and transferred to the commissioner of university and
+10 school landsunclaimed property administrator and shall be treated as abandoned and
+11 unclaimed property under the escheat and abandoned property laws of the state.
+12 SECTION 7. AMENDMENT. Section 47-30.2-01 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 47-30.2-01. (102) Definitions.
+15 As used in this chapter:
+16 1. "Administrator" means the administrator of the state abandoned property office under
+17 the state treasurer.
+18 2. "Administrator's agent" means a person with which the commissionerstate treasurer
+19 contracts to conduct an examination under sections 47-30.2-54, 47-30.2-55,
+20 47-30.2-56, 47-30.2-57, 47-30.2-58, 47-30.2-59, 47-30.2-60, 47-30.2-61, and
+21 47-30.2-62 on behalf of the administrator. The term includes an independent
+22 contractor of the person and each individual participating in the examination on behalf
+23 of the person or contractor.
+24 3. "Apparent owner" means a person whose name appears on the records of a holder as
+25 the owner of property held, issued, or owing by the holder.
+26 4. "Board" means the board of university and school lands.
+27 5. "Business association" means a corporation, joint stock company, investment
+28 company, partnership, unincorporated association, joint venture, limited liability
+29 company, business trust, trust company, land bank, safe deposit company,
+30 safekeeping depository, financial organization, insurance company, federally chartered
+31 entity, utility, sole proprietorship, or other business entity, whether or not for profit.
+Page No. 3 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 6.5. "Cashier's check" means a check that:
+2 a. Is purchased by a remitter and made payable to a designated payee;
+3 b. Is signed by an officer or employee of the financial organization;
+4 c. Authorizes payment of the amount shown on the check's face to the payee;
+5 d. Is a direct obligation of the financial organization; and
+6 e. Is provided to a customer of the financial institution or acquired from the financial
+7 institution for remittance purposes.
+8 7. "Commissioner" means the commissioner of university and school lands.
+9 8.6. "Confidential record" has the same meaning as defined in section 44-04-17.1.
+10 9. "Department" means the department of trust lands.
+11 10.7. "Domicile" means:
+12 a. For a corporation, the state of its incorporation;
+13 b. For a business association whose formation requires a filing with a state, other
+14 than a corporation, the state of its filing;
+15 c. For a federally chartered entity, the state of its home office; and
+16 d. For any other holder, the state of its principal place of business.
+17 11.8. "Electronic" means relating to technology having electrical, digital, magnetic, wireless,
+18 optical, electromagnetic, or similar capabilities.
+19 12.9. "Electronic mail" means a communication by electronic means, together with
+20 attachments, which is automatically retained and stored and may be readily accessed
+21 or retrieved.
+22 13.10. "Financial organization" means a savings and loan association, building and loan
+23 association, savings bank, industrial bank, bank, banking organization, private banker,
+24 trust company, credit union, or an organization defined as a bank or banking
+25 organization under the laws of this state or of the United States.
+26 14.11. "Game-related digital content" means digital content that exists only in an electronic
+27 game or electronic-game platform.
+28 a. The term includes:
+29 (1) Game-play currency such as a virtual wallet, even if denominated in United
+30 States currency; and
+Page No. 4 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) The following if for use or redemption only within the game or platform or
+2 another electronic game or electronic-game platform:
+3 (a) Points sometimes referred to as gems, tokens, gold, and similar
+4 names; and
+5 (b) Digital codes; and
+6 b. The term does not include an item that the issuer:
+7 (1) Permits to be redeemed for use outside a game or platform for:
+8 (a) Money; or
+9 (b) Goods or services that have more than minimal value; or
+10 (2) Otherwise monetizes for use outside a game or platform.
+11 15.12. "Gift card" means a record that:
+12 a. Is usable at:
+13 (1) A single merchant; or
+14 (2) A specified group of merchants;
+15 b. Is prefunded before the record is used; and
+16 c. Can be used for purchases of goods or services.
+17 16.13. "Holder" means a person obligated to hold for the account of, or to deliver or pay to,
+18 the owner, property subject to this chapter.
+19 17.14. "Insurance company" has the same meaning as defined in section 26.1-02-01, and
+20 also includes a benevolent society, nonprofit health service corporation, and a health
+21 maintenance organization.
+22 18.15. "Loyalty card" means a record given without monetary consideration under an award,
+23 reward, benefit, loyalty, incentive, rebate, or promotional program which may be used
+24 or redeemed only to obtain goods or services or a discount on goods or services. The
+25 term does not include a record that may be redeemed for money or otherwise
+26 monetized by the issuer.
+27 19.16. "Mineral proceeds" means an obligation:
+28 a. To pay resulting from the production and sale of minerals, including net revenue
+29 interest, royalties, overriding royalties, production payments, and joint operating
+30 agreements; or
+Page No. 5 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. For the acquisition and retention of a mineral lease, including bonuses, delay
+2 rentals, shut-in royalties, and minimum royalties.
+3 20.17. "Money order" means a payment order for a specified amount of money. The term
+4 includes an express money order and a personal money order on which the remitter is
+5 the purchaser.
+6 21.18. "Municipal bond" means a bond or evidence of indebtedness issued by a municipality
+7 or other political subdivision of a state.
+8 22.19. "Net card value" means the original purchase price or original issued value of a stored-
+9 value card, plus amounts added to the original price or value, minus amounts used
+10 and any service charge, fee, or dormancy charge permitted by law.
+11 23.20. "Non-freely transferable security" means a security that cannot be delivered to the
+12 administrator by the depository trust clearing corporation or similar custodian of
+13 securities providing post-trade clearing and settlement services to financial markets or
+14 cannot be delivered because there is no agent to effect transfer. The term includes a
+15 worthless security.
+16 24.21. "Owner" means a person that has a legal, beneficial, or equitable interest in property
+17 subject to this chapter or the person's legal representative when acting on behalf of
+18 and in the best interest of the owner. The term includes:
+19 a. A depositor, for a deposit;
+20 b. A beneficiary, for a trust other than a deposit in trust;
+21 c. A creditor, claimant, or payee, for other property; and
+22 d. The lawful bearer of a record that may be used to obtain money, a reward, or a
+23 thing of value.
+24 25.22. "Payroll card" means a record that evidences a payroll-card account that is directly or
+25 indirectly established through an employer and to which electronic fund transfers of
+26 the consumer's wages, salary, or other employee compensation, such as
+27 commissions, are made on a recurring basis, whether the account is operated or
+28 managed by the employer, a third-party payroll processor, a depository institution, or
+29 any other person.
+Page No. 6 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 26.23. "Person" means an individual, estate, business association, public corporation,
+2 government or governmental subdivision, agency, or instrumentality, or other legal
+3 entity.
+4 27.24. "Property" means tangible property described in section 47-30.2-08 or a fixed and
+5 certain interest in intangible property held, issued, or owed in the course of a holder's
+6 business or by a government, governmental subdivision, agency, or instrumentality.
+7 a. The term includes:
+8 (1) All income from or increments to the property; and
+9 (2) Property referred to as or evidenced by:
+10 (a) Money, virtual currency, interest, or a dividend, check, draft, deposit,
+11 or payroll card;
+12 (b) A credit balance, customer's overpayment, stored-value card, security
+13 deposit, refund, credit memorandum, unpaid wage, unused ticket for
+14 which the issuer has an obligation to provide a refund, mineral
+15 proceeds, or unidentified remittance;
+16 (c) A security except for:
+17 [1] A worthless security; or
+18 [2] A security that is subject to a lien, legal hold, or restriction
+19 evidenced on the records of the holder or imposed by operation
+20 of law, if the lien, legal hold, or restriction restricts the holder's or
+21 owner's ability to receive, transfer, sell, or otherwise negotiate
+22 the security;
+23 (d) A bond, debenture, note, or other evidence of indebtedness;
+24 (e) Money deposited to redeem a security, make a distribution, or pay a
+25 dividend;
+26 (f) An amount due and payable under an annuity contract or insurance
+27 policy;
+28 (g) An amount distributable from a trust or custodial fund established
+29 under a plan to provide health, welfare, pension, vacation, severance,
+30 retirement, death, stock purchase, profit-sharing, employee-savings,
+31 supplemental-unemployment insurance, or a similar benefit;
+Page No. 7 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 (h) Intangible property and any income or increment derived from the
+2 intangible property held in a fiduciary capacity for the benefit of
+3 another person;
+4 (i) Mineral proceeds; and
+5 (j) An in-store credit for returned merchandise.
+6 b. The term does not include:
+7 (1) Property held in a plan described in section 529A of the Internal Revenue
+8 Code, as amended, [26 U.S.C. 529A];
+9 (2) Game-related digital content;
+10 (3) A loyalty card; or
+11 (4) A gift card.
+12 28.25. "Putative holder" means a person believed by the administrator to be a holder, until the
+13 person pays or delivers to the administrator property subject to this chapter or the
+14 administrator or a court makes a final determination that the person is or is not a
+15 holder.
+16 29.26. "Record" has the same meaning as defined in section 44-04-17.1.
+17 30.27. "Security" means:
+18 a. A security as defined in section 41-08-02;
+19 b. A security entitlement as defined in section 41-08-02, including a customer
+20 security account held by a registered broker-dealer, to the extent the financial
+21 assets held in the security account are not:
+22 (1) Registered on the books of the issuer in the name of the person for which
+23 the broker-dealer holds the assets;
+24 (2) Payable to the order of the person; or
+25 (3) Specifically indorsed to the person; or
+26 c. An equity interest in a business association not included in subdivision a or b.
+27 31.28. "Sign" means, with present intent to authenticate or adopt a record:
+28 a. To execute or adopt a tangible symbol; or
+29 b. To attach to or logically associate with the record an electronic symbol, sound, or
+30 process.
+Page No. 8 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 32.29. "State" means a state of the United States, the District of Columbia, the
+2 Commonwealth of Puerto Rico, the United States Virgin Islands, or any territory or
+3 insular possession subject to the jurisdiction of the United States.
+4 33.30. "Stored-value card" means a card, code, or other device, including a merchandise
+5 credit or rebate card, which is:
+6 a. Issued on a prepaid basis primarily for personal, family, or household purposes to
+7 a consumer in a specified amount, whether or not that amount may be increased
+8 or reloaded in exchange for payment;
+9 b. Redeemable upon presentation at multiple unaffiliated merchants for goods or
+10 services or usable at automated teller machines; and
+11 c. Not a gift card, payroll card, loyalty card, or game-related digital content.
+12 34.31. "Utility" means a person that owns or operates for public use a plant, equipment, real
+13 property, franchise, or license for the following public services:
+14 a. Transmission of communications or information;
+15 b. Production, storage, transmission, sale, delivery, or furnishing of electricity, water,
+16 steam, or gas; or
+17 c. Provision of sewage or septic services, or trash, garbage, or recycling disposal.
+18 35.32. "Virtual currency" means a digital representation of value used as a medium of
+19 exchange, unit of account, or store of value, which does not have legal tender status
+20 recognized by the United States. The term does not include:
+21 a. The software or protocols governing the transfer of the digital representation of
+22 value;
+23 b. Game-related digital content; or
+24 c. A loyalty card or gift card.
+25 36.33. "Worthless security" means a security whose cost of liquidation and delivery to the
+26 administrator would exceed the value of the security on the date a report is due under
+27 this chapter.
+28 SECTION 8. AMENDMENT. Section 47-30.2-03 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+30 47-30.2-03. (104) Rulemaking.
+31 The commissionerstate treasurer may adopt rules to implement and administer this chapter.
+Page No. 9 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 9. AMENDMENT. Subdivision j of subsection 1 of section 47-30.2-22 of the North
+2 Dakota Century Code is amended and reenacted as follows:
+3 j. Contain other information the commissionerstate treasurer prescribes by rules.
+4 SECTION 10. AMENDMENT. Subsection 4 of section 47-30.2-23 of the North Dakota
+5 Century Code is amended and reenacted as follows:
+6 4. The commissionerstate treasurer may grant an extension of the reporting date for
+7 good cause in the event of a national or state emergency.
+8 SECTION 11. AMENDMENT. Subsection 1 of section 47-30.2-24 of the North Dakota
+9 Century Code is amended and reenacted as follows:
+10 1. A holder required to file a report under section 47-30.2-21 shall retain records for ten
+11 years after the later of the date the report was filed or the last date a timely report was
+12 due to be filed, unless a shorter period is provided by rule of the commissionerstate
+13 treasurer.
+14 SECTION 12. AMENDMENT. Subdivision b of subsection 3 of section 47-30.2-28 of the
+15 North Dakota Century Code is amended and reenacted as follows:
+16 b. Maintain a website or database accessible by the public and electronically
+17 searchable which contains the names reported to the administrator of apparent
+18 owners for whom property that meets or exceeds the searchable value as set by
+19 the commissionerstate treasurer is being held by the administrator. Property that
+20 does not meet or exceed the searchable value must continue to be held by the
+21 administrator but may not appear in the searchable website or database.
+22 SECTION 13. AMENDMENT. Section 47-30.2-44 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 47-30.2-44. (801) Deposit of funds by administrator.
+25 1. Except as otherwise provided in this section, the departmentstate treasurer shall
+26 deposit to the credit of the common schools trust fund all funds received under this
+27 chapter, including proceeds from the sale of property under sections 47-30.2-40,
+28 47-30.2-41, 47-30.2-42, and 47-30.2-43.
+29 2. The departmentstate treasurer shall maintain an account with an amount of funds the
+30 commissionerstate treasurer reasonably estimates is sufficient to pay claims allowed
+31 under this chapter.
+Page No. 10 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 14. AMENDMENT. Subsection 2 of section 47-30.2-46 of the North Dakota
+2 Century Code is amended and reenacted as follows:
+3 2. There is appropriated annually theThe amounts necessary are appropriated to the
+4 state treasurer on a continuing basis to pay all expense deductions under this section,
+5 including:
+6 a. Any costs in connection with the sale of abandoned property;
+7 b. Costs of mailing, publication, and outreach efforts in connection with any
+8 abandoned property;
+9 c. Reasonable service charges;
+10 d. Costs incurred in examining records of holders of property and in collecting the
+11 property from those holders;
+12 e. Funds for the payment of claims;
+13 f. Funds for the payment of holder refunds; and
+14 g. Funds for attorney's fees and all other reasonable costs and expenses incurred in
+15 an action or suit.
+16 SECTION 15. AMENDMENT. Subdivision c of subsection 2 of section 47-30.2-50 of the
+17 North Dakota Century Code is amended and reenacted as follows:
+18 c. The property has a value as provided by rules adopted by the commissionerstate
+19 treasurer.
+20 SECTION 16. AMENDMENT. Section 47-30.2-53 of the North Dakota Century Code is
+21 amended and reenacted as follows:
+22 47-30.2-53. (906) Action by person whose claim is denied.
+23 Not later than one hundred eighty days after filing a claim under subsection 1 of section
+24 47-30.2-50, the claimant may commence an action against the boardstate treasurer in the
+25 Burleigh County district court to establish a claim that has been denied or deemed denied under
+26 section 47-30.2-50. If the boardstate treasurer is successful in a proceeding brought under this
+27 section, the district court shall allow the boardstate treasurer to recover court costs; reasonable
+28 costs, fees, disbursements, and expenses incurred by the boardstate treasurer in the
+29 proceeding; and reasonable attorney's fees.
+30 SECTION 17. AMENDMENT. Subsection 1 of section 47-30.2-56 of the North Dakota
+31 Century Code is amended and reenacted as follows:
+Page No. 11 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 1. The commissionerstate treasurer shall adopt rules governing an examination under
+2 section 47-30.2-55, including rules for use of an estimation, extrapolation, and
+3 statistical sampling in conducting an examination. An examination commenced after
+4 adoption of rules under this subsection must comply with the rules.
+5 SECTION 18. AMENDMENT. Subsection 2 of section 47-30.2-57 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 2. The records subject to subsection 1:
+8 a. May be used by the boardstate treasurer in an action to collect property or
+9 otherwise enforce this chapter;
+10 b. May be used in a joint examination conducted with or pursuant to agreements
+11 with other states, the federal government, or other governmental entities;
+12 c. May be disclosed at the discretion of the commissionerstate treasurer, on
+13 request, to the person that administers the unclaimed property law of another
+14 state for that state's use in circumstances equivalent to circumstances described
+15 in sections 47-30.2-54, 47-30.2-55, 47-30.2-56, 47-30.2-57, 47-30.2-58,
+16 47-30.2-59, 47-30.2-60, 47-30.2-61, and 47-30.2-62. A state to which information
+17 is disclosed shall maintain the confidentiality and security of information obtained
+18 in a manner substantially equivalent to sections 47-30.2-71, 47-30.2-72, and
+19 47-30.2-73;
+20 d. May be required to be produced under section 44-04-18.11; and
+21 e. May be required to be produced by the administrator on request of the person
+22 subject to the examination in an administrative or judicial proceeding relating to
+23 the property.
+24 SECTION 19. AMENDMENT. Section 47-30.2-64 of the North Dakota Century Code is
+25 amended and reenacted as follows:
+26 47-30.2-64. (1203) Action involving another state or foreign country.
+27 1. The administrator may join another state or foreign country to examine and seek
+28 enforcement of this chapter against a putative holder.
+29 2. The boardstate treasurer may pursue an action on behalf of this state to recover
+30 property subject to this chapter but delivered to the custody of another state if the
+31 administrator believes the property is subject to the custody of the administrator.
+Page No. 12 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 3. The boardstate treasurer may retain an attorney in this state, another state, or a
+2 foreign country to commence an action to recover property on behalf of the boardstate
+3 treasurer and may agree to pay attorney's fees based in whole or in part on a fixed
+4 fee, hourly fee, or a percentage of the amount or value of property recovered in the
+5 action.
+6 4. Expenses incurred by this state in an action under this section must be paid in
+7 accordance with section 47-30.2-46.
+8 SECTION 20. AMENDMENT. Section 47-30.2-66 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 47-30.2-66. (1205) Other civil penalties.
+11 1. If a holder enters into a contract or other arrangement for the purpose of evading an
+12 obligation under this chapter or otherwise willfully fails to perform a duty imposed on
+13 the holder under this chapter, the commissionerstate treasurer may require the holder
+14 to pay the administrator, in addition to interest as provided in subsection 1 of section
+15 47-30.2-65, a civil penalty of one thousand dollars for each day the obligation is
+16 evaded or the duty is not performed, up to a cumulative maximum amount of twenty-
+17 five thousand dollars, plus twenty-five percent of the amount or value of property that
+18 should have been, but was not reported, paid, or delivered as a result of the evasion
+19 or failure to perform.
+20 2. If a holder makes a fraudulent report under this chapter, the commissionerstate
+21 treasurer may require the holder to pay to the administrator, in addition to interest
+22 under subsection 1 of section 47-30.2-65, a civil penalty of one thousand dollars for
+23 each day from the date the report was made until corrected, up to a cumulative
+24 maximum of twenty-five thousand dollars, plus twenty-five percent of the amount or
+25 value of any property that should have been reported, but was not included in the
+26 report or was underreported.
+27 SECTION 21. AMENDMENT. Subsection 4 of section 47-30.2-67 of the North Dakota
+28 Century Code is amended and reenacted as follows:
+29 4. The commissionerstate treasurer may waive up to twenty-five thousand dollars of the
+30 penalty or reduce interest. A request for a waiver or reduction of penalty in excess of
+Page No. 13 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 twenty-five thousand dollars must be presented to the board, with the commissioner's
+2 recommendation,state treasurer for review and decision.
+3 SECTION 22. AMENDMENT. Section 47-30.2-75 of the North Dakota Century Code is
+4 amended and reenacted as follows:
+5 47-30.2-75. Enforcement - Appeals.
+6 The administrator may bring an action in a court of competent jurisdiction to enforce this
+7 chapter. A person in this state aggrieved by an audit that in any form requests the payment of
+8 money or a civil penalty is entitled to a hearing before the boardstate treasurer. A demand for a
+9 hearing must be made within thirty days of the request by the administrator. The request by the
+10 administrator must contain notice of the right to a hearing. The board'sstate treasurer's decision
+11 is the final order of the agency and is appealable to the district court. Any amount of money
+12 requested by the administrator which may increase over time is tolled at the time of filing an
+13 appeal, retroactive to the date of the request.
+14 SECTION 23. AMENDMENT. Section 54-11-13 of the North Dakota Century Code is
+15 amended and reenacted as follows:
+16 54-11-13. Salary of state treasurer.
+17 The annual salary of the state treasurer is one hundred thirty thousandone hundred
+18 thirty - nine thousand two hundred fifty - six dollars through June 30, 20242026, and one hundred
+19 thirty-five thousand two hundred one hundred forty - three thousand four hundred thirty - four
+20 dollars thereafter.
+21 SECTION 24. AMENDMENT. Section 54-27-15.1 of the North Dakota Century Code is
+22 amended and reenacted as follows:
+23 54-27-15.1. State treasurer's checks, warrants, and warrant-checks - Cancellation -
+24 Deposit to common schools trust fund - Subsequent payment - Continuing
+25 appropriation.
+26 The state treasurer, at the beginning of each fiscal year, shall prepare a list of the checks,
+27 warrants, and warrant-checks drawn on various depositories which are more than two years old
+28 which remain outstanding and unpaid and shall show the number, date, payee, with address of
+29 payee if available, amount, and fund, if available, against which said instrument was drawn. A
+30 copy of such list must then be used as an authority for writing a receipt of the total of such
+31 check or checks and shall credit such amount to the common schools trust fund pursuant to
+Page No. 14 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 chapter 47-30.2. One copy of such receipt with list of instruments affected must be provided to
+2 the unclaimed property administrator of unclaimed properties. In the event such check, warrant,
+3 or warrant-check is at any subsequent time presented for payment, or a claim is made by any
+4 person for the amount of any such instrument, further proceedings must be conducted in
+5 accordance with chapter 47-30.2. These expenditures are hereby subject to a standing and
+6 continuing appropriation.
+7 SECTION 25. AMENDMENT. Subsection 6 of section 57-38-57 of the North Dakota
+8 Century Code is amended and reenacted as follows:
+9 6. Upon request, the tax commissioner may furnish to the unclaimed property division of
+10 the board of university and school landsadministrator, a taxpayer's name, address,
+11 and federal identification number for identifying the taxpayer as the owner of an
+12 unclaimed voucher authorized by the tax commissioner or to locate the apparent
+13 owner of unclaimed property as provided under chapter 47-30.2.
+14 SECTION 26. AMENDMENT. Subsection 3 of section 57-39.2-23 of the North Dakota
+15 Century Code is amended and reenacted as follows:
+16 3. The commissioner may furnish to workforce safety and insurance, the job insurance
+17 division of job service North Dakota, and the secretary of state, upon request of the
+18 respective agency, a list or lists of holders of permits issued under this chapter or
+19 chapter 57-40.2, together with the addresses and tax department file identification
+20 numbers of those permitholders. The agency may use the list or lists only for the
+21 purpose of administering the duties of the agency. The commissioner may furnish to
+22 the unclaimed property division of the board of university and school
+23 landsadministrator, upon its request, the name, address, and the permitholder's
+24 federal identification number for the sole purpose of identifying the owner of an
+25 unclaimed voucher authorized by the commissioner.
+26 SECTION 27. AMENDMENT. Subsection 8 of section 57-39.2-23 of the North Dakota
+27 Century Code is amended and reenacted as follows:
+28 8. Upon request, the commissioner may furnish to the unclaimed property division of the
+29 board of university and school landsadministrator, a taxpayer's name, address, and
+30 federal identification number for identifying the owner of an unclaimed voucher
+Page No. 15 25.0149.02000
+
+Sixty-ninth
+Legislative Assembly
+1 authorized by the commissioner or to locate the apparent owner of unclaimed property
+2 as provided under chapter 47-30.2.
+Page No. 16 25.0149.02000
+
+[DELETED: lEsAs$4$1$l0525s2688112]
+[DELETED: s10401s0202s$0$1$s0121d$0$9$s70401nGdOsTs$0$0$t0808l$0$0$.W22]
+[DELETED: ."."."."."32]
+[DELETED: .".I.I.A.I.I.".".".".F.F.F.F.".".".".T)G42]
+[DELETED: )T)P)D.T)P)M)G)O.".I)A)A.I.C.".".".".T52]
+[DELETED: .F.".".".".".A.A.A.T."62]
+[DELETED: .".".T)A)P)M)A)A]A]A)A)M)A)A72]
+[DELETED: )I)M)A.T)P)G)A)A.".".".A.A)R)P)S.A.".T.T82]
+[DELETED: .".".I.R.N.".T.P.P.".T.G.A."92]
+[DELETED: .C.T.A.M.E.T02]
+[DELETED: .T.A.C.R.C.F.F.F.T12]
+[DELETED: .T.T.M.M.M.M.M.T.T22]
+[DELETED: .T.E.I.I.T32]
+[DELETED: 42]
+[DELETED: .U.T.U52]
+[DELETED: 62]

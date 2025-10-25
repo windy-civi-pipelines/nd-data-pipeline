@@ -1,0 +1,518 @@
+Title: SENATE BILL NO. 2336
+Official Title: SENATE BILL NO. 2336
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25.0712.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Kessel, Barta, Klein
+Representatives Kempenich, Warrey
+1 A BILL for an Act to create and enact eight new sections to chapter 43-09 of the North Dakota
+2 Century Code, relating to the regulation of conveyances and elevator contractors, mechanics,
+3 and inspectors; to amend and reenact sections 43-09-01 and 43-09-02 of the North Dakota
+4 Century Code, relating to definitions applicable to conveyance regulation and the membership
+5 of the state electrical board; to provide a penalty; and to provide for application.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Section 43-09-01 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 43-09-01. Definitions.
+10 In this chapter, unless the context or subject matter otherwise requires:
+11 1. "Alteration" means any substantial change to a conveyance and any part, component,
+12 or subsystem of the conveyance, but does not include routine maintenance of a
+13 conveyance.
+14 2. "Apprentice electrician" means an individual who is learning the trade under the
+15 personal supervision of a state-licensed electrician.
+16 2.3. "Board" means the state electrical board.
+17 3.4. "Class B electrician" means an individual who has the necessary qualifications,
+18 training, and technical knowledge to wire, install, and repair electrical apparatus and
+19 equipment in accordance with the standard rules and regulations governing such
+20 work, who has eighteen months' experience in farmstead or residential wiring, and
+21 passed an examination before the state electrical board based upon the national
+22 electrical code as it applies to farmstead or residential wiring.
+23 5. "Conveyance" means an elevator, escalator, stairway chairlift, platform lift, stage lift,
+24 orchestra lift, hoist, dumbwaiter, moving walk, automated people mover, automated-
+Page No. 1 25.0712.03000
+Sixty-ninth
+Legislative Assembly
+1 type parking structure, wind turbine elevator, or other device used for moving
+2 individuals, materials, equipment, or other objects from one landing or location to
+3 another.
+4 6. "Elevator contractor" means any person engaged in the business of constructing,
+5 installing, altering, replacing, decommissioning, dismantling, demolishing, removing
+6 from service, repairing, servicing, inspecting, or testing a conveyance.
+7 7. "Elevator inspector" means an individual, approved by the board, to inspect and
+8 witness a test of a conveyance.
+9 8. "Elevator mechanic" means an individual engaged in elevator contracting.
+10 4.9. "Journeyman electrician" means an individual who has the necessary qualifications,
+11 training, and technical knowledge to wire, install, and repair electrical apparatus and
+12 equipment and power limited systems in accordance with the standard rules and
+13 regulations governing such work.
+14 5.10. "Licensee" means an individual who holds a valid license issued by the board.
+15 6. 11 . "Master electrician" means an individual who has the necessary qualifications,
+16 training, experience, and technical knowledge to plan, lay out, and supervise the
+17 installation and repair of electrical wiring apparatus, and equipment for electric light,
+18 heat, power, and power limited systems, in accordance with the standard rules and
+19 regulations governing such work.
+20 7. 1 2 . "Nonelectrical system" means a system as defined by the articles contained in
+21 chapter 8 and other articles which contains class II or class III circuits and systems as
+22 defined by the national electrical code, as adopted by the board. Although the board
+23 may expand this definition, the board may not narrow this definition. The term does not
+24 include a circuit or system that is installed:
+25 a. Within an area of special occupancies, as defined under articles 500 through 517
+26 of the national electrical code.
+27 b. For heat, light, or power.
+28 c. For the control of heat, light, or power, unless the circuit or system employs
+29 digital communication.
+Page No. 2 25.0712.03000
+Sixty-ninth
+Legislative Assembly
+1 8. 1 3 . "Power limited electrician" means an individual who has the necessary qualifications,
+2 training, experience, and technical knowledge to plan, layout, and supervise the
+3 installation and repair of a power limited system.
+4 9. 1 4 . "Power limited system" means a system as defined by the articles contained in
+5 chapter 8 and other articles which contains class II or class III circuits and systems as
+6 defined by the national electrical code, as adopted by the board. Although the board
+7 may expand this definition, the term does not include a nonelectrical system.
+8 SECTION 2. AMENDMENT. Section 43-09-02 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 43-09-02. State electrical board - Members - Terms of office - Vacancies.
+11 The state electrical board must consist of fivesix members appointed by the governor for a
+12 term of five years with their terms of office so arranged that one term and only one term expires
+13 on June thirtieth of each year. One member of the board shall represent the public and may not
+14 be directly associated with the electrical industry. The board must include a master electrician
+15 who is a contractor, a journeyman electrician, a consumer member of a rural electric
+16 cooperative, an elevator mechanic, and a person associated with an investor-owned utility. A
+17 member of the board shall qualify by taking the oath of office required of civil officers and shall
+18 hold office until that member's successor is appointed and qualified. The governor shall fill any
+19 vacancy by appointment for the unexpired term of office.
+20 SECTION 3. A new section to chapter 43-09 of the North Dakota Century Code is created
+21 and enacted as follows:
+22 Powers and duties of the board - Regulation of conveyances - Exceptions .
+23 1. The board shall adopt rules to regulate the inspection and testing of conveyances and
+24 to implement applicable standards published by the American society of mechanical
+25 engineers. The board shall publish testing and inspection forms based on the rules
+26 and standards adopted by the board.
+27 2. The board shall establish procedures for monitoring compliance with this chapter and
+28 receiving and investigating complaints.
+29 3. The board may grant an exception or variance from the requirements of board rules if
+30 the exception or variance will not jeopardize the public safety and welfare.
+Page No. 3 25.0712.03000
+Sixty-ninth
+Legislative Assembly
+1 4. The board shall hold hearings and hear appeals on disciplinary matters under
+2 sections 4 through 10 of this Act .
+3 5. The board shall establish fee schedules for permits, certificates, inspections, and
+4 tests. The fees must reflect the actual costs and expenses to conduct the duties of the
+5 board.
+6 6. The rules adopted by the board may not apply to an elevator located in a single-family
+7 private residence, a facility used for the purpose of energy generation, an industrial
+8 conveyance the primary purpose of which is not the movement of individuals, or a
+9 conveyance used in an agricultural facility.
+10 SECTION 4. A new section to chapter 43-09 of the North Dakota Century Code is created
+11 and enacted as follows:
+12 Conveyance permit required.
+13 1. a. Within six months from the effective date of this Act, the owner of a conveyance
+14 shall register the conveyance with the board.
+15 b. The owner of a new elevator or other conveyance must register the conveyance
+16 with the board within thirty days after the conveyance has been inspected and
+17 approved.
+18 c. When registering a conveyance, the owner shall provide to the board the type of
+19 the conveyance, the rated load, the number of landings and speed of the
+20 conveyance, the name of the manufacturer of the conveyance, the location of the
+21 conveyance, the purpose for which the conveyance is used, and any additional
+22 information the board may require.
+23 d. When a conveyance subject to this chapter is decommissioned or otherwise
+24 taken out of service, the owner responsible for the equipment shall notify the
+25 board within six months to request the conveyance be removed from the
+26 registration list.
+27 2. Before an installation or alteration may be commenced on a conveyance, an elevator
+28 contractor shall apply to the board for a permit.
+29 3. An application for a permit must include:
+Page No. 4 25.0712.03000
+Sixty-ninth
+Legislative Assembly
+1 a. A copy of the specifications for the conveyance and must be accurately scaled
+2 and include fully dimensional plans showing the location of the installation in
+3 relation to the plans and elevation of the building.
+4 b. An illustration of each detail of construction and design, including electrical
+5 drawings.
+6 c. The location of the machinery space, machine room, control space, or control
+7 room and the equipment to be installed, relocated, or altered.
+8 d. All structural supporting members of the conveyance, including foundations.
+9 e. A description of the materials to be employed and all loads to be supported or
+10 conveyed.
+11 f. A copy of the written maintenance control program for the conveyance.
+12 4. The elevator contractor shall post the permit at the site of the conveyance while work
+13 is in progress. The elevator contractor obtaining the permit shall be responsible for the
+14 complete scope of work covered by the permit and ensure any alteration is performed
+15 only by a licensed elevator mechanic and performed in accordance the requirements
+16 of this chapter and any rules adopted by the board.
+17 SECTION 5. A new section to chapter 43-09 of the North Dakota Century Code is created
+18 and enacted as follows:
+19 Conveyance permit revocation or suspension.
+20 The board may revoke or suspend a permit upon a finding:
+21 1. Of a false statement, omission, or misrepresentation of material fact in the permit
+22 application or the plans or specifications on which the permit was based.
+23 2. The work detailed under the permit has not been performed in accordance with the
+24 application, plans, specifications, or conditions of the permit.
+25 3. The elevator contractor failed or refused to comply with a stop work order from the
+26 board.
+27 4. The board determines revocation is necessary to ensure the proper enforcement of
+28 this chapter or to protect public or worker safety.
+29 SECTION 6. A new section to chapter 43-09 of the North Dakota Century Code is created
+30 and enacted as follows:
+Page No. 5 25.0712.03000
+Sixty-ninth
+Legislative Assembly
+1 Conveyance permit expiration.
+2 1. A permit is deemed expired if:
+3 a. The work authorized by the permit is not commenced within six months after the
+4 date on which the permit is issued or within a shorter period as specified on the
+5 permit; or
+6 b. After the work has commenced, the work is suspended or abandoned for sixty
+7 days or a shorter time specified on the permit.
+8 2. The board may allow an extension under subsection 1 .
+9 SECTION 7. A new section to chapter 43-09 of the North Dakota Century Code is created
+10 and enacted as follows:
+11 Certificate of operation - Penalty.
+12 1. Upon installation of a conveyance, an elevator contractor responsible for the work
+13 shall certify compliance with this chapter, rules of the board, and any applicable
+14 industry code or standard.
+15 2. Before a conveyance is placed in operation, the owner of the conveyance shall obtain
+16 a certificate of operation from the board. The board may impose a penalty of not less
+17 than fifty dollars for the failure to obtain a certificate of operation.
+18 3. A certificate of operation is valid for one year and must be renewed annually. The
+19 owner of the conveyance shall pay the required fee before the board may issue a
+20 certificate of operation and renewal of a certificate.
+21 4. The owner of the conveyance shall clearly display the certificate on or in each
+22 conveyance or in the machine room.
+23 SECTION 8. A new section to chapter 43-09 of the North Dakota Century Code is created
+24 and enacted as follows:
+25 Reporting of accidents.
+26 If an incident occurs involving an elevator or other conveyance which results in death or
+27 bodily injury to any person which requires hospitalization or other treatment by a medical
+28 professional, the owner of the conveyance shall submit to the board a report, on a form
+29 prescribed by the board, within forty-eight hours. The report must include the date, time, and
+30 place of accident.
+Page No. 6 25.0712.03000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 9. A new section to chapter 43-09 of the North Dakota Century Code is created
+2 and enacted as follows:
+3 Inspection and testing of conveyances - Removal from service .
+4 1. The owner of a conveyance shall ensure each conveyance is inspected and tested as
+5 required by the board.
+6 2. All work required for inspections and tests of conveyances must be performed by an
+7 elevator mechanic and must be witnessed by an elevator inspector.
+8 3. Upon completion of an inspection, the elevator inspector shall provide the owner of the
+9 conveyance and the board a written inspection report verifying code compliance or
+10 describing any code violations found. If a conveyance fails an inspection, the owner of
+11 the conveyance shall remove the conveyance from service until the violations are
+12 remedied to the satisfaction of the board.
+13 4. The board shall develop a schedule for required testing and inspection of elevators
+14 and conveyances in the state.
+15 SECTION 10. A new section to chapter 43-09 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Elevator inspector and contractor registration.
+18 1. An individual may not inspect any conveyance unless the individual is registered with
+19 the board. An individual may apply for registration by completing an application form
+20 provided by the board, submitting the application fee, and submitting documentation
+21 demonstrating the applicant meets the requirements established by the board by rule.
+22 2. A person may not perform, contract to perform, or advertise to perform alteration or
+23 maintenance of conveyances unless that person is registered as an elevator
+24 contractor with the board. A registered elevator contractor shall employ at least one
+25 elevator mechanic.
+26 3. The board shall create and maintain a list of all registered elevator contractors
+27 operating in North Dakota.
+28 SECTION 11. APPLICATION. The requirements of this Act must be phased in as follows:
+29 1. After August 1, 2026, each newly installed or altered conveyance must pass an
+30 acceptance test witnessed by an elevator inspector.
+Page No. 7 25.0712.03000
+Sixty-ninth
+Legislative Assembly
+1 2. After August 1, 2026, each traction elevator must pass an acceptance test witnessed
+2 by an elevator inspector.
+3 3. After August 1, 2027, each hydraulic elevator, escalator, and moving walk must pass
+4 an annual acceptance test witnessed by an elevator inspector.
+5 4. After August 1, 2028, the board shall implement a schedule to meet the five-year full
+6 load safety testing requirement.
+7 5. After August 1, 2032, each conveyance must pass a five-year full load safety test
+8 witnessed by an elevator inspector.
+Page No. 8 25.0712.03000
+[DELETED: ."."."."."12]
+[DELETED: .".".".".".".".W.F.F22]
+[DELETED: .".".T.T.T32]
+[DELETED: .T.T.T.a.W.T.W.W.B.A42]
+[DELETED: .A.A.T.A.A.A.T.O.T.T.T52]
+[DELETED: .A.T.A. .U.B.A.T62]
+[DELETED: .T.A.U.T.A.A.T.A72]
+[DELETED: .A.A.A.A82]
+
+
+================================================================================
+
+Raw Text:
+25.0712.03000
+Sixty-ninth
+SENATE BILL NO. 2336
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Kessel, Barta, Klein
+Representatives Kempenich, Warrey
+1 A BILL for an Act to create and enact eight new sections to chapter 43-09 of the North Dakota
+2 Century Code, relating to the regulation of conveyances and elevator contractors, mechanics,
+3 and inspectors; to amend and reenact sections 43-09-01 and 43-09-02 of the North Dakota
+4 Century Code, relating to definitions applicable to conveyance regulation and the membership
+5 of the state electrical board; to provide a penalty; and to provide for application.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Section 43-09-01 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 43-09-01. Definitions.
+10 In this chapter, unless the context or subject matter otherwise requires:
+11 1. "Alteration" means any substantial change to a conveyance and any part, component,
+12 or subsystem of the conveyance, but does not include routine maintenance of a
+13 conveyance.
+14 2. "Apprentice electrician" means an individual who is learning the trade under the
+15 personal supervision of a state-licensed electrician.
+16 2.3. "Board" means the state electrical board.
+17 3.4. "Class B electrician" means an individual who has the necessary qualifications,
+18 training, and technical knowledge to wire, install, and repair electrical apparatus and
+19 equipment in accordance with the standard rules and regulations governing such
+20 work, who has eighteen months' experience in farmstead or residential wiring, and
+21 passed an examination before the state electrical board based upon the national
+22 electrical code as it applies to farmstead or residential wiring.
+23 5. "Conveyance" means an elevator, escalator, stairway chairlift, platform lift, stage lift,
+24 orchestra lift, hoist, dumbwaiter, moving walk, automated people mover, automated-
+Page No. 1 25.0712.03000
+
+Sixty-ninth
+Legislative Assembly
+1 type parking structure, wind turbine elevator, or other device used for moving
+2 individuals, materials, equipment, or other objects from one landing or location to
+3 another.
+4 6. "Elevator contractor" means any person engaged in the business of constructing,
+5 installing, altering, replacing, decommissioning, dismantling, demolishing, removing
+6 from service, repairing, servicing, inspecting, or testing a conveyance.
+7 7. "Elevator inspector" means an individual, approved by the board, to inspect and
+8 witness a test of a conveyance.
+9 8. "Elevator mechanic" means an individual engaged in elevator contracting.
+10 4.9. "Journeyman electrician" means an individual who has the necessary qualifications,
+11 training, and technical knowledge to wire, install, and repair electrical apparatus and
+12 equipment and power limited systems in accordance with the standard rules and
+13 regulations governing such work.
+14 5.10. "Licensee" means an individual who holds a valid license issued by the board.
+15 6. 11 . "Master electrician" means an individual who has the necessary qualifications,
+16 training, experience, and technical knowledge to plan, lay out, and supervise the
+17 installation and repair of electrical wiring apparatus, and equipment for electric light,
+18 heat, power, and power limited systems, in accordance with the standard rules and
+19 regulations governing such work.
+20 7. 1 2 . "Nonelectrical system" means a system as defined by the articles contained in
+21 chapter 8 and other articles which contains class II or class III circuits and systems as
+22 defined by the national electrical code, as adopted by the board. Although the board
+23 may expand this definition, the board may not narrow this definition. The term does not
+24 include a circuit or system that is installed:
+25 a. Within an area of special occupancies, as defined under articles 500 through 517
+26 of the national electrical code.
+27 b. For heat, light, or power.
+28 c. For the control of heat, light, or power, unless the circuit or system employs
+29 digital communication.
+Page No. 2 25.0712.03000
+
+Sixty-ninth
+Legislative Assembly
+1 8. 1 3 . "Power limited electrician" means an individual who has the necessary qualifications,
+2 training, experience, and technical knowledge to plan, layout, and supervise the
+3 installation and repair of a power limited system.
+4 9. 1 4 . "Power limited system" means a system as defined by the articles contained in
+5 chapter 8 and other articles which contains class II or class III circuits and systems as
+6 defined by the national electrical code, as adopted by the board. Although the board
+7 may expand this definition, the term does not include a nonelectrical system.
+8 SECTION 2. AMENDMENT. Section 43-09-02 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 43-09-02. State electrical board - Members - Terms of office - Vacancies.
+11 The state electrical board must consist of fivesix members appointed by the governor for a
+12 term of five years with their terms of office so arranged that one term and only one term expires
+13 on June thirtieth of each year. One member of the board shall represent the public and may not
+14 be directly associated with the electrical industry. The board must include a master electrician
+15 who is a contractor, a journeyman electrician, a consumer member of a rural electric
+16 cooperative, an elevator mechanic, and a person associated with an investor-owned utility. A
+17 member of the board shall qualify by taking the oath of office required of civil officers and shall
+18 hold office until that member's successor is appointed and qualified. The governor shall fill any
+19 vacancy by appointment for the unexpired term of office.
+20 SECTION 3. A new section to chapter 43-09 of the North Dakota Century Code is created
+21 and enacted as follows:
+22 Powers and duties of the board - Regulation of conveyances - Exceptions .
+23 1. The board shall adopt rules to regulate the inspection and testing of conveyances and
+24 to implement applicable standards published by the American society of mechanical
+25 engineers. The board shall publish testing and inspection forms based on the rules
+26 and standards adopted by the board.
+27 2. The board shall establish procedures for monitoring compliance with this chapter and
+28 receiving and investigating complaints.
+29 3. The board may grant an exception or variance from the requirements of board rules if
+30 the exception or variance will not jeopardize the public safety and welfare.
+Page No. 3 25.0712.03000
+
+Sixty-ninth
+Legislative Assembly
+1 4. The board shall hold hearings and hear appeals on disciplinary matters under
+2 sections 4 through 10 of this Act .
+3 5. The board shall establish fee schedules for permits, certificates, inspections, and
+4 tests. The fees must reflect the actual costs and expenses to conduct the duties of the
+5 board.
+6 6. The rules adopted by the board may not apply to an elevator located in a single-family
+7 private residence, a facility used for the purpose of energy generation, an industrial
+8 conveyance the primary purpose of which is not the movement of individuals, or a
+9 conveyance used in an agricultural facility.
+10 SECTION 4. A new section to chapter 43-09 of the North Dakota Century Code is created
+11 and enacted as follows:
+12 Conveyance permit required.
+13 1. a. Within six months from the effective date of this Act, the owner of a conveyance
+14 shall register the conveyance with the board.
+15 b. The owner of a new elevator or other conveyance must register the conveyance
+16 with the board within thirty days after the conveyance has been inspected and
+17 approved.
+18 c. When registering a conveyance, the owner shall provide to the board the type of
+19 the conveyance, the rated load, the number of landings and speed of the
+20 conveyance, the name of the manufacturer of the conveyance, the location of the
+21 conveyance, the purpose for which the conveyance is used, and any additional
+22 information the board may require.
+23 d. When a conveyance subject to this chapter is decommissioned or otherwise
+24 taken out of service, the owner responsible for the equipment shall notify the
+25 board within six months to request the conveyance be removed from the
+26 registration list.
+27 2. Before an installation or alteration may be commenced on a conveyance, an elevator
+28 contractor shall apply to the board for a permit.
+29 3. An application for a permit must include:
+Page No. 4 25.0712.03000
+
+Sixty-ninth
+Legislative Assembly
+1 a. A copy of the specifications for the conveyance and must be accurately scaled
+2 and include fully dimensional plans showing the location of the installation in
+3 relation to the plans and elevation of the building.
+4 b. An illustration of each detail of construction and design, including electrical
+5 drawings.
+6 c. The location of the machinery space, machine room, control space, or control
+7 room and the equipment to be installed, relocated, or altered.
+8 d. All structural supporting members of the conveyance, including foundations.
+9 e. A description of the materials to be employed and all loads to be supported or
+10 conveyed.
+11 f. A copy of the written maintenance control program for the conveyance.
+12 4. The elevator contractor shall post the permit at the site of the conveyance while work
+13 is in progress. The elevator contractor obtaining the permit shall be responsible for the
+14 complete scope of work covered by the permit and ensure any alteration is performed
+15 only by a licensed elevator mechanic and performed in accordance the requirements
+16 of this chapter and any rules adopted by the board.
+17 SECTION 5. A new section to chapter 43-09 of the North Dakota Century Code is created
+18 and enacted as follows:
+19 Conveyance permit revocation or suspension.
+20 The board may revoke or suspend a permit upon a finding:
+21 1. Of a false statement, omission, or misrepresentation of material fact in the permit
+22 application or the plans or specifications on which the permit was based.
+23 2. The work detailed under the permit has not been performed in accordance with the
+24 application, plans, specifications, or conditions of the permit.
+25 3. The elevator contractor failed or refused to comply with a stop work order from the
+26 board.
+27 4. The board determines revocation is necessary to ensure the proper enforcement of
+28 this chapter or to protect public or worker safety.
+29 SECTION 6. A new section to chapter 43-09 of the North Dakota Century Code is created
+30 and enacted as follows:
+Page No. 5 25.0712.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Conveyance permit expiration.
+2 1. A permit is deemed expired if:
+3 a. The work authorized by the permit is not commenced within six months after the
+4 date on which the permit is issued or within a shorter period as specified on the
+5 permit; or
+6 b. After the work has commenced, the work is suspended or abandoned for sixty
+7 days or a shorter time specified on the permit.
+8 2. The board may allow an extension under subsection 1 .
+9 SECTION 7. A new section to chapter 43-09 of the North Dakota Century Code is created
+10 and enacted as follows:
+11 Certificate of operation - Penalty.
+12 1. Upon installation of a conveyance, an elevator contractor responsible for the work
+13 shall certify compliance with this chapter, rules of the board, and any applicable
+14 industry code or standard.
+15 2. Before a conveyance is placed in operation, the owner of the conveyance shall obtain
+16 a certificate of operation from the board. The board may impose a penalty of not less
+17 than fifty dollars for the failure to obtain a certificate of operation.
+18 3. A certificate of operation is valid for one year and must be renewed annually. The
+19 owner of the conveyance shall pay the required fee before the board may issue a
+20 certificate of operation and renewal of a certificate.
+21 4. The owner of the conveyance shall clearly display the certificate on or in each
+22 conveyance or in the machine room.
+23 SECTION 8. A new section to chapter 43-09 of the North Dakota Century Code is created
+24 and enacted as follows:
+25 Reporting of accidents.
+26 If an incident occurs involving an elevator or other conveyance which results in death or
+27 bodily injury to any person which requires hospitalization or other treatment by a medical
+28 professional, the owner of the conveyance shall submit to the board a report, on a form
+29 prescribed by the board, within forty-eight hours. The report must include the date, time, and
+30 place of accident.
+Page No. 6 25.0712.03000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 9. A new section to chapter 43-09 of the North Dakota Century Code is created
+2 and enacted as follows:
+3 Inspection and testing of conveyances - Removal from service .
+4 1. The owner of a conveyance shall ensure each conveyance is inspected and tested as
+5 required by the board.
+6 2. All work required for inspections and tests of conveyances must be performed by an
+7 elevator mechanic and must be witnessed by an elevator inspector.
+8 3. Upon completion of an inspection, the elevator inspector shall provide the owner of the
+9 conveyance and the board a written inspection report verifying code compliance or
+10 describing any code violations found. If a conveyance fails an inspection, the owner of
+11 the conveyance shall remove the conveyance from service until the violations are
+12 remedied to the satisfaction of the board.
+13 4. The board shall develop a schedule for required testing and inspection of elevators
+14 and conveyances in the state.
+15 SECTION 10. A new section to chapter 43-09 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Elevator inspector and contractor registration.
+18 1. An individual may not inspect any conveyance unless the individual is registered with
+19 the board. An individual may apply for registration by completing an application form
+20 provided by the board, submitting the application fee, and submitting documentation
+21 demonstrating the applicant meets the requirements established by the board by rule.
+22 2. A person may not perform, contract to perform, or advertise to perform alteration or
+23 maintenance of conveyances unless that person is registered as an elevator
+24 contractor with the board. A registered elevator contractor shall employ at least one
+25 elevator mechanic.
+26 3. The board shall create and maintain a list of all registered elevator contractors
+27 operating in North Dakota.
+28 SECTION 11. APPLICATION. The requirements of this Act must be phased in as follows:
+29 1. After August 1, 2026, each newly installed or altered conveyance must pass an
+30 acceptance test witnessed by an elevator inspector.
+Page No. 7 25.0712.03000
+
+Sixty-ninth
+Legislative Assembly
+1 2. After August 1, 2026, each traction elevator must pass an acceptance test witnessed
+2 by an elevator inspector.
+3 3. After August 1, 2027, each hydraulic elevator, escalator, and moving walk must pass
+4 an annual acceptance test witnessed by an elevator inspector.
+5 4. After August 1, 2028, the board shall implement a schedule to meet the five-year full
+6 load safety testing requirement.
+7 5. After August 1, 2032, each conveyance must pass a five-year full load safety test
+8 witnessed by an elevator inspector.
+Page No. 8 25.0712.03000
+
+[DELETED: ."."."."."12]
+[DELETED: .".".".".".".".W.F.F22]
+[DELETED: .".".T.T.T32]
+[DELETED: .T.T.T.a.W.T.W.W.B.A42]
+[DELETED: .A.A.T.A.A.A.T.O.T.T.T52]
+[DELETED: .A.T.A. .U.B.A.T62]
+[DELETED: .T.A.U.T.A.A.T.A72]
+[DELETED: .A.A.A.A82]

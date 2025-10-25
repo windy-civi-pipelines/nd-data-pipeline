@@ -1,0 +1,619 @@
+Title: ENGROSSED HOUSE BILL NO. 1013
+Official Title: ENGROSSED HOUSE BILL NO. 1013
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25.0157.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the department of
+2 public instruction, the center for distance education, the state library, the school for the deaf,
+3 and North Dakota vision services - school for the blind; to amend and reenact section
+4 15.1-02-02 of the North Dakota Century Code, relating to the salary of the superintendent of
+5 public instruction; to provide for a transfer; to provide a report; and to provide an exemption.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+8 as may be necessary, are appropriated out of any moneys in the general fund in the state
+9 treasury, not otherwise appropriated, and from other funds derived from special funds and
+10 federal funds, to the department of public instruction, the center for distance education, the
+11 state library, the school for the deaf, and North Dakota vision services - school for the blind for
+12 the purpose of defraying the expenses of those agencies, for the biennium beginning July 1,
+13 2025, and ending June 30, 2027, as follows:
+14 Subdivision 1.
+15 DEPARTMENT OF PUBLIC INSTRUCTION
+16 Adjustments or
+17 Base Level Enhancements Appropriation
+18 Salaries and wages $19,964,765 $1,121,603 $21,086,368
+19 New and vacant FTE pool 0 695,495 695,495
+20 Operating expenses 32,793,320 9,718,204 42,511,524
+21 Integrated formula payments 2,299,674,851 116,655,489 2,416,330,340
+22 Grants - special education 24,000,000 0 24,000,000
+Page No. 1 25.0157.02000
+Sixty-ninth
+Legislative Assembly
+1 Grants - transportation 58,100,000 5,400,000 63,500,000
+2 Grants - other grants 382,738,893 29,705,709 412,444,602
+3 Grants - program grants 17,205,000 7,011,027 24,216,027
+4 Grants - passthrough grants 3,569,000 12,266,000 15,835,000
+5 PowerSchool 5,775,000 (5,775,000) 0
+6 Student information systems 0 5,775,000 5,775,000
+7 National board certification 176,290 0 176,290
+8 Total all funds $2,843,997,119 $182,573,527 $3,026,570,646
+9 Less other funds 1,115,246,674 176,835,668 1,292,082,342
+10 Total general fund $1,728,750,445 $5,737,859 $1,734,488,304
+11 Full-time equivalent positions 86.25 0.00 86.25
+12 Subdivision 2.
+13 CENTER FOR DISTANCE EDUCATION
+14 Adjustments or
+15 Base Level Enhancements Appropriation
+16 Center for distance education $11,613,483 $2,966,477 $14,579,960
+17 New and vacant FTE pool 0 361,061 361,061
+18 Total all funds $11,613,483 $3,327,538 $14,941,021
+19 Less other funds 4,550,000 1,974,000 6,524,000
+20 Total general fund $7,063,483 $1,353,538 $8,417,021
+21 Full-time equivalent positions 30.80 1.20 32.00
+22 Subdivision 3.
+23 STATE LIBRARY
+24 Adjustments or
+25 Base Level Enhancements Appropriation
+26 Salaries and wages $4,615,731 $500,120 $5,115,851
+27 New and vacant FTE pool 0 107,552 107,552
+28 Operating expenses 2,282,298 707,777 2,990,075
+29 Grants 2,283,528 0 2,283,528
+30 Total all funds $9,181,557 $1,315,449 $10,497,006
+31 Less other funds 2,499,073 305,139 2,804,212
+Page No. 2 25.0157.02000
+Sixty-ninth
+Legislative Assembly
+1 Total general fund $6,682,484 $1,010,310 $7,692,794
+2 Full-time equivalent positions 26.75 0.00 26.75
+3 Subdivision 4.
+4 SCHOOL FOR THE DEAF
+5 Adjustments or
+6 Base Level Enhancements Appropriation
+7 Salaries and wages $9,283,599 $735,225 $10,018,824
+8 New and vacant FTE pool 0 415,571 415,571
+9 Operating expenses 1,705,586 320,839 2,026,425
+10 Capital assets 158,678 283,800 442,478
+11 Total all funds $11,147,863 $1,755,435 $12,903,298
+12 Less other funds 2,811,557 360,186 3,171,743
+13 Total general fund $8,336,306 $1,395,249 $9,731,555
+14 Full-time equivalent positions 45.36 1.50 46.86
+15 Subdivision 5.
+16 NORTH DAKOTA VISION SERVICES - SCHOOL FOR THE BLIND
+17 Adjustments or
+18 Base Level Enhancements Appropriation
+19 Salaries and wages $5,538,818 $241,078 $5,779,896
+20 New and vacant FTE pool 0 121,985 121,985
+21 Operating expenses 869,686 406,571 1,276,257
+22 Capital assets 39,192 230,808 270,000
+23 Total all funds $6,447,696 $1,000,442 $7,448,138
+24 Less other funds 1,206,705 534,239 1,740,944
+25 Total general fund $5,240,991 $466,203 $5,707,194
+26 Full-time equivalent positions 27.75 0.00 27.75
+27 Subdivision 6.
+28 TOTAL - SECTION 1
+29 Adjustments or
+30 Base Level Enhancements Appropriation
+31 Grand total all funds $2,882,387,718 $189,972,391 $3,072,360,109
+Page No. 3 25.0157.02000
+Sixty-ninth
+Legislative Assembly
+1 Less grand total other funds 1,126,314,009 180,009,232 1,306,323,241
+2 Grand total general fund $1,756,073,709 $9,963,159 $1,766,036,868
+3 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+4 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+5 items included in the appropriation in section 1 of this Act which are not included in each entity's
+6 base budget for the 2027-29 biennium and which each entity shall report to the appropriations
+7 committees of the seventieth legislative assembly regarding the use of this funding:
+8 One - Time Funding Description General Fund Other Funds Total Funds
+9 Department of Pubic Instruction
+10 Science center grants $0 $10,000,000 $10,000,000
+11 Teacher retention program 0 2,500,000 2,500,000
+12 School board training 0 1,500,000 1,500,000
+13 Native American essential 0 950,000 950,000
+14 understandings and book series
+15 Statewide reading tool 500,000 0 500,000
+16 Dyslexia training 300,000 300,000
+17 Assistive technology and 250,000 0 250,000
+18 curriculum pilot
+19 Total department of public instruction $750,000 $15,250,000 $16,000,000
+20 Center for Distance Education
+21 Information technology equipment $0 $25,000 $25,000
+22 Student information system upgrade 75,250 0 75,250
+23 Total center for distance education $75,250 $25,000 $100,250
+24 School for the Deaf
+25 Equipment replacement $0 $45,000 $45,000
+26 Campus security upgrades 0 238,800 238,800
+27 Total school for the deaf $0 $283,800 $283,800
+28 North Dakota vision services - School for the Blind
+29 Equipment less than $5,000 $0 $28,000 $28,000
+30 Door replacement 0 10,000 10,000
+31 Breakroom remodel 0 55,000 55,000
+Page No. 4 25.0157.02000
+Sixty-ninth
+Legislative Assembly
+1 Kitchen cabinet replacement 0 55,000 55,000
+2 South parking lot replacement 0 150,000 150,000
+3 Total school for the blind $0 $298,000 $298,000
+4 Grand total $825,250 $15,856,800 $16,682,050
+5 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+6 department of public instruction, center for distance education, state library, school for the deaf,
+7 and North Dakota vision services - school for the blind may not spend funds appropriated in the
+8 new and vacant FTE pool line item in section 1 of this Act, but may request the office of
+9 management and budget to transfer funds from the new and vacant FTE pool line item to the
+10 salaries and wages line item or the center for distance education line item within each
+11 respective subdivision in accordance with the guidelines and reporting provisions included in
+12 House Bill No. 1015, as approved by the sixty-ninth legislative assembly.
+13 SECTION 4. APPROPRIATION - TUITION APPORTIONMENT. The sum of $595,677,350,
+14 included in the integrated formula payments line item in subdivision 1 of section 1 of this Act, is
+15 from the state tuition fund in the state treasury. Any additional amount in the state tuition fund
+16 that becomes available for distribution to public schools is appropriated to the department of
+17 public instruction for that purpose for the biennium beginning July 1, 2025, and ending June 30,
+18 2027.
+19 SECTION 5. OTHER FUNDS - FOUNDATION AID STABILIZATION FUND. The other
+20 funds line item in subdivision 1 of section 1 of this Act includes the sum of $219,250,000 from
+21 the foundation aid stabilization fund for integrated formula payments, various program grants,
+22 and a Native American program and textbook.
+23 SECTION 6. OTHER FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND.
+24 The other funds line item in subdivision 1 of section 1 of this Act includes the sum of
+25 $10,000,000 from the strategic investment and improvements fund for science center grants.
+26 SECTION 7. INTEGRATED FORMULA PAYMENTS AND SPECIAL EDUCATION
+27 CONTRACTS EXPENDITURE AUTHORITY. The superintendent of public instruction may
+28 expend funds included in the integrated formula payments and grants - special education
+29 contracts line items in subdivision 1 of section 1 of this Act for paying grants for educational
+30 services that were due in the 2023-25 biennium but which were not filed, claimed, or properly
+31 supported by the education provider until after June 30, 2025. To be reimbursed under this
+Page No. 5 25.0157.02000
+Sixty-ninth
+Legislative Assembly
+1 section, claims must be properly supported and filed with the superintendent of public
+2 instruction by June 30, 2026.
+3 SECTION 8. GIFTED AND TALENTED PROGRAM. The sum of $800,000, included in the
+4 integrated formula payments line item in subdivision 1 of section 1 of this Act, must be
+5 distributed to reimburse school districts or special education units for gifted and talented
+6 programs upon the submission of an application that is approved in accordance with guidelines
+7 adopted by the superintendent of public instruction. The superintendent of public instruction
+8 shall encourage cooperative efforts for gifted and talented programs among school districts and
+9 special education units.
+10 SECTION 9. MEDICAID MATCHING FUNDING - WITHHOLDING AND DISTRIBUTION.
+11 State school aid payments for special education must be reduced by the amount of matching
+12 funds required to be paid by school districts or special education units for students participating
+13 in the Medicaid program for the biennium beginning July 1, 2025, and ending June 30, 2027.
+14 Special education funds equal to the amount of the matching funds required to be paid by the
+15 school district or special education unit must be paid by the superintendent of public instruction
+16 to the department of health and human services on behalf of the school district or unit.
+17 SECTION 10. REGIONAL EDUCATION ASSOCIATIONS - GRANTS - DISTRIBUTION.
+18 The integrated formula payments line item in subdivision 1 of section 1 of this Act includes
+19 $700,000 from the general fund for the purpose of providing annual grants to regional education
+20 associations, for the biennium beginning July 1, 2025, and ending June 30, 2027. An annual
+21 grant of $50,000 is provided to each regional education association that exists as of July 1,
+22 2025. Regional education associations that merge during the 2025-27 biennium are entitled to
+23 the annual grants that would have been paid to each of the member associations.
+24 SECTION 11. STUDENT MEALS - GRANTS - DISTRIBUTION. The grants - program
+25 grants line item in subdivision 1 of section 1 of this Act includes $4,500,000 from the general
+26 fund for the purpose of providing grants to school districts to defray the expenses of providing
+27 meals, free of charge, for all students enrolled in public or nonpublic school at or below
+28 two hundred twenty-five percent of the federal poverty guideline, for the biennium beginning
+29 July 1, 2025, and ending June 30, 2027. The superintendent of public instruction shall develop
+30 guidelines and reporting requirements for the grants.
+Page No. 6 25.0157.02000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 12. PARAPROFESSIONAL-TO-TEACHER PROGRAM - GRANTS -
+2 DISTRIBUTION. The grants - program grants line item in subdivision 1 of section 1 of this Act
+3 includes $3,000,000 from the general fund for the purpose of providing grants to accredited
+4 institutions of higher education to assist paraprofessionals to become qualified teachers, for the
+5 biennium beginning July 1, 2025, and ending June 30, 2027. The superintendent of public
+6 instruction may award up to $20,000 to each qualifying institution for program startup and other
+7 administrative costs and the remainder of the appropriation may be used only for tuition and
+8 scholarships for students enrolled in the program. The superintendent of public instruction may
+9 establish policies and procedures to administer this program.
+10 SECTION 13. NORTH DAKOTA GOVERNOR'S SCHOOLS - GRANTS - DISTRIBUTION.
+11 The grants - passthrough grants line item in subdivision 1 of section 1 of this Act includes
+12 $500,000 from the general fund for the purpose of providing grants for North Dakota governor's
+13 schools at North Dakota state university and university of North Dakota, for the biennium
+14 beginning July 1, 2025, and ending June 30, 2027.
+15 1. The superintendent of public instruction shall conduct North Dakota governor's
+16 schools once a summer alternating annually between North Dakota state university
+17 and university of North Dakota.
+18 2. The superintendent of public instruction shall award the grants based on providing an
+19 average cost of $5,000 per student attending the schools each year not to exceed a
+20 total of $250,000 to each university for each year of the biennium.
+21 3. The governor's schools program must provide programs related to science,
+22 technology, engineering, mathematics, energy law, mental health, education, and
+23 health sciences.
+24 4. The superintendent of public instruction shall name codirectors at each university to
+25 ensure continued collaboration of the schools at both campuses.
+26 5. Funds may be used only for defraying expenses for students while on campus,
+27 including housing, dining, resident assistants, program directors, instructors, and
+28 faculty research sponsors.
+29 SECTION 14. EXEMPTION - INDIRECT COST RECOVERIES, GENERAL
+30 EDUCATIONAL DEVELOPMENT FEES, AND DISPLACED HOMEMAKER DEPOSITS.
+31 Notwithstanding section 54-44.1-15, the department of public instruction may deposit indirect
+Page No. 7 25.0157.02000
+Sixty-ninth
+Legislative Assembly
+1 cost recoveries in its operating account. In addition, any moneys collected by the department of
+2 public instruction for general educational development fees and displaced homemakers
+3 deposits must be deposited in the public instruction fund in the state treasury. Any funds
+4 deposited in the public instruction fund may only be spent subject to appropriation by the
+5 legislative assembly.
+6 SECTION 15. EXEMPTION - TRANSFER - PUBLIC INSTRUCTION FUND - TRANSFER -
+7 GENERAL FUND. Notwithstanding section 54-44.1-11, if, after the superintendent of public
+8 instruction complies with all statutory payment obligations imposed for the 2023-25 biennium,
+9 from any moneys remaining in the integrated formula payments line item in subdivision 1 of
+10 section 1 of chapter 45 of the 2023 Session Laws, the lesser of $11,165,000 or the remaining
+11 amount must be continued into the 2025-27 biennium and the office of management and budget
+12 shall transfer this amount into the public instruction fund for the purpose of providing program
+13 and passthrough grants as appropriated in subdivision 1 of section 1 of this Act. The
+14 superintendent of public instruction shall transfer any of these funds remaining unspent at the
+15 end of the 2025-27 biennium to the general fund.
+16 SECTION 16. EXEMPTION - UNEXPENDED APPROPRIATIONS - DEPARTMENT OF
+17 PUBLIC INSTRUCTION. The following appropriations to the department of public instruction
+18 are not subject to the provisions of section 54-44.1-11 and may be continued into the biennium
+19 beginning July 1, 2025, and ending June 30, 2027:
+20 1. Any funds remaining from federal funds derived from the elementary and secondary
+21 school emergency education relief fund and any other federal funds appropriated in
+22 subdivision 2 of section 2 of chapter 28 of the 2021 Session Laws; and
+23 2. Any funds remaining from special funds from the public instruction fund in the state
+24 treasury, derived from reimbursements withheld from school districts' integrated
+25 formula payments for the purpose of information technology project upgrades to the
+26 state automated reporting system and the statewide longitudinal data system,
+27 appropriated in section 17 of chapter 549 of the 2021 Special Session Session Laws.
+28 SECTION 17. EXEMPTION - UNEXPENDED APPROPRIATION - STATE LIBRARY. The
+29 sum of $150,000, appropriated from the general fund to the state library for building renovations
+30 in subdivision 3 of section 1 of chapter 45 of the 2023 Session Laws, is not subject to the
+Page No. 8 25.0157.02000
+Sixty-ninth
+Legislative Assembly
+1 provisions of section 54-44.1-11. Any unexpended funds from this appropriation are available for
+2 building renovations during the biennium beginning July 1, 2025, and ending June 30, 2027.
+3 SECTION 18. EXEMPTION - UNEXPENDED APPROPRIATIONS - SCHOOL FOR THE
+4 DEAF. The sum of $800,000, appropriated from special funds, derived from trust fund
+5 distributions, rents, and service revenue, to the school for the deaf for boiler replacement,
+6 pneumatic controls, and a fire alarm system in subdivision 4 of section 1 of chapter 45 of the
+7 2023 Session Laws, is not subject to the provisions of section 54-44.1-11. Any unexpended
+8 funds from this appropriation are available for boiler replacement, pneumatic controls, and a fire
+9 alarm system during the biennium beginning July 1, 2025, and ending June 30, 2027.
+10 SECTION 19. STATE AID TO PUBLIC LIBRARIES. The grants line item in subdivision 3 of
+11 section 1 of this Act includes $1,737,582 for aid to public libraries, of which no more than
+12 one-half may be expended during the fiscal year ending June 30, 2026.
+13 SECTION 20. AMENDMENT. Section 15.1-02-02 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 15.1-02-02. Salary.
+16 The annual salary of the superintendent of public instruction is one hundred thirty-eight
+17 thousand one hundred forty-two one hundred forty - seven thousand nine hundred seventy - eigh t
+18 dollars through June 30, 20242026, and one hundred forty-three thousand six hundred
+19 sixty-eight one hundred fifty - two thousand four hundred seventeen dollars thereafter.
+Page No. 9 25.0157.02000
+[DELETED: lEsAs$5$3$l0656s30944s21192n200212]
+[DELETED: n50506s33294s10772s30101l50()s0505n1001s$9$7$s14181d$5$9$s85008lEsAn$3$7$l0313s$3$8$s40106d$3$8$s30103lEsAs$1$0$l0121s28772s2802s$7$9$s2339222]
+[DELETED: d$4$0$s25002lEsAs$9$5$l0414s16392s18204s$3$5$s27363d$6$9$s46104lEsAs$8$8$l0151s86411s32282s$6$2$s15591d$1$3$s25002lEsAs$8$1$32]
+[DELETED: s19121d$9$9$ GdOsTs$0$0$m0202g0101l0909l5005g303d2002n$0$0$t$0$0$e7007n$0$0$t$0$0$s0202f$0$0$0$0$0$t0101l050542]
+[DELETED: t0505t0101d$0$0$l$0$0$52]
+[DELETED: 62]
+[DELETED: .T.T.T.T.F72]
+[DELETED: .A.A82]
+[DELETED: 92]
+
+
+================================================================================
+
+Raw Text:
+25.0157.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1013
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the department of
+2 public instruction, the center for distance education, the state library, the school for the deaf,
+3 and North Dakota vision services - school for the blind; to amend and reenact section
+4 15.1-02-02 of the North Dakota Century Code, relating to the salary of the superintendent of
+5 public instruction; to provide for a transfer; to provide a report; and to provide an exemption.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+8 as may be necessary, are appropriated out of any moneys in the general fund in the state
+9 treasury, not otherwise appropriated, and from other funds derived from special funds and
+10 federal funds, to the department of public instruction, the center for distance education, the
+11 state library, the school for the deaf, and North Dakota vision services - school for the blind for
+12 the purpose of defraying the expenses of those agencies, for the biennium beginning July 1,
+13 2025, and ending June 30, 2027, as follows:
+14 Subdivision 1.
+15 DEPARTMENT OF PUBLIC INSTRUCTION
+16 Adjustments or
+17 Base Level Enhancements Appropriation
+18 Salaries and wages $19,964,765 $1,121,603 $21,086,368
+19 New and vacant FTE pool 0 695,495 695,495
+20 Operating expenses 32,793,320 9,718,204 42,511,524
+21 Integrated formula payments 2,299,674,851 116,655,489 2,416,330,340
+22 Grants - special education 24,000,000 0 24,000,000
+Page No. 1 25.0157.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Grants - transportation 58,100,000 5,400,000 63,500,000
+2 Grants - other grants 382,738,893 29,705,709 412,444,602
+3 Grants - program grants 17,205,000 7,011,027 24,216,027
+4 Grants - passthrough grants 3,569,000 12,266,000 15,835,000
+5 PowerSchool 5,775,000 (5,775,000) 0
+6 Student information systems 0 5,775,000 5,775,000
+7 National board certification 176,290 0 176,290
+8 Total all funds $2,843,997,119 $182,573,527 $3,026,570,646
+9 Less other funds 1,115,246,674 176,835,668 1,292,082,342
+10 Total general fund $1,728,750,445 $5,737,859 $1,734,488,304
+11 Full-time equivalent positions 86.25 0.00 86.25
+12 Subdivision 2.
+13 CENTER FOR DISTANCE EDUCATION
+14 Adjustments or
+15 Base Level Enhancements Appropriation
+16 Center for distance education $11,613,483 $2,966,477 $14,579,960
+17 New and vacant FTE pool 0 361,061 361,061
+18 Total all funds $11,613,483 $3,327,538 $14,941,021
+19 Less other funds 4,550,000 1,974,000 6,524,000
+20 Total general fund $7,063,483 $1,353,538 $8,417,021
+21 Full-time equivalent positions 30.80 1.20 32.00
+22 Subdivision 3.
+23 STATE LIBRARY
+24 Adjustments or
+25 Base Level Enhancements Appropriation
+26 Salaries and wages $4,615,731 $500,120 $5,115,851
+27 New and vacant FTE pool 0 107,552 107,552
+28 Operating expenses 2,282,298 707,777 2,990,075
+29 Grants 2,283,528 0 2,283,528
+30 Total all funds $9,181,557 $1,315,449 $10,497,006
+31 Less other funds 2,499,073 305,139 2,804,212
+Page No. 2 25.0157.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Total general fund $6,682,484 $1,010,310 $7,692,794
+2 Full-time equivalent positions 26.75 0.00 26.75
+3 Subdivision 4.
+4 SCHOOL FOR THE DEAF
+5 Adjustments or
+6 Base Level Enhancements Appropriation
+7 Salaries and wages $9,283,599 $735,225 $10,018,824
+8 New and vacant FTE pool 0 415,571 415,571
+9 Operating expenses 1,705,586 320,839 2,026,425
+10 Capital assets 158,678 283,800 442,478
+11 Total all funds $11,147,863 $1,755,435 $12,903,298
+12 Less other funds 2,811,557 360,186 3,171,743
+13 Total general fund $8,336,306 $1,395,249 $9,731,555
+14 Full-time equivalent positions 45.36 1.50 46.86
+15 Subdivision 5.
+16 NORTH DAKOTA VISION SERVICES - SCHOOL FOR THE BLIND
+17 Adjustments or
+18 Base Level Enhancements Appropriation
+19 Salaries and wages $5,538,818 $241,078 $5,779,896
+20 New and vacant FTE pool 0 121,985 121,985
+21 Operating expenses 869,686 406,571 1,276,257
+22 Capital assets 39,192 230,808 270,000
+23 Total all funds $6,447,696 $1,000,442 $7,448,138
+24 Less other funds 1,206,705 534,239 1,740,944
+25 Total general fund $5,240,991 $466,203 $5,707,194
+26 Full-time equivalent positions 27.75 0.00 27.75
+27 Subdivision 6.
+28 TOTAL - SECTION 1
+29 Adjustments or
+30 Base Level Enhancements Appropriation
+31 Grand total all funds $2,882,387,718 $189,972,391 $3,072,360,109
+Page No. 3 25.0157.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Less grand total other funds 1,126,314,009 180,009,232 1,306,323,241
+2 Grand total general fund $1,756,073,709 $9,963,159 $1,766,036,868
+3 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+4 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+5 items included in the appropriation in section 1 of this Act which are not included in each entity's
+6 base budget for the 2027-29 biennium and which each entity shall report to the appropriations
+7 committees of the seventieth legislative assembly regarding the use of this funding:
+8 One - Time Funding Description General Fund Other Funds Total Funds
+9 Department of Pubic Instruction
+10 Science center grants $0 $10,000,000 $10,000,000
+11 Teacher retention program 0 2,500,000 2,500,000
+12 School board training 0 1,500,000 1,500,000
+13 Native American essential 0 950,000 950,000
+14 understandings and book series
+15 Statewide reading tool 500,000 0 500,000
+16 Dyslexia training 300,000 300,000
+17 Assistive technology and 250,000 0 250,000
+18 curriculum pilot
+19 Total department of public instruction $750,000 $15,250,000 $16,000,000
+20 Center for Distance Education
+21 Information technology equipment $0 $25,000 $25,000
+22 Student information system upgrade 75,250 0 75,250
+23 Total center for distance education $75,250 $25,000 $100,250
+24 School for the Deaf
+25 Equipment replacement $0 $45,000 $45,000
+26 Campus security upgrades 0 238,800 238,800
+27 Total school for the deaf $0 $283,800 $283,800
+28 North Dakota vision services - School for the Blind
+29 Equipment less than $5,000 $0 $28,000 $28,000
+30 Door replacement 0 10,000 10,000
+31 Breakroom remodel 0 55,000 55,000
+Page No. 4 25.0157.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Kitchen cabinet replacement 0 55,000 55,000
+2 South parking lot replacement 0 150,000 150,000
+3 Total school for the blind $0 $298,000 $298,000
+4 Grand total $825,250 $15,856,800 $16,682,050
+5 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+6 department of public instruction, center for distance education, state library, school for the deaf,
+7 and North Dakota vision services - school for the blind may not spend funds appropriated in the
+8 new and vacant FTE pool line item in section 1 of this Act, but may request the office of
+9 management and budget to transfer funds from the new and vacant FTE pool line item to the
+10 salaries and wages line item or the center for distance education line item within each
+11 respective subdivision in accordance with the guidelines and reporting provisions included in
+12 House Bill No. 1015, as approved by the sixty-ninth legislative assembly.
+13 SECTION 4. APPROPRIATION - TUITION APPORTIONMENT. The sum of $595,677,350,
+14 included in the integrated formula payments line item in subdivision 1 of section 1 of this Act, is
+15 from the state tuition fund in the state treasury. Any additional amount in the state tuition fund
+16 that becomes available for distribution to public schools is appropriated to the department of
+17 public instruction for that purpose for the biennium beginning July 1, 2025, and ending June 30,
+18 2027.
+19 SECTION 5. OTHER FUNDS - FOUNDATION AID STABILIZATION FUND. The other
+20 funds line item in subdivision 1 of section 1 of this Act includes the sum of $219,250,000 from
+21 the foundation aid stabilization fund for integrated formula payments, various program grants,
+22 and a Native American program and textbook.
+23 SECTION 6. OTHER FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND.
+24 The other funds line item in subdivision 1 of section 1 of this Act includes the sum of
+25 $10,000,000 from the strategic investment and improvements fund for science center grants.
+26 SECTION 7. INTEGRATED FORMULA PAYMENTS AND SPECIAL EDUCATION
+27 CONTRACTS EXPENDITURE AUTHORITY. The superintendent of public instruction may
+28 expend funds included in the integrated formula payments and grants - special education
+29 contracts line items in subdivision 1 of section 1 of this Act for paying grants for educational
+30 services that were due in the 2023-25 biennium but which were not filed, claimed, or properly
+31 supported by the education provider until after June 30, 2025. To be reimbursed under this
+Page No. 5 25.0157.02000
+
+Sixty-ninth
+Legislative Assembly
+1 section, claims must be properly supported and filed with the superintendent of public
+2 instruction by June 30, 2026.
+3 SECTION 8. GIFTED AND TALENTED PROGRAM. The sum of $800,000, included in the
+4 integrated formula payments line item in subdivision 1 of section 1 of this Act, must be
+5 distributed to reimburse school districts or special education units for gifted and talented
+6 programs upon the submission of an application that is approved in accordance with guidelines
+7 adopted by the superintendent of public instruction. The superintendent of public instruction
+8 shall encourage cooperative efforts for gifted and talented programs among school districts and
+9 special education units.
+10 SECTION 9. MEDICAID MATCHING FUNDING - WITHHOLDING AND DISTRIBUTION.
+11 State school aid payments for special education must be reduced by the amount of matching
+12 funds required to be paid by school districts or special education units for students participating
+13 in the Medicaid program for the biennium beginning July 1, 2025, and ending June 30, 2027.
+14 Special education funds equal to the amount of the matching funds required to be paid by the
+15 school district or special education unit must be paid by the superintendent of public instruction
+16 to the department of health and human services on behalf of the school district or unit.
+17 SECTION 10. REGIONAL EDUCATION ASSOCIATIONS - GRANTS - DISTRIBUTION.
+18 The integrated formula payments line item in subdivision 1 of section 1 of this Act includes
+19 $700,000 from the general fund for the purpose of providing annual grants to regional education
+20 associations, for the biennium beginning July 1, 2025, and ending June 30, 2027. An annual
+21 grant of $50,000 is provided to each regional education association that exists as of July 1,
+22 2025. Regional education associations that merge during the 2025-27 biennium are entitled to
+23 the annual grants that would have been paid to each of the member associations.
+24 SECTION 11. STUDENT MEALS - GRANTS - DISTRIBUTION. The grants - program
+25 grants line item in subdivision 1 of section 1 of this Act includes $4,500,000 from the general
+26 fund for the purpose of providing grants to school districts to defray the expenses of providing
+27 meals, free of charge, for all students enrolled in public or nonpublic school at or below
+28 two hundred twenty-five percent of the federal poverty guideline, for the biennium beginning
+29 July 1, 2025, and ending June 30, 2027. The superintendent of public instruction shall develop
+30 guidelines and reporting requirements for the grants.
+Page No. 6 25.0157.02000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 12. PARAPROFESSIONAL-TO-TEACHER PROGRAM - GRANTS -
+2 DISTRIBUTION. The grants - program grants line item in subdivision 1 of section 1 of this Act
+3 includes $3,000,000 from the general fund for the purpose of providing grants to accredited
+4 institutions of higher education to assist paraprofessionals to become qualified teachers, for the
+5 biennium beginning July 1, 2025, and ending June 30, 2027. The superintendent of public
+6 instruction may award up to $20,000 to each qualifying institution for program startup and other
+7 administrative costs and the remainder of the appropriation may be used only for tuition and
+8 scholarships for students enrolled in the program. The superintendent of public instruction may
+9 establish policies and procedures to administer this program.
+10 SECTION 13. NORTH DAKOTA GOVERNOR'S SCHOOLS - GRANTS - DISTRIBUTION.
+11 The grants - passthrough grants line item in subdivision 1 of section 1 of this Act includes
+12 $500,000 from the general fund for the purpose of providing grants for North Dakota governor's
+13 schools at North Dakota state university and university of North Dakota, for the biennium
+14 beginning July 1, 2025, and ending June 30, 2027.
+15 1. The superintendent of public instruction shall conduct North Dakota governor's
+16 schools once a summer alternating annually between North Dakota state university
+17 and university of North Dakota.
+18 2. The superintendent of public instruction shall award the grants based on providing an
+19 average cost of $5,000 per student attending the schools each year not to exceed a
+20 total of $250,000 to each university for each year of the biennium.
+21 3. The governor's schools program must provide programs related to science,
+22 technology, engineering, mathematics, energy law, mental health, education, and
+23 health sciences.
+24 4. The superintendent of public instruction shall name codirectors at each university to
+25 ensure continued collaboration of the schools at both campuses.
+26 5. Funds may be used only for defraying expenses for students while on campus,
+27 including housing, dining, resident assistants, program directors, instructors, and
+28 faculty research sponsors.
+29 SECTION 14. EXEMPTION - INDIRECT COST RECOVERIES, GENERAL
+30 EDUCATIONAL DEVELOPMENT FEES, AND DISPLACED HOMEMAKER DEPOSITS.
+31 Notwithstanding section 54-44.1-15, the department of public instruction may deposit indirect
+Page No. 7 25.0157.02000
+
+Sixty-ninth
+Legislative Assembly
+1 cost recoveries in its operating account. In addition, any moneys collected by the department of
+2 public instruction for general educational development fees and displaced homemakers
+3 deposits must be deposited in the public instruction fund in the state treasury. Any funds
+4 deposited in the public instruction fund may only be spent subject to appropriation by the
+5 legislative assembly.
+6 SECTION 15. EXEMPTION - TRANSFER - PUBLIC INSTRUCTION FUND - TRANSFER -
+7 GENERAL FUND. Notwithstanding section 54-44.1-11, if, after the superintendent of public
+8 instruction complies with all statutory payment obligations imposed for the 2023-25 biennium,
+9 from any moneys remaining in the integrated formula payments line item in subdivision 1 of
+10 section 1 of chapter 45 of the 2023 Session Laws, the lesser of $11,165,000 or the remaining
+11 amount must be continued into the 2025-27 biennium and the office of management and budget
+12 shall transfer this amount into the public instruction fund for the purpose of providing program
+13 and passthrough grants as appropriated in subdivision 1 of section 1 of this Act. The
+14 superintendent of public instruction shall transfer any of these funds remaining unspent at the
+15 end of the 2025-27 biennium to the general fund.
+16 SECTION 16. EXEMPTION - UNEXPENDED APPROPRIATIONS - DEPARTMENT OF
+17 PUBLIC INSTRUCTION. The following appropriations to the department of public instruction
+18 are not subject to the provisions of section 54-44.1-11 and may be continued into the biennium
+19 beginning July 1, 2025, and ending June 30, 2027:
+20 1. Any funds remaining from federal funds derived from the elementary and secondary
+21 school emergency education relief fund and any other federal funds appropriated in
+22 subdivision 2 of section 2 of chapter 28 of the 2021 Session Laws; and
+23 2. Any funds remaining from special funds from the public instruction fund in the state
+24 treasury, derived from reimbursements withheld from school districts' integrated
+25 formula payments for the purpose of information technology project upgrades to the
+26 state automated reporting system and the statewide longitudinal data system,
+27 appropriated in section 17 of chapter 549 of the 2021 Special Session Session Laws.
+28 SECTION 17. EXEMPTION - UNEXPENDED APPROPRIATION - STATE LIBRARY. The
+29 sum of $150,000, appropriated from the general fund to the state library for building renovations
+30 in subdivision 3 of section 1 of chapter 45 of the 2023 Session Laws, is not subject to the
+Page No. 8 25.0157.02000
+
+Sixty-ninth
+Legislative Assembly
+1 provisions of section 54-44.1-11. Any unexpended funds from this appropriation are available for
+2 building renovations during the biennium beginning July 1, 2025, and ending June 30, 2027.
+3 SECTION 18. EXEMPTION - UNEXPENDED APPROPRIATIONS - SCHOOL FOR THE
+4 DEAF. The sum of $800,000, appropriated from special funds, derived from trust fund
+5 distributions, rents, and service revenue, to the school for the deaf for boiler replacement,
+6 pneumatic controls, and a fire alarm system in subdivision 4 of section 1 of chapter 45 of the
+7 2023 Session Laws, is not subject to the provisions of section 54-44.1-11. Any unexpended
+8 funds from this appropriation are available for boiler replacement, pneumatic controls, and a fire
+9 alarm system during the biennium beginning July 1, 2025, and ending June 30, 2027.
+10 SECTION 19. STATE AID TO PUBLIC LIBRARIES. The grants line item in subdivision 3 of
+11 section 1 of this Act includes $1,737,582 for aid to public libraries, of which no more than
+12 one-half may be expended during the fiscal year ending June 30, 2026.
+13 SECTION 20. AMENDMENT. Section 15.1-02-02 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 15.1-02-02. Salary.
+16 The annual salary of the superintendent of public instruction is one hundred thirty-eight
+17 thousand one hundred forty-two one hundred forty - seven thousand nine hundred seventy - eigh t
+18 dollars through June 30, 20242026, and one hundred forty-three thousand six hundred
+19 sixty-eight one hundred fifty - two thousand four hundred seventeen dollars thereafter.
+Page No. 9 25.0157.02000
+
+[DELETED: lEsAs$5$3$l0656s30944s21192n200212]
+[DELETED: n50506s33294s10772s30101l50()s0505n1001s$9$7$s14181d$5$9$s85008lEsAn$3$7$l0313s$3$8$s40106d$3$8$s30103lEsAs$1$0$l0121s28772s2802s$7$9$s2339222]
+[DELETED: d$4$0$s25002lEsAs$9$5$l0414s16392s18204s$3$5$s27363d$6$9$s46104lEsAs$8$8$l0151s86411s32282s$6$2$s15591d$1$3$s25002lEsAs$8$1$32]
+[DELETED: s19121d$9$9$ GdOsTs$0$0$m0202g0101l0909l5005g303d2002n$0$0$t$0$0$e7007n$0$0$t$0$0$s0202f$0$0$0$0$0$t0101l050542]
+[DELETED: t0505t0101d$0$0$l$0$0$52]
+[DELETED: 62]
+[DELETED: .T.T.T.T.F72]
+[DELETED: .A.A82]
+[DELETED: 92]

@@ -1,0 +1,1646 @@
+Title: SENATE BILL NO. 2146
+Official Title: SENATE BILL NO. 2146
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+25.0274.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Roers, Barta
+Representatives Frelich, Holle, M. Ruby, O'Brien
+1 A BILL for an Act to create and enact chapter 43-40.1 of the North Dakota Century Code,
+2 relating to the occupational therapy licensure compact.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. Chapter 43-40.1 of the North Dakota Century Code is created and enacted as
+5 follows:
+6 43 - 40.1 - 01. Purpose .
+7 1. The purpose of this compact is to facilitate interstate practice of occupational therapy
+8 with the goal of improving public access to occupational therapy services. The practice
+9 of occupational therapy occurs in the state where the patient is located at the time of
+10 the patient encounter. The compact preserves the regulatory authority of states to
+11 protect public health and safety through the current system of state licensure.
+12 2. This compact is designed to:
+13 a. Increase public access to occupational therapy services by providing for the
+14 mutual recognition of other member state licenses;
+15 b. Enhance the states' ability to protect the public's health and safety;
+16 c. Encourage the cooperation of member states in regulating multistate
+17 occupational therapy practice;
+18 d. Support spouses of relocating military members;
+19 e. Enhance the exchange of licensure, investigative, and disciplinary information
+20 between member states;
+21 f. Allow a remote state to hold a provider of services with a compact privilege in
+22 that state accountable to that state's practice standards; and
+23 g. Facilitate the use of telehealth technology to increase access to occupational
+24 therapy services.
+Page No. 1 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 02. Definitions .
+2 As used in this compact:
+3 1. "Active duty military" means full-time duty status in the active uniformed service of the
+4 United States, including members of the national guard and reserve on active duty
+5 orders under 10 U.S.C. chapter 1209 and 10 U.S.C. chapter 1211.
+6 2. "Adverse action" means any administrative, civil, equitable, or criminal action
+7 permitted by a state's laws which is imposed by a licensing board or other authority
+8 against an occupational therapist or occupational therapy assistant, including actions
+9 against an individual's license or compact privilege, including censure, revocation,
+10 suspension, probation, monitoring of the licensee, or restriction on the licensee's
+11 practice.
+12 3. "Alternative program" means a nondisciplinary monitoring process approved by an
+13 occupational therapy licensing board.
+14 4. "Compact privilege" means the authorization, which is equivalent to a license, granted
+15 by a remote state to allow a licensee from another member state to practice as an
+16 occupational therapist or practice as an occupational therapy assistant in the remote
+17 state under its laws and rules. The practice of occupational therapy occurs in the
+18 member state where the patient is located at the time of the patient encounter.
+19 5. "Continuing education" means a requirement, as a condition of license renewal, to
+20 provide evidence of participation in, or completion of, educational and professional
+21 activities relevant to practice or area of work.
+22 6. "Current significant investigative information" means investigative information a
+23 licensing board, after an inquiry or investigation that includes notification and an
+24 opportunity for the occupational therapist or occupational therapy assistant to respond,
+25 if required by state law, has reason to believe is not groundless and, if proved true,
+26 would indicate more than a minor infraction.
+27 7. "Data system" means a repository of information about licensees, including license
+28 status, investigative information, compact privileges, and adverse actions.
+29 8. "Encumbered license" means a license in which an adverse action restricts the
+30 practice of occupational therapy by the licensee or the adverse action has been
+31 reported to the national practitioner data bank.
+Page No. 2 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 9. "Executive committee" means a group of directors elected or appointed to act on
+2 behalf of, and within the powers granted to them by, the commission.
+3 10. "Home state" means the member state that is the licensee's primary state of
+4 residence.
+5 11. "Impaired practitioner" means an individual whose professional practice is adversely
+6 affected by substance abuse, addiction, or other health-related condition.
+7 12. "Investigative information" means information, records, or documents received or
+8 generated by an occupational therapy licensing board pursuant to an investigation.
+9 13. "Jurisprudence requirement" means the assessment of an individual's knowledge of
+10 the laws and rules governing the practice of occupational therapy in a state.
+11 14. "Licensee" means an individual who currently holds an authorization from the state to
+12 practice as an occupational therapist or as an occupational therapy assistant.
+13 15. "Member state" means a state that has enacted this compact.
+14 16. "Occupational therapist" means an individual who is licensed by a state to practice
+15 occupational therapy.
+16 17. "Occupational therapy", "occupational therapy practice", and the "practice of
+17 occupational therapy" mean the care and services provided by an occupational
+18 therapist or an occupational therapy assistant as provided under the member state's
+19 statutes and regulations.
+20 18. "Occupational therapy assistant" means an individual who is licensed by a state to
+21 assist in the practice of occupational therapy.
+22 19. "Occupational therapy compact commission" or "commission" means the national
+23 administrative body whose membership consists of all states that have enacted this
+24 compact.
+25 20. "Occupational therapy licensing board" or "licensing board" means the agency of a
+26 state that is authorized to license and regulate occupational therapists and
+27 occupational therapy assistants.
+28 21. "Primary state of residence" means the state in which an occupational therapist or
+29 occupational therapy assistant who is not active duty military declares a primary
+30 residence for legal purposes as verified by a driver's license, federal income tax
+Page No. 3 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 return, lease, deed, mortgage, or voter registration, or other verifying documentation
+2 as provided under commission rules.
+3 22. "Remote state" means a member state other than the home state, where a licensee is
+4 exercising or seeking to exercise the compact privilege.
+5 23. "Rule" means a regulation adopted by the commission which has the force of law.
+6 24. "Single-state license" means an occupational therapist or occupational therapy
+7 assistant license issued by a member state that authorizes practice only within the
+8 issuing state and does not include a compact privilege in any other member state.
+9 25. "State" means any state, commonwealth, district, or territory of the United States of
+10 America that regulates the practice of occupational therapy.
+11 26. "Telehealth" means the application of telecommunication technology to deliver
+12 occupational therapy services for assessment, intervention, or consultation.
+13 43 - 40.1 - 03. State participation in the compact .
+14 1. To participate in the compact, a member state shall:
+15 a. License occupational therapists and occupational therapy assistants;
+16 b. Participate fully in the commission's data system, including using the
+17 commission's unique identifier as defined in rules of the commission;
+18 c. Have a mechanism in place for receiving and investigating complaints about
+19 licensees;
+20 d. Notify the commission, in compliance with the terms of the compact and rules, of
+21 any adverse action or the availability of investigative information regarding a
+22 licensee;
+23 e. Implement or use procedures for considering the criminal history records of
+24 applicants for an initial compact privilege. The procedures shall include the
+25 submission of fingerprints or other biometric-based information by applicants for
+26 the purpose of obtaining an applicant's criminal history record information from
+27 the federal bureau of investigation and the agency responsible for retaining that
+28 state's criminal records.
+29 (1) A member state shall, within a time frame established by the commission,
+30 require a criminal background check for a licensee applying for a compact
+31 privilege whose primary state of residence is that member state, by
+Page No. 4 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 receiving the results of the federal bureau of investigation criminal record
+2 search, and shall use the results in making licensure decisions.
+3 (2) Communication between a member state, the commission, and among
+4 member states regarding the verification of eligibility for licensure through
+5 the compact may not include any information received from the federal
+6 bureau of investigation relating to a federal criminal records check
+7 performed by a member state under Public Law 92 - 544 ;
+8 f. Comply with the rules of the commission;
+9 g. Use only a recognized national examination as a requirement for licensure
+10 pursuant to the rules of the commission; and
+11 h. Have continuing education requirements as a condition for license renewal.
+12 2. A member state shall grant the compact privilege to a licensee holding a valid
+13 unencumbered license in another member state in accordance with the terms of the
+14 compact and rules.
+15 3. Member states may charge a fee for granting a compact privilege.
+16 4. A member state shall provide for the state's delegate to attend all occupational therapy
+17 compact commission meetings.
+18 5. An individual not residing in a member state shall continue to be able to apply for a
+19 member state's single-state license as provided under the laws of each member state.
+20 The single-state license granted to the individual may not be recognized as granting
+21 the compact privilege in any other member state.
+22 6. This compact does not affect the requirements established by a member state for the
+23 issuance of a single-state license.
+24 43 - 40.1 - 04. Compact privilege .
+25 1. To exercise the compact privilege under the terms and provisions of the compact, the
+26 licensee shall:
+27 a. Hold a license in the home state;
+28 b. Have a valid United States social security number or national practitioner
+29 identification number;
+30 c. Have no encumbrance on any state license;
+Page No. 5 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 d. Be eligible for a compact privilege in any member state in accordance with
+2 subsections 4, 6, 7, and 8 ;
+3 e. Have paid all fines and completed all requirements resulting from any adverse
+4 action against any license or compact privilege, and two years have elapsed from
+5 the date of completing the requirements;
+6 f. Notify the commission that the licensee is seeking the compact privilege within a
+7 remote state;
+8 g. Pay any applicable fee, including any state fee, for the compact privilege;
+9 h. Complete a criminal background check in accordance with subdivision e o f
+10 subsection 1 of section 43 - 40.1 - 03. The licensee shall be responsible for the
+11 payment of any fee associated with the completion of a criminal background
+12 check;
+13 i. Meet any jurisprudence requirement established by the remote state in which the
+14 licensee is seeking a compact privilege; and
+15 j Report adverse action taken by any nonmember state to the commission within
+16 thirty days from the date the adverse action is taken.
+17 2. The compact privilege is valid until the expiration date of the home state license. The
+18 licensee must comply with the requirements of subsection 1 to maintain the compac t
+19 privilege in the remote state.
+20 3. A licensee providing occupational therapy in a remote state under the compact
+21 privilege shall function within the laws and regulations of the remote state.
+22 4. Occupational therapy assistants practicing in a remote state must be supervised by an
+23 occupational therapist licensed or holding a compact privilege in that remote state.
+24 5. A licensee providing occupational therapy in a remote state is subject to that state's
+25 regulatory authority. A remote state may, in accordance with due process and that
+26 state's laws, remove a licensee's compact privilege in the remote state for a specific
+27 period of time, impose fines, and take any other necessary actions to protect the
+28 health and safety of the remote state's citizens. The licensee may be ineligible for a
+29 compact privilege in any state until the specific time for removal has passed and all
+30 fines are paid.
+Page No. 6 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 6. If a home state license is encumbered, the licensee loses the compact privilege in any
+2 remote state until:
+3 a. The home state license is no longer encumbered; and
+4 b. Two years have elapsed from the date on which the home state license is no
+5 longer encumbered in accordance with subdivision a .
+6 7. If an encumbered license in the home state is restored to good standing, the licensee
+7 must meet the requirements of subsection 1 to obtain a compact privilege in any
+8 remote state.
+9 8. If a licensee's compact privilege in any remote state is removed, the licensee may lose
+10 the compact privilege in any other remote state until:
+11 a. The specific period of time for which the compact privilege was removed has
+12 ended;
+13 b. All fines have been paid and all conditions have been met;
+14 c. Two years have elapsed from the date of completing the requirements under
+15 subdivisions a and b; and
+16 d. The compact privileges are reinstated by the commission, and the compact data
+17 system is updated to reflect reinstatement.
+18 9. If a licensee's compact privilege in any remote state is removed due to an erroneous
+19 charge, privileges must be restored through the compact data system.
+20 10. If the requirements of subsection 8 have been met, the licensee must meet the
+21 requirements in subsection 1 to obtain a compact privilege in a remote state .
+22 43 - 40.1 - 05. Obtaining a new home state license by virtue of compact privilege .
+23 1. An occupational therapist or occupational therapy assistant may hold a home state
+24 license, which allows for compact privileges in member states, in only one member
+25 state at a time.
+26 2. If an occupational therapist or occupational therapy assistant changes primary state of
+27 residence by moving between two member states:
+28 a. The occupational therapist or occupational therapy assistant shall file an
+29 application for obtaining a new home state license by virtue of a compact
+30 privilege, pay all applicable fees, and notify the current and new home state in
+31 accordance with applicable rules adopted by the commission.
+Page No. 7 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 b. Upon receipt of an application for obtaining a new home state license by virtue of
+2 compact privilege, the new home state shall verify the occupational therapist or
+3 occupational therapy assistant meets the pertinent criteria outlined in section
+4 43 - 40.1 - 04 through the data system, without need for primary source verification
+5 except for:
+6 (1) A federal bureau of investigation fingerprint-based criminal background
+7 check if not previously performed or updated pursuant to applicable rules
+8 adopted by the commission in accordance with Public Law 92 - 544 ;
+9 (2) Any other criminal background check as required by the new home state;
+10 and
+11 (3) Submission of any requisite jurisprudence requirements of the new home
+12 state.
+13 c. The former home state shall convert the former home state license into a
+14 compact privilege once the new home state has activated the new home state
+15 license in accordance with applicable rules adopted by the commission.
+16 d. Notwithstanding any other provision of this compact, if the occupational therapist
+17 or occupational therapy assistant cannot meet the criteria in section 43 - 40.1 - 04 ,
+18 the new home state shall apply its requirements for issuing a new single-state
+19 license.
+20 e. The occupational therapist or the occupational therapy assistant shall pay all
+21 applicable fees to the new home state in order to be issued a new home state
+22 license.
+23 3. If an occupational therapist or occupational therapy assistant changes primary state of
+24 residence by moving from a member state to a nonmember state, or from a
+25 nonmember state to a member state, the state criteria applies for issuance of a single-
+26 state license in the new state.
+27 4. Nothing in this compact shall interfere with a licensee's ability to hold a single-state
+28 license in multiple states. For the purposes of this compact, a licensee only may have
+29 one home state license.
+30 5. This compact does not affect the requirements established by a member state for the
+31 issuance of a single-state license.
+Page No. 8 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 06. Active duty military personnel or their spouses .
+2 Active duty military personnel, or their spouses, shall designate a home state where the
+3 individual has a current license in good standing. The individual may retain the home state
+4 designation during the period the service member is on active duty. Subsequent to designating
+5 a home state, the individual only shall change their home state through application for licensure
+6 in the new state or through the process described in section 43 - 40.1 - 05 .
+7 43 - 40.1 - 07. Adverse actions .
+8 1. A home state has exclusive power to impose adverse action against an occupational
+9 therapist's or occupational therapy assistant's license issued by the home state.
+10 2. In addition to the other powers conferred by state law, a remote state may:
+11 a. Take adverse action against an occupational therapist's or occupational therapy
+12 assistant's compact privilege within that member state.
+13 b. Issue a subpoena for hearings and investigations that require the attendance and
+14 testimony of witnesses as well as the production of evidence. A subpoena issued
+15 by a licensing board in a member state for the attendance and testimony of
+16 witnesses or the production of evidence from another member state must be
+17 enforced in the latter state by any court of competent jurisdiction, according to the
+18 practice and procedure of that court applicable to subpoenas issued in
+19 proceedings pending before the court. The issuing authority shall pay any witness
+20 fees, travel expenses, mileage, and other fees required by the service statutes of
+21 the state in which the witnesses or evidence are located.
+22 3. For purposes of taking adverse action, the home state shall give the same priority and
+23 effect to reported conduct received from a member state as it would if the conduct had
+24 occurred within the home state. In so doing, the home state shall apply its own state
+25 laws to determine appropriate action.
+26 4. The home state shall complete any pending investigation of an occupational therapist
+27 or occupational therapy assistant who changes primary state of residence during the
+28 course of the investigation. The home state, where the investigation was initiated may
+29 take appropriate action and shall promptly report the conclusion of the investigation to
+30 the occupational therapy compact commission data system. The occupational therapy
+Page No. 9 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 compact commission data system administrator shall promptly notify the new home
+2 state of any adverse action.
+3 5. A member state, if otherwise permitted by state law, may recover from the affected
+4 occupational therapist or occupational therapy assistant the cost of an investigation
+5 and disposition of a case resulting from any adverse action taken against that
+6 occupational therapist or occupational therapy assistant.
+7 6. A member state may take adverse action based on the factual findings of the remote
+8 state, provided the member state follows its own procedures for taking the adverse
+9 action.
+10 7. Joint investigations:
+11 a. In addition to the authority granted to a member state by its respective state
+12 occupational therapy laws and regulations or other applicable state law, any
+13 member state may participate with other member states in joint investigations of
+14 licensees.
+15 b. Member states shall share any investigative, litigation, or compliance materials in
+16 furtherance of any joint or individual investigation initiated under the compact.
+17 8. If an adverse action is taken by the home state against an occupational therapist's or
+18 occupational therapy assistant's license, the occupational therapist's or occupational
+19 therapy assistant's compact privilege in all other member states must be deactivated
+20 until all encumbrances have been removed from the state license. All home state
+21 disciplinary orders that impose adverse action against an occupational therapist's or
+22 occupational therapy assistant's license must include a statement that the
+23 occupational therapist's or occupational therapy assistant's compact privilege is
+24 deactivated in all member states during the pendency of the order.
+25 9. If a member state takes adverse action, the member state shall promptly notify the
+26 administrator of the data system. The administrator of the data system shall promptly
+27 notify the home state of any adverse action by a remote state.
+28 10. This compact does not override a member state's decision that participation in an
+29 alternative program may be used in lieu of adverse action.
+Page No. 10 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 08. Establishment of the occupational therapy compact commission .
+2 1. The compact member states hereby create and establish a joint public agency known
+3 as the occupational therapy compact commission.
+4 a. The commission is an instrumentality of the compact states.
+5 b. Venue is proper and judicial proceedings by or against the commission must be
+6 brought exclusively in a court of competent jurisdiction where the principal office
+7 of the commission is located. The commission may waive venue and
+8 jurisdictional defenses to the extent the commission adopts or consents to
+9 participate in alternative dispute resolution proceedings.
+10 c. This compact may not be construed to be a waiver of sovereign immunity.
+11 2. Membership, voting, and meetings.
+12 a. Each member state has and is limited to one delegate selected by that member
+13 state's licensing board.
+14 b. The delegate must be:
+15 (1) A current member of the licensing board, who is an occupational therapist,
+16 occupational therapy assistant, or public member; or
+17 (2) An administrator of the licensing board.
+18 c. A delegate may be removed or suspended from office as provided by the law of
+19 the state from which the delegate is appointed.
+20 d. The member state board shall fill any vacancy occurring in the commission within
+21 ninety days.
+22 e. Each delegate is entitled to one vote with regard to the adoption of rules and
+23 creation of bylaws and must have an opportunity to participate in the business
+24 and affairs of the commission. A delegate shall vote in person or by any other
+25 means provided in the bylaws. The bylaws may provide for delegates'
+26 participation in meetings by telephone or other means of communication.
+27 f. The commission shall meet at least once during each calendar year. Additional
+28 meetings must be held as provided in the bylaws.
+29 g. The commission shall establish by rule a term of office for delegates.
+30 3. The commission has the power and duty to:
+31 a. Establish a code of ethics for the commission.
+Page No. 11 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 b. Establish the fiscal year of the commission.
+2 c. Establish bylaws.
+3 d. Maintain financial records in accordance with the bylaws.
+4 e. Meet and take actions consistent with the provisions of this compact and the
+5 bylaws.
+6 f. Adopt uniform rules to facilitate and coordinate implementation and
+7 administration of this compact. The rules have the force and effect of law and are
+8 binding in all member states.
+9 g. Bring and prosecute legal proceedings or actions in the name of the commission,
+10 provided the standing of any state occupational therapy licensing board to sue or
+11 be sued under applicable law is not affected.
+12 h. Purchase and maintain insurance and bonds.
+13 i. Borrow, accept, or contract for services of personnel, including employees of a
+14 member state.
+15 j. Hire employees, elect or appoint officers, fix compensation, define duties, grant
+16 the individuals appropriate authority to carry out the purposes of the compact,
+17 and establish the commission's personnel policies and programs relating to
+18 conflicts of interest, qualifications of personnel, and other related personnel
+19 matters.
+20 k. Accept any and all appropriate donations and grants of money, equipment,
+21 supplies, materials and services, and receive, use and dispose of the same;
+22 provided that at all times the commission avoids any appearance of impropriety
+23 and conflict of interest.
+24 l. Lease, purchase, accept appropriate gifts or donations of, or otherwise own,
+25 hold, improve, or use any property; real, personal, or mixed; provided the
+26 commission avoids any appearance of impropriety.
+27 m. Sell, convey, mortgage, pledge, lease, exchange, abandon, or otherwise dispose
+28 of any property; real, personal, or mixed.
+29 n. Establish a budget and make expenditures.
+30 o. Borrow money.
+Page No. 12 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 p. Appoint committees, including standing committees composed of members, state
+2 regulators, state legislators or their representatives, and consumer
+3 representatives, and other interested persons as designated in this compact and
+4 the bylaws.
+5 q. Provide and receive information from, and cooperate with, law enforcement
+6 agencies.
+7 r. Establish and elect an executive committee.
+8 s. Perform other functions as necessary or appropriate to achieve the purposes of
+9 this compact consistent with the state regulation of occupational therapy
+10 licensure and practice.
+11 4. The executive committee.
+12 a. The executive committee has the power to act on behalf of the commission
+13 according to the terms of this compact.
+14 b. The executive committee is composed of nine members:
+15 (1) Seven voting members who are elected by the commission from the current
+16 membership of the commission;
+17 (2) One ex-officio, nonvoting member from a recognized national occupational
+18 therapy professional association; and
+19 (3) One ex-officio, nonvoting member from a recognized national occupational
+20 therapy certification organization.
+21 c. The ex-officio members will be selected by their respective organizations.
+22 d. The commission may remove any member of the executive committee as
+23 provided in bylaws.
+24 e. The executive committee shall:
+25 (1) Meet at least annually;
+26 (2) Recommend to the entire commission changes to the rules or bylaws,
+27 changes to this compact legislation, fees paid by compact member states
+28 including, annual dues, and any commission compact fee charged to
+29 licensees for the compact privilege;
+30 (3) Ensure compact administration services are appropriately provided,
+31 contractual or otherwise;
+Page No. 13 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 (4) Prepare and recommend the budget;
+2 (5) Maintain financial records on behalf of the commission;
+3 (6) Monitor compact compliance of member states and provide compliance
+4 reports to the commission;
+5 (7) Establish additional committees as necessary; and
+6 (8) Perform other duties as provided in rules or bylaws.
+7 5. Meetings of the commission.
+8 a. All meetings must be open to the public, and public notice of meetings must be
+9 given in the same manner as required under the rulemaking provisions in section
+10 43 - 40.1 - 10 .
+11 b. The commission or the executive committee or other committees of the
+12 commission may convene in a closed, nonpublic meeting if the commission or
+13 executive committee or other committees of the commission must discuss:
+14 (1) Noncompliance of a member state with its obligations under the compact;
+15 (2) The employment, compensation, discipline, or other matters, practices, or
+16 procedures related to specific employees or other matters related to the
+17 commission's internal personnel practices and procedures;
+18 (3) Current, threatened, or reasonably anticipated litigation;
+19 (4) Negotiation of contracts for the purchase, lease, or sale of goods, services,
+20 or real estate;
+21 (5) Accusing any individual of a crime or formally censuring any individual;
+22 (6) Disclosure of trade secrets or commercial or financial information that is
+23 privileged or confidential;
+24 (7) Disclosure of information of a personal nature if disclosure would constitute
+25 a clearly unwarranted invasion of personal privacy;
+26 (8) Disclosure of investigative records compiled for law enforcement purposes;
+27 (9) Disclosure of information related to any investigative reports prepared by or
+28 on behalf of or for use of the commission or other committee charged with
+29 responsibility of investigation or determination of compliance issues
+30 pursuant to the compact; or
+Page No. 14 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 (10) Matters specifically exempted from disclosure by federal or member state
+2 statute.
+3 c. If a meeting, or portion of a meeting, is closed pursuant to this provision, the
+4 commission's legal counsel or designee shall certify that the meeting may be
+5 closed and shall reference each relevant exempting provision.
+6 d. The commission shall keep minutes that fully and clearly describe all matters
+7 discussed in a meeting and shall provide a full and accurate summary of actions
+8 taken, and the reasons for taking the actions, including a description of the views
+9 expressed. All documents considered in connection with an action must be
+10 identified in the minutes. All minutes and documents of a closed meeting must
+11 remain under seal, subject to release by a majority vote of the commission or
+12 order of a court of competent jurisdiction.
+13 6. Financing of the commission.
+14 a. The commission shall pay, or provide for the payment of, the reasonable
+15 expenses of its establishment, organization, and ongoing activities.
+16 b. The commission may accept any and all appropriate revenue sources, donations,
+17 and grants of money, equipment, supplies, materials, and services.
+18 c. The commission may levy on and collect an annual assessment from each
+19 member state or impose fees on other parties to cover the cost of the operations
+20 and activities of the commission and its staff, which must be in a total amount
+21 sufficient to cover its annual budget as approved by the commission each year
+22 for which revenue is not provided by other sources. The aggregate annual
+23 assessment amount must be allocated based on a formula determined by the
+24 commission, which shall adopt a rule binding on all member states.
+25 d. The commission may not incur obligations before securing adequate funds to
+26 meet the obligations or pledge the credit of any of the member states, except by
+27 and with the authority of the member state.
+28 e. The commission shall keep accurate accounts of all receipts and disbursements.
+29 The receipts and disbursements of the commission are subject to the audit and
+30 accounting procedures established under its bylaws. All receipts and
+31 disbursements of funds handled by the commission must be audited yearly by a
+Page No. 15 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 certified or licensed public accountant, and the report of the audit must be
+2 included in and become part of the annual report of the commission.
+3 7. Qualified immunity, defense, and indemnification.
+4 a. The members, officers, executive director, employees, and representatives of the
+5 commission are immune from suit and liability, either personally or in their official
+6 capacity, for any claim for damage to or loss of property or personal injury or
+7 other civil liability caused by or arising out of any actual or alleged act, error, or
+8 omission that occurred, or that the individual against whom the claim is made had
+9 a reasonable basis for believing occurred within the scope of commission
+10 employment, duties, or responsibilities. This subdivision may not be construed to
+11 protect any such individual from suit or liability for any damage, loss, injury, or
+12 liability caused by the intentional, willful, or wanton misconduct of that individual.
+13 b. The commission shall defend any member, officer, executive director, employee,
+14 or representative of the commission in any civil action seeking to impose liability
+15 arising out of any actual or alleged act, error, or omission that occurred within the
+16 scope of commission employment, duties, or responsibilities, or that the
+17 individual against whom the claim is made had a reasonable basis for believing
+18 occurred within the scope of commission employment, duties, or responsibilities.
+19 This subdivision may not be construed to prohibit that individual from retaining
+20 counsel or that the actual or alleged act, error, or omission did not result from that
+21 individual's intentional, willful, or wanton misconduct.
+22 c. The commission shall indemnify and hold harmless any member, officer,
+23 executive director, employee, or representative of the commission for the amount
+24 of any settlement or judgment obtained against that individual arising out of any
+25 actual or alleged act, error, or omission that occurred within the scope of
+26 commission employment, duties, or responsibilities, or that the individual had a
+27 reasonable basis for believing occurred within the scope of commission
+28 employment, duties, or responsibilities, provided the actual or alleged act, error,
+29 or omission did not result from the intentional, willful, or wanton misconduct of
+30 that individual.
+Page No. 16 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 09. Data system .
+2 1. The commission shall provide for the development, maintenance, and use of a
+3 coordinated database and reporting system containing licensure, adverse action, and
+4 investigative information on all licensed individuals in member states.
+5 2. A member state shall submit a uniform data set to the data system on all individuals to
+6 whom this compact applies, as required by the rules of the commission using a unique
+7 identifier that includes:
+8 a. Identifying information;
+9 b. Licensure data;
+10 c. Adverse actions against a license or compact privilege;
+11 d. Nonconfidential information related to alternative program participation;
+12 e. Any denial of application for licensure, and the reason for the denial;
+13 f. Other information that may facilitate the administration of this compact, as
+14 determined by the rules of the commission; and
+15 g. Current significant investigative information.
+16 3. Current significant investigative information and other investigative information
+17 pertaining to a licensee in any member state only will be available to other member
+18 states.
+19 4. The commission shall promptly notify all member states of any adverse action taken
+20 against a licensee or an individual applying for a license. Adverse action information
+21 pertaining to a licensee in any member state will be available to any other member
+22 state.
+23 5. Member states contributing information to the data system may designate information
+24 that may not be shared with the public without the express permission of the
+25 contributing state.
+26 6. Any information submitted to the data system that is subsequently required to be
+27 expunged by the laws of the member state contributing the information must be
+28 removed from the data system.
+Page No. 17 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 10. Rulemaking .
+2 1. The commission shall exercise its rulemaking powers pursuant to the criteria set forth
+3 in this section and the rules adopted thereunder. Rules and amendments become
+4 binding as of the date specified in each rule or amendment.
+5 2. The commission shall adopt rules in order to effectively and efficiently achieve the
+6 purposes of the compact. Notwithstanding the foregoing, if the commission exercises
+7 its rulemaking authority in a manner beyond the scope of the purposes of the compact,
+8 or the powers granted under the compact, then the action by the commission is invalid
+9 and has no force and effect.
+10 3. If a majority of the legislatures of the member states rejects a rule, by enactment of a
+11 statute or resolution in the same manner used to adopt the compact within four years
+12 of the date of adoption of the rule, the rule has no further force and effect in any
+13 member state.
+14 4. Rules or amendments to the rules must be adopted at a regular or special meeting of
+15 the commission.
+16 5. Before adoption of a final rule by the commission, and at least thirty days in advance
+17 of the meeting at which the rule will be considered and voted upon, the commission
+18 shall file a notice of proposed rulemaking:
+19 a. On the website of the commission or other publicly accessible platform; and
+20 b. On the website of each member state occupational therapy licensing board or
+21 other publicly accessible platform or the publication in which each state would
+22 otherwise publish proposed rules.
+23 6. The notice of proposed rulemaking must include:
+24 a. The proposed time, date, and location of the meeting in which the rule will be
+25 considered and voted on;
+26 b. The text of the proposed rule or amendment and the reason for the proposed
+27 rule;
+28 c. A request for comments on the proposed rule from any interested person; and
+29 d. The manner in which interested persons may submit notice to the commission of
+30 their intention to attend the public hearing and any written comments.
+Page No. 18 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 7. Before adoption of a proposed rule, the commission shall allow an individual to submit
+2 written data, facts, opinions, and arguments, which must be made available to the
+3 public.
+4 8. The commission shall grant an opportunity for a public hearing before the commission
+5 adopts a rule or amendment if a hearing is requested by:
+6 a. At least twenty-five individuals;
+7 b. A state or federal governmental subdivision or agency; or
+8 c. An association or organization having at least twenty-five members.
+9 9. If a hearing is held on the proposed rule or amendment, the commission shall publish
+10 the place, time, and date of the scheduled public hearing. If the hearing is held
+11 through electronic means, the commission shall publish the mechanism for access to
+12 the electronic hearing.
+13 a. Any individual wishing to be heard at the hearing shall notify the executive
+14 director of the commission or other designated member in writing of their desire
+15 to appear and testify at the hearing not less than five business days before the
+16 scheduled date of the hearing.
+17 b. Hearings must be conducted in a manner providing an individual who wishes to
+18 comment a fair and reasonable opportunity to comment orally or in writing.
+19 c. All hearings must be recorded. A copy of the recording must be made available
+20 on request.
+21 d. This section may not be construed to require a separate hearing on each rule.
+22 Rules may be grouped for the convenience of the commission at hearings
+23 required by this section.
+24 10. Following the scheduled hearing date, or by the close of business on the scheduled
+25 hearing date if the hearing was not held, the commission shall consider all written and
+26 oral comments received.
+27 11. If written notice of intent to attend the public hearing by interested parties is not
+28 received, the commission may proceed with adoption of the proposed rule without a
+29 public hearing.
+Page No. 19 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 12. The commission shall, by majority vote of all members, take final action on the
+2 proposed rule and determine the effective date of the rule, if any, based on the
+3 rulemaking record and the full text of the rule.
+4 13. Upon determination that an emergency exists, the commission may consider and
+5 adopt an emergency rule without prior notice, opportunity for comment, or hearing,
+6 provided the usual rulemaking procedures provided in the compact and in this section
+7 must be retroactively applied to the rule as soon as reasonably possible, in no event
+8 later than ninety days after the effective date of the rule. For purposes of this
+9 provision, an emergency rule is one that must be adopted immediately in order to:
+10 a. Meet an imminent threat to public health, safety, or welfare;
+11 b. Prevent a loss of commission or member state funds;
+12 c. Meet a deadline for the promulgation of an administrative rule that is established
+13 by federal law or rule; or
+14 d. Protect public health and safety.
+15 14. The commission or an authorized committee of the commission may direct revisions to
+16 a previously adopted rule or amendment for purposes of correcting typographical
+17 errors, errors in format, errors in consistency, or grammatical errors. Public notice of
+18 any revisions must be posted on the website of the commission. The revision is
+19 subject to challenge by any individual for a period of thirty days after posting. The
+20 revision may be challenged only on grounds that the revision results in a material
+21 change to a rule. A challenge must be made in writing and delivered to the chair of the
+22 commission before the end of the notice period. If a challenge is not made, the
+23 revision will take effect without further action. If the revision is challenged, the revision
+24 may not take effect without the approval of the commission.
+25 43 - 40.1 - 11. Oversight, dispute resolution, and enforcement .
+26 1. Oversight.
+27 a. The executive, legislative, and judicial branches of state government in each
+28 member state shall enforce this compact and take all actions necessary and
+29 appropriate to effectuate the compact's purposes and intent. The provisions of
+30 this compact and the rules adopted hereunder have standing as statutory law.
+Page No. 20 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 b. All courts shall take judicial notice of the compact and the rules in any judicial or
+2 administrative proceeding in a member state pertaining to the subject matter of
+3 this compact which may affect the powers, responsibilities, or actions of the
+4 commission.
+5 c. The commission is entitled to receive service of process in any such proceeding,
+6 and has standing to intervene in such a proceeding for all purposes. Failure to
+7 provide service of process to the commission renders a judgment or order void
+8 as to the commission, this compact, or adopted rules.
+9 2. Default, technical assistance, and termination.
+10 a. If the commission determines a member state has defaulted in the performance
+11 of its obligations or responsibilities under this compact or the adopted rules, the
+12 commission shall:
+13 (1) Provide written notice to the defaulting state and other member states of the
+14 nature of the default, the proposed means of curing the default, and any
+15 other action to be taken by the commission; and
+16 (2) Provide remedial training and specific technical assistance regarding the
+17 default.
+18 b. If a state in default fails to cure the default, the defaulting state may be
+19 terminated from the compact upon an affirmative vote of a majority of the
+20 member states, and all rights, privileges, and benefits conferred by this compact
+21 may be terminated on the effective date of termination. A cure of the default does
+22 not relieve the offending state of obligations or liabilities incurred during the
+23 period of default.
+24 c. Termination of membership in the compact must be imposed only after all other
+25 means of securing compliance have been exhausted. Notice of intent to suspend
+26 or terminate must be given by the commission to the governor, the majority and
+27 minority leaders of the defaulting state's legislature, and each of the member
+28 states.
+29 d. A state that has been terminated is responsible for all assessments, obligations,
+30 and liabilities incurred through the effective date of termination, including
+31 obligations that extend beyond the effective date of termination.
+Page No. 21 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 e. The commission may not incur any costs related to a state that is found to be in
+2 default or has been terminated from the compact, unless agreed on in writing
+3 between the commission and the defaulting state.
+4 f. The defaulting state may appeal the action of the commission by petitioning the
+5 United States district court for the District of Columbia or the federal district
+6 where the commission has its principal offices. The prevailing member must be
+7 awarded all costs of litigation, including reasonable attorney's fees.
+8 3. Dispute resolution.
+9 a. Upon request by a member state, the commission shall attempt to resolve
+10 disputes related to the compact that arise among member states and between
+11 member and nonmember states.
+12 b. The commission shall adopt a rule providing for both mediation and binding
+13 dispute resolution for disputes as appropriate.
+14 4. Enforcement.
+15 a. The commission, in the reasonable exercise of its discretion, shall enforce the
+16 provisions and rules of this compact.
+17 b. By majority vote, the commission may initiate legal action in the United States
+18 district court for the District of Columbia, or the federal district where the
+19 commission has its principal offices, against a member state in default to enforce
+20 compliance with the provisions of the compact and its rules and bylaws. The relief
+21 sought may include injunctive relief and damages. If judicial enforcement is
+22 necessary, the prevailing member must be awarded all costs of litigation,
+23 including reasonable attorney's fees.
+24 c. The remedies herein are not the exclusive remedies of the commission. The
+25 commission may pursue any other remedies available under federal or state law.
+26 43 - 40.1 - 12. Date of implementation of the interstate compact for occupational therapy
+27 practice and associated rules, withdrawal, and amendment.
+28 1. The compact becomes effective on the date the compact statute is enacted into law in
+29 the tenth member state. The provisions, which become effective at that time, are
+30 limited to the powers granted to the commission relating to assembly and the adoption
+Page No. 22 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 of rules. Thereafter, the commission shall meet and exercise rulemaking powers
+2 necessary to the implementation and administration of the compact.
+3 2. Any state that joins the compact subsequent to the commission's initial adoption of the
+4 rules is subject to the rules as they exist on the date the compact becomes law in that
+5 state. Any rule that has been previously adopted by the commission has the full force
+6 and effect of law on the day the compact becomes law in that state.
+7 3. Any member state may withdraw from this compact by enacting a statute repealing the
+8 compact.
+9 a. A member state's withdrawal may not take effect until six months after enactment
+10 of the repealing statute.
+11 b. Withdrawal may not affect the continuing requirement of the withdrawing state's
+12 occupational therapy licensing board to comply with the investigative and
+13 adverse action reporting requirements of this compact before the effective date of
+14 withdrawal.
+15 4. The compact may not be construed to invalidate or prevent any occupational therapy
+16 licensure agreement or other cooperative arrangement between a member state and a
+17 nonmember state which does not conflict with the provisions of this compact.
+18 5. This compact may be amended by the member states. An amendment to this compact
+19 may not become effective and binding on any member state until the amendment is
+20 enacted into the laws of all member states.
+21 43 - 40.1 - 13. Construction and severability .
+22 This compact must be liberally construed to effectuate the purposes of the compact. The
+23 provisions of this compact are severable and if any phrase, clause, sentence, or provision of
+24 this compact is declared to be contrary to the constitution of any member state or of the United
+25 States or the applicability thereof to any government, agency, individual, or circumstance is held
+26 invalid, the validity of the remainder of this compact and the applicability of this compact to any
+27 government, agency, individual, or circumstance are not affected thereby. If this compact is held
+28 contrary to the constitution of any member state, the compact remains in full force and effect as
+29 to the remaining member states and in full force and effect as to the member state affected as
+30 to all severable matters.
+Page No. 23 25.0274.02000
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 14. Binding effect of compact and other laws .
+2 1. A licensee providing occupational therapy in a remote state under the compact
+3 privilege shall function within the laws and regulations of the remote state.
+4 2. This compact does not prevent the enforcement of any other law of a member state
+5 which is not inconsistent with the compact.
+6 3. A law in a member state in conflict with the compact is superseded to the extent of the
+7 conflict.
+8 4. Any lawful actions of the commission, including all rules and bylaws adopted by the
+9 commission, are binding on the member states.
+10 5. All agreements between the commission and the member states are binding in
+11 accordance with the terms of the agreement.
+12 6. If a provision of the compact exceeds the constitutional limits imposed on the
+13 legislature of any member state, the provision is ineffective to the extent of the conflict
+14 with the constitutional provision in question in that member state.
+Page No. 24 25.0274.02000
+[DELETED: .T.T.I.E.E.S.E.A.F12]
+[DELETED: ."."."."."."."."22]
+[DELETED: ."."."."."."."."."."."."."32]
+[DELETED: .".".".".".T.L.P.H.N.I)A42]
+[DELETED: )C.C.U.H.A.M.A.A.T.T.H.H.H52]
+[DELETED: .B.H.N.P. .MR.T.A.O.A62]
+[DELETED: .I.T.T.I.I.T.A.T.T.I. .A.I.T72]
+[DELETED: .U)A)A)S.T.N.T.I.N.T82]
+[DELETED: .A.I.T.I.F.T92]
+[DELETED: .A.A.J.I.M.I.I.T02]
+[DELETED: .T.T.V.T.M.E.T)A)A.A.T.E.T.T.T.E12]
+[DELETED: .E.E.M.M.A.B.P.B.H.A.L.S.E.B22]
+[DELETED: .A.P.E.P.T.T.T)S)O)O.T.T.T)M)R)E32]
+[DELETED: )P)M)M)E)P.M.A.T)N)T)C)N)A)D)D)D)D42]
+[DELETED: )M.I.T.F.T.T.T.T.T52]
+[DELETED: .Q.T.T.T62]
+[DELETED: .T.A.I.L.A.N.A.O.C.C.T.M.A72]
+[DELETED: .T.T.I.R.B.O.O.T.T.T.A.T82]
+[DELETED: .B.T.A.A.A.I.A.H.A.T.F.I92]
+[DELETED: .T.U.M.P.M.P.T.O.T02]
+[DELETED: .A.T.D.I)P)P.I.T.A12]
+[DELETED: .T.T.D.U.T.E.T.B.T.T22]
+[DELETED: .A.A.A.W.T.T32]
+[DELETED: .A.T.A.A.A.I42]
+
+
+================================================================================
+
+Raw Text:
+25.0274.02000
+Sixty-ninth
+SENATE BILL NO. 2146
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Roers, Barta
+Representatives Frelich, Holle, M. Ruby, O'Brien
+1 A BILL for an Act to create and enact chapter 43-40.1 of the North Dakota Century Code,
+2 relating to the occupational therapy licensure compact.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. Chapter 43-40.1 of the North Dakota Century Code is created and enacted as
+5 follows:
+6 43 - 40.1 - 01. Purpose .
+7 1. The purpose of this compact is to facilitate interstate practice of occupational therapy
+8 with the goal of improving public access to occupational therapy services. The practice
+9 of occupational therapy occurs in the state where the patient is located at the time of
+10 the patient encounter. The compact preserves the regulatory authority of states to
+11 protect public health and safety through the current system of state licensure.
+12 2. This compact is designed to:
+13 a. Increase public access to occupational therapy services by providing for the
+14 mutual recognition of other member state licenses;
+15 b. Enhance the states' ability to protect the public's health and safety;
+16 c. Encourage the cooperation of member states in regulating multistate
+17 occupational therapy practice;
+18 d. Support spouses of relocating military members;
+19 e. Enhance the exchange of licensure, investigative, and disciplinary information
+20 between member states;
+21 f. Allow a remote state to hold a provider of services with a compact privilege in
+22 that state accountable to that state's practice standards; and
+23 g. Facilitate the use of telehealth technology to increase access to occupational
+24 therapy services.
+Page No. 1 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 02. Definitions .
+2 As used in this compact:
+3 1. "Active duty military" means full-time duty status in the active uniformed service of the
+4 United States, including members of the national guard and reserve on active duty
+5 orders under 10 U.S.C. chapter 1209 and 10 U.S.C. chapter 1211.
+6 2. "Adverse action" means any administrative, civil, equitable, or criminal action
+7 permitted by a state's laws which is imposed by a licensing board or other authority
+8 against an occupational therapist or occupational therapy assistant, including actions
+9 against an individual's license or compact privilege, including censure, revocation,
+10 suspension, probation, monitoring of the licensee, or restriction on the licensee's
+11 practice.
+12 3. "Alternative program" means a nondisciplinary monitoring process approved by an
+13 occupational therapy licensing board.
+14 4. "Compact privilege" means the authorization, which is equivalent to a license, granted
+15 by a remote state to allow a licensee from another member state to practice as an
+16 occupational therapist or practice as an occupational therapy assistant in the remote
+17 state under its laws and rules. The practice of occupational therapy occurs in the
+18 member state where the patient is located at the time of the patient encounter.
+19 5. "Continuing education" means a requirement, as a condition of license renewal, to
+20 provide evidence of participation in, or completion of, educational and professional
+21 activities relevant to practice or area of work.
+22 6. "Current significant investigative information" means investigative information a
+23 licensing board, after an inquiry or investigation that includes notification and an
+24 opportunity for the occupational therapist or occupational therapy assistant to respond,
+25 if required by state law, has reason to believe is not groundless and, if proved true,
+26 would indicate more than a minor infraction.
+27 7. "Data system" means a repository of information about licensees, including license
+28 status, investigative information, compact privileges, and adverse actions.
+29 8. "Encumbered license" means a license in which an adverse action restricts the
+30 practice of occupational therapy by the licensee or the adverse action has been
+31 reported to the national practitioner data bank.
+Page No. 2 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 9. "Executive committee" means a group of directors elected or appointed to act on
+2 behalf of, and within the powers granted to them by, the commission.
+3 10. "Home state" means the member state that is the licensee's primary state of
+4 residence.
+5 11. "Impaired practitioner" means an individual whose professional practice is adversely
+6 affected by substance abuse, addiction, or other health-related condition.
+7 12. "Investigative information" means information, records, or documents received or
+8 generated by an occupational therapy licensing board pursuant to an investigation.
+9 13. "Jurisprudence requirement" means the assessment of an individual's knowledge of
+10 the laws and rules governing the practice of occupational therapy in a state.
+11 14. "Licensee" means an individual who currently holds an authorization from the state to
+12 practice as an occupational therapist or as an occupational therapy assistant.
+13 15. "Member state" means a state that has enacted this compact.
+14 16. "Occupational therapist" means an individual who is licensed by a state to practice
+15 occupational therapy.
+16 17. "Occupational therapy", "occupational therapy practice", and the "practice of
+17 occupational therapy" mean the care and services provided by an occupational
+18 therapist or an occupational therapy assistant as provided under the member state's
+19 statutes and regulations.
+20 18. "Occupational therapy assistant" means an individual who is licensed by a state to
+21 assist in the practice of occupational therapy.
+22 19. "Occupational therapy compact commission" or "commission" means the national
+23 administrative body whose membership consists of all states that have enacted this
+24 compact.
+25 20. "Occupational therapy licensing board" or "licensing board" means the agency of a
+26 state that is authorized to license and regulate occupational therapists and
+27 occupational therapy assistants.
+28 21. "Primary state of residence" means the state in which an occupational therapist or
+29 occupational therapy assistant who is not active duty military declares a primary
+30 residence for legal purposes as verified by a driver's license, federal income tax
+Page No. 3 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 return, lease, deed, mortgage, or voter registration, or other verifying documentation
+2 as provided under commission rules.
+3 22. "Remote state" means a member state other than the home state, where a licensee is
+4 exercising or seeking to exercise the compact privilege.
+5 23. "Rule" means a regulation adopted by the commission which has the force of law.
+6 24. "Single-state license" means an occupational therapist or occupational therapy
+7 assistant license issued by a member state that authorizes practice only within the
+8 issuing state and does not include a compact privilege in any other member state.
+9 25. "State" means any state, commonwealth, district, or territory of the United States of
+10 America that regulates the practice of occupational therapy.
+11 26. "Telehealth" means the application of telecommunication technology to deliver
+12 occupational therapy services for assessment, intervention, or consultation.
+13 43 - 40.1 - 03. State participation in the compact .
+14 1. To participate in the compact, a member state shall:
+15 a. License occupational therapists and occupational therapy assistants;
+16 b. Participate fully in the commission's data system, including using the
+17 commission's unique identifier as defined in rules of the commission;
+18 c. Have a mechanism in place for receiving and investigating complaints about
+19 licensees;
+20 d. Notify the commission, in compliance with the terms of the compact and rules, of
+21 any adverse action or the availability of investigative information regarding a
+22 licensee;
+23 e. Implement or use procedures for considering the criminal history records of
+24 applicants for an initial compact privilege. The procedures shall include the
+25 submission of fingerprints or other biometric-based information by applicants for
+26 the purpose of obtaining an applicant's criminal history record information from
+27 the federal bureau of investigation and the agency responsible for retaining that
+28 state's criminal records.
+29 (1) A member state shall, within a time frame established by the commission,
+30 require a criminal background check for a licensee applying for a compact
+31 privilege whose primary state of residence is that member state, by
+Page No. 4 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 receiving the results of the federal bureau of investigation criminal record
+2 search, and shall use the results in making licensure decisions.
+3 (2) Communication between a member state, the commission, and among
+4 member states regarding the verification of eligibility for licensure through
+5 the compact may not include any information received from the federal
+6 bureau of investigation relating to a federal criminal records check
+7 performed by a member state under Public Law 92 - 544 ;
+8 f. Comply with the rules of the commission;
+9 g. Use only a recognized national examination as a requirement for licensure
+10 pursuant to the rules of the commission; and
+11 h. Have continuing education requirements as a condition for license renewal.
+12 2. A member state shall grant the compact privilege to a licensee holding a valid
+13 unencumbered license in another member state in accordance with the terms of the
+14 compact and rules.
+15 3. Member states may charge a fee for granting a compact privilege.
+16 4. A member state shall provide for the state's delegate to attend all occupational therapy
+17 compact commission meetings.
+18 5. An individual not residing in a member state shall continue to be able to apply for a
+19 member state's single-state license as provided under the laws of each member state.
+20 The single-state license granted to the individual may not be recognized as granting
+21 the compact privilege in any other member state.
+22 6. This compact does not affect the requirements established by a member state for the
+23 issuance of a single-state license.
+24 43 - 40.1 - 04. Compact privilege .
+25 1. To exercise the compact privilege under the terms and provisions of the compact, the
+26 licensee shall:
+27 a. Hold a license in the home state;
+28 b. Have a valid United States social security number or national practitioner
+29 identification number;
+30 c. Have no encumbrance on any state license;
+Page No. 5 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 d. Be eligible for a compact privilege in any member state in accordance with
+2 subsections 4, 6, 7, and 8 ;
+3 e. Have paid all fines and completed all requirements resulting from any adverse
+4 action against any license or compact privilege, and two years have elapsed from
+5 the date of completing the requirements;
+6 f. Notify the commission that the licensee is seeking the compact privilege within a
+7 remote state;
+8 g. Pay any applicable fee, including any state fee, for the compact privilege;
+9 h. Complete a criminal background check in accordance with subdivision e o f
+10 subsection 1 of section 43 - 40.1 - 03. The licensee shall be responsible for the
+11 payment of any fee associated with the completion of a criminal background
+12 check;
+13 i. Meet any jurisprudence requirement established by the remote state in which the
+14 licensee is seeking a compact privilege; and
+15 j Report adverse action taken by any nonmember state to the commission within
+16 thirty days from the date the adverse action is taken.
+17 2. The compact privilege is valid until the expiration date of the home state license. The
+18 licensee must comply with the requirements of subsection 1 to maintain the compac t
+19 privilege in the remote state.
+20 3. A licensee providing occupational therapy in a remote state under the compact
+21 privilege shall function within the laws and regulations of the remote state.
+22 4. Occupational therapy assistants practicing in a remote state must be supervised by an
+23 occupational therapist licensed or holding a compact privilege in that remote state.
+24 5. A licensee providing occupational therapy in a remote state is subject to that state's
+25 regulatory authority. A remote state may, in accordance with due process and that
+26 state's laws, remove a licensee's compact privilege in the remote state for a specific
+27 period of time, impose fines, and take any other necessary actions to protect the
+28 health and safety of the remote state's citizens. The licensee may be ineligible for a
+29 compact privilege in any state until the specific time for removal has passed and all
+30 fines are paid.
+Page No. 6 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 6. If a home state license is encumbered, the licensee loses the compact privilege in any
+2 remote state until:
+3 a. The home state license is no longer encumbered; and
+4 b. Two years have elapsed from the date on which the home state license is no
+5 longer encumbered in accordance with subdivision a .
+6 7. If an encumbered license in the home state is restored to good standing, the licensee
+7 must meet the requirements of subsection 1 to obtain a compact privilege in any
+8 remote state.
+9 8. If a licensee's compact privilege in any remote state is removed, the licensee may lose
+10 the compact privilege in any other remote state until:
+11 a. The specific period of time for which the compact privilege was removed has
+12 ended;
+13 b. All fines have been paid and all conditions have been met;
+14 c. Two years have elapsed from the date of completing the requirements under
+15 subdivisions a and b; and
+16 d. The compact privileges are reinstated by the commission, and the compact data
+17 system is updated to reflect reinstatement.
+18 9. If a licensee's compact privilege in any remote state is removed due to an erroneous
+19 charge, privileges must be restored through the compact data system.
+20 10. If the requirements of subsection 8 have been met, the licensee must meet the
+21 requirements in subsection 1 to obtain a compact privilege in a remote state .
+22 43 - 40.1 - 05. Obtaining a new home state license by virtue of compact privilege .
+23 1. An occupational therapist or occupational therapy assistant may hold a home state
+24 license, which allows for compact privileges in member states, in only one member
+25 state at a time.
+26 2. If an occupational therapist or occupational therapy assistant changes primary state of
+27 residence by moving between two member states:
+28 a. The occupational therapist or occupational therapy assistant shall file an
+29 application for obtaining a new home state license by virtue of a compact
+30 privilege, pay all applicable fees, and notify the current and new home state in
+31 accordance with applicable rules adopted by the commission.
+Page No. 7 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Upon receipt of an application for obtaining a new home state license by virtue of
+2 compact privilege, the new home state shall verify the occupational therapist or
+3 occupational therapy assistant meets the pertinent criteria outlined in section
+4 43 - 40.1 - 04 through the data system, without need for primary source verification
+5 except for:
+6 (1) A federal bureau of investigation fingerprint-based criminal background
+7 check if not previously performed or updated pursuant to applicable rules
+8 adopted by the commission in accordance with Public Law 92 - 544 ;
+9 (2) Any other criminal background check as required by the new home state;
+10 and
+11 (3) Submission of any requisite jurisprudence requirements of the new home
+12 state.
+13 c. The former home state shall convert the former home state license into a
+14 compact privilege once the new home state has activated the new home state
+15 license in accordance with applicable rules adopted by the commission.
+16 d. Notwithstanding any other provision of this compact, if the occupational therapist
+17 or occupational therapy assistant cannot meet the criteria in section 43 - 40.1 - 04 ,
+18 the new home state shall apply its requirements for issuing a new single-state
+19 license.
+20 e. The occupational therapist or the occupational therapy assistant shall pay all
+21 applicable fees to the new home state in order to be issued a new home state
+22 license.
+23 3. If an occupational therapist or occupational therapy assistant changes primary state of
+24 residence by moving from a member state to a nonmember state, or from a
+25 nonmember state to a member state, the state criteria applies for issuance of a single-
+26 state license in the new state.
+27 4. Nothing in this compact shall interfere with a licensee's ability to hold a single-state
+28 license in multiple states. For the purposes of this compact, a licensee only may have
+29 one home state license.
+30 5. This compact does not affect the requirements established by a member state for the
+31 issuance of a single-state license.
+Page No. 8 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 06. Active duty military personnel or their spouses .
+2 Active duty military personnel, or their spouses, shall designate a home state where the
+3 individual has a current license in good standing. The individual may retain the home state
+4 designation during the period the service member is on active duty. Subsequent to designating
+5 a home state, the individual only shall change their home state through application for licensure
+6 in the new state or through the process described in section 43 - 40.1 - 05 .
+7 43 - 40.1 - 07. Adverse actions .
+8 1. A home state has exclusive power to impose adverse action against an occupational
+9 therapist's or occupational therapy assistant's license issued by the home state.
+10 2. In addition to the other powers conferred by state law, a remote state may:
+11 a. Take adverse action against an occupational therapist's or occupational therapy
+12 assistant's compact privilege within that member state.
+13 b. Issue a subpoena for hearings and investigations that require the attendance and
+14 testimony of witnesses as well as the production of evidence. A subpoena issued
+15 by a licensing board in a member state for the attendance and testimony of
+16 witnesses or the production of evidence from another member state must be
+17 enforced in the latter state by any court of competent jurisdiction, according to the
+18 practice and procedure of that court applicable to subpoenas issued in
+19 proceedings pending before the court. The issuing authority shall pay any witness
+20 fees, travel expenses, mileage, and other fees required by the service statutes of
+21 the state in which the witnesses or evidence are located.
+22 3. For purposes of taking adverse action, the home state shall give the same priority and
+23 effect to reported conduct received from a member state as it would if the conduct had
+24 occurred within the home state. In so doing, the home state shall apply its own state
+25 laws to determine appropriate action.
+26 4. The home state shall complete any pending investigation of an occupational therapist
+27 or occupational therapy assistant who changes primary state of residence during the
+28 course of the investigation. The home state, where the investigation was initiated may
+29 take appropriate action and shall promptly report the conclusion of the investigation to
+30 the occupational therapy compact commission data system. The occupational therapy
+Page No. 9 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 compact commission data system administrator shall promptly notify the new home
+2 state of any adverse action.
+3 5. A member state, if otherwise permitted by state law, may recover from the affected
+4 occupational therapist or occupational therapy assistant the cost of an investigation
+5 and disposition of a case resulting from any adverse action taken against that
+6 occupational therapist or occupational therapy assistant.
+7 6. A member state may take adverse action based on the factual findings of the remote
+8 state, provided the member state follows its own procedures for taking the adverse
+9 action.
+10 7. Joint investigations:
+11 a. In addition to the authority granted to a member state by its respective state
+12 occupational therapy laws and regulations or other applicable state law, any
+13 member state may participate with other member states in joint investigations of
+14 licensees.
+15 b. Member states shall share any investigative, litigation, or compliance materials in
+16 furtherance of any joint or individual investigation initiated under the compact.
+17 8. If an adverse action is taken by the home state against an occupational therapist's or
+18 occupational therapy assistant's license, the occupational therapist's or occupational
+19 therapy assistant's compact privilege in all other member states must be deactivated
+20 until all encumbrances have been removed from the state license. All home state
+21 disciplinary orders that impose adverse action against an occupational therapist's or
+22 occupational therapy assistant's license must include a statement that the
+23 occupational therapist's or occupational therapy assistant's compact privilege is
+24 deactivated in all member states during the pendency of the order.
+25 9. If a member state takes adverse action, the member state shall promptly notify the
+26 administrator of the data system. The administrator of the data system shall promptly
+27 notify the home state of any adverse action by a remote state.
+28 10. This compact does not override a member state's decision that participation in an
+29 alternative program may be used in lieu of adverse action.
+Page No. 10 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 08. Establishment of the occupational therapy compact commission .
+2 1. The compact member states hereby create and establish a joint public agency known
+3 as the occupational therapy compact commission.
+4 a. The commission is an instrumentality of the compact states.
+5 b. Venue is proper and judicial proceedings by or against the commission must be
+6 brought exclusively in a court of competent jurisdiction where the principal office
+7 of the commission is located. The commission may waive venue and
+8 jurisdictional defenses to the extent the commission adopts or consents to
+9 participate in alternative dispute resolution proceedings.
+10 c. This compact may not be construed to be a waiver of sovereign immunity.
+11 2. Membership, voting, and meetings.
+12 a. Each member state has and is limited to one delegate selected by that member
+13 state's licensing board.
+14 b. The delegate must be:
+15 (1) A current member of the licensing board, who is an occupational therapist,
+16 occupational therapy assistant, or public member; or
+17 (2) An administrator of the licensing board.
+18 c. A delegate may be removed or suspended from office as provided by the law of
+19 the state from which the delegate is appointed.
+20 d. The member state board shall fill any vacancy occurring in the commission within
+21 ninety days.
+22 e. Each delegate is entitled to one vote with regard to the adoption of rules and
+23 creation of bylaws and must have an opportunity to participate in the business
+24 and affairs of the commission. A delegate shall vote in person or by any other
+25 means provided in the bylaws. The bylaws may provide for delegates'
+26 participation in meetings by telephone or other means of communication.
+27 f. The commission shall meet at least once during each calendar year. Additional
+28 meetings must be held as provided in the bylaws.
+29 g. The commission shall establish by rule a term of office for delegates.
+30 3. The commission has the power and duty to:
+31 a. Establish a code of ethics for the commission.
+Page No. 11 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Establish the fiscal year of the commission.
+2 c. Establish bylaws.
+3 d. Maintain financial records in accordance with the bylaws.
+4 e. Meet and take actions consistent with the provisions of this compact and the
+5 bylaws.
+6 f. Adopt uniform rules to facilitate and coordinate implementation and
+7 administration of this compact. The rules have the force and effect of law and are
+8 binding in all member states.
+9 g. Bring and prosecute legal proceedings or actions in the name of the commission,
+10 provided the standing of any state occupational therapy licensing board to sue or
+11 be sued under applicable law is not affected.
+12 h. Purchase and maintain insurance and bonds.
+13 i. Borrow, accept, or contract for services of personnel, including employees of a
+14 member state.
+15 j. Hire employees, elect or appoint officers, fix compensation, define duties, grant
+16 the individuals appropriate authority to carry out the purposes of the compact,
+17 and establish the commission's personnel policies and programs relating to
+18 conflicts of interest, qualifications of personnel, and other related personnel
+19 matters.
+20 k. Accept any and all appropriate donations and grants of money, equipment,
+21 supplies, materials and services, and receive, use and dispose of the same;
+22 provided that at all times the commission avoids any appearance of impropriety
+23 and conflict of interest.
+24 l. Lease, purchase, accept appropriate gifts or donations of, or otherwise own,
+25 hold, improve, or use any property; real, personal, or mixed; provided the
+26 commission avoids any appearance of impropriety.
+27 m. Sell, convey, mortgage, pledge, lease, exchange, abandon, or otherwise dispose
+28 of any property; real, personal, or mixed.
+29 n. Establish a budget and make expenditures.
+30 o. Borrow money.
+Page No. 12 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 p. Appoint committees, including standing committees composed of members, state
+2 regulators, state legislators or their representatives, and consumer
+3 representatives, and other interested persons as designated in this compact and
+4 the bylaws.
+5 q. Provide and receive information from, and cooperate with, law enforcement
+6 agencies.
+7 r. Establish and elect an executive committee.
+8 s. Perform other functions as necessary or appropriate to achieve the purposes of
+9 this compact consistent with the state regulation of occupational therapy
+10 licensure and practice.
+11 4. The executive committee.
+12 a. The executive committee has the power to act on behalf of the commission
+13 according to the terms of this compact.
+14 b. The executive committee is composed of nine members:
+15 (1) Seven voting members who are elected by the commission from the current
+16 membership of the commission;
+17 (2) One ex-officio, nonvoting member from a recognized national occupational
+18 therapy professional association; and
+19 (3) One ex-officio, nonvoting member from a recognized national occupational
+20 therapy certification organization.
+21 c. The ex-officio members will be selected by their respective organizations.
+22 d. The commission may remove any member of the executive committee as
+23 provided in bylaws.
+24 e. The executive committee shall:
+25 (1) Meet at least annually;
+26 (2) Recommend to the entire commission changes to the rules or bylaws,
+27 changes to this compact legislation, fees paid by compact member states
+28 including, annual dues, and any commission compact fee charged to
+29 licensees for the compact privilege;
+30 (3) Ensure compact administration services are appropriately provided,
+31 contractual or otherwise;
+Page No. 13 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 (4) Prepare and recommend the budget;
+2 (5) Maintain financial records on behalf of the commission;
+3 (6) Monitor compact compliance of member states and provide compliance
+4 reports to the commission;
+5 (7) Establish additional committees as necessary; and
+6 (8) Perform other duties as provided in rules or bylaws.
+7 5. Meetings of the commission.
+8 a. All meetings must be open to the public, and public notice of meetings must be
+9 given in the same manner as required under the rulemaking provisions in section
+10 43 - 40.1 - 10 .
+11 b. The commission or the executive committee or other committees of the
+12 commission may convene in a closed, nonpublic meeting if the commission or
+13 executive committee or other committees of the commission must discuss:
+14 (1) Noncompliance of a member state with its obligations under the compact;
+15 (2) The employment, compensation, discipline, or other matters, practices, or
+16 procedures related to specific employees or other matters related to the
+17 commission's internal personnel practices and procedures;
+18 (3) Current, threatened, or reasonably anticipated litigation;
+19 (4) Negotiation of contracts for the purchase, lease, or sale of goods, services,
+20 or real estate;
+21 (5) Accusing any individual of a crime or formally censuring any individual;
+22 (6) Disclosure of trade secrets or commercial or financial information that is
+23 privileged or confidential;
+24 (7) Disclosure of information of a personal nature if disclosure would constitute
+25 a clearly unwarranted invasion of personal privacy;
+26 (8) Disclosure of investigative records compiled for law enforcement purposes;
+27 (9) Disclosure of information related to any investigative reports prepared by or
+28 on behalf of or for use of the commission or other committee charged with
+29 responsibility of investigation or determination of compliance issues
+30 pursuant to the compact; or
+Page No. 14 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 (10) Matters specifically exempted from disclosure by federal or member state
+2 statute.
+3 c. If a meeting, or portion of a meeting, is closed pursuant to this provision, the
+4 commission's legal counsel or designee shall certify that the meeting may be
+5 closed and shall reference each relevant exempting provision.
+6 d. The commission shall keep minutes that fully and clearly describe all matters
+7 discussed in a meeting and shall provide a full and accurate summary of actions
+8 taken, and the reasons for taking the actions, including a description of the views
+9 expressed. All documents considered in connection with an action must be
+10 identified in the minutes. All minutes and documents of a closed meeting must
+11 remain under seal, subject to release by a majority vote of the commission or
+12 order of a court of competent jurisdiction.
+13 6. Financing of the commission.
+14 a. The commission shall pay, or provide for the payment of, the reasonable
+15 expenses of its establishment, organization, and ongoing activities.
+16 b. The commission may accept any and all appropriate revenue sources, donations,
+17 and grants of money, equipment, supplies, materials, and services.
+18 c. The commission may levy on and collect an annual assessment from each
+19 member state or impose fees on other parties to cover the cost of the operations
+20 and activities of the commission and its staff, which must be in a total amount
+21 sufficient to cover its annual budget as approved by the commission each year
+22 for which revenue is not provided by other sources. The aggregate annual
+23 assessment amount must be allocated based on a formula determined by the
+24 commission, which shall adopt a rule binding on all member states.
+25 d. The commission may not incur obligations before securing adequate funds to
+26 meet the obligations or pledge the credit of any of the member states, except by
+27 and with the authority of the member state.
+28 e. The commission shall keep accurate accounts of all receipts and disbursements.
+29 The receipts and disbursements of the commission are subject to the audit and
+30 accounting procedures established under its bylaws. All receipts and
+31 disbursements of funds handled by the commission must be audited yearly by a
+Page No. 15 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 certified or licensed public accountant, and the report of the audit must be
+2 included in and become part of the annual report of the commission.
+3 7. Qualified immunity, defense, and indemnification.
+4 a. The members, officers, executive director, employees, and representatives of the
+5 commission are immune from suit and liability, either personally or in their official
+6 capacity, for any claim for damage to or loss of property or personal injury or
+7 other civil liability caused by or arising out of any actual or alleged act, error, or
+8 omission that occurred, or that the individual against whom the claim is made had
+9 a reasonable basis for believing occurred within the scope of commission
+10 employment, duties, or responsibilities. This subdivision may not be construed to
+11 protect any such individual from suit or liability for any damage, loss, injury, or
+12 liability caused by the intentional, willful, or wanton misconduct of that individual.
+13 b. The commission shall defend any member, officer, executive director, employee,
+14 or representative of the commission in any civil action seeking to impose liability
+15 arising out of any actual or alleged act, error, or omission that occurred within the
+16 scope of commission employment, duties, or responsibilities, or that the
+17 individual against whom the claim is made had a reasonable basis for believing
+18 occurred within the scope of commission employment, duties, or responsibilities.
+19 This subdivision may not be construed to prohibit that individual from retaining
+20 counsel or that the actual or alleged act, error, or omission did not result from that
+21 individual's intentional, willful, or wanton misconduct.
+22 c. The commission shall indemnify and hold harmless any member, officer,
+23 executive director, employee, or representative of the commission for the amount
+24 of any settlement or judgment obtained against that individual arising out of any
+25 actual or alleged act, error, or omission that occurred within the scope of
+26 commission employment, duties, or responsibilities, or that the individual had a
+27 reasonable basis for believing occurred within the scope of commission
+28 employment, duties, or responsibilities, provided the actual or alleged act, error,
+29 or omission did not result from the intentional, willful, or wanton misconduct of
+30 that individual.
+Page No. 16 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 09. Data system .
+2 1. The commission shall provide for the development, maintenance, and use of a
+3 coordinated database and reporting system containing licensure, adverse action, and
+4 investigative information on all licensed individuals in member states.
+5 2. A member state shall submit a uniform data set to the data system on all individuals to
+6 whom this compact applies, as required by the rules of the commission using a unique
+7 identifier that includes:
+8 a. Identifying information;
+9 b. Licensure data;
+10 c. Adverse actions against a license or compact privilege;
+11 d. Nonconfidential information related to alternative program participation;
+12 e. Any denial of application for licensure, and the reason for the denial;
+13 f. Other information that may facilitate the administration of this compact, as
+14 determined by the rules of the commission; and
+15 g. Current significant investigative information.
+16 3. Current significant investigative information and other investigative information
+17 pertaining to a licensee in any member state only will be available to other member
+18 states.
+19 4. The commission shall promptly notify all member states of any adverse action taken
+20 against a licensee or an individual applying for a license. Adverse action information
+21 pertaining to a licensee in any member state will be available to any other member
+22 state.
+23 5. Member states contributing information to the data system may designate information
+24 that may not be shared with the public without the express permission of the
+25 contributing state.
+26 6. Any information submitted to the data system that is subsequently required to be
+27 expunged by the laws of the member state contributing the information must be
+28 removed from the data system.
+Page No. 17 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 10. Rulemaking .
+2 1. The commission shall exercise its rulemaking powers pursuant to the criteria set forth
+3 in this section and the rules adopted thereunder. Rules and amendments become
+4 binding as of the date specified in each rule or amendment.
+5 2. The commission shall adopt rules in order to effectively and efficiently achieve the
+6 purposes of the compact. Notwithstanding the foregoing, if the commission exercises
+7 its rulemaking authority in a manner beyond the scope of the purposes of the compact,
+8 or the powers granted under the compact, then the action by the commission is invalid
+9 and has no force and effect.
+10 3. If a majority of the legislatures of the member states rejects a rule, by enactment of a
+11 statute or resolution in the same manner used to adopt the compact within four years
+12 of the date of adoption of the rule, the rule has no further force and effect in any
+13 member state.
+14 4. Rules or amendments to the rules must be adopted at a regular or special meeting of
+15 the commission.
+16 5. Before adoption of a final rule by the commission, and at least thirty days in advance
+17 of the meeting at which the rule will be considered and voted upon, the commission
+18 shall file a notice of proposed rulemaking:
+19 a. On the website of the commission or other publicly accessible platform; and
+20 b. On the website of each member state occupational therapy licensing board or
+21 other publicly accessible platform or the publication in which each state would
+22 otherwise publish proposed rules.
+23 6. The notice of proposed rulemaking must include:
+24 a. The proposed time, date, and location of the meeting in which the rule will be
+25 considered and voted on;
+26 b. The text of the proposed rule or amendment and the reason for the proposed
+27 rule;
+28 c. A request for comments on the proposed rule from any interested person; and
+29 d. The manner in which interested persons may submit notice to the commission of
+30 their intention to attend the public hearing and any written comments.
+Page No. 18 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 7. Before adoption of a proposed rule, the commission shall allow an individual to submit
+2 written data, facts, opinions, and arguments, which must be made available to the
+3 public.
+4 8. The commission shall grant an opportunity for a public hearing before the commission
+5 adopts a rule or amendment if a hearing is requested by:
+6 a. At least twenty-five individuals;
+7 b. A state or federal governmental subdivision or agency; or
+8 c. An association or organization having at least twenty-five members.
+9 9. If a hearing is held on the proposed rule or amendment, the commission shall publish
+10 the place, time, and date of the scheduled public hearing. If the hearing is held
+11 through electronic means, the commission shall publish the mechanism for access to
+12 the electronic hearing.
+13 a. Any individual wishing to be heard at the hearing shall notify the executive
+14 director of the commission or other designated member in writing of their desire
+15 to appear and testify at the hearing not less than five business days before the
+16 scheduled date of the hearing.
+17 b. Hearings must be conducted in a manner providing an individual who wishes to
+18 comment a fair and reasonable opportunity to comment orally or in writing.
+19 c. All hearings must be recorded. A copy of the recording must be made available
+20 on request.
+21 d. This section may not be construed to require a separate hearing on each rule.
+22 Rules may be grouped for the convenience of the commission at hearings
+23 required by this section.
+24 10. Following the scheduled hearing date, or by the close of business on the scheduled
+25 hearing date if the hearing was not held, the commission shall consider all written and
+26 oral comments received.
+27 11. If written notice of intent to attend the public hearing by interested parties is not
+28 received, the commission may proceed with adoption of the proposed rule without a
+29 public hearing.
+Page No. 19 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 12. The commission shall, by majority vote of all members, take final action on the
+2 proposed rule and determine the effective date of the rule, if any, based on the
+3 rulemaking record and the full text of the rule.
+4 13. Upon determination that an emergency exists, the commission may consider and
+5 adopt an emergency rule without prior notice, opportunity for comment, or hearing,
+6 provided the usual rulemaking procedures provided in the compact and in this section
+7 must be retroactively applied to the rule as soon as reasonably possible, in no event
+8 later than ninety days after the effective date of the rule. For purposes of this
+9 provision, an emergency rule is one that must be adopted immediately in order to:
+10 a. Meet an imminent threat to public health, safety, or welfare;
+11 b. Prevent a loss of commission or member state funds;
+12 c. Meet a deadline for the promulgation of an administrative rule that is established
+13 by federal law or rule; or
+14 d. Protect public health and safety.
+15 14. The commission or an authorized committee of the commission may direct revisions to
+16 a previously adopted rule or amendment for purposes of correcting typographical
+17 errors, errors in format, errors in consistency, or grammatical errors. Public notice of
+18 any revisions must be posted on the website of the commission. The revision is
+19 subject to challenge by any individual for a period of thirty days after posting. The
+20 revision may be challenged only on grounds that the revision results in a material
+21 change to a rule. A challenge must be made in writing and delivered to the chair of the
+22 commission before the end of the notice period. If a challenge is not made, the
+23 revision will take effect without further action. If the revision is challenged, the revision
+24 may not take effect without the approval of the commission.
+25 43 - 40.1 - 11. Oversight, dispute resolution, and enforcement .
+26 1. Oversight.
+27 a. The executive, legislative, and judicial branches of state government in each
+28 member state shall enforce this compact and take all actions necessary and
+29 appropriate to effectuate the compact's purposes and intent. The provisions of
+30 this compact and the rules adopted hereunder have standing as statutory law.
+Page No. 20 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. All courts shall take judicial notice of the compact and the rules in any judicial or
+2 administrative proceeding in a member state pertaining to the subject matter of
+3 this compact which may affect the powers, responsibilities, or actions of the
+4 commission.
+5 c. The commission is entitled to receive service of process in any such proceeding,
+6 and has standing to intervene in such a proceeding for all purposes. Failure to
+7 provide service of process to the commission renders a judgment or order void
+8 as to the commission, this compact, or adopted rules.
+9 2. Default, technical assistance, and termination.
+10 a. If the commission determines a member state has defaulted in the performance
+11 of its obligations or responsibilities under this compact or the adopted rules, the
+12 commission shall:
+13 (1) Provide written notice to the defaulting state and other member states of the
+14 nature of the default, the proposed means of curing the default, and any
+15 other action to be taken by the commission; and
+16 (2) Provide remedial training and specific technical assistance regarding the
+17 default.
+18 b. If a state in default fails to cure the default, the defaulting state may be
+19 terminated from the compact upon an affirmative vote of a majority of the
+20 member states, and all rights, privileges, and benefits conferred by this compact
+21 may be terminated on the effective date of termination. A cure of the default does
+22 not relieve the offending state of obligations or liabilities incurred during the
+23 period of default.
+24 c. Termination of membership in the compact must be imposed only after all other
+25 means of securing compliance have been exhausted. Notice of intent to suspend
+26 or terminate must be given by the commission to the governor, the majority and
+27 minority leaders of the defaulting state's legislature, and each of the member
+28 states.
+29 d. A state that has been terminated is responsible for all assessments, obligations,
+30 and liabilities incurred through the effective date of termination, including
+31 obligations that extend beyond the effective date of termination.
+Page No. 21 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 e. The commission may not incur any costs related to a state that is found to be in
+2 default or has been terminated from the compact, unless agreed on in writing
+3 between the commission and the defaulting state.
+4 f. The defaulting state may appeal the action of the commission by petitioning the
+5 United States district court for the District of Columbia or the federal district
+6 where the commission has its principal offices. The prevailing member must be
+7 awarded all costs of litigation, including reasonable attorney's fees.
+8 3. Dispute resolution.
+9 a. Upon request by a member state, the commission shall attempt to resolve
+10 disputes related to the compact that arise among member states and between
+11 member and nonmember states.
+12 b. The commission shall adopt a rule providing for both mediation and binding
+13 dispute resolution for disputes as appropriate.
+14 4. Enforcement.
+15 a. The commission, in the reasonable exercise of its discretion, shall enforce the
+16 provisions and rules of this compact.
+17 b. By majority vote, the commission may initiate legal action in the United States
+18 district court for the District of Columbia, or the federal district where the
+19 commission has its principal offices, against a member state in default to enforce
+20 compliance with the provisions of the compact and its rules and bylaws. The relief
+21 sought may include injunctive relief and damages. If judicial enforcement is
+22 necessary, the prevailing member must be awarded all costs of litigation,
+23 including reasonable attorney's fees.
+24 c. The remedies herein are not the exclusive remedies of the commission. The
+25 commission may pursue any other remedies available under federal or state law.
+26 43 - 40.1 - 12. Date of implementation of the interstate compact for occupational therapy
+27 practice and associated rules, withdrawal, and amendment.
+28 1. The compact becomes effective on the date the compact statute is enacted into law in
+29 the tenth member state. The provisions, which become effective at that time, are
+30 limited to the powers granted to the commission relating to assembly and the adoption
+Page No. 22 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 of rules. Thereafter, the commission shall meet and exercise rulemaking powers
+2 necessary to the implementation and administration of the compact.
+3 2. Any state that joins the compact subsequent to the commission's initial adoption of the
+4 rules is subject to the rules as they exist on the date the compact becomes law in that
+5 state. Any rule that has been previously adopted by the commission has the full force
+6 and effect of law on the day the compact becomes law in that state.
+7 3. Any member state may withdraw from this compact by enacting a statute repealing the
+8 compact.
+9 a. A member state's withdrawal may not take effect until six months after enactment
+10 of the repealing statute.
+11 b. Withdrawal may not affect the continuing requirement of the withdrawing state's
+12 occupational therapy licensing board to comply with the investigative and
+13 adverse action reporting requirements of this compact before the effective date of
+14 withdrawal.
+15 4. The compact may not be construed to invalidate or prevent any occupational therapy
+16 licensure agreement or other cooperative arrangement between a member state and a
+17 nonmember state which does not conflict with the provisions of this compact.
+18 5. This compact may be amended by the member states. An amendment to this compact
+19 may not become effective and binding on any member state until the amendment is
+20 enacted into the laws of all member states.
+21 43 - 40.1 - 13. Construction and severability .
+22 This compact must be liberally construed to effectuate the purposes of the compact. The
+23 provisions of this compact are severable and if any phrase, clause, sentence, or provision of
+24 this compact is declared to be contrary to the constitution of any member state or of the United
+25 States or the applicability thereof to any government, agency, individual, or circumstance is held
+26 invalid, the validity of the remainder of this compact and the applicability of this compact to any
+27 government, agency, individual, or circumstance are not affected thereby. If this compact is held
+28 contrary to the constitution of any member state, the compact remains in full force and effect as
+29 to the remaining member states and in full force and effect as to the member state affected as
+30 to all severable matters.
+Page No. 23 25.0274.02000
+
+Sixty-ninth
+Legislative Assembly
+1 43 - 40.1 - 14. Binding effect of compact and other laws .
+2 1. A licensee providing occupational therapy in a remote state under the compact
+3 privilege shall function within the laws and regulations of the remote state.
+4 2. This compact does not prevent the enforcement of any other law of a member state
+5 which is not inconsistent with the compact.
+6 3. A law in a member state in conflict with the compact is superseded to the extent of the
+7 conflict.
+8 4. Any lawful actions of the commission, including all rules and bylaws adopted by the
+9 commission, are binding on the member states.
+10 5. All agreements between the commission and the member states are binding in
+11 accordance with the terms of the agreement.
+12 6. If a provision of the compact exceeds the constitutional limits imposed on the
+13 legislature of any member state, the provision is ineffective to the extent of the conflict
+14 with the constitutional provision in question in that member state.
+Page No. 24 25.0274.02000
+
+[DELETED: .T.T.I.E.E.S.E.A.F12]
+[DELETED: ."."."."."."."."22]
+[DELETED: ."."."."."."."."."."."."."32]
+[DELETED: .".".".".".T.L.P.H.N.I)A42]
+[DELETED: )C.C.U.H.A.M.A.A.T.T.H.H.H52]
+[DELETED: .B.H.N.P. .MR.T.A.O.A62]
+[DELETED: .I.T.T.I.I.T.A.T.T.I. .A.I.T72]
+[DELETED: .U)A)A)S.T.N.T.I.N.T82]
+[DELETED: .A.I.T.I.F.T92]
+[DELETED: .A.A.J.I.M.I.I.T02]
+[DELETED: .T.T.V.T.M.E.T)A)A.A.T.E.T.T.T.E12]
+[DELETED: .E.E.M.M.A.B.P.B.H.A.L.S.E.B22]
+[DELETED: .A.P.E.P.T.T.T)S)O)O.T.T.T)M)R)E32]
+[DELETED: )P)M)M)E)P.M.A.T)N)T)C)N)A)D)D)D)D42]
+[DELETED: )M.I.T.F.T.T.T.T.T52]
+[DELETED: .Q.T.T.T62]
+[DELETED: .T.A.I.L.A.N.A.O.C.C.T.M.A72]
+[DELETED: .T.T.I.R.B.O.O.T.T.T.A.T82]
+[DELETED: .B.T.A.A.A.I.A.H.A.T.F.I92]
+[DELETED: .T.U.M.P.M.P.T.O.T02]
+[DELETED: .A.T.D.I)P)P.I.T.A12]
+[DELETED: .T.T.D.U.T.E.T.B.T.T22]
+[DELETED: .A.A.A.W.T.T32]
+[DELETED: .A.T.A.A.A.I42]

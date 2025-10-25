@@ -1,0 +1,65 @@
+Title: HOUSE BILL NO. 1004
+Official Title: HOUSE BILL NO. 1004
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+25.0148.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the state auditor.
+2 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+3 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+4 as may be necessary, are appropriated out of any moneys in the general fund in the state
+5 treasury, not otherwise appropriated, and from other funds derived from special funds and
+6 federal funds, to the state auditor for the purpose of defraying the expenses of the state auditor,
+7 for the biennium beginning July 1, 2025, and ending June 30, 2027, as follows:
+8 Adjustments or
+9 Base Level Enhancements Appropriation
+10 Salaries and wages $14,627,899 $0 $14,627,899
+11 Operating expenses 1,719,771 0 1,719,771
+12 Information technology consultants 450,000 0 450,000
+13 Total all funds $16,797,670 $0 $16,797,670
+14 Less other funds 6,486,821 0 6,486,821
+15 Total general fund $10,310,849 $0 $10,310,849
+16 Full-time equivalent positions 65.00 0.00 65.00
+Page No. 1 25.0148.01000
+[DELETED: lEsAs$9$0$s1101s4004s$0$0$s6106d$9$0$s6000612]
+
+
+================================================================================
+
+Raw Text:
+25.0148.01000
+Sixty-ninth
+HOUSE BILL NO. 1004
+Legislative Assembly
+of North Dakota
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the state auditor.
+2 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+3 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+4 as may be necessary, are appropriated out of any moneys in the general fund in the state
+5 treasury, not otherwise appropriated, and from other funds derived from special funds and
+6 federal funds, to the state auditor for the purpose of defraying the expenses of the state auditor,
+7 for the biennium beginning July 1, 2025, and ending June 30, 2027, as follows:
+8 Adjustments or
+9 Base Level Enhancements Appropriation
+10 Salaries and wages $14,627,899 $0 $14,627,899
+11 Operating expenses 1,719,771 0 1,719,771
+12 Information technology consultants 450,000 0 450,000
+13 Total all funds $16,797,670 $0 $16,797,670
+14 Less other funds 6,486,821 0 6,486,821
+15 Total general fund $10,310,849 $0 $10,310,849
+16 Full-time equivalent positions 65.00 0.00 65.00
+Page No. 1 25.0148.01000
+
+[DELETED: lEsAs$9$0$s1101s4004s$0$0$s6106d$9$0$s6000612]

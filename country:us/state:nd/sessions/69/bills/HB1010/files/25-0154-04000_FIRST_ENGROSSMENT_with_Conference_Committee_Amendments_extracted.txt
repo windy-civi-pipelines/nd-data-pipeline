@@ -1,0 +1,189 @@
+Title: ENGROSSED HOUSE BILL NO. 1010
+Official Title: ENGROSSED HOUSE BILL NO. 1010
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with Conference Committee Amendments
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0154.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Conference Committee Amendments
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the insurance
+2 commissioner; to create and enact a new section to chapter 26.1-23.1 of the North Dakota
+3 Century Code, relating to a government self-insurance pool report; to amend and reenact
+4 subsection 8 of section 10-04-10 and section 26.1-01-09 of the North Dakota Century Code,
+5 relating to fees charged by the securities division and the salary of the insurance commissioner;
+6 and to provide for a legislative management report.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+9 as may be necessary, are appropriated from other funds derived from special funds and federal
+10 funds, to the insurance commissioner for the purpose of defraying the expenses of the
+11 insurance commissioner, for the biennium beginning July 1, 2025, and ending June 30, 2027,
+12 as follows:
+13 Adjustments or
+14 Base Level Enhancements Appropriation
+15 Salaries and wages $10,746,226 $3,955,150 $14,701,376
+16 New and vacant FTE pool 0 325,136 325,136
+17 Operating expenses 2,637,667 613,692 3,251,359
+18 Capital assets 0 90,000 90,000
+19 Grants 2,400,000 0 2,400,000
+20 Total other funds $15,783,893 $4,983,978 $20,767,871
+21 Full-time equivalent positions 47.00 10.00 57.00
+Page No. 1 25.0154.04000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO THE
+2 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+3 items included in the appropriation in section 1 of this Act which are not included in the entity's
+4 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+5 committees of the seventieth legislative assembly regarding the use of this funding.
+6 One-Time Funding Description Other Funds
+7 Radios and x-ray machine $90,000
+8 Accrued leave payout 30,000
+9 Fire marshal compensatory time and overtime 20 ,000
+10 Total other funds $140,000
+11 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+12 insurance commissioner may not spend funds appropriated in the new and vacant FTE pool line
+13 item in section 1 of this Act, but may request the office of management and budget to transfer
+14 funds from the new and vacant FTE pool line item to the salaries and wages line item in
+15 accordance with the guidelines and reporting provisions included in House Bill No. 1015, as
+16 approved by the sixty-ninth legislative assembly.
+17 SECTION 4. ADDITIONAL INCOME - APPROPRIATION - REPORTING. In addition to the
+18 amounts appropriated in section 1 of this Act, any federal funds that become available are
+19 appropriated to the insurance commissioner, for the biennium beginning July 1, 2025, and
+20 ending June 30, 2027. The insurance commissioner shall report any additional federal funds
+21 under this section to the office of management and budget and the legislative council.
+22 SECTION 5. AMENDMENT. Subsection 8 of section 10-04-10 of the North Dakota Century
+23 Code is amended and reenacted as follows:
+24 8. Fees. The fee, which must accompany the application, for registration, transfer, or
+25 notice filing, and for each annual renewal thereof is:
+26 a. For each broker-dealer $200.00$240.00
+27 b. For each agent $60.00$75.00
+28 c. For each investment adviser or federal covered adviser $100.00$120.00
+29 d. For each investment adviser representative $50.00$60.00
+Page No. 2 25.0154.04000
+Sixty-ninth
+Legislative Assembly
+1 An application to register as a broker-dealer, agent, investment adviser, or investment
+2 adviser representative may, with the consent of the commissioner, be withdrawn upon
+3 written application.
+4 SECTION 6. AMENDMENT. Section 26.1-01-09 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 26.1-01-09. Salary of commissioner.
+7 The annual salary of the commissioner is one hundred thirty thousand dollars through
+8 June 30, 2024, and one hundred thirty-five thousand two hundred dollars thirty - nine thousand
+9 two hundred fifty - six dollars through June 30, 2026, and one hundred forty - three thousand four
+10 hundred thirty - four dollars thereafter.
+11 SECTION 7. A new section to chapter 26.1-23.1 of the North Dakota Century Code is
+12 created and enacted as follows:
+13 Government self-insurance pool - Report.
+14 A government self-insurance pool organized under this chapter shall provide a report to the
+15 legislative management by September thirtieth of each even-numbered year. The report must
+16 include information on activities of the pool, including the claims activity, claims payment history,
+17 balances, a history of complaints, and executive staff and board compensation.
+Page No. 3 25.0154.04000
+[DELETED: lEsAs$6$0$l0363s27623s0909s2002s$3$8$s4010512]
+[DELETED: nOe$t3e s$.F.Fr$.Ft .Fr$.Fe 22]
+[DELETED: 32]
+
+
+================================================================================
+
+Raw Text:
+25.0154.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Conference Committee Amendments
+ENGROSSED HOUSE BILL NO. 1010
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the insurance
+2 commissioner; to create and enact a new section to chapter 26.1-23.1 of the North Dakota
+3 Century Code, relating to a government self-insurance pool report; to amend and reenact
+4 subsection 8 of section 10-04-10 and section 26.1-01-09 of the North Dakota Century Code,
+5 relating to fees charged by the securities division and the salary of the insurance commissioner;
+6 and to provide for a legislative management report.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+9 as may be necessary, are appropriated from other funds derived from special funds and federal
+10 funds, to the insurance commissioner for the purpose of defraying the expenses of the
+11 insurance commissioner, for the biennium beginning July 1, 2025, and ending June 30, 2027,
+12 as follows:
+13 Adjustments or
+14 Base Level Enhancements Appropriation
+15 Salaries and wages $10,746,226 $3,955,150 $14,701,376
+16 New and vacant FTE pool 0 325,136 325,136
+17 Operating expenses 2,637,667 613,692 3,251,359
+18 Capital assets 0 90,000 90,000
+19 Grants 2,400,000 0 2,400,000
+20 Total other funds $15,783,893 $4,983,978 $20,767,871
+21 Full-time equivalent positions 47.00 10.00 57.00
+Page No. 1 25.0154.04000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO THE
+2 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+3 items included in the appropriation in section 1 of this Act which are not included in the entity's
+4 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+5 committees of the seventieth legislative assembly regarding the use of this funding.
+6 One-Time Funding Description Other Funds
+7 Radios and x-ray machine $90,000
+8 Accrued leave payout 30,000
+9 Fire marshal compensatory time and overtime 20 ,000
+10 Total other funds $140,000
+11 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+12 insurance commissioner may not spend funds appropriated in the new and vacant FTE pool line
+13 item in section 1 of this Act, but may request the office of management and budget to transfer
+14 funds from the new and vacant FTE pool line item to the salaries and wages line item in
+15 accordance with the guidelines and reporting provisions included in House Bill No. 1015, as
+16 approved by the sixty-ninth legislative assembly.
+17 SECTION 4. ADDITIONAL INCOME - APPROPRIATION - REPORTING. In addition to the
+18 amounts appropriated in section 1 of this Act, any federal funds that become available are
+19 appropriated to the insurance commissioner, for the biennium beginning July 1, 2025, and
+20 ending June 30, 2027. The insurance commissioner shall report any additional federal funds
+21 under this section to the office of management and budget and the legislative council.
+22 SECTION 5. AMENDMENT. Subsection 8 of section 10-04-10 of the North Dakota Century
+23 Code is amended and reenacted as follows:
+24 8. Fees. The fee, which must accompany the application, for registration, transfer, or
+25 notice filing, and for each annual renewal thereof is:
+26 a. For each broker-dealer $200.00$240.00
+27 b. For each agent $60.00$75.00
+28 c. For each investment adviser or federal covered adviser $100.00$120.00
+29 d. For each investment adviser representative $50.00$60.00
+Page No. 2 25.0154.04000
+
+Sixty-ninth
+Legislative Assembly
+1 An application to register as a broker-dealer, agent, investment adviser, or investment
+2 adviser representative may, with the consent of the commissioner, be withdrawn upon
+3 written application.
+4 SECTION 6. AMENDMENT. Section 26.1-01-09 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 26.1-01-09. Salary of commissioner.
+7 The annual salary of the commissioner is one hundred thirty thousand dollars through
+8 June 30, 2024, and one hundred thirty-five thousand two hundred dollars thirty - nine thousand
+9 two hundred fifty - six dollars through June 30, 2026, and one hundred forty - three thousand four
+10 hundred thirty - four dollars thereafter.
+11 SECTION 7. A new section to chapter 26.1-23.1 of the North Dakota Century Code is
+12 created and enacted as follows:
+13 Government self-insurance pool - Report.
+14 A government self-insurance pool organized under this chapter shall provide a report to the
+15 legislative management by September thirtieth of each even-numbered year. The report must
+16 include information on activities of the pool, including the claims activity, claims payment history,
+17 balances, a history of complaints, and executive staff and board compensation.
+Page No. 3 25.0154.04000
+
+[DELETED: lEsAs$6$0$l0363s27623s0909s2002s$3$8$s4010512]
+[DELETED: nOe$t3e s$.F.Fr$.Ft .Fr$.Fe 22]
+[DELETED: 32]

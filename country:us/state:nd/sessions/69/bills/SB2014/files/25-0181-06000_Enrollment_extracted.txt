@@ -1,0 +1,1373 @@
+Title: In Regular Session Commencing Tuesday, January 7, 2025
+Official Title: In Regular Session Commencing Tuesday, January 7, 2025
+Number of Sections: 97
+Source: versions - Enrollment
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+Sixty-ninth Legislative Assembly of North Dakota
+SENATE BILL NO. 2014
+(Appropriations Committee)
+AN ACT to provide an appropriation for defraying the expenses of the industrial commission and the
+agencies under its control; to create and enact a new section to chapter 6-09 and a new
+subdivision to subsection 2 of section 38-08-04.5 of the North Dakota Century Code, relating to
+a rail revolving loan fund and uses of the abandoned oil and gas well plugging and site
+reclamation fund; to amend and reenact subsection 7 of section 6-08.1-02 and sections 6-09-35,
+6-09-46.2, 6-09.7-05, 6-09.14-04, and 49-17.1-02.1, subsection 1 of section 54-17-40, and
+subdivision a of subsection 4 of section 54-17.7-04 of the North Dakota Century Code, and
+
+Section 2:
+section 15 of chapter 14 of the 2023 Session Laws, relating to confidential and exempt records
+of the Bank of North Dakota, the rebuilders loan program, loan guarantees through the strategic
+investment and improvements fund, interest rate buydown limits for the partnership in assisting
+community expansion fund, department of transportation review and approval of rail projects,
+uses of the housing incentive fund, North Dakota pipeline borrowing authority, and a salt cavern
+underground energy storage research project; to repeal section 3 of Senate Bill No. 2188, as
+approved by the sixty-ninth legislative assembly, relating to a transfer from the strategic
+investment and improvements fund to the clean sustainable energy fund; to provide a deficiency
+appropriation; to provide for a transfer; to provide an exemption; to provide for a legislative
+management study; to provide for a legislative management report; to provide for a report; to
+provide an effective date; and to declare an emergency.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+
+Section 3:
+SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds as may
+be necessary, are appropriated out of any moneys in the general fund in the state treasury, not
+otherwise appropriated, and from other funds derived from special funds and federal funds, to the
+industrial commission and agencies under its control for the purpose of defraying the expenses of the
+industrial commission and the agencies under its control, for the biennium beginning July 1, 2025, and
+ending June 30, 2027, as follows:
+Subdivision 1.
+INDUSTRIAL COMMISSION
+Adjustments or
+Base Level Enhancements Appropriation
+Salaries and wages $1,884,918 $701,583 $2,586,501
+New and vacant FTE pool 0 20,376 20,376
+Operating expenses 472,271 3,821,991 4,294,262
+Grants 0 13,668,089 13,668,089
+Grants - bond payments 119,879,913 (2,761,713) 117,118,200
+Total all funds $122,237,102 $15,450,326 $137,687,428
+Less other funds 122,237,102 15,050,326 137,287,428
+Total general fund $0 $400,000 $400,000
+Full-time equivalent positions 9.75 0.00 9.75
+Subdivision 2.
+BANK OF NORTH DAKOTA
+Adjustments or
+Base Level Enhancements Appropriation
+S. B. NO. 2014 - PAGE 2
+Bank of North Dakota operations $70,899,761 $5,461,643 $76,361,404
+New and vacant FTE pool 0 2,122,074 2,122,074
+Capital assets 705,722 3,437,577 4,143,299
+Total other funds $71,605,483 $11,021,294 $82,626,777
+Full-time equivalent positions 187.00 0.00 187.00
+Subdivision 3.
+HOUSING FINANCE AGENCY
+Adjustments or
+Base Level Enhancements Appropriation
+Salaries and wages $11,413,354 $1,655,543 $13,068,897
+New and vacant FTE pool 0 1,422,760 1,422,760
+Operating expenses 10,903,883 (1,433,707) 9,470,176
+Capital assets 20,000 0 20,000
+Grants 48,805,110 (2,700,000) 46,105,110
+Housing finance agency contingencies 100,000 0 100,000
+Total all funds $71,242,347 ($1,055,404) $70,186,943
+Less other funds 68,742,347 1,444,596 70,186,943
+Total general fund $2,500,000 ($2,500,000) $0
+Full-time equivalent positions 54.00 5.00 59.00
+Subdivision 4.
+DEPARTMENT OF MINERAL RESOURCES
+Adjustments or
+Base Level Enhancements Appropriation
+Salaries and wages $23,261,532 $3,026,192 $26,287,724
+New and vacant FTE pool 0 2,121,618 2,121,618
+Operating expenses 5,120,253 6,778,008 11,898,261
+Capital assets 0 45,000 45,000
+Total all funds $28,381,785 $11,970,818 $40,352,603
+Less other funds 268,000 5,754,837 6,022,837
+Total general fund $28,113,785 $6,215,981 $34,329,766
+Full-time equivalent positions 108.00 5.00 113.00
+Subdivision 5.
+MILL AND ELEVATOR ASSOCIATION
+Adjustments or
+Base Level Enhancements Appropriation
+Salaries and wages $54,019,267 $6,345,741 $60,365,008
+New and vacant FTE pool 0 1,973,530 1,973,530
+Operating expenses 42,391,653 2,710,224 45,101,877
+Contingencies 500,000 0 500,000
+Agriculture promotion 500,000 0 500,000
+Total special funds $97,410,920 $11,029,495 $108,440,415
+Full-time equivalent positions 170.00 2.00 172.00
+Subdivision 6.
+TOTAL SECTION 1
+Adjustments or
+Base Level Enhancements Appropriation
+S. B. NO. 2014 - PAGE 3
+Grand total all funds $390,877,637 $48,416,529 $439,294,166
+Less grand total other funds 360,263,852 44,300,548 404,564,400
+Grand total general fund $30,613,785 $4,115,981 $34,729,766
+
+Section 4:
+SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO SEVENTIETH
+LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding items included in the
+appropriation in section 1 of this Act which are not included in the entity's base budget for the 2027-29
+biennium and which the entity shall report to the appropriations committees of the seventieth legislative
+assembly regarding the use of this funding:
+One-Time Funding Description General Fund Other Funds Total
+Industrial commission
+Electricity grid resiliency federal grant $0 $13,668,089 $13,668,089
+Lignite litigation 0 3,000,000 3,000,000
+Subtotal industrial commission $0 $16,668,089 $16,668,089
+Bank of North Dakota
+Capital improvement projects $0 $2,633,299 $2,633,299
+Economic development study 0 250,000 250,000
+Subtotal Bank of North Dakota $0 $2,883,299 $2,883,299
+Department of mineral resources
+Federal abandoned well program $0 $1,444,377 $1,444,377
+FTE position operating expenses 24,435 51,495 75,930
+Mineral analyses 100,000 0 100,000
+Rare earth elements study 0 400,000 400,000
+Paleontology excavation project 0 150,000 150,000
+Oil and gas litigation 0 3,000,000 3,000,000
+Portable mineral detection equipment 45,000 0 45,000
+Subtotal department of mineral resources $169,435 $5,045,872 $5,215,307
+Grand total $169,435 $24,597,260 $24,766,695
+
+Section 5:
+SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+industrial commission and agencies under its control may not spend funds appropriated in the new and
+vacant FTE pool line items in section 1 of this Act, but may request the office of management and
+budget to transfer funds, within each respective subdivision, from the new and vacant FTE pool line
+item to the salaries and wages line items or Bank of North Dakota operations line item in accordance
+with the guidelines and reporting provisions included in House Bill No. 1015, as approved by the sixty-
+ninth legislative assembly.
+
+Section 6:
+SECTION 4. BOND PAYMENTS. The amount of $117,118,200 included in subdivision 1 of
+
+Section 7:
+section 1 of this Act in the grants - bond payments line item must be paid from the following funding
+sources, during the biennium beginning July 1, 2025, and ending June 30, 2027:
+Infrastructure project and program bonds - legacy sinking and interest fund $102,622,743
+North Dakota university system 14,083,250
+Veterans' home 412,207
+Total $117,118,200
+
+Section 8:
+SECTION 5. APPROPRIATION - 2023-25 BIENNIUM - INDUSTRIAL COMMISSION -
+HYDROGEN ENERGY RESEARCH PROJECT. There is appropriated out of any moneys in the general
+fund in the state treasury, not otherwise appropriated, the sum of $627,587, or so much of the sum as
+may be necessary, to the industrial commission for the purpose of paying an outstanding invoice related
+to a hydrogen energy research project, for the period beginning with the effective date of this section
+and ending June 30, 2025.
+
+Section 9:
+SECTION 6. APPROPRIATION - HOUSING FINANCE AGENCY - ADDITIONAL INCOME. In
+addition to the amount appropriated to the housing finance agency in subdivision 3 of section 1 of this
+Act, there is appropriated any additional income or unanticipated income from federal or special funds
+S. B. NO. 2014 - PAGE 4
+which may become available to the agency, for the biennium beginning July 1, 2025, and ending
+June 30, 2027. The housing finance agency shall notify the office of management and budget and the
+legislative council of any additional income or unanticipated income that becomes available to the
+agency resulting in an increase in appropriation authority.
+
+Section 10:
+SECTION 7. APPROPRIATION - TRANSFER GENERAL FUND TO HOUSING INCENTIVE
+FUND - TRANSFER STRATEGIC INVESTMENT AND IMPROVEMENTS FUND TO HOUSING
+INCENTIVE FUND - HOMELESS PROGRAMS - HOUSING PROGRAMS - EXEMPTION - ONE-TIME
+FUNDING.
+
+Section 11:
+1. There is appropriated out of any moneys in the general fund in the state treasury, not
+otherwise appropriated, the sum of $10,000,000, which the office of management and budget
+shall transfer to the housing incentive fund for homeless programs, during the biennium
+beginning July 1, 2025, and ending June 30, 2027. The appropriation under this subsection is
+considered a one-time funding item. Notwithstanding any other requirements under section
+54-17-40 and pursuant to the continuing appropriation under section 54-17-40, the housing
+finance agency shall distribute a passthrough grant of $150,000 from the housing incentive
+fund to a Native American-focused organization with a presence in multiple communities for a
+Native American homelessness liaison, from the $10,000,000 transferred to the housing
+incentive fund under this subsection.
+
+Section 12:
+2. The office of management and budget shall transfer the sum of $25,000,000 from the strategic
+investment and improvements fund to the housing incentive fund for housing projects and
+programs during the biennium beginning July 1, 2025, and ending June 30, 2027.
+
+Section 13:
+SECTION 8. TRANSFER - ENTITIES AND FUNDS UNDER THE CONTROL OF THE
+INDUSTRIAL COMMISSION TO INDUSTRIAL COMMISSION FUND - ADMINISTRATION -
+EXEMPTION.
+
+Section 14:
+1. The sum of $2,260,660, or so much of the sum as may be necessary, included in the
+appropriation in subdivision 1 of section 1 of this Act, may be transferred from the entities and
+funds within the control of the industrial commission or entities directed to make payments to
+the industrial commission fund for administrative services rendered by the commission.
+Transfers must be made during the biennium beginning July 1, 2025, and ending June 30,
+2027, upon order of the commission. Transfers from the student loan trust fund must be made
+to the extent permitted by sections 54-17-24 and 54-17-25.
+
+Section 15:
+2. The amount of $1,818,114 appropriated to the industrial commission in subdivision 1 of
+
+Section 16:
+section 1 of chapter 14 of the 2023 Session Laws and transferred pursuant to section 8 of
+chapter 14 of the 2023 Session Laws is not subject to the provisions of section 54-44.1-11.
+Any unexpended funds from this appropriation are available to the industrial commission for
+administrative services rendered by the commission during the biennium beginning July 1,
+2025, and ending June 30, 2027.
+
+Section 17:
+SECTION 9. TRANSFER - BANK OF NORTH DAKOTA PROFITS TO GENERAL FUND. The
+Bank of North Dakota shall transfer $140,000,000 from the Bank's current earnings and undivided
+profits to the general fund during the biennium beginning July 1, 2025, and ending June 30, 2027. The
+moneys must be transferred in the amount and at the times requested by the director of the office of
+management and budget after consultation with the Bank president. For legislative council budget
+status reporting purposes, the transfer under this section is considered an ongoing revenue source.
+
+Section 18:
+SECTION 10. TRANSFER - BANK OF NORTH DAKOTA PROFITS TO ECONOMIC
+DEVELOPMENT PROGRAMS - SMALL BUSINESS DEVELOPMENT CENTER - LINE OF CREDIT
+INTEREST RATE BUYDOWN. During the biennium beginning July 1, 2025, and ending June 30, 2027,
+the Bank of North Dakota shall transfer the following amounts from the Bank's current earnings and
+undivided profits:
+S. B. NO. 2014 - PAGE 5
+
+Section 19:
+1. $60,000,000 to economic development programs administered by the Bank, including the
+partnership in assisting community expansion fund, the agriculture partnership in assisting
+community expansion fund, the biofuels partnership in assisting community expansion fund,
+and the beginning farmer revolving loan fund;
+
+Section 20:
+2. $1,900,000 to the university of North Dakota for the North Dakota small business development
+center for the purpose of matching federal grants; and
+
+Section 21:
+3. Up to $5,000,000 to the parks and recreation department for an interest rate buydown on the
+line of credit for the Theodore Roosevelt presidential library project. The interest rate buydown
+may not exceed the amount needed to buydown the interest rate on the outstanding balance
+of the line of credit from the prevailing interest rate charged to North Dakota governmental
+entities to two percent.
+
+Section 22:
+SECTION 11. TRANSFER - RAIL FUND TO RAIL REVOLVING LOAN FUND. The department of
+transportation shall transfer any outstanding loans and remaining balance from the rail fund to the rail
+revolving loan fund on July 1, 2025.
+
+Section 23:
+SECTION 12. TRANSFER STATE ENERGY RESEARCH CENTER FUND TO OIL AND GAS
+RESEARCH FUND - TRANSFER STRATEGIC INVESTMENT AND IMPROVEMENTS FUND TO OIL
+AND GAS RESEARCH FUND - ENHANCED OIL RECOVERY GRANT PROGRAM.
+
+Section 24:
+1. From the $6,000,000 transferred to the state energy research center fund pursuant to
+
+Section 25:
+section 15 of chapter 14 of the 2023 Session Laws, the office of management and budget
+shall transfer the sum of $4,000,000 to the oil and gas research fund during the biennium
+beginning July 1, 2025, and ending June 30, 2027.
+
+Section 26:
+2. The office of management and budget shall transfer the sum of $21,000,000 from the strategic
+investment and improvements fund to the oil and gas research fund during the biennium
+beginning July 1, 2025, and ending June 30, 2027.
+
+Section 27:
+3. Pursuant to the continuing appropriation under section 57-51.1-07.3 and the powers of the
+industrial commission under chapter 54-17.6, the commission shall use $25,000,000 from the
+oil and gas research fund, transferred under this section, for an enhanced oil recovery grant
+program. The commission shall develop guidelines for the grant program, including eligibility
+criteria, requirements for matching funds, and reporting requirements.
+
+Section 28:
+SECTION 13. LIGNITE RESEARCH, DEVELOPMENT, AND MARKETING PROGRAM - LIGNITE
+MARKETING FEASIBILITY STUDY - REPORT TO THE SEVENTIETH LEGISLATIVE ASSEMBLY.
+
+Section 29:
+1. Pursuant to the continuing appropriation under section 57-61-01.6, up to $4,500,000 from the
+lignite research fund may be used for the purpose of contracting for an independent,
+nonmatching lignite marketing feasibility study or studies that determine those focused priority
+areas where near-term, market-driven projects, activities, or processes will generate matching
+private industry investment and have the most potential of preserving existing lignite
+production and industry jobs or that will lead to increased development of lignite and its
+products and create new lignite industry jobs and economic growth for the general welfare of
+this state. Moneys designated under this section also may be used for the purpose of
+contracting for nonmatching studies and activities in support of advanced energy technology
+and other technology development programs; for litigation that may be necessary to protect
+and promote the continued development of lignite resources; for nonmatching externality
+studies and activities in externality proceedings; or other marketing, environmental, or
+transmission activities that assist with marketing of lignite-based electricity and lignite-based
+byproducts. Moneys needed for the purposes stated in this section are available to the
+industrial commission for funding projects, processes, or activities under the lignite research,
+development, and marketing program.
+S. B. NO. 2014 - PAGE 6
+
+Section 30:
+2. The industrial commission shall report to the appropriations committees of the seventieth
+legislative assembly on the amounts spent pursuant to this section.
+
+Section 31:
+SECTION 14. OTHER FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND -
+GRANT, LITIGATION, STUDY, AND PROJECT FUNDING. The grand total other funds line item in
+
+Section 32:
+section 1 of this Act includes the sum of $8,332,794 from the strategic investment and improvements
+fund as follows:
+
+Section 33:
+1. $4,782,794 in the other funds line item in subdivision 1 of section 1 of this Act and identified as
+one-time funding in section 2 of this Act, including $1,782,794 for matching federal funds for
+an electricity grid resiliency grant and $3,000,000 for lignite litigation.
+
+Section 34:
+2. $3,550,000 in the other funds line item in subdivision 4 of section 1 of this Act and identified as
+one-time funding in section 2 of this Act, including $400,000 for a rare earth elements study,
+$150,000 for a paleontology excavation project, and $3,000,000 for oil and gas litigation.
+
+Section 35:
+SECTION 15. OTHER FUNDS - ABANDONED OIL AND GAS WELL PLUGGING AND SITE
+RECLAMATION FUND - ADMINISTRATIVE EXPENSES. The other funds line item in subdivision 4 of
+
+Section 36:
+section 1 of this Act includes the sum of $799,926 from the abandoned oil and gas well plugging and
+site reclamation fund for administrative expenses, including funding for reclamation specialist positions
+and related operating expenses.
+
+Section 37:
+SECTION 16. OTHER FUNDS - HOUSING INCENTIVE FUND - ADMINISTRATIVE EXPENSES.
+The other funds line item in subdivision 3 of section 1 of this Act includes the sum of $213,880,
+transferred from the housing incentive fund to the agency's operating fund for administrative expenses,
+including funding for a homelessness program position and related operating expenses.
+
+Section 38:
+SECTION 17. AMENDMENT. Subsection 7 of section 6-08.1-02 of the North Dakota Century Code
+is amended and reenacted as follows:
+
+Section 39:
+7. The release by the industrial commission, in its capacity as the managing body of the Bank of
+North Dakota, of the following:
+a. The name of any person who has obtained approval for direct or indirect financing or
+security, including a loan guarantee or a letter of credit, through the Bank of North Dakota
+primarily for purposes other than personal, family, or household purposes.
+b. The amount of any financing or security referenced in subdivision a.
+c. The amount of any net writeoff or loan forgiveness associated with the financing or
+security referenced in subdivision a whichthat the industrial commission determines is
+uncollectible.
+d. The program under which any financing or security referenced in subdivision a was
+made.
+
+Section 40:
+SECTION 18. AMENDMENT. Section 6-09-35 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-09-35. Confidentiality of Bank records - Exempt records.
+
+Section 41:
+1. The following records of the Bank of North Dakota are confidential:
+
+Section 42:
+1. a. Commercial or financial information of a customer, whether obtained directly or indirectly,
+except for routine credit inquiries or unless required by due legal process. As used in this
+subsection, "customer" means any person who has transacted or is transacting business
+with, or has used or is using the services of, the Bank of North Dakota, or for whom the
+Bank of North Dakota has acted as a fiduciary with respect to trust property.
+S. B. NO. 2014 - PAGE 7
+
+Section 43:
+2. b. Internal or interagency memorandums or letters which would not be available by law to a
+party other than in litigation with the Bank.
+
+Section 44:
+3. c. Information contained in or related to examination, operating, or condition reports
+prepared by, on behalf of, or for the use of a state or federal agency responsible for the
+regulation or supervision of any Bank activity.
+
+Section 45:
+4. d. Information obtained from the state department of financial institutions which would not
+be available from that agency under section 6-01-07.1.
+
+Section 46:
+5. e. The report by a Bank officer or member of the Bank's advisory board of directors
+concerning personal financial statements.
+
+Section 47:
+2. The following records of the Bank of North Dakota are exempt:
+a. Bond insurance coverage, including excess bond insurance coverage.
+b. Cyber liability coverage, including excess cyber liability coverage.
+
+Section 48:
+SECTION 19. AMENDMENT. Section 6-09-46.2 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-09-46.2. Rebuilders loan program - Rebuilders permanent loan fund - Continuing
+appropriation.
+
+Section 49:
+1. The Bank of North Dakota shall develop a rebuilders loan program to make or participate in
+loans to North Dakota residents affected by extraordinary losses as a result of a:
+a. A presidentially declared disaster orin the state;
+b. A governor-declared disaster orin the state;
+c. An emergency in the state;
+d. A weather-related incident in the state as determined by the governor; or
+e. An economic hardship as determined by the governor.
+
+Section 50:
+2. Under the rebuilders loan program, the Bank shall develop and implement specific loan
+programs to respond to the specific needs resulting from a disaster or, emergency, incident, or
+hardship. The Bank may fund the loan from any available funding in the rebuilders permanent
+loan fund and may accept private sector donations and funds from the federal government.
+
+Section 51:
+2.3. Upon request of the Bank of North Dakota, the governor shall furnish the Bank with
+information relating to the nature and amount of state and local resources that have been or
+will be committed to alleviating the results of the disaster or emergency, an estimate of the
+amount and severity of the damage and the impact on the private and public sectors, and an
+estimate of the type and amount of assistance needed.
+
+Section 52:
+3.4. To apply for a loan under the program, a person shall apply to the originating financial
+institution. Upon Bank of North Dakota approval of an application, the Bank shall make a loan
+in accordance with the loan program established under this section. The Bank shall establish
+a loan application period, which may not exceed a period of eighteen months from the date of
+the declaration of the disaster or emergency.
+
+Section 53:
+4.5. Excluding the rebuilders and rebuilders home loans transferred to the fund, the Bank of North
+Dakota shall deposit in the fund all principal and interest paid on the loans made from the
+fund. The Bank may deduct from interest payments received on a loan under the program a
+service fee for administering the fund for the Bank and the originating financial institution. The
+S. B. NO. 2014 - PAGE 8
+fund must be audited annually pursuant to section 6-09-29, and the cost of the audit and any
+other actual costs incurred by the Bank on behalf of the fund, must be paid by the fund.
+
+Section 54:
+5.6. There is created in the state treasury the rebuilders permanent loan fund administered by the
+Bank of North Dakota. The fund consists of all moneys transferred to the fund by the
+legislative assembly, interest on moneys in the fund, and payments to the fund of principal and
+interest on loans made from the fund. All moneys in the fund are appropriated to the Bank on
+a continuing basis for the rebuilders loan program.
+
+Section 55:
+6.7. If approved by the industrial commission, the fund may borrow from the Bank of North Dakota
+to provide funding for loans under this section. A loan made to the fund by the Bank must be
+repaid with principal and interest payment received by the rebuilders permanent loan fund or
+with moneys appropriated by the legislative assembly.
+
+Section 56:
+7.8. The Bank of North Dakota shall adopt policies to implement this section.
+
+Section 57:
+SECTION 20. A new section to chapter 6-09 of the North Dakota Century Code is created and
+enacted as follows:
+Rail revolving loan fund - Continuing appropriation.
+
+Section 58:
+1. The rail revolving loan fund is a special fund in the state treasury from which the Bank of North
+Dakota shall provide loans to counties, cities, railroads, and other freight railroad users to
+construct or upgrade rail infrastructure to improve rail service.
+
+Section 59:
+2. The Bank shall administer the fund in accordance with the provisions of this section and may
+adopt policies and establish guidelines for the loans, including policies for eligibility and
+allowing participation by local financial institutions. Class I railroads are not eligible.
+
+Section 60:
+3. The Bank shall consider the applicant's ability to repay the loan when processing the
+application and shall issue loans only to applicants that provide reasonable assurance of
+sufficient future income to repay the loan.
+
+Section 61:
+4. The department of transportation shall review and approve the project before the Bank may
+issue a loan based on policies developed by the department.
+
+Section 62:
+5. The Bank shall deposit in the fund all payments of principal and interest paid on loans made
+from the fund. The Bank may use a portion of the interest paid on the outstanding loans as a
+servicing fee to pay administrative costs which may not exceed one - half of one percent of the
+amount of the outstanding loans.
+
+Section 63:
+6. All moneys transferred to the fund, interest upon moneys in the fund, and payments to the
+fund of principal and interest are appropriated to the Bank on a continuing basis for
+administrative costs and for loan disbursements according to this section.
+
+Section 64:
+7. The fund must be audited annually pursuant to section 6 - 09 - 29, and the cost of the audit mus t
+be paid from the fund.
+
+Section 65:
+SECTION 21. AMENDMENT. Section 6-09.7-05 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-09.7-05. Establishment and maintenance of adequate guarantee funds - Use of strategic
+investment and improvements fund. (Effective through June 30, 2025)
+The Bank of North Dakota shall establish and at all times maintain an adequate guarantee reserve
+fund in a special account in the Bank. The Bank may request the director of the office of management
+and budget to transfer funds from the strategic investment and improvements fund created by section
+15-08.1-08 to maintain one hundred percent of the guarantee reserve fund balance. Transfers from the
+strategic investment and improvements fund may not exceed a total of eighty million dollars. Moneys in
+S. B. NO. 2014 - PAGE 9
+the guarantee reserve fund are available to reimburse lenders for guaranteed loans in default. The
+securities in which the moneys in the reserve fund may be invested must meet the same requirements
+as those authorized for investment under the state investment board. The income from such
+investments must be made available for the costs of administering the state guarantee loan program
+and income in excess of that required to pay the cost of administering the program must be deposited
+in the reserve fund. The amount of reserves for all guaranteed loans must be determined by a formula
+that will assure, as determined by the Bank, an adequate amount of reserve.
+Establishment and maintenance of adequate guarantee funds - Use of strategic investment
+and improvements fund. (Effective after June 30, 2025) The Bank of North Dakota shall establish
+and at all times maintain an adequate guarantee reserve fund in a special account in the Bank. The
+Bank may request the director of the office of management and budget to transfer funds from the
+strategic investment and improvements fund created by section 15-08.1-08 to maintain one hundred
+percent of the guarantee reserve fund balance. Transfers from the strategic investment and
+improvements fund may not exceed a total of one hundred forty millionone hundred sixty million dollars.
+Moneys in the guarantee reserve fund are available to reimburse lenders, including the Bank, for
+guaranteed loans in default. The securities in which the moneys in the reserve fund may be invested
+must meet the same requirements as those authorized for investment under the state investment
+board. The income from such investments must be made available for the costs of administering the
+state guarantee loan program and income in excess of that required to pay the cost of administering the
+program must be deposited in the reserve fund. The amount of reserves for all guaranteed loans must
+be determined by a formula that will assure, as determined by the Bank, an adequate amount of
+reserve.
+
+Section 66:
+SECTION 22. AMENDMENT. Section 6-09.14-04 of the North Dakota Century Code is amended
+and reenacted as follows:
+6-09.14-04. Fund moneys - Eligible uses.
+
+Section 67:
+1. The fund moneys may be used to participate in an interest rate buydown on a loan to a new or
+expanding business for the following eligible uses:
+a. Purchase of real property and equipment.
+b. Expansion of facilities.
+c. Working capital.
+d. Inventory.
+
+Section 68:
+2. The loan funds cannot be used to refinance any existing debt or for the relocation of the
+business within North Dakota.
+
+Section 69:
+2.3. The community shall determine the amount of the interest rate buydown and apply to the Bank
+of North Dakota for participation from the partnership in assisting community expansion fund.
+The funds for the community's portion of the buydown may come from a local development
+corporation, contributions, community funds, future dedicated tax programs, or any other
+community source.
+
+Section 70:
+3.4. The fund participation portion in the buydown must be determined by the Bank of North
+Dakota based on economic conditions in the city or county in which the business is located.
+
+Section 71:
+4.5. a. The maximum amount from the fund in the interest rate buydown may not exceed five
+hundred thousand dollars per loan.
+b. If the Bank determines the project has a substantial economic impact and qualifies as a
+primary sector business, the maximum amount from the fund in the interest rate buydown
+S. B. NO. 2014 - PAGE 10
+may be increased by up to one million dollars, in addition to the amount under
+subdivision a, without a required community match .
+
+Section 72:
+6. The fund participation must be limited to the amount required to buy down the interest to five
+hundred basis points below the national prime interest rate.
+
+Section 73:
+5.7. The Bank of North Dakota shall adopt rules to implement this chapter.
+
+Section 74:
+SECTION 23. A new subdivision to subsection 2 of section 38-08-04.5 of the North Dakota Century
+Code is created and enacted as follows:
+Administrative expenses, including salaries and wages and operating expenses, subject
+to legislative appropriation.
+
+Section 75:
+SECTION 24. AMENDMENT. Section 49-17.1-02.1 of the North Dakota Century Code is amended
+and reenacted as follows:
+49-17.1-02.1. Department may authorize localReview and approval of rail projects.
+For the purpose of promoting the public interest and local economic development, the department
+may utilize revenue generated under this chapter for the construction or improvement of railway freight
+transportation projects not otherwise eligible for assistance under the Railroad Revitalization and
+Regulatory Reform Act of 1976 [Pub. L. 94-210; 90 Stat. 149; 49 U.S.C. 1651 et seq.] and which meet
+standards and specifications developed by the departmentThe department shall coordinate with the
+Bank of North Dakota to approve and review rail projects financed under the rail revolving loan fund
+under section 19 of this Ac t.
+
+Section 76:
+SECTION 25. AMENDMENT. Subsection 1 of section 54-17-40 of the North Dakota Century Code
+is amended and reenacted as follows:
+
+Section 77:
+1. The housing incentive fund is created as a special revolving fund at the Bank of North Dakota.
+The housing finance agency may direct disbursements from the fund and a continuing
+appropriation from the fund is provided for that purposea special fund in the state treasury
+administered by the housing finance agency. Moneys in the fund are appropriated to the
+housing finance agency on a continuing basis for assistance under subsection 3. Moneys in
+the fund may be transferred to the housing finance agency's operating fund for administrative
+expenses, which are subject to legislative appropriation.
+
+Section 78:
+SECTION 26. AMENDMENT. Subdivision a of subsection 4 of section 54-17.7-04 of the North
+Dakota Century Code is amended and reenacted as follows:
+a. (1) The authority may borrow up to sixty million dollars through a line of credit from the
+Bank.
+(2) In addition to the borrowing under paragraph 1, the authority may borrow up to forty
+million dollars through a line of credit from the Bank to provide total borrowing of up
+to one hundred million dollars under this subdivision. The borrowing under this
+paragraph is available only if the authority enters a capacity purchase agreement by
+December 31, 2026, related to a pipeline project to transport natural gas from the
+western area of the state to the eastern area of the state.
+(3) The interest rate on the line of credit must be the prevailing interest rate charged to
+North Dakota governmental entities.
+
+Section 79:
+SECTION 27. AMENDMENT. Section 15 of chapter 14 of the 2023 Session Laws is amended and
+reenacted as follows:
+
+Section 80:
+SECTION 15. TRANSFER - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND TO
+STATE ENERGY RESEARCH CENTER FUND - FEDERAL STATE FISCAL RECOVERY FUND -
+S. B. NO. 2014 - PAGE 11
+UNDERGROUND ENERGY STORAGE RESEARCH PROJECT - REPORT TO LEGISLATIVE
+MANAGEMENT.
+
+Section 81:
+1. The office of management and budget shall transfer the sum of $6,000,000 from the
+strategic investment and improvements fund to the state energy research center fund.
+
+Section 82:
+2. Pursuant to the continuing appropriation authority under section 57-51.1-07.9 and
+pursuant to subsection 36 of section 1 of chapter 550 of the 2021 Special Session
+Session Laws, as amended in section 24 of this Act and exempted in section 26 of this
+Act, the industrial commission shall distribute up to $6,000,000$2,000,000 from the state
+energy research center fund and up to $5,300,000 of federal funds from the state fiscal
+recovery fund to the state energy research center for a salt cavern underground energy
+storage research project.
+
+Section 83:
+3. The research project must include a business case analysis for the construction of up to
+two salt caverns in geological formations in North Dakota for the development of
+underground storage of energy resources, including natural gas, liquified natural gas,
+natural gas liquids, and hydrogen. The state energy research center may collaborate with
+other entities as needed on the research project. Prior to distributing the funding, the
+industrial commission must receive, from at least one nonstate entity, assurance of
+financial or other types of support that demonstrate a commitment to the research
+project.
+
+Section 84:
+4. During the 2023-24 interim and 2025 - 26 interims , the state energy research center shall
+provide quarterly reports to the industrial commission and at least one report each interim
+to the legislative management regarding the status and results of the research project.
+
+Section 85:
+SECTION 28. REPEAL. Section 3 of Senate Bill No. 2188, as approved by the sixty-ninth
+legislative assembly, is repealed.
+
+Section 86:
+SECTION 29. EXEMPTION - UNEXPENDED APPROPRIATIONS. The following appropriations are
+not subject to the provisions of section 54-44.1-11 and may be continued into the biennium beginning
+July 1, 2025, and ending June 30, 2027:
+
+Section 87:
+1. The sum of $1,250,000 appropriated from special funds for grant management software in
+subdivision 1 of section 1 of chapter 14 of the 2023 Session Laws, identified as one-time
+funding in section 2 of chapter 14 of the 2023 Session Laws, and transferred in section 9 of
+chapter 14 of the 2023 Session Laws.
+
+Section 88:
+2. The sum of $75,000 appropriated from special funds for a records digitization project in
+subdivision 1 of section 1 of chapter 14 of the 2023 Session Laws and identified as one-time
+funding in section 2 of chapter 14 of the 2023 Session Laws.
+
+Section 89:
+3. The sum of $1,124,856 appropriated from the general fund and $7,499,037 appropriated from
+federal funds for an electricity grid resilience federal grant in subdivision 1 of section 1 of
+chapter 14 of the 2023 Session Laws and identified as one-time funding in section 2 of
+chapter 14 of the 2023 Session Laws.
+
+Section 90:
+4. The sum of $3,200,000 appropriated from the federal state fiscal recovery fund for an
+abandoned oil well conversion to water supply grant program in subdivision 2 of section 1 of
+chapter 550 of the 2021 Special Session Session Laws and continued into the 2023-25
+biennium in subsection 1 of section 27 of chapter 14 of the 2023 Session Laws.
+
+Section 91:
+5. The sum of $800,000 appropriated from the strategic investment and improvements fund to
+the department of mineral resources for a survey review in section 2 of chapter 426 of the
+2017 Session Laws and continued into the 2019-21 biennium pursuant to section 27 of
+chapter 14 of the 2019 Session Laws, into the 2021-23 biennium pursuant to section 33 of
+S. B. NO. 2014 - PAGE 12
+chapter 42 of the 2021 Session Laws, and into the 2023-25 biennium pursuant to section 27 of
+chapter 14 of the 2023 Session Laws.
+
+Section 92:
+6. Up to $225,500 of the $2,300,000 appropriated from federal funds to the department of
+mineral resources for administrative expenses related to an abandoned well reclamation
+program in subdivision 2 of section 1 of chapter 14 of the 2023 Session Laws and identified as
+one-time funding in section 2 of chapter 14 of the 2023 Session Laws.
+
+Section 93:
+SECTION 30. LEGISLATIVE MANAGEMENT STUDY - HOMELESSNESS. During the 2025-26
+interim, the legislative management shall consider studying homelessness in the state. The study must
+include a review of data and funding available to address homelessness, an analysis of the use of
+available funds to identify gaps and potential solutions, and input from homeless program service
+providers. The legislative management shall report its findings and recommendations, together with any
+legislation required to implement the recommendations, to the seventieth legislative assembly.
+
+Section 94:
+SECTION 31. ECONOMIC DEVELOPMENT STUDY - BANK OF NORTH DAKOTA - REPORT.
+During the 2025-27 biennium, the Bank of North Dakota shall use up to $250,000 included in the Bank's
+appropriation in section 1 of this Act and identified as one-time funding in section 2 of this Act to
+conduct a study of economic development opportunities to sustain the economies of communities in
+western North Dakota as oil and gas development activities decrease. The Bank shall coordinate with
+the department of commerce and representatives from oil-producing counties to develop a long-term
+strategic plan for economic development opportunities in western North Dakota. The Bank shall provide
+at least one report to the legislative management during the 2025-26 interim and shall provide a report
+to the appropriations committees of the seventieth legislative assembly regarding the results of the
+study.
+
+Section 95:
+SECTION 32. REPORT TO BUDGET SECTION - NORTH DAKOTA PIPELINE AUTHORITY -
+PIPELINE CAPACITY AGREEMENT. By December 31, 2026, the North Dakota pipeline authority shall
+provide at least one report to the budget section regarding the status of any pipeline capacity
+agreements, including commitments from other private sector entities, the commitment by the authority,
+anticipated borrowing by the authority under subsection 4 of section 54-17.7-04, and other information
+requested by the budget section.
+
+Section 96:
+SECTION 33. EFFECTIVE DATE. Section 21 of this Act becomes effective July 1, 2027.
+
+Section 97:
+SECTION 34. EMERGENCY. Section 5 of this Act is declared to be an emergency measure.
+S. B. NO. 2014 - PAGE 13
+____________________________ ____________________________
+President of the Senate Speaker of the House
+____________________________ ____________________________
+Secretary of the Senate Chief Clerk of the House
+This certifies that the within bill originated in the Senate of the Sixty-ninth Legislative Assembly of North
+Dakota and is known on the records of that body as Senate Bill No. 2014 and that two-thirds of the
+members-elect of the Senate voted in favor of said law.
+Vote: Yeas 42 Nays 3 Absent 2
+____________________________ ____________________________
+President of the Senate Secretary of the Senate
+This certifies that two-thirds of the members-elect of the House of Representatives voted in favor of
+said law.
+Vote: Yeas 74 Nays 15 Absent 5
+____________________________ ____________________________
+Speaker of the House Chief Clerk of the House
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+____________________________
+Governor
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+____________________________
+Secretary of State
+[DELETED: lEsAs$8$3$l0262s41314s0191s13()1s$2$6$s12161d$0$0$s95009lEsA]
+[DELETED: s$1$3$l0242s72374s$3$4$s10001lEsAs$4$3$l0101s13()9s2002s40()4s1001s$7()$s67167d$0()$s50505lEsAs$2$2$l0282s53681s0404s$5$8$s20576d$5$1$s10501lEsAs$7$1$l0101s43244s5005n5005s$0$5$s10201lEsA]
+[DELETED: s$7$9$s32484d$5$1$nGdOsTt$0$9$n0303n$0$9$s$0$9$y0202a$0$9$m$0$7$s25557s1001y0404t0101n0303t4004s$5$2$l$5$0$ N TN 4 BD P Te at of $0 id in s1 od$m1e4l$N 5 AN - 25 BM - IL CN - A I]
+[DELETED: N 7 AN - T G F TO HG I- TR SC IT AD IS FD TO H.T.TN 8 TR - ES AD FS UR TE CL OF TL CN TO IL CN FD - AN -.T.T TN 1 TR - BK OF NH DA PS TO E]
+[DELETED: .$.$.U T.F.T.P.Pe iy it ad he te mt pl of pg eg ls ad as in ey p; or or m, e, o]
+[DELETED: .T 1 O.$.$ O.T.T.T.T a.T.T.a.C]
+[DELETED: .b.I.c.In cd i or rd t e, o, or cn r.d.I.e.T.T.B.C. Rs ln pm  Rs pt ln fd  C.T.A.A.A.A.A.U t.U r o t Bk f , r s fk w.T.E]
+[DELETED: .T.I.T.T.T.T.T.T.Af p a it  ad  t Bk n  c bs . ]
+[DELETED: s te ad fr it ur te se it b. Te ie fm s ft of te ge re fd b. Ts fm te sc it a g fa  w.T.P.E.W.I.T.T.T.a.T.I]
+[DELETED:  be id b u t oe m d, in a t t at u.T.T.T. .()T) )T]
+[DELETED: .T.Pt to te cg an ay ur sn 59 a.T.D R S.T.T.T.T.T]
+[DELETED: .U D R]
+[DELETED: __eS__eC:Y2N3A__eS:Y4N5A__e ]
+
+
+================================================================================
+
+Raw Text:
+Sixty-ninth Legislative Assembly of North Dakota
+In Regular Session Commencing Tuesday, January 7, 2025
+SENATE BILL NO. 2014
+(Appropriations Committee)
+AN ACT to provide an appropriation for defraying the expenses of the industrial commission and the
+agencies under its control; to create and enact a new section to chapter 6-09 and a new
+subdivision to subsection 2 of section 38-08-04.5 of the North Dakota Century Code, relating to
+a rail revolving loan fund and uses of the abandoned oil and gas well plugging and site
+reclamation fund; to amend and reenact subsection 7 of section 6-08.1-02 and sections 6-09-35,
+6-09-46.2, 6-09.7-05, 6-09.14-04, and 49-17.1-02.1, subsection 1 of section 54-17-40, and
+subdivision a of subsection 4 of section 54-17.7-04 of the North Dakota Century Code, and
+section 15 of chapter 14 of the 2023 Session Laws, relating to confidential and exempt records
+of the Bank of North Dakota, the rebuilders loan program, loan guarantees through the strategic
+investment and improvements fund, interest rate buydown limits for the partnership in assisting
+community expansion fund, department of transportation review and approval of rail projects,
+uses of the housing incentive fund, North Dakota pipeline borrowing authority, and a salt cavern
+underground energy storage research project; to repeal section 3 of Senate Bill No. 2188, as
+approved by the sixty-ninth legislative assembly, relating to a transfer from the strategic
+investment and improvements fund to the clean sustainable energy fund; to provide a deficiency
+appropriation; to provide for a transfer; to provide an exemption; to provide for a legislative
+management study; to provide for a legislative management report; to provide for a report; to
+provide an effective date; and to declare an emergency.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds as may
+be necessary, are appropriated out of any moneys in the general fund in the state treasury, not
+otherwise appropriated, and from other funds derived from special funds and federal funds, to the
+industrial commission and agencies under its control for the purpose of defraying the expenses of the
+industrial commission and the agencies under its control, for the biennium beginning July 1, 2025, and
+ending June 30, 2027, as follows:
+Subdivision 1.
+INDUSTRIAL COMMISSION
+Adjustments or
+Base Level Enhancements Appropriation
+Salaries and wages $1,884,918 $701,583 $2,586,501
+New and vacant FTE pool 0 20,376 20,376
+Operating expenses 472,271 3,821,991 4,294,262
+Grants 0 13,668,089 13,668,089
+Grants - bond payments 119,879,913 (2,761,713) 117,118,200
+Total all funds $122,237,102 $15,450,326 $137,687,428
+Less other funds 122,237,102 15,050,326 137,287,428
+Total general fund $0 $400,000 $400,000
+Full-time equivalent positions 9.75 0.00 9.75
+Subdivision 2.
+BANK OF NORTH DAKOTA
+Adjustments or
+Base Level Enhancements Appropriation
+
+S. B. NO. 2014 - PAGE 2
+Bank of North Dakota operations $70,899,761 $5,461,643 $76,361,404
+New and vacant FTE pool 0 2,122,074 2,122,074
+Capital assets 705,722 3,437,577 4,143,299
+Total other funds $71,605,483 $11,021,294 $82,626,777
+Full-time equivalent positions 187.00 0.00 187.00
+Subdivision 3.
+HOUSING FINANCE AGENCY
+Adjustments or
+Base Level Enhancements Appropriation
+Salaries and wages $11,413,354 $1,655,543 $13,068,897
+New and vacant FTE pool 0 1,422,760 1,422,760
+Operating expenses 10,903,883 (1,433,707) 9,470,176
+Capital assets 20,000 0 20,000
+Grants 48,805,110 (2,700,000) 46,105,110
+Housing finance agency contingencies 100,000 0 100,000
+Total all funds $71,242,347 ($1,055,404) $70,186,943
+Less other funds 68,742,347 1,444,596 70,186,943
+Total general fund $2,500,000 ($2,500,000) $0
+Full-time equivalent positions 54.00 5.00 59.00
+Subdivision 4.
+DEPARTMENT OF MINERAL RESOURCES
+Adjustments or
+Base Level Enhancements Appropriation
+Salaries and wages $23,261,532 $3,026,192 $26,287,724
+New and vacant FTE pool 0 2,121,618 2,121,618
+Operating expenses 5,120,253 6,778,008 11,898,261
+Capital assets 0 45,000 45,000
+Total all funds $28,381,785 $11,970,818 $40,352,603
+Less other funds 268,000 5,754,837 6,022,837
+Total general fund $28,113,785 $6,215,981 $34,329,766
+Full-time equivalent positions 108.00 5.00 113.00
+Subdivision 5.
+MILL AND ELEVATOR ASSOCIATION
+Adjustments or
+Base Level Enhancements Appropriation
+Salaries and wages $54,019,267 $6,345,741 $60,365,008
+New and vacant FTE pool 0 1,973,530 1,973,530
+Operating expenses 42,391,653 2,710,224 45,101,877
+Contingencies 500,000 0 500,000
+Agriculture promotion 500,000 0 500,000
+Total special funds $97,410,920 $11,029,495 $108,440,415
+Full-time equivalent positions 170.00 2.00 172.00
+Subdivision 6.
+TOTAL SECTION 1
+Adjustments or
+Base Level Enhancements Appropriation
+
+S. B. NO. 2014 - PAGE 3
+Grand total all funds $390,877,637 $48,416,529 $439,294,166
+Less grand total other funds 360,263,852 44,300,548 404,564,400
+Grand total general fund $30,613,785 $4,115,981 $34,729,766
+SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO SEVENTIETH
+LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding items included in the
+appropriation in section 1 of this Act which are not included in the entity's base budget for the 2027-29
+biennium and which the entity shall report to the appropriations committees of the seventieth legislative
+assembly regarding the use of this funding:
+One-Time Funding Description General Fund Other Funds Total
+Industrial commission
+Electricity grid resiliency federal grant $0 $13,668,089 $13,668,089
+Lignite litigation 0 3,000,000 3,000,000
+Subtotal industrial commission $0 $16,668,089 $16,668,089
+Bank of North Dakota
+Capital improvement projects $0 $2,633,299 $2,633,299
+Economic development study 0 250,000 250,000
+Subtotal Bank of North Dakota $0 $2,883,299 $2,883,299
+Department of mineral resources
+Federal abandoned well program $0 $1,444,377 $1,444,377
+FTE position operating expenses 24,435 51,495 75,930
+Mineral analyses 100,000 0 100,000
+Rare earth elements study 0 400,000 400,000
+Paleontology excavation project 0 150,000 150,000
+Oil and gas litigation 0 3,000,000 3,000,000
+Portable mineral detection equipment 45,000 0 45,000
+Subtotal department of mineral resources $169,435 $5,045,872 $5,215,307
+Grand total $169,435 $24,597,260 $24,766,695
+SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+industrial commission and agencies under its control may not spend funds appropriated in the new and
+vacant FTE pool line items in section 1 of this Act, but may request the office of management and
+budget to transfer funds, within each respective subdivision, from the new and vacant FTE pool line
+item to the salaries and wages line items or Bank of North Dakota operations line item in accordance
+with the guidelines and reporting provisions included in House Bill No. 1015, as approved by the sixty-
+ninth legislative assembly.
+SECTION 4. BOND PAYMENTS. The amount of $117,118,200 included in subdivision 1 of
+section 1 of this Act in the grants - bond payments line item must be paid from the following funding
+sources, during the biennium beginning July 1, 2025, and ending June 30, 2027:
+Infrastructure project and program bonds - legacy sinking and interest fund $102,622,743
+North Dakota university system 14,083,250
+Veterans' home 412,207
+Total $117,118,200
+SECTION 5. APPROPRIATION - 2023-25 BIENNIUM - INDUSTRIAL COMMISSION -
+HYDROGEN ENERGY RESEARCH PROJECT. There is appropriated out of any moneys in the general
+fund in the state treasury, not otherwise appropriated, the sum of $627,587, or so much of the sum as
+may be necessary, to the industrial commission for the purpose of paying an outstanding invoice related
+to a hydrogen energy research project, for the period beginning with the effective date of this section
+and ending June 30, 2025.
+SECTION 6. APPROPRIATION - HOUSING FINANCE AGENCY - ADDITIONAL INCOME. In
+addition to the amount appropriated to the housing finance agency in subdivision 3 of section 1 of this
+Act, there is appropriated any additional income or unanticipated income from federal or special funds
+
+S. B. NO. 2014 - PAGE 4
+which may become available to the agency, for the biennium beginning July 1, 2025, and ending
+June 30, 2027. The housing finance agency shall notify the office of management and budget and the
+legislative council of any additional income or unanticipated income that becomes available to the
+agency resulting in an increase in appropriation authority.
+SECTION 7. APPROPRIATION - TRANSFER GENERAL FUND TO HOUSING INCENTIVE
+FUND - TRANSFER STRATEGIC INVESTMENT AND IMPROVEMENTS FUND TO HOUSING
+INCENTIVE FUND - HOMELESS PROGRAMS - HOUSING PROGRAMS - EXEMPTION - ONE-TIME
+FUNDING.
+1. There is appropriated out of any moneys in the general fund in the state treasury, not
+otherwise appropriated, the sum of $10,000,000, which the office of management and budget
+shall transfer to the housing incentive fund for homeless programs, during the biennium
+beginning July 1, 2025, and ending June 30, 2027. The appropriation under this subsection is
+considered a one-time funding item. Notwithstanding any other requirements under section
+54-17-40 and pursuant to the continuing appropriation under section 54-17-40, the housing
+finance agency shall distribute a passthrough grant of $150,000 from the housing incentive
+fund to a Native American-focused organization with a presence in multiple communities for a
+Native American homelessness liaison, from the $10,000,000 transferred to the housing
+incentive fund under this subsection.
+2. The office of management and budget shall transfer the sum of $25,000,000 from the strategic
+investment and improvements fund to the housing incentive fund for housing projects and
+programs during the biennium beginning July 1, 2025, and ending June 30, 2027.
+SECTION 8. TRANSFER - ENTITIES AND FUNDS UNDER THE CONTROL OF THE
+INDUSTRIAL COMMISSION TO INDUSTRIAL COMMISSION FUND - ADMINISTRATION -
+EXEMPTION.
+1. The sum of $2,260,660, or so much of the sum as may be necessary, included in the
+appropriation in subdivision 1 of section 1 of this Act, may be transferred from the entities and
+funds within the control of the industrial commission or entities directed to make payments to
+the industrial commission fund for administrative services rendered by the commission.
+Transfers must be made during the biennium beginning July 1, 2025, and ending June 30,
+2027, upon order of the commission. Transfers from the student loan trust fund must be made
+to the extent permitted by sections 54-17-24 and 54-17-25.
+2. The amount of $1,818,114 appropriated to the industrial commission in subdivision 1 of
+section 1 of chapter 14 of the 2023 Session Laws and transferred pursuant to section 8 of
+chapter 14 of the 2023 Session Laws is not subject to the provisions of section 54-44.1-11.
+Any unexpended funds from this appropriation are available to the industrial commission for
+administrative services rendered by the commission during the biennium beginning July 1,
+2025, and ending June 30, 2027.
+SECTION 9. TRANSFER - BANK OF NORTH DAKOTA PROFITS TO GENERAL FUND. The
+Bank of North Dakota shall transfer $140,000,000 from the Bank's current earnings and undivided
+profits to the general fund during the biennium beginning July 1, 2025, and ending June 30, 2027. The
+moneys must be transferred in the amount and at the times requested by the director of the office of
+management and budget after consultation with the Bank president. For legislative council budget
+status reporting purposes, the transfer under this section is considered an ongoing revenue source.
+SECTION 10. TRANSFER - BANK OF NORTH DAKOTA PROFITS TO ECONOMIC
+DEVELOPMENT PROGRAMS - SMALL BUSINESS DEVELOPMENT CENTER - LINE OF CREDIT
+INTEREST RATE BUYDOWN. During the biennium beginning July 1, 2025, and ending June 30, 2027,
+the Bank of North Dakota shall transfer the following amounts from the Bank's current earnings and
+undivided profits:
+
+S. B. NO. 2014 - PAGE 5
+1. $60,000,000 to economic development programs administered by the Bank, including the
+partnership in assisting community expansion fund, the agriculture partnership in assisting
+community expansion fund, the biofuels partnership in assisting community expansion fund,
+and the beginning farmer revolving loan fund;
+2. $1,900,000 to the university of North Dakota for the North Dakota small business development
+center for the purpose of matching federal grants; and
+3. Up to $5,000,000 to the parks and recreation department for an interest rate buydown on the
+line of credit for the Theodore Roosevelt presidential library project. The interest rate buydown
+may not exceed the amount needed to buydown the interest rate on the outstanding balance
+of the line of credit from the prevailing interest rate charged to North Dakota governmental
+entities to two percent.
+SECTION 11. TRANSFER - RAIL FUND TO RAIL REVOLVING LOAN FUND. The department of
+transportation shall transfer any outstanding loans and remaining balance from the rail fund to the rail
+revolving loan fund on July 1, 2025.
+SECTION 12. TRANSFER STATE ENERGY RESEARCH CENTER FUND TO OIL AND GAS
+RESEARCH FUND - TRANSFER STRATEGIC INVESTMENT AND IMPROVEMENTS FUND TO OIL
+AND GAS RESEARCH FUND - ENHANCED OIL RECOVERY GRANT PROGRAM.
+1. From the $6,000,000 transferred to the state energy research center fund pursuant to
+section 15 of chapter 14 of the 2023 Session Laws, the office of management and budget
+shall transfer the sum of $4,000,000 to the oil and gas research fund during the biennium
+beginning July 1, 2025, and ending June 30, 2027.
+2. The office of management and budget shall transfer the sum of $21,000,000 from the strategic
+investment and improvements fund to the oil and gas research fund during the biennium
+beginning July 1, 2025, and ending June 30, 2027.
+3. Pursuant to the continuing appropriation under section 57-51.1-07.3 and the powers of the
+industrial commission under chapter 54-17.6, the commission shall use $25,000,000 from the
+oil and gas research fund, transferred under this section, for an enhanced oil recovery grant
+program. The commission shall develop guidelines for the grant program, including eligibility
+criteria, requirements for matching funds, and reporting requirements.
+SECTION 13. LIGNITE RESEARCH, DEVELOPMENT, AND MARKETING PROGRAM - LIGNITE
+MARKETING FEASIBILITY STUDY - REPORT TO THE SEVENTIETH LEGISLATIVE ASSEMBLY.
+1. Pursuant to the continuing appropriation under section 57-61-01.6, up to $4,500,000 from the
+lignite research fund may be used for the purpose of contracting for an independent,
+nonmatching lignite marketing feasibility study or studies that determine those focused priority
+areas where near-term, market-driven projects, activities, or processes will generate matching
+private industry investment and have the most potential of preserving existing lignite
+production and industry jobs or that will lead to increased development of lignite and its
+products and create new lignite industry jobs and economic growth for the general welfare of
+this state. Moneys designated under this section also may be used for the purpose of
+contracting for nonmatching studies and activities in support of advanced energy technology
+and other technology development programs; for litigation that may be necessary to protect
+and promote the continued development of lignite resources; for nonmatching externality
+studies and activities in externality proceedings; or other marketing, environmental, or
+transmission activities that assist with marketing of lignite-based electricity and lignite-based
+byproducts. Moneys needed for the purposes stated in this section are available to the
+industrial commission for funding projects, processes, or activities under the lignite research,
+development, and marketing program.
+
+S. B. NO. 2014 - PAGE 6
+2. The industrial commission shall report to the appropriations committees of the seventieth
+legislative assembly on the amounts spent pursuant to this section.
+SECTION 14. OTHER FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND -
+GRANT, LITIGATION, STUDY, AND PROJECT FUNDING. The grand total other funds line item in
+section 1 of this Act includes the sum of $8,332,794 from the strategic investment and improvements
+fund as follows:
+1. $4,782,794 in the other funds line item in subdivision 1 of section 1 of this Act and identified as
+one-time funding in section 2 of this Act, including $1,782,794 for matching federal funds for
+an electricity grid resiliency grant and $3,000,000 for lignite litigation.
+2. $3,550,000 in the other funds line item in subdivision 4 of section 1 of this Act and identified as
+one-time funding in section 2 of this Act, including $400,000 for a rare earth elements study,
+$150,000 for a paleontology excavation project, and $3,000,000 for oil and gas litigation.
+SECTION 15. OTHER FUNDS - ABANDONED OIL AND GAS WELL PLUGGING AND SITE
+RECLAMATION FUND - ADMINISTRATIVE EXPENSES. The other funds line item in subdivision 4 of
+section 1 of this Act includes the sum of $799,926 from the abandoned oil and gas well plugging and
+site reclamation fund for administrative expenses, including funding for reclamation specialist positions
+and related operating expenses.
+SECTION 16. OTHER FUNDS - HOUSING INCENTIVE FUND - ADMINISTRATIVE EXPENSES.
+The other funds line item in subdivision 3 of section 1 of this Act includes the sum of $213,880,
+transferred from the housing incentive fund to the agency's operating fund for administrative expenses,
+including funding for a homelessness program position and related operating expenses.
+SECTION 17. AMENDMENT. Subsection 7 of section 6-08.1-02 of the North Dakota Century Code
+is amended and reenacted as follows:
+7. The release by the industrial commission, in its capacity as the managing body of the Bank of
+North Dakota, of the following:
+a. The name of any person who has obtained approval for direct or indirect financing or
+security, including a loan guarantee or a letter of credit, through the Bank of North Dakota
+primarily for purposes other than personal, family, or household purposes.
+b. The amount of any financing or security referenced in subdivision a.
+c. The amount of any net writeoff or loan forgiveness associated with the financing or
+security referenced in subdivision a whichthat the industrial commission determines is
+uncollectible.
+d. The program under which any financing or security referenced in subdivision a was
+made.
+SECTION 18. AMENDMENT. Section 6-09-35 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-09-35. Confidentiality of Bank records - Exempt records.
+1. The following records of the Bank of North Dakota are confidential:
+1. a. Commercial or financial information of a customer, whether obtained directly or indirectly,
+except for routine credit inquiries or unless required by due legal process. As used in this
+subsection, "customer" means any person who has transacted or is transacting business
+with, or has used or is using the services of, the Bank of North Dakota, or for whom the
+Bank of North Dakota has acted as a fiduciary with respect to trust property.
+
+S. B. NO. 2014 - PAGE 7
+2. b. Internal or interagency memorandums or letters which would not be available by law to a
+party other than in litigation with the Bank.
+3. c. Information contained in or related to examination, operating, or condition reports
+prepared by, on behalf of, or for the use of a state or federal agency responsible for the
+regulation or supervision of any Bank activity.
+4. d. Information obtained from the state department of financial institutions which would not
+be available from that agency under section 6-01-07.1.
+5. e. The report by a Bank officer or member of the Bank's advisory board of directors
+concerning personal financial statements.
+2. The following records of the Bank of North Dakota are exempt:
+a. Bond insurance coverage, including excess bond insurance coverage.
+b. Cyber liability coverage, including excess cyber liability coverage.
+SECTION 19. AMENDMENT. Section 6-09-46.2 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-09-46.2. Rebuilders loan program - Rebuilders permanent loan fund - Continuing
+appropriation.
+1. The Bank of North Dakota shall develop a rebuilders loan program to make or participate in
+loans to North Dakota residents affected by extraordinary losses as a result of a:
+a. A presidentially declared disaster orin the state;
+b. A governor-declared disaster orin the state;
+c. An emergency in the state;
+d. A weather-related incident in the state as determined by the governor; or
+e. An economic hardship as determined by the governor.
+2. Under the rebuilders loan program, the Bank shall develop and implement specific loan
+programs to respond to the specific needs resulting from a disaster or, emergency, incident, or
+hardship. The Bank may fund the loan from any available funding in the rebuilders permanent
+loan fund and may accept private sector donations and funds from the federal government.
+2.3. Upon request of the Bank of North Dakota, the governor shall furnish the Bank with
+information relating to the nature and amount of state and local resources that have been or
+will be committed to alleviating the results of the disaster or emergency, an estimate of the
+amount and severity of the damage and the impact on the private and public sectors, and an
+estimate of the type and amount of assistance needed.
+3.4. To apply for a loan under the program, a person shall apply to the originating financial
+institution. Upon Bank of North Dakota approval of an application, the Bank shall make a loan
+in accordance with the loan program established under this section. The Bank shall establish
+a loan application period, which may not exceed a period of eighteen months from the date of
+the declaration of the disaster or emergency.
+4.5. Excluding the rebuilders and rebuilders home loans transferred to the fund, the Bank of North
+Dakota shall deposit in the fund all principal and interest paid on the loans made from the
+fund. The Bank may deduct from interest payments received on a loan under the program a
+service fee for administering the fund for the Bank and the originating financial institution. The
+
+S. B. NO. 2014 - PAGE 8
+fund must be audited annually pursuant to section 6-09-29, and the cost of the audit and any
+other actual costs incurred by the Bank on behalf of the fund, must be paid by the fund.
+5.6. There is created in the state treasury the rebuilders permanent loan fund administered by the
+Bank of North Dakota. The fund consists of all moneys transferred to the fund by the
+legislative assembly, interest on moneys in the fund, and payments to the fund of principal and
+interest on loans made from the fund. All moneys in the fund are appropriated to the Bank on
+a continuing basis for the rebuilders loan program.
+6.7. If approved by the industrial commission, the fund may borrow from the Bank of North Dakota
+to provide funding for loans under this section. A loan made to the fund by the Bank must be
+repaid with principal and interest payment received by the rebuilders permanent loan fund or
+with moneys appropriated by the legislative assembly.
+7.8. The Bank of North Dakota shall adopt policies to implement this section.
+SECTION 20. A new section to chapter 6-09 of the North Dakota Century Code is created and
+enacted as follows:
+Rail revolving loan fund - Continuing appropriation.
+1. The rail revolving loan fund is a special fund in the state treasury from which the Bank of North
+Dakota shall provide loans to counties, cities, railroads, and other freight railroad users to
+construct or upgrade rail infrastructure to improve rail service.
+2. The Bank shall administer the fund in accordance with the provisions of this section and may
+adopt policies and establish guidelines for the loans, including policies for eligibility and
+allowing participation by local financial institutions. Class I railroads are not eligible.
+3. The Bank shall consider the applicant's ability to repay the loan when processing the
+application and shall issue loans only to applicants that provide reasonable assurance of
+sufficient future income to repay the loan.
+4. The department of transportation shall review and approve the project before the Bank may
+issue a loan based on policies developed by the department.
+5. The Bank shall deposit in the fund all payments of principal and interest paid on loans made
+from the fund. The Bank may use a portion of the interest paid on the outstanding loans as a
+servicing fee to pay administrative costs which may not exceed one - half of one percent of the
+amount of the outstanding loans.
+6. All moneys transferred to the fund, interest upon moneys in the fund, and payments to the
+fund of principal and interest are appropriated to the Bank on a continuing basis for
+administrative costs and for loan disbursements according to this section.
+7. The fund must be audited annually pursuant to section 6 - 09 - 29, and the cost of the audit mus t
+be paid from the fund.
+SECTION 21. AMENDMENT. Section 6-09.7-05 of the North Dakota Century Code is amended and
+reenacted as follows:
+6-09.7-05. Establishment and maintenance of adequate guarantee funds - Use of strategic
+investment and improvements fund. (Effective through June 30, 2025)
+The Bank of North Dakota shall establish and at all times maintain an adequate guarantee reserve
+fund in a special account in the Bank. The Bank may request the director of the office of management
+and budget to transfer funds from the strategic investment and improvements fund created by section
+15-08.1-08 to maintain one hundred percent of the guarantee reserve fund balance. Transfers from the
+strategic investment and improvements fund may not exceed a total of eighty million dollars. Moneys in
+
+S. B. NO. 2014 - PAGE 9
+the guarantee reserve fund are available to reimburse lenders for guaranteed loans in default. The
+securities in which the moneys in the reserve fund may be invested must meet the same requirements
+as those authorized for investment under the state investment board. The income from such
+investments must be made available for the costs of administering the state guarantee loan program
+and income in excess of that required to pay the cost of administering the program must be deposited
+in the reserve fund. The amount of reserves for all guaranteed loans must be determined by a formula
+that will assure, as determined by the Bank, an adequate amount of reserve.
+Establishment and maintenance of adequate guarantee funds - Use of strategic investment
+and improvements fund. (Effective after June 30, 2025) The Bank of North Dakota shall establish
+and at all times maintain an adequate guarantee reserve fund in a special account in the Bank. The
+Bank may request the director of the office of management and budget to transfer funds from the
+strategic investment and improvements fund created by section 15-08.1-08 to maintain one hundred
+percent of the guarantee reserve fund balance. Transfers from the strategic investment and
+improvements fund may not exceed a total of one hundred forty millionone hundred sixty million dollars.
+Moneys in the guarantee reserve fund are available to reimburse lenders, including the Bank, for
+guaranteed loans in default. The securities in which the moneys in the reserve fund may be invested
+must meet the same requirements as those authorized for investment under the state investment
+board. The income from such investments must be made available for the costs of administering the
+state guarantee loan program and income in excess of that required to pay the cost of administering the
+program must be deposited in the reserve fund. The amount of reserves for all guaranteed loans must
+be determined by a formula that will assure, as determined by the Bank, an adequate amount of
+reserve.
+SECTION 22. AMENDMENT. Section 6-09.14-04 of the North Dakota Century Code is amended
+and reenacted as follows:
+6-09.14-04. Fund moneys - Eligible uses.
+1. The fund moneys may be used to participate in an interest rate buydown on a loan to a new or
+expanding business for the following eligible uses:
+a. Purchase of real property and equipment.
+b. Expansion of facilities.
+c. Working capital.
+d. Inventory.
+2. The loan funds cannot be used to refinance any existing debt or for the relocation of the
+business within North Dakota.
+2.3. The community shall determine the amount of the interest rate buydown and apply to the Bank
+of North Dakota for participation from the partnership in assisting community expansion fund.
+The funds for the community's portion of the buydown may come from a local development
+corporation, contributions, community funds, future dedicated tax programs, or any other
+community source.
+3.4. The fund participation portion in the buydown must be determined by the Bank of North
+Dakota based on economic conditions in the city or county in which the business is located.
+4.5. a. The maximum amount from the fund in the interest rate buydown may not exceed five
+hundred thousand dollars per loan.
+b. If the Bank determines the project has a substantial economic impact and qualifies as a
+primary sector business, the maximum amount from the fund in the interest rate buydown
+
+S. B. NO. 2014 - PAGE 10
+may be increased by up to one million dollars, in addition to the amount under
+subdivision a, without a required community match .
+6. The fund participation must be limited to the amount required to buy down the interest to five
+hundred basis points below the national prime interest rate.
+5.7. The Bank of North Dakota shall adopt rules to implement this chapter.
+SECTION 23. A new subdivision to subsection 2 of section 38-08-04.5 of the North Dakota Century
+Code is created and enacted as follows:
+Administrative expenses, including salaries and wages and operating expenses, subject
+to legislative appropriation.
+SECTION 24. AMENDMENT. Section 49-17.1-02.1 of the North Dakota Century Code is amended
+and reenacted as follows:
+49-17.1-02.1. Department may authorize localReview and approval of rail projects.
+For the purpose of promoting the public interest and local economic development, the department
+may utilize revenue generated under this chapter for the construction or improvement of railway freight
+transportation projects not otherwise eligible for assistance under the Railroad Revitalization and
+Regulatory Reform Act of 1976 [Pub. L. 94-210; 90 Stat. 149; 49 U.S.C. 1651 et seq.] and which meet
+standards and specifications developed by the departmentThe department shall coordinate with the
+Bank of North Dakota to approve and review rail projects financed under the rail revolving loan fund
+under section 19 of this Ac t.
+SECTION 25. AMENDMENT. Subsection 1 of section 54-17-40 of the North Dakota Century Code
+is amended and reenacted as follows:
+1. The housing incentive fund is created as a special revolving fund at the Bank of North Dakota.
+The housing finance agency may direct disbursements from the fund and a continuing
+appropriation from the fund is provided for that purposea special fund in the state treasury
+administered by the housing finance agency. Moneys in the fund are appropriated to the
+housing finance agency on a continuing basis for assistance under subsection 3. Moneys in
+the fund may be transferred to the housing finance agency's operating fund for administrative
+expenses, which are subject to legislative appropriation.
+SECTION 26. AMENDMENT. Subdivision a of subsection 4 of section 54-17.7-04 of the North
+Dakota Century Code is amended and reenacted as follows:
+a. (1) The authority may borrow up to sixty million dollars through a line of credit from the
+Bank.
+(2) In addition to the borrowing under paragraph 1, the authority may borrow up to forty
+million dollars through a line of credit from the Bank to provide total borrowing of up
+to one hundred million dollars under this subdivision. The borrowing under this
+paragraph is available only if the authority enters a capacity purchase agreement by
+December 31, 2026, related to a pipeline project to transport natural gas from the
+western area of the state to the eastern area of the state.
+(3) The interest rate on the line of credit must be the prevailing interest rate charged to
+North Dakota governmental entities.
+SECTION 27. AMENDMENT. Section 15 of chapter 14 of the 2023 Session Laws is amended and
+reenacted as follows:
+SECTION 15. TRANSFER - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND TO
+STATE ENERGY RESEARCH CENTER FUND - FEDERAL STATE FISCAL RECOVERY FUND -
+
+S. B. NO. 2014 - PAGE 11
+UNDERGROUND ENERGY STORAGE RESEARCH PROJECT - REPORT TO LEGISLATIVE
+MANAGEMENT.
+1. The office of management and budget shall transfer the sum of $6,000,000 from the
+strategic investment and improvements fund to the state energy research center fund.
+2. Pursuant to the continuing appropriation authority under section 57-51.1-07.9 and
+pursuant to subsection 36 of section 1 of chapter 550 of the 2021 Special Session
+Session Laws, as amended in section 24 of this Act and exempted in section 26 of this
+Act, the industrial commission shall distribute up to $6,000,000$2,000,000 from the state
+energy research center fund and up to $5,300,000 of federal funds from the state fiscal
+recovery fund to the state energy research center for a salt cavern underground energy
+storage research project.
+3. The research project must include a business case analysis for the construction of up to
+two salt caverns in geological formations in North Dakota for the development of
+underground storage of energy resources, including natural gas, liquified natural gas,
+natural gas liquids, and hydrogen. The state energy research center may collaborate with
+other entities as needed on the research project. Prior to distributing the funding, the
+industrial commission must receive, from at least one nonstate entity, assurance of
+financial or other types of support that demonstrate a commitment to the research
+project.
+4. During the 2023-24 interim and 2025 - 26 interims , the state energy research center shall
+provide quarterly reports to the industrial commission and at least one report each interim
+to the legislative management regarding the status and results of the research project.
+SECTION 28. REPEAL. Section 3 of Senate Bill No. 2188, as approved by the sixty-ninth
+legislative assembly, is repealed.
+SECTION 29. EXEMPTION - UNEXPENDED APPROPRIATIONS. The following appropriations are
+not subject to the provisions of section 54-44.1-11 and may be continued into the biennium beginning
+July 1, 2025, and ending June 30, 2027:
+1. The sum of $1,250,000 appropriated from special funds for grant management software in
+subdivision 1 of section 1 of chapter 14 of the 2023 Session Laws, identified as one-time
+funding in section 2 of chapter 14 of the 2023 Session Laws, and transferred in section 9 of
+chapter 14 of the 2023 Session Laws.
+2. The sum of $75,000 appropriated from special funds for a records digitization project in
+subdivision 1 of section 1 of chapter 14 of the 2023 Session Laws and identified as one-time
+funding in section 2 of chapter 14 of the 2023 Session Laws.
+3. The sum of $1,124,856 appropriated from the general fund and $7,499,037 appropriated from
+federal funds for an electricity grid resilience federal grant in subdivision 1 of section 1 of
+chapter 14 of the 2023 Session Laws and identified as one-time funding in section 2 of
+chapter 14 of the 2023 Session Laws.
+4. The sum of $3,200,000 appropriated from the federal state fiscal recovery fund for an
+abandoned oil well conversion to water supply grant program in subdivision 2 of section 1 of
+chapter 550 of the 2021 Special Session Session Laws and continued into the 2023-25
+biennium in subsection 1 of section 27 of chapter 14 of the 2023 Session Laws.
+5. The sum of $800,000 appropriated from the strategic investment and improvements fund to
+the department of mineral resources for a survey review in section 2 of chapter 426 of the
+2017 Session Laws and continued into the 2019-21 biennium pursuant to section 27 of
+chapter 14 of the 2019 Session Laws, into the 2021-23 biennium pursuant to section 33 of
+
+S. B. NO. 2014 - PAGE 12
+chapter 42 of the 2021 Session Laws, and into the 2023-25 biennium pursuant to section 27 of
+chapter 14 of the 2023 Session Laws.
+6. Up to $225,500 of the $2,300,000 appropriated from federal funds to the department of
+mineral resources for administrative expenses related to an abandoned well reclamation
+program in subdivision 2 of section 1 of chapter 14 of the 2023 Session Laws and identified as
+one-time funding in section 2 of chapter 14 of the 2023 Session Laws.
+SECTION 30. LEGISLATIVE MANAGEMENT STUDY - HOMELESSNESS. During the 2025-26
+interim, the legislative management shall consider studying homelessness in the state. The study must
+include a review of data and funding available to address homelessness, an analysis of the use of
+available funds to identify gaps and potential solutions, and input from homeless program service
+providers. The legislative management shall report its findings and recommendations, together with any
+legislation required to implement the recommendations, to the seventieth legislative assembly.
+SECTION 31. ECONOMIC DEVELOPMENT STUDY - BANK OF NORTH DAKOTA - REPORT.
+During the 2025-27 biennium, the Bank of North Dakota shall use up to $250,000 included in the Bank's
+appropriation in section 1 of this Act and identified as one-time funding in section 2 of this Act to
+conduct a study of economic development opportunities to sustain the economies of communities in
+western North Dakota as oil and gas development activities decrease. The Bank shall coordinate with
+the department of commerce and representatives from oil-producing counties to develop a long-term
+strategic plan for economic development opportunities in western North Dakota. The Bank shall provide
+at least one report to the legislative management during the 2025-26 interim and shall provide a report
+to the appropriations committees of the seventieth legislative assembly regarding the results of the
+study.
+SECTION 32. REPORT TO BUDGET SECTION - NORTH DAKOTA PIPELINE AUTHORITY -
+PIPELINE CAPACITY AGREEMENT. By December 31, 2026, the North Dakota pipeline authority shall
+provide at least one report to the budget section regarding the status of any pipeline capacity
+agreements, including commitments from other private sector entities, the commitment by the authority,
+anticipated borrowing by the authority under subsection 4 of section 54-17.7-04, and other information
+requested by the budget section.
+SECTION 33. EFFECTIVE DATE. Section 21 of this Act becomes effective July 1, 2027.
+SECTION 34. EMERGENCY. Section 5 of this Act is declared to be an emergency measure.
+
+S. B. NO. 2014 - PAGE 13
+____________________________ ____________________________
+President of the Senate Speaker of the House
+____________________________ ____________________________
+Secretary of the Senate Chief Clerk of the House
+This certifies that the within bill originated in the Senate of the Sixty-ninth Legislative Assembly of North
+Dakota and is known on the records of that body as Senate Bill No. 2014 and that two-thirds of the
+members-elect of the Senate voted in favor of said law.
+Vote: Yeas 42 Nays 3 Absent 2
+____________________________ ____________________________
+President of the Senate Secretary of the Senate
+This certifies that two-thirds of the members-elect of the House of Representatives voted in favor of
+said law.
+Vote: Yeas 74 Nays 15 Absent 5
+____________________________ ____________________________
+Speaker of the House Chief Clerk of the House
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+____________________________
+Governor
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+____________________________
+Secretary of State
+
+[DELETED: lEsAs$8$3$l0262s41314s0191s13()1s$2$6$s12161d$0$0$s95009lEsA]
+[DELETED: s$1$3$l0242s72374s$3$4$s10001lEsAs$4$3$l0101s13()9s2002s40()4s1001s$7()$s67167d$0()$s50505lEsAs$2$2$l0282s53681s0404s$5$8$s20576d$5$1$s10501lEsAs$7$1$l0101s43244s5005n5005s$0$5$s10201lEsA]
+[DELETED: s$7$9$s32484d$5$1$nGdOsTt$0$9$n0303n$0$9$s$0$9$y0202a$0$9$m$0$7$s25557s1001y0404t0101n0303t4004s$5$2$l$5$0$ N TN 4 BD P Te at of $0 id in s1 od$m1e4l$N 5 AN - 25 BM - IL CN - A I]
+[DELETED: N 7 AN - T G F TO HG I- TR SC IT AD IS FD TO H.T.TN 8 TR - ES AD FS UR TE CL OF TL CN TO IL CN FD - AN -.T.T TN 1 TR - BK OF NH DA PS TO E]
+[DELETED: .$.$.U T.F.T.P.Pe iy it ad he te mt pl of pg eg ls ad as in ey p; or or m, e, o]
+[DELETED: .T 1 O.$.$ O.T.T.T.T a.T.T.a.C]
+[DELETED: .b.I.c.In cd i or rd t e, o, or cn r.d.I.e.T.T.B.C. Rs ln pm  Rs pt ln fd  C.T.A.A.A.A.A.U t.U r o t Bk f , r s fk w.T.E]
+[DELETED: .T.I.T.T.T.T.T.T.Af p a it  ad  t Bk n  c bs . ]
+[DELETED: s te ad fr it ur te se it b. Te ie fm s ft of te ge re fd b. Ts fm te sc it a g fa  w.T.P.E.W.I.T.T.T.a.T.I]
+[DELETED:  be id b u t oe m d, in a t t at u.T.T.T. .()T) )T]
+[DELETED: .T.Pt to te cg an ay ur sn 59 a.T.D R S.T.T.T.T.T]
+[DELETED: .U D R]
+[DELETED: __eS__eC:Y2N3A__eS:Y4N5A__e ]

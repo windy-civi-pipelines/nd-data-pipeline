@@ -1,0 +1,668 @@
+Title: SENATE BILL NO. 2260
+Official Title: SENATE BILL NO. 2260
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+25.1222.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Burckhard, Barta, Roers
+Representatives Berg, Satrom
+1 A BILL for an Act to amend and reenact sections 47-20.2-01, 47-20.2-02, 47-20.2-05, and
+2 47-20.2-06 of the North Dakota Century Code, relating to the North Dakota coordinate system
+3 zones.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 47-20.2-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 47-20.2-01. North Dakota coordinate system zones defined.
+8 1. The systems of plane coordinates which have been established by the national
+9 oceanic and atmospheric administration national ocean survey/national geodetic
+10 survey or its successors for defining and stating the geographic positions or locations
+11 of points on the surface of the earth within this state are, as of July 1, 1989, to be
+12 known and designated as the North Dakota coordinate system of 1927 and, the North
+13 Dakota coordinate system of 1983, the North Dakota statewide coordinate system of
+14 2022, and the North Dakota low - distortion coordinate system of 2022 . For the purpose
+15 of the use of these systems, the state is divided into a north zone and a south zone:
+16 1. a. The area now included in the following counties constitutes the north zone:
+17 Divide, Williams, McKenzie, Mountrail, Burke, Renville, Ward, McLean, Bottineau,
+18 McHenry, Sheridan, Pierce, Rolette, Towner, Benson, Wells, Foster, Eddy,
+19 Ramsey, Cavalier, Pembina, Walsh, Nelson, Grand Forks, Griggs, Steele, Traill.
+20 2. b. The area now included in the following counties constitutes the south zone:
+21 Dunn, Golden Valley, Slope, Bowman, Adams, Hettinger, Stark, Mercer, Oliver,
+22 Morton, Grant, Sioux, Emmons, Burleigh, Kidder, Logan, McIntosh, Stutsman,
+23 Barnes, LaMoure, Dickey, Cass, Ransom, Sargent, Richland.
+Page No. 1 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 2. For the purpose of the use of the North Dakota statewide coordinate system of 2022,
+2 the state is covered by one, statewide zone.
+3 3. For the purpose of the use of the North Dakota low - distortion coordinate system o f
+4 2022, the state has been divided into sixteen, low - distortion projection zones :
+5 a. Beulah zone, which includes Dunn, McLean, and Mercer counties.
+6 b. Bismarck zone, which includes Burleigh, Kidder, Morton, and Oliver counties.
+7 c. Bottineau zone, which includes Bottineau, Cavalier, Rolette, and Towner
+8 counties.
+9 d. Bowman zone, which includes Adams, Bowman, Hettinger, and Slope counties.
+10 e. Cannon Ball zone, which includes Grant and Sioux counties.
+11 f. Carrington zone, which includes Eddy, Foster, Griggs, Sheridan, and Wells
+12 counties.
+13 g. Devils Lake zone, which includes Benson, McHenry, Nelson, Pierce, and Ramsey
+14 counties.
+15 h. Dickinson zone, which includes Billings, Golden Valley, and Stark counties.
+16 i. Fargo zone, which includes Cass, Ransom, Richland, and Sargent counties.
+17 j. Grand Forks zone, which includes Grand Forks, Pembina, Steele, Traill, and
+18 Walsh counties.
+19 k. Jamestown zone, which includes Barnes and Stutsman counties.
+20 l. Linton zone, which includes Emmons, Logan, and McIntosh counties.
+21 m. Minot zone, which includes Renville and Ward counties.
+22 n. New Town zone, which includes Burke and Mountrail counties.
+23 o. Oakes zone, which includes Dickey and LaMoure counties.
+24 p. Williston zone, which includes Divide, McKenzie, and Williams counties.
+25 SECTION 2. AMENDMENT. Section 47-20.2-02 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 47-20.2-02. North Dakota coordinate system names defined.
+28 1. As established for use in the north zone, the North Dakota coordinate system of 1927
+29 or the North Dakota coordinate system of 1983 is named, and in any land description
+30 in which it is used it must be designated the North Dakota coordinate system of 1927,
+31 north zone, or the North Dakota coordinate system of 1983, north zone. As established
+Page No. 2 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 for use in the south zone, the North Dakota coordinate system of 1927 or the North
+2 Dakota coordinate system of 1983 is named, and in any land description in which it is
+3 used it must be designated the North Dakota coordinate system of 1927, south zone,
+4 or the North Dakota coordinate system of 1983, south zone.
+5 2. As established for use in the statewide zone, the North Dakota statewide coordinate
+6 system of 2022 is named, and in any land description in which it is used, it must be
+7 designated the North Dakota statewide coordinate system of 2022.
+8 3. As established for use in the:
+9 a. Beulah zone, the North Dakota coordinate system of 2022 is named, and in any
+10 land description in which it is used, it must be designated the Beulah zone of the
+11 North Dakota coordinate system of 2022;
+12 b. Bottineau zone, the North Dakota coordinate system of 2022 is named, and in
+13 any land description in which it is used, it must be designated the Bottineau zone
+14 of the North Dakota coordinate system of 2022;
+15 c. Bismarck zone, the North Dakota coordinate system of 2022 is named, and in
+16 any land description in which it is used, it must be designated the Bismarck zone
+17 of the North Dakota coordinate system of 2022;
+18 d. Bowman zone, the North Dakota coordinate system of 2022 is named, and in any
+19 land description in which it is used, it must be designated the Bowman zone of
+20 the North Dakota coordinate system of 2022;
+21 e. Cannon Ball zone, the North Dakota coordinate system of 2022 is named, and in
+22 any land description in which it is used, it must be designated the Cannon Ball
+23 zone of the North Dakota coordinate system of 2022;
+24 f. Carrington zone, the North Dakota coordinate system of 2022 is named, and in
+25 any land description in which it is used it must be designated the Carrington zone
+26 of the North Dakota coordinate system of 2022;
+27 g. Devils Lake zone, the North Dakota coordinate system of 2022 is named, and in
+28 any land description in which it is used, it must be designated the Devils Lake
+29 zone of the North Dakota coordinate system of 2022;
+Page No. 3 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 h. Dickinson zone, the North Dakota coordinate system of 2022 is named, and in
+2 any land description in which it is used, it must be designated the Dickinson zone
+3 of the North Dakota coordinate system of 2022;
+4 i. Fargo zone, the North Dakota coordinate system of 2022 is named, and in any
+5 land description in which it is used, it must be designated the Fargo zone of the
+6 North Dakota coordinate system of 2022;
+7 j. Grand Forks zone, the North Dakota coordinate system of 2022 is named, and in
+8 any land description in which it is used, it must be designated the Grand Forks
+9 zone of the North Dakota coordinate system of 2022;
+10 k. Jamestown zone, the North Dakota coordinate system of 2022 is named, and in
+11 any land description in which it is used, it must be designated the Jamestown
+12 zone of the North Dakota coordinate system of 2022;
+13 l. Linton zone, the North Dakota coordinate system of 2022 is named, and in any
+14 land description in which it is used, it must be designated the Linton zone of the
+15 North Dakota coordinate system of 2022;
+16 m. Minot zone, the North Dakota coordinate system of 2022 is named, and in any
+17 land description in which it is used, it must be designated the Minot zone of the
+18 North Dakota coordinate system of 2022;
+19 n. New Town zone, the North Dakota coordinate system of 2022 is named, and in
+20 any land description in which it is used, it must be designated the New Town zone
+21 of the North Dakota coordinate system of 2022;
+22 o. Oakes zone, the North Dakota coordinate system of 2022 is named, and in any
+23 land description in which it is used, it must be designated the Oakes zone of the
+24 North Dakota coordinate system of 2022; and
+25 p. Williston zone, the North Dakota coordinate system of 2022 is named, and in any
+26 land description in which it is used, it must be designated the Williston zone of
+27 the North Dakota coordinate system of 2022.
+28 SECTION 3. AMENDMENT. Section 47-20.2-05 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 4 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 47-20.2-05. North Dakota coordinate system origins defined.
+2 1. For the purposes of more precisely defining the North Dakota coordinate system of
+3 1927, the following definitions by the United States coast and geodetic survey are
+4 adopted:
+5 a. The North Dakota coordinate system of 1927, north zone, is a Lambert conformal
+6 conic projection of the Clarke spheroid of 1866, having standard parallels at north
+7 latitudes, forty-seven degrees twenty-six minutes and forty-eight degrees
+8 forty-four minutes along which parallels the scale shall be exact. The origin of
+9 coordinates is at the intersection of the meridian one hundred degrees thirty
+10 minutes west of Greenwich and the parallel forty-seven degrees zero minutes
+11 north latitude. This origin is given the coordinates: x = 2,000,000 feet [609.6
+12 kilometers], and y = 0 feet [0 kilometers].
+13 b. The North Dakota coordinate system of 1927, south zone, is a Lambert
+14 conformal conic projection of the Clarke spheroid of 1866, having standard
+15 parallels at north latitudes forty-six degrees eleven minutes and forty-seven
+16 degrees twenty-nine minutes along which parallels the scale shall be exact. The
+17 origin of coordinates is at the intersection of the meridian one hundred degrees
+18 thirty minutes west of Greenwich and the parallel forty-five degrees forty minutes
+19 north latitude. This origin is given the coordinates: x = 2,000,000 feet [609.6
+20 kilometers], and y = 0 feet [0 kilometers].
+21 2. For the purposes of more precisely defining the North Dakota coordinate system of
+22 1983, the following definition by the national ocean survey/national geodetic survey is
+23 adopted:
+24 a. The North Dakota coordinate system of 1983, north zone, is a Lambert conformal
+25 conic projection of the North American datum of 1983, having standard parallels
+26 at north latitude of forty-seven degrees twenty-six minutes and forty-eight
+27 degrees forty-four minutes along which parallels the scale shall be exact. The
+28 origin of coordinates is at the intersection of the meridian one hundred degrees
+29 thirty minutes west of Greenwich and the parallel forty-seven degrees zero
+30 minutes north latitude. This origin is given the coordinates: x = 600,000.0000
+31 meters, and y = 00.0000 meters.
+Page No. 5 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 b. The North Dakota coordinate system of 1983, south zone, is a Lambert
+2 conformal conic projection of the North American datum of 1983, having standard
+3 parallels at north latitude of forty-six degrees eleven minutes and forty-seven
+4 degrees twenty-nine minutes along which parallels the scale shall be exact. The
+5 origin of coordinates is at the intersection of the meridian one hundred degrees
+6 thirty minutes west of Greenwich and the parallel forty-five degrees forty minutes
+7 north latitude. This origin is given the coordinates: x = 600,000.0000 meters, and
+8 y = 00.0000 meters.
+9 3. For the purposes of more precisely defining the statewide zone North Dakota
+10 coordinate system of 2022, the definition by the national ocean survey or national
+11 geodetic survey is the North Dakota coordinate system of 2022, statewide zone, a
+12 Lambert conformal conic projection of the North American datum of 2022, the origin of
+13 coordinates is at the intersection of the meridian one hundred fifteen minutes west of
+14 Greenwich and the parallel forty - seven degrees thirty minutes north latitude. This
+15 origin is given the coordinates: x = 838,200.0000 meters, and y = 342,900.0000
+16 meters.
+17 4. For the purposes of more precisely defining the low-distortion projections as described
+18 under subsection 3 of section 47 - 20.2 - 01, the following definition by the national ocean
+19 survey or national geodetic survey is adopted:
+20 a. The North Dakota coordinate system of 2022, Beulah zone, is a Lambert
+21 conformal conic projection of the North American datum of 2022, the origin of
+22 coordinates is at the intersection of the meridian one hundred one degrees
+23 fifty - one minutes west of Greenwich and the parallel forty - seven degrees
+24 twenty - seven minutes north latitude. This origin is given the coordinates: x =
+25 2,286,000.0000 meters, and y = 152,400.0000 meters;
+26 b. The North Dakota coordinate system of 2022, Bismarck zone, is a Lambert
+27 conformal conic projection of the North American datum of 2022, the origin of
+28 coordinates is at the intersection of the meridian one hundred degrees forty - five
+29 minutes west of Greenwich and the parallel forty - six degrees forty - eight minutes
+30 north latitude. This origin is given the coordinates: x = 3,200,400.000 meters, and
+31 y = 114,300.0000 meters;
+Page No. 6 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 c. The North Dakota coordinate system of 2022, Bottineau zone, is a Lambert
+2 conformal conic projection of the North American datum of 2022, the origin of
+3 coordinates is at the intersection of the meridian ninety - nine degrees forty - two
+4 minutes west of Greenwich and the parallel forty - eight degrees thirty - six minutes
+5 north latitude. This origin is given the coordinates: x = 1,371,600.0000 meters,
+6 and y = 152,400.0000 meters;
+7 d. The North Dakota coordinate system of 2022, Bowman zone, is a Lambert
+8 conformal conic projection of the North American datum of 2022, the origin of
+9 coordinates is at the intersection of the meridian one - hundred three degrees wes t
+10 of Greenwich and the parallel forty - six degrees eighteen minutes north latitude .
+11 This origin is given the coordinates: x = 3,810,000.0000 meters, and y =
+12 114,300.0000 meters;
+13 e. The North Dakota coordinate system of 2022, Cannon Ball zone, is a Lambert
+14 conformal conic projection of the North American datum of 2022, the origin of
+15 coordinates is at the intersection of the meridian one - hundred one degrees
+16 eighteen minutes west of Greenwich and the parallel forty-six degrees eighteen
+17 minutes north latitude. This origin is given the coordinates: x = 4,114,800.0000
+18 meters, and y = 114,300.0000 meters;
+19 f. The North Dakota coordinate system of 2022, Carrington zone, is a Lambert
+20 conformal conic projection of the North American datum of 2022, the origin of
+21 coordinates is at the intersection of the meridian ninety - nine degrees eighteen
+22 minutes west of Greenwich and the parallel forty - seven degrees thirty - -three
+23 minutes north latitude. This origin is given the coordinates: x = 2,590,800.000
+24 meters, and y = 152,400 meters;
+25 g. The North Dakota coordinate system of 2022, Devils Lake zone, is a Lambert
+26 conformal conic projection of the North American datum of 2022, the origin of
+27 coordinates is at the intersection of the meridian ninety-nine degrees
+28 twenty - seven minutes west of Greenwich and the parallel forty - eight degrees
+29 nine minutes north latitude. This origin is given the coordinates: x =
+30 1,676,400.0000 meters, and y = 152,400.0000 meters;
+Page No. 7 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 h. The North Dakota coordinate system of 2022, Dickinson zone, is a Lambert
+2 conformal conic projection of the North American datum of 2022, the origin of
+3 coordinates is at the intersection of the meridian one hundred three degrees
+4 three minutes west of Greenwich and the parallel forty - seven degrees north
+5 latitude. This origin is given the coordinates: x = 2,895,600.0000 meters, and y =
+6 114,300.0000 meters;
+7 i. The North Dakota coordinate system of 2022, Fargo zone, is a transverse
+8 mercator projection of the North American datum of 2022, the origin of
+9 coordinates is at the intersection of the meridian ninety - seven degrees twelve
+10 minutes west of Greenwich and the parallel forty - five degrees forty - five minutes
+11 north latitude. This origin is given the coordinates: x = 4,991,100.0000 meters,
+12 and y = 00.0000 meters;
+13 j. The North Dakota coordinate system of 2022, Grand Forks zone, is a transverse
+14 mercator projection of the North American datum of 2022, the origin of
+15 coordinates is at the intersection of the meridian ninety - seven degrees
+16 twenty - four minutes west of Greenwich and the parallel forty - six degrees thirty
+17 minutes north latitude. This origin is given the coordinates: x = 1,981,200.0000
+18 meters, and y = 00.0000 meters;
+19 k. The North Dakota coordinate system of 2022, Jamestown zone, is a Lambert
+20 conformal conic projection of the North American datum of 2022, the origin of
+21 coordinates is at the intersection of the meridian ninety - eight degrees thirty - six
+22 minutes west of Greenwich and the parallel forty - six degrees fifty - seven minutes
+23 north latitude. This origin is given the coordinates: x = 3,505,200.0000 meters,
+24 and y = 114,300.0000 meters;
+25 l. The North Dakota coordinate system of 2022, Linton zone, is a Lambert
+26 conformal conic projection of the North American datum of 2022, the origin of
+27 coordinates is at the intersection of the meridian ninety - nine degrees fifty - one
+28 minutes west of Greenwich and the parallel forty - six degrees eighteen minutes
+29 north latitude. This origin is given the coordinates: x = 4,381,500.0000 meters,
+30 and y = 114,300.0000 meters;
+Page No. 8 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 m. The North Dakota coordinate system of 2022, Minot zone, is a transverse
+2 mercator projection of the North American datum of 2022, the origin of
+3 coordinates is at the intersection of the meridian one hundred one degrees
+4 twenty - seven minutes west of Greenwich and the parallel forty - six degrees thirty
+5 minutes north latitude. This origin is given the coordinates: x = 1,104,900.0000
+6 meters, and y = 00.0000 meters;
+7 n. The North Dakota coordinate system of 2022, New Town zone, is a transverse
+8 mercator projection of the North American datum of 2022, the origin of
+9 coordinates is at the intersection of the meridian one hundred two degrees
+10 twenty - seven minutes west of Greenwich and the parallel forty - six degrees thirty
+11 minutes north latitude. This origin is given the coordinates: x = 762,000.0000
+12 meters, and y = 00.0000 meters;
+13 o. The North Dakota coordinate system of 2022, Oakes zone, is a transverse
+14 mercator projection of the North American datum of 2022, the origin of
+15 coordinates is at the intersection of the meridian ninety - eight degrees eighteen
+16 minutes west of Greenwich and the parallel forty - five degrees forty - five minutes
+17 north latitude. This origin is given the coordinates: x = 4,686,300.0000 meters,
+18 and y = 00.0000 meters; and
+19 p. The North Dakota coordinate system of 2022, Williston zone, is a transverse
+20 mercator projection of the North American datum of 2022, the origin of
+21 coordinates is at the intersection of the meridian one hundred three degrees
+22 twenty - seven minutes west of Greenwich and the parallel forty - six degrees thirty
+23 minutes north latitude. This origin is given the coordinates: x = 457,200.0000
+24 meters, and y = 00.0000 meters.
+25 SECTION 4. AMENDMENT. Section 47-20.2-06 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 47-20.2-06. North Dakota coordinate system - Use of term.
+28 The use of the North Dakota coordinate system of 1927 north zone or south zone or the
+29 North Dakota coordinate system of 1983 north zone or south zone, the North Dakota statewide
+30 coordinate system of 2022, or the North Dakota low - distortion coordinate system of 2022 on
+31 any map, report of survey, or other document must be limited to coordinates based on the North
+Page No. 9 25.1222.01000
+Sixty-ninth
+Legislative Assembly
+1 Dakota coordinate systems as defined in this chapter. The map, report, or document must
+2 include a statement describing the standard of accuracy, as defined by the national ocean
+3 survey/national geodetic survey, maintained in developing the coordinates shown therein. The
+4 coordinates must be established in conformity with these standards:
+5 1. No coordinates based on the North Dakota coordinate system, purporting to define the
+6 position of a point on a land boundary, may be presented to be recorded in any public
+7 records or deed records unless the point is connected to a triangulation or traverse
+8 stationthe national spatial reference system and established in conformity with the
+9 standards prescribed in this chapter.
+10 2. Coordinate values used in land descriptions under this section must be certified by a
+11 duly registered professional land surveyor under the laws of this state.
+Page No. 10 25.1222.01000
+[DELETED: .T.a.T.b.T12]
+[DELETED: .F. .B.B.B.B.C.C.D.D.F.G.J.L.M.N.O.W.A22]
+[DELETED: .A.A.B.B.B.B.C.C.D32]
+[DELETED: .D.F.G.J.L.M.N.O.W42]
+[DELETED: .F.T.T.F.T52]
+[DELETED: .T.F.F.T.T62]
+[DELETED: .T.T.T.T.T72]
+[DELETED: .T.T.T.T.T82]
+[DELETED: .T.T.T.T92]
+[DELETED: .N.C02]
+
+
+================================================================================
+
+Raw Text:
+25.1222.01000
+Sixty-ninth
+SENATE BILL NO. 2260
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Burckhard, Barta, Roers
+Representatives Berg, Satrom
+1 A BILL for an Act to amend and reenact sections 47-20.2-01, 47-20.2-02, 47-20.2-05, and
+2 47-20.2-06 of the North Dakota Century Code, relating to the North Dakota coordinate system
+3 zones.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 47-20.2-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 47-20.2-01. North Dakota coordinate system zones defined.
+8 1. The systems of plane coordinates which have been established by the national
+9 oceanic and atmospheric administration national ocean survey/national geodetic
+10 survey or its successors for defining and stating the geographic positions or locations
+11 of points on the surface of the earth within this state are, as of July 1, 1989, to be
+12 known and designated as the North Dakota coordinate system of 1927 and, the North
+13 Dakota coordinate system of 1983, the North Dakota statewide coordinate system of
+14 2022, and the North Dakota low - distortion coordinate system of 2022 . For the purpose
+15 of the use of these systems, the state is divided into a north zone and a south zone:
+16 1. a. The area now included in the following counties constitutes the north zone:
+17 Divide, Williams, McKenzie, Mountrail, Burke, Renville, Ward, McLean, Bottineau,
+18 McHenry, Sheridan, Pierce, Rolette, Towner, Benson, Wells, Foster, Eddy,
+19 Ramsey, Cavalier, Pembina, Walsh, Nelson, Grand Forks, Griggs, Steele, Traill.
+20 2. b. The area now included in the following counties constitutes the south zone:
+21 Dunn, Golden Valley, Slope, Bowman, Adams, Hettinger, Stark, Mercer, Oliver,
+22 Morton, Grant, Sioux, Emmons, Burleigh, Kidder, Logan, McIntosh, Stutsman,
+23 Barnes, LaMoure, Dickey, Cass, Ransom, Sargent, Richland.
+Page No. 1 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. For the purpose of the use of the North Dakota statewide coordinate system of 2022,
+2 the state is covered by one, statewide zone.
+3 3. For the purpose of the use of the North Dakota low - distortion coordinate system o f
+4 2022, the state has been divided into sixteen, low - distortion projection zones :
+5 a. Beulah zone, which includes Dunn, McLean, and Mercer counties.
+6 b. Bismarck zone, which includes Burleigh, Kidder, Morton, and Oliver counties.
+7 c. Bottineau zone, which includes Bottineau, Cavalier, Rolette, and Towner
+8 counties.
+9 d. Bowman zone, which includes Adams, Bowman, Hettinger, and Slope counties.
+10 e. Cannon Ball zone, which includes Grant and Sioux counties.
+11 f. Carrington zone, which includes Eddy, Foster, Griggs, Sheridan, and Wells
+12 counties.
+13 g. Devils Lake zone, which includes Benson, McHenry, Nelson, Pierce, and Ramsey
+14 counties.
+15 h. Dickinson zone, which includes Billings, Golden Valley, and Stark counties.
+16 i. Fargo zone, which includes Cass, Ransom, Richland, and Sargent counties.
+17 j. Grand Forks zone, which includes Grand Forks, Pembina, Steele, Traill, and
+18 Walsh counties.
+19 k. Jamestown zone, which includes Barnes and Stutsman counties.
+20 l. Linton zone, which includes Emmons, Logan, and McIntosh counties.
+21 m. Minot zone, which includes Renville and Ward counties.
+22 n. New Town zone, which includes Burke and Mountrail counties.
+23 o. Oakes zone, which includes Dickey and LaMoure counties.
+24 p. Williston zone, which includes Divide, McKenzie, and Williams counties.
+25 SECTION 2. AMENDMENT. Section 47-20.2-02 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 47-20.2-02. North Dakota coordinate system names defined.
+28 1. As established for use in the north zone, the North Dakota coordinate system of 1927
+29 or the North Dakota coordinate system of 1983 is named, and in any land description
+30 in which it is used it must be designated the North Dakota coordinate system of 1927,
+31 north zone, or the North Dakota coordinate system of 1983, north zone. As established
+Page No. 2 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 for use in the south zone, the North Dakota coordinate system of 1927 or the North
+2 Dakota coordinate system of 1983 is named, and in any land description in which it is
+3 used it must be designated the North Dakota coordinate system of 1927, south zone,
+4 or the North Dakota coordinate system of 1983, south zone.
+5 2. As established for use in the statewide zone, the North Dakota statewide coordinate
+6 system of 2022 is named, and in any land description in which it is used, it must be
+7 designated the North Dakota statewide coordinate system of 2022.
+8 3. As established for use in the:
+9 a. Beulah zone, the North Dakota coordinate system of 2022 is named, and in any
+10 land description in which it is used, it must be designated the Beulah zone of the
+11 North Dakota coordinate system of 2022;
+12 b. Bottineau zone, the North Dakota coordinate system of 2022 is named, and in
+13 any land description in which it is used, it must be designated the Bottineau zone
+14 of the North Dakota coordinate system of 2022;
+15 c. Bismarck zone, the North Dakota coordinate system of 2022 is named, and in
+16 any land description in which it is used, it must be designated the Bismarck zone
+17 of the North Dakota coordinate system of 2022;
+18 d. Bowman zone, the North Dakota coordinate system of 2022 is named, and in any
+19 land description in which it is used, it must be designated the Bowman zone of
+20 the North Dakota coordinate system of 2022;
+21 e. Cannon Ball zone, the North Dakota coordinate system of 2022 is named, and in
+22 any land description in which it is used, it must be designated the Cannon Ball
+23 zone of the North Dakota coordinate system of 2022;
+24 f. Carrington zone, the North Dakota coordinate system of 2022 is named, and in
+25 any land description in which it is used it must be designated the Carrington zone
+26 of the North Dakota coordinate system of 2022;
+27 g. Devils Lake zone, the North Dakota coordinate system of 2022 is named, and in
+28 any land description in which it is used, it must be designated the Devils Lake
+29 zone of the North Dakota coordinate system of 2022;
+Page No. 3 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 h. Dickinson zone, the North Dakota coordinate system of 2022 is named, and in
+2 any land description in which it is used, it must be designated the Dickinson zone
+3 of the North Dakota coordinate system of 2022;
+4 i. Fargo zone, the North Dakota coordinate system of 2022 is named, and in any
+5 land description in which it is used, it must be designated the Fargo zone of the
+6 North Dakota coordinate system of 2022;
+7 j. Grand Forks zone, the North Dakota coordinate system of 2022 is named, and in
+8 any land description in which it is used, it must be designated the Grand Forks
+9 zone of the North Dakota coordinate system of 2022;
+10 k. Jamestown zone, the North Dakota coordinate system of 2022 is named, and in
+11 any land description in which it is used, it must be designated the Jamestown
+12 zone of the North Dakota coordinate system of 2022;
+13 l. Linton zone, the North Dakota coordinate system of 2022 is named, and in any
+14 land description in which it is used, it must be designated the Linton zone of the
+15 North Dakota coordinate system of 2022;
+16 m. Minot zone, the North Dakota coordinate system of 2022 is named, and in any
+17 land description in which it is used, it must be designated the Minot zone of the
+18 North Dakota coordinate system of 2022;
+19 n. New Town zone, the North Dakota coordinate system of 2022 is named, and in
+20 any land description in which it is used, it must be designated the New Town zone
+21 of the North Dakota coordinate system of 2022;
+22 o. Oakes zone, the North Dakota coordinate system of 2022 is named, and in any
+23 land description in which it is used, it must be designated the Oakes zone of the
+24 North Dakota coordinate system of 2022; and
+25 p. Williston zone, the North Dakota coordinate system of 2022 is named, and in any
+26 land description in which it is used, it must be designated the Williston zone of
+27 the North Dakota coordinate system of 2022.
+28 SECTION 3. AMENDMENT. Section 47-20.2-05 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 4 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 47-20.2-05. North Dakota coordinate system origins defined.
+2 1. For the purposes of more precisely defining the North Dakota coordinate system of
+3 1927, the following definitions by the United States coast and geodetic survey are
+4 adopted:
+5 a. The North Dakota coordinate system of 1927, north zone, is a Lambert conformal
+6 conic projection of the Clarke spheroid of 1866, having standard parallels at north
+7 latitudes, forty-seven degrees twenty-six minutes and forty-eight degrees
+8 forty-four minutes along which parallels the scale shall be exact. The origin of
+9 coordinates is at the intersection of the meridian one hundred degrees thirty
+10 minutes west of Greenwich and the parallel forty-seven degrees zero minutes
+11 north latitude. This origin is given the coordinates: x = 2,000,000 feet [609.6
+12 kilometers], and y = 0 feet [0 kilometers].
+13 b. The North Dakota coordinate system of 1927, south zone, is a Lambert
+14 conformal conic projection of the Clarke spheroid of 1866, having standard
+15 parallels at north latitudes forty-six degrees eleven minutes and forty-seven
+16 degrees twenty-nine minutes along which parallels the scale shall be exact. The
+17 origin of coordinates is at the intersection of the meridian one hundred degrees
+18 thirty minutes west of Greenwich and the parallel forty-five degrees forty minutes
+19 north latitude. This origin is given the coordinates: x = 2,000,000 feet [609.6
+20 kilometers], and y = 0 feet [0 kilometers].
+21 2. For the purposes of more precisely defining the North Dakota coordinate system of
+22 1983, the following definition by the national ocean survey/national geodetic survey is
+23 adopted:
+24 a. The North Dakota coordinate system of 1983, north zone, is a Lambert conformal
+25 conic projection of the North American datum of 1983, having standard parallels
+26 at north latitude of forty-seven degrees twenty-six minutes and forty-eight
+27 degrees forty-four minutes along which parallels the scale shall be exact. The
+28 origin of coordinates is at the intersection of the meridian one hundred degrees
+29 thirty minutes west of Greenwich and the parallel forty-seven degrees zero
+30 minutes north latitude. This origin is given the coordinates: x = 600,000.0000
+31 meters, and y = 00.0000 meters.
+Page No. 5 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 b. The North Dakota coordinate system of 1983, south zone, is a Lambert
+2 conformal conic projection of the North American datum of 1983, having standard
+3 parallels at north latitude of forty-six degrees eleven minutes and forty-seven
+4 degrees twenty-nine minutes along which parallels the scale shall be exact. The
+5 origin of coordinates is at the intersection of the meridian one hundred degrees
+6 thirty minutes west of Greenwich and the parallel forty-five degrees forty minutes
+7 north latitude. This origin is given the coordinates: x = 600,000.0000 meters, and
+8 y = 00.0000 meters.
+9 3. For the purposes of more precisely defining the statewide zone North Dakota
+10 coordinate system of 2022, the definition by the national ocean survey or national
+11 geodetic survey is the North Dakota coordinate system of 2022, statewide zone, a
+12 Lambert conformal conic projection of the North American datum of 2022, the origin of
+13 coordinates is at the intersection of the meridian one hundred fifteen minutes west of
+14 Greenwich and the parallel forty - seven degrees thirty minutes north latitude. This
+15 origin is given the coordinates: x = 838,200.0000 meters, and y = 342,900.0000
+16 meters.
+17 4. For the purposes of more precisely defining the low-distortion projections as described
+18 under subsection 3 of section 47 - 20.2 - 01, the following definition by the national ocean
+19 survey or national geodetic survey is adopted:
+20 a. The North Dakota coordinate system of 2022, Beulah zone, is a Lambert
+21 conformal conic projection of the North American datum of 2022, the origin of
+22 coordinates is at the intersection of the meridian one hundred one degrees
+23 fifty - one minutes west of Greenwich and the parallel forty - seven degrees
+24 twenty - seven minutes north latitude. This origin is given the coordinates: x =
+25 2,286,000.0000 meters, and y = 152,400.0000 meters;
+26 b. The North Dakota coordinate system of 2022, Bismarck zone, is a Lambert
+27 conformal conic projection of the North American datum of 2022, the origin of
+28 coordinates is at the intersection of the meridian one hundred degrees forty - five
+29 minutes west of Greenwich and the parallel forty - six degrees forty - eight minutes
+30 north latitude. This origin is given the coordinates: x = 3,200,400.000 meters, and
+31 y = 114,300.0000 meters;
+Page No. 6 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. The North Dakota coordinate system of 2022, Bottineau zone, is a Lambert
+2 conformal conic projection of the North American datum of 2022, the origin of
+3 coordinates is at the intersection of the meridian ninety - nine degrees forty - two
+4 minutes west of Greenwich and the parallel forty - eight degrees thirty - six minutes
+5 north latitude. This origin is given the coordinates: x = 1,371,600.0000 meters,
+6 and y = 152,400.0000 meters;
+7 d. The North Dakota coordinate system of 2022, Bowman zone, is a Lambert
+8 conformal conic projection of the North American datum of 2022, the origin of
+9 coordinates is at the intersection of the meridian one - hundred three degrees wes t
+10 of Greenwich and the parallel forty - six degrees eighteen minutes north latitude .
+11 This origin is given the coordinates: x = 3,810,000.0000 meters, and y =
+12 114,300.0000 meters;
+13 e. The North Dakota coordinate system of 2022, Cannon Ball zone, is a Lambert
+14 conformal conic projection of the North American datum of 2022, the origin of
+15 coordinates is at the intersection of the meridian one - hundred one degrees
+16 eighteen minutes west of Greenwich and the parallel forty-six degrees eighteen
+17 minutes north latitude. This origin is given the coordinates: x = 4,114,800.0000
+18 meters, and y = 114,300.0000 meters;
+19 f. The North Dakota coordinate system of 2022, Carrington zone, is a Lambert
+20 conformal conic projection of the North American datum of 2022, the origin of
+21 coordinates is at the intersection of the meridian ninety - nine degrees eighteen
+22 minutes west of Greenwich and the parallel forty - seven degrees thirty - -three
+23 minutes north latitude. This origin is given the coordinates: x = 2,590,800.000
+24 meters, and y = 152,400 meters;
+25 g. The North Dakota coordinate system of 2022, Devils Lake zone, is a Lambert
+26 conformal conic projection of the North American datum of 2022, the origin of
+27 coordinates is at the intersection of the meridian ninety-nine degrees
+28 twenty - seven minutes west of Greenwich and the parallel forty - eight degrees
+29 nine minutes north latitude. This origin is given the coordinates: x =
+30 1,676,400.0000 meters, and y = 152,400.0000 meters;
+Page No. 7 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 h. The North Dakota coordinate system of 2022, Dickinson zone, is a Lambert
+2 conformal conic projection of the North American datum of 2022, the origin of
+3 coordinates is at the intersection of the meridian one hundred three degrees
+4 three minutes west of Greenwich and the parallel forty - seven degrees north
+5 latitude. This origin is given the coordinates: x = 2,895,600.0000 meters, and y =
+6 114,300.0000 meters;
+7 i. The North Dakota coordinate system of 2022, Fargo zone, is a transverse
+8 mercator projection of the North American datum of 2022, the origin of
+9 coordinates is at the intersection of the meridian ninety - seven degrees twelve
+10 minutes west of Greenwich and the parallel forty - five degrees forty - five minutes
+11 north latitude. This origin is given the coordinates: x = 4,991,100.0000 meters,
+12 and y = 00.0000 meters;
+13 j. The North Dakota coordinate system of 2022, Grand Forks zone, is a transverse
+14 mercator projection of the North American datum of 2022, the origin of
+15 coordinates is at the intersection of the meridian ninety - seven degrees
+16 twenty - four minutes west of Greenwich and the parallel forty - six degrees thirty
+17 minutes north latitude. This origin is given the coordinates: x = 1,981,200.0000
+18 meters, and y = 00.0000 meters;
+19 k. The North Dakota coordinate system of 2022, Jamestown zone, is a Lambert
+20 conformal conic projection of the North American datum of 2022, the origin of
+21 coordinates is at the intersection of the meridian ninety - eight degrees thirty - six
+22 minutes west of Greenwich and the parallel forty - six degrees fifty - seven minutes
+23 north latitude. This origin is given the coordinates: x = 3,505,200.0000 meters,
+24 and y = 114,300.0000 meters;
+25 l. The North Dakota coordinate system of 2022, Linton zone, is a Lambert
+26 conformal conic projection of the North American datum of 2022, the origin of
+27 coordinates is at the intersection of the meridian ninety - nine degrees fifty - one
+28 minutes west of Greenwich and the parallel forty - six degrees eighteen minutes
+29 north latitude. This origin is given the coordinates: x = 4,381,500.0000 meters,
+30 and y = 114,300.0000 meters;
+Page No. 8 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 m. The North Dakota coordinate system of 2022, Minot zone, is a transverse
+2 mercator projection of the North American datum of 2022, the origin of
+3 coordinates is at the intersection of the meridian one hundred one degrees
+4 twenty - seven minutes west of Greenwich and the parallel forty - six degrees thirty
+5 minutes north latitude. This origin is given the coordinates: x = 1,104,900.0000
+6 meters, and y = 00.0000 meters;
+7 n. The North Dakota coordinate system of 2022, New Town zone, is a transverse
+8 mercator projection of the North American datum of 2022, the origin of
+9 coordinates is at the intersection of the meridian one hundred two degrees
+10 twenty - seven minutes west of Greenwich and the parallel forty - six degrees thirty
+11 minutes north latitude. This origin is given the coordinates: x = 762,000.0000
+12 meters, and y = 00.0000 meters;
+13 o. The North Dakota coordinate system of 2022, Oakes zone, is a transverse
+14 mercator projection of the North American datum of 2022, the origin of
+15 coordinates is at the intersection of the meridian ninety - eight degrees eighteen
+16 minutes west of Greenwich and the parallel forty - five degrees forty - five minutes
+17 north latitude. This origin is given the coordinates: x = 4,686,300.0000 meters,
+18 and y = 00.0000 meters; and
+19 p. The North Dakota coordinate system of 2022, Williston zone, is a transverse
+20 mercator projection of the North American datum of 2022, the origin of
+21 coordinates is at the intersection of the meridian one hundred three degrees
+22 twenty - seven minutes west of Greenwich and the parallel forty - six degrees thirty
+23 minutes north latitude. This origin is given the coordinates: x = 457,200.0000
+24 meters, and y = 00.0000 meters.
+25 SECTION 4. AMENDMENT. Section 47-20.2-06 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 47-20.2-06. North Dakota coordinate system - Use of term.
+28 The use of the North Dakota coordinate system of 1927 north zone or south zone or the
+29 North Dakota coordinate system of 1983 north zone or south zone, the North Dakota statewide
+30 coordinate system of 2022, or the North Dakota low - distortion coordinate system of 2022 on
+31 any map, report of survey, or other document must be limited to coordinates based on the North
+Page No. 9 25.1222.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Dakota coordinate systems as defined in this chapter. The map, report, or document must
+2 include a statement describing the standard of accuracy, as defined by the national ocean
+3 survey/national geodetic survey, maintained in developing the coordinates shown therein. The
+4 coordinates must be established in conformity with these standards:
+5 1. No coordinates based on the North Dakota coordinate system, purporting to define the
+6 position of a point on a land boundary, may be presented to be recorded in any public
+7 records or deed records unless the point is connected to a triangulation or traverse
+8 stationthe national spatial reference system and established in conformity with the
+9 standards prescribed in this chapter.
+10 2. Coordinate values used in land descriptions under this section must be certified by a
+11 duly registered professional land surveyor under the laws of this state.
+Page No. 10 25.1222.01000
+
+[DELETED: .T.a.T.b.T12]
+[DELETED: .F. .B.B.B.B.C.C.D.D.F.G.J.L.M.N.O.W.A22]
+[DELETED: .A.A.B.B.B.B.C.C.D32]
+[DELETED: .D.F.G.J.L.M.N.O.W42]
+[DELETED: .F.T.T.F.T52]
+[DELETED: .T.F.F.T.T62]
+[DELETED: .T.T.T.T.T72]
+[DELETED: .T.T.T.T.T82]
+[DELETED: .T.T.T.T92]
+[DELETED: .N.C02]

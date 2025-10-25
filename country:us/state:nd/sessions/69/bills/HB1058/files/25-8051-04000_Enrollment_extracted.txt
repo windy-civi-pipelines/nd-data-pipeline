@@ -1,0 +1,730 @@
+Title: In Regular Session Commencing Tuesday, January 7, 2025
+Official Title: In Regular Session Commencing Tuesday, January 7, 2025
+Number of Sections: 62
+Source: versions - Enrollment
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+Sixty-ninth Legislative Assembly of North Dakota
+HOUSE BILL NO. 1058
+(Energy and Natural Resources Committee)
+(At the request of the Department of Environmental Quality)
+AN ACT to create and enact a new chapter to title 23.1 of the North Dakota Century Code, relating to
+the regulation of aboveground storage tanks; to amend and reenact section 23.1-12-02 and
+subsection 7 of section 23.1-12-17 of the North Dakota Century Code, relating to the
+department of environmental quality and tank registration fees; and to provide a penalty.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+
+Section 2:
+SECTION 1. A new chapter to title 23.1 of the North Dakota Century Code is created and enacted
+as follows:
+Definitions.
+For purposes of this chapter:
+
+Section 3:
+1. "Aboveground storage tank" means any one or a combination of aboveground containers,
+vessels, or enclosures, including associated piping or appurtenances used to store an
+accumulation of refined petroleum products that is not an underground storage tank as
+defined in chapter 23.1 - 04. The term does not include a :
+a. Farm or residential tank used for storing motor fuel for noncommercial purposes.
+b. Tank used for storing heating oil for consumptive use on the premises where stored.
+c. Septic tank.
+d. Pipeline facility, including gathering lines and breakout tanks, regulated under:
+(1) The Natural Gas Pipeline Safety Act of 1968 [Pub. L. 90-481].
+(2) The Hazardous Liquid Pipeline Safety Act of 1979 [Pub. L. 96-129, 49 U.S.C. 60101
+et seq.].
+(3) An interstate pipeline facility regulated under state laws comparable to the
+provisions of law in paragraph 1 or 2.
+(4) Title 49, Code of Federal Regulations, part 195.
+e. Surface impoundment, pit, pond, lagoon, storm water collection system, or wastewater
+collection system.
+f. Flow-through process tank or vapor recovery unit tank.
+g. Liquid trap or associated gathering lines directly related to oil or gas production and
+gathering operations.
+h. Tank owned by the federal government.
+i. Tank used for the transportation of petroleum.
+j. Tank with a capacity under one thousand three hundred twenty gallons [4996.73 liters ]
+used to store lubricating oil.
+H. B. NO. 1058 - PAGE 2
+k. Tank used to store ethanol or biodiesel for wholesale purposes with a capacity greater
+than twenty thousand gallons [75708.24 liters].
+l. Tank that is located at or is part of a terminal, midstream facility, petrochemical plant,
+syngas plant, fertilizer plant, petroleum or renewable fuels refinery, electric energy
+conversion facility, electric transmission related facility, and associated transloading
+facility.
+m. Tank, liquid trap, gathering line, or other facility associated with exploration, development,
+or production of oil, gas, or geothermal resources controlled under title 38.
+n. Asphalt tank.
+o. Storage tank situated in an underground area, including a basement, cellar, mine, mine
+drift, mine shaft, or mine tunnel, if the storage tank is situated upon or above the surface
+of the floor.
+p. Propane storage tank.
+q. Tank used to fuel or service rail locomotives, rail equipment, or coal mining equipment.
+r. Portable tank.
+s. Tank under subdivision d or l of subsection 13 of section 23.1 - 12 - 02, unless the owner or
+operator registers the tank and is eligible for reimbursement under the petroleum release
+compensation fund.
+
+Section 4:
+2. "Department" means the department of environmental quality.
+
+Section 5:
+3. "Disposal" means the discharge, deposit, injection, dumping, spilling, leaking, or placing of any
+solid waste or hazardous waste into or on any land or water so the solid waste or hazardous
+waste or any hazardous constituent of the waste may enter the environment or be emitted into
+the air or discharged into any waters, including ground water.
+
+Section 6:
+4. "Electric energy conversion facility" means a plant, addition, or combination of a plant and
+addition, designed for or capable of wind energy generation, or any means of energy
+generation, and the plant associated facilities.
+
+Section 7:
+5. "Electric transmission related facility" means an electric transmission line and associated
+facilities designed for transmission of generated electricity, or a facility used for utility - scale
+storage of electricity and connected or adjacent to an electric transmission facility or facility
+controlled by or serving a utility with electric energy transmission, and distribution equipment
+and materials.
+
+Section 8:
+6. "Facility" means all contiguous land and structures, other appurtenances, and improvements
+on the land used for storing a regulated substance. A facility may consist of several contiguous
+storage or operational units.
+
+Section 9:
+7. "Midstream facility" means a facility that receives petroleum products by pipeline or by truck.
+The term does not include a retailer or end user.
+
+Section 10:
+8. "Operator" means a person in control of, or having responsibility for, the daily operation of an
+aboveground storage tank.
+
+Section 11:
+9. "Owner" means a person who holds title to, controls, or possesses an interest in the
+aboveground storage tank.
+
+Section 12:
+10. "Petroleum" means:
+H. B. NO. 1058 - PAGE 3
+a. Gasoline or petroleum products as defined in chapter 23.1 - 13 ;
+b. Constituents of gasoline or fuel oil under subdivision a; and
+c. Oil sludge and oil refuse.
+
+Section 13:
+11. "Portable tank" means a storage tank and storage tank piping or wiring that is not stationary or
+affixed, including a tank on skids.
+
+Section 14:
+12. "Refined petroleum products" means gasoline, kerosene, heating oils, diesel fuels, and other
+compounds as defined by the department.
+
+Section 15:
+13. "Release" means any spilling, leaking, emitting, discharging, escaping, leaching, or disposing
+from an aboveground storage tank into the environment, including ground water, surface
+water, or subsurface soils.
+
+Section 16:
+14. "Terminal" means a refined petroleum product storage and distribution facility that is supplied
+directly by pipeline and from which the refined petroleum product may be removed from the
+rack.
+
+Section 17:
+15. "Utility" means a person engaged in and controlling electric generation, transmission of
+electric energy, or the transmission of water from or to any electric energy conversion facility.
+Powers and duties of the department.
+The department shall:
+
+Section 18:
+1. Administer and enforce this chapter.
+
+Section 19:
+2. Administer aboveground storage tank programs under this chapter.
+
+Section 20:
+3. Adopt, modify, repeal, and enforce rules governing the aboveground storage tanks.
+
+Section 21:
+4. Enter agreements with other local, state, or federal agencies regarding responsibilities for
+regulating aboveground storage tanks to promote consistency in enforcement and avoid
+duplication in regulation.
+Aboveground storage tank regulations.
+The department shall adopt rules:
+
+Section 22:
+1. For maintaining a leak detection method or combination of methods designed to identify
+releases in a manner consistent with the protection of human health and the environment.
+
+Section 23:
+2. For maintaining records of any monitoring of a leak detection system, inventory control
+system, or tank testing system.
+
+Section 24:
+3. For reporting of any releases and corrective action taken in response to a release from an
+aboveground storage tank.
+
+Section 25:
+4. For taking corrective action in response to a release from an aboveground storage tank.
+
+Section 26:
+5. For the closure of an aboveground storage tank to prevent a release of regulated substances
+into the environment.
+
+Section 27:
+6. For designation of an aboveground tank as ineligible for delivery.
+
+Section 28:
+7. For maintaining evidence of financial responsibility for taking corrective action and
+compensating third parties for bodily injury and property damage caused by sudden and
+nonsudden accidental releases arising from operating an aboveground storage tank.
+H. B. NO. 1058 - PAGE 4
+
+Section 29:
+8. Establishing standards for construction and performance of new aboveground storage tanks.
+
+Section 30:
+9. For notifying the department or designated local agency of the existence of any operational or
+nonoperational aboveground storage tank.
+
+Section 31:
+10. For a permit fee system to own, install, or operate an aboveground storage tank.
+Fees - Deposit in operating fund.
+The department by rule may provide for the payment and collection of reasonable fees for the
+issuance of permits for registering, licensing, or permitting aboveground storage tanks. The permit fees
+must be based on the anticipated cost of filing and processing the application, taking action on the
+requested permit, and conducting a monitoring and inspection program to determine compliance or
+noncompliance with the permit. Any moneys collected for permit licensing fees must be deposited in the
+department operating fund in the state treasury and any expenditure from the fund is subject to
+appropriation by the legislative assembly.
+Inspections - Right of entry.
+To develop or enforce any rule authorized by this chapter or enforce a requirement of this chapter,
+any duly authorized representative or employee of the department may, upon presentation of
+appropriate credentials, at any reasonable time:
+
+Section 32:
+1. Enter any place, facility, or site at which an aboveground storage tank is located.
+
+Section 33:
+2. Inspect and obtain samples of any substance the department has reason to believe may be
+regulated by this chapter.
+
+Section 34:
+3. Inspect and copy any records, reports, information, or test results relating to the purposes of
+this chapter.
+Imminent hazard.
+Upon receipt of information that a release from an aboveground storage tank may present an
+imminent and substantial endangerment to health or the environment, the department may take
+emergency action as necessary to protect health or the environment.
+Enforcement penalties.
+
+Section 35:
+1. If the department finds a person is in violation of a permit, rule, standard, or requirement of
+this chapter, the department may issue an order requiring the person to comply with the
+permit, rule, standard, or requirement, and the department may bring an action for a civil
+penalty, including an action for injunctive relief. An action under this chapter must be brought
+in the district court for the county in which the violation occurred or in which the party in
+violation has the party's residence or principal office.
+
+Section 36:
+2. A person that violates a provision of this chapter or any rule, standard, or permit condition
+adopted under this chapter is subject to a civil penalty not to exceed twelve thousand five
+hundred dollars per day of violation. Each day of noncompliance constitutes a separate
+violation for purposes of penalty assessments.
+
+Section 37:
+3. A person that knowingly makes a false statement or representation in documentation required
+by this chapter is subject to a civil penalty not to exceed twelve thousand five hundred dollars
+per violation.
+
+Section 38:
+4. An administrative action brought under this chapter must be conducted in accordance with
+chapter 28 - 32 .
+H. B. NO. 1058 - PAGE 5
+
+Section 39:
+SECTION 2. AMENDMENT. Section 23.1-12-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+
+Section 40:
+23.1-12-02. Definitions.
+As used in this chapter, unless the context otherwise requires:
+
+Section 41:
+1. "Actually incurred" means, in the case of corrective action expenditures, the owner, operator,
+landowner, an insurer, or a contractor hired by the owner, operator, or the landlord has
+expended time and materials, and only that person is receiving reimbursement from the fund.
+
+Section 42:
+2. "Board" means the petroleum release compensation board.
+
+Section 43:
+3. "Corrective action" means an action required by the department to minimize, contain,
+eliminate, remediate, mitigate, or clean up a release, including any remedial emergency
+measures. The term does not include the repair or replacement of equipment or
+preconstructed property.
+
+Section 44:
+4. "Dealer" means a person licensed by the tax commissioner to sell motor vehicle fuel or special
+fuels within the state.
+
+Section 45:
+5. "Department" means the department of environmental quality.
+
+Section 46:
+6. "Electric energy conversion facility" means a plant, addition, or combination of a plant and
+addition, designed for or capable of wind energy generation, or any means of energy
+generation, and the plant associated facilities.
+
+Section 47:
+7. "Electric transmission related facility" means an electric transmission line and associated
+facilities designed for transmission of generated electricity, or a facility used for utility - scale
+storage of electricity and connected or adjacent to an electric transmission facility or facility
+controlled by or serving a utility with electric energy transmission, and distribution equipment
+and materials.
+
+Section 48:
+8. "Fund" means the petroleum release compensation fund.
+
+Section 49:
+7.9. "Location" means a physical address or site that has contiguous properties. Noncontiguous
+properties within a municipality or other governmental jurisdiction are considered separate
+locations.
+
+Section 50:
+10. "Midstream facility" means a facility that receives petroleum products by pipeline or by truck.
+The term does not include a retailer or end user.
+
+Section 51:
+8.11. "Operator" means a person in control of, or having responsibility for, the daily operation of a
+tank under this chapter.
+
+Section 52:
+9.12. "Owner" means a person who holds title to, controls, or possesses an interest in the tank
+before the discontinuation of its use.
+
+Section 53:
+10.13. "Petroleum" means any of the following:
+a. Gasoline and petroleum products as defined in chapter 23.1-13.
+b. Constituents of gasoline and fuel oil under subdivision a.
+c. Oil sludge and oil refuse.
+
+Section 54:
+11.14. "Portable tank" means a storage tank along with its piping and wiring that is not stationary or
+affixed, including a tank that is on skids.
+H. B. NO. 1058 - PAGE 6
+
+Section 55:
+12.15. "Release" means any unintentional spilling, leaking, emitting, discharging, escaping, leaching,
+or disposing of petroleum from a tank into the environment whether occurring before or after
+the effective date of this chapter, but does not include discharges or designed venting allowed
+under federal or state law or under adopted rules.
+
+Section 56:
+13.16. "Tank" means any one or a combination of containers, vessels, and enclosures, whether
+aboveground or underground, including associated piping or appurtenances used to contain
+an accumulation of petroleum, ethanol, or biodiesel. The term does not include:
+a. Tanks owned by the federal government.
+b. Tanks used for the transportation of petroleum.
+c. A pipeline facility, including gathering lines and breakout tanks:
+(1) Regulated under the Natural Gas Pipeline Safety Act of 1968.
+(2) Regulated under the Hazardous Liquid Pipeline Safety Act of 1979.
+(3) Regulated under state laws comparable to the provisions of law in paragraph 1 or 2,
+if the facility is an interstate pipeline facility.
+(4) Regulated under title 49, Code of Federal Regulations, part 195.
+d. An underground farm or residential tank with a capacity of one thousand one hundred
+gallons [4163.94 liters] or less or an aboveground farm or residential tank of any capacity
+used for storing motor fuel for noncommercial purposes. However, the owner of an
+aboveground farm or residential tank may, upon application, register the tank and be
+eligible for reimbursement under this chapter.
+e. A tank used for storing heating oil for consumptive use on the premises where stored.
+f. A surface impoundment, pit, pond, or lagoon, storm water collection system, or
+wastewater collection system.
+g. A flowthrough process tank or vapor recovery unit tank.
+h. A tank, liquid trap, or associated gathering lines directly related to oil or gas, or other
+facility associated with the exploration, development, or production or gathering
+operationsof oil, gas, or geothermal resources under title 38.
+i. A storage tank situated in an underground area such as a basement, cellar, mine
+working, drift, shaft, or tunnel, if the storage tank is situated upon or above the surface of
+the floor.
+j. A tank used for the storage of propane.
+k. A tank used to fuel or service rail locomotives, rail equipment, or surface coal mining
+equipment.
+l. An aboveground tank used to feed diesel fuel generators. Upon application, the owner or
+operator of an aboveground tank used to feed diesel fuel generators may register the
+tank and is eligible for reimbursement under this chapter.
+m. A portable tank.
+n. A tank with a capacity under one thousand three hundred twenty gallons [4996.728 liters]
+used to store lubricating oil.
+H. B. NO. 1058 - PAGE 7
+o. A tank used to store ethanol or biodiesel for wholesale purposes with a capacity of
+greater than twenty thousand gallons [75708.24 liters].
+p. A tank that is located at or is part of a terminal, midstream facility, petrochemical plant,
+syngas plant, fertilizer plant, petroleum or renewable fuels refinery, electric energy
+conversion facility, or electric transmission related facility, including associated
+transloading facility.
+q. An asphalt tank.
+r. A septic tank.
+
+Section 57:
+14.17. "Tank integrity test" means a test to determine that a tank is sound and not leaking. For an
+underground tank, the term means a certified third-party test that meets environmental
+protection agency leak detection requirements. For an aboveground tank, the term means a
+test conducted according to steel tank institute SP 001 or American petroleum institute 653.
+
+Section 58:
+18. "Terminal" means a refined petroleum product storage and distribution facility that is supplied
+directly by pipeline and from which the refined petroleum product may be removed from the
+rack.
+
+Section 59:
+15.19. "Third party" means a person who is damaged by the act of a registered owner, operator, or
+dealer requiring corrective action, or a person who suffers bodily injury or property damage
+caused by a petroleum release.
+
+Section 60:
+20. "Utility" means a person engaged in and controlling electric generation, the transmission of
+electric energy, or the transmission of water from or to any electric energy conversion facility.
+
+Section 61:
+SECTION 3. AMENDMENT. Subsection 7 of section 23.1-12-17 of the North Dakota Century Code
+is amended and reenacted as follows:
+
+Section 62:
+7. If a registration payment is not received within sixty days of July firstthe date required under
+rules adopted by the department, a late fee of twenty-five dollars per tank per month must be
+imposed on the tank owner or operator.
+H. B. NO. 1058 - PAGE 8
+____________________________ ____________________________
+Speaker of the House President of the Senate
+____________________________ ____________________________
+Chief Clerk of the House Secretary of the Senate
+This certifies that the within bill originated in the House of Representatives of the Sixty-ninth Legislative
+Assembly of North Dakota and is known on the records of that body as House Bill No. 1058.
+House Vote: Yeas 66 Nays 24 Absent 4
+Senate Vote: Yeas 45 Nays 1 Absent 1
+____________________________
+Chief Clerk of the House
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+____________________________
+Governor
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+____________________________
+Secretary of State
+[DELETED: 7 of sn 27 of te Nh Da Cy C, rg to t." s.F.T.S.P)T) )An ie pe fy rd ur se ls ce to t)T.S.F.L.T.T. ]
+[DELETED: .T.T, c .T.A.S.P.T.P. ."."."."."."."."."]
+[DELETED: . .C.O.".".".".".A.A.A.E.F.F.F.F.F.F.Fr mg ee of fl ry fr tg ce an a]
+[DELETED: .E.F.Fy dy ad re or ee of te dt m, un pn o.E.I.I.I.A.A.A]
+[DELETED: ."."."e a" ms an an rd by te dt to m, c. Te tm ds nt ie te rr or rt of et o.".".".".".".".".".".G.C.O."]
+[DELETED: .".".T.T.A)R)R)R)R.A.A.A se i, p, p,  l, sm wr cn s, o.A.Ay ad wh te e, d, o pn r g.A.A.A.A.A.A]
+[DELETED: .A.An f, or ec tn rd f, ig a.A.A.".".".".I]
+[DELETED: __eP__eS:Y6N4A:Y5N1A]
+
+
+================================================================================
+
+Raw Text:
+Sixty-ninth Legislative Assembly of North Dakota
+In Regular Session Commencing Tuesday, January 7, 2025
+HOUSE BILL NO. 1058
+(Energy and Natural Resources Committee)
+(At the request of the Department of Environmental Quality)
+AN ACT to create and enact a new chapter to title 23.1 of the North Dakota Century Code, relating to
+the regulation of aboveground storage tanks; to amend and reenact section 23.1-12-02 and
+subsection 7 of section 23.1-12-17 of the North Dakota Century Code, relating to the
+department of environmental quality and tank registration fees; and to provide a penalty.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+SECTION 1. A new chapter to title 23.1 of the North Dakota Century Code is created and enacted
+as follows:
+Definitions.
+For purposes of this chapter:
+1. "Aboveground storage tank" means any one or a combination of aboveground containers,
+vessels, or enclosures, including associated piping or appurtenances used to store an
+accumulation of refined petroleum products that is not an underground storage tank as
+defined in chapter 23.1 - 04. The term does not include a :
+a. Farm or residential tank used for storing motor fuel for noncommercial purposes.
+b. Tank used for storing heating oil for consumptive use on the premises where stored.
+c. Septic tank.
+d. Pipeline facility, including gathering lines and breakout tanks, regulated under:
+(1) The Natural Gas Pipeline Safety Act of 1968 [Pub. L. 90-481].
+(2) The Hazardous Liquid Pipeline Safety Act of 1979 [Pub. L. 96-129, 49 U.S.C. 60101
+et seq.].
+(3) An interstate pipeline facility regulated under state laws comparable to the
+provisions of law in paragraph 1 or 2.
+(4) Title 49, Code of Federal Regulations, part 195.
+e. Surface impoundment, pit, pond, lagoon, storm water collection system, or wastewater
+collection system.
+f. Flow-through process tank or vapor recovery unit tank.
+g. Liquid trap or associated gathering lines directly related to oil or gas production and
+gathering operations.
+h. Tank owned by the federal government.
+i. Tank used for the transportation of petroleum.
+j. Tank with a capacity under one thousand three hundred twenty gallons [4996.73 liters ]
+used to store lubricating oil.
+
+H. B. NO. 1058 - PAGE 2
+k. Tank used to store ethanol or biodiesel for wholesale purposes with a capacity greater
+than twenty thousand gallons [75708.24 liters].
+l. Tank that is located at or is part of a terminal, midstream facility, petrochemical plant,
+syngas plant, fertilizer plant, petroleum or renewable fuels refinery, electric energy
+conversion facility, electric transmission related facility, and associated transloading
+facility.
+m. Tank, liquid trap, gathering line, or other facility associated with exploration, development,
+or production of oil, gas, or geothermal resources controlled under title 38.
+n. Asphalt tank.
+o. Storage tank situated in an underground area, including a basement, cellar, mine, mine
+drift, mine shaft, or mine tunnel, if the storage tank is situated upon or above the surface
+of the floor.
+p. Propane storage tank.
+q. Tank used to fuel or service rail locomotives, rail equipment, or coal mining equipment.
+r. Portable tank.
+s. Tank under subdivision d or l of subsection 13 of section 23.1 - 12 - 02, unless the owner or
+operator registers the tank and is eligible for reimbursement under the petroleum release
+compensation fund.
+2. "Department" means the department of environmental quality.
+3. "Disposal" means the discharge, deposit, injection, dumping, spilling, leaking, or placing of any
+solid waste or hazardous waste into or on any land or water so the solid waste or hazardous
+waste or any hazardous constituent of the waste may enter the environment or be emitted into
+the air or discharged into any waters, including ground water.
+4. "Electric energy conversion facility" means a plant, addition, or combination of a plant and
+addition, designed for or capable of wind energy generation, or any means of energy
+generation, and the plant associated facilities.
+5. "Electric transmission related facility" means an electric transmission line and associated
+facilities designed for transmission of generated electricity, or a facility used for utility - scale
+storage of electricity and connected or adjacent to an electric transmission facility or facility
+controlled by or serving a utility with electric energy transmission, and distribution equipment
+and materials.
+6. "Facility" means all contiguous land and structures, other appurtenances, and improvements
+on the land used for storing a regulated substance. A facility may consist of several contiguous
+storage or operational units.
+7. "Midstream facility" means a facility that receives petroleum products by pipeline or by truck.
+The term does not include a retailer or end user.
+8. "Operator" means a person in control of, or having responsibility for, the daily operation of an
+aboveground storage tank.
+9. "Owner" means a person who holds title to, controls, or possesses an interest in the
+aboveground storage tank.
+10. "Petroleum" means:
+
+H. B. NO. 1058 - PAGE 3
+a. Gasoline or petroleum products as defined in chapter 23.1 - 13 ;
+b. Constituents of gasoline or fuel oil under subdivision a; and
+c. Oil sludge and oil refuse.
+11. "Portable tank" means a storage tank and storage tank piping or wiring that is not stationary or
+affixed, including a tank on skids.
+12. "Refined petroleum products" means gasoline, kerosene, heating oils, diesel fuels, and other
+compounds as defined by the department.
+13. "Release" means any spilling, leaking, emitting, discharging, escaping, leaching, or disposing
+from an aboveground storage tank into the environment, including ground water, surface
+water, or subsurface soils.
+14. "Terminal" means a refined petroleum product storage and distribution facility that is supplied
+directly by pipeline and from which the refined petroleum product may be removed from the
+rack.
+15. "Utility" means a person engaged in and controlling electric generation, transmission of
+electric energy, or the transmission of water from or to any electric energy conversion facility.
+Powers and duties of the department.
+The department shall:
+1. Administer and enforce this chapter.
+2. Administer aboveground storage tank programs under this chapter.
+3. Adopt, modify, repeal, and enforce rules governing the aboveground storage tanks.
+4. Enter agreements with other local, state, or federal agencies regarding responsibilities for
+regulating aboveground storage tanks to promote consistency in enforcement and avoid
+duplication in regulation.
+Aboveground storage tank regulations.
+The department shall adopt rules:
+1. For maintaining a leak detection method or combination of methods designed to identify
+releases in a manner consistent with the protection of human health and the environment.
+2. For maintaining records of any monitoring of a leak detection system, inventory control
+system, or tank testing system.
+3. For reporting of any releases and corrective action taken in response to a release from an
+aboveground storage tank.
+4. For taking corrective action in response to a release from an aboveground storage tank.
+5. For the closure of an aboveground storage tank to prevent a release of regulated substances
+into the environment.
+6. For designation of an aboveground tank as ineligible for delivery.
+7. For maintaining evidence of financial responsibility for taking corrective action and
+compensating third parties for bodily injury and property damage caused by sudden and
+nonsudden accidental releases arising from operating an aboveground storage tank.
+
+H. B. NO. 1058 - PAGE 4
+8. Establishing standards for construction and performance of new aboveground storage tanks.
+9. For notifying the department or designated local agency of the existence of any operational or
+nonoperational aboveground storage tank.
+10. For a permit fee system to own, install, or operate an aboveground storage tank.
+Fees - Deposit in operating fund.
+The department by rule may provide for the payment and collection of reasonable fees for the
+issuance of permits for registering, licensing, or permitting aboveground storage tanks. The permit fees
+must be based on the anticipated cost of filing and processing the application, taking action on the
+requested permit, and conducting a monitoring and inspection program to determine compliance or
+noncompliance with the permit. Any moneys collected for permit licensing fees must be deposited in the
+department operating fund in the state treasury and any expenditure from the fund is subject to
+appropriation by the legislative assembly.
+Inspections - Right of entry.
+To develop or enforce any rule authorized by this chapter or enforce a requirement of this chapter,
+any duly authorized representative or employee of the department may, upon presentation of
+appropriate credentials, at any reasonable time:
+1. Enter any place, facility, or site at which an aboveground storage tank is located.
+2. Inspect and obtain samples of any substance the department has reason to believe may be
+regulated by this chapter.
+3. Inspect and copy any records, reports, information, or test results relating to the purposes of
+this chapter.
+Imminent hazard.
+Upon receipt of information that a release from an aboveground storage tank may present an
+imminent and substantial endangerment to health or the environment, the department may take
+emergency action as necessary to protect health or the environment.
+Enforcement penalties.
+1. If the department finds a person is in violation of a permit, rule, standard, or requirement of
+this chapter, the department may issue an order requiring the person to comply with the
+permit, rule, standard, or requirement, and the department may bring an action for a civil
+penalty, including an action for injunctive relief. An action under this chapter must be brought
+in the district court for the county in which the violation occurred or in which the party in
+violation has the party's residence or principal office.
+2. A person that violates a provision of this chapter or any rule, standard, or permit condition
+adopted under this chapter is subject to a civil penalty not to exceed twelve thousand five
+hundred dollars per day of violation. Each day of noncompliance constitutes a separate
+violation for purposes of penalty assessments.
+3. A person that knowingly makes a false statement or representation in documentation required
+by this chapter is subject to a civil penalty not to exceed twelve thousand five hundred dollars
+per violation.
+4. An administrative action brought under this chapter must be conducted in accordance with
+chapter 28 - 32 .
+
+H. B. NO. 1058 - PAGE 5
+SECTION 2. AMENDMENT. Section 23.1-12-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+23.1-12-02. Definitions.
+As used in this chapter, unless the context otherwise requires:
+1. "Actually incurred" means, in the case of corrective action expenditures, the owner, operator,
+landowner, an insurer, or a contractor hired by the owner, operator, or the landlord has
+expended time and materials, and only that person is receiving reimbursement from the fund.
+2. "Board" means the petroleum release compensation board.
+3. "Corrective action" means an action required by the department to minimize, contain,
+eliminate, remediate, mitigate, or clean up a release, including any remedial emergency
+measures. The term does not include the repair or replacement of equipment or
+preconstructed property.
+4. "Dealer" means a person licensed by the tax commissioner to sell motor vehicle fuel or special
+fuels within the state.
+5. "Department" means the department of environmental quality.
+6. "Electric energy conversion facility" means a plant, addition, or combination of a plant and
+addition, designed for or capable of wind energy generation, or any means of energy
+generation, and the plant associated facilities.
+7. "Electric transmission related facility" means an electric transmission line and associated
+facilities designed for transmission of generated electricity, or a facility used for utility - scale
+storage of electricity and connected or adjacent to an electric transmission facility or facility
+controlled by or serving a utility with electric energy transmission, and distribution equipment
+and materials.
+8. "Fund" means the petroleum release compensation fund.
+7.9. "Location" means a physical address or site that has contiguous properties. Noncontiguous
+properties within a municipality or other governmental jurisdiction are considered separate
+locations.
+10. "Midstream facility" means a facility that receives petroleum products by pipeline or by truck.
+The term does not include a retailer or end user.
+8.11. "Operator" means a person in control of, or having responsibility for, the daily operation of a
+tank under this chapter.
+9.12. "Owner" means a person who holds title to, controls, or possesses an interest in the tank
+before the discontinuation of its use.
+10.13. "Petroleum" means any of the following:
+a. Gasoline and petroleum products as defined in chapter 23.1-13.
+b. Constituents of gasoline and fuel oil under subdivision a.
+c. Oil sludge and oil refuse.
+11.14. "Portable tank" means a storage tank along with its piping and wiring that is not stationary or
+affixed, including a tank that is on skids.
+
+H. B. NO. 1058 - PAGE 6
+12.15. "Release" means any unintentional spilling, leaking, emitting, discharging, escaping, leaching,
+or disposing of petroleum from a tank into the environment whether occurring before or after
+the effective date of this chapter, but does not include discharges or designed venting allowed
+under federal or state law or under adopted rules.
+13.16. "Tank" means any one or a combination of containers, vessels, and enclosures, whether
+aboveground or underground, including associated piping or appurtenances used to contain
+an accumulation of petroleum, ethanol, or biodiesel. The term does not include:
+a. Tanks owned by the federal government.
+b. Tanks used for the transportation of petroleum.
+c. A pipeline facility, including gathering lines and breakout tanks:
+(1) Regulated under the Natural Gas Pipeline Safety Act of 1968.
+(2) Regulated under the Hazardous Liquid Pipeline Safety Act of 1979.
+(3) Regulated under state laws comparable to the provisions of law in paragraph 1 or 2,
+if the facility is an interstate pipeline facility.
+(4) Regulated under title 49, Code of Federal Regulations, part 195.
+d. An underground farm or residential tank with a capacity of one thousand one hundred
+gallons [4163.94 liters] or less or an aboveground farm or residential tank of any capacity
+used for storing motor fuel for noncommercial purposes. However, the owner of an
+aboveground farm or residential tank may, upon application, register the tank and be
+eligible for reimbursement under this chapter.
+e. A tank used for storing heating oil for consumptive use on the premises where stored.
+f. A surface impoundment, pit, pond, or lagoon, storm water collection system, or
+wastewater collection system.
+g. A flowthrough process tank or vapor recovery unit tank.
+h. A tank, liquid trap, or associated gathering lines directly related to oil or gas, or other
+facility associated with the exploration, development, or production or gathering
+operationsof oil, gas, or geothermal resources under title 38.
+i. A storage tank situated in an underground area such as a basement, cellar, mine
+working, drift, shaft, or tunnel, if the storage tank is situated upon or above the surface of
+the floor.
+j. A tank used for the storage of propane.
+k. A tank used to fuel or service rail locomotives, rail equipment, or surface coal mining
+equipment.
+l. An aboveground tank used to feed diesel fuel generators. Upon application, the owner or
+operator of an aboveground tank used to feed diesel fuel generators may register the
+tank and is eligible for reimbursement under this chapter.
+m. A portable tank.
+n. A tank with a capacity under one thousand three hundred twenty gallons [4996.728 liters]
+used to store lubricating oil.
+
+H. B. NO. 1058 - PAGE 7
+o. A tank used to store ethanol or biodiesel for wholesale purposes with a capacity of
+greater than twenty thousand gallons [75708.24 liters].
+p. A tank that is located at or is part of a terminal, midstream facility, petrochemical plant,
+syngas plant, fertilizer plant, petroleum or renewable fuels refinery, electric energy
+conversion facility, or electric transmission related facility, including associated
+transloading facility.
+q. An asphalt tank.
+r. A septic tank.
+14.17. "Tank integrity test" means a test to determine that a tank is sound and not leaking. For an
+underground tank, the term means a certified third-party test that meets environmental
+protection agency leak detection requirements. For an aboveground tank, the term means a
+test conducted according to steel tank institute SP 001 or American petroleum institute 653.
+18. "Terminal" means a refined petroleum product storage and distribution facility that is supplied
+directly by pipeline and from which the refined petroleum product may be removed from the
+rack.
+15.19. "Third party" means a person who is damaged by the act of a registered owner, operator, or
+dealer requiring corrective action, or a person who suffers bodily injury or property damage
+caused by a petroleum release.
+20. "Utility" means a person engaged in and controlling electric generation, the transmission of
+electric energy, or the transmission of water from or to any electric energy conversion facility.
+SECTION 3. AMENDMENT. Subsection 7 of section 23.1-12-17 of the North Dakota Century Code
+is amended and reenacted as follows:
+7. If a registration payment is not received within sixty days of July firstthe date required under
+rules adopted by the department, a late fee of twenty-five dollars per tank per month must be
+imposed on the tank owner or operator.
+
+H. B. NO. 1058 - PAGE 8
+____________________________ ____________________________
+Speaker of the House President of the Senate
+____________________________ ____________________________
+Chief Clerk of the House Secretary of the Senate
+This certifies that the within bill originated in the House of Representatives of the Sixty-ninth Legislative
+Assembly of North Dakota and is known on the records of that body as House Bill No. 1058.
+House Vote: Yeas 66 Nays 24 Absent 4
+Senate Vote: Yeas 45 Nays 1 Absent 1
+____________________________
+Chief Clerk of the House
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+____________________________
+Governor
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+____________________________
+Secretary of State
+
+[DELETED: 7 of sn 27 of te Nh Da Cy C, rg to t." s.F.T.S.P)T) )An ie pe fy rd ur se ls ce to t)T.S.F.L.T.T. ]
+[DELETED: .T.T, c .T.A.S.P.T.P. ."."."."."."."."."]
+[DELETED: . .C.O.".".".".".A.A.A.E.F.F.F.F.F.F.Fr mg ee of fl ry fr tg ce an a]
+[DELETED: .E.F.Fy dy ad re or ee of te dt m, un pn o.E.I.I.I.A.A.A]
+[DELETED: ."."."e a" ms an an rd by te dt to m, c. Te tm ds nt ie te rr or rt of et o.".".".".".".".".".".G.C.O."]
+[DELETED: .".".T.T.A)R)R)R)R.A.A.A se i, p, p,  l, sm wr cn s, o.A.Ay ad wh te e, d, o pn r g.A.A.A.A.A.A]
+[DELETED: .A.An f, or ec tn rd f, ig a.A.A.".".".".I]
+[DELETED: __eP__eS:Y6N4A:Y5N1A]

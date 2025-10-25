@@ -1,0 +1,120 @@
+Title: HOUSE BILL NO. 1407
+Official Title: HOUSE BILL NO. 1407
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1122.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Brandenburg, Grueneich, Headland, Nehring
+Senators Luick, Myrdal, Thomas, Wanzek, Conley
+1 A BILL for an Act to amend and reenact subsection 2 of section 39-12-05 and subsection 2 of
+2 section 39-12-05.3 of the North Dakota Century Code, relating to weight limitations for vehicles
+3 on the interstate system and weight limitations for vehicles on highways other than the
+4 interstate system.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Subsection 2 of section 39-12-05 of the North Dakota Century
+7 Code is amended and reenacted as follows:
+8 2. Subject to the limitations imposed by subsection 1 on tires, wheel, and axle loads, the
+9 gross weight of which exceeds that determined by the formula of:
+10 W = 500 (LN/ + 12N + 36)
+N-1
+11 where W equals maximum weight in pounds carried on any group of more than one
+12 axle; L equals distance in feet between the extremes of any group of consecutive
+13 axles; and N equals number of axles in the group under consideration, except that two
+14 consecutive sets of tandem axles may carry a gross load of thirty-four thousand
+15 pounds [15422.14 kilograms] each, providing the overall distance between the first
+16 and last axles of the consecutive sets of tandem axles is at least thirty-six feet [10.97
+17 meters]. The gross weight may not exceed eighty thousandone hundred thirteen
+18 thousand pounds [36287.3951255.94 kilograms].
+19 SECTION 2. AMENDMENT. Subsection 2 of section 39-12-05.3 of the North Dakota
+20 Century Code is amended and reenacted as follows:
+21 2. Subject to the limitations imposed by subsection 1 on tires, wheel, and axle loads, a
+22 person may not operate on a highway that is not part of the interstate system any
+23 vehicle the gross weight of which exceeds that determined by the formula of:
+24 W = 500 (LN + 12N + 36)
+Page No. 1 25.1122.01000
+Sixty-ninth
+Legislative Assembly
+1 N-1
+2 where W equals the maximum gross weight in pounds on any vehicle or combination
+3 of vehicles; L equals distance in feet between the two extreme axles of any vehicle or
+4 combination of vehicles; and N equals the number of axles of any vehicle or
+5 combination of vehicles under consideration. The gross weight on stateall highways
+6 may not exceed one hundred five thousand five hundredone hundred thirteen
+7 thousand pounds [4785451255.94 kilograms] unless otherwise posted and on all other
+8 highways the gross weight may not exceed eighty thousand pounds [36287.39
+9 kilograms] unlessor designated by local authorities for highways under their jurisdiction
+10 for gross weights not to exceed one hundred five thousand five hundred pounds
+11 [47854 kilograms]. Local authorities are encouraged to assess all roads under their
+12 jurisdiction and designate the roads for the appropriate weight limits allowed under this
+13 subsection.
+Page No. 2 25.1122.01000
+[DELETED: .S(/ .S12]
+[DELETED: 22]
+
+
+================================================================================
+
+Raw Text:
+25.1122.01000
+Sixty-ninth
+HOUSE BILL NO. 1407
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Brandenburg, Grueneich, Headland, Nehring
+Senators Luick, Myrdal, Thomas, Wanzek, Conley
+1 A BILL for an Act to amend and reenact subsection 2 of section 39-12-05 and subsection 2 of
+2 section 39-12-05.3 of the North Dakota Century Code, relating to weight limitations for vehicles
+3 on the interstate system and weight limitations for vehicles on highways other than the
+4 interstate system.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Subsection 2 of section 39-12-05 of the North Dakota Century
+7 Code is amended and reenacted as follows:
+8 2. Subject to the limitations imposed by subsection 1 on tires, wheel, and axle loads, the
+9 gross weight of which exceeds that determined by the formula of:
+10 W = 500 (LN/ + 12N + 36)
+N-1
+11 where W equals maximum weight in pounds carried on any group of more than one
+12 axle; L equals distance in feet between the extremes of any group of consecutive
+13 axles; and N equals number of axles in the group under consideration, except that two
+14 consecutive sets of tandem axles may carry a gross load of thirty-four thousand
+15 pounds [15422.14 kilograms] each, providing the overall distance between the first
+16 and last axles of the consecutive sets of tandem axles is at least thirty-six feet [10.97
+17 meters]. The gross weight may not exceed eighty thousandone hundred thirteen
+18 thousand pounds [36287.3951255.94 kilograms].
+19 SECTION 2. AMENDMENT. Subsection 2 of section 39-12-05.3 of the North Dakota
+20 Century Code is amended and reenacted as follows:
+21 2. Subject to the limitations imposed by subsection 1 on tires, wheel, and axle loads, a
+22 person may not operate on a highway that is not part of the interstate system any
+23 vehicle the gross weight of which exceeds that determined by the formula of:
+24 W = 500 (LN + 12N + 36)
+Page No. 1 25.1122.01000
+
+Sixty-ninth
+Legislative Assembly
+1 N-1
+2 where W equals the maximum gross weight in pounds on any vehicle or combination
+3 of vehicles; L equals distance in feet between the two extreme axles of any vehicle or
+4 combination of vehicles; and N equals the number of axles of any vehicle or
+5 combination of vehicles under consideration. The gross weight on stateall highways
+6 may not exceed one hundred five thousand five hundredone hundred thirteen
+7 thousand pounds [4785451255.94 kilograms] unless otherwise posted and on all other
+8 highways the gross weight may not exceed eighty thousand pounds [36287.39
+9 kilograms] unlessor designated by local authorities for highways under their jurisdiction
+10 for gross weights not to exceed one hundred five thousand five hundred pounds
+11 [47854 kilograms]. Local authorities are encouraged to assess all roads under their
+12 jurisdiction and designate the roads for the appropriate weight limits allowed under this
+13 subsection.
+Page No. 2 25.1122.01000
+
+[DELETED: .S(/ .S12]
+[DELETED: 22]

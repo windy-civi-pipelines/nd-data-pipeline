@@ -1,0 +1,177 @@
+Title: HOUSE BILL NO. 1486
+Official Title: HOUSE BILL NO. 1486
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1031.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative D. Johnston
+Senators Clemens, Wobbema
+1 A BILL for an Act to create and enact a new section to chapter 49-04.1 of the North Dakota
+2 Century Code, relating to the installation of smart meters; and to amend and reenact section
+3 49-04.1-01 of the North Dakota Century Code, relating to unauthorized metering.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 49-04.1-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 49-04.1-01. Definitions.
+8 As used in this chapter, unless the context or subject matter otherwise requires:
+9 1. "Bypassing" means the act of attaching, connecting, or in any manner affixing any
+10 wire, cord, socket, motor or other instrument, device, or contrivance to the utility
+11 supply system or any part thereof in a manner as to transmit, supply, or use any utility
+12 service without passing through an authorized meter for measuring or registering the
+13 amount of utility service.
+14 2. "Customer" means the person responsible for payment for utility services for the
+15 premises and includes employees and agents of the customer.
+16 3. "Smart meter gateway device" means any electronic device producing an electronic
+17 signal extending outside the device, which serves as an electric utility load control
+18 device, and which is a device ancillary to the electric utility meter located at the end
+19 user's residence or business, and the device either:
+20 a. Serves as a communications gateway or portal to appliances, equipment, or
+21 devices using electricity, water, or gas in the end user's residence or business; or
+22 b. Otherwise communicates with appliances, equipment, or devices using electricity,
+23 water, or gas in the end user's residence or business.
+Page No. 1 25.1031.03000
+Sixty-ninth
+Legislative Assembly
+1 4. "Tampering" means damaging, altering, adjusting, or in any manner interfering with or
+2 obstructing the action or operation of any meter provided for measuring or registering
+3 the amount of utility service passing through the meter.
+4 4.5. "Unauthorized metering" means removing, moving, installing, connecting,
+5 reconnecting, or disconnecting any meter or metering device for utility service by a
+6 person other than an authorized employee or agent of a utility.
+7 5.6. "Utility" means any public utility, municipally owned utility, or cooperative utility which
+8 provides electricity, gas, or water, or any combination thereof, for sale to consumers.
+9 6.7. "Utility service" means the provision of electricity, gas, water, or any other service or
+10 commodity furnished by the utility for compensation.
+11 7.8. "Utility supply system" includes all wires, conduits, pipes, cords, sockets, motors,
+12 meters, instruments, and all other devices used by the utility for the purpose of
+13 providing utility service.
+14 SECTION 2. A new section to chapter 49-04.1 of the North Dakota Century Code is created
+15 and enacted as follows:
+16 Installation of smart meter gateway device - Consent required - Required disclosures .
+17 1. A utility service may not install a smart meter gateway device on or in a person's home
+18 or business without providing a form as prescribed under this section which must be
+19 signed by the property owner. The form must contain the following statement in at
+20 least twelve - point type :
+21 a. You may op t - out of the installation of a smart meter gateway device ;
+22 b. If you choose to op t - out of the installation, service provided by this utility service
+23 will not be interrupted or hindered; and
+24 c. For your information, a smart meter gateway device is any electronic device
+25 producing an electronic signal extending outside the device, which serves as an
+26 electric utility load control device, and which is a device ancillary to the electric
+27 utility meter located at the end user's residence or business, and the device
+28 either:
+29 (1) Serves as a communications gateway or portal to appliances, equipment, or
+30 devices using electricity, water, or gas in the end user's residence or
+31 business; or
+Page No. 2 25.1031.03000
+Sixty-ninth
+Legislative Assembly
+1 (2) Otherwise communicates with appliances, equipment, or devices using
+2 electricity, water, or gas in the end user's residence or business.
+3 2. Upon first providing services to a person's residence or business, the utility service
+4 shall disclose in writing whether a smart meter gateway device has been installed, and
+5 if installed, the utility service shall allow the removal of a smart meter gateway device
+6 upon written request from the owner of the residence or business. Upon removal, a
+7 traditional legacy electromechanical meter must be installed in place of the smart
+8 meter gateway device.
+Page No. 3 25.1031.03000
+[DELETED: .".".".S.O12]
+[DELETED: .".".".".".A. . .F)S22]
+[DELETED: )O.U32]
+
+
+================================================================================
+
+Raw Text:
+25.1031.03000
+Sixty-ninth
+HOUSE BILL NO. 1486
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative D. Johnston
+Senators Clemens, Wobbema
+1 A BILL for an Act to create and enact a new section to chapter 49-04.1 of the North Dakota
+2 Century Code, relating to the installation of smart meters; and to amend and reenact section
+3 49-04.1-01 of the North Dakota Century Code, relating to unauthorized metering.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 49-04.1-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 49-04.1-01. Definitions.
+8 As used in this chapter, unless the context or subject matter otherwise requires:
+9 1. "Bypassing" means the act of attaching, connecting, or in any manner affixing any
+10 wire, cord, socket, motor or other instrument, device, or contrivance to the utility
+11 supply system or any part thereof in a manner as to transmit, supply, or use any utility
+12 service without passing through an authorized meter for measuring or registering the
+13 amount of utility service.
+14 2. "Customer" means the person responsible for payment for utility services for the
+15 premises and includes employees and agents of the customer.
+16 3. "Smart meter gateway device" means any electronic device producing an electronic
+17 signal extending outside the device, which serves as an electric utility load control
+18 device, and which is a device ancillary to the electric utility meter located at the end
+19 user's residence or business, and the device either:
+20 a. Serves as a communications gateway or portal to appliances, equipment, or
+21 devices using electricity, water, or gas in the end user's residence or business; or
+22 b. Otherwise communicates with appliances, equipment, or devices using electricity,
+23 water, or gas in the end user's residence or business.
+Page No. 1 25.1031.03000
+
+Sixty-ninth
+Legislative Assembly
+1 4. "Tampering" means damaging, altering, adjusting, or in any manner interfering with or
+2 obstructing the action or operation of any meter provided for measuring or registering
+3 the amount of utility service passing through the meter.
+4 4.5. "Unauthorized metering" means removing, moving, installing, connecting,
+5 reconnecting, or disconnecting any meter or metering device for utility service by a
+6 person other than an authorized employee or agent of a utility.
+7 5.6. "Utility" means any public utility, municipally owned utility, or cooperative utility which
+8 provides electricity, gas, or water, or any combination thereof, for sale to consumers.
+9 6.7. "Utility service" means the provision of electricity, gas, water, or any other service or
+10 commodity furnished by the utility for compensation.
+11 7.8. "Utility supply system" includes all wires, conduits, pipes, cords, sockets, motors,
+12 meters, instruments, and all other devices used by the utility for the purpose of
+13 providing utility service.
+14 SECTION 2. A new section to chapter 49-04.1 of the North Dakota Century Code is created
+15 and enacted as follows:
+16 Installation of smart meter gateway device - Consent required - Required disclosures .
+17 1. A utility service may not install a smart meter gateway device on or in a person's home
+18 or business without providing a form as prescribed under this section which must be
+19 signed by the property owner. The form must contain the following statement in at
+20 least twelve - point type :
+21 a. You may op t - out of the installation of a smart meter gateway device ;
+22 b. If you choose to op t - out of the installation, service provided by this utility service
+23 will not be interrupted or hindered; and
+24 c. For your information, a smart meter gateway device is any electronic device
+25 producing an electronic signal extending outside the device, which serves as an
+26 electric utility load control device, and which is a device ancillary to the electric
+27 utility meter located at the end user's residence or business, and the device
+28 either:
+29 (1) Serves as a communications gateway or portal to appliances, equipment, or
+30 devices using electricity, water, or gas in the end user's residence or
+31 business; or
+Page No. 2 25.1031.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) Otherwise communicates with appliances, equipment, or devices using
+2 electricity, water, or gas in the end user's residence or business.
+3 2. Upon first providing services to a person's residence or business, the utility service
+4 shall disclose in writing whether a smart meter gateway device has been installed, and
+5 if installed, the utility service shall allow the removal of a smart meter gateway device
+6 upon written request from the owner of the residence or business. Upon removal, a
+7 traditional legacy electromechanical meter must be installed in place of the smart
+8 meter gateway device.
+Page No. 3 25.1031.03000
+
+[DELETED: .".".".S.O12]
+[DELETED: .".".".".".A. . .F)S22]
+[DELETED: )O.U32]

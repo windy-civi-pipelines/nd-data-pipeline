@@ -1,0 +1,1851 @@
+Title: HOUSE BILL NO. 1127
+Official Title: HOUSE BILL NO. 1127
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+25.8110.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry, Business and Labor Committee
+(At the request of the Department of Financial Institutions)
+1 A BILL for an Act to create and enact chapter 13-01.2 of the North Dakota Century Code,
+2 relating to the financial institution data security program; and to amend and reenact sections
+3 6-01-04.1 and 6-01-04.2, subsection 7 of section 6-03-02, sections 13-04.1-01.1, 13-04.1-11.1,
+4 13-05-07.1, 13-08-10, 13-08-11.1, and 13-09.1-14, subsection 3 of section 13-09.1-17, sections
+5 13-09.1-38 and 13-10-05, subsection 1 of section 13-11-10, section 13-12-19, subsections 6,
+6 21, and 22 of section 13-13-01, and sections 13-13-04 and 13-13-18 of the North Dakota
+7 Century Code, relating to the department of financial institutions, financial institutions, response
+8 to department requests, renewal of licenses, orders to cease and desist, issuance of licenses,
+9 revocation of licenses, and exemptions from licenses.
+10 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+11 SECTION 1. AMENDMENT. Section 6-01-04.1 of the North Dakota Century Code is
+12 amended and reenacted as follows:
+13 6-01-04.1. Removal of officers, directors, and employees of financial corporations or
+14 institutions.
+15 1. The department of financial institutions or the board may issue, upon any current or
+16 former officer, director, or employee of a financial corporation, financial institution, or
+17 credit union subject to its jurisdiction and upon a financial corporation, financial
+18 institution, or credit union involved, an order stating:
+19 a. That the current or former officer, director, or employee is engaging, or has
+20 engaged, in any of the following conduct:
+21 (1) Violating any law, regulation, board order, or written agreement with the
+22 board.
+23 (2) Engaging or participating in any unsafe or unsound practice.
+Page No. 1 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 (3) Performing any act of commission or omission or practice which is a breach
+2 of trust or a breach of fiduciary duty.
+3 b. The term of the suspension or removal from employment and participation within
+4 the conduct of the affairs of a financial corporation, financial institution, credit
+5 union, or any other entity licensed by the department of financial institutions.
+6 2. The order must contain a notice of opportunity for hearing pursuant to chapter 28-32.
+7 The date for the hearing must be set not less than thirty days after the date the
+8 complaint is served upon the current or former officer, director, or employee of a
+9 financial corporation, financial institution, credit union, or any other entity licensed by
+10 the department of financial institutions. The current or former officer, director, or
+11 employee may waive the thirty-day notice requirement.
+12 3. If no hearing is requested within twenty days of the date the order is served upon the
+13 current or former officer, director, or employee, the order is final. If a hearing is held
+14 and the board finds that the record so warrants, it may enter a final order. The final
+15 order suspending or removing the current or former officer, director, or employee is
+16 final. The current or former officer or employee may request a termination of the final
+17 order after a period of no less than three years.
+18 4. A contested or default suspension or removal order is effective immediately upon
+19 issuance on the current or former officer, director, or employee and upon a financial
+20 corporation, financial institution, or credit union. A consent order is effective as agreed.
+21 5. Any current or former officer, director, or employee suspended or removed from any
+22 position pursuant to this section is not eligible, while under suspension or removal, to
+23 be employed or otherwise participate in the affairs of any financial corporation,
+24 financial institution, or credit union or any other entity licensed by the department of
+25 financial institutions until the suspension or removal is terminated by the department of
+26 financial institutions or board.
+27 6. When any current or former officer, director, employee, or other person participating in
+28 the conduct of the affairs of a financial corporation, financial institution, or credit union
+29 is charged with a felony in state or federal court, involving dishonesty or breach of
+30 trust, the commissioner may immediately suspend the person from office or prohibit
+31 the person from any further participation in a financial corporation's, financial
+Page No. 2 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 institution's, or credit union's affairs. The order is effective immediately upon issuance
+2 of the order on a financial corporation, financial institution, or credit union and the
+3 person charged, and remains in effect until the criminal charge is finally disposed of or
+4 until modified by the board. If a judgment of conviction, a federal pretrial diversion,
+5 conviction or agreement to plea to lesser charges, or similar state order or judgment is
+6 entered, the board or commissioner may order that the suspension or prohibition be
+7 made permanent. A finding of not guilty or other disposition of the charge does not
+8 preclude the commissioner or the board from pursuing administrative or civil remedies.
+9 7. The commissioner or board may issue upon a current or former officer, director,
+10 employee, or other person participating in the conduct of the affairs of a financial
+11 corporation, financial institution, or credit union an order permanently suspending and
+12 prohibiting the person from participation in a financial corporation's, financial
+13 institution's, or credit union's affairs if convicted of any charge involving dishonesty or
+14 breach of trust in state or federal court. The suspension or removal order is effective
+15 immediately upon issuance on the current or former officer, director, or employee and
+16 upon a financial corporation, financial institution, or credit union.
+17 SECTION 2. AMENDMENT. Section 6-01-04.2 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 6-01-04.2. Cease and desist orders.
+20 1. The department of financial institutions or the board may issue and serve upon a
+21 financial corporation, financial institution, or credit union subject to its jurisdiction a
+22 complaint stating the factual basis for the department's or board's belief that the
+23 financial corporation, financial institution, or credit union is engaging in any of the
+24 following conduct:
+25 a. An unsafe or unsound practice.
+26 b. A violation in the past or on a continuing basis of any law, regulation, board order,
+27 or written agreement entered into with the board or department of financial
+28 institutions.
+29 2. The complaint must contain a notice of opportunity for hearing pursuant to chapter
+30 28-32. The date for the hearing must be set not less than thirty days after the date the
+31 complaint is served upon the financial corporation, financial institution, or credit union.
+Page No. 3 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 The financial corporation, financial institution, or credit union may waive the thirty-day
+2 notice requirement.
+3 3. If the financial corporation, financial institution, or credit union fails to respond to the
+4 complaint within twenty days of its service, or if a hearing is held and the board
+5 concludes that the record so warrants, the board may enter an order directing the
+6 financial corporation, financial institution, or credit union to cease and desist from
+7 engaging in the conduct which was the subject of the complaint and hearing and to
+8 take corrective action.
+9 4. The commissioner or the board may enter an emergency, temporary cease and desist
+10 order if the commissioner or the board finds the conduct described in the complaint is
+11 likely to cause insolvency, substantial dissipation of assets, earnings, or capital of the
+12 financial corporation, financial institution, or credit union, or substantial prejudice to the
+13 depositors, shareholders, members, or creditors of the financial corporation, financial
+14 institution, or credit union. An emergency, temporary cease and desist order is
+15 effective immediately upon service on the financial corporation, financial institution, or
+16 credit union and remains in effect for no longer than sixty days or until the conclusion
+17 of permanent cease and desist proceedings pursuant to this section, whichever is
+18 sooner. An emergency, temporary cease and desist order may be issued without an
+19 opportunity for hearing. A bank or credit union may request a hearing before the state
+20 banking board or state credit union board within ten days of the order to review the
+21 factual basis used to issue the emergency, temporary cease and desist order. The
+22 decision made by the board during this hearing will be final. If a hearing is not
+23 requested, the initial decision of the commissioner or board will be final.
+24 SECTION 3. AMENDMENT. Subsection 7 of section 6-03-02 of the North Dakota Century
+25 Code is amended and reenacted as follows:
+26 7. Exercise, as determined by the board or commissioner by order or rule, all the
+27 incidental powers as are necessary to carry on the business of banking, including
+28 discounting and negotiating promissory notes, bills of exchange, drafts, and other
+29 evidences of debt; receiving deposits; buying and selling exchange, coin, and bullion;
+30 loaning money upon real or personal security, or both; soliciting and receiving deposits
+31 in the nature of custodial accounts for the purpose of health savings or similar health
+Page No. 4 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 care cost funding accounts, retirement fund contracts, or pension programs, and such
+2 custodial accounts are exempt from chapter 6-05; and providing services to its
+3 customers involving electronic transfer of funds to the same extent that other financial
+4 institutions chartered and regulated by an agency of the federal government are
+5 permitted to provide those services within this state. A bank that provides electronic
+6 funds transfer equipment and service to its customers, at premises separate from its
+7 main banking house or duly authorized facility approved by the state banking board,
+8 must make the equipment and service available for use by customers of any other
+9 bank upon the request of the other bank to share its use and the agreement of the
+10 other bank to share pro rata all costs incurred in connection with its installation and
+11 operation, and the electronic operations are not deemed to be the establishment of a
+12 branch, nor of a separate facility. The electronic operations at premises separate from
+13 its banking house or duly authorized facility must be considered a customer electronic
+14 funds transfer center and may be established subject to rules that the state banking
+15 board adopts.
+16 SECTION 4. Chapter 13-01.2 of the North Dakota Century Code is created and enacted as
+17 follows:
+18 13-01.2-01. Definitions.
+19 For purposes of this chapter, the following definitions shall apply:
+20 1. "Authorized user" means any employee, contractor, agent, or other person who:
+21 a. Participates in a financial corporation's business operations; and
+22 b. Is authorized to access and use any of the financial corporation's information
+23 systems and data.
+24 2. "Commissioner" means the commissioner of the department of financial institutions.
+25 3. "Consumer":
+26 a. Means an individual, or that individual's legal representative, who applies for or
+27 has obtained a financial product or service from a financial corporation which is to
+28 be used primarily for personal, family, or household purposes. A consumer
+29 includes an individual who:
+30 (1) Applies to a financial corporation for credit for personal, family, or household
+31 purposes, regardless of whether the credit is extended.
+Page No. 5 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 (2) Provides nonpublic personal information to a financial corporation to obtain
+2 a determination about whether the applicant may qualify for a loan to be
+3 used primarily for personal, family, or household purposes, regardless of
+4 whether the loan is extended.
+5 (3) Provides nonpublic personal information to a financial corporation in
+6 connection with obtaining or seeking to obtain financial, investment, or
+7 economic advisory services, regardless of whether the financial corporation
+8 establishes a continuing advisory relationship.
+9 (4) Has a loan for personal, family, or household purposes in which the financial
+10 corporation has ownership or servicing rights, even if the financial
+11 corporation or one or more other corporations that hold ownership or
+12 servicing rights in conjunction with the financial corporation hires an agent to
+13 collect on the loan.
+14 b. Does not include an individual who:
+15 (1) Uses a different financial corporation or financial institution to act solely as
+16 an agent for, or provide processing or other services to, the individual
+17 financial corporation or financial institution.
+18 (2) Designates a financial corporation solely for the purposes to act as trustee
+19 for a trust.
+20 (3) Is a beneficiary of a trust for which the financial corporation is a trustee.
+21 (4) Is a participant or a beneficiary of an employee benefit plan that the financial
+22 corporation sponsors or for which the financial corporation acts as a trustee
+23 or fiduciary.
+24 4. "Continuing relationship":
+25 a. Means a situation in which a consumer:
+26 (1) Has a credit or investment account with a financial corporation;
+27 (2) Obtains a loan from a financial corporation;
+28 (3) Purchases an insurance product from a financial corporation;
+29 (4) Holds an investment product through a financial corporation, including when
+30 a financial corporation acts as a custodian for securities or for assets in an
+31 individual retirement arrangement;
+Page No. 6 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 (5) Enters into an agreement or understanding with a financial corporation in
+2 which the financial corporation undertakes to arrange or broker a home
+3 mortgage loan, or credit to purchase a vehicle, for the consumer;
+4 (6) Enters into a lease of personal property on a nonoperating basis with a
+5 financial corporation;
+6 (7) Obtains financial, investment, or economic advisory services from a
+7 financial corporation for a fee;
+8 (8) Becomes a financial corporation's client for the purpose of obtaining tax
+9 preparation or credit counseling services from the financial corporation;
+10 (9) Obtains career counseling while:
+11 (a) Seeking employment with a financial corporation or the finance,
+12 accounting, or audit department of any company; or
+13 (b) Employed by a financial corporation or department of any company;
+14 (10) Is obligated on an account that a financial corporation purchases from
+15 another financial corporation, regardless of whether the account is in default
+16 when purchased, unless the financial corporation does not locate the
+17 consumer or attempt to collect any amount from the consumer on the
+18 account;
+19 (11) Obtains real estate settlement services from a financial corporation; or
+20 (12) Has a loan for which a financial corporation owns the servicing rights.
+21 b. Does not include a situation in which:
+22 (1) The consumer obtains a financial product or service from a financial
+23 corporation only in isolated transactions, including:
+24 (a) A financial corporation's automated teller machine to withdraw cash
+25 from an account at another financial institution;
+26 (b) Purchasing a money order from a financial corporation;
+27 (c) Cashing a check with a financial corporation; or
+28 (d) Making a wire transfer through a financial corporation;
+29 (2) A financial corporation sells the consumer's loan and does not retain the
+30 rights to service that loan;
+Page No. 7 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 (3) A financial corporation sells the consumer an airline ticket, travel insurance,
+2 or a traveler's check in isolated transactions;
+3 (4) The consumer obtains one-time personal or real property appraisal services
+4 from a financial corporation; or
+5 (5) The consumer purchases checks for a personal checking account from a
+6 financial corporation.
+7 5. "Customer" means a consumer who has a customer relationship with a financial
+8 corporation.
+9 6. "Customer information" means any record containing nonpublic personal information
+10 about a customer of a financial corporation, whether in paper, electronic, or other form,
+11 which is handled or maintained by or on behalf of the financial corporation or the
+12 financial corporation's affiliates.
+13 7. "Customer relationship" means a continuing relationship between a consumer and a
+14 financial corporation under which the financial corporation provides one or more
+15 financial products or services to the consumer that are used primarily for personal,
+16 family, or household purposes.
+17 8. "Encryption" means the transformation of data into a form that results in a low
+18 probability of assigning meaning without the use of a protective process or key,
+19 consistent with current cryptographic standards and accompanied by appropriate
+20 safeguards for cryptographic key material.
+21 9. "Financial corporation" means all entities regulated by the department of financial
+22 institutions, excluding financial institutions and credit unions.
+23 10. "Financial institution" means any bank, industrial loan company, or savings and loan
+24 association organized under the laws of this state or of the United States.
+25 11. "Financial product or service" means any product or service that a financial holding
+26 company could offer by engaging in a financial activity under the federal Bank Holding
+27 Company Act of 1956 [12 U.S.C. 1843 section 4(k)]. The term includes a financia l
+28 corporation's evaluation or brokerage of information that a financial corporation
+29 collects in connection with a request or an application from a consumer for a financial
+30 product or service.
+Page No. 8 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 12. "Information security program" means the administrative, technical, or physical
+2 safeguards a financial corporation uses to access, collect, distribute, process, protect,
+3 store, use, transmit, dispose of, or otherwise handle customer information.
+4 13. "Information system" means a discrete set of electronic information resources
+5 organized for the collection, processing, maintenance, use, sharing, dissemination, or
+6 disposition of electronic information, as well as any specialized system, including
+7 industrial process controls systems, telephone switching and private branch exchange
+8 systems, and environmental controls systems that contain customer information or
+9 that is connected to a system that contains customer information.
+10 14. "Multifactor authentication" means authentication through verification of at least two of
+11 the following types of authentication factors:
+12 a. Knowledge factors, including a password;
+13 b. Possession factors, including a token; or
+14 c. Inherence factors, including biometric characteristics.
+15 15. "Nonpublic personal information":
+16 a. Means:
+17 (1) Personally identifiable financial information; and
+18 (2) Any list, description, or other grouping of consumers, including publicly
+19 available information pertaining to the consumers that is derived using
+20 personally identifiable financial information that is not publicly available,
+21 including account numbers.
+22 b. Does not include:
+23 (1) Publicly available information, except as included on a list described in
+24 paragraph 2 of subdivision a ;
+25 (2) Any list, description, or other grouping of consumers, including publicly
+26 available information pertaining to the consumers that is derived without
+27 using any personally identifiable financial information that is not publicly
+28 available; or
+29 (3) Any list of individuals' names and addresses that contains only publicly
+30 available information, is not derived, in whole or in part, using personally
+31 identifiable financial information that is not publicly available, and is not
+Page No. 9 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 disclosed in a manner that indicates that any individual on the list is the
+2 financial corporation's consumer.
+3 16. "Notification event" means the acquisition of unencrypted customer information without
+4 the authorization of the individual to which the information pertains. Customer
+5 information is considered unencrypted for purposes of this subsection if the encryption
+6 key was accessed by an unauthorized person. Unauthorized acquisition is presumed
+7 to include unauthorized access to unencrypted customer information unless the
+8 financial corporation has reliable evidence showing there has not been, or could not
+9 reasonably have been, unauthorized acquisition of customer information.
+10 17. "Penetration testing" means a test methodology in which assessors attempt to
+11 circumvent or defeat the security features of an information system by attempting to
+12 penetrate databases or controls from outside or inside a financial corporation's
+13 information systems.
+14 18. "Personally identifiable financial information":
+15 a. Means any information:
+16 (1) A consumer provides to a financial corporation to obtain a financial product
+17 or service;
+18 (2) About a consumer resulting from any transaction involving a financial
+19 product or service between a financial corporation and a consumer; or
+20 (3) A financial corporation otherwise obtains about a consumer in connection
+21 with providing a financial product or service to that consumer.
+22 b. Includes:
+23 (1) Information a consumer provides to a financial corporation on an application
+24 to obtain a loan, credit card, or other financial product or service;
+25 (2) Account balance information, payment history, overdraft history, and credit
+26 or debit card purchase information;
+27 (3) An individual that is or has been a financial corporation's customer or has
+28 obtained a financial product or service from the financial corporation;
+29 (4) Any information about a financial corporation's consumer if it is disclosed in
+30 a manner that indicates the individual is or has been a financial
+31 corporation's consumer;
+Page No. 10 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 (5) Any information a consumer provides to a financial corporation or which a
+2 financial corporation or a financial corporation's agent otherwise obtains in
+3 connection with collecting on, or servicing, a credit account;
+4 (6) Any information a financial corporation collects through an information
+5 collecting device from a web server; and
+6 (7) Information from a consumer report.
+7 c. Does not include:
+8 (1) A list of names and addresses of customers of an entity that is not a
+9 financial corporation; and
+10 (2) Information that does not identify a consumer, such as aggregate
+11 information or blind data that does not contain personal identifiers such as
+12 account numbers, names, or addresses.
+13 19. a. "Publicly available information":
+14 (1) Means any information that a financial corporation has a reasonable basis
+15 to believe is lawfully made available to the general public from:
+16 (a) Federal, state, or local government records;
+17 (b) Widely distributed media; or
+18 (c) Disclosures to the general public which are required under federal,
+19 state, or local law.
+20 (2) Includes information:
+21 (a) In government real estate records and security interest filings; or
+22 (b) From widely distributed media, a telephone book, a television or radio
+23 program, a newspaper, or a website that is available to the general
+24 public on an unrestricted basis. A website is not restricted because an
+25 internet service provider or a site operator requires a fee or a
+26 password, provided access is available to the general public.
+27 b. For purposes of this subsection, a financial corporation has a reasonable basis to
+28 believe information is lawfully made available to the general public if the financial
+29 corporation has taken steps to determine:
+30 (1) The information is of the type available to the general public; and
+Page No. 11 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 (2) Whether an individual can direct that the information not be made available
+2 to the general public and, if so, that the financial corporation's consumer has
+3 not done so. A financial corporation has a reasonable basis to believe
+4 mortgage information is lawfully made available to the general public if the
+5 financial corporation determines the information is of the type included on
+6 the public record in the jurisdiction where the mortgage is recorded. A
+7 financial corporation has a reasonable basis to believe an individual's
+8 telephone number is lawfully made available to the general public if the
+9 financial corporation has located the telephone number in the telephone
+10 book or the consumer has informed the financial corporation the telephone
+11 number is not unlisted.
+12 20. "Qualified individual" means the individual designated by a financial institution to
+13 oversee, implement, and enforce the financial institution's information security
+14 program.
+15 21. "Security event" means an event resulting in unauthorized access to, or disruption or
+16 misuse of:
+17 a. An information system or information stored on an information system; or
+18 b. Customer information held in physical form.
+19 22. "Service provider" means any person or entity that receives, maintains, processes, or
+20 otherwise is permitted access to customer information through its provision of services
+21 directly to a financial corporation that is subject to this chapter.
+22 13-01.2-02. Standards for safeguarding customer information.
+23 1. A financial corporation shall develop, implement, and maintain a comprehensive
+24 information security program.
+25 2. The information security program must:
+26 a. Be written in one or more readily accessible parts; and
+27 b. Maintain administrative, technical, and physical safeguards that are appropriate
+28 to the financial corporation's size and complexity, the nature and scope of the
+29 financial corporation's activities, and the sensitivity of any customer information at
+30 issue.
+31 3. The financial corporation shall develop a security program that:
+Page No. 12 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 a. Ensures the security and confidentiality of customer information;
+2 b. Protects against any anticipated threats or hazards to the security or integrity of
+3 such information; and
+4 c. Protects against unauthorized access to or use of such information that could
+5 result in substantial harm or inconvenience to any customer.
+6 13 - 01.2 - 03. Elements of a security program .
+7 1. A financial corporation's information security program must denote a designation of a
+8 qualified individual responsible for overseeing and implementing the financial
+9 corporation's information security program and enforcing the financial corporation's
+10 information security program. The qualified individual may be employed by the
+11 financial corporation, an affiliate, or a service provider.
+12 2. If a financial corporation designates an individual employed by an affiliate or service
+13 provider as the qualified individual, the financial corporation shall:
+14 a. Retain responsibility for compliance with this chapter;
+15 b. Designate a senior member of the financial corporation's personnel to be
+16 responsible for directing and overseeing the qualified individual; and
+17 c. Require the service provider or affiliate to maintain an information security
+18 program that protects the financial corporation in accordance with the
+19 requirements of this chapter.
+20 3. A financial corporation shall base the financial corporation's information security
+21 program on a risk assessment that:
+22 a. Identifies reasonably foreseeable internal and external risks to the security,
+23 confidentiality, and integrity of customer information that could result in the
+24 unauthorized disclosure, misuse, alteration, destruction or other compromise of
+25 customer information;
+26 b. Assesses the sufficiency of any safeguards in place to control the risks in
+27 subdivision a; and
+28 c. Includes additional periodic risk assessments that:
+29 (1) Re-examine the reasonably foreseeable internal and external risks to the
+30 security, confidentiality, and integrity of customer information that could
+Page No. 13 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 result in the unauthorized disclosure, misuse, alteration, destruction or other
+2 compromise of such information; and
+3 (2) Reassess the sufficiency of any safeguards in place to control these risks.
+4 4. The risk assessment must be in writing and include:
+5 a. Criteria to evaluate and categorize identified security risks or threats the financial
+6 corporation faces;
+7 b. Criteria for the assessment of the confidentiality, integrity, and availability of the
+8 financial corporation's information systems and customer information, including
+9 the adequacy of the existing controls in the context of the identified risks or
+10 threats the financial corporation faces; and
+11 c. Requirements describing how:
+12 (1) Identified risks will be mitigated or accepted based on the risk assessment;
+13 and
+14 (2) The information security program will address the risks.
+15 5. A financial corporation shall design and implement safeguards to control the risks the
+16 financial corporation identifies through the risk assessment in subsection 4, which
+17 include:
+18 a. Implementing and periodically reviewing access controls, including technical and
+19 as appropriate, physical controls to:
+20 (1) Authenticate and permit access only to authorized users to protect against
+21 the unauthorized acquisition of customer information; and
+22 (2) Limit an authorized user's access to only customer information the
+23 authorized user needs to perform the authorized user's duties and functions,
+24 or in the case of a customer, to access the customer's own information.
+25 b. Identifying and managing data, personnel, devices, systems, and facilities that
+26 enable the financial corporation to achieve business purposes in accordance with
+27 the business purpose's relative importance to business objectives and the
+28 financial corporation's risk strategy.
+29 c. Protecting by encryption all customer information held or transmitted by the
+30 financial corporation both in transit over external networks and at rest. To the
+31 extent a financial corporation determines that encryption of customer information,
+Page No. 14 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 either in transit over external networks or at rest, is infeasible, the financial
+2 corporation may secure customer information using effective alternative
+3 compensating controls reviewed and approved by the financial corporation's
+4 qualified individual.
+5 d. Adopting secure development practices for in-house developed applications
+6 utilized by the financial corporation for transmitting, accessing, or storing
+7 customer information and procedures for evaluating, assessing, or testing the
+8 security of externally developed applications the financial corporation utilizes to
+9 transmit, access, or store customer information.
+10 e. Implementing multifactor authentication for any individual accessing any
+11 information system, unless the financial corporation's qualified individual has
+12 approved in writing the use of a reasonably equivalent or more secure access
+13 control.
+14 f. Developing, implementing, and maintaining procedures to securely dispose of
+15 customer information, in any format, no later than two years after the last date the
+16 information is used in connection with providing a product or service to the
+17 customer which it relates, unless:
+18 (1) The information is necessary for business operations or for other legitimate
+19 business purposes;
+20 (2) Is otherwise required to be retained by law or regulation; or
+21 (3) Where targeted disposal is not reasonably feasible due to the manner in
+22 which the information is maintained.
+23 g. Periodically reviewing the financial corporation's data retention policy to minimize
+24 unnecessary retention of data.
+25 h. Adopting procedures for change management.
+26 i. Implementing policies, procedures and controls designed to:
+27 (1) Monitor and log the activity of authorized users; and
+28 (2) Detect unauthorized access to, use of, or tampering with customer
+29 information by authorized users.
+30 6. a. A financial corporation shall regularly test or otherwise monitor the effectiveness
+31 of the safeguards' key controls, systems, and procedures, including the controls,
+Page No. 15 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 systems, and procedures to detect actual and attempted attacks on, or intrusions
+2 into, information systems.
+3 b. Information systems monitoring and testing must include continuous monitoring
+4 or periodic penetration testing, and vulnerability assessments. Without effective
+5 continuous monitoring or other systems to detect, on an ongoing basis, changes
+6 in information systems that may create vulnerabilities, a financial corporation
+7 shall conduct:
+8 (1) Annual penetration testing of the financial corporation's information systems
+9 based on relevant identified risks in accordance with the risk assessment;
+10 and
+11 (2) Vulnerability assessments, including systemic scans or information systems
+12 reviews that are reasonably designed to identify publicly known security
+13 vulnerabilities in the financial corporation's information systems based on
+14 the risk assessment, at least every six months; whenever there are material
+15 changes to the financial corporation's operations or business arrangements;
+16 and whenever there are circumstances the financial corporation knows or
+17 has reason to know may have a material impact on the financial
+18 corporation's information security program.
+19 7. A financial corporation shall implement policies and procedures to ensure the financial
+20 corporation's personnel are able to enact the financial corporation's information
+21 security program by:
+22 a. Providing the financial corporation's personnel with security awareness training
+23 that is updated as necessary to reflect risks identified by the risk assessment;
+24 b. Utilizing qualified information security personnel employed by the financial
+25 corporation or an affiliate or service provider sufficient to manage the financial
+26 corporation's information security risks and to perform or oversee the information
+27 security program;
+28 c. Providing information security personnel with security updates and training
+29 sufficient to address relevant security risks; and
+30 d. Verifying that key information security personnel take steps to maintain current
+31 knowledge of changing information security threats and countermeasures.
+Page No. 16 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 8. A financial corporation shall oversee service providers by:
+2 a. Taking reasonable steps to select and retain service providers capable of
+3 maintaining appropriate safeguards for customer information;
+4 b. Requiring, by contract, the financial corporation's service providers implement
+5 and maintain appropriate safeguards; and
+6 c. Periodically assessing the financial corporation's service providers based on the
+7 risk they present, and the continued adequacy of the service providers'
+8 safeguards.
+9 9. A financial corporation shall evaluate and adjust the financial corporation's information
+10 security program by incorporating:
+11 a. The results of the testing and monitoring required under subsection 5 ;
+12 b. Any material changes to the financial corporation's operations or business
+13 arrangements;
+14 c. The results of risk assessments performed under subsection 3; or
+15 d. Any other circumstances that the financial corporation knows or has reason to
+16 know may have a material impact on the financial corporation's information
+17 security program.
+18 10. A financial corporation shall establish a written incident response plan designed to
+19 promptly respond to, and recover from, any security event materially affecting the
+20 confidentiality, integrity, or availability of customer information the financial corporation
+21 controls. The plan must address:
+22 a. The goals of the incident response plan;
+23 b. The internal processes for responding to a security event;
+24 c. Clear roles, responsibilities, and levels of decisionmaking authority;
+25 d. External and internal communications and information sharing;
+26 e. Requirements for the remediation of any identified weaknesses in information
+27 systems and associated controls;
+28 f. Documentation and reporting regarding security events and related incident
+29 response activities; and
+30 g. The evaluation and revision of the incident response plan, as necessary, after a
+31 security event.
+Page No. 17 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 11. A financial corporation shall require the financial corporation's qualified individual to
+2 report in writing, at least annually, to the financial corporation's board of directors or
+3 equivalent governing body. If no board of directors or equivalent governing body
+4 exists, the report shall be timely presented to a senior officer responsible for the
+5 financial corporation's information security program. The report must include:
+6 a. The overall status of the information security program, and the financial
+7 corporation's compliance with this chapter and associated rules; and
+8 b. Material matters related to the information security program, addressing issues
+9 including risk assessment, risk management and control decisions, service
+10 provider arrangements, results of testing, security events or violations and
+11 management's responses thereto, and recommendations for changes in the
+12 information security program.
+13 12. a. A financial corporation shall notify the commissioner about notification events.
+14 b. After discovery of a notification event described in subdivision c, if the notification
+15 event involves the information of at least five hundred consumers, the financial
+16 corporation shall notify the commissioner as soon as possible, and no later than
+17 forty-five days after the event is discovered. The notice must be made in a format
+18 specified by the commissioner and include:
+19 (1) The name and contact information of the reporting financial corporation;
+20 (2) A description of the types of information involved in the notification event;
+21 (3) The date or date range of the notification event, if the information is possible
+22 to determine;
+23 (4) The number of consumers affected or potentially affected by the notification
+24 event;
+25 (5) A general description of the notification event; and
+26 (6) A statement whether any law enforcement official has provided the financial
+27 corporation with a written determination that notifying the public of the
+28 breach would impede a criminal investigation or cause damage to national
+29 security, and a means for the commissioner to contact the law enforcement
+30 official. A law enforcement official may request an initial delay of up to
+31 forty - five days following the date when notice was provided to the
+Page No. 18 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 commissioner. The delay may be extended for an additional period of up to
+2 sixty days if the law enforcement official seeks an extension in writing.
+3 c. A notification event must be treated as discovered on the first day when the event
+4 is known to the financial corporation. A financial corporation is deemed to have
+5 knowledge of a notification event if the event is known to any employee, officer,
+6 or other agent of the financial corporation, other than the person committing the
+7 breach.
+8 13. A financial corporation shall establish a written plan addressing business continuity
+9 and disaster recovery.
+10 13 - 01.2 - 04. Exemptions .
+11 Subsection 4, subdivision b of subsection 6, and subsections 10 and 11 of section
+12 13 - 01.2 - 03 do not apply to financial institutions that maintain customer information concerning
+13 fewer than five thousand consumers.
+14 SECTION 5. AMENDMENT. Section 13-04.1-01.1 of the North Dakota Century Code is
+15 amended and reenacted as follows:
+16 13-04.1-01.1. Definitions.
+17 As used in this chapter, unless the context or subject matter otherwise requires:
+18 1. "Borrower" means a person or entity that seeks out, or is solicited by a money broker
+19 for the purpose of money brokering.
+20 2. "Commissioner" means the commissioner of financial institutions.
+21 3. "Loan" means a contract by which one delivers a sum of money to another and the
+22 latter agrees to return at a future time a sum equivalent to that which the person
+23 borrowed. This includes alternative financing products as identified by the
+24 commissioner through the issuance of an order.
+25 4. "Money broker" means a person or entity who, in the ordinary course of business,
+26 engages in money brokering.
+27 4.5. "Money brokering" means the act of arranging or providing loans or leases as a form
+28 of financing, or advertising or soliciting either in print, by letter, in person, or otherwise,
+29 the right to find lenders or provide loans or leases for persons or businesses desirous
+30 of obtaining funds for any purposes.
+Page No. 19 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 5.6. "Net branch" means an office at which a licensed money broker allows a separate
+2 person that does not hold a valid North Dakota money brokers license to originate
+3 loans under the license of the money broker.
+4 6.7. "Net branch arrangement" means an arrangement under which a licensed money
+5 broker enters an agreement whereby its designated branch manager has the
+6 appearance of ownership of the licensee by, among other things, sharing in the profits
+7 or losses, establishing, leasing, or renting the branch premises, entering other
+8 contractual relationships with vendors such as for telephones, utilities, and advertising,
+9 having control of a corporate checkbook, or exercising control of personnel through
+10 the power to hire or fire such individuals. A person may be considered to be utilizing a
+11 net branch if the net branch agreement requires the branch manager to indemnify the
+12 licensee for damages from any apparent, express, or implied agency representation
+13 by or through the branch's actions or if the agreement requires the branch manager to
+14 issue a personal check to cover operating expenses whether or not funds are
+15 available from an operating account of the licensee.
+16 7.8. "Precomputed loan" means a loan that is expressed as a sum comprising the principal
+17 and the amount of the loan finance charge computed in advance.
+18 SECTION 6. AMENDMENT. Section 13-04.1-11.1 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 13-04.1-11.1. Response to department requests.
+21 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+22 with requests for information, documents, or other requests from the department of financial
+23 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+24 no time is specified, within thirty days of the mailing of the request by the department of
+25 financial institutions. If the request for information is in regard to a new application or renewal of
+26 an existing application and is not received within the time specified in the request, or within
+27 thirty days of the mailing of the request, the department may deny the application.
+28 SECTION 7. AMENDMENT. Section 13-05-07.1 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 20 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 13-05-07.1. Response to department requests.
+2 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+3 with requests for information, documents, or other requests from the department of financial
+4 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+5 no time is specified, within thirty days of the mailing of the request by the department of
+6 financial institutions. If the request for information is in regard to a new application or renewal of
+7 an existing application and is not received within the time specified in the request, or within
+8 thirty days of the mailing of the request, the department may deny the application.
+9 SECTION 8. AMENDMENT. Section 13-08-10 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 13-08-10. Regulations - Examinations.
+12 The commissioner may adopt rules for the implementation and enforcement of this chapter.
+13 A copy of a rule adopted by the commissioner must be mailed to each licensee at least thirty
+14 days before the date the rule takes effect. To assure compliance with this chapter, the
+15 commissioner may examine the relevant business, books, and records of any licensee. The
+16 licensee shall pay an examination or visitation fee, and the commissioner shall charge the
+17 licensee for the actual cost of the examination or visitation at an hourly rate set by the
+18 commissioner which is sufficient to cover all reasonable expenses associated with the
+19 examination or visitation.
+20 SECTION 9. AMENDMENT. Section 13-08-11.1 of the North Dakota Century Code is
+21 amended and reenacted as follows:
+22 13-08-11.1. Response to department requests.
+23 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+24 with requests for information, documents, or other requests from the department of financial
+25 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+26 no time is specified, within thirty days of the mailing of the request by the department of
+27 financial institutions. If the request for information is in regard to a new application or renewal of
+28 an existing application and is not received within the time specified in the request, or within
+29 thirty days of the mailing of the request, the department may deny the application.
+30 SECTION 10. AMENDMENT. Section 13-09.1-14 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 21 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 13-09.1-14. Renewal of license.
+2 1. A license under this chapter must be renewed annually.
+3 a. An annual nonrefundable renewal fee must be paid by December thirty-first. The
+4 fee must equal five hundred dollars or one-fourth of one percent of the money
+5 transmission dollar volume in North Dakota for the twelve months ending June
+6 thirtieth, whichever is greater. For the transmission of virtual currency as defined
+7 in section 13-09.1-44, the fee must equal five hundred dollars or one-fourth of
+8 one percent of the average United States dollar equivalent market value of the
+9 virtual currency transmitted in North Dakota for the twelve months ending June
+10 thirtieth, whichever is greater. The fee may not exceed two thousand five hundred
+11 dollars.
+12 b. The renewal term must be for a period of one year and begins on January first of
+13 each year after the initial license term and expires on December thirty-first of the
+14 year the renewal term begins.
+15 2. A licensee shall submit a renewal report with the renewal fee, in a form and in a
+16 medium prescribed by the commissioner. The renewal report must state or contain a
+17 description of each material change in information submitted by the licensee in its
+18 original license application which has not been reported to the commissioner.
+19 3. The commissioner for good cause may grant an extension of the renewal date.
+20 4. The commissioner may utilize the nationwide system to process license renewals
+21 provided that such functionality is consistent with this section.
+22 5. A licensee may renew an expired license no later than January thirty-first subject to a
+23 late fee of fifty dollars.
+24 6. The commissioner may deny an application to renew a license if the licensee no
+25 longer meets the criteria for licensure or otherwise fails to comply with this chapter.
+26 SECTION 11. AMENDMENT. Subsection 3 of section 13-09.1-17 of the North Dakota
+27 Century Code is amended and reenacted as follows:
+28 3. A notice of disapproval must contain a statement of the basis for disapproval and must
+29 be sent to the licensee and the disapproved individual. A licensee may appeal a notice
+30 of disapproval by requesting a hearing before the commissioner within thirtytwenty
+31 days after receipt of notice of disapproval in accordance with chapter 28-32.
+Page No. 22 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 12. AMENDMENT. Section 13-09.1-38 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 13-09.1-38. Orders to cease and desist.
+4 1. If the commissioner determines that a violation of this chapter or of a rule adopted or
+5 an order issued under this chapter by a licensee or authorized delegate is likely to
+6 cause immediate and irreparable harm to the licensee, its customers, or the public as
+7 a result of the violation, or cause insolvency or significant dissipation of assets of the
+8 licensee, the commissioner may issue an order requiring the licensee or authorized
+9 delegate to cease and desist from the violation. The order becomes effective upon
+10 issuance.
+11 2. The commissioner may issue an order against a licensee to cease and desist from
+12 providing money transmission through an authorized delegate that is the subject of a
+13 separate order by the commissioner.
+14 3. An order to cease and desist remains effective and enforceable pending the
+15 completion of an administrative proceedingmust contain a notice of opportunity for a
+16 hearing pursuant to chapter 28-32.
+17 4. An order to cease and desist expires unless the commissioner commences an
+18 administrative proceeding pursuant to chapter 28-32 within ten days after it is issuedIf
+19 the company or individual subject to an order to cease and desist fails to request a
+20 hearing in writing to the commissioner within twenty days of issuance, or if a hearing is
+21 held and the commissioner concludes the record so warrants, the order to cease and
+22 desist becomes final.
+23 SECTION 13. AMENDMENT. Section 13-10-05 of the North Dakota Century Code is
+24 amended and reenacted as follows:
+25 13-10-05. Issuance of license.
+26 The commissioner shall not issue a mortgage loan originator license unless the
+27 commissioner makes at a minimum the following findings:
+28 1. The applicant has never had a mortgage loan originator license revoked in any
+29 governmental jurisdiction, except that a subsequent formal vacation of such revocation
+30 shall not be deemed a revocation.
+Page No. 23 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 2. The applicant has not been charged pending trial, convicted of, or pled guilty, pled to
+2 lesser charges, or pled nolo contendere to, a felony in a domestic, foreign, or military
+3 court:
+4 a. During the seven-year period preceding the date of the application for licensing
+5 and registration; or
+6 b. At any time preceding such date of application, if such felony involved an act of
+7 fraud, dishonesty, or a breach of trust, or money laundering;
+8 c. Provided that any pardon of a conviction shall not be a conviction for purposes of
+9 this subsection.
+10 3. a. The applicant has demonstrated financial responsibility, character, and general
+11 fitness such as to command the confidence of the community and to warrant a
+12 determination that the mortgage loan originator will operate honestly, fairly, and
+13 efficiently within the purposes of this chapter.
+14 b. For purposes of this subsection, a person has shown that that person is not
+15 financially responsible when that person has shown a disregard in the
+16 management of that person's own financial condition. A determination that an
+17 individual has not shown financial responsibility may include:
+18 (1) Current outstanding judgments, except judgments solely as a result of
+19 medical expenses;
+20 (2) Current outstanding tax liens or other government liens and filings;
+21 (3) Foreclosures within the past three years; and
+22 (4) A pattern of seriously delinquent accounts within the past three years.
+23 4. The applicant has completed the prelicensing education requirement described in
+24 section 13-10-06.
+25 5. The applicant has passed a written test that meets the test requirement described in
+26 section 13-10-07.
+27 6. The applicant has met the net worth and surety bond requirements under section
+28 13-10-13.
+29 SECTION 14. AMENDMENT. Subsection 1 of section 13-11-10 of the North Dakota Century
+30 Code is amended and reenacted as follows:
+Page No. 24 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 1. If the commissioner has reason to believe that grounds for revocation of a license
+2 exist, the commissioner may send by certified mail tonotify the licensee with a notice
+3 of hearing stating the contemplated action and in general the grounds thereof and
+4 setting the time and place for a hearing thereon. Grounds for revocation of a license
+5 include:
+6 a. Any debt-settlement provider has failed to pay the annual license fee or to
+7 maintain in effect the bond required under this chapter;
+8 b. The debt-settlement provider has violated this chapter or any rule lawfully made
+9 by the commissioner implementing this chapter;
+10 c. Any fact or condition exists that, if it had existed at the time of the original
+11 application for a license, would have warranted the commissioner in refusing its
+12 issuance; or
+13 d. Any applicant has made any false statement or representation to the
+14 commissioner in applying for a license under this chapter.
+15 SECTION 15. AMENDMENT. Section 13-12-19 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 13-12-19. Response to department requests.
+18 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+19 with requests for information, documents, or other requests from the department of financial
+20 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+21 no time is specified, within thirty days of the mailing of the request by the department of
+22 financial institutions. If the request for information is in regard to a new application or renewal of
+23 an existing application and is not received within the time specified in the request, or within
+24 thirty days of the mailing of the request, the department may deny the application.
+25 SECTION 16. AMENDMENT. Subsections 6, 21, and 22 of section 13-13-01 of the North
+26 Dakota Century Code are amended and reenacted as follows:
+27 6. "Interim serviced prior to salemortgage servicing" means the activity of collecting a
+28 limited number of contractual mortgage payments immediately after origination on
+29 loans held for sale but prior to the loans being sold into the secondary market.
+30 21. "Service or servicing a loan" means on behalf of the lender or investor of a residential
+31 mortgage loan:
+Page No. 25 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 a. Collecting or receiving payments on existing obligations due and owing to the
+2 lender or investor, including payments of principal, interest, escrow amounts, and
+3 other amounts due;
+4 b. Collecting fees due to the servicer;
+5 c. Working with the borrower and the licensed lender or servicer to collect data and
+6 make decisions necessary to modify certain terms of those obligations either
+7 temporarily or permanently;
+8 d. Otherwise finalizing collection through the foreclosure process; or
+9 e. Servicing a reverse mortgage loan.
+10 22. "Servicer" means the entity performing the routine administration of residential
+11 mortgage loans on behalf of the owner or owners of the related mortgages under the
+12 terms of a servicing contract.
+13 SECTION 17. AMENDMENT. Section 13-13-04 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 13-13-04. Entities exempted from licensing requirements.
+16 This chapter does not apply to:
+17 1. Banks;
+18 2. Credit unions;
+19 3. Savings and loan associations;
+20 4. State or federal housing finance agencies;
+21 5. Institutions chartered by the farm credit administration; or
+22 6. Not-for-profit mortgage servicers; or
+23 7. Entities solely performing interim mortgage servicing.
+24 SECTION 18. AMENDMENT. Section 13-13-18 of the North Dakota Century Code is
+25 amended and reenacted as follows:
+26 13-13-18. Response to department requests.
+27 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+28 with requests for information, documents, or other requests from the department of financial
+29 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+30 no time is specified, within thirty days of the mailing of the request by the department of
+31 financial institutions. If the request for information is in regard to a new application or renewal of
+Page No. 26 25.8110.01000
+Sixty-ninth
+Legislative Assembly
+1 an existing application and is not received within the time specified in the request, or within
+2 thirty days of the mailing of the request, the department may deny the application.
+Page No. 27 25.8110.01000
+[DELETED: .T.T)V)E12]
+[DELETED: )P.T.T.I.A.A.W22]
+[DELETED: .T.T.A.A.T32]
+[DELETED: .I.T.E42]
+[DELETED: .".P.I.".".M)A52]
+[DELETED: )P)P)H.D)U)D)I)I.".M)H)O)P)H62]
+[DELETED: )E)E)O)B)O)S)E)I)O)H.D)T)A)P)C)M)A72]
+[DELETED: )A)T)T."."."."."."."82]
+[DELETED: .".".".K.P.I.".M)P)A.D)P)A)A92]
+[DELETED: .".".".M)A)A)A.I)I)A)A)A02]
+[DELETED: )A)A)I.D)A)I.a.")M)F)W)D)I)I)F.F)T12]
+[DELETED: )W.".".A.C.".A.T.B.M.T22]
+[DELETED: .E.P.P.A.I.R.D.R.A.I.A.I)R32]
+[DELETED: )R.T.C.C.R)I)T.A.I)A)L.I.P42]
+[DELETED: .A.I.D)T)I)W.P.A.I)M)D.a.A52]
+[DELETED: .I)A)V.A.P.U.P.V62]
+[DELETED: .A.T.R.P.A. .A. .A.A.T.T.C.E.R.D.T72]
+[DELETED: .A.T.M.a.A. )T)A)T)T)A)A82]
+[DELETED: .A.A."."."."."92]
+[DELETED: ."."."02]
+[DELETED: 12]
+[DELETED: .A.A.T.A.T.T.A.T.A22]
+[DELETED: .I.T.A.A.T32]
+[DELETED: .T.D.A.P.a.T.F)C)C)F)A.T.T.T42]
+[DELETED: .I.A.T.A.A."."52]
+[DELETED: .C.C.W.O.S.".B.C.S.S.I.N.E62]
+[DELETED: 72]
+
+
+================================================================================
+
+Raw Text:
+25.8110.01000
+Sixty-ninth
+HOUSE BILL NO. 1127
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry, Business and Labor Committee
+(At the request of the Department of Financial Institutions)
+1 A BILL for an Act to create and enact chapter 13-01.2 of the North Dakota Century Code,
+2 relating to the financial institution data security program; and to amend and reenact sections
+3 6-01-04.1 and 6-01-04.2, subsection 7 of section 6-03-02, sections 13-04.1-01.1, 13-04.1-11.1,
+4 13-05-07.1, 13-08-10, 13-08-11.1, and 13-09.1-14, subsection 3 of section 13-09.1-17, sections
+5 13-09.1-38 and 13-10-05, subsection 1 of section 13-11-10, section 13-12-19, subsections 6,
+6 21, and 22 of section 13-13-01, and sections 13-13-04 and 13-13-18 of the North Dakota
+7 Century Code, relating to the department of financial institutions, financial institutions, response
+8 to department requests, renewal of licenses, orders to cease and desist, issuance of licenses,
+9 revocation of licenses, and exemptions from licenses.
+10 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+11 SECTION 1. AMENDMENT. Section 6-01-04.1 of the North Dakota Century Code is
+12 amended and reenacted as follows:
+13 6-01-04.1. Removal of officers, directors, and employees of financial corporations or
+14 institutions.
+15 1. The department of financial institutions or the board may issue, upon any current or
+16 former officer, director, or employee of a financial corporation, financial institution, or
+17 credit union subject to its jurisdiction and upon a financial corporation, financial
+18 institution, or credit union involved, an order stating:
+19 a. That the current or former officer, director, or employee is engaging, or has
+20 engaged, in any of the following conduct:
+21 (1) Violating any law, regulation, board order, or written agreement with the
+22 board.
+23 (2) Engaging or participating in any unsafe or unsound practice.
+Page No. 1 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (3) Performing any act of commission or omission or practice which is a breach
+2 of trust or a breach of fiduciary duty.
+3 b. The term of the suspension or removal from employment and participation within
+4 the conduct of the affairs of a financial corporation, financial institution, credit
+5 union, or any other entity licensed by the department of financial institutions.
+6 2. The order must contain a notice of opportunity for hearing pursuant to chapter 28-32.
+7 The date for the hearing must be set not less than thirty days after the date the
+8 complaint is served upon the current or former officer, director, or employee of a
+9 financial corporation, financial institution, credit union, or any other entity licensed by
+10 the department of financial institutions. The current or former officer, director, or
+11 employee may waive the thirty-day notice requirement.
+12 3. If no hearing is requested within twenty days of the date the order is served upon the
+13 current or former officer, director, or employee, the order is final. If a hearing is held
+14 and the board finds that the record so warrants, it may enter a final order. The final
+15 order suspending or removing the current or former officer, director, or employee is
+16 final. The current or former officer or employee may request a termination of the final
+17 order after a period of no less than three years.
+18 4. A contested or default suspension or removal order is effective immediately upon
+19 issuance on the current or former officer, director, or employee and upon a financial
+20 corporation, financial institution, or credit union. A consent order is effective as agreed.
+21 5. Any current or former officer, director, or employee suspended or removed from any
+22 position pursuant to this section is not eligible, while under suspension or removal, to
+23 be employed or otherwise participate in the affairs of any financial corporation,
+24 financial institution, or credit union or any other entity licensed by the department of
+25 financial institutions until the suspension or removal is terminated by the department of
+26 financial institutions or board.
+27 6. When any current or former officer, director, employee, or other person participating in
+28 the conduct of the affairs of a financial corporation, financial institution, or credit union
+29 is charged with a felony in state or federal court, involving dishonesty or breach of
+30 trust, the commissioner may immediately suspend the person from office or prohibit
+31 the person from any further participation in a financial corporation's, financial
+Page No. 2 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 institution's, or credit union's affairs. The order is effective immediately upon issuance
+2 of the order on a financial corporation, financial institution, or credit union and the
+3 person charged, and remains in effect until the criminal charge is finally disposed of or
+4 until modified by the board. If a judgment of conviction, a federal pretrial diversion,
+5 conviction or agreement to plea to lesser charges, or similar state order or judgment is
+6 entered, the board or commissioner may order that the suspension or prohibition be
+7 made permanent. A finding of not guilty or other disposition of the charge does not
+8 preclude the commissioner or the board from pursuing administrative or civil remedies.
+9 7. The commissioner or board may issue upon a current or former officer, director,
+10 employee, or other person participating in the conduct of the affairs of a financial
+11 corporation, financial institution, or credit union an order permanently suspending and
+12 prohibiting the person from participation in a financial corporation's, financial
+13 institution's, or credit union's affairs if convicted of any charge involving dishonesty or
+14 breach of trust in state or federal court. The suspension or removal order is effective
+15 immediately upon issuance on the current or former officer, director, or employee and
+16 upon a financial corporation, financial institution, or credit union.
+17 SECTION 2. AMENDMENT. Section 6-01-04.2 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 6-01-04.2. Cease and desist orders.
+20 1. The department of financial institutions or the board may issue and serve upon a
+21 financial corporation, financial institution, or credit union subject to its jurisdiction a
+22 complaint stating the factual basis for the department's or board's belief that the
+23 financial corporation, financial institution, or credit union is engaging in any of the
+24 following conduct:
+25 a. An unsafe or unsound practice.
+26 b. A violation in the past or on a continuing basis of any law, regulation, board order,
+27 or written agreement entered into with the board or department of financial
+28 institutions.
+29 2. The complaint must contain a notice of opportunity for hearing pursuant to chapter
+30 28-32. The date for the hearing must be set not less than thirty days after the date the
+31 complaint is served upon the financial corporation, financial institution, or credit union.
+Page No. 3 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 The financial corporation, financial institution, or credit union may waive the thirty-day
+2 notice requirement.
+3 3. If the financial corporation, financial institution, or credit union fails to respond to the
+4 complaint within twenty days of its service, or if a hearing is held and the board
+5 concludes that the record so warrants, the board may enter an order directing the
+6 financial corporation, financial institution, or credit union to cease and desist from
+7 engaging in the conduct which was the subject of the complaint and hearing and to
+8 take corrective action.
+9 4. The commissioner or the board may enter an emergency, temporary cease and desist
+10 order if the commissioner or the board finds the conduct described in the complaint is
+11 likely to cause insolvency, substantial dissipation of assets, earnings, or capital of the
+12 financial corporation, financial institution, or credit union, or substantial prejudice to the
+13 depositors, shareholders, members, or creditors of the financial corporation, financial
+14 institution, or credit union. An emergency, temporary cease and desist order is
+15 effective immediately upon service on the financial corporation, financial institution, or
+16 credit union and remains in effect for no longer than sixty days or until the conclusion
+17 of permanent cease and desist proceedings pursuant to this section, whichever is
+18 sooner. An emergency, temporary cease and desist order may be issued without an
+19 opportunity for hearing. A bank or credit union may request a hearing before the state
+20 banking board or state credit union board within ten days of the order to review the
+21 factual basis used to issue the emergency, temporary cease and desist order. The
+22 decision made by the board during this hearing will be final. If a hearing is not
+23 requested, the initial decision of the commissioner or board will be final.
+24 SECTION 3. AMENDMENT. Subsection 7 of section 6-03-02 of the North Dakota Century
+25 Code is amended and reenacted as follows:
+26 7. Exercise, as determined by the board or commissioner by order or rule, all the
+27 incidental powers as are necessary to carry on the business of banking, including
+28 discounting and negotiating promissory notes, bills of exchange, drafts, and other
+29 evidences of debt; receiving deposits; buying and selling exchange, coin, and bullion;
+30 loaning money upon real or personal security, or both; soliciting and receiving deposits
+31 in the nature of custodial accounts for the purpose of health savings or similar health
+Page No. 4 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 care cost funding accounts, retirement fund contracts, or pension programs, and such
+2 custodial accounts are exempt from chapter 6-05; and providing services to its
+3 customers involving electronic transfer of funds to the same extent that other financial
+4 institutions chartered and regulated by an agency of the federal government are
+5 permitted to provide those services within this state. A bank that provides electronic
+6 funds transfer equipment and service to its customers, at premises separate from its
+7 main banking house or duly authorized facility approved by the state banking board,
+8 must make the equipment and service available for use by customers of any other
+9 bank upon the request of the other bank to share its use and the agreement of the
+10 other bank to share pro rata all costs incurred in connection with its installation and
+11 operation, and the electronic operations are not deemed to be the establishment of a
+12 branch, nor of a separate facility. The electronic operations at premises separate from
+13 its banking house or duly authorized facility must be considered a customer electronic
+14 funds transfer center and may be established subject to rules that the state banking
+15 board adopts.
+16 SECTION 4. Chapter 13-01.2 of the North Dakota Century Code is created and enacted as
+17 follows:
+18 13-01.2-01. Definitions.
+19 For purposes of this chapter, the following definitions shall apply:
+20 1. "Authorized user" means any employee, contractor, agent, or other person who:
+21 a. Participates in a financial corporation's business operations; and
+22 b. Is authorized to access and use any of the financial corporation's information
+23 systems and data.
+24 2. "Commissioner" means the commissioner of the department of financial institutions.
+25 3. "Consumer":
+26 a. Means an individual, or that individual's legal representative, who applies for or
+27 has obtained a financial product or service from a financial corporation which is to
+28 be used primarily for personal, family, or household purposes. A consumer
+29 includes an individual who:
+30 (1) Applies to a financial corporation for credit for personal, family, or household
+31 purposes, regardless of whether the credit is extended.
+Page No. 5 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) Provides nonpublic personal information to a financial corporation to obtain
+2 a determination about whether the applicant may qualify for a loan to be
+3 used primarily for personal, family, or household purposes, regardless of
+4 whether the loan is extended.
+5 (3) Provides nonpublic personal information to a financial corporation in
+6 connection with obtaining or seeking to obtain financial, investment, or
+7 economic advisory services, regardless of whether the financial corporation
+8 establishes a continuing advisory relationship.
+9 (4) Has a loan for personal, family, or household purposes in which the financial
+10 corporation has ownership or servicing rights, even if the financial
+11 corporation or one or more other corporations that hold ownership or
+12 servicing rights in conjunction with the financial corporation hires an agent to
+13 collect on the loan.
+14 b. Does not include an individual who:
+15 (1) Uses a different financial corporation or financial institution to act solely as
+16 an agent for, or provide processing or other services to, the individual
+17 financial corporation or financial institution.
+18 (2) Designates a financial corporation solely for the purposes to act as trustee
+19 for a trust.
+20 (3) Is a beneficiary of a trust for which the financial corporation is a trustee.
+21 (4) Is a participant or a beneficiary of an employee benefit plan that the financial
+22 corporation sponsors or for which the financial corporation acts as a trustee
+23 or fiduciary.
+24 4. "Continuing relationship":
+25 a. Means a situation in which a consumer:
+26 (1) Has a credit or investment account with a financial corporation;
+27 (2) Obtains a loan from a financial corporation;
+28 (3) Purchases an insurance product from a financial corporation;
+29 (4) Holds an investment product through a financial corporation, including when
+30 a financial corporation acts as a custodian for securities or for assets in an
+31 individual retirement arrangement;
+Page No. 6 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (5) Enters into an agreement or understanding with a financial corporation in
+2 which the financial corporation undertakes to arrange or broker a home
+3 mortgage loan, or credit to purchase a vehicle, for the consumer;
+4 (6) Enters into a lease of personal property on a nonoperating basis with a
+5 financial corporation;
+6 (7) Obtains financial, investment, or economic advisory services from a
+7 financial corporation for a fee;
+8 (8) Becomes a financial corporation's client for the purpose of obtaining tax
+9 preparation or credit counseling services from the financial corporation;
+10 (9) Obtains career counseling while:
+11 (a) Seeking employment with a financial corporation or the finance,
+12 accounting, or audit department of any company; or
+13 (b) Employed by a financial corporation or department of any company;
+14 (10) Is obligated on an account that a financial corporation purchases from
+15 another financial corporation, regardless of whether the account is in default
+16 when purchased, unless the financial corporation does not locate the
+17 consumer or attempt to collect any amount from the consumer on the
+18 account;
+19 (11) Obtains real estate settlement services from a financial corporation; or
+20 (12) Has a loan for which a financial corporation owns the servicing rights.
+21 b. Does not include a situation in which:
+22 (1) The consumer obtains a financial product or service from a financial
+23 corporation only in isolated transactions, including:
+24 (a) A financial corporation's automated teller machine to withdraw cash
+25 from an account at another financial institution;
+26 (b) Purchasing a money order from a financial corporation;
+27 (c) Cashing a check with a financial corporation; or
+28 (d) Making a wire transfer through a financial corporation;
+29 (2) A financial corporation sells the consumer's loan and does not retain the
+30 rights to service that loan;
+Page No. 7 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (3) A financial corporation sells the consumer an airline ticket, travel insurance,
+2 or a traveler's check in isolated transactions;
+3 (4) The consumer obtains one-time personal or real property appraisal services
+4 from a financial corporation; or
+5 (5) The consumer purchases checks for a personal checking account from a
+6 financial corporation.
+7 5. "Customer" means a consumer who has a customer relationship with a financial
+8 corporation.
+9 6. "Customer information" means any record containing nonpublic personal information
+10 about a customer of a financial corporation, whether in paper, electronic, or other form,
+11 which is handled or maintained by or on behalf of the financial corporation or the
+12 financial corporation's affiliates.
+13 7. "Customer relationship" means a continuing relationship between a consumer and a
+14 financial corporation under which the financial corporation provides one or more
+15 financial products or services to the consumer that are used primarily for personal,
+16 family, or household purposes.
+17 8. "Encryption" means the transformation of data into a form that results in a low
+18 probability of assigning meaning without the use of a protective process or key,
+19 consistent with current cryptographic standards and accompanied by appropriate
+20 safeguards for cryptographic key material.
+21 9. "Financial corporation" means all entities regulated by the department of financial
+22 institutions, excluding financial institutions and credit unions.
+23 10. "Financial institution" means any bank, industrial loan company, or savings and loan
+24 association organized under the laws of this state or of the United States.
+25 11. "Financial product or service" means any product or service that a financial holding
+26 company could offer by engaging in a financial activity under the federal Bank Holding
+27 Company Act of 1956 [12 U.S.C. 1843 section 4(k)]. The term includes a financia l
+28 corporation's evaluation or brokerage of information that a financial corporation
+29 collects in connection with a request or an application from a consumer for a financial
+30 product or service.
+Page No. 8 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 12. "Information security program" means the administrative, technical, or physical
+2 safeguards a financial corporation uses to access, collect, distribute, process, protect,
+3 store, use, transmit, dispose of, or otherwise handle customer information.
+4 13. "Information system" means a discrete set of electronic information resources
+5 organized for the collection, processing, maintenance, use, sharing, dissemination, or
+6 disposition of electronic information, as well as any specialized system, including
+7 industrial process controls systems, telephone switching and private branch exchange
+8 systems, and environmental controls systems that contain customer information or
+9 that is connected to a system that contains customer information.
+10 14. "Multifactor authentication" means authentication through verification of at least two of
+11 the following types of authentication factors:
+12 a. Knowledge factors, including a password;
+13 b. Possession factors, including a token; or
+14 c. Inherence factors, including biometric characteristics.
+15 15. "Nonpublic personal information":
+16 a. Means:
+17 (1) Personally identifiable financial information; and
+18 (2) Any list, description, or other grouping of consumers, including publicly
+19 available information pertaining to the consumers that is derived using
+20 personally identifiable financial information that is not publicly available,
+21 including account numbers.
+22 b. Does not include:
+23 (1) Publicly available information, except as included on a list described in
+24 paragraph 2 of subdivision a ;
+25 (2) Any list, description, or other grouping of consumers, including publicly
+26 available information pertaining to the consumers that is derived without
+27 using any personally identifiable financial information that is not publicly
+28 available; or
+29 (3) Any list of individuals' names and addresses that contains only publicly
+30 available information, is not derived, in whole or in part, using personally
+31 identifiable financial information that is not publicly available, and is not
+Page No. 9 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 disclosed in a manner that indicates that any individual on the list is the
+2 financial corporation's consumer.
+3 16. "Notification event" means the acquisition of unencrypted customer information without
+4 the authorization of the individual to which the information pertains. Customer
+5 information is considered unencrypted for purposes of this subsection if the encryption
+6 key was accessed by an unauthorized person. Unauthorized acquisition is presumed
+7 to include unauthorized access to unencrypted customer information unless the
+8 financial corporation has reliable evidence showing there has not been, or could not
+9 reasonably have been, unauthorized acquisition of customer information.
+10 17. "Penetration testing" means a test methodology in which assessors attempt to
+11 circumvent or defeat the security features of an information system by attempting to
+12 penetrate databases or controls from outside or inside a financial corporation's
+13 information systems.
+14 18. "Personally identifiable financial information":
+15 a. Means any information:
+16 (1) A consumer provides to a financial corporation to obtain a financial product
+17 or service;
+18 (2) About a consumer resulting from any transaction involving a financial
+19 product or service between a financial corporation and a consumer; or
+20 (3) A financial corporation otherwise obtains about a consumer in connection
+21 with providing a financial product or service to that consumer.
+22 b. Includes:
+23 (1) Information a consumer provides to a financial corporation on an application
+24 to obtain a loan, credit card, or other financial product or service;
+25 (2) Account balance information, payment history, overdraft history, and credit
+26 or debit card purchase information;
+27 (3) An individual that is or has been a financial corporation's customer or has
+28 obtained a financial product or service from the financial corporation;
+29 (4) Any information about a financial corporation's consumer if it is disclosed in
+30 a manner that indicates the individual is or has been a financial
+31 corporation's consumer;
+Page No. 10 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (5) Any information a consumer provides to a financial corporation or which a
+2 financial corporation or a financial corporation's agent otherwise obtains in
+3 connection with collecting on, or servicing, a credit account;
+4 (6) Any information a financial corporation collects through an information
+5 collecting device from a web server; and
+6 (7) Information from a consumer report.
+7 c. Does not include:
+8 (1) A list of names and addresses of customers of an entity that is not a
+9 financial corporation; and
+10 (2) Information that does not identify a consumer, such as aggregate
+11 information or blind data that does not contain personal identifiers such as
+12 account numbers, names, or addresses.
+13 19. a. "Publicly available information":
+14 (1) Means any information that a financial corporation has a reasonable basis
+15 to believe is lawfully made available to the general public from:
+16 (a) Federal, state, or local government records;
+17 (b) Widely distributed media; or
+18 (c) Disclosures to the general public which are required under federal,
+19 state, or local law.
+20 (2) Includes information:
+21 (a) In government real estate records and security interest filings; or
+22 (b) From widely distributed media, a telephone book, a television or radio
+23 program, a newspaper, or a website that is available to the general
+24 public on an unrestricted basis. A website is not restricted because an
+25 internet service provider or a site operator requires a fee or a
+26 password, provided access is available to the general public.
+27 b. For purposes of this subsection, a financial corporation has a reasonable basis to
+28 believe information is lawfully made available to the general public if the financial
+29 corporation has taken steps to determine:
+30 (1) The information is of the type available to the general public; and
+Page No. 11 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) Whether an individual can direct that the information not be made available
+2 to the general public and, if so, that the financial corporation's consumer has
+3 not done so. A financial corporation has a reasonable basis to believe
+4 mortgage information is lawfully made available to the general public if the
+5 financial corporation determines the information is of the type included on
+6 the public record in the jurisdiction where the mortgage is recorded. A
+7 financial corporation has a reasonable basis to believe an individual's
+8 telephone number is lawfully made available to the general public if the
+9 financial corporation has located the telephone number in the telephone
+10 book or the consumer has informed the financial corporation the telephone
+11 number is not unlisted.
+12 20. "Qualified individual" means the individual designated by a financial institution to
+13 oversee, implement, and enforce the financial institution's information security
+14 program.
+15 21. "Security event" means an event resulting in unauthorized access to, or disruption or
+16 misuse of:
+17 a. An information system or information stored on an information system; or
+18 b. Customer information held in physical form.
+19 22. "Service provider" means any person or entity that receives, maintains, processes, or
+20 otherwise is permitted access to customer information through its provision of services
+21 directly to a financial corporation that is subject to this chapter.
+22 13-01.2-02. Standards for safeguarding customer information.
+23 1. A financial corporation shall develop, implement, and maintain a comprehensive
+24 information security program.
+25 2. The information security program must:
+26 a. Be written in one or more readily accessible parts; and
+27 b. Maintain administrative, technical, and physical safeguards that are appropriate
+28 to the financial corporation's size and complexity, the nature and scope of the
+29 financial corporation's activities, and the sensitivity of any customer information at
+30 issue.
+31 3. The financial corporation shall develop a security program that:
+Page No. 12 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Ensures the security and confidentiality of customer information;
+2 b. Protects against any anticipated threats or hazards to the security or integrity of
+3 such information; and
+4 c. Protects against unauthorized access to or use of such information that could
+5 result in substantial harm or inconvenience to any customer.
+6 13 - 01.2 - 03. Elements of a security program .
+7 1. A financial corporation's information security program must denote a designation of a
+8 qualified individual responsible for overseeing and implementing the financial
+9 corporation's information security program and enforcing the financial corporation's
+10 information security program. The qualified individual may be employed by the
+11 financial corporation, an affiliate, or a service provider.
+12 2. If a financial corporation designates an individual employed by an affiliate or service
+13 provider as the qualified individual, the financial corporation shall:
+14 a. Retain responsibility for compliance with this chapter;
+15 b. Designate a senior member of the financial corporation's personnel to be
+16 responsible for directing and overseeing the qualified individual; and
+17 c. Require the service provider or affiliate to maintain an information security
+18 program that protects the financial corporation in accordance with the
+19 requirements of this chapter.
+20 3. A financial corporation shall base the financial corporation's information security
+21 program on a risk assessment that:
+22 a. Identifies reasonably foreseeable internal and external risks to the security,
+23 confidentiality, and integrity of customer information that could result in the
+24 unauthorized disclosure, misuse, alteration, destruction or other compromise of
+25 customer information;
+26 b. Assesses the sufficiency of any safeguards in place to control the risks in
+27 subdivision a; and
+28 c. Includes additional periodic risk assessments that:
+29 (1) Re-examine the reasonably foreseeable internal and external risks to the
+30 security, confidentiality, and integrity of customer information that could
+Page No. 13 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 result in the unauthorized disclosure, misuse, alteration, destruction or other
+2 compromise of such information; and
+3 (2) Reassess the sufficiency of any safeguards in place to control these risks.
+4 4. The risk assessment must be in writing and include:
+5 a. Criteria to evaluate and categorize identified security risks or threats the financial
+6 corporation faces;
+7 b. Criteria for the assessment of the confidentiality, integrity, and availability of the
+8 financial corporation's information systems and customer information, including
+9 the adequacy of the existing controls in the context of the identified risks or
+10 threats the financial corporation faces; and
+11 c. Requirements describing how:
+12 (1) Identified risks will be mitigated or accepted based on the risk assessment;
+13 and
+14 (2) The information security program will address the risks.
+15 5. A financial corporation shall design and implement safeguards to control the risks the
+16 financial corporation identifies through the risk assessment in subsection 4, which
+17 include:
+18 a. Implementing and periodically reviewing access controls, including technical and
+19 as appropriate, physical controls to:
+20 (1) Authenticate and permit access only to authorized users to protect against
+21 the unauthorized acquisition of customer information; and
+22 (2) Limit an authorized user's access to only customer information the
+23 authorized user needs to perform the authorized user's duties and functions,
+24 or in the case of a customer, to access the customer's own information.
+25 b. Identifying and managing data, personnel, devices, systems, and facilities that
+26 enable the financial corporation to achieve business purposes in accordance with
+27 the business purpose's relative importance to business objectives and the
+28 financial corporation's risk strategy.
+29 c. Protecting by encryption all customer information held or transmitted by the
+30 financial corporation both in transit over external networks and at rest. To the
+31 extent a financial corporation determines that encryption of customer information,
+Page No. 14 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 either in transit over external networks or at rest, is infeasible, the financial
+2 corporation may secure customer information using effective alternative
+3 compensating controls reviewed and approved by the financial corporation's
+4 qualified individual.
+5 d. Adopting secure development practices for in-house developed applications
+6 utilized by the financial corporation for transmitting, accessing, or storing
+7 customer information and procedures for evaluating, assessing, or testing the
+8 security of externally developed applications the financial corporation utilizes to
+9 transmit, access, or store customer information.
+10 e. Implementing multifactor authentication for any individual accessing any
+11 information system, unless the financial corporation's qualified individual has
+12 approved in writing the use of a reasonably equivalent or more secure access
+13 control.
+14 f. Developing, implementing, and maintaining procedures to securely dispose of
+15 customer information, in any format, no later than two years after the last date the
+16 information is used in connection with providing a product or service to the
+17 customer which it relates, unless:
+18 (1) The information is necessary for business operations or for other legitimate
+19 business purposes;
+20 (2) Is otherwise required to be retained by law or regulation; or
+21 (3) Where targeted disposal is not reasonably feasible due to the manner in
+22 which the information is maintained.
+23 g. Periodically reviewing the financial corporation's data retention policy to minimize
+24 unnecessary retention of data.
+25 h. Adopting procedures for change management.
+26 i. Implementing policies, procedures and controls designed to:
+27 (1) Monitor and log the activity of authorized users; and
+28 (2) Detect unauthorized access to, use of, or tampering with customer
+29 information by authorized users.
+30 6. a. A financial corporation shall regularly test or otherwise monitor the effectiveness
+31 of the safeguards' key controls, systems, and procedures, including the controls,
+Page No. 15 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 systems, and procedures to detect actual and attempted attacks on, or intrusions
+2 into, information systems.
+3 b. Information systems monitoring and testing must include continuous monitoring
+4 or periodic penetration testing, and vulnerability assessments. Without effective
+5 continuous monitoring or other systems to detect, on an ongoing basis, changes
+6 in information systems that may create vulnerabilities, a financial corporation
+7 shall conduct:
+8 (1) Annual penetration testing of the financial corporation's information systems
+9 based on relevant identified risks in accordance with the risk assessment;
+10 and
+11 (2) Vulnerability assessments, including systemic scans or information systems
+12 reviews that are reasonably designed to identify publicly known security
+13 vulnerabilities in the financial corporation's information systems based on
+14 the risk assessment, at least every six months; whenever there are material
+15 changes to the financial corporation's operations or business arrangements;
+16 and whenever there are circumstances the financial corporation knows or
+17 has reason to know may have a material impact on the financial
+18 corporation's information security program.
+19 7. A financial corporation shall implement policies and procedures to ensure the financial
+20 corporation's personnel are able to enact the financial corporation's information
+21 security program by:
+22 a. Providing the financial corporation's personnel with security awareness training
+23 that is updated as necessary to reflect risks identified by the risk assessment;
+24 b. Utilizing qualified information security personnel employed by the financial
+25 corporation or an affiliate or service provider sufficient to manage the financial
+26 corporation's information security risks and to perform or oversee the information
+27 security program;
+28 c. Providing information security personnel with security updates and training
+29 sufficient to address relevant security risks; and
+30 d. Verifying that key information security personnel take steps to maintain current
+31 knowledge of changing information security threats and countermeasures.
+Page No. 16 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 8. A financial corporation shall oversee service providers by:
+2 a. Taking reasonable steps to select and retain service providers capable of
+3 maintaining appropriate safeguards for customer information;
+4 b. Requiring, by contract, the financial corporation's service providers implement
+5 and maintain appropriate safeguards; and
+6 c. Periodically assessing the financial corporation's service providers based on the
+7 risk they present, and the continued adequacy of the service providers'
+8 safeguards.
+9 9. A financial corporation shall evaluate and adjust the financial corporation's information
+10 security program by incorporating:
+11 a. The results of the testing and monitoring required under subsection 5 ;
+12 b. Any material changes to the financial corporation's operations or business
+13 arrangements;
+14 c. The results of risk assessments performed under subsection 3; or
+15 d. Any other circumstances that the financial corporation knows or has reason to
+16 know may have a material impact on the financial corporation's information
+17 security program.
+18 10. A financial corporation shall establish a written incident response plan designed to
+19 promptly respond to, and recover from, any security event materially affecting the
+20 confidentiality, integrity, or availability of customer information the financial corporation
+21 controls. The plan must address:
+22 a. The goals of the incident response plan;
+23 b. The internal processes for responding to a security event;
+24 c. Clear roles, responsibilities, and levels of decisionmaking authority;
+25 d. External and internal communications and information sharing;
+26 e. Requirements for the remediation of any identified weaknesses in information
+27 systems and associated controls;
+28 f. Documentation and reporting regarding security events and related incident
+29 response activities; and
+30 g. The evaluation and revision of the incident response plan, as necessary, after a
+31 security event.
+Page No. 17 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 11. A financial corporation shall require the financial corporation's qualified individual to
+2 report in writing, at least annually, to the financial corporation's board of directors or
+3 equivalent governing body. If no board of directors or equivalent governing body
+4 exists, the report shall be timely presented to a senior officer responsible for the
+5 financial corporation's information security program. The report must include:
+6 a. The overall status of the information security program, and the financial
+7 corporation's compliance with this chapter and associated rules; and
+8 b. Material matters related to the information security program, addressing issues
+9 including risk assessment, risk management and control decisions, service
+10 provider arrangements, results of testing, security events or violations and
+11 management's responses thereto, and recommendations for changes in the
+12 information security program.
+13 12. a. A financial corporation shall notify the commissioner about notification events.
+14 b. After discovery of a notification event described in subdivision c, if the notification
+15 event involves the information of at least five hundred consumers, the financial
+16 corporation shall notify the commissioner as soon as possible, and no later than
+17 forty-five days after the event is discovered. The notice must be made in a format
+18 specified by the commissioner and include:
+19 (1) The name and contact information of the reporting financial corporation;
+20 (2) A description of the types of information involved in the notification event;
+21 (3) The date or date range of the notification event, if the information is possible
+22 to determine;
+23 (4) The number of consumers affected or potentially affected by the notification
+24 event;
+25 (5) A general description of the notification event; and
+26 (6) A statement whether any law enforcement official has provided the financial
+27 corporation with a written determination that notifying the public of the
+28 breach would impede a criminal investigation or cause damage to national
+29 security, and a means for the commissioner to contact the law enforcement
+30 official. A law enforcement official may request an initial delay of up to
+31 forty - five days following the date when notice was provided to the
+Page No. 18 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 commissioner. The delay may be extended for an additional period of up to
+2 sixty days if the law enforcement official seeks an extension in writing.
+3 c. A notification event must be treated as discovered on the first day when the event
+4 is known to the financial corporation. A financial corporation is deemed to have
+5 knowledge of a notification event if the event is known to any employee, officer,
+6 or other agent of the financial corporation, other than the person committing the
+7 breach.
+8 13. A financial corporation shall establish a written plan addressing business continuity
+9 and disaster recovery.
+10 13 - 01.2 - 04. Exemptions .
+11 Subsection 4, subdivision b of subsection 6, and subsections 10 and 11 of section
+12 13 - 01.2 - 03 do not apply to financial institutions that maintain customer information concerning
+13 fewer than five thousand consumers.
+14 SECTION 5. AMENDMENT. Section 13-04.1-01.1 of the North Dakota Century Code is
+15 amended and reenacted as follows:
+16 13-04.1-01.1. Definitions.
+17 As used in this chapter, unless the context or subject matter otherwise requires:
+18 1. "Borrower" means a person or entity that seeks out, or is solicited by a money broker
+19 for the purpose of money brokering.
+20 2. "Commissioner" means the commissioner of financial institutions.
+21 3. "Loan" means a contract by which one delivers a sum of money to another and the
+22 latter agrees to return at a future time a sum equivalent to that which the person
+23 borrowed. This includes alternative financing products as identified by the
+24 commissioner through the issuance of an order.
+25 4. "Money broker" means a person or entity who, in the ordinary course of business,
+26 engages in money brokering.
+27 4.5. "Money brokering" means the act of arranging or providing loans or leases as a form
+28 of financing, or advertising or soliciting either in print, by letter, in person, or otherwise,
+29 the right to find lenders or provide loans or leases for persons or businesses desirous
+30 of obtaining funds for any purposes.
+Page No. 19 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5.6. "Net branch" means an office at which a licensed money broker allows a separate
+2 person that does not hold a valid North Dakota money brokers license to originate
+3 loans under the license of the money broker.
+4 6.7. "Net branch arrangement" means an arrangement under which a licensed money
+5 broker enters an agreement whereby its designated branch manager has the
+6 appearance of ownership of the licensee by, among other things, sharing in the profits
+7 or losses, establishing, leasing, or renting the branch premises, entering other
+8 contractual relationships with vendors such as for telephones, utilities, and advertising,
+9 having control of a corporate checkbook, or exercising control of personnel through
+10 the power to hire or fire such individuals. A person may be considered to be utilizing a
+11 net branch if the net branch agreement requires the branch manager to indemnify the
+12 licensee for damages from any apparent, express, or implied agency representation
+13 by or through the branch's actions or if the agreement requires the branch manager to
+14 issue a personal check to cover operating expenses whether or not funds are
+15 available from an operating account of the licensee.
+16 7.8. "Precomputed loan" means a loan that is expressed as a sum comprising the principal
+17 and the amount of the loan finance charge computed in advance.
+18 SECTION 6. AMENDMENT. Section 13-04.1-11.1 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 13-04.1-11.1. Response to department requests.
+21 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+22 with requests for information, documents, or other requests from the department of financial
+23 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+24 no time is specified, within thirty days of the mailing of the request by the department of
+25 financial institutions. If the request for information is in regard to a new application or renewal of
+26 an existing application and is not received within the time specified in the request, or within
+27 thirty days of the mailing of the request, the department may deny the application.
+28 SECTION 7. AMENDMENT. Section 13-05-07.1 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 20 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 13-05-07.1. Response to department requests.
+2 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+3 with requests for information, documents, or other requests from the department of financial
+4 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+5 no time is specified, within thirty days of the mailing of the request by the department of
+6 financial institutions. If the request for information is in regard to a new application or renewal of
+7 an existing application and is not received within the time specified in the request, or within
+8 thirty days of the mailing of the request, the department may deny the application.
+9 SECTION 8. AMENDMENT. Section 13-08-10 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 13-08-10. Regulations - Examinations.
+12 The commissioner may adopt rules for the implementation and enforcement of this chapter.
+13 A copy of a rule adopted by the commissioner must be mailed to each licensee at least thirty
+14 days before the date the rule takes effect. To assure compliance with this chapter, the
+15 commissioner may examine the relevant business, books, and records of any licensee. The
+16 licensee shall pay an examination or visitation fee, and the commissioner shall charge the
+17 licensee for the actual cost of the examination or visitation at an hourly rate set by the
+18 commissioner which is sufficient to cover all reasonable expenses associated with the
+19 examination or visitation.
+20 SECTION 9. AMENDMENT. Section 13-08-11.1 of the North Dakota Century Code is
+21 amended and reenacted as follows:
+22 13-08-11.1. Response to department requests.
+23 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+24 with requests for information, documents, or other requests from the department of financial
+25 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+26 no time is specified, within thirty days of the mailing of the request by the department of
+27 financial institutions. If the request for information is in regard to a new application or renewal of
+28 an existing application and is not received within the time specified in the request, or within
+29 thirty days of the mailing of the request, the department may deny the application.
+30 SECTION 10. AMENDMENT. Section 13-09.1-14 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 21 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 13-09.1-14. Renewal of license.
+2 1. A license under this chapter must be renewed annually.
+3 a. An annual nonrefundable renewal fee must be paid by December thirty-first. The
+4 fee must equal five hundred dollars or one-fourth of one percent of the money
+5 transmission dollar volume in North Dakota for the twelve months ending June
+6 thirtieth, whichever is greater. For the transmission of virtual currency as defined
+7 in section 13-09.1-44, the fee must equal five hundred dollars or one-fourth of
+8 one percent of the average United States dollar equivalent market value of the
+9 virtual currency transmitted in North Dakota for the twelve months ending June
+10 thirtieth, whichever is greater. The fee may not exceed two thousand five hundred
+11 dollars.
+12 b. The renewal term must be for a period of one year and begins on January first of
+13 each year after the initial license term and expires on December thirty-first of the
+14 year the renewal term begins.
+15 2. A licensee shall submit a renewal report with the renewal fee, in a form and in a
+16 medium prescribed by the commissioner. The renewal report must state or contain a
+17 description of each material change in information submitted by the licensee in its
+18 original license application which has not been reported to the commissioner.
+19 3. The commissioner for good cause may grant an extension of the renewal date.
+20 4. The commissioner may utilize the nationwide system to process license renewals
+21 provided that such functionality is consistent with this section.
+22 5. A licensee may renew an expired license no later than January thirty-first subject to a
+23 late fee of fifty dollars.
+24 6. The commissioner may deny an application to renew a license if the licensee no
+25 longer meets the criteria for licensure or otherwise fails to comply with this chapter.
+26 SECTION 11. AMENDMENT. Subsection 3 of section 13-09.1-17 of the North Dakota
+27 Century Code is amended and reenacted as follows:
+28 3. A notice of disapproval must contain a statement of the basis for disapproval and must
+29 be sent to the licensee and the disapproved individual. A licensee may appeal a notice
+30 of disapproval by requesting a hearing before the commissioner within thirtytwenty
+31 days after receipt of notice of disapproval in accordance with chapter 28-32.
+Page No. 22 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 12. AMENDMENT. Section 13-09.1-38 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 13-09.1-38. Orders to cease and desist.
+4 1. If the commissioner determines that a violation of this chapter or of a rule adopted or
+5 an order issued under this chapter by a licensee or authorized delegate is likely to
+6 cause immediate and irreparable harm to the licensee, its customers, or the public as
+7 a result of the violation, or cause insolvency or significant dissipation of assets of the
+8 licensee, the commissioner may issue an order requiring the licensee or authorized
+9 delegate to cease and desist from the violation. The order becomes effective upon
+10 issuance.
+11 2. The commissioner may issue an order against a licensee to cease and desist from
+12 providing money transmission through an authorized delegate that is the subject of a
+13 separate order by the commissioner.
+14 3. An order to cease and desist remains effective and enforceable pending the
+15 completion of an administrative proceedingmust contain a notice of opportunity for a
+16 hearing pursuant to chapter 28-32.
+17 4. An order to cease and desist expires unless the commissioner commences an
+18 administrative proceeding pursuant to chapter 28-32 within ten days after it is issuedIf
+19 the company or individual subject to an order to cease and desist fails to request a
+20 hearing in writing to the commissioner within twenty days of issuance, or if a hearing is
+21 held and the commissioner concludes the record so warrants, the order to cease and
+22 desist becomes final.
+23 SECTION 13. AMENDMENT. Section 13-10-05 of the North Dakota Century Code is
+24 amended and reenacted as follows:
+25 13-10-05. Issuance of license.
+26 The commissioner shall not issue a mortgage loan originator license unless the
+27 commissioner makes at a minimum the following findings:
+28 1. The applicant has never had a mortgage loan originator license revoked in any
+29 governmental jurisdiction, except that a subsequent formal vacation of such revocation
+30 shall not be deemed a revocation.
+Page No. 23 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 2. The applicant has not been charged pending trial, convicted of, or pled guilty, pled to
+2 lesser charges, or pled nolo contendere to, a felony in a domestic, foreign, or military
+3 court:
+4 a. During the seven-year period preceding the date of the application for licensing
+5 and registration; or
+6 b. At any time preceding such date of application, if such felony involved an act of
+7 fraud, dishonesty, or a breach of trust, or money laundering;
+8 c. Provided that any pardon of a conviction shall not be a conviction for purposes of
+9 this subsection.
+10 3. a. The applicant has demonstrated financial responsibility, character, and general
+11 fitness such as to command the confidence of the community and to warrant a
+12 determination that the mortgage loan originator will operate honestly, fairly, and
+13 efficiently within the purposes of this chapter.
+14 b. For purposes of this subsection, a person has shown that that person is not
+15 financially responsible when that person has shown a disregard in the
+16 management of that person's own financial condition. A determination that an
+17 individual has not shown financial responsibility may include:
+18 (1) Current outstanding judgments, except judgments solely as a result of
+19 medical expenses;
+20 (2) Current outstanding tax liens or other government liens and filings;
+21 (3) Foreclosures within the past three years; and
+22 (4) A pattern of seriously delinquent accounts within the past three years.
+23 4. The applicant has completed the prelicensing education requirement described in
+24 section 13-10-06.
+25 5. The applicant has passed a written test that meets the test requirement described in
+26 section 13-10-07.
+27 6. The applicant has met the net worth and surety bond requirements under section
+28 13-10-13.
+29 SECTION 14. AMENDMENT. Subsection 1 of section 13-11-10 of the North Dakota Century
+30 Code is amended and reenacted as follows:
+Page No. 24 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 1. If the commissioner has reason to believe that grounds for revocation of a license
+2 exist, the commissioner may send by certified mail tonotify the licensee with a notice
+3 of hearing stating the contemplated action and in general the grounds thereof and
+4 setting the time and place for a hearing thereon. Grounds for revocation of a license
+5 include:
+6 a. Any debt-settlement provider has failed to pay the annual license fee or to
+7 maintain in effect the bond required under this chapter;
+8 b. The debt-settlement provider has violated this chapter or any rule lawfully made
+9 by the commissioner implementing this chapter;
+10 c. Any fact or condition exists that, if it had existed at the time of the original
+11 application for a license, would have warranted the commissioner in refusing its
+12 issuance; or
+13 d. Any applicant has made any false statement or representation to the
+14 commissioner in applying for a license under this chapter.
+15 SECTION 15. AMENDMENT. Section 13-12-19 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 13-12-19. Response to department requests.
+18 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+19 with requests for information, documents, or other requests from the department of financial
+20 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+21 no time is specified, within thirty days of the mailing of the request by the department of
+22 financial institutions. If the request for information is in regard to a new application or renewal of
+23 an existing application and is not received within the time specified in the request, or within
+24 thirty days of the mailing of the request, the department may deny the application.
+25 SECTION 16. AMENDMENT. Subsections 6, 21, and 22 of section 13-13-01 of the North
+26 Dakota Century Code are amended and reenacted as follows:
+27 6. "Interim serviced prior to salemortgage servicing" means the activity of collecting a
+28 limited number of contractual mortgage payments immediately after origination on
+29 loans held for sale but prior to the loans being sold into the secondary market.
+30 21. "Service or servicing a loan" means on behalf of the lender or investor of a residential
+31 mortgage loan:
+Page No. 25 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Collecting or receiving payments on existing obligations due and owing to the
+2 lender or investor, including payments of principal, interest, escrow amounts, and
+3 other amounts due;
+4 b. Collecting fees due to the servicer;
+5 c. Working with the borrower and the licensed lender or servicer to collect data and
+6 make decisions necessary to modify certain terms of those obligations either
+7 temporarily or permanently;
+8 d. Otherwise finalizing collection through the foreclosure process; or
+9 e. Servicing a reverse mortgage loan.
+10 22. "Servicer" means the entity performing the routine administration of residential
+11 mortgage loans on behalf of the owner or owners of the related mortgages under the
+12 terms of a servicing contract.
+13 SECTION 17. AMENDMENT. Section 13-13-04 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 13-13-04. Entities exempted from licensing requirements.
+16 This chapter does not apply to:
+17 1. Banks;
+18 2. Credit unions;
+19 3. Savings and loan associations;
+20 4. State or federal housing finance agencies;
+21 5. Institutions chartered by the farm credit administration; or
+22 6. Not-for-profit mortgage servicers; or
+23 7. Entities solely performing interim mortgage servicing.
+24 SECTION 18. AMENDMENT. Section 13-13-18 of the North Dakota Century Code is
+25 amended and reenacted as follows:
+26 13-13-18. Response to department requests.
+27 An applicant, licensee, or other person subject to the provisions of this chapter shall comply
+28 with requests for information, documents, or other requests from the department of financial
+29 institutions within the time specified in the request, which must be a minimum of ten days, or, if
+30 no time is specified, within thirty days of the mailing of the request by the department of
+31 financial institutions. If the request for information is in regard to a new application or renewal of
+Page No. 26 25.8110.01000
+
+Sixty-ninth
+Legislative Assembly
+1 an existing application and is not received within the time specified in the request, or within
+2 thirty days of the mailing of the request, the department may deny the application.
+Page No. 27 25.8110.01000
+
+[DELETED: .T.T)V)E12]
+[DELETED: )P.T.T.I.A.A.W22]
+[DELETED: .T.T.A.A.T32]
+[DELETED: .I.T.E42]
+[DELETED: .".P.I.".".M)A52]
+[DELETED: )P)P)H.D)U)D)I)I.".M)H)O)P)H62]
+[DELETED: )E)E)O)B)O)S)E)I)O)H.D)T)A)P)C)M)A72]
+[DELETED: )A)T)T."."."."."."."82]
+[DELETED: .".".".K.P.I.".M)P)A.D)P)A)A92]
+[DELETED: .".".".M)A)A)A.I)I)A)A)A02]
+[DELETED: )A)A)I.D)A)I.a.")M)F)W)D)I)I)F.F)T12]
+[DELETED: )W.".".A.C.".A.T.B.M.T22]
+[DELETED: .E.P.P.A.I.R.D.R.A.I.A.I)R32]
+[DELETED: )R.T.C.C.R)I)T.A.I)A)L.I.P42]
+[DELETED: .A.I.D)T)I)W.P.A.I)M)D.a.A52]
+[DELETED: .I)A)V.A.P.U.P.V62]
+[DELETED: .A.T.R.P.A. .A. .A.A.T.T.C.E.R.D.T72]
+[DELETED: .A.T.M.a.A. )T)A)T)T)A)A82]
+[DELETED: .A.A."."."."."92]
+[DELETED: ."."."02]
+[DELETED: 12]
+[DELETED: .A.A.T.A.T.T.A.T.A22]
+[DELETED: .I.T.A.A.T32]
+[DELETED: .T.D.A.P.a.T.F)C)C)F)A.T.T.T42]
+[DELETED: .I.A.T.A.A."."52]
+[DELETED: .C.C.W.O.S.".B.C.S.S.I.N.E62]
+[DELETED: 72]

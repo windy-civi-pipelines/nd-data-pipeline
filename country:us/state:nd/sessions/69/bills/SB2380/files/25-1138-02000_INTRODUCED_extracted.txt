@@ -1,0 +1,213 @@
+Title: SENATE BILL NO. 2380
+Official Title: SENATE BILL NO. 2380
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1138.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Boehm, Beard, Paulson
+Representatives VanWinkle, Steiner, Klemin
+1 A BILL for an Act to create and enact a new section to chapter 51-07 of the North Dakota
+2 Century Code, relating to a commercial entity's liability for publishing or distributing mature
+3 content; to provide a penalty; and to provide an effective date.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 51-07 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Liability for publishing or distributing mature content - Age verification requirement -
+8 Penalty.
+9 1. As used in this section:
+10 a. "Covered manufacturer" means a manufacturer of a device, operating system for
+11 a device, or an application store.
+12 b. "Device" means an electronic tool or gadget designed for and capable of
+13 communicating with other computers or devices across a computer network for
+14 the purpose of transmitting, receiving, or storing data, including a desktop
+15 computer, laptop computer, tablet, or cell phone.
+16 c. "Mature content" means actual or simulated sexual intercourse, sodomy,
+17 bestiality, oral copulation, flagellation, or excretory functions or exhibitions, or any
+18 other sexual act or sexually explicit conduct defined in 18 U.S.C. 2256 .
+19 d. "Minor" means an individual under eighteen years of age.
+20 e. "Operating system provider" means an entity that develops, distributes, or
+21 maintains an operating system for a device. The term includes the design,
+22 programming, and supply of an operating system for various devices, including a
+23 smartphone, tablet, or other digital equipment.
+Page No. 1 25.1138.02000
+Sixty-ninth
+Legislative Assembly
+1 f. "Substantial portion" means more than one-third of the total material on a
+2 website, application, or online service.
+3 2. A covered manufacturer shall take commercially reasonable and technically feasible
+4 steps to:
+5 a. Determine or estimate the age of the primary user upon activation of a device;
+6 and
+7 b. Provide a website, application, application store, or online service with a digital
+8 signal notifying if a primary user is over or under eighteen years of age through a
+9 real-time applications programming interface.
+10 3. A covered manufacturer shall include in operating system updates the provisions of
+11 subdivision a of subsection 2 for any device sold before Augus t 1, 2026 .
+12 4. When a website, application, or online service makes available a substantial portion of
+13 mature content, the website, application, or online service shall:
+14 a. Recognize and receive digital age signals and block access to the website,
+15 application, or online service if an age signal is received indicating a user is
+16 under eighteen years of age.
+17 b. Provide a disclaimer that the website, application, or online service contains
+18 mature content; and
+19 c. Label the website, application, or online service as restricted to adults.
+20 5. When a website, application, or online service makes available less than a substantial
+21 portion of mature content, the website, application, or online service shall:
+22 a. Recognize and receive digital age signals and block access to any known mature
+23 content on the website, application, or online service if an age signal is received
+24 indicating a user is under eighteen years of age; and
+25 b. Provide a disclaimer the website, application, or online service contains mature
+26 content.
+27 6. A covered manufacturer shall impose the same restrictions and obligations on a
+28 website, application, or online service as the covered manufacturer is required to
+29 impose on third parties. A covered manufacturer may not use any data collected under
+30 this section for any other purpose.
+31 7. The attorney general may adopt rules as necessary to enforce this section.
+Page No. 2 25.1138.02000
+Sixty-ninth
+Legislative Assembly
+1 8. The attorney general has exclusive authority to enforce this section.
+2 9. If the attorney general believes a covered manufacturer is in violation of this section,
+3 the attorney general shall provide written notice to the covered manufacturer
+4 identifying the specific provision of this section alleged in the violation. The covered
+5 manufacturer has forty-five days from the date of receipt to correct the violation and
+6 provide the attorney general a written statement informing the alleged violation has
+7 been corrected. The attorney general may initiate an action under this section if the
+8 covered manufacturer continues to violate this section or fails to correct a violation and
+9 provide a written statement within forty-five days.
+10 10. A covered manufacturer that violates this section is subject to a fine of ten thousand
+11 dollars for each violation.
+12 11. A covered manufacturer is not subject to liability for failure to comply with this section if
+13 the covered manufacturer has taken commercially reasonable and technically feasible
+14 steps to determine or estimate the age of a user.
+15 11. This section does not create a private right of action.
+16 12. This section does not apply to any bona fide news or public interest broadcast,
+17 website video, report, or event, and does not affect the rights of any news-gathering
+18 organization.
+19 13. An internet service provider or its affiliates or subsidiaries, a search engine, or a cloud
+20 service provider may not be held to have violated this section solely for providing
+21 access or connection to or from a website or other information or content on the
+22 internet or a facility, system, or network not under the provider's control, including
+23 transmission, downloading, intermediate storage, access software, or other forms of
+24 access or storage to the extent the provider is not responsible for the creation of the
+25 content of the communication that constitutes mature content.
+26 SECTION 2. EFFECTIVE DATE. This Act becomes effective August 1, 2026.
+Page No. 3 25.1138.02000
+[DELETED: .A."."."."."12]
+[DELETED: .".A.D.P.A.W.R.P.L.W.R.P.A.T22]
+[DELETED: .T.I.A.A.T.T.A32]
+
+
+================================================================================
+
+Raw Text:
+25.1138.02000
+Sixty-ninth
+SENATE BILL NO. 2380
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Boehm, Beard, Paulson
+Representatives VanWinkle, Steiner, Klemin
+1 A BILL for an Act to create and enact a new section to chapter 51-07 of the North Dakota
+2 Century Code, relating to a commercial entity's liability for publishing or distributing mature
+3 content; to provide a penalty; and to provide an effective date.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 51-07 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Liability for publishing or distributing mature content - Age verification requirement -
+8 Penalty.
+9 1. As used in this section:
+10 a. "Covered manufacturer" means a manufacturer of a device, operating system for
+11 a device, or an application store.
+12 b. "Device" means an electronic tool or gadget designed for and capable of
+13 communicating with other computers or devices across a computer network for
+14 the purpose of transmitting, receiving, or storing data, including a desktop
+15 computer, laptop computer, tablet, or cell phone.
+16 c. "Mature content" means actual or simulated sexual intercourse, sodomy,
+17 bestiality, oral copulation, flagellation, or excretory functions or exhibitions, or any
+18 other sexual act or sexually explicit conduct defined in 18 U.S.C. 2256 .
+19 d. "Minor" means an individual under eighteen years of age.
+20 e. "Operating system provider" means an entity that develops, distributes, or
+21 maintains an operating system for a device. The term includes the design,
+22 programming, and supply of an operating system for various devices, including a
+23 smartphone, tablet, or other digital equipment.
+Page No. 1 25.1138.02000
+
+Sixty-ninth
+Legislative Assembly
+1 f. "Substantial portion" means more than one-third of the total material on a
+2 website, application, or online service.
+3 2. A covered manufacturer shall take commercially reasonable and technically feasible
+4 steps to:
+5 a. Determine or estimate the age of the primary user upon activation of a device;
+6 and
+7 b. Provide a website, application, application store, or online service with a digital
+8 signal notifying if a primary user is over or under eighteen years of age through a
+9 real-time applications programming interface.
+10 3. A covered manufacturer shall include in operating system updates the provisions of
+11 subdivision a of subsection 2 for any device sold before Augus t 1, 2026 .
+12 4. When a website, application, or online service makes available a substantial portion of
+13 mature content, the website, application, or online service shall:
+14 a. Recognize and receive digital age signals and block access to the website,
+15 application, or online service if an age signal is received indicating a user is
+16 under eighteen years of age.
+17 b. Provide a disclaimer that the website, application, or online service contains
+18 mature content; and
+19 c. Label the website, application, or online service as restricted to adults.
+20 5. When a website, application, or online service makes available less than a substantial
+21 portion of mature content, the website, application, or online service shall:
+22 a. Recognize and receive digital age signals and block access to any known mature
+23 content on the website, application, or online service if an age signal is received
+24 indicating a user is under eighteen years of age; and
+25 b. Provide a disclaimer the website, application, or online service contains mature
+26 content.
+27 6. A covered manufacturer shall impose the same restrictions and obligations on a
+28 website, application, or online service as the covered manufacturer is required to
+29 impose on third parties. A covered manufacturer may not use any data collected under
+30 this section for any other purpose.
+31 7. The attorney general may adopt rules as necessary to enforce this section.
+Page No. 2 25.1138.02000
+
+Sixty-ninth
+Legislative Assembly
+1 8. The attorney general has exclusive authority to enforce this section.
+2 9. If the attorney general believes a covered manufacturer is in violation of this section,
+3 the attorney general shall provide written notice to the covered manufacturer
+4 identifying the specific provision of this section alleged in the violation. The covered
+5 manufacturer has forty-five days from the date of receipt to correct the violation and
+6 provide the attorney general a written statement informing the alleged violation has
+7 been corrected. The attorney general may initiate an action under this section if the
+8 covered manufacturer continues to violate this section or fails to correct a violation and
+9 provide a written statement within forty-five days.
+10 10. A covered manufacturer that violates this section is subject to a fine of ten thousand
+11 dollars for each violation.
+12 11. A covered manufacturer is not subject to liability for failure to comply with this section if
+13 the covered manufacturer has taken commercially reasonable and technically feasible
+14 steps to determine or estimate the age of a user.
+15 11. This section does not create a private right of action.
+16 12. This section does not apply to any bona fide news or public interest broadcast,
+17 website video, report, or event, and does not affect the rights of any news-gathering
+18 organization.
+19 13. An internet service provider or its affiliates or subsidiaries, a search engine, or a cloud
+20 service provider may not be held to have violated this section solely for providing
+21 access or connection to or from a website or other information or content on the
+22 internet or a facility, system, or network not under the provider's control, including
+23 transmission, downloading, intermediate storage, access software, or other forms of
+24 access or storage to the extent the provider is not responsible for the creation of the
+25 content of the communication that constitutes mature content.
+26 SECTION 2. EFFECTIVE DATE. This Act becomes effective August 1, 2026.
+Page No. 3 25.1138.02000
+
+[DELETED: .A."."."."."12]
+[DELETED: .".A.D.P.A.W.R.P.L.W.R.P.A.T22]
+[DELETED: .T.I.A.A.T.T.A32]

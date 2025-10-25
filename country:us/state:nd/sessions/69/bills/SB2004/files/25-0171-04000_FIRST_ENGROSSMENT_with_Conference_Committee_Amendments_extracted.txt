@@ -1,0 +1,792 @@
+Title: ENGROSSED SENATE BILL NO. 2004
+Official Title: ENGROSSED SENATE BILL NO. 2004
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with Conference Committee Amendments
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+25.0171.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Conference Committee Amendments
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the ethics
+2 commission; to create and enact a new section to chapter 54-03 and two new sections to
+3 chapter 54-66 of the North Dakota Century Code, relating to immunity and a defense for
+4 individuals voting on legislation, closure of a matter of the ethics commission, rules for
+5 complaint management time standards, and an ethics commission annual report; to amend and
+6 reenact sections 12.1-13-02, 54-66-01, 54-66-04, 54-66-05, 54-66-06, and 54-66-07,
+7 subsection 2 of section 54-66-08, and sections 54-66-09, 54-66-10, 54-66-12, and 54-66-18 of
+8 the North Dakota Century Code, relating to immunity from criminal prosecution, definitions,
+9 ethics commission meetings, complaints, an informal resolution process, law enforcement
+10 referrals, findings, appeals, confidential information related to a complaint, and conflicts of
+11 interest; and to declare an emergency.
+12 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+13 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+14 as may be necessary, are appropriated out of any moneys in the general fund in the state
+15 treasury, not otherwise appropriated, to the ethics commission for the purpose of defraying the
+16 expenses of the ethics commission, for the biennium beginning July 1, 2025, and ending
+17 June 30, 2027, as follows:
+18 Adjustments or
+19 Base Level Enhancements Appropriation
+20 Ethics commission $1,041,374 $316,707 $1,358,081
+21 New and vacant FTE pool 0 9,935 9,935
+Page No. 1 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 Total general fund $1,041,374 $326,642 $1,368,016
+2 Full-time equivalent positions 3.00 0.00 3.00
+3 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+4 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+5 items included in the appropriation in section 1 of this Act which are not included in the entity's
+6 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+7 committees of the seventieth legislative assembly regarding the use of this funding:
+8 One-Time Funding Description General Fund
+9 Case management system $50,000
+10 Office furniture 2,348
+11 Total $52,348
+12 SECTION 3. NEW AND VACANT FULL-TIME EQUIVALENT POOL - LIMITATION -
+13 TRANSFER REQUEST. The ethics commission may not spend funds appropriated in the new
+14 and vacant full-time equivalent pool line item in section 1 of this Act, but may request the office
+15 of management and budget to transfer funds from the new and vacant full-time equivalent pool
+16 line item to the ethics commission line item in accordance with the guidelines and reporting
+17 provisions included in House Bill No. 1015, as approved by the sixty-ninth legislative assembly.
+18 SECTION 4. AMENDMENT. Section 12.1-13-02 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 12.1-13-02. Speculating or wagering on official action or information.
+21 1. A personAn individual is guilty of a class A misdemeanor if during employment as a
+22 public servant, or within one year thereafter, in contemplation of official action by
+23 himselfthe individual as a public servant or by a government agency with which hethe
+24 individual is or has been associated as a public servant, or in reliance on information
+25 to which hethe individual has or had access only in histhe individual's capacity as a
+26 public servant, hethe individual:
+27 a. Acquires a pecuniary interest in any property, transaction, or enterprise which
+28 may be affected by suchthe information or official action;
+29 b. Speculates or wagers on the basis of suchthe information or official action; or
+30 c. Aids another individual to do any of the foregoing.
+Page No. 2 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 2. A personAn individual is guilty of a class A misdemeanor if as a public servant hethe
+2 individual takes official action which is likely to benefit himthe individual as a result of
+3 an acquisition of a pecuniary interest in any property, transaction, or enterprise, or of a
+4 speculation or wager, which hethe individual made, or caused or aided another to
+5 make, in contemplation of suchthe official action.
+6 3. An individual is immune from prosecution under this section if:
+7 a. The individual was a member of the legislative assembly at the time the official
+8 action was taken;
+9 b. The official action was a vote on a measure in the senate or house of
+10 representatives or a legislative committee; and
+11 c. The individual adhered to legislative conflict of interest rules requiring an
+12 individual to disclose a personal or private interest to the member's respective
+13 chamber of the legislative assembly, a legislative committee, the president of the
+14 senate, or the speaker of the house.
+15 SECTION 5. A new section to chapter 54-03 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Voting on legislation - Immunity - Affirmative defense.
+18 If an individual who is a member of the legislative assembly adheres to:
+19 1. Legislative rules requiring an individual to disclose a personal or private interest to the
+20 member's respective chamber of the legislative assembly, a legislative committee, the
+21 president of the senate, or the speaker of the house, the individual and an
+22 organization for which the individual is an agent, as defined in section 12.1 - 03 - 04, is
+23 immune from criminal prosecution under the laws of this state for an offense arising
+24 from the individual voting on a measure in a legislative committee, the senate, or the
+25 house of representatives.
+26 2. Informal advice from a staff member of the ethics commission, reliance on the advice
+27 is an affirmative defense in a prosecution for an offense arising from the individual
+28 voting on a measure in a legislative committee, the senate, or the house of
+29 representatives.
+30 SECTION 6. AMENDMENT. Section 54-66-01 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 3 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 54-66-01. Definitions.
+2 As used in this chapter, unless the context otherwise requires:
+3 1. "Accused individual" means a lobbyist, public official, candidate for public office,
+4 political committee, or contributor who is alleged to have violated article XIV of the
+5 Constitution of North Dakota, this chapter, or another law or rule regarding
+6 transparency, corruption, elections, or lobbying.
+7 2. "Complainant" means an individual who, in writing or verbally, submits a complaint to
+8 the commission and is:
+9 a. A North Dakota resident;
+10 b. Subject to licensing by a state agency or other public official subject to the
+11 jurisdiction of the ethics commission; or
+12 c. A party to a quasi-judicial proceeding before a state agency or other public official
+13 subject to the jurisdiction of the ethics commission.
+14 3.2. "Complaint" means a verbal or written allegation to the commission that a lobbyist,
+15 public official, candidate for public office, political committee, or contributor has
+16 violated article XIV of the Constitution of North Dakota, this chapter, or another law or
+17 rule regarding transparency, corruption, elections, or lobbying.
+18 4.3. "Ethics commission" or "commission" means the North Dakota ethics commission
+19 established by article XIV of the Constitution of North Dakota.
+20 5.4. "Gift" means any item, service, or thing of value not given in exchange for fair market
+21 consideration including travel and recreation, except:
+22 a. Purely informational material;
+23 b. A campaign contribution; and
+24 c. An item, service, or thing of value given under conditions that do not raise ethical
+25 concerns, as set forth in rules adopted by the ethics commission, to advance
+26 opportunities for state residents to meet with public officials in educational and
+27 social settings in the state.
+28 6.5. "Influence state government action" means promoting or opposing the adoption of a
+29 rule by an administrative agency or the commission under chapter 28-32.
+30 7.6. "Lobby" means an activity listed in subsection 1 of section 54-05.1-02.
+31 8.7. "Lobbyist" means an individual required to register under section 54-05.1-03.
+Page No. 4 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 9.8. "Public official" means an elected or appointed official of the state's executive or
+2 legislative branch, members of the commission, members of the governor's cabinet,
+3 and employees of the legislative branch.
+4 10.9. "Receives the complaint" means one or more members of the commission learn of the
+5 complaint.
+6 10. "Respondent" means a lobbyist, public official, candidate for public office, political
+7 committee, or contributor who is alleged to have violated article XIV of the Constitution
+8 of North Dakota, this chapter, or another law or rule regarding transparency,
+9 corruption, elections, or lobbying.
+10 11. "Ultimate and true source" means the person that knowingly contributed over two
+11 hundred dollars solely to lobby or influence state government action.
+12 SECTION 7. AMENDMENT. Section 54-66-04 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 54-66-04. Ethics commission member terms - Meetings - Code of ethics -
+15 Compensation - Office.
+16 1. The terms of the initial members of the ethics commission must be staggered to
+17 ensure no more than two members' terms expire in one year. The terms of the initial
+18 members may be less than four years to accommodate the required staggering of
+19 terms.
+20 2. Unless the complaint at issue has resulted in the imposition of a penalty or referral for
+21 enforcement under section 54-66-09, any portion of a meeting during which
+22 commission members discuss complaints, informal resolutions, attempts to informally
+23 resolve complaints, investigations, or referrals under this chapter, the identity of an
+24 accused individuala respondent or complainant, or any other matter arising from a
+25 complaint are closed meetings.
+26 3. The commission shall abide by a code of ethics adopted in a public meeting. The code
+27 of ethics must specify when a commission member is disqualified from participating in
+28 matters before the commission.
+29 4. Ethics commission members are entitled to:
+Page No. 5 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 a. Compensation for each day necessarily spent conducting commission business
+2 in the amount provided for members of the legislative management under section
+3 54-35-10; and
+4 b. Payment for mileage and travel expenses necessarily incurred in the conduct of
+5 commission business as provided under sections 44-08-04 and 54-06-09.
+6 5. The director of the office of management and budget shall allocate office space in the
+7 state capitol for the ethics commission, or, if office space in the capitol is unavailable,
+8 shall negotiate for, contract for, and obtain office space for the ethics commission in
+9 the city of Bismarck or in the Bismarck area. The ethics commission's office space
+10 may not be located in the office space of any other government agency, board,
+11 commission, or other governmental entity, and must provide sufficient privacy and
+12 security for the ethics commission to conduct its business. The director shall charge
+13 the ethics commission an amount equal to the fair value of the office space and
+14 related services the office of management and budget renders to the ethics
+15 commission.
+16 SECTION 8. AMENDMENT. Section 54-66-05 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 54-66-05. Making a complaint - Summary dismissal of complaint.
+19 1. A complaint may be made to the commission orally or in writing. If a complainant does
+20 not provide the complainant's name, address, and telephone number with the
+21 complaint, the ethics commission may not investigate or take other action regarding
+22 the complaint. The commission shall summarize each oral complaint in writing unless
+23 the complaint must be disregarded under this section.
+24 2. Upon receipt of a complaint or information regarding a violation, the commission may
+25 summarily dismiss the complaint or decline to proceed with a complaint if the alleged
+26 violation does not fall within the commission's jurisdiction, is insufficient to identify a
+27 possible violation, or fails to comply with rules adopted by the commission. In lieu of
+28 summary dismissal, the commission may refer the matter under section 54-66-08.
+29 3. If a complainant would like the complainant's identity to remain confidential, the
+30 commission may not release the complainant's name and address to the accused
+31 individualrespondent without the authorization of the complainant. If the complainant
+Page No. 6 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 does not authorize release of the complainant's name and address to the accused
+2 individualrespondent, the statement of the complainant may not be used as evidence
+3 of a violation.
+4 4. If the commission receives an anonymous complaint that contains documentary or real
+5 evidence of possible criminal conduct, the commission may refer the matter to the
+6 appropriate law enforcement agency as provided under section 54-66-08, and may not
+7 otherwise divulge the documentary or real evidence.
+8 SECTION 9. AMENDMENT. Section 54-66-06 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 54-66-06. Informing the accused individualrespondent - Written response permitted -
+11 Petition to dismiss complaint.
+12 1. Within thirty calendar days, the commission shall inform an accused individuala
+13 respondent of the complaint. Subject to the confidentiality requirements set forth in
+14 section 54-66-05, the accused individualrespondent will be provided with the written
+15 complaint or written summary of the oral complaint, witness statements, and other
+16 documentary evidence included with the complaint. The accused individualrespondent
+17 may provide a written response to the complaint within thirty calendar days, or after
+18 the commission requests a written response to the complaint or summary of the
+19 complaint, a period as set by the commission. This subsection does not preclude the
+20 accused individualrespondent from providing a written response to the complaint
+21 before receiving a request for written response from the commission.
+22 2. If the commission has summarily dismissed the complaint under subsection 2 of
+23 section 54-66-05, before notifying the accused individualrespondent as required by
+24 this section, the notification to the accused individualrespondent must include notice of
+25 the summary dismissal.
+26 SECTION 10. AMENDMENT. Section 54-66-07 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 54-66-07. Informal resolution.
+29 The commission shall attempt to negotiate or mediate an informal resolution between the
+30 accused individualrespondent and the complainant unless the commission summarily dismissed
+31 the complaint under section 54-66-05. The accused individualrespondent may be accompanied
+Page No. 7 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 by legal counsel in a negotiation or mediation. If the informal resolution process between the
+2 respondent and the complainant is unsuccessful, the commission may work with the respondent
+3 to settle and close the matter.
+4 SECTION 11. AMENDMENT. Subsection 2 of section 54-66-08 of the North Dakota Century
+5 Code is amended and reenacted as follows:
+6 2. If the commission believes a complaint contains allegations of criminal conduct, the
+7 matter mustmay be coordinated with the appropriate law enforcement agency with
+8 jurisdiction over the offense. If the law enforcement agency agrees to accept a referral
+9 for possible criminal prosecution, the commission may not take further action on the
+10 complaint until the law enforcement agency informs the commission law enforcement
+11 proceedings regarding the complaint are complete. If the law enforcement agency
+12 declines a referral for prosecution, the commission may investigate the complaint
+13 under the rules adopted by the commission. If the law enforcement agency takes no
+14 action on the referral for prosecution within sixty days, the commission may resume its
+15 review of the complaint. Unless the agency accepting the referral objects, the
+16 commission shall inform the complainant and respondent as soon as reasonably
+17 possible of a referral and the nature of the referred allegations.
+18 SECTION 12. AMENDMENT. Section 54-66-09 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 54-66-09. Investigation findings - Ethics commission determinations.
+21 1. An investigator, other than a law enforcement agency, of a complaint shall provide
+22 written findings of the investigation to the ethics commission within a reasonable
+23 amount of time. The ethics commission shall provide copies of the written findings and
+24 evidence considered to the accused individualrespondent, who may respond to the
+25 commission in person or in writing within a reasonable time. If the accused
+26 individualrespondent responds in person, no fewer than three members of the
+27 commission shall meet in a closed meeting with the accused individualrespondent. An
+28 accused individualA respondent may be accompanied by legal counsel when
+29 responding to the commission in person. Upon completion of an investigation, the
+30 executive director shall prepare a report and recommendation to the commission to
+Page No. 8 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 close the matter or issue an alleged violation. The commission may issue an alleged
+2 violation, require additional investigation, or close the matter.
+3 2. After providing a reasonable time for an accused individuala respondent to respond to
+4 the investigation findings and considering any response to the findings, the ethics
+5 commission shall determine whether a violation of article XIV of the Constitution of
+6 North Dakota, this chapter, or another law or rule regarding transparency, corruption,
+7 elections, or lobbying occurred, and inform the accused individualrespondent of the
+8 determination. If the commission determined a violation occurred, the commission may
+9 impose a penalty authorized by law for the violation or refer the matter to the agency
+10 with enforcement authority over the violation.
+11 3. The commission may not terminate the employment of a public official or otherwise
+12 remove a public official from the public official's public office.
+13 4. The ethics commission may not reconsider, invalidate, or overturn a decision, ruling,
+14 recommended finding of fact, recommended conclusion of law, finding of fact,
+15 conclusion of law, or order by a hearing officer under chapter 28-32 on the grounds the
+16 hearing officer failed to grant a request for disqualification under section 28-32-27 or
+17 failed to comply with subsection 5 of section 2 of article XIV of the Constitution of
+18 North Dakota.
+19 5. The respondent may petition the commission at any time to dismiss the complaint in
+20 the manner prescribed by the commission.
+21 SECTION 13. AMENDMENT. Section 54-66-10 of the North Dakota Century Code is
+22 amended and reenacted as follows:
+23 54-66-10. Appeals.
+24 An accused individualA respondent may appeal a finding of the ethics commission to the
+25 district court of the county where the accused individualrespondent resides.
+26 SECTION 14. AMENDMENT. Section 54-66-12 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 54-66-12. Confidential information.
+29 1. The following information is a confidential record as defined in section 44-04-17.1,
+30 unless the commission has determined the accused individualrespondent violated
+31 article XIV of the Constitution of North Dakota, this chapter, or another law or rule
+Page No. 9 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 regarding transparency, corruption, elections, or lobbying, and a court affirmed the
+2 determination if appealed, except the information may be disclosed as required by law
+3 or as necessary to conduct an investigation arising from a complaint:
+4 a. Information revealing the contents of a complaint;
+5 b. Information that reasonably may be used to identify an accused individuala
+6 respondent; and
+7 c. Information relating to or created as part of an investigation of a complaint.
+8 2. If a complaint is informally resolved under section 54-66-07, the following information
+9 is a confidential record as defined in section 44-04-17.1:
+10 a. Information revealing the contents of the complaint;
+11 b. Information that reasonably may be used to identify the accused
+12 individualrespondent;
+13 c. Information relating to or created as part of the process leading to the informal
+14 resolution; and
+15 d. Information revealing the informal resolution.
+16 3. Information that reasonably may be used to identify the complainant is confidential
+17 unless the complainant waives confidentiality, authorizes its disclosure, or divulges
+18 information that reasonably would identify the complainant. Information, including
+19 evidence under consideration by the investigator or commission, deemed confidential
+20 under this subsection may be disclosed as required by law or as necessary to conduct
+21 an investigation arising from a complaint to include disclosure of evidence being
+22 considered to an accused individuala respondent.
+23 4. The information deemed confidential in subsections 1 and 2 may be disclosed by the
+24 respondent and the ethics commission if the accused individualrespondent agrees to
+25 the disclosure.
+26 SECTION 15. AMENDMENT. Section 54-66-18 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 54-66-18. Conflicts of interest - Legislative assembly.
+29 1. Each legislative assembly shall adopt conflict of interest rules. The rules must:
+Page No. 10 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 a. Require the disclosure by a member of a potential conflict of interest relating to
+2 any bill in which the member may have a direct, unique, substantial, or and
+3 individual interest.
+4 b. Ensure a mechanism is in place to record each disclosure and make it readily
+5 available to the public.
+6 2. If the legislative assembly adopts rules under subsection 1 which are at least as
+7 restrictive as the conflict of interest rules adopted by the ethics commission, the
+8 disclosure process portion of the conflict of interest rules adopted by the ethics
+9 commission may not apply to members of the legislative assembly.
+10 SECTION 16. A new section to chapter 54-66 of the North Dakota Century Code is created
+11 and enacted as follows:
+12 Complaint management time standards.
+13 The commission shall adopt rules for the efficient and timely disposition of complaints from
+14 receipt to resolution.
+15 SECTION 17. A new section to chapter 54-66 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Ethics commission annual report.
+18 1. The ethics commission shall prepare an annual report each fiscal year. The ethics
+19 commission shall make the annual report available on its public website within sixty
+20 days of the end of each fiscal year.
+21 2. The annual report must include:
+22 a. The number of complaints received by the commission, the status of those
+23 complaints, the commission's actions to resolve the complaints, and the timing
+24 related to those actions;
+25 b. The number of advisory opinions requested and issued, as well as information
+26 regarding general conflict disclosures and quasi-judicial disclosures received;
+27 and
+28 c. Information regarding education and outreach and the status of the commission's
+29 budget.
+Page No. 11 25.0171.04000
+Sixty-ninth
+Legislative Assembly
+1 3. The annual report may include recommendations for new or revised laws, rules, or
+2 policies that could improve the confidence that North Dakota citizens have in their
+3 government.
+4 SECTION 18. EMERGENCY. Sections 4, 5, 10, 11, 14, and 15 of this Act are declared to be
+5 an emergency measure.
+Page No. 12 25.0171.04000
+[DELETED: lEsAn$4$7$l095912]
+[DELETED: d$4$2$s30003nGm$e2l$.A.A.S.A22]
+[DELETED: .A.A.T.T.T.L.I32]
+[DELETED: .".".A.S.A.".".".P.A.A."."."42]
+[DELETED: .".".".".T.U.T.E52]
+[DELETED: .C.P.T.A.U.I62]
+[DELETED: .I.W.I72]
+[DELETED: .I.A82]
+[DELETED: .A.T.T.T.T92]
+[DELETED: .I.I.I.I.I.I.I.I.I.T.E02]
+[DELETED: .R.E.I.T.T.T.T.I12]
+[DELETED: .T22]
+
+
+================================================================================
+
+Raw Text:
+25.0171.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Conference Committee Amendments
+ENGROSSED SENATE BILL NO. 2004
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the ethics
+2 commission; to create and enact a new section to chapter 54-03 and two new sections to
+3 chapter 54-66 of the North Dakota Century Code, relating to immunity and a defense for
+4 individuals voting on legislation, closure of a matter of the ethics commission, rules for
+5 complaint management time standards, and an ethics commission annual report; to amend and
+6 reenact sections 12.1-13-02, 54-66-01, 54-66-04, 54-66-05, 54-66-06, and 54-66-07,
+7 subsection 2 of section 54-66-08, and sections 54-66-09, 54-66-10, 54-66-12, and 54-66-18 of
+8 the North Dakota Century Code, relating to immunity from criminal prosecution, definitions,
+9 ethics commission meetings, complaints, an informal resolution process, law enforcement
+10 referrals, findings, appeals, confidential information related to a complaint, and conflicts of
+11 interest; and to declare an emergency.
+12 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+13 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+14 as may be necessary, are appropriated out of any moneys in the general fund in the state
+15 treasury, not otherwise appropriated, to the ethics commission for the purpose of defraying the
+16 expenses of the ethics commission, for the biennium beginning July 1, 2025, and ending
+17 June 30, 2027, as follows:
+18 Adjustments or
+19 Base Level Enhancements Appropriation
+20 Ethics commission $1,041,374 $316,707 $1,358,081
+21 New and vacant FTE pool 0 9,935 9,935
+Page No. 1 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 Total general fund $1,041,374 $326,642 $1,368,016
+2 Full-time equivalent positions 3.00 0.00 3.00
+3 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+4 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+5 items included in the appropriation in section 1 of this Act which are not included in the entity's
+6 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+7 committees of the seventieth legislative assembly regarding the use of this funding:
+8 One-Time Funding Description General Fund
+9 Case management system $50,000
+10 Office furniture 2,348
+11 Total $52,348
+12 SECTION 3. NEW AND VACANT FULL-TIME EQUIVALENT POOL - LIMITATION -
+13 TRANSFER REQUEST. The ethics commission may not spend funds appropriated in the new
+14 and vacant full-time equivalent pool line item in section 1 of this Act, but may request the office
+15 of management and budget to transfer funds from the new and vacant full-time equivalent pool
+16 line item to the ethics commission line item in accordance with the guidelines and reporting
+17 provisions included in House Bill No. 1015, as approved by the sixty-ninth legislative assembly.
+18 SECTION 4. AMENDMENT. Section 12.1-13-02 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 12.1-13-02. Speculating or wagering on official action or information.
+21 1. A personAn individual is guilty of a class A misdemeanor if during employment as a
+22 public servant, or within one year thereafter, in contemplation of official action by
+23 himselfthe individual as a public servant or by a government agency with which hethe
+24 individual is or has been associated as a public servant, or in reliance on information
+25 to which hethe individual has or had access only in histhe individual's capacity as a
+26 public servant, hethe individual:
+27 a. Acquires a pecuniary interest in any property, transaction, or enterprise which
+28 may be affected by suchthe information or official action;
+29 b. Speculates or wagers on the basis of suchthe information or official action; or
+30 c. Aids another individual to do any of the foregoing.
+Page No. 2 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 2. A personAn individual is guilty of a class A misdemeanor if as a public servant hethe
+2 individual takes official action which is likely to benefit himthe individual as a result of
+3 an acquisition of a pecuniary interest in any property, transaction, or enterprise, or of a
+4 speculation or wager, which hethe individual made, or caused or aided another to
+5 make, in contemplation of suchthe official action.
+6 3. An individual is immune from prosecution under this section if:
+7 a. The individual was a member of the legislative assembly at the time the official
+8 action was taken;
+9 b. The official action was a vote on a measure in the senate or house of
+10 representatives or a legislative committee; and
+11 c. The individual adhered to legislative conflict of interest rules requiring an
+12 individual to disclose a personal or private interest to the member's respective
+13 chamber of the legislative assembly, a legislative committee, the president of the
+14 senate, or the speaker of the house.
+15 SECTION 5. A new section to chapter 54-03 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Voting on legislation - Immunity - Affirmative defense.
+18 If an individual who is a member of the legislative assembly adheres to:
+19 1. Legislative rules requiring an individual to disclose a personal or private interest to the
+20 member's respective chamber of the legislative assembly, a legislative committee, the
+21 president of the senate, or the speaker of the house, the individual and an
+22 organization for which the individual is an agent, as defined in section 12.1 - 03 - 04, is
+23 immune from criminal prosecution under the laws of this state for an offense arising
+24 from the individual voting on a measure in a legislative committee, the senate, or the
+25 house of representatives.
+26 2. Informal advice from a staff member of the ethics commission, reliance on the advice
+27 is an affirmative defense in a prosecution for an offense arising from the individual
+28 voting on a measure in a legislative committee, the senate, or the house of
+29 representatives.
+30 SECTION 6. AMENDMENT. Section 54-66-01 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 3 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 54-66-01. Definitions.
+2 As used in this chapter, unless the context otherwise requires:
+3 1. "Accused individual" means a lobbyist, public official, candidate for public office,
+4 political committee, or contributor who is alleged to have violated article XIV of the
+5 Constitution of North Dakota, this chapter, or another law or rule regarding
+6 transparency, corruption, elections, or lobbying.
+7 2. "Complainant" means an individual who, in writing or verbally, submits a complaint to
+8 the commission and is:
+9 a. A North Dakota resident;
+10 b. Subject to licensing by a state agency or other public official subject to the
+11 jurisdiction of the ethics commission; or
+12 c. A party to a quasi-judicial proceeding before a state agency or other public official
+13 subject to the jurisdiction of the ethics commission.
+14 3.2. "Complaint" means a verbal or written allegation to the commission that a lobbyist,
+15 public official, candidate for public office, political committee, or contributor has
+16 violated article XIV of the Constitution of North Dakota, this chapter, or another law or
+17 rule regarding transparency, corruption, elections, or lobbying.
+18 4.3. "Ethics commission" or "commission" means the North Dakota ethics commission
+19 established by article XIV of the Constitution of North Dakota.
+20 5.4. "Gift" means any item, service, or thing of value not given in exchange for fair market
+21 consideration including travel and recreation, except:
+22 a. Purely informational material;
+23 b. A campaign contribution; and
+24 c. An item, service, or thing of value given under conditions that do not raise ethical
+25 concerns, as set forth in rules adopted by the ethics commission, to advance
+26 opportunities for state residents to meet with public officials in educational and
+27 social settings in the state.
+28 6.5. "Influence state government action" means promoting or opposing the adoption of a
+29 rule by an administrative agency or the commission under chapter 28-32.
+30 7.6. "Lobby" means an activity listed in subsection 1 of section 54-05.1-02.
+31 8.7. "Lobbyist" means an individual required to register under section 54-05.1-03.
+Page No. 4 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 9.8. "Public official" means an elected or appointed official of the state's executive or
+2 legislative branch, members of the commission, members of the governor's cabinet,
+3 and employees of the legislative branch.
+4 10.9. "Receives the complaint" means one or more members of the commission learn of the
+5 complaint.
+6 10. "Respondent" means a lobbyist, public official, candidate for public office, political
+7 committee, or contributor who is alleged to have violated article XIV of the Constitution
+8 of North Dakota, this chapter, or another law or rule regarding transparency,
+9 corruption, elections, or lobbying.
+10 11. "Ultimate and true source" means the person that knowingly contributed over two
+11 hundred dollars solely to lobby or influence state government action.
+12 SECTION 7. AMENDMENT. Section 54-66-04 of the North Dakota Century Code is
+13 amended and reenacted as follows:
+14 54-66-04. Ethics commission member terms - Meetings - Code of ethics -
+15 Compensation - Office.
+16 1. The terms of the initial members of the ethics commission must be staggered to
+17 ensure no more than two members' terms expire in one year. The terms of the initial
+18 members may be less than four years to accommodate the required staggering of
+19 terms.
+20 2. Unless the complaint at issue has resulted in the imposition of a penalty or referral for
+21 enforcement under section 54-66-09, any portion of a meeting during which
+22 commission members discuss complaints, informal resolutions, attempts to informally
+23 resolve complaints, investigations, or referrals under this chapter, the identity of an
+24 accused individuala respondent or complainant, or any other matter arising from a
+25 complaint are closed meetings.
+26 3. The commission shall abide by a code of ethics adopted in a public meeting. The code
+27 of ethics must specify when a commission member is disqualified from participating in
+28 matters before the commission.
+29 4. Ethics commission members are entitled to:
+Page No. 5 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Compensation for each day necessarily spent conducting commission business
+2 in the amount provided for members of the legislative management under section
+3 54-35-10; and
+4 b. Payment for mileage and travel expenses necessarily incurred in the conduct of
+5 commission business as provided under sections 44-08-04 and 54-06-09.
+6 5. The director of the office of management and budget shall allocate office space in the
+7 state capitol for the ethics commission, or, if office space in the capitol is unavailable,
+8 shall negotiate for, contract for, and obtain office space for the ethics commission in
+9 the city of Bismarck or in the Bismarck area. The ethics commission's office space
+10 may not be located in the office space of any other government agency, board,
+11 commission, or other governmental entity, and must provide sufficient privacy and
+12 security for the ethics commission to conduct its business. The director shall charge
+13 the ethics commission an amount equal to the fair value of the office space and
+14 related services the office of management and budget renders to the ethics
+15 commission.
+16 SECTION 8. AMENDMENT. Section 54-66-05 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 54-66-05. Making a complaint - Summary dismissal of complaint.
+19 1. A complaint may be made to the commission orally or in writing. If a complainant does
+20 not provide the complainant's name, address, and telephone number with the
+21 complaint, the ethics commission may not investigate or take other action regarding
+22 the complaint. The commission shall summarize each oral complaint in writing unless
+23 the complaint must be disregarded under this section.
+24 2. Upon receipt of a complaint or information regarding a violation, the commission may
+25 summarily dismiss the complaint or decline to proceed with a complaint if the alleged
+26 violation does not fall within the commission's jurisdiction, is insufficient to identify a
+27 possible violation, or fails to comply with rules adopted by the commission. In lieu of
+28 summary dismissal, the commission may refer the matter under section 54-66-08.
+29 3. If a complainant would like the complainant's identity to remain confidential, the
+30 commission may not release the complainant's name and address to the accused
+31 individualrespondent without the authorization of the complainant. If the complainant
+Page No. 6 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 does not authorize release of the complainant's name and address to the accused
+2 individualrespondent, the statement of the complainant may not be used as evidence
+3 of a violation.
+4 4. If the commission receives an anonymous complaint that contains documentary or real
+5 evidence of possible criminal conduct, the commission may refer the matter to the
+6 appropriate law enforcement agency as provided under section 54-66-08, and may not
+7 otherwise divulge the documentary or real evidence.
+8 SECTION 9. AMENDMENT. Section 54-66-06 of the North Dakota Century Code is
+9 amended and reenacted as follows:
+10 54-66-06. Informing the accused individualrespondent - Written response permitted -
+11 Petition to dismiss complaint.
+12 1. Within thirty calendar days, the commission shall inform an accused individuala
+13 respondent of the complaint. Subject to the confidentiality requirements set forth in
+14 section 54-66-05, the accused individualrespondent will be provided with the written
+15 complaint or written summary of the oral complaint, witness statements, and other
+16 documentary evidence included with the complaint. The accused individualrespondent
+17 may provide a written response to the complaint within thirty calendar days, or after
+18 the commission requests a written response to the complaint or summary of the
+19 complaint, a period as set by the commission. This subsection does not preclude the
+20 accused individualrespondent from providing a written response to the complaint
+21 before receiving a request for written response from the commission.
+22 2. If the commission has summarily dismissed the complaint under subsection 2 of
+23 section 54-66-05, before notifying the accused individualrespondent as required by
+24 this section, the notification to the accused individualrespondent must include notice of
+25 the summary dismissal.
+26 SECTION 10. AMENDMENT. Section 54-66-07 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 54-66-07. Informal resolution.
+29 The commission shall attempt to negotiate or mediate an informal resolution between the
+30 accused individualrespondent and the complainant unless the commission summarily dismissed
+31 the complaint under section 54-66-05. The accused individualrespondent may be accompanied
+Page No. 7 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 by legal counsel in a negotiation or mediation. If the informal resolution process between the
+2 respondent and the complainant is unsuccessful, the commission may work with the respondent
+3 to settle and close the matter.
+4 SECTION 11. AMENDMENT. Subsection 2 of section 54-66-08 of the North Dakota Century
+5 Code is amended and reenacted as follows:
+6 2. If the commission believes a complaint contains allegations of criminal conduct, the
+7 matter mustmay be coordinated with the appropriate law enforcement agency with
+8 jurisdiction over the offense. If the law enforcement agency agrees to accept a referral
+9 for possible criminal prosecution, the commission may not take further action on the
+10 complaint until the law enforcement agency informs the commission law enforcement
+11 proceedings regarding the complaint are complete. If the law enforcement agency
+12 declines a referral for prosecution, the commission may investigate the complaint
+13 under the rules adopted by the commission. If the law enforcement agency takes no
+14 action on the referral for prosecution within sixty days, the commission may resume its
+15 review of the complaint. Unless the agency accepting the referral objects, the
+16 commission shall inform the complainant and respondent as soon as reasonably
+17 possible of a referral and the nature of the referred allegations.
+18 SECTION 12. AMENDMENT. Section 54-66-09 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 54-66-09. Investigation findings - Ethics commission determinations.
+21 1. An investigator, other than a law enforcement agency, of a complaint shall provide
+22 written findings of the investigation to the ethics commission within a reasonable
+23 amount of time. The ethics commission shall provide copies of the written findings and
+24 evidence considered to the accused individualrespondent, who may respond to the
+25 commission in person or in writing within a reasonable time. If the accused
+26 individualrespondent responds in person, no fewer than three members of the
+27 commission shall meet in a closed meeting with the accused individualrespondent. An
+28 accused individualA respondent may be accompanied by legal counsel when
+29 responding to the commission in person. Upon completion of an investigation, the
+30 executive director shall prepare a report and recommendation to the commission to
+Page No. 8 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 close the matter or issue an alleged violation. The commission may issue an alleged
+2 violation, require additional investigation, or close the matter.
+3 2. After providing a reasonable time for an accused individuala respondent to respond to
+4 the investigation findings and considering any response to the findings, the ethics
+5 commission shall determine whether a violation of article XIV of the Constitution of
+6 North Dakota, this chapter, or another law or rule regarding transparency, corruption,
+7 elections, or lobbying occurred, and inform the accused individualrespondent of the
+8 determination. If the commission determined a violation occurred, the commission may
+9 impose a penalty authorized by law for the violation or refer the matter to the agency
+10 with enforcement authority over the violation.
+11 3. The commission may not terminate the employment of a public official or otherwise
+12 remove a public official from the public official's public office.
+13 4. The ethics commission may not reconsider, invalidate, or overturn a decision, ruling,
+14 recommended finding of fact, recommended conclusion of law, finding of fact,
+15 conclusion of law, or order by a hearing officer under chapter 28-32 on the grounds the
+16 hearing officer failed to grant a request for disqualification under section 28-32-27 or
+17 failed to comply with subsection 5 of section 2 of article XIV of the Constitution of
+18 North Dakota.
+19 5. The respondent may petition the commission at any time to dismiss the complaint in
+20 the manner prescribed by the commission.
+21 SECTION 13. AMENDMENT. Section 54-66-10 of the North Dakota Century Code is
+22 amended and reenacted as follows:
+23 54-66-10. Appeals.
+24 An accused individualA respondent may appeal a finding of the ethics commission to the
+25 district court of the county where the accused individualrespondent resides.
+26 SECTION 14. AMENDMENT. Section 54-66-12 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 54-66-12. Confidential information.
+29 1. The following information is a confidential record as defined in section 44-04-17.1,
+30 unless the commission has determined the accused individualrespondent violated
+31 article XIV of the Constitution of North Dakota, this chapter, or another law or rule
+Page No. 9 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 regarding transparency, corruption, elections, or lobbying, and a court affirmed the
+2 determination if appealed, except the information may be disclosed as required by law
+3 or as necessary to conduct an investigation arising from a complaint:
+4 a. Information revealing the contents of a complaint;
+5 b. Information that reasonably may be used to identify an accused individuala
+6 respondent; and
+7 c. Information relating to or created as part of an investigation of a complaint.
+8 2. If a complaint is informally resolved under section 54-66-07, the following information
+9 is a confidential record as defined in section 44-04-17.1:
+10 a. Information revealing the contents of the complaint;
+11 b. Information that reasonably may be used to identify the accused
+12 individualrespondent;
+13 c. Information relating to or created as part of the process leading to the informal
+14 resolution; and
+15 d. Information revealing the informal resolution.
+16 3. Information that reasonably may be used to identify the complainant is confidential
+17 unless the complainant waives confidentiality, authorizes its disclosure, or divulges
+18 information that reasonably would identify the complainant. Information, including
+19 evidence under consideration by the investigator or commission, deemed confidential
+20 under this subsection may be disclosed as required by law or as necessary to conduct
+21 an investigation arising from a complaint to include disclosure of evidence being
+22 considered to an accused individuala respondent.
+23 4. The information deemed confidential in subsections 1 and 2 may be disclosed by the
+24 respondent and the ethics commission if the accused individualrespondent agrees to
+25 the disclosure.
+26 SECTION 15. AMENDMENT. Section 54-66-18 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 54-66-18. Conflicts of interest - Legislative assembly.
+29 1. Each legislative assembly shall adopt conflict of interest rules. The rules must:
+Page No. 10 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Require the disclosure by a member of a potential conflict of interest relating to
+2 any bill in which the member may have a direct, unique, substantial, or and
+3 individual interest.
+4 b. Ensure a mechanism is in place to record each disclosure and make it readily
+5 available to the public.
+6 2. If the legislative assembly adopts rules under subsection 1 which are at least as
+7 restrictive as the conflict of interest rules adopted by the ethics commission, the
+8 disclosure process portion of the conflict of interest rules adopted by the ethics
+9 commission may not apply to members of the legislative assembly.
+10 SECTION 16. A new section to chapter 54-66 of the North Dakota Century Code is created
+11 and enacted as follows:
+12 Complaint management time standards.
+13 The commission shall adopt rules for the efficient and timely disposition of complaints from
+14 receipt to resolution.
+15 SECTION 17. A new section to chapter 54-66 of the North Dakota Century Code is created
+16 and enacted as follows:
+17 Ethics commission annual report.
+18 1. The ethics commission shall prepare an annual report each fiscal year. The ethics
+19 commission shall make the annual report available on its public website within sixty
+20 days of the end of each fiscal year.
+21 2. The annual report must include:
+22 a. The number of complaints received by the commission, the status of those
+23 complaints, the commission's actions to resolve the complaints, and the timing
+24 related to those actions;
+25 b. The number of advisory opinions requested and issued, as well as information
+26 regarding general conflict disclosures and quasi-judicial disclosures received;
+27 and
+28 c. Information regarding education and outreach and the status of the commission's
+29 budget.
+Page No. 11 25.0171.04000
+
+Sixty-ninth
+Legislative Assembly
+1 3. The annual report may include recommendations for new or revised laws, rules, or
+2 policies that could improve the confidence that North Dakota citizens have in their
+3 government.
+4 SECTION 18. EMERGENCY. Sections 4, 5, 10, 11, 14, and 15 of this Act are declared to be
+5 an emergency measure.
+Page No. 12 25.0171.04000
+
+[DELETED: lEsAn$4$7$l095912]
+[DELETED: d$4$2$s30003nGm$e2l$.A.A.S.A22]
+[DELETED: .A.A.T.T.T.L.I32]
+[DELETED: .".".A.S.A.".".".P.A.A."."."42]
+[DELETED: .".".".".T.U.T.E52]
+[DELETED: .C.P.T.A.U.I62]
+[DELETED: .I.W.I72]
+[DELETED: .I.A82]
+[DELETED: .A.T.T.T.T92]
+[DELETED: .I.I.I.I.I.I.I.I.I.T.E02]
+[DELETED: .R.E.I.T.T.T.T.I12]
+[DELETED: .T22]

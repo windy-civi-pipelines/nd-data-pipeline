@@ -1,0 +1,457 @@
+Title: ENGROSSED HOUSE BILL NO. 1214
+Official Title: ENGROSSED HOUSE BILL NO. 1214
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with Conference Committee Amendments
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25.0752.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Conference Committee Amendments
+Introduced by
+Representatives Richter, Heinert, Novak, J. Olson, Sanford, Murphy, Jonas
+Senators Barta, Rummel, Schaible, Sickler
+1 A BILL for an Act to create and enact section 15.1-27-31.2 of the North Dakota Century Code,
+2 relating to transportation weighted student unit equivalents; to amend and reenact section
+3 15.1-31-05 of the North Dakota Century Code, relating to open enrollment transportation; to
+4 repeal sections 15.1-27-26.1, 15.1-27-27.1, 15.1-27-28.1, 15.1-27-30.1, and 15.1-27-31.1 of the
+5 North Dakota Century Code, relating to payments for school district transportation of students,
+6 special education students, and career and technical education students, the distribution of
+7 transportation payments in the event of school district closure, and state transportation
+8 payments to school districts; and to provide an effective date.
+9 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+10 SECTION 1. Section 15.1-27-31.2 of the North Dakota Century Code is created and
+11 enacted as follows:
+12 15.1 - 27 - 31.2. Transportation average daily membership equivalents converted to
+13 weighted student unit equivalents - Determination .
+14 1. The superintendent of public instruction shall determine transportation average daily
+15 membership equivalents for eligible school districts providing schoolbus transportation
+16 in contract schoolbuses, or in district-owned and operated schoolbuses, and for
+17 eligible school districts with students riding commercial buses to and from a school
+18 within the incorporated limits of a city. Transportation average daily membership
+19 equivalents must be determined as follows:
+20 a. 0.0011 multiplied by the number of eligible large bus miles;
+21 b. 0.00052 multiplied by the number of eligible small bus miles;
+22 c. 0.01 multiplied by the number of eligible large bus runs;
+Page No. 1 25.0752.04000
+Sixty-ninth
+Legislative Assembly
+1 d. 0.00468 multiplied by the number of eligible small bus runs;
+2 e. 0.012 multiplied by the number of square miles in the school district;
+3 f. 2.0 multiplied by the number of educational school plants within the school district
+4 boundary; and
+5 g. 0.00025 multiplied by the number of eligible miles transported by a student's
+6 family and reimbursed by the school district.
+7 2. The superintendent of public instruction shall determine each school district's total
+8 transportation average daily membership equivalent by adding the products derived
+9 under subsection 1 and then multiplying the total transportation average daily
+10 membership equivalent by 0.091 to determine the school district's weighted studen t
+11 unit equivalent.
+12 3. Subject to legislative appropriation, the superintendent of public instruction shall pay
+13 each school district providing schoolbus transportation in contract schoolbuses, or in
+14 district-owned and operated schoolbuses, an amount equal to the school district's
+15 weighted student unit equivalent multiplied by the per student payment rate for the
+16 applicable school year in subsection 3 of section 15.1 - 27 - 04.1. For school districts
+17 whose eligible bus miles and eligible bus runs remain the same, or increase from the
+18 prior year, the transportation payment under this subsection may not be less than the
+19 transportation payment received by the school district for the preceding year.
+20 4. To be eligible, school districts must certify compliance with state law relating to
+21 schoolbus standards and school vehicle driver requirements. The superintendent of
+22 public instruction may adopt rules governing certification of compliance under this
+23 subsection.
+24 5. Each year, the superintendent of public instruction shall determine the school district's
+25 transportation average daily membership equivalent based on the latest available
+26 miles and runs. Eligible miles and runs include miles and runs transporting eligible
+27 students to and from:
+28 a. School, including miles students are transported by family transportation in
+29 accordance with section 15.1 - 30 - 02 ;
+30 b. Special education programs approved by the superintendent of public instruction,
+31 regardless of whether the students transported live within the incorporated limits
+Page No. 2 25.0752.04000
+Sixty-ninth
+Legislative Assembly
+1 of the city in which the students' school is located, including miles students are
+2 transported by family transportation pursuant to subsection 6; and
+3 c. Career and technology centers and career and technical education courses,
+4 either within the district or in other school districts offered through cooperative
+5 arrangements approved by the state board for career and technical education,
+6 regardless of whether the students transported live within the incorporated limits
+7 of the city in which the students' school is located.
+8 6. To be eligible for special education miles, a student transported by a family member
+9 must:
+10 a. Be a student with a disability as defined in chapter 15.1 - 32 ;
+11 b. Have an individualized education program that requires the student attend a
+12 public or nonpublic school located outside the student's school district of
+13 residence; and
+14 c. Be transported by an adult family member in family provided transportation
+15 reimbursed by the school district for no more than two round trips per day
+16 between the home of the student and the school.
+17 7. If a school district ceases to exist, the superintendent of public instruction shall adjust,
+18 in the first year after closure, the transportation average daily membership equivalents
+19 of each school district in the state which enrolls students who attended the former
+20 school. The superintendent of public instruction shall determine the transportation
+21 average daily membership equivalents the former school district would have been
+22 entitled to for providing transportation services during the school district's final year of
+23 operation and shall prorate those transportation average daily membership
+24 equivalents to each enrolling school district based on the number of students enrolled
+25 from the former school. Transportation average daily membership equivalents of the
+26 enrolling school districts after the first year will be based on reported transportation
+27 average daily membership equivalents.
+28 8. This section does not apply to miles and runs:
+29 a. Incurred in providing transportation for students to attend extracurricular activities
+30 or events; or
+Page No. 3 25.0752.04000
+Sixty-ninth
+Legislative Assembly
+1 b. Related to students who are participating in open enrollment, or who are enrolled
+2 pursuant to a written contract entered by the sending and admitting districts
+3 which waives the charge and collection of tuition for the student.
+4 9. The superintendent of public instruction may adopt rules relating to information
+5 reported by school districts and reporting deadlines.
+6 SECTION 2. AMENDMENT. Section 15.1-27-31.2 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 15.1-27-31.2. Transportation average daily membership equivalents converted to
+9 weighted student unit equivalents - Determination.
+10 1. The superintendent of public instruction shall determine transportation average daily
+11 membership equivalents for eligible school districts providing schoolbus transportation
+12 in contract schoolbuses, or in district-owned and operated schoolbuses, and for
+13 eligible school districts with students riding commercial buses to and from a school
+14 within the incorporated limits of a city. Transportation average daily membership
+15 equivalents must be determined as follows:
+16 a. 0.0011 multiplied by the number of eligible large bus miles;
+17 b. 0.00052 multiplied by the number of eligible small bus miles;
+18 c. 0.01 multiplied by the number of eligible large bus runs;
+19 d. 0.00468 multiplied by the number of eligible small bus runs;
+20 e. 0.012 multiplied by the number of square miles in the school district;
+21 f. 2.0 multiplied by the number of educational school plants within the school district
+22 boundary; and
+23 g. 0.00025 multiplied by the number of eligible miles transported by a student's
+24 family and reimbursed by the school district.
+25 2. The superintendent of public instruction shall determine each school district's total
+26 transportation average daily membership equivalent by adding the products derived
+27 under subsection 1 and then multiplying the total transportation average daily
+28 membership equivalent by 0.091 to determine the school district's weighted student
+29 unit equivalent.
+30 3. Subject to legislative appropriation, the superintendent of public instruction shall pay
+31 each school district providing schoolbus transportation in contract schoolbuses, or in
+Page No. 4 25.0752.04000
+Sixty-ninth
+Legislative Assembly
+1 district-owned and operated schoolbuses, an amount equal to the school district's
+2 weighted student unit equivalent multiplied by the per student payment rate for the
+3 applicable school year in subsection 3 of section 15.1-27-04.1. For school districts
+4 whose eligible bus miles and eligible bus runs remain the same, or increase from the
+5 prior year, the transportation payment under this subsection may not be less than the
+6 transportation payment received by the school district for the preceding year.
+7 4. To be eligible, school districts must certify compliance with state law relating to
+8 schoolbus standards and school vehicle driver requirements. The superintendent of
+9 public instruction may adopt rules governing certification of compliance under this
+10 subsection.
+11 5. Each year, the superintendent of public instruction shall determine the school district's
+12 transportation average daily membership equivalent based on the latest available
+13 miles and runs. Eligible miles and runs include miles and runs transporting eligible
+14 students to and from:
+15 a. School, including miles students are transported by family transportation in
+16 accordance with section 15.1-30-02;
+17 b. Special education programs approved by the superintendent of public instruction,
+18 regardless of whether the students transported live within the incorporated limits
+19 of the city in which the students' school is located, including miles students are
+20 transported by family transportation pursuant to subsection 6; and
+21 c. Career and technology centers and career and technical education courses,
+22 either within the district or in other school districts offered through cooperative
+23 arrangements approved by the state board for career and technical education,
+24 regardless of whether the students transported live within the incorporated limits
+25 of the city in which the students' school is located.
+26 6. To be eligible for special education miles, a student transported by a family member
+27 must:
+28 a. Be a student with a disability as defined in chapter 15.1-32;
+29 b. Have an individualized education program that requires the student attend a
+30 public or nonpublic school located outside the student's school district of
+31 residence; and
+Page No. 5 25.0752.04000
+Sixty-ninth
+Legislative Assembly
+1 c. Be transported by an adult family member in family provided transportation
+2 reimbursed by the school district for no more than two round trips per day
+3 between the home of the student and the school.
+4 7. If a school district ceases to exist, the superintendent of public instruction shall adjust,
+5 in the first year after closure, the transportation average daily membership equivalents
+6 of each school district in the state which enrolls students who attended the former
+7 school. The superintendent of public instruction shall determine the transportation
+8 average daily membership equivalents the former school district would have been
+9 entitled to for providing transportation services during the school district's final year of
+10 operation and shall prorate those transportation average daily membership
+11 equivalents to each enrolling school district based on the number of students enrolled
+12 from the former school. Transportation average daily membership equivalents of the
+13 enrolling school districts after the first year will be based on reported transportation
+14 average daily membership equivalents.
+15 8. This section does not apply to miles and runs:
+16 a. Incurred in providing transportation for students to attend extracurricular activities
+17 or events; or
+18 b. Related to students who are participating in open enrollment, or who are enrolled
+19 pursuant to a written contract entered by the sending and admitting districts
+20 which waives the charge and collection of tuition for the student.
+21 9. The superintendent of public instruction may adopt rules relating to information
+22 reported by school districts and reporting deadlines.
+23 SECTION 3. AMENDMENT. Section 15.1-31-05 of the North Dakota Century Code is
+24 amended and reenacted as follows:
+25 15.1-31-05. Open enrollment - Transportation.
+26 A school district of residence may provide transportation to a student participating in open
+27 enrollment. If a district of residence does not provide transportation to a student participating in
+28 open enrollment, transportation may be provided by the admitting district. A school district may
+29 not receive transportation aid disbursements under subdivision a of subsection 1 of section
+30 15.1-27-26.1 or subsection 3 of section 15.1-27-26.1 forinclude any factors associated with
+31 transporting students who are participating in open enrollment, or who are enrolled pursuant to
+Page No. 6 25.0752.04000
+Sixty-ninth
+Legislative Assembly
+1 a written contract entered by the sending and admitting districts which waives the charge and
+2 collection of tuition for the student in the calculation of transportation average daily membership
+3 equivalents under section 15.1 - 27 - 31.2 .
+4 SECTION 4. REPEAL. Sections 15.1-27-26.1, 15.1-27-27.1, 15.1-27-28.1, 15.1-27-30.1,
+5 and 15.1-27-31.1 of the North Dakota Century Code are repealed.
+6 SECTION 5. EFFECTIVE DATE. Section 2 of this Act becomes effective on July 1, 2027.
+Page No. 7 25.0752.04000
+[DELETED: .T.0.0.012]
+[DELETED: .0.0.2.0.T.S.T.E.S.S22]
+[DELETED: .C.T. . .B.I.T.I32]
+[DELETED: .R.T.T.0.0.0.0.0.2.0.T.S42]
+[DELETED: .T.E.S.S.C.T.B.H52]
+[DELETED: .B.I.T.I.R.T62]
+[DELETED: 72]
+
+
+================================================================================
+
+Raw Text:
+25.0752.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Conference Committee Amendments
+ENGROSSED HOUSE BILL NO. 1214
+Introduced by
+Representatives Richter, Heinert, Novak, J. Olson, Sanford, Murphy, Jonas
+Senators Barta, Rummel, Schaible, Sickler
+1 A BILL for an Act to create and enact section 15.1-27-31.2 of the North Dakota Century Code,
+2 relating to transportation weighted student unit equivalents; to amend and reenact section
+3 15.1-31-05 of the North Dakota Century Code, relating to open enrollment transportation; to
+4 repeal sections 15.1-27-26.1, 15.1-27-27.1, 15.1-27-28.1, 15.1-27-30.1, and 15.1-27-31.1 of the
+5 North Dakota Century Code, relating to payments for school district transportation of students,
+6 special education students, and career and technical education students, the distribution of
+7 transportation payments in the event of school district closure, and state transportation
+8 payments to school districts; and to provide an effective date.
+9 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+10 SECTION 1. Section 15.1-27-31.2 of the North Dakota Century Code is created and
+11 enacted as follows:
+12 15.1 - 27 - 31.2. Transportation average daily membership equivalents converted to
+13 weighted student unit equivalents - Determination .
+14 1. The superintendent of public instruction shall determine transportation average daily
+15 membership equivalents for eligible school districts providing schoolbus transportation
+16 in contract schoolbuses, or in district-owned and operated schoolbuses, and for
+17 eligible school districts with students riding commercial buses to and from a school
+18 within the incorporated limits of a city. Transportation average daily membership
+19 equivalents must be determined as follows:
+20 a. 0.0011 multiplied by the number of eligible large bus miles;
+21 b. 0.00052 multiplied by the number of eligible small bus miles;
+22 c. 0.01 multiplied by the number of eligible large bus runs;
+Page No. 1 25.0752.04000
+
+Sixty-ninth
+Legislative Assembly
+1 d. 0.00468 multiplied by the number of eligible small bus runs;
+2 e. 0.012 multiplied by the number of square miles in the school district;
+3 f. 2.0 multiplied by the number of educational school plants within the school district
+4 boundary; and
+5 g. 0.00025 multiplied by the number of eligible miles transported by a student's
+6 family and reimbursed by the school district.
+7 2. The superintendent of public instruction shall determine each school district's total
+8 transportation average daily membership equivalent by adding the products derived
+9 under subsection 1 and then multiplying the total transportation average daily
+10 membership equivalent by 0.091 to determine the school district's weighted studen t
+11 unit equivalent.
+12 3. Subject to legislative appropriation, the superintendent of public instruction shall pay
+13 each school district providing schoolbus transportation in contract schoolbuses, or in
+14 district-owned and operated schoolbuses, an amount equal to the school district's
+15 weighted student unit equivalent multiplied by the per student payment rate for the
+16 applicable school year in subsection 3 of section 15.1 - 27 - 04.1. For school districts
+17 whose eligible bus miles and eligible bus runs remain the same, or increase from the
+18 prior year, the transportation payment under this subsection may not be less than the
+19 transportation payment received by the school district for the preceding year.
+20 4. To be eligible, school districts must certify compliance with state law relating to
+21 schoolbus standards and school vehicle driver requirements. The superintendent of
+22 public instruction may adopt rules governing certification of compliance under this
+23 subsection.
+24 5. Each year, the superintendent of public instruction shall determine the school district's
+25 transportation average daily membership equivalent based on the latest available
+26 miles and runs. Eligible miles and runs include miles and runs transporting eligible
+27 students to and from:
+28 a. School, including miles students are transported by family transportation in
+29 accordance with section 15.1 - 30 - 02 ;
+30 b. Special education programs approved by the superintendent of public instruction,
+31 regardless of whether the students transported live within the incorporated limits
+Page No. 2 25.0752.04000
+
+Sixty-ninth
+Legislative Assembly
+1 of the city in which the students' school is located, including miles students are
+2 transported by family transportation pursuant to subsection 6; and
+3 c. Career and technology centers and career and technical education courses,
+4 either within the district or in other school districts offered through cooperative
+5 arrangements approved by the state board for career and technical education,
+6 regardless of whether the students transported live within the incorporated limits
+7 of the city in which the students' school is located.
+8 6. To be eligible for special education miles, a student transported by a family member
+9 must:
+10 a. Be a student with a disability as defined in chapter 15.1 - 32 ;
+11 b. Have an individualized education program that requires the student attend a
+12 public or nonpublic school located outside the student's school district of
+13 residence; and
+14 c. Be transported by an adult family member in family provided transportation
+15 reimbursed by the school district for no more than two round trips per day
+16 between the home of the student and the school.
+17 7. If a school district ceases to exist, the superintendent of public instruction shall adjust,
+18 in the first year after closure, the transportation average daily membership equivalents
+19 of each school district in the state which enrolls students who attended the former
+20 school. The superintendent of public instruction shall determine the transportation
+21 average daily membership equivalents the former school district would have been
+22 entitled to for providing transportation services during the school district's final year of
+23 operation and shall prorate those transportation average daily membership
+24 equivalents to each enrolling school district based on the number of students enrolled
+25 from the former school. Transportation average daily membership equivalents of the
+26 enrolling school districts after the first year will be based on reported transportation
+27 average daily membership equivalents.
+28 8. This section does not apply to miles and runs:
+29 a. Incurred in providing transportation for students to attend extracurricular activities
+30 or events; or
+Page No. 3 25.0752.04000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Related to students who are participating in open enrollment, or who are enrolled
+2 pursuant to a written contract entered by the sending and admitting districts
+3 which waives the charge and collection of tuition for the student.
+4 9. The superintendent of public instruction may adopt rules relating to information
+5 reported by school districts and reporting deadlines.
+6 SECTION 2. AMENDMENT. Section 15.1-27-31.2 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 15.1-27-31.2. Transportation average daily membership equivalents converted to
+9 weighted student unit equivalents - Determination.
+10 1. The superintendent of public instruction shall determine transportation average daily
+11 membership equivalents for eligible school districts providing schoolbus transportation
+12 in contract schoolbuses, or in district-owned and operated schoolbuses, and for
+13 eligible school districts with students riding commercial buses to and from a school
+14 within the incorporated limits of a city. Transportation average daily membership
+15 equivalents must be determined as follows:
+16 a. 0.0011 multiplied by the number of eligible large bus miles;
+17 b. 0.00052 multiplied by the number of eligible small bus miles;
+18 c. 0.01 multiplied by the number of eligible large bus runs;
+19 d. 0.00468 multiplied by the number of eligible small bus runs;
+20 e. 0.012 multiplied by the number of square miles in the school district;
+21 f. 2.0 multiplied by the number of educational school plants within the school district
+22 boundary; and
+23 g. 0.00025 multiplied by the number of eligible miles transported by a student's
+24 family and reimbursed by the school district.
+25 2. The superintendent of public instruction shall determine each school district's total
+26 transportation average daily membership equivalent by adding the products derived
+27 under subsection 1 and then multiplying the total transportation average daily
+28 membership equivalent by 0.091 to determine the school district's weighted student
+29 unit equivalent.
+30 3. Subject to legislative appropriation, the superintendent of public instruction shall pay
+31 each school district providing schoolbus transportation in contract schoolbuses, or in
+Page No. 4 25.0752.04000
+
+Sixty-ninth
+Legislative Assembly
+1 district-owned and operated schoolbuses, an amount equal to the school district's
+2 weighted student unit equivalent multiplied by the per student payment rate for the
+3 applicable school year in subsection 3 of section 15.1-27-04.1. For school districts
+4 whose eligible bus miles and eligible bus runs remain the same, or increase from the
+5 prior year, the transportation payment under this subsection may not be less than the
+6 transportation payment received by the school district for the preceding year.
+7 4. To be eligible, school districts must certify compliance with state law relating to
+8 schoolbus standards and school vehicle driver requirements. The superintendent of
+9 public instruction may adopt rules governing certification of compliance under this
+10 subsection.
+11 5. Each year, the superintendent of public instruction shall determine the school district's
+12 transportation average daily membership equivalent based on the latest available
+13 miles and runs. Eligible miles and runs include miles and runs transporting eligible
+14 students to and from:
+15 a. School, including miles students are transported by family transportation in
+16 accordance with section 15.1-30-02;
+17 b. Special education programs approved by the superintendent of public instruction,
+18 regardless of whether the students transported live within the incorporated limits
+19 of the city in which the students' school is located, including miles students are
+20 transported by family transportation pursuant to subsection 6; and
+21 c. Career and technology centers and career and technical education courses,
+22 either within the district or in other school districts offered through cooperative
+23 arrangements approved by the state board for career and technical education,
+24 regardless of whether the students transported live within the incorporated limits
+25 of the city in which the students' school is located.
+26 6. To be eligible for special education miles, a student transported by a family member
+27 must:
+28 a. Be a student with a disability as defined in chapter 15.1-32;
+29 b. Have an individualized education program that requires the student attend a
+30 public or nonpublic school located outside the student's school district of
+31 residence; and
+Page No. 5 25.0752.04000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Be transported by an adult family member in family provided transportation
+2 reimbursed by the school district for no more than two round trips per day
+3 between the home of the student and the school.
+4 7. If a school district ceases to exist, the superintendent of public instruction shall adjust,
+5 in the first year after closure, the transportation average daily membership equivalents
+6 of each school district in the state which enrolls students who attended the former
+7 school. The superintendent of public instruction shall determine the transportation
+8 average daily membership equivalents the former school district would have been
+9 entitled to for providing transportation services during the school district's final year of
+10 operation and shall prorate those transportation average daily membership
+11 equivalents to each enrolling school district based on the number of students enrolled
+12 from the former school. Transportation average daily membership equivalents of the
+13 enrolling school districts after the first year will be based on reported transportation
+14 average daily membership equivalents.
+15 8. This section does not apply to miles and runs:
+16 a. Incurred in providing transportation for students to attend extracurricular activities
+17 or events; or
+18 b. Related to students who are participating in open enrollment, or who are enrolled
+19 pursuant to a written contract entered by the sending and admitting districts
+20 which waives the charge and collection of tuition for the student.
+21 9. The superintendent of public instruction may adopt rules relating to information
+22 reported by school districts and reporting deadlines.
+23 SECTION 3. AMENDMENT. Section 15.1-31-05 of the North Dakota Century Code is
+24 amended and reenacted as follows:
+25 15.1-31-05. Open enrollment - Transportation.
+26 A school district of residence may provide transportation to a student participating in open
+27 enrollment. If a district of residence does not provide transportation to a student participating in
+28 open enrollment, transportation may be provided by the admitting district. A school district may
+29 not receive transportation aid disbursements under subdivision a of subsection 1 of section
+30 15.1-27-26.1 or subsection 3 of section 15.1-27-26.1 forinclude any factors associated with
+31 transporting students who are participating in open enrollment, or who are enrolled pursuant to
+Page No. 6 25.0752.04000
+
+Sixty-ninth
+Legislative Assembly
+1 a written contract entered by the sending and admitting districts which waives the charge and
+2 collection of tuition for the student in the calculation of transportation average daily membership
+3 equivalents under section 15.1 - 27 - 31.2 .
+4 SECTION 4. REPEAL. Sections 15.1-27-26.1, 15.1-27-27.1, 15.1-27-28.1, 15.1-27-30.1,
+5 and 15.1-27-31.1 of the North Dakota Century Code are repealed.
+6 SECTION 5. EFFECTIVE DATE. Section 2 of this Act becomes effective on July 1, 2027.
+Page No. 7 25.0752.04000
+
+[DELETED: .T.0.0.012]
+[DELETED: .0.0.2.0.T.S.T.E.S.S22]
+[DELETED: .C.T. . .B.I.T.I32]
+[DELETED: .R.T.T.0.0.0.0.0.2.0.T.S42]
+[DELETED: .T.E.S.S.C.T.B.H52]
+[DELETED: .B.I.T.I.R.T62]
+[DELETED: 72]

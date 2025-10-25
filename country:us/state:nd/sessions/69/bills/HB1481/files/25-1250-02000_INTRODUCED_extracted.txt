@@ -1,0 +1,167 @@
+Title: HOUSE BILL NO. 1481
+Official Title: HOUSE BILL NO. 1481
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1250.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Kasper, Dockter, Koppelman, Louser, Ostlie, D. Ruby
+Senators Bekkedahl, Cleary, Clemens, Hogan, Lee, Paulson
+1 A BILL for an Act to create and enact a new section to chapter 26.1-36.9 of the North Dakota
+2 Century Code, relating to dental insurer rate filing requirements.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 26.1-36.9 of the North Dakota Century Code is
+5 created and enacted as follows:
+6 Dental insurer rate filing - Approval.
+7 1. A dental insurer annually shall file proposed plan rates and any changes to group
+8 rating factors that will be effective the following January first with the commissioner, as
+9 prescribed by the commissioner.
+10 2. The commissioner shall disapprove a:
+11 a. Proposed plan rate that is excessive, inadequate, or unreasonable in relation to
+12 the benefits; and
+13 b. Group rating factor that is discriminatory or not actuarially sound.
+14 3. The commissioner shall deem a proposed plan rate to be excessive and disapprove
+15 the proposed plan rate if the dental insurer files a rate change and the:
+16 a. Reported contribution to surplus exceeds two percent of total revenue; or
+17 b. Dental loss ratio for the plan is less than eighty-three percent.
+18 4. a. If the commissioner disapproves a proposed plan rate or group rating factor
+19 under subsection 2, the commissioner shall provide notice of disapproval to the
+20 dental insurer forty-five days before the proposed effective date of the proposed
+21 plan rate or group rating factor.
+22 b. Within ten days of the notice of disapproval being issued, the dental insurer may
+23 request the commissioner hold a hearing.
+Page No. 1 25.1250.02000
+Sixty-ninth
+Legislative Assembly
+1 c. If a dental insurer requests a hearing under this subsection, the commissioner
+2 shall hold a hearing within fifteen days of receipt of the request.
+3 d. The commissioner shall issue a decision within thirty days following the hearing.
+4 A dental insurer may not implement the disapproved proposed plan rate or group
+5 rating factor unless the commissioner reverses the disapproval decision following
+6 the hearing.
+7 5. a. If the commissioner disapproves a proposed plan rate under subsection 3, the
+8 commissioner shall provide notice of disapproval to the dental insurer forty-five
+9 days before the proposed effective date of the proposed plan rate and schedule a
+10 public hearing.
+11 b. Upon notice of the public hearing by the commissioner, the dental insurer shall
+12 provide notice of the public hearing and the presumptive disapproval of the
+13 proposed plan rate to all employers and individuals covered by the plan.
+14 c. The commissioner shall issue a decision within thirty days following the public
+15 hearing. A dental insurer may not implement the disapproved proposed plan rate
+16 unless the commissioner reverses the presumptive disapproval decision following
+17 the hearing.
+18 6. a. If the annual dental loss ratio for a dental benefit plan is less than eighty-three
+19 percent, the dental insurer offering the plan shall refund the excess premium to
+20 covered individuals and groups.
+21 b. A dental insurer shall provide notice to all individuals and groups that were
+22 covered under the plan during the applicable twelve-month period that such
+23 individuals and groups are entitled to a refund on the premium, or if the individual
+24 or group remains covered by the dental insurer, that the individual or group is
+25 eligible for a credit on the premium for the following twelve-month period.
+26 c. The total of all refunds issued under this subsection must equal the amount of the
+27 dental insurer's earned premium which exceeds the amount necessary to
+28 achieve a dental loss ratio of eighty-three percent, calculated using data reported
+29 by the dental insurer, as prescribed by the commissioner.
+30 7. The commissioner may:
+Page No. 2 25.1250.02000
+Sixty-ninth
+Legislative Assembly
+1 a. Authorize a waiver or adjustment of the refund requirements in this section only if
+2 it is determined by the commissioner that issuing refunds would result in financial
+3 impairment for the dental insurer.
+4 b. Adopt rules to implement and administer this section.
+Page No. 3 25.1250.02000
+[DELETED: .A.T.P.G.T. .D.a.I.W12]
+[DELETED: .I.T.a. .U.T.a.I.A.T.T22]
+[DELETED: .A.A32]
+
+
+================================================================================
+
+Raw Text:
+25.1250.02000
+Sixty-ninth
+HOUSE BILL NO. 1481
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Kasper, Dockter, Koppelman, Louser, Ostlie, D. Ruby
+Senators Bekkedahl, Cleary, Clemens, Hogan, Lee, Paulson
+1 A BILL for an Act to create and enact a new section to chapter 26.1-36.9 of the North Dakota
+2 Century Code, relating to dental insurer rate filing requirements.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 26.1-36.9 of the North Dakota Century Code is
+5 created and enacted as follows:
+6 Dental insurer rate filing - Approval.
+7 1. A dental insurer annually shall file proposed plan rates and any changes to group
+8 rating factors that will be effective the following January first with the commissioner, as
+9 prescribed by the commissioner.
+10 2. The commissioner shall disapprove a:
+11 a. Proposed plan rate that is excessive, inadequate, or unreasonable in relation to
+12 the benefits; and
+13 b. Group rating factor that is discriminatory or not actuarially sound.
+14 3. The commissioner shall deem a proposed plan rate to be excessive and disapprove
+15 the proposed plan rate if the dental insurer files a rate change and the:
+16 a. Reported contribution to surplus exceeds two percent of total revenue; or
+17 b. Dental loss ratio for the plan is less than eighty-three percent.
+18 4. a. If the commissioner disapproves a proposed plan rate or group rating factor
+19 under subsection 2, the commissioner shall provide notice of disapproval to the
+20 dental insurer forty-five days before the proposed effective date of the proposed
+21 plan rate or group rating factor.
+22 b. Within ten days of the notice of disapproval being issued, the dental insurer may
+23 request the commissioner hold a hearing.
+Page No. 1 25.1250.02000
+
+Sixty-ninth
+Legislative Assembly
+1 c. If a dental insurer requests a hearing under this subsection, the commissioner
+2 shall hold a hearing within fifteen days of receipt of the request.
+3 d. The commissioner shall issue a decision within thirty days following the hearing.
+4 A dental insurer may not implement the disapproved proposed plan rate or group
+5 rating factor unless the commissioner reverses the disapproval decision following
+6 the hearing.
+7 5. a. If the commissioner disapproves a proposed plan rate under subsection 3, the
+8 commissioner shall provide notice of disapproval to the dental insurer forty-five
+9 days before the proposed effective date of the proposed plan rate and schedule a
+10 public hearing.
+11 b. Upon notice of the public hearing by the commissioner, the dental insurer shall
+12 provide notice of the public hearing and the presumptive disapproval of the
+13 proposed plan rate to all employers and individuals covered by the plan.
+14 c. The commissioner shall issue a decision within thirty days following the public
+15 hearing. A dental insurer may not implement the disapproved proposed plan rate
+16 unless the commissioner reverses the presumptive disapproval decision following
+17 the hearing.
+18 6. a. If the annual dental loss ratio for a dental benefit plan is less than eighty-three
+19 percent, the dental insurer offering the plan shall refund the excess premium to
+20 covered individuals and groups.
+21 b. A dental insurer shall provide notice to all individuals and groups that were
+22 covered under the plan during the applicable twelve-month period that such
+23 individuals and groups are entitled to a refund on the premium, or if the individual
+24 or group remains covered by the dental insurer, that the individual or group is
+25 eligible for a credit on the premium for the following twelve-month period.
+26 c. The total of all refunds issued under this subsection must equal the amount of the
+27 dental insurer's earned premium which exceeds the amount necessary to
+28 achieve a dental loss ratio of eighty-three percent, calculated using data reported
+29 by the dental insurer, as prescribed by the commissioner.
+30 7. The commissioner may:
+Page No. 2 25.1250.02000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Authorize a waiver or adjustment of the refund requirements in this section only if
+2 it is determined by the commissioner that issuing refunds would result in financial
+3 impairment for the dental insurer.
+4 b. Adopt rules to implement and administer this section.
+Page No. 3 25.1250.02000
+
+[DELETED: .A.T.P.G.T. .D.a.I.W12]
+[DELETED: .I.T.a. .U.T.a.I.A.T.T22]
+[DELETED: .A.A32]

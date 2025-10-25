@@ -1,0 +1,952 @@
+Title: ENGROSSED HOUSE BILL NO. 1032
+Official Title: ENGROSSED HOUSE BILL NO. 1032
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with Senate Amendments
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+25.0279.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Senate Amendments
+Introduced by
+Legislative Management
+(Judiciary Committee)
+1 A BILL for an Act to create and enact a new subsection to section 27-05-06 and chapter 40-18.1
+2 of the North Dakota Century Code, relating to jurisdiction of district courts and municipal court
+3 requirements, jurisdiction, procedures, and processes; to amend and reenact subsection 1 of
+4 section 29-07-01.1 of the North Dakota Century Code, relating to indigent defense; and to
+5 repeal sections 40-11-10, 40-11-11, 40-11-12, and 40-11-13 and chapter 40-18 of the North
+6 Dakota Century Code, relating to ordinance violations and municipal judges.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. A new subsection to section 27-05-06 of the North Dakota Century Code is
+9 created and enacted as follows:
+10 Power to hear and determine all actions and proceedings arising from the enforcemen t
+11 of city ordinances in a city:
+12 a. With a population of fewer than five thousand in which there is not a municipal
+13 court or municipal judge under chapter 40 - 18.1 .
+14 b. That has entered an agreement under section 40 - 18.1 - 23 or 40 - 18.1 - 25 .
+15 SECTION 2. AMENDMENT. Subsection 1 of section 29-07-01.1 of the North Dakota
+16 Century Code is amended and reenacted as follows:
+17 1. Lawyers provided to represent indigent persons must be compensated at a
+18 reasonable rate to be determined by the commission on legal counsel for indigents.
+19 Expenses necessary for the adequate defense of an indigent person prosecuted in
+20 district court, other than for a violation of a home rule county's ordinance, when
+21 approved by the commission, must be paid by the state. Expenses necessary for the
+22 adequate defense of an indigent person prosecuted for violation of a home rule
+Page No. 1 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 county's ordinance must be paid by the home rule county. Expenses necessary for the
+2 adequate defense of an indigent person prosecuted infor a violation of a municipal
+3 courtordinance, when approved by the judge, must be paid by the city in which the
+4 alleged offense took place. The city shall also pay the expenses in any matter
+5 transferred to district court pursuant tounder section 40-18-06.2 or
+6 40-18-15.1 40 - 18.1 - 18 , 40 - 18.1 - 23, 40 - 18.1 - 24, or 40 - 18.1 - 25 , in any appeal taken to
+7 district court from a judgment of conviction in municipal court pursuant tounder section
+8 40-18-19 40 - 18.1 - 19 or 40 - 18.1 - 20 , and in an appeal or postconviction matter seeking
+9 relief from a conviction resulting from violation of a municipal ordinance. A defendant
+10 requesting representation by counsel at public expense, or for whom counsel provided
+11 at public expense without a request is considered appropriate by the court, shall
+12 submit an application for indigent defense services. For an application for indigent
+13 defense services in the district court, a nonrefundable application fee of thirty-five
+14 dollars must be paid at the time the application is submitted. The district court may
+15 extend the time for payment of the fee or may waive or reduce the fee if the court
+16 determines the defendant is financially unable to pay all or part of the fee. If the
+17 application fee is not paid before disposition of the case, the fee amount must be
+18 added to the amount to be reimbursed under this section. Application fees collected
+19 under this subsection must be forwarded for deposit in the indigent defense
+20 administration fund established under subsection 4.
+21 SECTION 3. Chapter 40-18.1 of the North Dakota Century Code is created and enacted as
+22 follows:
+23 40 - 18.1 - 01. Establishment of a municipal court .
+24 1. The governing body of a city may, by ordinance or resolution, establish a municipal
+25 court which is a part of the unified judicial system of this state. The supreme court may
+26 supervise and sanction municipal courts and municipal court judges. A staff attorney
+27 with the state court administrator's office may advise a municipal court judge and clerk
+28 on an administrative and procedural court issue.
+29 2. The governing body shall, by ordinance, provide for the election of at least one
+30 ful l - time or par t - time judge .
+31 3. A city that establishes a municipal court shall provide:
+Page No. 2 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 a. Facilities for the use of the municipal court to conduct trials, hearings, and other
+2 necessary duties; and
+3 b. Necessary supplies and technology and sufficient clerical and nonjudicial support
+4 personnel to assist the municipal judge.
+5 4. Municipal court must be held at the time and place designated by the municipal judge.
+6 The court schedule must be posted publicly by filing the notice with the city auditor's
+7 office and posting the notice on the city's website if the city has a website.
+8 5. Two or more cities, by resolution, may enter an agreement establishing a single joint
+9 municipal court. A copy of the agreement must be filed with the state court
+10 administrator. The agreement must include the name of the joint municipal court. As
+11 used in this chapter, "municipal court" includes a joint municipal court.
+12 6. Two or more cities, by resolution, may enter an agreement to provide jointly for
+13 courtrooms, chambers, equipment, supplies, and staff for municipal courts and agree
+14 to elect judges without establishing a joint municipal court. A copy of the agreement
+15 must be filed with the state court administrator. If municipal courts share facilities and
+16 resources in this manner, the identities of the individual courts must be expressed in
+17 the case caption.
+18 7. An agreement under subsection 5 or 6 may be terminated in the manner provided in
+19 the agreement. If the agreement does not include a provision for termination, the
+20 agreement may be terminated by any party upon the provision of not fewer than thirty
+21 days notice to the governing bodies.
+22 8. Beginning July 1, 2026, the municipal court is a court of record .
+23 40 - 18.1 - 02. Jurisdiction .
+24 1. The municipal court has jurisdiction to hear, try, and determine offenses against the
+25 ordinances of any city served by the court.
+26 2. Notwithstanding any other provision of law, the municipal court does not have
+27 jurisdiction to hear, try, and determine:
+28 a. An offense that would be a violation of section 39 - 08 - 01 or equivalent ordinance ,
+29 if the individual charged with the offense has twice previously been convicted of a
+30 violation of section 39 - 08 - 01 or equivalent ordinance within the seven years
+31 preceding the commission of the offense charged or if the individual charged with
+Page No. 3 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 the offense has three times previously been convicted of a violation of section
+2 39 - 08 - 01 or equivalent ordinance within the fifteen years preceding the
+3 commission of the offense charged. If the offense is charged in the municipal
+4 court and the municipal judge has notice of a violation of section 39 - 08 - 01 or
+5 equivalent ordinance twice within the seven years, or three times within the
+6 fifteen years, preceding the commission of the offense charged, the municipal
+7 judge shall dismiss the charge, without prejudice, and refer the matter to the
+8 state's attorney of the county in which the municipal court is located.
+9 b. An offense that would be a violation of section 39 - 08 - 01 or equivalent ordinance i f
+10 the judge is not licensed to practice law in this state.
+11 c. A domestic violence offense.
+12 d. A criminal offense, including criminal traffic offenses, against a juvenile, except a
+13 municipal court may hear, try, and determine noncriminal offenses against a
+14 juvenile if the juvenile is not subject to the exclusive jurisdiction of the juvenile
+15 court under chapter 27 - 20.2 .
+16 40 - 18.1 - 03. Fitness to proceed .
+17 1. If reason to doubt a defendant's fitness to proceed exists, as defined under section
+18 12.1 - 04 - 04, the case must be :
+19 a. Transferred to the district court for evaluation; or
+20 b. Dismissed on motion by the prosecutor.
+21 2. The district court shall order the defendant to undergo a fitness to proceed evaluation
+22 under chapter 12.1 - 04. If the defendant is found fit to proceed, the case must be
+23 remanded to the municipal court for further proceedings.
+24 3. The time to petition to transfer the matter to district court under section 40 - 18.1 - 18 is
+25 suspended pending determination of the defendant's fitness to proceed.
+26 4. If the defendant is found to lack fitness to proceed, the case must be dismissed.
+27 5. In proceedings under this section, the city shall provide a prosecuting attorney and, in
+28 the case of an indigent defendant, a defense attorney. The city may contract with the
+29 county, state, or any person for the prosecution or defense services.
+Page No. 4 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 40 - 18.1 - 04. Criminal responsibility .
+2 1. A case in which the defendant's criminal responsibility at the time of the crime is in
+3 question may be transferred to the district court for evaluation upon written request by
+4 the defendant. The defendant shall initiate the request within twenty - eight days after
+5 arraignment and the district court shall order the defendant to undergo a criminal
+6 responsibility evaluation under chapter 12.1 - 04.1 .
+7 2. Following the evaluation, if the defendant asserts the defense of lack of criminal
+8 responsibility, the case must remain in district court for trial. If the defendant does not
+9 assert the defense of lack of criminal responsibility, the district court shall remand the
+10 case to the municipal court for further proceedings.
+11 3. In proceedings under this section, the city shall provide a prosecuting attorney and, in
+12 the case of an indigent defendant, a defense attorney. The city may contract with the
+13 county, state, or any person for the prosecution or defense services.
+14 40 - 18.1 - 05. Election of municipal judge - Qualifications .
+15 1. A municipal judge must be elected to serve a term of four years and may not hold any
+16 other office in the city in which the municipal judge serves as a judge. The city auditor
+17 shall notify the state court administrator of the election or appointment of a municipal
+18 judge or alternate municipal judge.
+19 2. Except when prohibited by home rule charter or ordinance, the municipal judge may
+20 be a part-time judge and may serve as a municipal judge in more than one city.
+21 3. A municipal judge in a city with a population of five thousand or more must be licensed
+22 to practice law in this state and must be a resident of the city unless the city, by
+23 ordinance or resolution, provides the municipal judge is not required to be a resident of
+24 the city.
+25 4. The municipal judge in a city with a population of fewer than five thousand is not
+26 required to be licensed to practice law in this state and is not required to be a resident
+27 of the city.
+28 5. The governing body of the city shall fix the compensation of the municipal judge.
+29 40 - 18.1 - 06. Demand for change of judge .
+30 A party to a proceeding pending in a municipal court may obtain a change of judge under
+31 section 29 - 15 - 21. The municipal judge must be replaced in accordance with section 40 - 18.1 - 07 .
+Page No. 5 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 40 - 18.1 - 07. Vacancy in office of municipal judge - Disqualification - Temporary
+2 absence of municipal judge.
+3 1. If a vacancy exists in the office of municipal judge by death, resignation, or otherwise,
+4 the governing body of the city shall appoint an individual to fill the vacancy.
+5 2. The governing body may appoint alternate municipal judges to serve when a municipal
+6 judge is unable to serve due to temporary absence, illness, disqualification, or
+7 disability. The alternate judges must be compensated at a rate set by the governing
+8 body.
+9 3. If the alternate municipal judges also are disqualified or unavailable, the chief justice
+10 may appoint a district court judge to a temporary assignment as a municipal court
+11 judge for the purpose of presiding over the case.
+12 40 - 18.1 - 08. Clerk of municipal court .
+13 1. The governing body of a city with a municipal court may provide for the office of clerk
+14 of the municipal court, which may include deputy clerks of municipal court. The
+15 governing body of the city shall appoint the clerk and deputy clerk, with the consent of
+16 the municipal judge. The governing body shall fix the salary of the municipal clerk and
+17 deputy clerk.
+18 2. The clerk and deputy clerk of the municipal court shall issue all process of the court,
+19 administer oaths, file and preserve all papers, docket cases, set trials, and perform
+20 other acts necessary to carry out the duties and responsibilities of the court. The clerk
+21 shall receive, account for, and pay on a monthly basis to the city general fund all fines
+22 and forfeited bonds paid into the court.
+23 40 - 18.1 - 09. City prosecutor .
+24 1. A prosecutor licensed to practice law in this state must be present for all contested
+25 hearings and proceedings involving a class B misdemeanor in a municipal court .
+26 2. The city shall pay the compensation of the prosecutor and any necessary expenses
+27 incurred in prosecuting a violation of a city ordinance.
+28 40 - 18.1 - 10. Change of venue - Reliable electronic means .
+29 1. A municipal judge shall consider the following factors when determining whether to
+30 change the venue of a proceeding under this chapter:
+31 a. Convenience to the parties and witnesses.
+Page No. 6 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 b. Judicial efficiency.
+2 c. Available facilities.
+3 d. Administration of justice.
+4 2. A municipal judge may not change the venue of a proceeding if a party to the
+5 proceeding objects to the change.
+6 3. A municipal judge may use contemporaneous audio or audiovisual transmission by
+7 reliable electronic means in accordance with rule 52 of the North Dakota Supreme
+8 Court Administrative Rules. A municipal judge who presides over a proceeding through
+9 contemporaneous audio or audiovisual transmission by reliable electronic means is
+10 equivalent to a municipal judge who is physically present at the proceeding.
+11 40 - 18.1 - 11. Costs and fees .
+12 1. A municipal court:
+13 a. May not assess costs or fees against any individual except as specifically
+14 provided in this chapter.
+15 b. May assess a fee under subsection 2 of section 40 - 05 - 06 .
+16 c. May assess a court administration fee and a community service supervision fee
+17 in an amount not to exceed the amounts allowed under section 29 - 26 - 22 .
+18 d. Shall assess the crime victim and witness program fee under section 27 - 01 - 10 .
+19 2. The judgment must itemize the fines and fees assessed.
+20 40 - 18.1 - 12. Action for violation of ordinance in corporate name - Previous
+21 prosecution, recovery, or acquittal no defense.
+22 An action brought to recover a fine, enforce a penalty, or punish a violation of a city
+23 ordinance must be brought in the corporate name of the city as plaintiff. A prosecution, recovery,
+24 or acquittal for the violation of a city ordinance may not constitute a defense to any other
+25 prosecution of the same individual for any other violation of the ordinance, notwithstanding that
+26 the different claims for relief existed at the time of the previous prosecution and if united, would
+27 not have exceeded the jurisdiction of the court.
+28 40 - 18.1 - 13. Summons to issue on violation of ordinance - When warrant of arrest to
+29 issue.
+30 An action for a violation of an ordinance is initiated by a uniform complaint under section
+31 29 - 05 - 31 or a complaint in compliance with the North Dakota Rules of Criminal Procedure. I f
+Page No. 7 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 there is probable cause to believe a criminal offense has been committed by the individual
+2 charged, an arrest warrant must be issued, except a municipal judge may issue a summons
+3 instead of an arrest warrant if the municipal judge has reason to believe the individual charged
+4 will appear in response to the summons. An individual arrested under a warrant must be taken
+5 without unnecessary delay before the municipal judge to be tried for the alleged offense.
+6 40 - 18.1 - 14. Commitment for nonpayment of fines or costs .
+7 Any individual upon whom any fine or costs, or both, has been imposed for violation of a
+8 municipal ordinance may, after hearing, be committed upon order of the court to jail or other
+9 place provided by the municipality for the incarceration of offenders until the fine or costs, or
+10 both, are fully paid. The court may not commit an individual under this section when the reason
+11 for the individual's nonpayment of fines or costs is the individual's indigency. A commitment
+12 order issued under this section may not exceed thirty days. As used in this section, "fine" does
+13 not include a fee established under subsection 2 of section 40 - 05 - 06 .
+14 40 - 18.1 - 15. Fines, fees, and forfeitures for violation of ordinances paid into city
+15 general fund.
+16 All fines, fees, penalties, and forfeitures collected for a violation of a city ordinance,
+17 including those collected as a result of a judgment of a district court rendered under section
+18 40 - 18.1 - 18, must be paid into the city's general fund .
+19 40 - 18.1 - 16. Diagnosis and treatment of individuals convicted of driving while under
+20 the influence.
+21 If an individual is convicted under an ordinance equivalent to an offense under section
+22 39 - 08 - 01, the court shall sentence the defendant in accordance with that section .
+23 40 - 18.1 - 17. Sentencing alternatives - Suspension of sentence or imposition of
+24 sentence.
+25 Subject to section 40 - 05 - 06, a municipal judge may use the sentencing alternatives
+26 provided under section 12.1 - 32 - 02 and may suspend any sentence the judge imposes or defer
+27 the imposition of any sentence due to the good behavior of an individual adjudged to have
+28 committed an offense, or for other reasonable cause, under subsection 3 or 4 of section
+29 12.1 - 32 - 02, except a municipal judge may not suspend a sentence or the imposition o f
+30 sentence for driving a motor vehicle in violation of an operator's license suspension, revocation,
+31 or restriction or for a violation of section 39 - 08 - 01 or equivalent ordinance if the suspension o f
+Page No. 8 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 sentence or suspension of the imposition of sentence is prohibited under section 39 - 06 - 17 or
+2 39 - 06 - 42 or chapter 39 - 08 .
+3 40 - 18.1 - 18. Transfer to district court - Expenses of prosecution - Division of funds
+4 and expenses among city, county, and state.
+5 1. A defendant may request in writing to transfer the case to district court and to exercise
+6 the defendant's right to a jury trial within twenty - eight days after arraignment. If the
+7 request is filed within twenty - eight days after the arraignment, the judge shall grant the
+8 request.
+9 2. If the defendant waives a jury trial after a transfer to district court, the district court
+10 shall remand the matter to the municipal court for disposition and sentencing if the
+11 parties agree to a remand.
+12 3. Unless remanded to the municipal court by agreement of the parties, the district court
+13 retains jurisdiction for sentencing and enforcement.
+14 4. The city shall provide a prosecuting attorney and, in the case of an indigent defendant,
+15 a defense attorney. The city may contract with the county, state, or any person for the
+16 prosecution or defense services.
+17 5. The city, county, and state may agree to a division of any fees, fines, costs, forfeitures,
+18 and any other monetary consideration collected from cases transferred under this
+19 section, which must be paid to the city general fund and the county treasury and the
+20 state general fund at least once each quarter. At the time of payment, the clerk of
+21 district court shall account under oath to the city auditor, county treasurer, and state
+22 treasurer for all money collected. In the contract, the city, county, and state may agree
+23 to a division of expenses, including jury and witness expenses, related to cases
+24 transferred under this section. In the absence of a contract, all fees, fines, costs,
+25 forfeitures, and any other monetary consideration collected from transferred cases
+26 must be deposited in the state general fund.
+27 40 - 18.1 - 19. Appeals from determinations of municipal judge not in courts of record .
+28 1. For a case filed before July 1, 2026, an appeal may be taken to the district court from
+29 a judgment of conviction or order deferring imposition of sentence in a municipal court
+30 in accordance with the North Dakota Rules of Criminal Procedure.
+Page No. 9 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 2. An appeal is perfected by notice of appeal. A perfected appeal to the district court
+2 transfers the action to the district court for trial anew. Failure to remove the case under
+3 section 40 - 18.1 - 18 constitutes waiver of jury trial on appeal .
+4 3. On all appeals from a determination in a municipal court, the district court shall take
+5 judicial notice of all of the ordinances of the city.
+6 4. A filing fee may not be required in district court for the filing of an appeal from a
+7 judgment of conviction for the violation of a city ordinance.
+8 5. Expenses necessary for the adequate defense of an indigent individual in an appeal to
+9 the district court from a judgment of conviction for the violation of a municipal
+10 ordinance, as approved by the presiding district judge, must be paid by the city where
+11 the alleged offense took place.
+12 6. Unless remanded to the municipal court by agreement of the parties, the district court
+13 retains jurisdiction for sentencing and enforcement.
+14 40 - 18.1 - 20. Appeals from determinations of municipal judge in courts of record .
+15 1. For a case filed on or after July 1, 2026, an appeal may be taken to the district cour t
+16 from a judgment of conviction or order deferring imposition of sentence in a municipal
+17 court in accordance with the North Dakota Rules of Criminal Procedure.
+18 2. An appeal from a municipal court of record must originate from the file, record,
+19 recording, transcript, or evidence from the municipal court.
+20 3. The district court may affirm, reverse, or amend any appeal order or judgment and
+21 may direct the proper order or judgment be entered or direct a new trial or further
+22 proceeding be had in the court from which the appeal was taken.
+23 40 - 18.1 - 21. Municipal judge may enforce orders and judgments and punish for
+24 contempt.
+25 A municipal judge may enforce compliance with the court's orders and judgments. The
+26 judge may fine or imprison for contempt committed in the judge's presence while holding court,
+27 as well as for contempt of process issued, and of orders and judgments made by the judge. If
+28 an act or omission constituting a contempt in a municipal court is not committed in the presence
+29 of the municipal judge, an affidavit alleging the facts may be filed and a warrant of arrest may be
+30 issued on which the individual accused may be arrested and brought before the municipal judge
+31 immediately. The individual must be given a reasonable opportunity to employ counsel and
+Page No. 10 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 defend against the alleged contempt. After hearing the allegations and proof, the municipal
+2 judge may discharge the individual or adjudge the individual guilty and may punish by fine,
+3 imprisonment, or both. The fine in any case may not exceed one thousand five hundred dollars
+4 and the imprisonment may not exceed thirty days.
+5 40 - 18.1 - 22. Judgment for fines, fees, or costs - Procedure .
+6 1. If the judgment imposes a fine or assesses a fee, the municipal judge may order a
+7 certified copy of the judgment be filed in the office of the clerk of the district court of
+8 any county in the state. The clerk of district court shall treat the municipal court
+9 judgment in the same manner as a civil judgment of any district court of any county of
+10 the state.
+11 2. At the time of filing the judgment with the office of the clerk of district court, the
+12 municipal court judge shall order an affidavit providing the name and last-known
+13 mailing address of the defendant and otherwise complying with section 28 - 20 - 15 be
+14 filed.
+15 3. Upon the filing of the judgment and affidavit, the clerk of municipal court shall mail
+16 notice of the filing of the municipal judgment to the defendant at the defendant's last-
+17 known address and file proof of mailing with the district court. The notice must include
+18 the name and mailing address of the municipal court.
+19 4. An execution of other process for enforcement of a municipal court judgment filed
+20 under this section may not be issued until ten days after the date the judgment is filed.
+21 5. If the defendant shows the district court of any county that an appeal from the
+22 judgment is pending or will be taken, the court shall stay enforcement of the municipal
+23 court judgment until the appeal is concluded or the time for appeal expires.
+24 6. The municipal judge shall order the defendant to pay a filing fee of ten dollars to the
+25 clerk of district court.
+26 7. Upon filing of the judgment with the district court in accordance with this chapter, the
+27 judgment is enforceable by the city only in the same manner as provided for a
+28 judgment for money in a civil action.
+29 40 - 18.1 - 23. Transfer of municipal ordinance cases to district court .
+30 With the agreement of the state court administrator, the governing body of a city may, by
+31 ordinance, transfer some or all of the cases of the municipal court to the district court serving
+Page No. 11 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 the county in which the city is located without abolishing the municipal court. Cases transferred
+2 under this section are deemed district court cases for purposes of appeal. The agreement must
+3 provide the city is responsible for providing for the prosecution of the cases and for providing a
+4 defense attorney in cases involving an indigent defendant.
+5 40 - 18.1 - 24. Abolition of municipal court in a city with a population of fewer than five
+6 thousand.
+7 1. The governing body of a city with a population of fewer than five thousand having a
+8 municipal court may by resolution abolish its municipal court. The jurisdiction of a
+9 municipal court abolished by resolution must be transferred to the district court of the
+10 district in which the city is located.
+11 2. The city auditor shall provide a copy of the resolution abolishing the court to the
+12 presiding judge and clerk of court of the district court for the district in which the city is
+13 located, the state's attorney for the county in which the city is located, and the state
+14 court administrator. The resolution must provide the effective date of the transfer of
+15 cases, which must be at least ninety days following the date of the resolution.
+16 3. At least ten days before the effective date of the transfer, the clerk of the municipal
+17 court shall deliver to the clerk of the district court all cases pending action by the
+18 district court after the effective date of the resolution.
+19 4. On the effective date of transfer, all proceedings relating to ordinance violations must
+20 be within the jurisdiction of the district court. Judgments of courts which cease to exist
+21 on the effective date of the resolution continue in effect and the district court may
+22 enforce the judgments. Fines, forfeitures, and costs due and unpaid on the effective
+23 date of the transfer and those which are subsequently collected on cases pending on
+24 the effective date of the transfer must be collected by the district court and remitted to
+25 the city.
+26 5. The authority, duties, powers, jurisdiction, and term of the municipal judge terminates
+27 on the last day of the month in which all municipal cases have been transferred to the
+28 district court or the expiration of the judge's term, whichever occurs first.
+Page No. 12 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 40 - 18.1 - 25. Abolition of municipal court in a city with a population of five thousand or
+2 more.
+3 1. The governing body of a city with a population of five thousand or more having a
+4 municipal court may by resolution abolish its municipal court if the city has entered an
+5 agreement with:
+6 a. The governing body of the county in which the municipal court is located;
+7 b. The presiding judge of the district in which the municipal court is located; and
+8 c. The state court administrator's office.
+9 2. The agreement must provide for an effective date of the transfer of the municipal court
+10 cases to the district court not fewer than one hundred eighty days after the date of the
+11 agreement unless otherwise agreed upon.
+12 3. At least ten days before the effective date of the transfer, the clerk of the municipal
+13 court shall deliver to the clerk of the district court all cases pending action by the
+14 district court after the effective date of the transfer.
+15 4. On the effective date of the transfer, all proceedings relating to ordinance violations
+16 must be within the jurisdiction of the district court. Judgments of courts which cease to
+17 exist on the effective date of the agreement continue in effect and the district court
+18 may enforce the judgments. Fines, forfeitures, and costs due and unpaid on the
+19 effective date of the transfer and those which are subsequently collected on cases
+20 pending on the effective date must be collected by the district court and remitted to the
+21 city.
+22 5. The authority, duties, powers, jurisdiction, and term of the municipal judge terminates
+23 on the last day of the month in which all municipal cases have been transferred to the
+24 district court or the expiration of the judge's term, whichever occurs first.
+25 40 - 18.1 - 26. Compliance with rules adopted by the supreme court .
+26 1. The supreme court shall adopt rules governing:
+27 a. Municipal court procedure;
+28 b. Qualifications, judicial conduct, and education of municipal judges ;
+29 c. Qualification and education of municipal clerks;
+30 d. Requirements of municipal court facilities; and
+31 e. Records to be maintained and reports to be filed by the municipal court.
+Page No. 13 25.0279.04000
+Sixty-ninth
+Legislative Assembly
+1 2. Each municipal judge and alternate judge shall comply with the rules established by
+2 the supreme court. The city shall reimburse the judge for necessary travel expenses,
+3 meals, and lodging relating to compliance with the rules regarding qualifications,
+4 judicial conduct, and education in the same manner as other city officials are
+5 reimbursed.
+6 3. If a municipal judge or alternate municipal judge fails to fulfill the requirements of the
+7 rules established by the supreme court, the judicial conduct commission may order the
+8 municipal judge not preside over municipal court proceedings.
+9 SECTION 4. REPEAL. Sections 40-11-10, 40-11-11, 40-11-12, and 40-11-13 and chapter
+10 40-18 of the North Dakota Century Code are repealed.
+Page No. 14 25.0279.04000
+[DELETED: .W. .L12]
+[DELETED: .T.T.A22]
+[DELETED: .F.N.M.T.T. . .T.N. 32]
+[DELETED: . .A.A.I.T.D.T. .I.I42]
+[DELETED: .A.F.I.A.E.A.T.T52]
+[DELETED: .I.T.I.T.T.A.T.A.C62]
+[DELETED: .J.A.A.A.A.A.M. .M. .T72]
+[DELETED: 82]
+[DELETED: .A.I.U.T.T. 92]
+[DELETED: .A.O.A.E.U. .A.T02]
+[DELETED: .I.A.U.A.I. .U12]
+[DELETED: .T.T.A.O.T22]
+[DELETED: .T.T.T.T.T.A.O.T.T.M. .Q.R.R32]
+[DELETED: .E.I42]
+
+
+================================================================================
+
+Raw Text:
+25.0279.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Senate Amendments
+ENGROSSED HOUSE BILL NO. 1032
+Introduced by
+Legislative Management
+(Judiciary Committee)
+1 A BILL for an Act to create and enact a new subsection to section 27-05-06 and chapter 40-18.1
+2 of the North Dakota Century Code, relating to jurisdiction of district courts and municipal court
+3 requirements, jurisdiction, procedures, and processes; to amend and reenact subsection 1 of
+4 section 29-07-01.1 of the North Dakota Century Code, relating to indigent defense; and to
+5 repeal sections 40-11-10, 40-11-11, 40-11-12, and 40-11-13 and chapter 40-18 of the North
+6 Dakota Century Code, relating to ordinance violations and municipal judges.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. A new subsection to section 27-05-06 of the North Dakota Century Code is
+9 created and enacted as follows:
+10 Power to hear and determine all actions and proceedings arising from the enforcemen t
+11 of city ordinances in a city:
+12 a. With a population of fewer than five thousand in which there is not a municipal
+13 court or municipal judge under chapter 40 - 18.1 .
+14 b. That has entered an agreement under section 40 - 18.1 - 23 or 40 - 18.1 - 25 .
+15 SECTION 2. AMENDMENT. Subsection 1 of section 29-07-01.1 of the North Dakota
+16 Century Code is amended and reenacted as follows:
+17 1. Lawyers provided to represent indigent persons must be compensated at a
+18 reasonable rate to be determined by the commission on legal counsel for indigents.
+19 Expenses necessary for the adequate defense of an indigent person prosecuted in
+20 district court, other than for a violation of a home rule county's ordinance, when
+21 approved by the commission, must be paid by the state. Expenses necessary for the
+22 adequate defense of an indigent person prosecuted for violation of a home rule
+Page No. 1 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 county's ordinance must be paid by the home rule county. Expenses necessary for the
+2 adequate defense of an indigent person prosecuted infor a violation of a municipal
+3 courtordinance, when approved by the judge, must be paid by the city in which the
+4 alleged offense took place. The city shall also pay the expenses in any matter
+5 transferred to district court pursuant tounder section 40-18-06.2 or
+6 40-18-15.1 40 - 18.1 - 18 , 40 - 18.1 - 23, 40 - 18.1 - 24, or 40 - 18.1 - 25 , in any appeal taken to
+7 district court from a judgment of conviction in municipal court pursuant tounder section
+8 40-18-19 40 - 18.1 - 19 or 40 - 18.1 - 20 , and in an appeal or postconviction matter seeking
+9 relief from a conviction resulting from violation of a municipal ordinance. A defendant
+10 requesting representation by counsel at public expense, or for whom counsel provided
+11 at public expense without a request is considered appropriate by the court, shall
+12 submit an application for indigent defense services. For an application for indigent
+13 defense services in the district court, a nonrefundable application fee of thirty-five
+14 dollars must be paid at the time the application is submitted. The district court may
+15 extend the time for payment of the fee or may waive or reduce the fee if the court
+16 determines the defendant is financially unable to pay all or part of the fee. If the
+17 application fee is not paid before disposition of the case, the fee amount must be
+18 added to the amount to be reimbursed under this section. Application fees collected
+19 under this subsection must be forwarded for deposit in the indigent defense
+20 administration fund established under subsection 4.
+21 SECTION 3. Chapter 40-18.1 of the North Dakota Century Code is created and enacted as
+22 follows:
+23 40 - 18.1 - 01. Establishment of a municipal court .
+24 1. The governing body of a city may, by ordinance or resolution, establish a municipal
+25 court which is a part of the unified judicial system of this state. The supreme court may
+26 supervise and sanction municipal courts and municipal court judges. A staff attorney
+27 with the state court administrator's office may advise a municipal court judge and clerk
+28 on an administrative and procedural court issue.
+29 2. The governing body shall, by ordinance, provide for the election of at least one
+30 ful l - time or par t - time judge .
+31 3. A city that establishes a municipal court shall provide:
+Page No. 2 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Facilities for the use of the municipal court to conduct trials, hearings, and other
+2 necessary duties; and
+3 b. Necessary supplies and technology and sufficient clerical and nonjudicial support
+4 personnel to assist the municipal judge.
+5 4. Municipal court must be held at the time and place designated by the municipal judge.
+6 The court schedule must be posted publicly by filing the notice with the city auditor's
+7 office and posting the notice on the city's website if the city has a website.
+8 5. Two or more cities, by resolution, may enter an agreement establishing a single joint
+9 municipal court. A copy of the agreement must be filed with the state court
+10 administrator. The agreement must include the name of the joint municipal court. As
+11 used in this chapter, "municipal court" includes a joint municipal court.
+12 6. Two or more cities, by resolution, may enter an agreement to provide jointly for
+13 courtrooms, chambers, equipment, supplies, and staff for municipal courts and agree
+14 to elect judges without establishing a joint municipal court. A copy of the agreement
+15 must be filed with the state court administrator. If municipal courts share facilities and
+16 resources in this manner, the identities of the individual courts must be expressed in
+17 the case caption.
+18 7. An agreement under subsection 5 or 6 may be terminated in the manner provided in
+19 the agreement. If the agreement does not include a provision for termination, the
+20 agreement may be terminated by any party upon the provision of not fewer than thirty
+21 days notice to the governing bodies.
+22 8. Beginning July 1, 2026, the municipal court is a court of record .
+23 40 - 18.1 - 02. Jurisdiction .
+24 1. The municipal court has jurisdiction to hear, try, and determine offenses against the
+25 ordinances of any city served by the court.
+26 2. Notwithstanding any other provision of law, the municipal court does not have
+27 jurisdiction to hear, try, and determine:
+28 a. An offense that would be a violation of section 39 - 08 - 01 or equivalent ordinance ,
+29 if the individual charged with the offense has twice previously been convicted of a
+30 violation of section 39 - 08 - 01 or equivalent ordinance within the seven years
+31 preceding the commission of the offense charged or if the individual charged with
+Page No. 3 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 the offense has three times previously been convicted of a violation of section
+2 39 - 08 - 01 or equivalent ordinance within the fifteen years preceding the
+3 commission of the offense charged. If the offense is charged in the municipal
+4 court and the municipal judge has notice of a violation of section 39 - 08 - 01 or
+5 equivalent ordinance twice within the seven years, or three times within the
+6 fifteen years, preceding the commission of the offense charged, the municipal
+7 judge shall dismiss the charge, without prejudice, and refer the matter to the
+8 state's attorney of the county in which the municipal court is located.
+9 b. An offense that would be a violation of section 39 - 08 - 01 or equivalent ordinance i f
+10 the judge is not licensed to practice law in this state.
+11 c. A domestic violence offense.
+12 d. A criminal offense, including criminal traffic offenses, against a juvenile, except a
+13 municipal court may hear, try, and determine noncriminal offenses against a
+14 juvenile if the juvenile is not subject to the exclusive jurisdiction of the juvenile
+15 court under chapter 27 - 20.2 .
+16 40 - 18.1 - 03. Fitness to proceed .
+17 1. If reason to doubt a defendant's fitness to proceed exists, as defined under section
+18 12.1 - 04 - 04, the case must be :
+19 a. Transferred to the district court for evaluation; or
+20 b. Dismissed on motion by the prosecutor.
+21 2. The district court shall order the defendant to undergo a fitness to proceed evaluation
+22 under chapter 12.1 - 04. If the defendant is found fit to proceed, the case must be
+23 remanded to the municipal court for further proceedings.
+24 3. The time to petition to transfer the matter to district court under section 40 - 18.1 - 18 is
+25 suspended pending determination of the defendant's fitness to proceed.
+26 4. If the defendant is found to lack fitness to proceed, the case must be dismissed.
+27 5. In proceedings under this section, the city shall provide a prosecuting attorney and, in
+28 the case of an indigent defendant, a defense attorney. The city may contract with the
+29 county, state, or any person for the prosecution or defense services.
+Page No. 4 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 40 - 18.1 - 04. Criminal responsibility .
+2 1. A case in which the defendant's criminal responsibility at the time of the crime is in
+3 question may be transferred to the district court for evaluation upon written request by
+4 the defendant. The defendant shall initiate the request within twenty - eight days after
+5 arraignment and the district court shall order the defendant to undergo a criminal
+6 responsibility evaluation under chapter 12.1 - 04.1 .
+7 2. Following the evaluation, if the defendant asserts the defense of lack of criminal
+8 responsibility, the case must remain in district court for trial. If the defendant does not
+9 assert the defense of lack of criminal responsibility, the district court shall remand the
+10 case to the municipal court for further proceedings.
+11 3. In proceedings under this section, the city shall provide a prosecuting attorney and, in
+12 the case of an indigent defendant, a defense attorney. The city may contract with the
+13 county, state, or any person for the prosecution or defense services.
+14 40 - 18.1 - 05. Election of municipal judge - Qualifications .
+15 1. A municipal judge must be elected to serve a term of four years and may not hold any
+16 other office in the city in which the municipal judge serves as a judge. The city auditor
+17 shall notify the state court administrator of the election or appointment of a municipal
+18 judge or alternate municipal judge.
+19 2. Except when prohibited by home rule charter or ordinance, the municipal judge may
+20 be a part-time judge and may serve as a municipal judge in more than one city.
+21 3. A municipal judge in a city with a population of five thousand or more must be licensed
+22 to practice law in this state and must be a resident of the city unless the city, by
+23 ordinance or resolution, provides the municipal judge is not required to be a resident of
+24 the city.
+25 4. The municipal judge in a city with a population of fewer than five thousand is not
+26 required to be licensed to practice law in this state and is not required to be a resident
+27 of the city.
+28 5. The governing body of the city shall fix the compensation of the municipal judge.
+29 40 - 18.1 - 06. Demand for change of judge .
+30 A party to a proceeding pending in a municipal court may obtain a change of judge under
+31 section 29 - 15 - 21. The municipal judge must be replaced in accordance with section 40 - 18.1 - 07 .
+Page No. 5 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 40 - 18.1 - 07. Vacancy in office of municipal judge - Disqualification - Temporary
+2 absence of municipal judge.
+3 1. If a vacancy exists in the office of municipal judge by death, resignation, or otherwise,
+4 the governing body of the city shall appoint an individual to fill the vacancy.
+5 2. The governing body may appoint alternate municipal judges to serve when a municipal
+6 judge is unable to serve due to temporary absence, illness, disqualification, or
+7 disability. The alternate judges must be compensated at a rate set by the governing
+8 body.
+9 3. If the alternate municipal judges also are disqualified or unavailable, the chief justice
+10 may appoint a district court judge to a temporary assignment as a municipal court
+11 judge for the purpose of presiding over the case.
+12 40 - 18.1 - 08. Clerk of municipal court .
+13 1. The governing body of a city with a municipal court may provide for the office of clerk
+14 of the municipal court, which may include deputy clerks of municipal court. The
+15 governing body of the city shall appoint the clerk and deputy clerk, with the consent of
+16 the municipal judge. The governing body shall fix the salary of the municipal clerk and
+17 deputy clerk.
+18 2. The clerk and deputy clerk of the municipal court shall issue all process of the court,
+19 administer oaths, file and preserve all papers, docket cases, set trials, and perform
+20 other acts necessary to carry out the duties and responsibilities of the court. The clerk
+21 shall receive, account for, and pay on a monthly basis to the city general fund all fines
+22 and forfeited bonds paid into the court.
+23 40 - 18.1 - 09. City prosecutor .
+24 1. A prosecutor licensed to practice law in this state must be present for all contested
+25 hearings and proceedings involving a class B misdemeanor in a municipal court .
+26 2. The city shall pay the compensation of the prosecutor and any necessary expenses
+27 incurred in prosecuting a violation of a city ordinance.
+28 40 - 18.1 - 10. Change of venue - Reliable electronic means .
+29 1. A municipal judge shall consider the following factors when determining whether to
+30 change the venue of a proceeding under this chapter:
+31 a. Convenience to the parties and witnesses.
+Page No. 6 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Judicial efficiency.
+2 c. Available facilities.
+3 d. Administration of justice.
+4 2. A municipal judge may not change the venue of a proceeding if a party to the
+5 proceeding objects to the change.
+6 3. A municipal judge may use contemporaneous audio or audiovisual transmission by
+7 reliable electronic means in accordance with rule 52 of the North Dakota Supreme
+8 Court Administrative Rules. A municipal judge who presides over a proceeding through
+9 contemporaneous audio or audiovisual transmission by reliable electronic means is
+10 equivalent to a municipal judge who is physically present at the proceeding.
+11 40 - 18.1 - 11. Costs and fees .
+12 1. A municipal court:
+13 a. May not assess costs or fees against any individual except as specifically
+14 provided in this chapter.
+15 b. May assess a fee under subsection 2 of section 40 - 05 - 06 .
+16 c. May assess a court administration fee and a community service supervision fee
+17 in an amount not to exceed the amounts allowed under section 29 - 26 - 22 .
+18 d. Shall assess the crime victim and witness program fee under section 27 - 01 - 10 .
+19 2. The judgment must itemize the fines and fees assessed.
+20 40 - 18.1 - 12. Action for violation of ordinance in corporate name - Previous
+21 prosecution, recovery, or acquittal no defense.
+22 An action brought to recover a fine, enforce a penalty, or punish a violation of a city
+23 ordinance must be brought in the corporate name of the city as plaintiff. A prosecution, recovery,
+24 or acquittal for the violation of a city ordinance may not constitute a defense to any other
+25 prosecution of the same individual for any other violation of the ordinance, notwithstanding that
+26 the different claims for relief existed at the time of the previous prosecution and if united, would
+27 not have exceeded the jurisdiction of the court.
+28 40 - 18.1 - 13. Summons to issue on violation of ordinance - When warrant of arrest to
+29 issue.
+30 An action for a violation of an ordinance is initiated by a uniform complaint under section
+31 29 - 05 - 31 or a complaint in compliance with the North Dakota Rules of Criminal Procedure. I f
+Page No. 7 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 there is probable cause to believe a criminal offense has been committed by the individual
+2 charged, an arrest warrant must be issued, except a municipal judge may issue a summons
+3 instead of an arrest warrant if the municipal judge has reason to believe the individual charged
+4 will appear in response to the summons. An individual arrested under a warrant must be taken
+5 without unnecessary delay before the municipal judge to be tried for the alleged offense.
+6 40 - 18.1 - 14. Commitment for nonpayment of fines or costs .
+7 Any individual upon whom any fine or costs, or both, has been imposed for violation of a
+8 municipal ordinance may, after hearing, be committed upon order of the court to jail or other
+9 place provided by the municipality for the incarceration of offenders until the fine or costs, or
+10 both, are fully paid. The court may not commit an individual under this section when the reason
+11 for the individual's nonpayment of fines or costs is the individual's indigency. A commitment
+12 order issued under this section may not exceed thirty days. As used in this section, "fine" does
+13 not include a fee established under subsection 2 of section 40 - 05 - 06 .
+14 40 - 18.1 - 15. Fines, fees, and forfeitures for violation of ordinances paid into city
+15 general fund.
+16 All fines, fees, penalties, and forfeitures collected for a violation of a city ordinance,
+17 including those collected as a result of a judgment of a district court rendered under section
+18 40 - 18.1 - 18, must be paid into the city's general fund .
+19 40 - 18.1 - 16. Diagnosis and treatment of individuals convicted of driving while under
+20 the influence.
+21 If an individual is convicted under an ordinance equivalent to an offense under section
+22 39 - 08 - 01, the court shall sentence the defendant in accordance with that section .
+23 40 - 18.1 - 17. Sentencing alternatives - Suspension of sentence or imposition of
+24 sentence.
+25 Subject to section 40 - 05 - 06, a municipal judge may use the sentencing alternatives
+26 provided under section 12.1 - 32 - 02 and may suspend any sentence the judge imposes or defer
+27 the imposition of any sentence due to the good behavior of an individual adjudged to have
+28 committed an offense, or for other reasonable cause, under subsection 3 or 4 of section
+29 12.1 - 32 - 02, except a municipal judge may not suspend a sentence or the imposition o f
+30 sentence for driving a motor vehicle in violation of an operator's license suspension, revocation,
+31 or restriction or for a violation of section 39 - 08 - 01 or equivalent ordinance if the suspension o f
+Page No. 8 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 sentence or suspension of the imposition of sentence is prohibited under section 39 - 06 - 17 or
+2 39 - 06 - 42 or chapter 39 - 08 .
+3 40 - 18.1 - 18. Transfer to district court - Expenses of prosecution - Division of funds
+4 and expenses among city, county, and state.
+5 1. A defendant may request in writing to transfer the case to district court and to exercise
+6 the defendant's right to a jury trial within twenty - eight days after arraignment. If the
+7 request is filed within twenty - eight days after the arraignment, the judge shall grant the
+8 request.
+9 2. If the defendant waives a jury trial after a transfer to district court, the district court
+10 shall remand the matter to the municipal court for disposition and sentencing if the
+11 parties agree to a remand.
+12 3. Unless remanded to the municipal court by agreement of the parties, the district court
+13 retains jurisdiction for sentencing and enforcement.
+14 4. The city shall provide a prosecuting attorney and, in the case of an indigent defendant,
+15 a defense attorney. The city may contract with the county, state, or any person for the
+16 prosecution or defense services.
+17 5. The city, county, and state may agree to a division of any fees, fines, costs, forfeitures,
+18 and any other monetary consideration collected from cases transferred under this
+19 section, which must be paid to the city general fund and the county treasury and the
+20 state general fund at least once each quarter. At the time of payment, the clerk of
+21 district court shall account under oath to the city auditor, county treasurer, and state
+22 treasurer for all money collected. In the contract, the city, county, and state may agree
+23 to a division of expenses, including jury and witness expenses, related to cases
+24 transferred under this section. In the absence of a contract, all fees, fines, costs,
+25 forfeitures, and any other monetary consideration collected from transferred cases
+26 must be deposited in the state general fund.
+27 40 - 18.1 - 19. Appeals from determinations of municipal judge not in courts of record .
+28 1. For a case filed before July 1, 2026, an appeal may be taken to the district court from
+29 a judgment of conviction or order deferring imposition of sentence in a municipal court
+30 in accordance with the North Dakota Rules of Criminal Procedure.
+Page No. 9 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 2. An appeal is perfected by notice of appeal. A perfected appeal to the district court
+2 transfers the action to the district court for trial anew. Failure to remove the case under
+3 section 40 - 18.1 - 18 constitutes waiver of jury trial on appeal .
+4 3. On all appeals from a determination in a municipal court, the district court shall take
+5 judicial notice of all of the ordinances of the city.
+6 4. A filing fee may not be required in district court for the filing of an appeal from a
+7 judgment of conviction for the violation of a city ordinance.
+8 5. Expenses necessary for the adequate defense of an indigent individual in an appeal to
+9 the district court from a judgment of conviction for the violation of a municipal
+10 ordinance, as approved by the presiding district judge, must be paid by the city where
+11 the alleged offense took place.
+12 6. Unless remanded to the municipal court by agreement of the parties, the district court
+13 retains jurisdiction for sentencing and enforcement.
+14 40 - 18.1 - 20. Appeals from determinations of municipal judge in courts of record .
+15 1. For a case filed on or after July 1, 2026, an appeal may be taken to the district cour t
+16 from a judgment of conviction or order deferring imposition of sentence in a municipal
+17 court in accordance with the North Dakota Rules of Criminal Procedure.
+18 2. An appeal from a municipal court of record must originate from the file, record,
+19 recording, transcript, or evidence from the municipal court.
+20 3. The district court may affirm, reverse, or amend any appeal order or judgment and
+21 may direct the proper order or judgment be entered or direct a new trial or further
+22 proceeding be had in the court from which the appeal was taken.
+23 40 - 18.1 - 21. Municipal judge may enforce orders and judgments and punish for
+24 contempt.
+25 A municipal judge may enforce compliance with the court's orders and judgments. The
+26 judge may fine or imprison for contempt committed in the judge's presence while holding court,
+27 as well as for contempt of process issued, and of orders and judgments made by the judge. If
+28 an act or omission constituting a contempt in a municipal court is not committed in the presence
+29 of the municipal judge, an affidavit alleging the facts may be filed and a warrant of arrest may be
+30 issued on which the individual accused may be arrested and brought before the municipal judge
+31 immediately. The individual must be given a reasonable opportunity to employ counsel and
+Page No. 10 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 defend against the alleged contempt. After hearing the allegations and proof, the municipal
+2 judge may discharge the individual or adjudge the individual guilty and may punish by fine,
+3 imprisonment, or both. The fine in any case may not exceed one thousand five hundred dollars
+4 and the imprisonment may not exceed thirty days.
+5 40 - 18.1 - 22. Judgment for fines, fees, or costs - Procedure .
+6 1. If the judgment imposes a fine or assesses a fee, the municipal judge may order a
+7 certified copy of the judgment be filed in the office of the clerk of the district court of
+8 any county in the state. The clerk of district court shall treat the municipal court
+9 judgment in the same manner as a civil judgment of any district court of any county of
+10 the state.
+11 2. At the time of filing the judgment with the office of the clerk of district court, the
+12 municipal court judge shall order an affidavit providing the name and last-known
+13 mailing address of the defendant and otherwise complying with section 28 - 20 - 15 be
+14 filed.
+15 3. Upon the filing of the judgment and affidavit, the clerk of municipal court shall mail
+16 notice of the filing of the municipal judgment to the defendant at the defendant's last-
+17 known address and file proof of mailing with the district court. The notice must include
+18 the name and mailing address of the municipal court.
+19 4. An execution of other process for enforcement of a municipal court judgment filed
+20 under this section may not be issued until ten days after the date the judgment is filed.
+21 5. If the defendant shows the district court of any county that an appeal from the
+22 judgment is pending or will be taken, the court shall stay enforcement of the municipal
+23 court judgment until the appeal is concluded or the time for appeal expires.
+24 6. The municipal judge shall order the defendant to pay a filing fee of ten dollars to the
+25 clerk of district court.
+26 7. Upon filing of the judgment with the district court in accordance with this chapter, the
+27 judgment is enforceable by the city only in the same manner as provided for a
+28 judgment for money in a civil action.
+29 40 - 18.1 - 23. Transfer of municipal ordinance cases to district court .
+30 With the agreement of the state court administrator, the governing body of a city may, by
+31 ordinance, transfer some or all of the cases of the municipal court to the district court serving
+Page No. 11 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 the county in which the city is located without abolishing the municipal court. Cases transferred
+2 under this section are deemed district court cases for purposes of appeal. The agreement must
+3 provide the city is responsible for providing for the prosecution of the cases and for providing a
+4 defense attorney in cases involving an indigent defendant.
+5 40 - 18.1 - 24. Abolition of municipal court in a city with a population of fewer than five
+6 thousand.
+7 1. The governing body of a city with a population of fewer than five thousand having a
+8 municipal court may by resolution abolish its municipal court. The jurisdiction of a
+9 municipal court abolished by resolution must be transferred to the district court of the
+10 district in which the city is located.
+11 2. The city auditor shall provide a copy of the resolution abolishing the court to the
+12 presiding judge and clerk of court of the district court for the district in which the city is
+13 located, the state's attorney for the county in which the city is located, and the state
+14 court administrator. The resolution must provide the effective date of the transfer of
+15 cases, which must be at least ninety days following the date of the resolution.
+16 3. At least ten days before the effective date of the transfer, the clerk of the municipal
+17 court shall deliver to the clerk of the district court all cases pending action by the
+18 district court after the effective date of the resolution.
+19 4. On the effective date of transfer, all proceedings relating to ordinance violations must
+20 be within the jurisdiction of the district court. Judgments of courts which cease to exist
+21 on the effective date of the resolution continue in effect and the district court may
+22 enforce the judgments. Fines, forfeitures, and costs due and unpaid on the effective
+23 date of the transfer and those which are subsequently collected on cases pending on
+24 the effective date of the transfer must be collected by the district court and remitted to
+25 the city.
+26 5. The authority, duties, powers, jurisdiction, and term of the municipal judge terminates
+27 on the last day of the month in which all municipal cases have been transferred to the
+28 district court or the expiration of the judge's term, whichever occurs first.
+Page No. 12 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 40 - 18.1 - 25. Abolition of municipal court in a city with a population of five thousand or
+2 more.
+3 1. The governing body of a city with a population of five thousand or more having a
+4 municipal court may by resolution abolish its municipal court if the city has entered an
+5 agreement with:
+6 a. The governing body of the county in which the municipal court is located;
+7 b. The presiding judge of the district in which the municipal court is located; and
+8 c. The state court administrator's office.
+9 2. The agreement must provide for an effective date of the transfer of the municipal court
+10 cases to the district court not fewer than one hundred eighty days after the date of the
+11 agreement unless otherwise agreed upon.
+12 3. At least ten days before the effective date of the transfer, the clerk of the municipal
+13 court shall deliver to the clerk of the district court all cases pending action by the
+14 district court after the effective date of the transfer.
+15 4. On the effective date of the transfer, all proceedings relating to ordinance violations
+16 must be within the jurisdiction of the district court. Judgments of courts which cease to
+17 exist on the effective date of the agreement continue in effect and the district court
+18 may enforce the judgments. Fines, forfeitures, and costs due and unpaid on the
+19 effective date of the transfer and those which are subsequently collected on cases
+20 pending on the effective date must be collected by the district court and remitted to the
+21 city.
+22 5. The authority, duties, powers, jurisdiction, and term of the municipal judge terminates
+23 on the last day of the month in which all municipal cases have been transferred to the
+24 district court or the expiration of the judge's term, whichever occurs first.
+25 40 - 18.1 - 26. Compliance with rules adopted by the supreme court .
+26 1. The supreme court shall adopt rules governing:
+27 a. Municipal court procedure;
+28 b. Qualifications, judicial conduct, and education of municipal judges ;
+29 c. Qualification and education of municipal clerks;
+30 d. Requirements of municipal court facilities; and
+31 e. Records to be maintained and reports to be filed by the municipal court.
+Page No. 13 25.0279.04000
+
+Sixty-ninth
+Legislative Assembly
+1 2. Each municipal judge and alternate judge shall comply with the rules established by
+2 the supreme court. The city shall reimburse the judge for necessary travel expenses,
+3 meals, and lodging relating to compliance with the rules regarding qualifications,
+4 judicial conduct, and education in the same manner as other city officials are
+5 reimbursed.
+6 3. If a municipal judge or alternate municipal judge fails to fulfill the requirements of the
+7 rules established by the supreme court, the judicial conduct commission may order the
+8 municipal judge not preside over municipal court proceedings.
+9 SECTION 4. REPEAL. Sections 40-11-10, 40-11-11, 40-11-12, and 40-11-13 and chapter
+10 40-18 of the North Dakota Century Code are repealed.
+Page No. 14 25.0279.04000
+
+[DELETED: .W. .L12]
+[DELETED: .T.T.A22]
+[DELETED: .F.N.M.T.T. . .T.N. 32]
+[DELETED: . .A.A.I.T.D.T. .I.I42]
+[DELETED: .A.F.I.A.E.A.T.T52]
+[DELETED: .I.T.I.T.T.A.T.A.C62]
+[DELETED: .J.A.A.A.A.A.M. .M. .T72]
+[DELETED: 82]
+[DELETED: .A.I.U.T.T. 92]
+[DELETED: .A.O.A.E.U. .A.T02]
+[DELETED: .I.A.U.A.I. .U12]
+[DELETED: .T.T.A.O.T22]
+[DELETED: .T.T.T.T.T.A.O.T.T.M. .Q.R.R32]
+[DELETED: .E.I42]

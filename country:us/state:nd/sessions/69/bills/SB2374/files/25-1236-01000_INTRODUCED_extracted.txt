@@ -1,0 +1,1725 @@
+Title: SENATE BILL NO. 2374
+Official Title: SENATE BILL NO. 2374
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+25.1236.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Barta, Hogue, Klein
+Representatives Lefor, Warrey, J. Johnson
+1 A BILL for an Act to create and enact two new sections to chapter 26.1-30, two new sections to
+2 chapter 26.1-39, a new section to chapter 26.1-44, and a new subsection to section 26.1-46-03
+3 of the North Dakota Century Code, relating to mandatory arbitration endorsements for property
+4 insurance, managed repair programs, civil remedy actions against property insurers, notice of
+5 property insurance claims, and surplus lines insurance policies; to amend and reenact section
+6 26.1-02-05, subsection 2 of section 26.1-10-01, and sections 26.1-10-04, 26.1-25-02.1,
+7 26.1-25-16, 26.1-26-04.1, 26.1-44-03, 26.1-46-01, 26.1-46-08, and 26.1-46-08.1 of the North
+8 Dakota Century Code, relating to the presumption and delegation of control in insurance holding
+9 company systems, exceptions to unauthorized insurance transactions, exceptions for large
+10 commercial risks in fire, property, and casualty insurance rates, surplus lines insurance, risk
+11 retention groups and purchasing groups, restrictions on insurance purchased by purchasing
+12 groups, and purchasing group taxation and fees; to repeal section 26.1-44-03.3 of the North
+13 Dakota Century Code, relating to an exemption from search requirements for licensed surplus
+14 line producers; and to provide a penalty.
+15 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+16 SECTION 1. AMENDMENT. Section 26.1-02-05 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 26.1-02-05. Unauthorized insurance prohibited - Exceptions.
+19 An insurance company may not transact insurance business in this state, as set forth in
+20 section 26.1-02-06, without a certificate of authority from the commissioner. This section does
+21 not apply to:
+22 1. The lawful transaction of surplus lines insurance.
+23 2. The lawful transaction of reinsurance by insurers.
+Page No. 1 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 3. Transactions involving a policy lawfully solicited, written, and delivered outside of this
+2 state covering only subjects of insurance not resident, located, or expressly to be
+3 performed in this state at the time of issuance, and which transactions are subsequent
+4 to the issuance of such policy.
+5 4. Transactions involving life insurance, health insurance, or annuities provided to
+6 educational or religious or charitable institutions organized and operated without profit
+7 to any private shareholder or individual, for the benefit of the institutions and
+8 individuals engaged in the service of the institutions.
+9 5. Attorneys acting in the ordinary relation of attorney and client in the adjustment of
+10 claims or losses.
+11 6. Transactions involving group life, accident, and health, or blanket accident and health
+12 insurance, or group annuities if the master policy of the group was lawfully issued and
+13 delivered in and pursuant to the laws of a state in which the insurance company was
+14 authorized to do an insurance business, to a group organized for purposes other than
+15 the procurement of insurance, and where the policyholder is domiciled or otherwise
+16 has a bona fide situs.
+17 7. Transactions involving any insurance policy or annuity contract issued before July 1,
+18 1973.
+19 8. Transactions relative to a policy issued or to be issued outside this state involving
+20 insurance on vessels, craft or hulls, cargoes, marine builder's risk, marine protection
+21 and indemnity or other risk, including strikes and war risks commonly insured under
+22 ocean or wet marine forms of policy.
+23 9. Transactions involving insurance contracts issued to one or more industrial insureds;
+24 provided, that this does not relieve an industrial insured from taxation imposed upon
+25 independently procured insurance. An industrial insured is an insured:
+26 a. Which procures the insurance of any risk or risks other than life and annuity
+27 contracts by use of the services of a full-time employee acting as an insurance
+28 manager or buyer or the services of a regularly and continuously retained
+29 qualified insurance consultant;
+30 b. Whose aggregate annual premiums for insurance on all risks total at least
+31 twenty-five thousand dollars; and
+Page No. 2 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 c. Which has at least twenty-five full-time employees.
+2 10. Transactions involving insurance contracts covering a large commercial risk as
+3 defined in section 26.1 - 25 - 02.1, provided an industrial insured is not relieved from
+4 taxation imposed upon independently procured insurance.
+5 SECTION 2. AMENDMENT. Subsection 2 of section 26.1-10-01 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 2. "Control" means the possession, direct or indirect, of the power to direct or cause the
+8 direction of the management and policies of a person, whether through the ownership
+9 of voting securities, by contract other than a commercial contract for goods or
+10 nonmanagement services, or otherwise, unless the power is the result of an official
+11 position with or corporate office held by the person. Control is presumed to exist if any
+12 person, directly or indirectly, owns, controls, holds with the power to vote, or holds
+13 proxies representing ten percent or more of the voting securities of any other person.
+14 This presumption may be rebutted by a showing made in the manner provided for in
+15 subsection 9 of section 26.1-10-04, that control does not exist in fact. The
+16 commissioner may determine, after furnishing all persons in interest notice and
+17 opportunity to be heard and making specific findings of fact to support such
+18 determination, that control exists in fact, notwithstanding the absence of a presumption
+19 to that effect.
+20 SECTION 3. AMENDMENT. Section 26.1-10-04 of the North Dakota Century Code is
+21 amended and reenacted as follows:
+22 26.1-10-04. Registration of insurers.
+23 1. Every insurer that is authorized to do business in this state and which is a member of
+24 an insurance holding company system shall register with the commissioner, except a
+25 foreign insurer subject to registration requirements and standards adopted by statute
+26 or rule in the jurisdiction of its domicile which are substantially similar to those
+27 contained in this section and section 26.1-10-05. Any insurer subject to registration
+28 under this section shall register within fifteen days after it becomes subject to
+29 registration, and annually thereafter by March first of each year for the previous
+30 calendar year unless the commissioner for good cause shown extends the time for
+31 registration, and then within the extended time. The commissioner may require any
+Page No. 3 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 insurer authorized to do business in the state which is a member of an insurance
+2 holding company system not subject to registration under this section to furnish a copy
+3 of the registration statement, the summary specified in subsection 10 of section
+4 26.1-10-04, or other information filed by the insurer with the insurance regulatory
+5 authority of the domiciliary jurisdiction.
+6 2. Every insurer subject to registration shall file a registration statement with the
+7 commissioner on a form approved by the commissioner, which must contain current
+8 information about:
+9 a. The capital structure, general financial condition, ownership, and management of
+10 the insurer and any person in control of the insurer.
+11 b. The identity and relationship of every member of the insurance holding company
+12 system.
+13 c. The following agreements in force and transactions currently outstanding or
+14 which have occurred during the last calendar year between the insurer and its
+15 affiliates:
+16 (1) Loans, other investments, or purchases, sales, or exchanges of securities of
+17 the affiliates by the insurer or of the insurer by its affiliates.
+18 (2) Purchases, sales, or exchange of assets.
+19 (3) Transactions not in the ordinary course of business.
+20 (4) Guarantees or undertakings for the benefit of an affiliate which result in an
+21 actual contingent exposure of the insurer's assets to liability, other than
+22 insurance contracts entered into in the ordinary course of the insurer's
+23 business.
+24 (5) All management agreements, service contracts, and all cost-sharing
+25 arrangements.
+26 (6) Reinsurance agreements.
+27 (7) Dividends and other distributions to shareholders.
+28 (8) Consolidated tax allocation agreements.
+29 d. Any pledge of the insurer's stock, including stock of any subsidiary or controlling
+30 affiliate, for a loan made to any member of the insurance holding company
+31 system.
+Page No. 4 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 e. If requested by the commissioner, the insurer shall include financial statements of
+2 or within an insurance holding company system, including all affiliates. A financial
+3 statement may include an annual audited financial statement filed with the United
+4 States securities and exchange commission pursuant to the federal Securities
+5 Act of 1933, as amended, [15 U.S.C. 77a et seq.] or the federal Securities
+6 Exchange Act of 1934, as amended, [15 U.S.C. 78a et seq.] or the financial
+7 statement pursuant to this subdivision may satisfy the request by providing the
+8 commissioner with the most recently filed parent corporation financial statements
+9 that have been filed with the United Sates securities and exchange commission.
+10 f. Other matters concerning transactions between registered insurers and any
+11 affiliates as may be included from time to time in any registration forms adopted
+12 or approved by the commissioner.
+13 g. Statements that the insurer's board of directors is responsible for and supervises,
+14 relating to corporate governance and internal controls that the insurer's officers or
+15 senior management have approved, implemented, and continue to maintain and
+16 monitor.
+17 h. Any other information required by the commissioner by rule.
+18 3. No informationInformation does not need to be disclosed on the registration statement
+19 filed pursuant to subsection 2 if the information is not material for the purposes of this
+20 section. Unless the commissioner by rule or order provides otherwise, sales,
+21 purchases, exchanges, loans or extensions of credit, or investments, or guarantees
+22 involving one-half of one percent or less of an insurer's admitted assets as of
+23 December thirty-first next preceding are not material for purposes of this section.
+24 4. In addition to the annual filing requirement under subsection 1, each registered insurer
+25 shall keep current the information required to be disclosed in its registration statement
+26 by reporting all material changes or additions on amendment forms approved by the
+27 commissioner within fifteen days after the end of the month in which it learns of each
+28 change or addition; provided, however, that subject to subsections 7, 8, and 9 of
+29 section 26.1-10-05, each registered insurer shall report all dividends and other
+30 distributions to shareholders within five business days following the declaration and no
+31 less than ten business days prior to payment thereof.
+Page No. 5 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 5. The commissioner shall terminate the registration of any insurer that demonstrates it
+2 no longer is a member of an insurance holding company system.
+3 6. The commissioner may require or allow two or more affiliated insurers subject to
+4 registration to file a consolidated registration statement.
+5 7. The commissioner may allow an insurer which is authorized to do business in this
+6 state and which is part of an insurance holding company system to register on behalf
+7 of any affiliated insurer which is required to register under subsection 1 to file all
+8 information and material required to be filed under this section.
+9 8. This section does not apply to any insurer, information, or transaction if and to the
+10 extent excepted by the commissioner by rule or order.
+11 9. Any person may file with the commissioner a disclaimer of affiliation with any
+12 authorized insurer or a disclaimer may be filed by the insurer or any member of an
+13 insurance holding company system. The disclaimer must fully disclose all material
+14 relationships and bases for affiliation between the person and the insurer as well as
+15 the basis for disclaiming the affiliation. A disclaimer of affiliation is deemed to have
+16 been granted unless the commissioner, within thirty days following receipt of a
+17 complete disclaimer, notifies the filing party the disclaimer is disallowed. In the event of
+18 disallowance, the disclaiming party may request an administrative hearing, which must
+19 be granted. The disclaiming party is relieved of its duty to register under this section if
+20 approval of the disclaimer has been granted by the commissioner or if the disclaimer is
+21 deemed to have been approved.
+22 10. All registration statements must contain a summary outlining all items in the current
+23 registration statement representing changes from the prior registration statement.
+24 11. Any person within an insurance holding company system subject to registration must
+25 provide complete and accurate information to an insurer, when the information is
+26 reasonably necessary to enable the insurer to comply with the provisions of this
+27 chapter.
+28 12. The ultimate controlling person of every insurer subject to registration shall file an
+29 annual enterprise risk report. To the best of the ultimate controlling person's
+30 knowledge and belief, the report must identify the material risks within the insurance
+31 holding company system which could pose enterprise risk to the insurer. The report
+Page No. 6 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 must be filed with the lead state commissioner of the insurance holding company
+2 system as determined by the procedures within the financial analysis handbook
+3 adopted by the national association of insurance commissioners.
+4 13. The failure to file a registration statement or any summary of the registration statement
+5 or enterprise risk filing required by this section within the time specified for the filing is
+6 a violation of this section.
+7 14. Control is presumed to exist if any person, directly or indirectly, owns, controls, holds
+8 with the power to vote, or holds proxies representing ten percent or more of the voting
+9 securities of any other person. This presumption may be rebutted by a showing made
+10 in accordance with subsection 9 that control does not exist in fact. The commissioner
+11 may determine, after providing all interested persons notice and opportunity to be
+12 heard and making specific findings of fact to support the determination, that control
+13 exists in fact, notwithstanding the absence of a presumption to that effect.
+14 15. A person that would otherwise have control may delegate control to one or more other
+15 persons under a delegation agreement that must be substantially in the form
+16 designated by the commissioner so the person delegating the control will no longer be
+17 considered to have control.
+18 SECTION 4. AMENDMENT. Section 26.1-25-02.1 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 26.1-25-02.1. Definitions.
+21 1. "Advisory organization" means any entity, including its affiliates or subsidiaries, which
+22 either has two or more member insurers or is controlled either directly or indirectly by
+23 two or more insurers, and which assists insurers in ratemaking-related activities as
+24 enumerated in this chapter. Two or more insurers having a common ownership or
+25 operating in this state under common management or control constitute a single
+26 insurer for purposes of this definition.
+27 2. "Commercial risk" means any kind of risk which is not a personal risk.
+28 3. "Competitive market" means a commercial risk market that has not been found to be
+29 noncompetitive as provided for in section 26.1-25-04. All commercial risk markets
+30 except crop hail, farmowners, and medical malpractice insurance are presumed to be
+31 competitive.
+Page No. 7 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 4. "Developed losses" means losses including loss adjustment expenses, adjusted, using
+2 standard actuarial techniques, to eliminate the effect of differences between current
+3 payment or reserve estimates and those needed to provide actual ultimate loss
+4 including loss adjustment expense payments.
+5 5. "Expenses" means that portion of a rate attributable to acquisition, field supervision,
+6 collection expenses, general expenses, taxes, licenses, and fees.
+7 6. "Joint underwriting" means a voluntary arrangement established to provide insurance
+8 coverage for a commercial risk pursuant to which two or more insurers jointly contract
+9 with the insured at a price and under policy terms agreed upon between the insurers.
+10 7. "Large commercial risk" means an insured that has:
+11 a. Total insured property values of five million dollars or more;
+12 b. Total annual gross revenue of ten million dollars or more; or
+13 c. A total premium of twenty-five thousand dollars or more for property insurance,
+14 twenty-five thousand dollars or more for general liability insurance, or fifty
+15 thousand dollars or more for multiperil insurance.
+16 8. "Loss trending" means any procedure for projecting developed losses to the average
+17 date of loss for the period during which the policies are to be effective.
+18 8.9. "Noncompetitive market" means the crop hail, farmowners, and medical malpractice
+19 insurance markets together with any other line of commercial risk insurance that has
+20 not been found by the commissioner to have a reasonable degree of competitiveness
+21 within the market considering:
+22 a. Market concentration and changes in market concentration determined through
+23 the use of the Herfindahl-Hirschman index and the United States department of
+24 justice merger guidelines for an unconcentrated market;
+25 b. The existence of financial and other barriers that prevent a company from
+26 entering the market;
+27 c. The number of insurers or groups of affiliated insurers providing coverage in the
+28 market;
+29 d. The extent to which any insurer or group of affiliated insurers controls the market;
+30 e. Whether the total number of companies writing the line of insurance in this state
+31 is sufficient to provide multiple insurance options in the market;
+Page No. 8 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 f. The availability of insurance coverage to consumers in the markets by specific
+2 geographic area, by line of insurance, and by class of risk; and
+3 g. The opportunities available in the market to acquire pricing and other consumer
+4 information.
+5 A determination that a market is noncompetitive may not be based solely on the
+6 consideration of any one factor.
+7 9.10. "Personal risk" means homeowners, tenants, private passenger nonfleet automobiles,
+8 mobile homes, and other property and casualty insurance for personal, family, or
+9 household needs.
+10 10.11. "Pool" means a voluntary arrangement, established on an ongoing basis, pursuant to
+11 which two or more insurers participate in the sharing of risks on a predetermined
+12 basis. The pool may operate through an association, syndicate, or other pooling
+13 agreement.
+14 11.12. "Prospective loss costs" means that portion of a rate that does not include provisions
+15 for expenses other than loss adjustment expenses, or profit, and are based on
+16 historical aggregate losses and loss adjustment expenses adjusted through
+17 development to their ultimate value and projected through trending to a future point in
+18 time.
+19 12.13. "Rate" means that cost of insurance per exposure unit whether expressed as a single
+20 member or as a prospective loss cost with an adjustment to account for the treatment
+21 of expenses, profit, and individual insurer variation in loss experience, prior to any
+22 application of individual risk variations based on loss or expense considerations, and
+23 does not include minimum premium.
+24 13.14. "Residual market mechanism" means an arrangement, either voluntary or mandated
+25 by law, involving participation by insurers in the equitable apportionment among them
+26 of insurance which may be afforded applicants who are unable to obtain insurance
+27 through ordinary methods.
+28 14.15. "Supplementary rating information" includes any manual or plan of rates, classification,
+29 rating schedule, minimum premium, policy fee, rating rule, underwriting rule, statistical
+30 plan, and any other similar information needed to determine the applicable rate in
+31 effect or to be in effect.
+Page No. 9 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 15.16. "Supporting information" means:
+2 a. The experience and judgment of the filer and the experience or date of other
+3 insurers or advisory organizations relied upon by the filer;
+4 b. The interpretation of any other data relied upon by the filer; and
+5 c. Descriptions of methods used in making the rates and any other information
+6 required by the commissioner to be filed.
+7 SECTION 5. AMENDMENT. Section 26.1-25-16 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 26.1-25-16. Rebates prohibited - Exception.
+10 1. No insurance producerAn insurance producer may not knowingly charge, demand, or
+11 receive a premium for any insurance policy except in accordance with this chapter. No
+12 insurer or employee of an insurer, and no broker or agent may pay, allow, or give, or
+13 offer to pay, allow, or give, directly or indirectly, as an inducement to insurance, or after
+14 insurance has been effected, any rebate, discount, abatement, credit, or reduction of
+15 the premium named in an insurance policy, or any special favor or advantage in the
+16 dividends or other benefits to accrue on the policy, or any valuable consideration or
+17 inducement whatever, not specified in the insurance policy, except to the extent
+18 provided for in applicable filing. No insured named in an insurance policy, nor any
+19 employee of the insured, may knowingly receive or accept, directly or indirectly, any
+20 such rebate, discount, abatement, credit, or reduction of premium, or any such special
+21 favor or advantage or valuable consideration or inducement. This section does not
+22 prohibit the payment of commissions or other compensation to licensed insurance
+23 producers, nor any insurer from allowing or returning to its participating policyholders,
+24 members, or subscribers dividends, savings, or unabsorbed premium deposits. As
+25 used in this section, "insurance" includes suretyship and "policy" includes bond.
+26 2. Notwithstanding any other provision in this section, if the cost does not exceed an
+27 aggregate retail value of one hundred dollars per person per year, an insurance
+28 producer may give a gift, prize, promotional article, logo merchandise, meal, or
+29 entertainment activity directly or indirectly to a person in connection with marketing,
+30 promoting, or advertising the business. As used in this subsection, "person" means the
+31 named insured, policy owner, or prospective client or the spouse of any of these
+Page No. 10 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 individuals, but the term does not include a certificate holder, child, or employee of the
+2 named insured, policy owner, or prospective client. Subject to the limits of this
+3 subsection, an insurance producer may give a gift card for specific merchandise or
+4 services such as a meal, gasoline, or car wash but may not give cash, a cash card,
+5 any form of currency, or any refund or discount in premium. An insurance producer
+6 may not condition the giving of a gift, prize, promotional article, logo merchandise,
+7 meal, or entertainment activity on obtaining a quote or a contract of insurance.
+8 Notwithstanding the limitation in this subsection, an insurance producer may conduct
+9 raffles or drawings, if there is no financial cost to an entrant to participate, the drawing
+10 or raffle does not obligate a participant to purchase insurance, the prizes are not
+11 valued in excess of a reasonable amount determined by the commissioner, and the
+12 drawing or raffle is open to the public. The raffle or drawing must be offered in a
+13 manner that is not unfairly discriminatory and may not be contingent on the purchase,
+14 continued purchase, or renewal of a policy. Notwithstanding the limitation in this
+15 subsection, an insurance producer may make a donation to a nonprofit organization
+16 that is exempt from federal taxation under Internal Revenue Code section 501(c)(3)
+17 [26 U.S.C. 501(c)(3)] in any amount as long as the donation is not given as an
+18 inducement to obtain a contract of insurance.
+19 3. The provisions in this section may not be construed as including within the definition of
+20 discrimination or rebates any of the following practices:
+21 a. The offer or provision by an insurer or producer, by or through an employee, an
+22 affiliate, or a third-party representative, of value-added products or services at no
+23 or reduced cost if the products or services are not specified in the policy of
+24 insurance if the product or service:
+25 (1) Relates to the insurance coverage and is designed to satisfy one or more of
+26 the following:
+27 (a) Provide loss mitigation or loss control;
+28 (b) Reduce claims costs or claim settlement costs;
+29 (c) Provide education about liability risk or risk of loss to persons or
+30 property;
+Page No. 11 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 (d) Monitor or assess risk, identify sources of risk, or develop strategies
+2 for eliminating or reducing risk;
+3 (e) Enhance health;
+4 (f) Enhance financial wellness through items such as education of
+5 financial planning services;
+6 (g) Provide post-loss services;
+7 (h) Incent behavioral changes to improve the health or reduce the risk of
+8 death or disability of an individual defined as policyholder, potential
+9 policyholder, certificate holder, potential certificate holder, insured,
+10 potential insured, or applicant; or
+11 (i) Assist in the administration of the employee or retiree benefit
+12 insurance coverage.
+13 (2) If offered by the insurer or producer, the insurer or producer, upon request,
+14 shall ensure the person is provided with contact information to assist the
+15 person with questions regarding the product or service.
+16 (3) Is based on fair documented criteria and offered in a manner not unfairly
+17 discriminatory. The documented criteria must be maintained by the insurer
+18 or producer and produced at the request of the commissioner.
+19 (4) Is reasonable in comparison to that person's premiums or insurance
+20 coverage for the policy class.
+21 b. If an insurer or producer does not have sufficient evidence, but has a good-faith
+22 belief the product or service meets the criteria in subdivision a, the provision by
+23 the insurer or producer of a product or service in a manner that is not unfairly
+24 discriminatory as part of a pilot or testing program no longer than one year. An
+25 insurer or producer shall notify the department of the pilot or testing program
+26 offered to consumers in this state before launching and may proceed with the
+27 program unless the department objects within twenty-one days of notice.
+28 4. An insurer, producer, or representative of an insurer or producer may not offer or
+29 provide insurance as an inducement to the purchase of another policy or otherwise
+30 use of the words "free" or "no cost" or words of similar import in an advertisement.
+Page No. 12 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 5. The commissioner may adopt regulations when implementing the permitted practices
+2 set forth in this regulation to ensure consumer protection. Consistent with applicable
+3 law, the topics addressed by the regulations may include consumer data protections
+4 and privacy, consumer disclosure, and unfair discrimination.
+5 6. Subsections 1 and 2 do not apply to a large commercial risk as defined in section
+6 26.1 - 25 - 02.1 .
+7 SECTION 6. AMENDMENT. Section 26.1-26-04.1 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 26.1-26-04.1. Fees for services - Rules.
+10 1. Notwithstanding any other provision of this title, an insurance producer may charge a
+11 fee for any services rendered in connection with the sale, solicitation, negotiation,
+12 placement, or servicing of an insurance contract, if the following conditions are met:
+13 a. The fees may not be charged on a personal lines account, such as personal
+14 homeowners and automobile, personal life, and health insurance.
+15 b. Before rendering the services and accepting any payment, a written disclosure
+16 must be provided to the party to be charged on a form approved by the
+17 commissioner disclosing:
+18 (1) The nature of the services for which the fees will be charged along with a
+19 separate itemization of the amount of the fees;
+20 (2) That the fees are charged in addition to any premiums paid;
+21 (3) That if the insurance producer is also an appointed agent of an insurer with
+22 which coverage is being considered for placement, a statement that the
+23 insurance producer also represents the insurer in the transaction and owes
+24 a duty of loyalty to the insurer; and
+25 (4) That if the insurance producer is to receive a commission from the sale of
+26 an insurance policy related to the services rendered, a statement clearly
+27 and completely disclosing that the:
+28 (a) Insurance producer will receive a commission from the insurer which
+29 is paid from the premiums owed for the insurance; and
+30 (b) Amount of commission received by the insurance producer may differ
+31 depending on the product sold and the insurer.
+Page No. 13 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 c. The disclosure required by this section must be signed and dated by both the
+2 producer and the party to be charged.
+3 d. The producer shall retain the signed disclosure required by this section for not
+4 less than five years following the completion of the service. A copy of the signed
+5 disclosure must be available to the commissioner for inspection upon request.
+6 e. The insurance producer may not pay or return, or offer to pay or return, all or part
+7 of a fee charged as an inducement to purchase a specific policy, or coverage
+8 within a policy, or coverage from a particular insurer.
+9 f. Any fee charged under this section must bear a reasonable relationship to the
+10 services provided and may not be discriminatory.
+11 2. An insurance producer charging a fee for services rendered for risk management
+12 services under this section owes the person to be charged a higher standard of care
+13 than the ordinary standard of care otherwise owed by an insurance producer to fully
+14 advise the party to be charged as to the party's insurance needs, including the duty to
+15 inform the person to be charged as to a potential source of risk and to recommend, if
+16 available, insurance coverage for that risk.
+17 3. An insurance producer may charge an individual, for personal or commercial lines, a
+18 fee for paying agency-billed premiums and fees by credit card or other electronic
+19 means, if the fee is disclosed to the client in writing and agreed to by the client in
+20 writing.
+21 4. Subdivisions a through e of subsection 1 do not apply to a large commercial risk as
+22 defined in section 26.1 - 25 - 02.1 .
+23 5. The commissioner may adopt rules determined necessary by the commissioner for the
+24 administration of this section.
+25 SECTION 7. A new section to chapter 26.1-30 of the North Dakota Century Code is created
+26 and enacted as follows:
+27 Mandatory arbitration endorsements for property insurance - Written acceptance -
+28 Penalty.
+29 1. A property insurance policy may be issued or delivered in this state with mandatory
+30 binding arbitration provisions if the:
+Page No. 14 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 a. Mandatory binding arbitration provisions are contained in a separate
+2 endorsement;
+3 b. Named insured accepts the mandatory binding arbitration endorsement in writing
+4 in accordance with subsection 2; and
+5 c. Property insurance policy does not require mandatory binding arbitration upon
+6 request.
+7 2. The written acceptance of the insured required under subsection 1 must :
+8 a. Be on a form separate from the policy application and other policy forms;
+9 b. Clearly state the rights being waived in exchange for the premium discount,
+10 including the right to a trial by jury; and
+11 c. Include the following statement in at least twelve-point bold font:
+12 "By signing this form, I agree to resolve all covered property insurance claims
+13 through mandatory binding arbitration. I understand that by agreeing to
+14 mandatory binding arbitration:
+15 I am giving up my right to have disputes resolved in court.
+16 I am giving up my right to a jury trial.
+17 I am accepting these terms in exchange for a premium discount of [dollar amount
+18 or percentage of premium amount].
+19 This agreement is binding on all insureds under the policy and remains effective
+20 upon policy renewal, replacement, or reinstatement unless I request removal of
+21 the mandatory binding arbitration endorsement in writing".
+22 3. All arbitration proceedings under this section must:
+23 a. Be conducted in this state if involving a resident of this state;
+24 b. Be governed by state law; and
+25 c. Not require arbitration in another state.
+26 4. The acceptance or rejection of mandatory binding arbitration is valid and binding on all
+27 insureds under the policy and remains effective upon policy renewal, replacement, or
+28 reinstatement unless the named insured requests a change in writing.
+29 5. This section applies to all property and casualty insurance policies issued or renewed
+30 after the effective date of this Act.
+31 6. This section does not apply to a:
+Page No. 15 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 a. Voluntary arbitration agreement entered after a dispute has arisen; or
+2 b. Large commercial risk as defined in section 26.1 - 25 - 02.1 .
+3 7. The commissioner shall enforce this section.
+4 8. The commissioner may assess a penalty on an insurer in violation of this section, as
+5 determined by the commissioner.
+6 SECTION 8. A new section to chapter 26.1-30 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Managed repair programs - Penalty.
+9 1. A property insurance policy may be issued or delivered in this state with a managed
+10 repair program provision and offer premium incentives for managed repair program
+11 participation. As used in this section, "managed repair program" means any program
+12 in which an insurer restricts an insured's choice of repair vendors or contractors for
+13 covered repairs.
+14 2. An insurer offering a managed repair program shall:
+15 a. Prominently disclose on the policy declarations page the policy restricts the
+16 insured's right to choose repair vendors;
+17 b. Specify any premium benefits for program participation;
+18 c. Include a separate disclosure form, written in at least twelve-point font, which
+19 explains the restrictions on vendor selection, including:
+20 (1) The process for repairs under the program;
+21 (2) The insured's rights and responsibilities; and
+22 (3) Any warranty or guarantee provided for repairs.
+23 3. An insured retains the option to select the insured's own contractor, subject to
+24 standard policy terms, and request an alternate program contractor.
+25 4. This section apples to all property and casualty insurance policies issued or renewed
+26 after the effective date of this Act.
+27 5. The commissioner shall enforce this section.
+28 6. The commissioner may assess a penalty on an insurer in violation of this section, as
+29 determined by the commissioner.
+30 SECTION 9. A new section to chapter 26.1-39 of the North Dakota Century Code is created
+31 and enacted as follows:
+Page No. 16 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 Civil remedy actions against property insurers.
+2 Notwithstanding any provision under title 26.1, before a named insured may proceed with a
+3 bad faith claim against a property insurer, the named insured shall establish through an adverse
+4 adjudication by a court of law the property insurer breached the insurance contract and a final
+5 judgment or decree must have been rendered against the insurer.
+6 SECTION 10. A new section to chapter 26.1-39 of the North Dakota Century Code is
+7 created and enacted as follows:
+8 Notice of property insurance claim.
+9 1. As used in this section:
+10 a. "Reopened claim" means a claim an insurer closed and reopened upon an
+11 insured's request for additional costs for loss or damage previously disclosed to
+12 the insurer.
+13 b. "Supplemental claim" means a claim for additional loss or damage from the same
+14 peril the insurer previously adjusted or for which costs have been incurred while
+15 completing repairs or replacement under an open claim for which timely notice
+16 was previously provided to the insurer.
+17 2. A claim or reopened claim under an insurance policy that provides property insurance,
+18 including a policy issued by an eligible surplus lines insurer, for loss or damage
+19 caused by any peril is barred unless notice of the claim was given to the insurer in
+20 accordance with the terms of the policy within one year after the date of loss. A
+21 supplemental claim is barred unless notice of the supplemental claim was given to the
+22 insurer in accordance with the terms of the policy within eighteen months after the
+23 date of loss.
+24 3. The time limitations under subsection 2 are tolled during any term of deployment for a
+25 named insured service member to a combat zone or combat support posting that
+26 materially affects the ability of the named insured to file a claim, supplemental claim,
+27 or reopened claim.
+28 SECTION 11. AMENDMENT. Section 26.1-44-03 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 17 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 26.1-44-03. Surplus lines insurance.
+2 The placement of nonadmitted insurance is subject to this section only if the insured's home
+3 state is this state. Surplus lines insurance may be placed by a surplus lines producer if:
+4 1. Each insurer is an eligible surplus lines insurer;
+5 2. Each insurer is authorized to write the kind of insurance in its domiciliary jurisdiction;
+6 3. The full amount or type of insurance cannot be obtained from insurers who are
+7 admitted to do business in this state. The full amount or type of insurance may be
+8 procured from eligible surplus lines insurers provided that a diligent search is made
+9 among the insurers who are admitted to transact and are actually writing the particular
+10 type of insurance in this state if any are writing it;
+11 4. At the time of placement the surplus lines producer has determined that the
+12 nonadmitted insurer:
+13 a. Has established satisfactory evidence of good repute and financial integrity and
+14 has capital and surplus or its equivalent under the laws of its domiciliary
+15 jurisdiction which equals the greater of:
+16 (1) (a) The minimum capital and surplus requirements under the law of this
+17 state; or
+18 (b) Fifteen million dollars.
+19 (2) The requirements of paragraph 1 may be satisfied by an insurer possessing
+20 less than the minimum capital and surplus upon an affirmative finding of
+21 acceptability by the commissioner. The finding must be based upon such
+22 factors as quality of management, capital and surplus of any parent
+23 company, company underwriting profit and investment income trends,
+24 market availability, and company record and reputation within the industry.
+25 The commissioner may not make an affirmative finding of acceptability
+26 when the nonadmitted insurer's capital and surplus is less than four million
+27 five hundred thousand dollars; or
+28 b. For an insurer not domiciled in the United States or its territories, the insurer is
+29 listed on the quarterly listing of alien insurers maintained by the national
+30 association of insurance commissioners international insurers department; and
+31 5.4. All other requirements of this chapter are met.
+Page No. 18 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 12. A new section to chapter 26.1-44 of the North Dakota Century Code is
+2 created and enacted as follows:
+3 Surplus lines insurance policies.
+4 A surplus lines insurer may not issue a policy designed to satisfy any law mandating
+5 insurance coverage by a licensed insurance company.
+6 SECTION 13. AMENDMENT. Section 26.1-46-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 26.1-46-01. Definitions.
+9 As used in this chapter, unless the context requires otherwise:
+10 1. "Commissioner" means the North Dakota insurance commissioner or the
+11 commissioner, director, or superintendent of insurance in any other state.
+12 2. "Completed operations liability" means liability arising out of the installation,
+13 maintenance, or repair of any product at a site which is not owned or controlled by any
+14 person who performs that work or any person who hires an independent contractor to
+15 perform that work, but includes liability for activities which are completed or
+16 abandoned before the date of the occurrence giving rise to the liability.
+17 3. "Domicile", for purposes of determining the state in which a purchasing group is
+18 domiciled, means:
+19 a. For a corporation or limited liability company, the state in which the purchasing
+20 group is incorporated or organized.
+21 b. For an entity which is not a corporation or limited liability company, the state of its
+22 principal place of business.
+23 4. "Hazardous financial condition" means that, based on its present or reasonably
+24 anticipated financial condition, a risk retention group, although not yet financially
+25 impaired or insolvent, is unlikely to be able to do either of the following:
+26 a. To meet obligations to policyholders with respect to known claims and reasonably
+27 anticipated claims.
+28 b. To pay other obligations in the normal course of business.
+29 5. "Insurance" means primary insurance, excess insurance, reinsurance, surplus lines
+30 insurance, and any other arrangement for shifting and distributing risk which is
+31 determined to be insurance under the laws of this state.
+Page No. 19 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 6. a. "Liability" means legal liability for damages, including costs of defense, legal
+2 costs and fees, and other claims expenses because of injuries to other persons,
+3 damage to their property, or other damage or loss, including contractual claims
+4 and expenses, to such other persons resulting from or arising out of either of the
+5 following:
+6 a. (1) Any business whether profit or nonprofit, trade, product, services including
+7 professional services, premises, or operations.
+8 b. (2) Any activity of any state or local government, or any agency or political
+9 subdivision thereof.
+10 b. The term does not include personal risk liability and an employer's liability with
+11 respect to its employees other than legal liability under the federal Employer's
+12 Liability Act [45 U.S.C. 51 et seq.].
+13 7. "Personal risk liability" means liability for damages because of injury to any person,
+14 damage to property, or other loss or damage resulting from any personal, familial, or
+15 household responsibilities or activities, rather than from responsibilities or activities
+16 referred to in subsection 56.
+17 8. "Plan of operation or a feasibility study" means an analysis which presents the
+18 expected activities and results of a risk retention group, including, at a minimum, all of
+19 the following:
+20 a. For each state in which it intends to operate, the coverages, deductibles,
+21 coverage limits, rates, and rating classification systems for each line of insurance
+22 the group intends to offer.
+23 b. Historical and expected loss experience of the proposed members and national
+24 experience of similar exposures to the extent that this experience is reasonably
+25 available.
+26 c. Pro forma financial statements and projections.
+27 d. Appropriate opinions by a qualified independent casualty actuary, including a
+28 determination of minimum premium or participation levels required to commence
+29 operations and to prevent a hazardous financial condition.
+Page No. 20 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 e. Identification of management, underwriting and claims procedures, marketing
+2 methods, managerial oversight methods, reinsurance agreements, and
+3 investment policies.
+4 f. Such other matters as may be prescribed by the commissioner for liability
+5 insurance companies authorized by the insurance laws of the state in which the
+6 risk retention group is chartered.
+7 g. Information sufficient to verify that its members are engaged in businesses or
+8 activities similar or related with respect to the liability to which such members are
+9 exposed by virtue of any related, similar, or common business, trade, product,
+10 services, premises, or operations.
+11 h. Identification of each state in which the risk retention group has obtained, or
+12 sought to obtain, a charter and license, and a description of its status in each
+13 such state.
+14 9. "Product liability" means liability for damages because of any personal injury, death,
+15 emotional harm, consequential economic damage, or property damage, including
+16 damages resulting from the loss of use of property, arising out of the manufacture,
+17 design, importation, distribution, packaging, labeling, lease, or sale of a product, but
+18 does not include the liability of any person for those damages if the product involved
+19 was in the possession of such a person when the incident giving rise to the claim
+20 occurred.
+21 10. "Purchasing group" means any group which meets all of the following:
+22 a. The group has as one of its purposes the purchase of liability insurance on a
+23 group basis.
+24 b. The group purchases such insurance only for its group members and only to
+25 cover their similar or related liability exposure, as described in subdivision c,
+26 except a nonmaterial amount of commercial property coverage incidental to the
+27 liability exposure of its group members also may be insured.
+28 c. The group is composed of members whose business or activities are similar or
+29 related with respect to the liability to which members are exposed by virtue of any
+30 related, similar, or common business, trade, product, services, premises, or
+31 operations.
+Page No. 21 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 d. The group is domiciled in any state.
+2 11. "Risk retention group" means any corporation or other limited liability association:
+3 a. Whose primary activity consists of assuming and spreading all, or any portion, of
+4 the liability exposure of its group members.
+5 b. Which is organized for the primary purpose of conducting the activity described
+6 under subdivision a.
+7 c. Which is chartered and licensed as a liability insurance company and authorized
+8 to engage in the business of insurance under the laws of any state; or, before
+9 January 1, 1985, was chartered or licensed and authorized to engage in the
+10 business of insurance under the laws of Bermuda or the Cayman Islands and,
+11 before such date, had certified to the insurance commissioner of at least one
+12 state that it satisfied the capitalization requirements of such state, except that any
+13 such group shall be considered to be a risk retention group only if it has been
+14 engaged in business continuously since that date and only for the purpose of
+15 continuing to provide insurance to cover product liability or completed operations
+16 liability as such terms were defined in the Product Liability Risk Retention Act of
+17 1981 before the date of the enactment of the Liability Risk Retention Act of 1986.
+18 d. Which does not exclude any person from membership in the group solely to
+19 provide for members of such a group a competitive advantage over such a
+20 person.
+21 e. Which has as its owners only persons who comprise the membership of the risk
+22 retention group and who are provided insurance by such group, or has as its sole
+23 owner an organization which has as its members only persons who comprise the
+24 membership of the risk retention group and its owners only persons who
+25 comprise the membership of the risk retention group and who are provided
+26 insurance by such group.
+27 f. Whose members are engaged in businesses or activities similar or related with
+28 respect to the liability of which such members are exposed by virtue of any
+29 related, similar, or common business trade, product, services, premises, or
+30 operations.
+31 g. Whose activities do not include the provision of insurance other than:
+Page No. 22 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 (1) Liability insurance for assuming and spreading all or any portion of the
+2 liability of its group members, except a nonmaterial amount of commercial
+3 property coverage incidental to the liability exposure of its group members
+4 also may be insured.
+5 (2) Reinsurance with respect to the liability of any other risk retention group or
+6 any members of such other group which is engaged in business or activities
+7 so that the group or member meets the requirement described in
+8 subdivision f from membership in the risk retention group which provides
+9 such reinsurance.
+10 h. The name of which includes the phrase "risk retention group".
+11 12. "State" means any state of the United States or the District of Columbia.
+12 SECTION 14. A new subsection to section 26.1-46-03 of the North Dakota Century Code is
+13 created and enacted as follows:
+14 A risk retention group that is not chartered in this state but is in compliance with this
+15 section is deemed an authorized insurer for the satisfaction of any requirement, under
+16 the laws of this state, that insurance coverage be placed with an authorized insurer.
+17 SECTION 15. AMENDMENT. Section 26.1-46-08 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 26.1-46-08. Restrictions on insurance purchased by purchasing groups.
+20 1. A purchasing group may not purchase insurance from a risk retention group that is not
+21 chartered in a state or from an insurer not admitted in the state in which the
+22 purchasing group is located, unless the purchase is effected through a licensed
+23 insurance producer acting pursuant to the surplus lines laws and regulations of such
+24 state.
+25 2. A purchasing group which obtains liability insurance from an insurer not admitted in
+26 this state or a risk retention group shall inform each of the members of the group
+27 which have a risk resident or located in this state that the risk is not protected by an
+28 insurance insolvency guaranty fund in this state, and that the risk retention group or
+29 insurer may not be subject to all insurance laws and rules of this state.
+30 3. NoA purchasing group may not purchase insurance providing for a deductible or
+31 self-insured retention applicable to the group as a whole; however, coverage may
+Page No. 23 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 provide for a deductible or self-insured retention applicable to individual members
+2 unless the purchasing group uses a policyholder's disclosure statement approved by
+3 the commissioner which clearly explains in simplified language the policy is subject to
+4 a group deductible or self-insured retention and provides a detailed explanation of the
+5 process of the satisfaction of the deductible or self-insured retention among members.
+6 4. Purchases of insurance by purchasing groups are subject to the same standards
+7 regarding aggregate limits which are applicable to all purchases of group insurance.A
+8 purchasing group may not purchase insurance providing for a shared aggregate limit
+9 applicable to the group as a whole unless the purchasing group uses a policyholder's
+10 disclosure statement approved by the commissioner which clearly explains in
+11 simplified language the policy is subject to a group aggregate limit and coverage for
+12 each individual member could be exhausted by claims from other members. The
+13 insurance must allow for an individual member to purchase additional limits in the
+14 event of exhaustion and this option must be described in the disclosure statement.
+15 SECTION 16. AMENDMENT. Section 26.1-46-08.1 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 26.1-46-08.1. Purchasing group taxation - Fees.
+18 1. a. Premium taxes and taxes on premiums paid for coverage of risks resident or
+19 located in this state by a purchasing group or any members of the purchasing
+20 group must be:
+21 1. (1) Imposed at the same rate and subject to the same interest, fines, and
+22 penalties as that applicable to premium taxes and taxes on premiums paid
+23 for similar coverage from a similar insurance source by other insureds; and
+24 2. (2) Paid first by suchthe insurance source, and if not by suchthe source, by the
+25 insurance producer for the purchasing group, and if not by suchthe
+26 insurance producer, then by the purchasing group, and if not by such
+27 purchasing group, then by each of its members.
+28 b. To the extent any administrative fee is charged under subsection 2, the fee may
+29 not be considered a premium and is not subject to premium tax.
+30 2. A purchasing group's administrator, manager, or other related party may charge
+31 reasonable fees provided the fees are:
+Page No. 24 25.1236.01000
+Sixty-ninth
+Legislative Assembly
+1 a. For reimbursement of expenses incurred by the administrator, manager, or other
+2 related party in performing its administrative duties for the purchasing group; and
+3 b. Disclosed to all members of the risk purchasing group on a form approved by the
+4 commissioner which states the nature of the administrative duties for which the
+5 fees will be charged along with separate itemization of the amount of fees to be
+6 paid by each member.
+7 SECTION 17. REPEAL. Section 26.1-44-03.3 of the North Dakota Century Code is
+8 repealed.
+Page No. 25 25.1236.01000
+[DELETED: .T.T12]
+[DELETED: .T.T.A.T.T.T.T.W.W22]
+[DELETED: .W.T.".E32]
+[DELETED: .E.T.T.T)L)P)T)G)A)R)D)C.A42]
+[DELETED: .I.O.S.N.I52]
+[DELETED: .T.T.T.T.A.A.A.T62]
+[DELETED: .T.C.A."."."72]
+[DELETED: .".".".".T.T.A.".".M.T.T.T.W82]
+[DELETED: .T.T."."."."."."92]
+[DELETED: .".T.T.D.N.N02]
+[DELETED: .T.T)R)P)R)P12]
+[DELETED: )M)E)E)P)I)A)I)I)I.I.A22]
+[DELETED: .T. .N.T.B)T)T)T)T)I)A32]
+[DELETED: .T.T.T.A.A.A. .T.A42]
+[DELETED: .M.N.P. .B.C.I.A.B.B.N.T.T.T52]
+[DELETED: .V. .T.T.A.A.P.S.I)T)T)A.A.T.T.T62]
+[DELETED: .A.".".A. 72]
+[DELETED: .E.E.T.A.H)()T)F)T.F.A82]
+[DELETED: .".".".F.F.".T.T."92]
+[DELETED: .a.".()A.()A.T.".".F.H.P.A02]
+[DELETED: .I.S.I.I.".".T.T.T12]
+[DELETED: .T.".W.W.W.W.W.W.W22]
+[DELETED: )L)R.T.".A.A.N32]
+[DELETED: .P.a.P.()I.()P. .A42]
+[DELETED: .F.D52]
+
+
+================================================================================
+
+Raw Text:
+25.1236.01000
+Sixty-ninth
+SENATE BILL NO. 2374
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Barta, Hogue, Klein
+Representatives Lefor, Warrey, J. Johnson
+1 A BILL for an Act to create and enact two new sections to chapter 26.1-30, two new sections to
+2 chapter 26.1-39, a new section to chapter 26.1-44, and a new subsection to section 26.1-46-03
+3 of the North Dakota Century Code, relating to mandatory arbitration endorsements for property
+4 insurance, managed repair programs, civil remedy actions against property insurers, notice of
+5 property insurance claims, and surplus lines insurance policies; to amend and reenact section
+6 26.1-02-05, subsection 2 of section 26.1-10-01, and sections 26.1-10-04, 26.1-25-02.1,
+7 26.1-25-16, 26.1-26-04.1, 26.1-44-03, 26.1-46-01, 26.1-46-08, and 26.1-46-08.1 of the North
+8 Dakota Century Code, relating to the presumption and delegation of control in insurance holding
+9 company systems, exceptions to unauthorized insurance transactions, exceptions for large
+10 commercial risks in fire, property, and casualty insurance rates, surplus lines insurance, risk
+11 retention groups and purchasing groups, restrictions on insurance purchased by purchasing
+12 groups, and purchasing group taxation and fees; to repeal section 26.1-44-03.3 of the North
+13 Dakota Century Code, relating to an exemption from search requirements for licensed surplus
+14 line producers; and to provide a penalty.
+15 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+16 SECTION 1. AMENDMENT. Section 26.1-02-05 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 26.1-02-05. Unauthorized insurance prohibited - Exceptions.
+19 An insurance company may not transact insurance business in this state, as set forth in
+20 section 26.1-02-06, without a certificate of authority from the commissioner. This section does
+21 not apply to:
+22 1. The lawful transaction of surplus lines insurance.
+23 2. The lawful transaction of reinsurance by insurers.
+Page No. 1 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 3. Transactions involving a policy lawfully solicited, written, and delivered outside of this
+2 state covering only subjects of insurance not resident, located, or expressly to be
+3 performed in this state at the time of issuance, and which transactions are subsequent
+4 to the issuance of such policy.
+5 4. Transactions involving life insurance, health insurance, or annuities provided to
+6 educational or religious or charitable institutions organized and operated without profit
+7 to any private shareholder or individual, for the benefit of the institutions and
+8 individuals engaged in the service of the institutions.
+9 5. Attorneys acting in the ordinary relation of attorney and client in the adjustment of
+10 claims or losses.
+11 6. Transactions involving group life, accident, and health, or blanket accident and health
+12 insurance, or group annuities if the master policy of the group was lawfully issued and
+13 delivered in and pursuant to the laws of a state in which the insurance company was
+14 authorized to do an insurance business, to a group organized for purposes other than
+15 the procurement of insurance, and where the policyholder is domiciled or otherwise
+16 has a bona fide situs.
+17 7. Transactions involving any insurance policy or annuity contract issued before July 1,
+18 1973.
+19 8. Transactions relative to a policy issued or to be issued outside this state involving
+20 insurance on vessels, craft or hulls, cargoes, marine builder's risk, marine protection
+21 and indemnity or other risk, including strikes and war risks commonly insured under
+22 ocean or wet marine forms of policy.
+23 9. Transactions involving insurance contracts issued to one or more industrial insureds;
+24 provided, that this does not relieve an industrial insured from taxation imposed upon
+25 independently procured insurance. An industrial insured is an insured:
+26 a. Which procures the insurance of any risk or risks other than life and annuity
+27 contracts by use of the services of a full-time employee acting as an insurance
+28 manager or buyer or the services of a regularly and continuously retained
+29 qualified insurance consultant;
+30 b. Whose aggregate annual premiums for insurance on all risks total at least
+31 twenty-five thousand dollars; and
+Page No. 2 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Which has at least twenty-five full-time employees.
+2 10. Transactions involving insurance contracts covering a large commercial risk as
+3 defined in section 26.1 - 25 - 02.1, provided an industrial insured is not relieved from
+4 taxation imposed upon independently procured insurance.
+5 SECTION 2. AMENDMENT. Subsection 2 of section 26.1-10-01 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 2. "Control" means the possession, direct or indirect, of the power to direct or cause the
+8 direction of the management and policies of a person, whether through the ownership
+9 of voting securities, by contract other than a commercial contract for goods or
+10 nonmanagement services, or otherwise, unless the power is the result of an official
+11 position with or corporate office held by the person. Control is presumed to exist if any
+12 person, directly or indirectly, owns, controls, holds with the power to vote, or holds
+13 proxies representing ten percent or more of the voting securities of any other person.
+14 This presumption may be rebutted by a showing made in the manner provided for in
+15 subsection 9 of section 26.1-10-04, that control does not exist in fact. The
+16 commissioner may determine, after furnishing all persons in interest notice and
+17 opportunity to be heard and making specific findings of fact to support such
+18 determination, that control exists in fact, notwithstanding the absence of a presumption
+19 to that effect.
+20 SECTION 3. AMENDMENT. Section 26.1-10-04 of the North Dakota Century Code is
+21 amended and reenacted as follows:
+22 26.1-10-04. Registration of insurers.
+23 1. Every insurer that is authorized to do business in this state and which is a member of
+24 an insurance holding company system shall register with the commissioner, except a
+25 foreign insurer subject to registration requirements and standards adopted by statute
+26 or rule in the jurisdiction of its domicile which are substantially similar to those
+27 contained in this section and section 26.1-10-05. Any insurer subject to registration
+28 under this section shall register within fifteen days after it becomes subject to
+29 registration, and annually thereafter by March first of each year for the previous
+30 calendar year unless the commissioner for good cause shown extends the time for
+31 registration, and then within the extended time. The commissioner may require any
+Page No. 3 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 insurer authorized to do business in the state which is a member of an insurance
+2 holding company system not subject to registration under this section to furnish a copy
+3 of the registration statement, the summary specified in subsection 10 of section
+4 26.1-10-04, or other information filed by the insurer with the insurance regulatory
+5 authority of the domiciliary jurisdiction.
+6 2. Every insurer subject to registration shall file a registration statement with the
+7 commissioner on a form approved by the commissioner, which must contain current
+8 information about:
+9 a. The capital structure, general financial condition, ownership, and management of
+10 the insurer and any person in control of the insurer.
+11 b. The identity and relationship of every member of the insurance holding company
+12 system.
+13 c. The following agreements in force and transactions currently outstanding or
+14 which have occurred during the last calendar year between the insurer and its
+15 affiliates:
+16 (1) Loans, other investments, or purchases, sales, or exchanges of securities of
+17 the affiliates by the insurer or of the insurer by its affiliates.
+18 (2) Purchases, sales, or exchange of assets.
+19 (3) Transactions not in the ordinary course of business.
+20 (4) Guarantees or undertakings for the benefit of an affiliate which result in an
+21 actual contingent exposure of the insurer's assets to liability, other than
+22 insurance contracts entered into in the ordinary course of the insurer's
+23 business.
+24 (5) All management agreements, service contracts, and all cost-sharing
+25 arrangements.
+26 (6) Reinsurance agreements.
+27 (7) Dividends and other distributions to shareholders.
+28 (8) Consolidated tax allocation agreements.
+29 d. Any pledge of the insurer's stock, including stock of any subsidiary or controlling
+30 affiliate, for a loan made to any member of the insurance holding company
+31 system.
+Page No. 4 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 e. If requested by the commissioner, the insurer shall include financial statements of
+2 or within an insurance holding company system, including all affiliates. A financial
+3 statement may include an annual audited financial statement filed with the United
+4 States securities and exchange commission pursuant to the federal Securities
+5 Act of 1933, as amended, [15 U.S.C. 77a et seq.] or the federal Securities
+6 Exchange Act of 1934, as amended, [15 U.S.C. 78a et seq.] or the financial
+7 statement pursuant to this subdivision may satisfy the request by providing the
+8 commissioner with the most recently filed parent corporation financial statements
+9 that have been filed with the United Sates securities and exchange commission.
+10 f. Other matters concerning transactions between registered insurers and any
+11 affiliates as may be included from time to time in any registration forms adopted
+12 or approved by the commissioner.
+13 g. Statements that the insurer's board of directors is responsible for and supervises,
+14 relating to corporate governance and internal controls that the insurer's officers or
+15 senior management have approved, implemented, and continue to maintain and
+16 monitor.
+17 h. Any other information required by the commissioner by rule.
+18 3. No informationInformation does not need to be disclosed on the registration statement
+19 filed pursuant to subsection 2 if the information is not material for the purposes of this
+20 section. Unless the commissioner by rule or order provides otherwise, sales,
+21 purchases, exchanges, loans or extensions of credit, or investments, or guarantees
+22 involving one-half of one percent or less of an insurer's admitted assets as of
+23 December thirty-first next preceding are not material for purposes of this section.
+24 4. In addition to the annual filing requirement under subsection 1, each registered insurer
+25 shall keep current the information required to be disclosed in its registration statement
+26 by reporting all material changes or additions on amendment forms approved by the
+27 commissioner within fifteen days after the end of the month in which it learns of each
+28 change or addition; provided, however, that subject to subsections 7, 8, and 9 of
+29 section 26.1-10-05, each registered insurer shall report all dividends and other
+30 distributions to shareholders within five business days following the declaration and no
+31 less than ten business days prior to payment thereof.
+Page No. 5 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5. The commissioner shall terminate the registration of any insurer that demonstrates it
+2 no longer is a member of an insurance holding company system.
+3 6. The commissioner may require or allow two or more affiliated insurers subject to
+4 registration to file a consolidated registration statement.
+5 7. The commissioner may allow an insurer which is authorized to do business in this
+6 state and which is part of an insurance holding company system to register on behalf
+7 of any affiliated insurer which is required to register under subsection 1 to file all
+8 information and material required to be filed under this section.
+9 8. This section does not apply to any insurer, information, or transaction if and to the
+10 extent excepted by the commissioner by rule or order.
+11 9. Any person may file with the commissioner a disclaimer of affiliation with any
+12 authorized insurer or a disclaimer may be filed by the insurer or any member of an
+13 insurance holding company system. The disclaimer must fully disclose all material
+14 relationships and bases for affiliation between the person and the insurer as well as
+15 the basis for disclaiming the affiliation. A disclaimer of affiliation is deemed to have
+16 been granted unless the commissioner, within thirty days following receipt of a
+17 complete disclaimer, notifies the filing party the disclaimer is disallowed. In the event of
+18 disallowance, the disclaiming party may request an administrative hearing, which must
+19 be granted. The disclaiming party is relieved of its duty to register under this section if
+20 approval of the disclaimer has been granted by the commissioner or if the disclaimer is
+21 deemed to have been approved.
+22 10. All registration statements must contain a summary outlining all items in the current
+23 registration statement representing changes from the prior registration statement.
+24 11. Any person within an insurance holding company system subject to registration must
+25 provide complete and accurate information to an insurer, when the information is
+26 reasonably necessary to enable the insurer to comply with the provisions of this
+27 chapter.
+28 12. The ultimate controlling person of every insurer subject to registration shall file an
+29 annual enterprise risk report. To the best of the ultimate controlling person's
+30 knowledge and belief, the report must identify the material risks within the insurance
+31 holding company system which could pose enterprise risk to the insurer. The report
+Page No. 6 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 must be filed with the lead state commissioner of the insurance holding company
+2 system as determined by the procedures within the financial analysis handbook
+3 adopted by the national association of insurance commissioners.
+4 13. The failure to file a registration statement or any summary of the registration statement
+5 or enterprise risk filing required by this section within the time specified for the filing is
+6 a violation of this section.
+7 14. Control is presumed to exist if any person, directly or indirectly, owns, controls, holds
+8 with the power to vote, or holds proxies representing ten percent or more of the voting
+9 securities of any other person. This presumption may be rebutted by a showing made
+10 in accordance with subsection 9 that control does not exist in fact. The commissioner
+11 may determine, after providing all interested persons notice and opportunity to be
+12 heard and making specific findings of fact to support the determination, that control
+13 exists in fact, notwithstanding the absence of a presumption to that effect.
+14 15. A person that would otherwise have control may delegate control to one or more other
+15 persons under a delegation agreement that must be substantially in the form
+16 designated by the commissioner so the person delegating the control will no longer be
+17 considered to have control.
+18 SECTION 4. AMENDMENT. Section 26.1-25-02.1 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 26.1-25-02.1. Definitions.
+21 1. "Advisory organization" means any entity, including its affiliates or subsidiaries, which
+22 either has two or more member insurers or is controlled either directly or indirectly by
+23 two or more insurers, and which assists insurers in ratemaking-related activities as
+24 enumerated in this chapter. Two or more insurers having a common ownership or
+25 operating in this state under common management or control constitute a single
+26 insurer for purposes of this definition.
+27 2. "Commercial risk" means any kind of risk which is not a personal risk.
+28 3. "Competitive market" means a commercial risk market that has not been found to be
+29 noncompetitive as provided for in section 26.1-25-04. All commercial risk markets
+30 except crop hail, farmowners, and medical malpractice insurance are presumed to be
+31 competitive.
+Page No. 7 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 4. "Developed losses" means losses including loss adjustment expenses, adjusted, using
+2 standard actuarial techniques, to eliminate the effect of differences between current
+3 payment or reserve estimates and those needed to provide actual ultimate loss
+4 including loss adjustment expense payments.
+5 5. "Expenses" means that portion of a rate attributable to acquisition, field supervision,
+6 collection expenses, general expenses, taxes, licenses, and fees.
+7 6. "Joint underwriting" means a voluntary arrangement established to provide insurance
+8 coverage for a commercial risk pursuant to which two or more insurers jointly contract
+9 with the insured at a price and under policy terms agreed upon between the insurers.
+10 7. "Large commercial risk" means an insured that has:
+11 a. Total insured property values of five million dollars or more;
+12 b. Total annual gross revenue of ten million dollars or more; or
+13 c. A total premium of twenty-five thousand dollars or more for property insurance,
+14 twenty-five thousand dollars or more for general liability insurance, or fifty
+15 thousand dollars or more for multiperil insurance.
+16 8. "Loss trending" means any procedure for projecting developed losses to the average
+17 date of loss for the period during which the policies are to be effective.
+18 8.9. "Noncompetitive market" means the crop hail, farmowners, and medical malpractice
+19 insurance markets together with any other line of commercial risk insurance that has
+20 not been found by the commissioner to have a reasonable degree of competitiveness
+21 within the market considering:
+22 a. Market concentration and changes in market concentration determined through
+23 the use of the Herfindahl-Hirschman index and the United States department of
+24 justice merger guidelines for an unconcentrated market;
+25 b. The existence of financial and other barriers that prevent a company from
+26 entering the market;
+27 c. The number of insurers or groups of affiliated insurers providing coverage in the
+28 market;
+29 d. The extent to which any insurer or group of affiliated insurers controls the market;
+30 e. Whether the total number of companies writing the line of insurance in this state
+31 is sufficient to provide multiple insurance options in the market;
+Page No. 8 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 f. The availability of insurance coverage to consumers in the markets by specific
+2 geographic area, by line of insurance, and by class of risk; and
+3 g. The opportunities available in the market to acquire pricing and other consumer
+4 information.
+5 A determination that a market is noncompetitive may not be based solely on the
+6 consideration of any one factor.
+7 9.10. "Personal risk" means homeowners, tenants, private passenger nonfleet automobiles,
+8 mobile homes, and other property and casualty insurance for personal, family, or
+9 household needs.
+10 10.11. "Pool" means a voluntary arrangement, established on an ongoing basis, pursuant to
+11 which two or more insurers participate in the sharing of risks on a predetermined
+12 basis. The pool may operate through an association, syndicate, or other pooling
+13 agreement.
+14 11.12. "Prospective loss costs" means that portion of a rate that does not include provisions
+15 for expenses other than loss adjustment expenses, or profit, and are based on
+16 historical aggregate losses and loss adjustment expenses adjusted through
+17 development to their ultimate value and projected through trending to a future point in
+18 time.
+19 12.13. "Rate" means that cost of insurance per exposure unit whether expressed as a single
+20 member or as a prospective loss cost with an adjustment to account for the treatment
+21 of expenses, profit, and individual insurer variation in loss experience, prior to any
+22 application of individual risk variations based on loss or expense considerations, and
+23 does not include minimum premium.
+24 13.14. "Residual market mechanism" means an arrangement, either voluntary or mandated
+25 by law, involving participation by insurers in the equitable apportionment among them
+26 of insurance which may be afforded applicants who are unable to obtain insurance
+27 through ordinary methods.
+28 14.15. "Supplementary rating information" includes any manual or plan of rates, classification,
+29 rating schedule, minimum premium, policy fee, rating rule, underwriting rule, statistical
+30 plan, and any other similar information needed to determine the applicable rate in
+31 effect or to be in effect.
+Page No. 9 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 15.16. "Supporting information" means:
+2 a. The experience and judgment of the filer and the experience or date of other
+3 insurers or advisory organizations relied upon by the filer;
+4 b. The interpretation of any other data relied upon by the filer; and
+5 c. Descriptions of methods used in making the rates and any other information
+6 required by the commissioner to be filed.
+7 SECTION 5. AMENDMENT. Section 26.1-25-16 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 26.1-25-16. Rebates prohibited - Exception.
+10 1. No insurance producerAn insurance producer may not knowingly charge, demand, or
+11 receive a premium for any insurance policy except in accordance with this chapter. No
+12 insurer or employee of an insurer, and no broker or agent may pay, allow, or give, or
+13 offer to pay, allow, or give, directly or indirectly, as an inducement to insurance, or after
+14 insurance has been effected, any rebate, discount, abatement, credit, or reduction of
+15 the premium named in an insurance policy, or any special favor or advantage in the
+16 dividends or other benefits to accrue on the policy, or any valuable consideration or
+17 inducement whatever, not specified in the insurance policy, except to the extent
+18 provided for in applicable filing. No insured named in an insurance policy, nor any
+19 employee of the insured, may knowingly receive or accept, directly or indirectly, any
+20 such rebate, discount, abatement, credit, or reduction of premium, or any such special
+21 favor or advantage or valuable consideration or inducement. This section does not
+22 prohibit the payment of commissions or other compensation to licensed insurance
+23 producers, nor any insurer from allowing or returning to its participating policyholders,
+24 members, or subscribers dividends, savings, or unabsorbed premium deposits. As
+25 used in this section, "insurance" includes suretyship and "policy" includes bond.
+26 2. Notwithstanding any other provision in this section, if the cost does not exceed an
+27 aggregate retail value of one hundred dollars per person per year, an insurance
+28 producer may give a gift, prize, promotional article, logo merchandise, meal, or
+29 entertainment activity directly or indirectly to a person in connection with marketing,
+30 promoting, or advertising the business. As used in this subsection, "person" means the
+31 named insured, policy owner, or prospective client or the spouse of any of these
+Page No. 10 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 individuals, but the term does not include a certificate holder, child, or employee of the
+2 named insured, policy owner, or prospective client. Subject to the limits of this
+3 subsection, an insurance producer may give a gift card for specific merchandise or
+4 services such as a meal, gasoline, or car wash but may not give cash, a cash card,
+5 any form of currency, or any refund or discount in premium. An insurance producer
+6 may not condition the giving of a gift, prize, promotional article, logo merchandise,
+7 meal, or entertainment activity on obtaining a quote or a contract of insurance.
+8 Notwithstanding the limitation in this subsection, an insurance producer may conduct
+9 raffles or drawings, if there is no financial cost to an entrant to participate, the drawing
+10 or raffle does not obligate a participant to purchase insurance, the prizes are not
+11 valued in excess of a reasonable amount determined by the commissioner, and the
+12 drawing or raffle is open to the public. The raffle or drawing must be offered in a
+13 manner that is not unfairly discriminatory and may not be contingent on the purchase,
+14 continued purchase, or renewal of a policy. Notwithstanding the limitation in this
+15 subsection, an insurance producer may make a donation to a nonprofit organization
+16 that is exempt from federal taxation under Internal Revenue Code section 501(c)(3)
+17 [26 U.S.C. 501(c)(3)] in any amount as long as the donation is not given as an
+18 inducement to obtain a contract of insurance.
+19 3. The provisions in this section may not be construed as including within the definition of
+20 discrimination or rebates any of the following practices:
+21 a. The offer or provision by an insurer or producer, by or through an employee, an
+22 affiliate, or a third-party representative, of value-added products or services at no
+23 or reduced cost if the products or services are not specified in the policy of
+24 insurance if the product or service:
+25 (1) Relates to the insurance coverage and is designed to satisfy one or more of
+26 the following:
+27 (a) Provide loss mitigation or loss control;
+28 (b) Reduce claims costs or claim settlement costs;
+29 (c) Provide education about liability risk or risk of loss to persons or
+30 property;
+Page No. 11 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (d) Monitor or assess risk, identify sources of risk, or develop strategies
+2 for eliminating or reducing risk;
+3 (e) Enhance health;
+4 (f) Enhance financial wellness through items such as education of
+5 financial planning services;
+6 (g) Provide post-loss services;
+7 (h) Incent behavioral changes to improve the health or reduce the risk of
+8 death or disability of an individual defined as policyholder, potential
+9 policyholder, certificate holder, potential certificate holder, insured,
+10 potential insured, or applicant; or
+11 (i) Assist in the administration of the employee or retiree benefit
+12 insurance coverage.
+13 (2) If offered by the insurer or producer, the insurer or producer, upon request,
+14 shall ensure the person is provided with contact information to assist the
+15 person with questions regarding the product or service.
+16 (3) Is based on fair documented criteria and offered in a manner not unfairly
+17 discriminatory. The documented criteria must be maintained by the insurer
+18 or producer and produced at the request of the commissioner.
+19 (4) Is reasonable in comparison to that person's premiums or insurance
+20 coverage for the policy class.
+21 b. If an insurer or producer does not have sufficient evidence, but has a good-faith
+22 belief the product or service meets the criteria in subdivision a, the provision by
+23 the insurer or producer of a product or service in a manner that is not unfairly
+24 discriminatory as part of a pilot or testing program no longer than one year. An
+25 insurer or producer shall notify the department of the pilot or testing program
+26 offered to consumers in this state before launching and may proceed with the
+27 program unless the department objects within twenty-one days of notice.
+28 4. An insurer, producer, or representative of an insurer or producer may not offer or
+29 provide insurance as an inducement to the purchase of another policy or otherwise
+30 use of the words "free" or "no cost" or words of similar import in an advertisement.
+Page No. 12 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5. The commissioner may adopt regulations when implementing the permitted practices
+2 set forth in this regulation to ensure consumer protection. Consistent with applicable
+3 law, the topics addressed by the regulations may include consumer data protections
+4 and privacy, consumer disclosure, and unfair discrimination.
+5 6. Subsections 1 and 2 do not apply to a large commercial risk as defined in section
+6 26.1 - 25 - 02.1 .
+7 SECTION 6. AMENDMENT. Section 26.1-26-04.1 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 26.1-26-04.1. Fees for services - Rules.
+10 1. Notwithstanding any other provision of this title, an insurance producer may charge a
+11 fee for any services rendered in connection with the sale, solicitation, negotiation,
+12 placement, or servicing of an insurance contract, if the following conditions are met:
+13 a. The fees may not be charged on a personal lines account, such as personal
+14 homeowners and automobile, personal life, and health insurance.
+15 b. Before rendering the services and accepting any payment, a written disclosure
+16 must be provided to the party to be charged on a form approved by the
+17 commissioner disclosing:
+18 (1) The nature of the services for which the fees will be charged along with a
+19 separate itemization of the amount of the fees;
+20 (2) That the fees are charged in addition to any premiums paid;
+21 (3) That if the insurance producer is also an appointed agent of an insurer with
+22 which coverage is being considered for placement, a statement that the
+23 insurance producer also represents the insurer in the transaction and owes
+24 a duty of loyalty to the insurer; and
+25 (4) That if the insurance producer is to receive a commission from the sale of
+26 an insurance policy related to the services rendered, a statement clearly
+27 and completely disclosing that the:
+28 (a) Insurance producer will receive a commission from the insurer which
+29 is paid from the premiums owed for the insurance; and
+30 (b) Amount of commission received by the insurance producer may differ
+31 depending on the product sold and the insurer.
+Page No. 13 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. The disclosure required by this section must be signed and dated by both the
+2 producer and the party to be charged.
+3 d. The producer shall retain the signed disclosure required by this section for not
+4 less than five years following the completion of the service. A copy of the signed
+5 disclosure must be available to the commissioner for inspection upon request.
+6 e. The insurance producer may not pay or return, or offer to pay or return, all or part
+7 of a fee charged as an inducement to purchase a specific policy, or coverage
+8 within a policy, or coverage from a particular insurer.
+9 f. Any fee charged under this section must bear a reasonable relationship to the
+10 services provided and may not be discriminatory.
+11 2. An insurance producer charging a fee for services rendered for risk management
+12 services under this section owes the person to be charged a higher standard of care
+13 than the ordinary standard of care otherwise owed by an insurance producer to fully
+14 advise the party to be charged as to the party's insurance needs, including the duty to
+15 inform the person to be charged as to a potential source of risk and to recommend, if
+16 available, insurance coverage for that risk.
+17 3. An insurance producer may charge an individual, for personal or commercial lines, a
+18 fee for paying agency-billed premiums and fees by credit card or other electronic
+19 means, if the fee is disclosed to the client in writing and agreed to by the client in
+20 writing.
+21 4. Subdivisions a through e of subsection 1 do not apply to a large commercial risk as
+22 defined in section 26.1 - 25 - 02.1 .
+23 5. The commissioner may adopt rules determined necessary by the commissioner for the
+24 administration of this section.
+25 SECTION 7. A new section to chapter 26.1-30 of the North Dakota Century Code is created
+26 and enacted as follows:
+27 Mandatory arbitration endorsements for property insurance - Written acceptance -
+28 Penalty.
+29 1. A property insurance policy may be issued or delivered in this state with mandatory
+30 binding arbitration provisions if the:
+Page No. 14 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Mandatory binding arbitration provisions are contained in a separate
+2 endorsement;
+3 b. Named insured accepts the mandatory binding arbitration endorsement in writing
+4 in accordance with subsection 2; and
+5 c. Property insurance policy does not require mandatory binding arbitration upon
+6 request.
+7 2. The written acceptance of the insured required under subsection 1 must :
+8 a. Be on a form separate from the policy application and other policy forms;
+9 b. Clearly state the rights being waived in exchange for the premium discount,
+10 including the right to a trial by jury; and
+11 c. Include the following statement in at least twelve-point bold font:
+12 "By signing this form, I agree to resolve all covered property insurance claims
+13 through mandatory binding arbitration. I understand that by agreeing to
+14 mandatory binding arbitration:
+15 I am giving up my right to have disputes resolved in court.
+16 I am giving up my right to a jury trial.
+17 I am accepting these terms in exchange for a premium discount of [dollar amount
+18 or percentage of premium amount].
+19 This agreement is binding on all insureds under the policy and remains effective
+20 upon policy renewal, replacement, or reinstatement unless I request removal of
+21 the mandatory binding arbitration endorsement in writing".
+22 3. All arbitration proceedings under this section must:
+23 a. Be conducted in this state if involving a resident of this state;
+24 b. Be governed by state law; and
+25 c. Not require arbitration in another state.
+26 4. The acceptance or rejection of mandatory binding arbitration is valid and binding on all
+27 insureds under the policy and remains effective upon policy renewal, replacement, or
+28 reinstatement unless the named insured requests a change in writing.
+29 5. This section applies to all property and casualty insurance policies issued or renewed
+30 after the effective date of this Act.
+31 6. This section does not apply to a:
+Page No. 15 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Voluntary arbitration agreement entered after a dispute has arisen; or
+2 b. Large commercial risk as defined in section 26.1 - 25 - 02.1 .
+3 7. The commissioner shall enforce this section.
+4 8. The commissioner may assess a penalty on an insurer in violation of this section, as
+5 determined by the commissioner.
+6 SECTION 8. A new section to chapter 26.1-30 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Managed repair programs - Penalty.
+9 1. A property insurance policy may be issued or delivered in this state with a managed
+10 repair program provision and offer premium incentives for managed repair program
+11 participation. As used in this section, "managed repair program" means any program
+12 in which an insurer restricts an insured's choice of repair vendors or contractors for
+13 covered repairs.
+14 2. An insurer offering a managed repair program shall:
+15 a. Prominently disclose on the policy declarations page the policy restricts the
+16 insured's right to choose repair vendors;
+17 b. Specify any premium benefits for program participation;
+18 c. Include a separate disclosure form, written in at least twelve-point font, which
+19 explains the restrictions on vendor selection, including:
+20 (1) The process for repairs under the program;
+21 (2) The insured's rights and responsibilities; and
+22 (3) Any warranty or guarantee provided for repairs.
+23 3. An insured retains the option to select the insured's own contractor, subject to
+24 standard policy terms, and request an alternate program contractor.
+25 4. This section apples to all property and casualty insurance policies issued or renewed
+26 after the effective date of this Act.
+27 5. The commissioner shall enforce this section.
+28 6. The commissioner may assess a penalty on an insurer in violation of this section, as
+29 determined by the commissioner.
+30 SECTION 9. A new section to chapter 26.1-39 of the North Dakota Century Code is created
+31 and enacted as follows:
+Page No. 16 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Civil remedy actions against property insurers.
+2 Notwithstanding any provision under title 26.1, before a named insured may proceed with a
+3 bad faith claim against a property insurer, the named insured shall establish through an adverse
+4 adjudication by a court of law the property insurer breached the insurance contract and a final
+5 judgment or decree must have been rendered against the insurer.
+6 SECTION 10. A new section to chapter 26.1-39 of the North Dakota Century Code is
+7 created and enacted as follows:
+8 Notice of property insurance claim.
+9 1. As used in this section:
+10 a. "Reopened claim" means a claim an insurer closed and reopened upon an
+11 insured's request for additional costs for loss or damage previously disclosed to
+12 the insurer.
+13 b. "Supplemental claim" means a claim for additional loss or damage from the same
+14 peril the insurer previously adjusted or for which costs have been incurred while
+15 completing repairs or replacement under an open claim for which timely notice
+16 was previously provided to the insurer.
+17 2. A claim or reopened claim under an insurance policy that provides property insurance,
+18 including a policy issued by an eligible surplus lines insurer, for loss or damage
+19 caused by any peril is barred unless notice of the claim was given to the insurer in
+20 accordance with the terms of the policy within one year after the date of loss. A
+21 supplemental claim is barred unless notice of the supplemental claim was given to the
+22 insurer in accordance with the terms of the policy within eighteen months after the
+23 date of loss.
+24 3. The time limitations under subsection 2 are tolled during any term of deployment for a
+25 named insured service member to a combat zone or combat support posting that
+26 materially affects the ability of the named insured to file a claim, supplemental claim,
+27 or reopened claim.
+28 SECTION 11. AMENDMENT. Section 26.1-44-03 of the North Dakota Century Code is
+29 amended and reenacted as follows:
+Page No. 17 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 26.1-44-03. Surplus lines insurance.
+2 The placement of nonadmitted insurance is subject to this section only if the insured's home
+3 state is this state. Surplus lines insurance may be placed by a surplus lines producer if:
+4 1. Each insurer is an eligible surplus lines insurer;
+5 2. Each insurer is authorized to write the kind of insurance in its domiciliary jurisdiction;
+6 3. The full amount or type of insurance cannot be obtained from insurers who are
+7 admitted to do business in this state. The full amount or type of insurance may be
+8 procured from eligible surplus lines insurers provided that a diligent search is made
+9 among the insurers who are admitted to transact and are actually writing the particular
+10 type of insurance in this state if any are writing it;
+11 4. At the time of placement the surplus lines producer has determined that the
+12 nonadmitted insurer:
+13 a. Has established satisfactory evidence of good repute and financial integrity and
+14 has capital and surplus or its equivalent under the laws of its domiciliary
+15 jurisdiction which equals the greater of:
+16 (1) (a) The minimum capital and surplus requirements under the law of this
+17 state; or
+18 (b) Fifteen million dollars.
+19 (2) The requirements of paragraph 1 may be satisfied by an insurer possessing
+20 less than the minimum capital and surplus upon an affirmative finding of
+21 acceptability by the commissioner. The finding must be based upon such
+22 factors as quality of management, capital and surplus of any parent
+23 company, company underwriting profit and investment income trends,
+24 market availability, and company record and reputation within the industry.
+25 The commissioner may not make an affirmative finding of acceptability
+26 when the nonadmitted insurer's capital and surplus is less than four million
+27 five hundred thousand dollars; or
+28 b. For an insurer not domiciled in the United States or its territories, the insurer is
+29 listed on the quarterly listing of alien insurers maintained by the national
+30 association of insurance commissioners international insurers department; and
+31 5.4. All other requirements of this chapter are met.
+Page No. 18 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 12. A new section to chapter 26.1-44 of the North Dakota Century Code is
+2 created and enacted as follows:
+3 Surplus lines insurance policies.
+4 A surplus lines insurer may not issue a policy designed to satisfy any law mandating
+5 insurance coverage by a licensed insurance company.
+6 SECTION 13. AMENDMENT. Section 26.1-46-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 26.1-46-01. Definitions.
+9 As used in this chapter, unless the context requires otherwise:
+10 1. "Commissioner" means the North Dakota insurance commissioner or the
+11 commissioner, director, or superintendent of insurance in any other state.
+12 2. "Completed operations liability" means liability arising out of the installation,
+13 maintenance, or repair of any product at a site which is not owned or controlled by any
+14 person who performs that work or any person who hires an independent contractor to
+15 perform that work, but includes liability for activities which are completed or
+16 abandoned before the date of the occurrence giving rise to the liability.
+17 3. "Domicile", for purposes of determining the state in which a purchasing group is
+18 domiciled, means:
+19 a. For a corporation or limited liability company, the state in which the purchasing
+20 group is incorporated or organized.
+21 b. For an entity which is not a corporation or limited liability company, the state of its
+22 principal place of business.
+23 4. "Hazardous financial condition" means that, based on its present or reasonably
+24 anticipated financial condition, a risk retention group, although not yet financially
+25 impaired or insolvent, is unlikely to be able to do either of the following:
+26 a. To meet obligations to policyholders with respect to known claims and reasonably
+27 anticipated claims.
+28 b. To pay other obligations in the normal course of business.
+29 5. "Insurance" means primary insurance, excess insurance, reinsurance, surplus lines
+30 insurance, and any other arrangement for shifting and distributing risk which is
+31 determined to be insurance under the laws of this state.
+Page No. 19 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 6. a. "Liability" means legal liability for damages, including costs of defense, legal
+2 costs and fees, and other claims expenses because of injuries to other persons,
+3 damage to their property, or other damage or loss, including contractual claims
+4 and expenses, to such other persons resulting from or arising out of either of the
+5 following:
+6 a. (1) Any business whether profit or nonprofit, trade, product, services including
+7 professional services, premises, or operations.
+8 b. (2) Any activity of any state or local government, or any agency or political
+9 subdivision thereof.
+10 b. The term does not include personal risk liability and an employer's liability with
+11 respect to its employees other than legal liability under the federal Employer's
+12 Liability Act [45 U.S.C. 51 et seq.].
+13 7. "Personal risk liability" means liability for damages because of injury to any person,
+14 damage to property, or other loss or damage resulting from any personal, familial, or
+15 household responsibilities or activities, rather than from responsibilities or activities
+16 referred to in subsection 56.
+17 8. "Plan of operation or a feasibility study" means an analysis which presents the
+18 expected activities and results of a risk retention group, including, at a minimum, all of
+19 the following:
+20 a. For each state in which it intends to operate, the coverages, deductibles,
+21 coverage limits, rates, and rating classification systems for each line of insurance
+22 the group intends to offer.
+23 b. Historical and expected loss experience of the proposed members and national
+24 experience of similar exposures to the extent that this experience is reasonably
+25 available.
+26 c. Pro forma financial statements and projections.
+27 d. Appropriate opinions by a qualified independent casualty actuary, including a
+28 determination of minimum premium or participation levels required to commence
+29 operations and to prevent a hazardous financial condition.
+Page No. 20 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 e. Identification of management, underwriting and claims procedures, marketing
+2 methods, managerial oversight methods, reinsurance agreements, and
+3 investment policies.
+4 f. Such other matters as may be prescribed by the commissioner for liability
+5 insurance companies authorized by the insurance laws of the state in which the
+6 risk retention group is chartered.
+7 g. Information sufficient to verify that its members are engaged in businesses or
+8 activities similar or related with respect to the liability to which such members are
+9 exposed by virtue of any related, similar, or common business, trade, product,
+10 services, premises, or operations.
+11 h. Identification of each state in which the risk retention group has obtained, or
+12 sought to obtain, a charter and license, and a description of its status in each
+13 such state.
+14 9. "Product liability" means liability for damages because of any personal injury, death,
+15 emotional harm, consequential economic damage, or property damage, including
+16 damages resulting from the loss of use of property, arising out of the manufacture,
+17 design, importation, distribution, packaging, labeling, lease, or sale of a product, but
+18 does not include the liability of any person for those damages if the product involved
+19 was in the possession of such a person when the incident giving rise to the claim
+20 occurred.
+21 10. "Purchasing group" means any group which meets all of the following:
+22 a. The group has as one of its purposes the purchase of liability insurance on a
+23 group basis.
+24 b. The group purchases such insurance only for its group members and only to
+25 cover their similar or related liability exposure, as described in subdivision c,
+26 except a nonmaterial amount of commercial property coverage incidental to the
+27 liability exposure of its group members also may be insured.
+28 c. The group is composed of members whose business or activities are similar or
+29 related with respect to the liability to which members are exposed by virtue of any
+30 related, similar, or common business, trade, product, services, premises, or
+31 operations.
+Page No. 21 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 d. The group is domiciled in any state.
+2 11. "Risk retention group" means any corporation or other limited liability association:
+3 a. Whose primary activity consists of assuming and spreading all, or any portion, of
+4 the liability exposure of its group members.
+5 b. Which is organized for the primary purpose of conducting the activity described
+6 under subdivision a.
+7 c. Which is chartered and licensed as a liability insurance company and authorized
+8 to engage in the business of insurance under the laws of any state; or, before
+9 January 1, 1985, was chartered or licensed and authorized to engage in the
+10 business of insurance under the laws of Bermuda or the Cayman Islands and,
+11 before such date, had certified to the insurance commissioner of at least one
+12 state that it satisfied the capitalization requirements of such state, except that any
+13 such group shall be considered to be a risk retention group only if it has been
+14 engaged in business continuously since that date and only for the purpose of
+15 continuing to provide insurance to cover product liability or completed operations
+16 liability as such terms were defined in the Product Liability Risk Retention Act of
+17 1981 before the date of the enactment of the Liability Risk Retention Act of 1986.
+18 d. Which does not exclude any person from membership in the group solely to
+19 provide for members of such a group a competitive advantage over such a
+20 person.
+21 e. Which has as its owners only persons who comprise the membership of the risk
+22 retention group and who are provided insurance by such group, or has as its sole
+23 owner an organization which has as its members only persons who comprise the
+24 membership of the risk retention group and its owners only persons who
+25 comprise the membership of the risk retention group and who are provided
+26 insurance by such group.
+27 f. Whose members are engaged in businesses or activities similar or related with
+28 respect to the liability of which such members are exposed by virtue of any
+29 related, similar, or common business trade, product, services, premises, or
+30 operations.
+31 g. Whose activities do not include the provision of insurance other than:
+Page No. 22 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (1) Liability insurance for assuming and spreading all or any portion of the
+2 liability of its group members, except a nonmaterial amount of commercial
+3 property coverage incidental to the liability exposure of its group members
+4 also may be insured.
+5 (2) Reinsurance with respect to the liability of any other risk retention group or
+6 any members of such other group which is engaged in business or activities
+7 so that the group or member meets the requirement described in
+8 subdivision f from membership in the risk retention group which provides
+9 such reinsurance.
+10 h. The name of which includes the phrase "risk retention group".
+11 12. "State" means any state of the United States or the District of Columbia.
+12 SECTION 14. A new subsection to section 26.1-46-03 of the North Dakota Century Code is
+13 created and enacted as follows:
+14 A risk retention group that is not chartered in this state but is in compliance with this
+15 section is deemed an authorized insurer for the satisfaction of any requirement, under
+16 the laws of this state, that insurance coverage be placed with an authorized insurer.
+17 SECTION 15. AMENDMENT. Section 26.1-46-08 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 26.1-46-08. Restrictions on insurance purchased by purchasing groups.
+20 1. A purchasing group may not purchase insurance from a risk retention group that is not
+21 chartered in a state or from an insurer not admitted in the state in which the
+22 purchasing group is located, unless the purchase is effected through a licensed
+23 insurance producer acting pursuant to the surplus lines laws and regulations of such
+24 state.
+25 2. A purchasing group which obtains liability insurance from an insurer not admitted in
+26 this state or a risk retention group shall inform each of the members of the group
+27 which have a risk resident or located in this state that the risk is not protected by an
+28 insurance insolvency guaranty fund in this state, and that the risk retention group or
+29 insurer may not be subject to all insurance laws and rules of this state.
+30 3. NoA purchasing group may not purchase insurance providing for a deductible or
+31 self-insured retention applicable to the group as a whole; however, coverage may
+Page No. 23 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 provide for a deductible or self-insured retention applicable to individual members
+2 unless the purchasing group uses a policyholder's disclosure statement approved by
+3 the commissioner which clearly explains in simplified language the policy is subject to
+4 a group deductible or self-insured retention and provides a detailed explanation of the
+5 process of the satisfaction of the deductible or self-insured retention among members.
+6 4. Purchases of insurance by purchasing groups are subject to the same standards
+7 regarding aggregate limits which are applicable to all purchases of group insurance.A
+8 purchasing group may not purchase insurance providing for a shared aggregate limit
+9 applicable to the group as a whole unless the purchasing group uses a policyholder's
+10 disclosure statement approved by the commissioner which clearly explains in
+11 simplified language the policy is subject to a group aggregate limit and coverage for
+12 each individual member could be exhausted by claims from other members. The
+13 insurance must allow for an individual member to purchase additional limits in the
+14 event of exhaustion and this option must be described in the disclosure statement.
+15 SECTION 16. AMENDMENT. Section 26.1-46-08.1 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 26.1-46-08.1. Purchasing group taxation - Fees.
+18 1. a. Premium taxes and taxes on premiums paid for coverage of risks resident or
+19 located in this state by a purchasing group or any members of the purchasing
+20 group must be:
+21 1. (1) Imposed at the same rate and subject to the same interest, fines, and
+22 penalties as that applicable to premium taxes and taxes on premiums paid
+23 for similar coverage from a similar insurance source by other insureds; and
+24 2. (2) Paid first by suchthe insurance source, and if not by suchthe source, by the
+25 insurance producer for the purchasing group, and if not by suchthe
+26 insurance producer, then by the purchasing group, and if not by such
+27 purchasing group, then by each of its members.
+28 b. To the extent any administrative fee is charged under subsection 2, the fee may
+29 not be considered a premium and is not subject to premium tax.
+30 2. A purchasing group's administrator, manager, or other related party may charge
+31 reasonable fees provided the fees are:
+Page No. 24 25.1236.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. For reimbursement of expenses incurred by the administrator, manager, or other
+2 related party in performing its administrative duties for the purchasing group; and
+3 b. Disclosed to all members of the risk purchasing group on a form approved by the
+4 commissioner which states the nature of the administrative duties for which the
+5 fees will be charged along with separate itemization of the amount of fees to be
+6 paid by each member.
+7 SECTION 17. REPEAL. Section 26.1-44-03.3 of the North Dakota Century Code is
+8 repealed.
+Page No. 25 25.1236.01000
+
+[DELETED: .T.T12]
+[DELETED: .T.T.A.T.T.T.T.W.W22]
+[DELETED: .W.T.".E32]
+[DELETED: .E.T.T.T)L)P)T)G)A)R)D)C.A42]
+[DELETED: .I.O.S.N.I52]
+[DELETED: .T.T.T.T.A.A.A.T62]
+[DELETED: .T.C.A."."."72]
+[DELETED: .".".".".T.T.A.".".M.T.T.T.W82]
+[DELETED: .T.T."."."."."."92]
+[DELETED: .".T.T.D.N.N02]
+[DELETED: .T.T)R)P)R)P12]
+[DELETED: )M)E)E)P)I)A)I)I)I.I.A22]
+[DELETED: .T. .N.T.B)T)T)T)T)I)A32]
+[DELETED: .T.T.T.A.A.A. .T.A42]
+[DELETED: .M.N.P. .B.C.I.A.B.B.N.T.T.T52]
+[DELETED: .V. .T.T.A.A.P.S.I)T)T)A.A.T.T.T62]
+[DELETED: .A.".".A. 72]
+[DELETED: .E.E.T.A.H)()T)F)T.F.A82]
+[DELETED: .".".".F.F.".T.T."92]
+[DELETED: .a.".()A.()A.T.".".F.H.P.A02]
+[DELETED: .I.S.I.I.".".T.T.T12]
+[DELETED: .T.".W.W.W.W.W.W.W22]
+[DELETED: )L)R.T.".A.A.N32]
+[DELETED: .P.a.P.()I.()P. .A42]
+[DELETED: .F.D52]

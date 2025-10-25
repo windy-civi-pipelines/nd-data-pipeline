@@ -1,0 +1,73 @@
+Title: HOUSE BILL NO. 1227
+Official Title: HOUSE BILL NO. 1227
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+25.0787.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Toman, Dockter, D. Johnston, Koppelman, Porter
+Senators Cory, Paulson, Schaible
+1 A BILL for an Act to create and enact a new section to chapter 1-08 of the North Dakota Century
+2 Code, relating to the adoption of central standard time; and to repeal section 40-01-20 of the
+3 North Dakota Century Code, relating to daylight saving time.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 1-08 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Standard time.
+8 1. Under 15 U.S.C. 260(a), the state is exempt from the establishment of daylight saving
+9 time.
+10 2. Greenwich mean time minus five hours is the official standard time of the portions of
+11 the state in the central time zone.
+12 3. Greenwich mean time minus six hours is the official standard time of the portions of
+13 the state in the mountain time zone.
+14 4. This section may not affect the standard time established by United States law
+15 governing the movements of common carriers engaged in interstate commerce or the
+16 time for performance of an act by an officer or department of the United States, as
+17 established by a statute, lawful order, rule, or regulation of the United States or an
+18 agency of the United States.
+19 SECTION 2. REPEAL. Section 40-01-20 of the North Dakota Century Code is repealed.
+Page No. 1 25.0787.01000
+[DELETED: .U.G.G.T12]
+
+
+================================================================================
+
+Raw Text:
+25.0787.01000
+Sixty-ninth
+HOUSE BILL NO. 1227
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Toman, Dockter, D. Johnston, Koppelman, Porter
+Senators Cory, Paulson, Schaible
+1 A BILL for an Act to create and enact a new section to chapter 1-08 of the North Dakota Century
+2 Code, relating to the adoption of central standard time; and to repeal section 40-01-20 of the
+3 North Dakota Century Code, relating to daylight saving time.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 1-08 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Standard time.
+8 1. Under 15 U.S.C. 260(a), the state is exempt from the establishment of daylight saving
+9 time.
+10 2. Greenwich mean time minus five hours is the official standard time of the portions of
+11 the state in the central time zone.
+12 3. Greenwich mean time minus six hours is the official standard time of the portions of
+13 the state in the mountain time zone.
+14 4. This section may not affect the standard time established by United States law
+15 governing the movements of common carriers engaged in interstate commerce or the
+16 time for performance of an act by an officer or department of the United States, as
+17 established by a statute, lawful order, rule, or regulation of the United States or an
+18 agency of the United States.
+19 SECTION 2. REPEAL. Section 40-01-20 of the North Dakota Century Code is repealed.
+Page No. 1 25.0787.01000
+
+[DELETED: .U.G.G.T12]

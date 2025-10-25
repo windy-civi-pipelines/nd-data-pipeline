@@ -1,0 +1,144 @@
+Title: ENGROSSED HOUSE BILL NO. 1005
+Official Title: ENGROSSED HOUSE BILL NO. 1005
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with Senate Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0149.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Senate Amendments
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the state treasurer;
+2 to amend and reenact section 54-11-13 of the North Dakota Century Code, relating to the salary
+3 of the state treasurer; and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+6 as may be necessary, are appropriated out of any moneys in the general fund in the state
+7 treasury, not otherwise appropriated, to the state treasurer for the purpose of defraying the
+8 expenses of the state treasurer, for the biennium beginning July 1, 2025, and ending June 30,
+9 2027, as follows:
+10 Adjustments or
+11 Base Level Enhancements Appropriation
+12 Salaries and wages $1,605,584 $187,105 $1,792,689
+13 New and vacant FTE pool 0 36,646 36,646
+14 Operating expenses 265,346 294,258 559,604
+15 Coal severance payments 118,000 4,000 122,000
+16 Carbon dioxide pipeline payments 0 1 ,000,000 1,000,000
+17 Total all funds $1,988,930 $1,522,009 $3,510,939
+18 Total special funds 0 295,000 295,000
+19 Total general fund $1,988,930 $1,227,009 $3,215,939
+20 Full-time equivalent positions 7.00 0.00 7.00
+21 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+22 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+Page No. 1 25.0149.03000
+Sixty-ninth
+Legislative Assembly
+1 items included in the appropriation in section 1 of this Act which are not included in the entity's
+2 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+3 committees of the seventieth legislative assembly regarding the use of this funding:
+4 One-Time Funding Description General Fund Other Funds Total
+5 Information technology projects $0 $295,000 $295,000
+6 Total $0 $295,000 $295,000
+7 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+8 state treasurer may not spend funds appropriated in the new and vacant FTE pool line item in
+9 section 1 of this Act, but may request the office of management and budget to transfer funds
+10 from the new and vacant FTE pool line item to the salaries and wages line item in accordance
+11 with the guidelines and reporting provisions included in House Bill No. 1015, as approved by the
+12 sixty-ninth legislative assembly.
+13 SECTION 4. SPECIAL FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS
+14 FUND - OFFICE AND INFORMATION TECHNOLOGY PROJECTS. The sum of $295,000
+15 included in the other funds line item in section 1 of this Act and identified as one-time funding in
+16 section 2 of this Act is from the strategic investment and improvements fund for information
+17 technology projects.
+18 SECTION 5. AMENDMENT. Section 54-11-13 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 54-11-13. Salary of state treasurer.
+21 The annual salary of the state treasurer is one hundred thirty thousandone hundred thirty-
+22 nine thousand two hundred fifty - six dollars through June 30, 20242026, and one hundred thirty-
+23 five thousand two hundredone hundred forty-three thousand four hundred thirty-four dollars
+24 thereafter.
+25 SECTION 6. EMERGENCY. The sum of $295,000 in the total special funds line item in
+26 section 1 of this Act and identified as one-time funding in section 2 of this Act for information
+27 technology projects is declared to be an emergency measure.
+Page No. 2 25.0149.03000
+[DELETED: lEsAs$4$5$l0363s26285s10401s0  1s$0$9$s0202d$0$9$s7000712]
+[DELETED: nGdOsTs$0$0$l$0$0$22]
+
+
+================================================================================
+
+Raw Text:
+25.0149.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Senate Amendments
+ENGROSSED HOUSE BILL NO. 1005
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the state treasurer;
+2 to amend and reenact section 54-11-13 of the North Dakota Century Code, relating to the salary
+3 of the state treasurer; and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+6 as may be necessary, are appropriated out of any moneys in the general fund in the state
+7 treasury, not otherwise appropriated, to the state treasurer for the purpose of defraying the
+8 expenses of the state treasurer, for the biennium beginning July 1, 2025, and ending June 30,
+9 2027, as follows:
+10 Adjustments or
+11 Base Level Enhancements Appropriation
+12 Salaries and wages $1,605,584 $187,105 $1,792,689
+13 New and vacant FTE pool 0 36,646 36,646
+14 Operating expenses 265,346 294,258 559,604
+15 Coal severance payments 118,000 4,000 122,000
+16 Carbon dioxide pipeline payments 0 1 ,000,000 1,000,000
+17 Total all funds $1,988,930 $1,522,009 $3,510,939
+18 Total special funds 0 295,000 295,000
+19 Total general fund $1,988,930 $1,227,009 $3,215,939
+20 Full-time equivalent positions 7.00 0.00 7.00
+21 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+22 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+Page No. 1 25.0149.03000
+
+Sixty-ninth
+Legislative Assembly
+1 items included in the appropriation in section 1 of this Act which are not included in the entity's
+2 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+3 committees of the seventieth legislative assembly regarding the use of this funding:
+4 One-Time Funding Description General Fund Other Funds Total
+5 Information technology projects $0 $295,000 $295,000
+6 Total $0 $295,000 $295,000
+7 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+8 state treasurer may not spend funds appropriated in the new and vacant FTE pool line item in
+9 section 1 of this Act, but may request the office of management and budget to transfer funds
+10 from the new and vacant FTE pool line item to the salaries and wages line item in accordance
+11 with the guidelines and reporting provisions included in House Bill No. 1015, as approved by the
+12 sixty-ninth legislative assembly.
+13 SECTION 4. SPECIAL FUNDS - STRATEGIC INVESTMENT AND IMPROVEMENTS
+14 FUND - OFFICE AND INFORMATION TECHNOLOGY PROJECTS. The sum of $295,000
+15 included in the other funds line item in section 1 of this Act and identified as one-time funding in
+16 section 2 of this Act is from the strategic investment and improvements fund for information
+17 technology projects.
+18 SECTION 5. AMENDMENT. Section 54-11-13 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 54-11-13. Salary of state treasurer.
+21 The annual salary of the state treasurer is one hundred thirty thousandone hundred thirty-
+22 nine thousand two hundred fifty - six dollars through June 30, 20242026, and one hundred thirty-
+23 five thousand two hundredone hundred forty-three thousand four hundred thirty-four dollars
+24 thereafter.
+25 SECTION 6. EMERGENCY. The sum of $295,000 in the total special funds line item in
+26 section 1 of this Act and identified as one-time funding in section 2 of this Act for information
+27 technology projects is declared to be an emergency measure.
+Page No. 2 25.0149.03000
+
+[DELETED: lEsAs$4$5$l0363s26285s10401s0  1s$0$9$s0202d$0$9$s7000712]
+[DELETED: nGdOsTs$0$0$l$0$0$22]

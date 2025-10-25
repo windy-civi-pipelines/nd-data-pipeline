@@ -1,0 +1,1309 @@
+Title: HOUSE BILL NO. 1372
+Official Title: HOUSE BILL NO. 1372
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+25.0389.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative Klemin
+Senator Larson
+1 A BILL for an Act to create and enact a new chapter to title 13 of the North Dakota Century
+2 Code, relating to litigation financing; to provide a penalty; and to provide for application.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 13 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 As used in this chapter:
+8 1. "Commissioner" means the commissioner of financial institutions.
+9 2. "Consumer" means any individual who resides, is present, or is domiciled in this state
+10 or who is or may become a plaintiff, claimant, or complainant in a civil action or in
+11 pursuit of any claim or cause of action in this state.
+12 3. "Entity" means any domestic or foreign corporation, partnership, limited partnership,
+13 limited liability company, trust, fund, plan, or any other business, enterprise,
+14 association, or organization of any kind or nature.
+15 4. "Foreign country or person of concern" includes the following:
+16 a. A foreign government or person listed in 15 CFR 791.4.
+17 b. A country prohibited from purchasing or otherwise acquiring title to real property
+18 in this state under section 47 - 01 - 09 .
+19 5. "Foreign entity of concern" means a partnership, association, corporation,
+20 organization, or other combination of persons:
+21 a. Organized or incorporated in a foreign country of concern;
+22 b. Owned or controlled by the government, a political subdivision, or a political party
+23 of a foreign country of concern;
+24 c. That has a principal place of business in a foreign country of concern; or
+Page No. 1 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 d. That is owned, organized, or controlled by or affiliated with a foreign organization
+2 that has been:
+3 (a) Placed on the federal office of foreign assets control specially designated
+4 nationals and blocked persons list (SDN list); or
+5 (b) Designated by the United States secretary of state as a foreign terrorist
+6 organization.
+7 6. "Legal representative" means an attorney, group of attorneys, or law firm duly licensed
+8 and authorized to practice law and to represent a consumer in a civil action or claim to
+9 recover damages in this state.
+10 7. "Litigation financer" means any individual or entity engaged in, formed, created, or
+11 established for the purpose of engaging in the business of litigation financing or any
+12 other business or economic activity in which the individual or entity receives a
+13 percentage of an anticipated recovery in a civil legal action brought by a consumer,
+14 lawyer, or law firm asserting legal claims on behalf of a consumer, in exchange for
+15 providing litigation financing.
+16 8. "Litigation financing" means the financing, funding, or advancing of money to pay for
+17 expenses or any other sums arising from a civil action, claim, or cause of action, if the
+18 financing, funding, or advancing of money is provided by any person other than a
+19 person that is:
+20 a. A party to the civil action, claim, or cause of action;
+21 b. A legal representative engaged, directly or indirectly, through another legal
+22 representative, to represent a party in the civil action, claim, or cause of action; or
+23 c. An entity or insurer with a pre - existing contractual obligation to indemnify or
+24 defend a party to the civil action, claim, or cause of action.
+25 9. a. "Litigation financing contract" means a written contract in which a person agrees
+26 to provide litigation financing to any person in conjunction with a civil action or in
+27 pursuit of any claim or cause of action in this state in consideration for:
+28 (1) The payment of fees or other consideration to the person providing the
+29 litigation financing; or
+30 (2) Granting or assigning to the person providing the litigation financing a right
+31 to receive payment from the value of any proceeds or other consideration
+Page No. 2 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 realized from any judgment, award, settlement, verdict, or other form of
+2 monetary relief any consumer or other person may receive or recover in
+3 relation to the civil action, claim, or cause of action.
+4 b. The term does not include an agreement, contract, or engagement of a legal
+5 representative to render legal services to a consumer on a contingency fee basis,
+6 including the advancement of legal costs by the legal representative, in which the
+7 services or costs are provided to or on behalf of a consumer by the legal
+8 representative representing the consumer in the civil action, claim, or cause of
+9 action.
+10 10. "Nationwide multistate licensing system" means the registry developed by the
+11 conference of state bank supervisors and the American association of residential
+12 mortgage regulators and owned and operated by the state regulatory register or any
+13 successor or affiliated entity, for the licensing and registration of persons in financial
+14 services industries.
+15 11. "Regulated lender" means:
+16 a. A bank, building and loan association, savings and loan association, trust
+17 company, credit union, credit association, consumer loan licensee, money broker,
+18 deferred presentment service provider, residential mortgage lender licensee,
+19 development corporation, bank holding company, or mutual or stock insurance
+20 company organized pursuant to state or federal statutory authority and subject to
+21 supervision, control, or regulation by:
+22 (1) An agency of the state; or
+23 (2) An agency of the federal government;
+24 b. A subsidiary of an entity described in subdivision a;
+25 c. A state agency or a federal agency that is authorized to lend money; and
+26 d. A corporation or other entity established by congress or the state which is owned,
+27 in whole or in part, by the United States or the state and is authorized to lend
+28 money.
+29 License.
+30 1. A person may not engage in litigation financing in this state unless the litigation
+31 financer has received a license from the commissioner.
+Page No. 3 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 2. If the licensed litigation financer is an entity, the entity must be active and in good
+2 standing with the secretary of state.
+3 3. The application for a license as a litigation financer must be in writing, under oath, and
+4 in the form prescribed by the commissioner. The application must include the following
+5 information:
+6 a. The legal name of the litigation financer;
+7 b. The physical street address and mailing address of the litigation financer;
+8 c. A telephone number or electronic mail address at which the litigation financer
+9 may be contacted;
+10 d. The physical street address and mailing address of the licensed financer's
+11 licensed office and the name of the registered agent at the licensed office who is
+12 authorized to accept service of process on behalf of the licensed financer; and
+13 e. Any other information the commissioner considers necessary.
+14 4. A litigation financer subject to licensure shall file an amended application within twenty
+15 business days whenever the information contained in the most recently filed
+16 application changes, becomes inaccurate, or incomplete in any respect.
+17 5. The commissioner may prescribe forms to carry out this chapter, including the use of
+18 the nationwide multistate system.
+19 6. At the time of making an application, the applicant shall include payment of four
+20 hundred dollars, which is not subject to refund, as a fee for investigating the
+21 application, and four hundred dollars for the annual license fee. Fees must be
+22 deposited in the financial institution's regulatory fund.
+23 7. All documents and information filed with the commissioner are public records.
+24 8. The commissioner's duty to file documents under this section is ministerial. The
+25 commissioner's filing or refusing to file a document does not create a presumption
+26 that:
+27 a. The document does or does not conform to the requirements of this chapter; or
+28 b. The information contained in the document is correct or incorrect.
+29 9. Additional fees may be assessed to cover costs associated with the use of the
+30 nationwide multistate licensing system.
+Page No. 4 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 Surety bond required.
+2 1. Each licensee shall maintain a surety bond in an amount not less than fifty thousand
+3 dollars. The surety bond must be in a form prescribed by the commissioner.
+4 2. When an action is commenced on a licensee's bond, the commissioner may require
+5 the filing of a new bond.
+6 3. Immediately upon recovery upon any action on the bond, the licensee shall file a new
+7 bond.
+8 Minimum net worth required.
+9 1. A minimum net worth must be maintained continuously by every licensee in
+10 accordance with this section.
+11 2. Minimum net worth must be maintained in the amount of twenty-five thousand dollars.
+12 3. If the net worth of a licensee falls below the minimum net worth set forth in
+13 subsection 1, the licensee shall provide a plan, subject to the approval of the
+14 commissioner, to increase the licensee's net worth to an amount in conformance with
+15 this section. Submission of a plan under this section must be made within twenty
+16 business days of a notice from the commissioner which states the licensee is not in
+17 compliance with subsection 1. If the licensee does not submit a plan under this
+18 section, fails to comply with an approved plan, or has repeated violations of
+19 subsection 1, the commissioner may revoke the license .
+20 Expiration of licensure - Renewal.
+21 1. Licensure under this chapter expires December thirty-first of each year.
+22 2. Licensure may be renewed for the ensuing twelve-month period upon application and
+23 the payment to the commissioner of the annual license fee, which is not subject to
+24 refund, before December first of each year.
+25 3. The form and content of renewal applications must be determined by the department
+26 of financial institutions and a renewal application may be denied on the same grounds
+27 as would justify denial of an initial application.
+28 4. If a licensee has been delinquent in renewing the licensee's license, the department
+29 may charge an additional fee of fifty dollars for the renewal of the license.
+30 5. The commissioner may deny an application to renew a license if the licensee no
+31 longer meets the criteria for licensure or otherwise fails to comply with this chapter.
+Page No. 5 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 Response to department requests.
+2 An applicant, licensee, or other person subject to this chapter shall comply with requests for
+3 information, documents, or other requests from the department of financial institutions within the
+4 time specified in the request, which must be a minimum of ten days, or, if no time is specified,
+5 within thirty days of the request by the department of financial institutions. If the request for
+6 information is in regard to a new application or renewal of an existing application and is not
+7 received within the time specified in the request, the department may deny the application.
+8 Revocation of license - Suspension of license - Surrender of license.
+9 1. The commissioner may issue upon any licensee an order suspending or revoking a
+10 licensee's license if the commissioner finds:
+11 a. The licensee has failed to pay the annual license fee under this chapter or any
+12 examination fee imposed by the commissioner under the authority of this chapter.
+13 b. The licensee, either knowingly or without the exercise of due care to prevent the
+14 same, has violated any provision of this chapter or any rule or order lawfully
+15 made under the authority of this chapter.
+16 c. Any fact or condition existing at the time of the original application for the license
+17 which clearly would have warranted the department of financial institutions in
+18 refusing originally to issue the license.
+19 d. The licensee has failed to maintain the required bond.
+20 e. The licensee has failed to maintain registration with the secretary of state if so
+21 required.
+22 2. The order must contain a notice of opportunity for hearing under chapter 28 - 32 .
+23 3. If no hearing is requested within twenty days of the date the order is served upon the
+24 licensee, the order is final. If a hearing is held and the commissioner finds that the
+25 record so warrants, the commissioner may enter a final order. The final order is final
+26 suspending or revoking the license.
+27 4. If the commissioner finds that probable cause for revocation of any license exists and
+28 that enforcement of the chapter requires immediate suspension of the license pending
+29 investigation, the commissioner may enter an order suspending the license for a
+30 period not exceeding the time required to serve upon the licensee written notice plus
+31 sixty days, pending the holding of a hearing as prescribed in this chapter.
+Page No. 6 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 5. Any licensee may surrender the licensee's license by providing the department of
+2 financial institutions with written notice of its surrender, but the surrender does not
+3 affect the licensee's civil or criminal liability for acts committed before the surrender of
+4 the license.
+5 Suspension and removal of money broker officers and employees.
+6 1. The commissioner of financial institutions may issue upon a current or former litigation
+7 financing officer or employee and upon the licensee involved an order stating:
+8 a. That the current or former officer or employee is engaging or has engaged in any
+9 of the following conduct:
+10 (1) Violating a law, rule, order, or written agreement with the commissioner.
+11 (2) Engaging in harassment or abuse, the making of false or misleading
+12 representations, or engaging in unfair practices involving litigation financing
+13 activity.
+14 (3) Performing an act of commission or omission or practice that is a breach of
+15 trust or a breach of fiduciary duty.
+16 b. The term of the suspension or removal from employment and participation within
+17 the conduct or the affairs of a financial corporation, financial institution, credit
+18 union, or any other entity licensed by the department of financial institutions.
+19 2. The order must contain a notice of opportunity for hearing under chapter 28 - 32 .
+20 3. If a hearing is not requested within twenty days of the date the order is served, the
+21 order is final. If a hearing is held and the commissioner finds that the record so
+22 warrants, the commissioner may enter a final order.
+23 4. A contested or default suspension or removal order is effective immediately upon
+24 issuance on the current or former officer or employee and upon the licensee. A
+25 consent order is effective as agreed. Any current or former officer or employee
+26 suspended or removed from employment and participation within the conduct or the
+27 affairs of a licensee under this section is not eligible, while under suspension or
+28 removal, to be employed or otherwise participate in the affairs of any financial
+29 corporation, financial institution, credit union, or any other entity licensed by the
+30 department of financial institutions.
+Page No. 7 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 5. When any current or former officer or employee, or other person participating in the
+2 conduct of the affairs of a licensee is charged with a felony in state or federal court
+3 which involves dishonesty or breach of trust, the commissioner may immediately
+4 suspend the individual from office or prohibit the individual from further participation in
+5 the affairs of the licensee, or both. The order is effective immediately upon issuance of
+6 the order on the licensee and the individual charged, and remains in effect until the
+7 criminal charge is finally disposed of or until modified by the commissioner. If a
+8 judgment of conviction, federal pretrial diversion, conviction or agreement to plea to
+9 lesser charges, or similar state order or judgment is entered, the commissioner may
+10 order the suspension or prohibition be made permanent. A finding of not guilty or other
+11 disposition of the charge does not preclude the commissioner from pursuing
+12 administrative or civil remedies.
+13 Litigation financing protections.
+14 1. A litigation financer may not:
+15 a. Accept any commissions, referral fees, rebates, or other forms of consideration
+16 from any person rendering any services to the consumer;
+17 b. Receive or recover any payment that exceeds thirty-six percent of the amount of
+18 any judgment, award, settlement, verdict, or other form of monetary relief
+19 obtained in the civil action, claim, or cause of action that is the subject of the
+20 litigation contract;
+21 c. Advertise false or misleading information regarding its products or services;
+22 d. Refer or require any consumer to hire or engage any person providing any goods
+23 or rendering any services to the consumer;
+24 e. Fail to promptly deliver a fully completed and signed litigation financing contract
+25 to the consumer and the consumer's legal representative;
+26 f. Attempt to secure a remedy or obtain a waiver of any remedy, including
+27 compensatory, statutory, or exemplary damages, which the consumer may or
+28 may not be entitled to pursue or recover otherwise;
+29 g. Offer or provide legal advice to the consumer;
+30 h. Assign a litigation financing contract in whole or in part;
+Page No. 8 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 i. Report a consumer to a credit reporting agency if insufficient funds remain to
+2 repay the litigation financer in full from the proceeds received from any judgment,
+3 award, settlement, verdict, or other form of monetary relief obtained in the civil
+4 action, claim, or cause of action that is the subject of the litigation financing
+5 contract; and
+6 j. Demand, request, receive, or exercise any right to influence, affect, or otherwise
+7 make any decision in the handling, conduct, administration, litigation, settlement,
+8 or resolution of any civil action, claim, or cause of action in which the litigation
+9 financer has provided litigation financing. All rights remain solely with the
+10 consumer and the consumer's legal representative.
+11 k. Knowingly enter an agreement creating a right for anyone, other than the named
+12 parties, counsel of record, or law firm of record, to receive or make any payment
+13 that is contingent on the outcome of a claim, or cause of action, the terms of
+14 which are to be satisfied by funds directly sourced, in whole or in part, from a
+15 foreign entity of concern.
+16 l. A litigation financier may not enter a commercial litigation financing contract
+17 directly or indirectly with a foreign entity of concern or a foreign country or person
+18 of concern.
+19 2. A legal representative who renders any services to the consumer may not have a
+20 financial interest in litigation financing and may not receive any commissions, referral
+21 fees, rebates, or other forms of consideration from any litigation financer or the
+22 litigation financer's employees, owners, or affiliates.
+23 Litigation financing contract - Disclosures.
+24 1. The terms and conditions of a litigation financing contract must be set forth in a fully
+25 completed written contract with no terms or conditions omitted.
+26 2. The litigation financing contract must identify who is responsible for paying the
+27 litigation financer, the source the funds, and when the funds are to be paid to the
+28 litigation financer.
+29 3. The litigation financing contract must state the amount of funding to be provided to the
+30 consumer and the future amounts owed to the litigation financer or the method of
+31 calculating the amounts owed to the litigation financer.
+Page No. 9 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 4. The litigation financing contract must reflect all costs and fees and must show the
+2 maximum amount a litigation financer may own of the consumer's recovery.
+3 5. On execution of a litigation financing contract, a litigation financer may not amend the
+4 terms or conditions of the litigation financing contract without full disclosure to and the
+5 prior written consent of all parties to the litigation financing contract.
+6 6. A litigation financing contract must set forth the name, physical street address, and
+7 mailing address of the litigation financer in the litigation financing contract.
+8 7. A litigation financing contract must contain the following disclosures that constitute
+9 material terms and conditions of the litigation financing contract and must be typed in
+10 at least fourteen-point boldface type and be placed clearly and conspicuously
+11 immediately above the consumer's signature line in the litigation financing contract:
+12 IMPORTANT DISCLOSURES -- PLEASE READ CAREFULLY
+13 1. Right to Cancellation: You may cancel this litigation financing contract without
+14 penalty or further obligation within five (5) business days from the date you sign
+15 this contract or the date you receive financing from the litigation financer,
+16 whichever date is later. You may cancel by sending a notice of cancellation to the
+17 litigation financer and returning to the litigation financer any funds received from
+18 the litigation financer at the litigation financer's address set forth in this contract.
+19 2. The maximum amount the litigation financer may receive or recover from any
+20 contingent payment may not exceed twenty-five percent (25%) of the amount of
+21 any judgment, award, settlement, verdict, or other form of monetary relief
+22 obtained in the civil action, claim, or cause of action that is the subject of this
+23 litigation contract.
+24 3. The litigation financer agrees that it has no right to, and will not demand, request,
+25 receive, or exercise any right to, influence, affect, or otherwise make any decision
+26 in the handling, conduct, administration, litigation, settlement, or resolution of
+27 your civil action, claim, or cause of action. All of these rights remain solely with
+28 you and your legal representative.
+29 4. If there is no recovery of any money from your civil action, claim, or cause of
+30 action, or if there is not enough money to satisfy in full the portion assigned to the
+31 litigation financer, you will not owe anything to the litigation financer.
+Page No. 10 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 5. You are entitled to a fully completed contract with no terms or conditions omitted
+2 prior to signing. Before signing this contract, you should read the contract
+3 completely and consult an attorney.
+4 8. If the consumer is represented by a legal representative in the civil action, claim, or
+5 cause of action that is the subject of the litigation financing contract, the consumer
+6 must provide the litigation funding contract to the consumer's legal representative.
+7 Upon receipt, the legal representative shall acknowledge in the contract that the legal
+8 representative and the legal representative's employer and employees have not
+9 received or paid a referral fee or any other consideration from or to the litigation
+10 financer and have no obligation to do so in the future.
+11 Litigation financing contracts - Service .
+12 1. If a party or party's attorney initiates a civil action and is a party to a litigation financing
+13 agreement, the party or party's attorney shall serve a copy of the litigation financing
+14 contract with the complaint.
+15 2. If a party or party's attorney is served with a litigating financing contract, the person
+16 shall serve a copy of any insurance policy relevant to the civil action to the other party
+17 within fourteen days.
+18 3. If either party in a civil action enters a litigation financing agreement after the
+19 commencement of the civil action, the party shall serve a copy of the agreement on
+20 the other party within fourteen days.
+21 Exemptions.
+22 This chapter does not apply to the following:
+23 1. A nonprofit entity that provides litigation financing, directly or indirectly, for the benefit
+24 of the nonprofit or one or more of its members without receiving, in consideration for
+25 the litigation financing:
+26 a. The payment of interest, fees, or other consideration; or
+27 b. Except for in-house counsel of the nonprofit, any right to recovery or payment
+28 from the amount of a judgment, award, settlement, verdict, or other form of
+29 monetary relief obtained in the civil action, claim, or cause of action;
+30 2. A regulated lender that does not receive, in consideration for loaning money to any
+31 person, a right to receive payment from the value of any proceeds or other
+Page No. 11 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 consideration realized from a judgment, award, settlement, verdict, or other form of
+2 monetary relief a person may receive or recover in relation to a civil action, claim, or
+3 cause of action.
+4 Class actions.
+5 1. This chapter applies to any civil action filed or certified as a class action in which
+6 litigation financing is provided.
+7 2. In addition to the disclosure requirements set forth in this chapter, the legal
+8 representative of the putative class shall disclose to all putative class members, any
+9 relationship between the legal representative and the litigation financer.
+10 3. A class member is entitled to receive from the class counsel a true and correct copy of
+11 the litigation financing contract on request.
+12 Regulatory oversight - Rulemaking - Records.
+13 1. The department of financial institutions shall administer and enforce this chapter. The
+14 department may adopt rules reasonably necessary to carry out this chapter, in
+15 accordance with chapter 28 - 32. Any hearing held and any orders issued under this
+16 chapter must be in accordance with chapter 28 - 32. In addition to those powers se t
+17 forth in chapter 28 - 32, the department has additional powers as set forth in this
+18 chapter.
+19 2 Insofar as consistent with the provisions of law, the department of financial institutions
+20 may:
+21 a. Determine the qualifications of all applicants based on financial responsibility,
+22 financial condition, business experience, character, and general fitness which
+23 must reasonably warrant the belief that the applicant's business will be conducted
+24 lawfully and fairly. In determining whether this qualification is met, and for the
+25 purpose of investigating compliance with the chapter, the commissioner may
+26 review and consider the relevant business records and capital adequacy of the
+27 applicant and the competence, experience, integrity, and financial ability of an
+28 individual who is a member, partner, director, officer, or twenty-five percent or
+29 more shareholder of the applicant.
+30 b. Establish codes of ethical conduct for licensees.
+Page No. 12 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 3 Every licensee licensed under this chapter shall keep a record of all sums collected by
+2 the licensee and of litigation financing completed as a result of the licensee's efforts
+3 for six years from the date of last entry. The records of a licensee may be maintained
+4 electronically if the records can be reproduced upon request by the department of
+5 financial institutions and within the required statutory time period provided in this
+6 section. When a licensee ceases operations for any reason, the licensee shall inform
+7 the department of the location of the records. In addition, the licensee shall provide the
+8 name of the individual responsible for maintenance of the records.
+9 4 When it appears to the department of financial institutions either upon complaint or
+10 otherwise, that any person has engaged in, is engaging in, or is about to engage in
+11 any act or practice or transaction prohibited by this chapter, or by any order of the
+12 department issued under this chapter or which is declared to be illegal in this chapter,
+13 the department may:
+14 a. Issue any order that is effective upon issuance, including cease and desist, stop,
+15 and suspension orders, which the department deems necessary or appropriate in
+16 the public interest or for the protection of the public; provided, however, that any
+17 person aggrieved by an order issued under this subsection may request a
+18 hearing before the department if the request is made within ten days after receipt
+19 of the order. The hearing and any appeal of the hearing must be held in
+20 accordance with chapter 28 - 32 .
+21 b. Apply to the district court of Burleigh County, for an injunction restraining the
+22 person and the agents, employees, partners, officers, and directors of the person
+23 from continuing the act, practice, or transaction and for the other relief the facts
+24 may warrant. In any proceeding for an injunction, the department may apply for
+25 and on due showing be entitled to have issued the court's subpoena requiring the
+26 appearance of any defendants and their agents, employees, partners, officers, or
+27 directors, and the production of the documents, books, and records as may
+28 appear necessary for the hearing upon the petition for an injunction. Upon proof
+29 of any of the offenses described in this section, the court may grant the injunction
+30 as the facts may warrant. The court may not require the department to post a
+31 bond.
+Page No. 13 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 Investigations, subpoenas, and examination authority.
+2 In addition to any authority allowed under this chapter, the commissioner may conduct
+3 investigations and examinations as follows:
+4 1. The department of financial institutions:
+5 a. May make the public or private investigation or examination within or outside this
+6 state as it deems necessary to determine whether any person has violated or is
+7 about to violate any provision of this chapter or any rule or order, or to aid in the
+8 enforcement of this chapter or in the prescribing of rules and forms under this
+9 chapter. The licensee shall pay an investigation or examination fee and must be
+10 charged by the department of financial institutions at an hourly rate to be set by
+11 the commissioner, sufficient to cover all reasonable expenses of the department
+12 associated with the visitation provided for by this section. Fees must be
+13 deposited in the financial institutions regulatory fund.
+14 b. May require or permit any person to file a statement in writing, under oath, or
+15 otherwise as the department determines, as to all the facts and circumstances
+16 concerning the matter to be investigated or examined.
+17 c. May publish information concerning any violation of this chapter or any rule or
+18 order under the chapter.
+19 2. For the purpose of any investigation, examination, or proceeding under this chapter,
+20 the department of financial institutions may administer oaths and affirmations,
+21 subpoena witnesses, compel the attendance of witnesses, take evidence, and require
+22 the production of any books, papers, correspondence, memoranda, agreements, or
+23 other documents or records the department deems relevant or material to the inquiry.
+24 3. In the case of a failure or refusal to obey a subpoena issued to any person, the district
+25 court, upon application by the department of financial institutions, may issue to the
+26 person an order requiring the person to appear before the department, to produce
+27 documentary evidence if so ordered, or to give evidence touching the matter in
+28 question under investigation or examination. Failure to obey the order of the court may
+29 be punished by the court as a contempt of court.
+30 4. An individual is not excused from attending and testifying or from producing any
+31 document or record before the department of financial institutions, or in obedience to
+Page No. 14 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 the subpoena of the department, or in any proceeding instituted by the department, on
+2 the grounds that the testimony or evidence, documentary or otherwise, required of the
+3 individual may tend to incriminate the individual or subject the individual to a penalty
+4 forfeiture; but no individual may be prosecuted or subjected to any penalty or forfeiture
+5 for or on account of any transaction, matter, or thing concerning which the individual is
+6 compelled, after claiming the privilege against self-incrimination, to testify or produce
+7 evidence, documentary or otherwise, except that the individual testifying is not exempt
+8 from prosecution and punishment for perjury or contempt committed in testifying.
+9 5. For purposes of initial licensing, license renewal, license suspension, license
+10 conditioning, license revocation or termination, or general or specific inquiry or
+11 investigation to determine compliance with this chapter, the commissioner may
+12 access, receive, and use any books, accounts, records, files, documents, information,
+13 or evidence, including:
+14 a. Criminal, civil, and administrative history information, including nonconviction
+15 data;
+16 b. Personal history and experience information, including independent credit reports
+17 obtained from a consumer reporting agency described under the Fair Credit
+18 Reporting Act [15 U.S.C. 1681a]; and
+19 c. Any other documents, information, or evidence the commissioner deems relevant
+20 to the inquiry or investigation regardless of the location, possession, control, or
+21 custody of the documents, information, or evidence.
+22 6. For purposes of investigating violations or complaints arising under this chapter, or for
+23 purposes of examination, the commissioner may review, investigate, or examine any
+24 licensee or person subject to this chapter, as often as necessary in order to carry out
+25 the purposes of this chapter.
+26 7. Each licensee or person subject to this chapter shall make available to the
+27 commissioner upon request the books and records relating to the operations of the
+28 licensee or person subject to this chapter. The commissioner shall have access to the
+29 books and records and interview the officers, principals, mortgage loan originators,
+30 employees, independent contractors, agents, and customers of the licensee or person
+31 subject to this chapter concerning their business.
+Page No. 15 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 8. Each licensee or person subject to this chapter shall make or compile reports or
+2 prepare other information as directed by the commissioner to carry out the purposes of
+3 this section, including:
+4 a. Accounting compilations;
+5 b. Information lists and data concerning litigation financing transactions in a format
+6 prescribed by the commissioner; or
+7 c. Any other information deemed necessary to carry out the purposes of this
+8 section.
+9 9. In making any investigation or examination authorized by this chapter, the
+10 commissioner may control access to any documents and records of the licensee or
+11 person under investigation or examination. The commissioner may take possession of
+12 the documents and records or place a person in exclusive charge of the documents
+13 and records in the place in which the records are usually kept. During the period of
+14 control, an individual may not remove or attempt to remove any of the documents and
+15 records except pursuant to a court order or with the consent of the commissioner.
+16 Unless the commissioner has reasonable grounds to believe the documents or
+17 records of the licensee have been, or are at risk of being altered or destroyed for
+18 purposes of concealing a violation of this chapter, the licensee or owner of the
+19 documents and records may have access to the documents or records as necessary
+20 to conduct its ordinary business affairs.
+21 10. To carry out the purposes of this section, the commissioner may:
+22 a. Retain accountants or other professionals and specialists as examiners, auditors,
+23 or investigators to conduct or assist in the conduct of examinations or
+24 investigations;
+25 b. Enter agreements or relationships with other government officials or regulatory
+26 associations to improve efficiencies and reduce regulatory burden by sharing
+27 resources, standardized or uniform methods or procedures, and documents,
+28 records, information, or evidence obtained under this section;
+29 c. Use, hire, contract, or employ publicly or privately available analytical systems,
+30 methods, or software to examine or investigate the licensee, individual, or person
+31 subject to this chapter;
+Page No. 16 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 d. Accept and rely on examination or investigation reports made by other
+2 government officials, within or without this state; and
+3 e. Accept audit reports made by an independent certified public accountant for the
+4 licensee or person subject to this chapter in the course of that part of the
+5 examination covering the same general subject matter as the audit and may
+6 incorporate the audit report in the report of the examination, report of
+7 investigation, or other writing of the commissioner.
+8 11. The authority of this section remains in effect, whether a licensee or person subject to
+9 this chapter acts or claims to act under any licensing or registration law of this state or
+10 claims to act without the authority.
+11 12. A licensee or person subject to investigation or examination under this section may not
+12 knowingly withhold, abstract, remove, mutilate, destroy, or secrete any books, records,
+13 computer records, or other information.
+14 Act violation - Unenforceable contract.
+15 Any violation of this chapter by the litigation financer renders the litigation financing contract
+16 unenforceable by the litigation financer or any successor-in-interest to the litigation financing
+17 contract.
+18 Penalty.
+19 1. Any person violating any provision of this chapter or any rule or order of the
+20 department of financial institutions made under this chapter or who engages in any
+21 act, practice, or transaction declared by any provision of this chapter to be unlawful is
+22 guilty of a class C felony.
+23 2. The commissioner may impose a civil money penalty not to exceed one hundred
+24 thousand dollars for each occurrence and one thousand dollars per day for each day
+25 the violation continues after issuance of the order against any person who violates a
+26 law, rule, written agreement, or order under this chapter.
+27 3. An interested party may appeal the assessment of a civil money penalty under the
+28 provisions of chapter 28 - 32 by filing a written notice of appeal within twenty days after
+29 service of the assessment of civil money penalties.
+30 4. A civil money penalty collected under this section must be paid to the department of
+31 financial institutions and deposited in the financial institution's regulatory fund.
+Page No. 17 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 Confidentiality.
+2 1. Except as otherwise provided in Public Law 110 - 289, section 1512, the requirements
+3 under any federal law, chapter 44 - 04, or section 6 - 01 - 07.1, regarding the privacy or
+4 confidentiality of any information or material provided to the nationwide multistate
+5 licensing system and registry, and any privilege arising under federal or state law,
+6 including the rules of any federal or state court, with respect to the information or
+7 material, continue to apply to the information or material after the information or
+8 material has been disclosed to the nationwide multistate licensing system and registry.
+9 Any information and material may be shared with all state and federal regulatory
+10 officials with mortgage industry oversight authority without the loss of privilege or the
+11 loss of confidentiality protections provided by federal law, chapter 44 - 04, or section
+12 6 - 01 - 07.1 .
+13 2. For these purposes, the commissioner may enter agreements or sharing
+14 arrangements with other governmental agencies, the conference of state bank
+15 supervisors, the American association of residential mortgage regulators, or other
+16 associations representing governmental agencies.
+17 3. Information or material that is subject to a privilege or confidentiality under
+18 subsection 1 is not subject to :
+19 a. Disclosure under any federal or state law governing the disclosure to the public of
+20 information held by an officer or an agency of the federal government or the
+21 respective state; or
+22 b. Subpoena or discovery, or admission into evidence, in any administrative
+23 process, unless with respect to any privilege held by the nationwide multistate
+24 licensing system and registry with respect to the information or material, the
+25 person to whom the information or material pertains waives, in whole or in part, in
+26 that privilege.
+27 4. The commissioner shall take all necessary steps, under any applicable law or rule, to
+28 protect the disclosure of information or material subject to a privilege or confidentiality
+29 under subsection 1. Records subject to a privilege or confidentiality under
+30 subsection 1 may be required to be disclosed only pursuant to an order of the court .
+Page No. 18 25.0389.03000
+Sixty-ninth
+Legislative Assembly
+1 The court ordering the disclosure shall issue a protective order to protect the
+2 confidential nature of the records.
+3 5. Application of chapter 44 - 04 or section 6 - 01 - 07.1, relating to the disclosure o f
+4 confidential supervisory information or any information or material described in
+5 subsection 1 which is inconsistent with subsection 1, is superseded by the
+6 requirements of this section.
+7 6. Except for provisions of chapter 6 - 08.1 that are inconsistent with this chapter, chapter
+8 6 - 08.1 applies to all money brokers licensed under this chapter .
+9 SECTION 2. APPLICATION. This Act applies to any civil action commenced after the
+10 effective date of this Act.
+Page No. 19 25.0389.03000
+[DELETED: .".".".".A.A.".O.O.T12]
+[DELETED: .T)P)D.".".".A.A. .a.")T)G22]
+[DELETED: .T.".".A)A)A.A.A.A.A32]
+[DELETED: .I.T.T.T.A.T.A.A.T.A.A.T.T.T.A42]
+[DELETED: .E.W.I.A.M.I.L.L.T.I.T52]
+[DELETED: .T.T.T.A.T.T. .I.I62]
+[DELETED: .A.T.T)V)E)P.T. .I.A72]
+[DELETED: .W.A.A.R.A.R.F.A.O.A82]
+[DELETED: .R.D.K.A.A.T.T.T92]
+[DELETED: .T.O.A.A.R.T.T.I02]
+[DELETED: .Y.I.I.I.I.A.T.E.A12]
+[DELETED: .T.I.A.TI.D.E22]
+[DELETED: EW.I.A32]
+[DELETED: .T.M.M.M.F.I.A42]
+[DELETED: .F.C.P.A.F.E52]
+[DELETED: .E.A.I.A.I.T.R.E.U62]
+[DELETED: .A.A.T.A.A.T.A.A72]
+[DELETED: . .F.I.D.S.T82]
+[DELETED: . . 92]
+
+
+================================================================================
+
+Raw Text:
+25.0389.03000
+Sixty-ninth
+HOUSE BILL NO. 1372
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative Klemin
+Senator Larson
+1 A BILL for an Act to create and enact a new chapter to title 13 of the North Dakota Century
+2 Code, relating to litigation financing; to provide a penalty; and to provide for application.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 13 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 As used in this chapter:
+8 1. "Commissioner" means the commissioner of financial institutions.
+9 2. "Consumer" means any individual who resides, is present, or is domiciled in this state
+10 or who is or may become a plaintiff, claimant, or complainant in a civil action or in
+11 pursuit of any claim or cause of action in this state.
+12 3. "Entity" means any domestic or foreign corporation, partnership, limited partnership,
+13 limited liability company, trust, fund, plan, or any other business, enterprise,
+14 association, or organization of any kind or nature.
+15 4. "Foreign country or person of concern" includes the following:
+16 a. A foreign government or person listed in 15 CFR 791.4.
+17 b. A country prohibited from purchasing or otherwise acquiring title to real property
+18 in this state under section 47 - 01 - 09 .
+19 5. "Foreign entity of concern" means a partnership, association, corporation,
+20 organization, or other combination of persons:
+21 a. Organized or incorporated in a foreign country of concern;
+22 b. Owned or controlled by the government, a political subdivision, or a political party
+23 of a foreign country of concern;
+24 c. That has a principal place of business in a foreign country of concern; or
+Page No. 1 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 d. That is owned, organized, or controlled by or affiliated with a foreign organization
+2 that has been:
+3 (a) Placed on the federal office of foreign assets control specially designated
+4 nationals and blocked persons list (SDN list); or
+5 (b) Designated by the United States secretary of state as a foreign terrorist
+6 organization.
+7 6. "Legal representative" means an attorney, group of attorneys, or law firm duly licensed
+8 and authorized to practice law and to represent a consumer in a civil action or claim to
+9 recover damages in this state.
+10 7. "Litigation financer" means any individual or entity engaged in, formed, created, or
+11 established for the purpose of engaging in the business of litigation financing or any
+12 other business or economic activity in which the individual or entity receives a
+13 percentage of an anticipated recovery in a civil legal action brought by a consumer,
+14 lawyer, or law firm asserting legal claims on behalf of a consumer, in exchange for
+15 providing litigation financing.
+16 8. "Litigation financing" means the financing, funding, or advancing of money to pay for
+17 expenses or any other sums arising from a civil action, claim, or cause of action, if the
+18 financing, funding, or advancing of money is provided by any person other than a
+19 person that is:
+20 a. A party to the civil action, claim, or cause of action;
+21 b. A legal representative engaged, directly or indirectly, through another legal
+22 representative, to represent a party in the civil action, claim, or cause of action; or
+23 c. An entity or insurer with a pre - existing contractual obligation to indemnify or
+24 defend a party to the civil action, claim, or cause of action.
+25 9. a. "Litigation financing contract" means a written contract in which a person agrees
+26 to provide litigation financing to any person in conjunction with a civil action or in
+27 pursuit of any claim or cause of action in this state in consideration for:
+28 (1) The payment of fees or other consideration to the person providing the
+29 litigation financing; or
+30 (2) Granting or assigning to the person providing the litigation financing a right
+31 to receive payment from the value of any proceeds or other consideration
+Page No. 2 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 realized from any judgment, award, settlement, verdict, or other form of
+2 monetary relief any consumer or other person may receive or recover in
+3 relation to the civil action, claim, or cause of action.
+4 b. The term does not include an agreement, contract, or engagement of a legal
+5 representative to render legal services to a consumer on a contingency fee basis,
+6 including the advancement of legal costs by the legal representative, in which the
+7 services or costs are provided to or on behalf of a consumer by the legal
+8 representative representing the consumer in the civil action, claim, or cause of
+9 action.
+10 10. "Nationwide multistate licensing system" means the registry developed by the
+11 conference of state bank supervisors and the American association of residential
+12 mortgage regulators and owned and operated by the state regulatory register or any
+13 successor or affiliated entity, for the licensing and registration of persons in financial
+14 services industries.
+15 11. "Regulated lender" means:
+16 a. A bank, building and loan association, savings and loan association, trust
+17 company, credit union, credit association, consumer loan licensee, money broker,
+18 deferred presentment service provider, residential mortgage lender licensee,
+19 development corporation, bank holding company, or mutual or stock insurance
+20 company organized pursuant to state or federal statutory authority and subject to
+21 supervision, control, or regulation by:
+22 (1) An agency of the state; or
+23 (2) An agency of the federal government;
+24 b. A subsidiary of an entity described in subdivision a;
+25 c. A state agency or a federal agency that is authorized to lend money; and
+26 d. A corporation or other entity established by congress or the state which is owned,
+27 in whole or in part, by the United States or the state and is authorized to lend
+28 money.
+29 License.
+30 1. A person may not engage in litigation financing in this state unless the litigation
+31 financer has received a license from the commissioner.
+Page No. 3 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 2. If the licensed litigation financer is an entity, the entity must be active and in good
+2 standing with the secretary of state.
+3 3. The application for a license as a litigation financer must be in writing, under oath, and
+4 in the form prescribed by the commissioner. The application must include the following
+5 information:
+6 a. The legal name of the litigation financer;
+7 b. The physical street address and mailing address of the litigation financer;
+8 c. A telephone number or electronic mail address at which the litigation financer
+9 may be contacted;
+10 d. The physical street address and mailing address of the licensed financer's
+11 licensed office and the name of the registered agent at the licensed office who is
+12 authorized to accept service of process on behalf of the licensed financer; and
+13 e. Any other information the commissioner considers necessary.
+14 4. A litigation financer subject to licensure shall file an amended application within twenty
+15 business days whenever the information contained in the most recently filed
+16 application changes, becomes inaccurate, or incomplete in any respect.
+17 5. The commissioner may prescribe forms to carry out this chapter, including the use of
+18 the nationwide multistate system.
+19 6. At the time of making an application, the applicant shall include payment of four
+20 hundred dollars, which is not subject to refund, as a fee for investigating the
+21 application, and four hundred dollars for the annual license fee. Fees must be
+22 deposited in the financial institution's regulatory fund.
+23 7. All documents and information filed with the commissioner are public records.
+24 8. The commissioner's duty to file documents under this section is ministerial. The
+25 commissioner's filing or refusing to file a document does not create a presumption
+26 that:
+27 a. The document does or does not conform to the requirements of this chapter; or
+28 b. The information contained in the document is correct or incorrect.
+29 9. Additional fees may be assessed to cover costs associated with the use of the
+30 nationwide multistate licensing system.
+Page No. 4 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Surety bond required.
+2 1. Each licensee shall maintain a surety bond in an amount not less than fifty thousand
+3 dollars. The surety bond must be in a form prescribed by the commissioner.
+4 2. When an action is commenced on a licensee's bond, the commissioner may require
+5 the filing of a new bond.
+6 3. Immediately upon recovery upon any action on the bond, the licensee shall file a new
+7 bond.
+8 Minimum net worth required.
+9 1. A minimum net worth must be maintained continuously by every licensee in
+10 accordance with this section.
+11 2. Minimum net worth must be maintained in the amount of twenty-five thousand dollars.
+12 3. If the net worth of a licensee falls below the minimum net worth set forth in
+13 subsection 1, the licensee shall provide a plan, subject to the approval of the
+14 commissioner, to increase the licensee's net worth to an amount in conformance with
+15 this section. Submission of a plan under this section must be made within twenty
+16 business days of a notice from the commissioner which states the licensee is not in
+17 compliance with subsection 1. If the licensee does not submit a plan under this
+18 section, fails to comply with an approved plan, or has repeated violations of
+19 subsection 1, the commissioner may revoke the license .
+20 Expiration of licensure - Renewal.
+21 1. Licensure under this chapter expires December thirty-first of each year.
+22 2. Licensure may be renewed for the ensuing twelve-month period upon application and
+23 the payment to the commissioner of the annual license fee, which is not subject to
+24 refund, before December first of each year.
+25 3. The form and content of renewal applications must be determined by the department
+26 of financial institutions and a renewal application may be denied on the same grounds
+27 as would justify denial of an initial application.
+28 4. If a licensee has been delinquent in renewing the licensee's license, the department
+29 may charge an additional fee of fifty dollars for the renewal of the license.
+30 5. The commissioner may deny an application to renew a license if the licensee no
+31 longer meets the criteria for licensure or otherwise fails to comply with this chapter.
+Page No. 5 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Response to department requests.
+2 An applicant, licensee, or other person subject to this chapter shall comply with requests for
+3 information, documents, or other requests from the department of financial institutions within the
+4 time specified in the request, which must be a minimum of ten days, or, if no time is specified,
+5 within thirty days of the request by the department of financial institutions. If the request for
+6 information is in regard to a new application or renewal of an existing application and is not
+7 received within the time specified in the request, the department may deny the application.
+8 Revocation of license - Suspension of license - Surrender of license.
+9 1. The commissioner may issue upon any licensee an order suspending or revoking a
+10 licensee's license if the commissioner finds:
+11 a. The licensee has failed to pay the annual license fee under this chapter or any
+12 examination fee imposed by the commissioner under the authority of this chapter.
+13 b. The licensee, either knowingly or without the exercise of due care to prevent the
+14 same, has violated any provision of this chapter or any rule or order lawfully
+15 made under the authority of this chapter.
+16 c. Any fact or condition existing at the time of the original application for the license
+17 which clearly would have warranted the department of financial institutions in
+18 refusing originally to issue the license.
+19 d. The licensee has failed to maintain the required bond.
+20 e. The licensee has failed to maintain registration with the secretary of state if so
+21 required.
+22 2. The order must contain a notice of opportunity for hearing under chapter 28 - 32 .
+23 3. If no hearing is requested within twenty days of the date the order is served upon the
+24 licensee, the order is final. If a hearing is held and the commissioner finds that the
+25 record so warrants, the commissioner may enter a final order. The final order is final
+26 suspending or revoking the license.
+27 4. If the commissioner finds that probable cause for revocation of any license exists and
+28 that enforcement of the chapter requires immediate suspension of the license pending
+29 investigation, the commissioner may enter an order suspending the license for a
+30 period not exceeding the time required to serve upon the licensee written notice plus
+31 sixty days, pending the holding of a hearing as prescribed in this chapter.
+Page No. 6 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 5. Any licensee may surrender the licensee's license by providing the department of
+2 financial institutions with written notice of its surrender, but the surrender does not
+3 affect the licensee's civil or criminal liability for acts committed before the surrender of
+4 the license.
+5 Suspension and removal of money broker officers and employees.
+6 1. The commissioner of financial institutions may issue upon a current or former litigation
+7 financing officer or employee and upon the licensee involved an order stating:
+8 a. That the current or former officer or employee is engaging or has engaged in any
+9 of the following conduct:
+10 (1) Violating a law, rule, order, or written agreement with the commissioner.
+11 (2) Engaging in harassment or abuse, the making of false or misleading
+12 representations, or engaging in unfair practices involving litigation financing
+13 activity.
+14 (3) Performing an act of commission or omission or practice that is a breach of
+15 trust or a breach of fiduciary duty.
+16 b. The term of the suspension or removal from employment and participation within
+17 the conduct or the affairs of a financial corporation, financial institution, credit
+18 union, or any other entity licensed by the department of financial institutions.
+19 2. The order must contain a notice of opportunity for hearing under chapter 28 - 32 .
+20 3. If a hearing is not requested within twenty days of the date the order is served, the
+21 order is final. If a hearing is held and the commissioner finds that the record so
+22 warrants, the commissioner may enter a final order.
+23 4. A contested or default suspension or removal order is effective immediately upon
+24 issuance on the current or former officer or employee and upon the licensee. A
+25 consent order is effective as agreed. Any current or former officer or employee
+26 suspended or removed from employment and participation within the conduct or the
+27 affairs of a licensee under this section is not eligible, while under suspension or
+28 removal, to be employed or otherwise participate in the affairs of any financial
+29 corporation, financial institution, credit union, or any other entity licensed by the
+30 department of financial institutions.
+Page No. 7 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 5. When any current or former officer or employee, or other person participating in the
+2 conduct of the affairs of a licensee is charged with a felony in state or federal court
+3 which involves dishonesty or breach of trust, the commissioner may immediately
+4 suspend the individual from office or prohibit the individual from further participation in
+5 the affairs of the licensee, or both. The order is effective immediately upon issuance of
+6 the order on the licensee and the individual charged, and remains in effect until the
+7 criminal charge is finally disposed of or until modified by the commissioner. If a
+8 judgment of conviction, federal pretrial diversion, conviction or agreement to plea to
+9 lesser charges, or similar state order or judgment is entered, the commissioner may
+10 order the suspension or prohibition be made permanent. A finding of not guilty or other
+11 disposition of the charge does not preclude the commissioner from pursuing
+12 administrative or civil remedies.
+13 Litigation financing protections.
+14 1. A litigation financer may not:
+15 a. Accept any commissions, referral fees, rebates, or other forms of consideration
+16 from any person rendering any services to the consumer;
+17 b. Receive or recover any payment that exceeds thirty-six percent of the amount of
+18 any judgment, award, settlement, verdict, or other form of monetary relief
+19 obtained in the civil action, claim, or cause of action that is the subject of the
+20 litigation contract;
+21 c. Advertise false or misleading information regarding its products or services;
+22 d. Refer or require any consumer to hire or engage any person providing any goods
+23 or rendering any services to the consumer;
+24 e. Fail to promptly deliver a fully completed and signed litigation financing contract
+25 to the consumer and the consumer's legal representative;
+26 f. Attempt to secure a remedy or obtain a waiver of any remedy, including
+27 compensatory, statutory, or exemplary damages, which the consumer may or
+28 may not be entitled to pursue or recover otherwise;
+29 g. Offer or provide legal advice to the consumer;
+30 h. Assign a litigation financing contract in whole or in part;
+Page No. 8 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 i. Report a consumer to a credit reporting agency if insufficient funds remain to
+2 repay the litigation financer in full from the proceeds received from any judgment,
+3 award, settlement, verdict, or other form of monetary relief obtained in the civil
+4 action, claim, or cause of action that is the subject of the litigation financing
+5 contract; and
+6 j. Demand, request, receive, or exercise any right to influence, affect, or otherwise
+7 make any decision in the handling, conduct, administration, litigation, settlement,
+8 or resolution of any civil action, claim, or cause of action in which the litigation
+9 financer has provided litigation financing. All rights remain solely with the
+10 consumer and the consumer's legal representative.
+11 k. Knowingly enter an agreement creating a right for anyone, other than the named
+12 parties, counsel of record, or law firm of record, to receive or make any payment
+13 that is contingent on the outcome of a claim, or cause of action, the terms of
+14 which are to be satisfied by funds directly sourced, in whole or in part, from a
+15 foreign entity of concern.
+16 l. A litigation financier may not enter a commercial litigation financing contract
+17 directly or indirectly with a foreign entity of concern or a foreign country or person
+18 of concern.
+19 2. A legal representative who renders any services to the consumer may not have a
+20 financial interest in litigation financing and may not receive any commissions, referral
+21 fees, rebates, or other forms of consideration from any litigation financer or the
+22 litigation financer's employees, owners, or affiliates.
+23 Litigation financing contract - Disclosures.
+24 1. The terms and conditions of a litigation financing contract must be set forth in a fully
+25 completed written contract with no terms or conditions omitted.
+26 2. The litigation financing contract must identify who is responsible for paying the
+27 litigation financer, the source the funds, and when the funds are to be paid to the
+28 litigation financer.
+29 3. The litigation financing contract must state the amount of funding to be provided to the
+30 consumer and the future amounts owed to the litigation financer or the method of
+31 calculating the amounts owed to the litigation financer.
+Page No. 9 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 4. The litigation financing contract must reflect all costs and fees and must show the
+2 maximum amount a litigation financer may own of the consumer's recovery.
+3 5. On execution of a litigation financing contract, a litigation financer may not amend the
+4 terms or conditions of the litigation financing contract without full disclosure to and the
+5 prior written consent of all parties to the litigation financing contract.
+6 6. A litigation financing contract must set forth the name, physical street address, and
+7 mailing address of the litigation financer in the litigation financing contract.
+8 7. A litigation financing contract must contain the following disclosures that constitute
+9 material terms and conditions of the litigation financing contract and must be typed in
+10 at least fourteen-point boldface type and be placed clearly and conspicuously
+11 immediately above the consumer's signature line in the litigation financing contract:
+12 IMPORTANT DISCLOSURES -- PLEASE READ CAREFULLY
+13 1. Right to Cancellation: You may cancel this litigation financing contract without
+14 penalty or further obligation within five (5) business days from the date you sign
+15 this contract or the date you receive financing from the litigation financer,
+16 whichever date is later. You may cancel by sending a notice of cancellation to the
+17 litigation financer and returning to the litigation financer any funds received from
+18 the litigation financer at the litigation financer's address set forth in this contract.
+19 2. The maximum amount the litigation financer may receive or recover from any
+20 contingent payment may not exceed twenty-five percent (25%) of the amount of
+21 any judgment, award, settlement, verdict, or other form of monetary relief
+22 obtained in the civil action, claim, or cause of action that is the subject of this
+23 litigation contract.
+24 3. The litigation financer agrees that it has no right to, and will not demand, request,
+25 receive, or exercise any right to, influence, affect, or otherwise make any decision
+26 in the handling, conduct, administration, litigation, settlement, or resolution of
+27 your civil action, claim, or cause of action. All of these rights remain solely with
+28 you and your legal representative.
+29 4. If there is no recovery of any money from your civil action, claim, or cause of
+30 action, or if there is not enough money to satisfy in full the portion assigned to the
+31 litigation financer, you will not owe anything to the litigation financer.
+Page No. 10 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 5. You are entitled to a fully completed contract with no terms or conditions omitted
+2 prior to signing. Before signing this contract, you should read the contract
+3 completely and consult an attorney.
+4 8. If the consumer is represented by a legal representative in the civil action, claim, or
+5 cause of action that is the subject of the litigation financing contract, the consumer
+6 must provide the litigation funding contract to the consumer's legal representative.
+7 Upon receipt, the legal representative shall acknowledge in the contract that the legal
+8 representative and the legal representative's employer and employees have not
+9 received or paid a referral fee or any other consideration from or to the litigation
+10 financer and have no obligation to do so in the future.
+11 Litigation financing contracts - Service .
+12 1. If a party or party's attorney initiates a civil action and is a party to a litigation financing
+13 agreement, the party or party's attorney shall serve a copy of the litigation financing
+14 contract with the complaint.
+15 2. If a party or party's attorney is served with a litigating financing contract, the person
+16 shall serve a copy of any insurance policy relevant to the civil action to the other party
+17 within fourteen days.
+18 3. If either party in a civil action enters a litigation financing agreement after the
+19 commencement of the civil action, the party shall serve a copy of the agreement on
+20 the other party within fourteen days.
+21 Exemptions.
+22 This chapter does not apply to the following:
+23 1. A nonprofit entity that provides litigation financing, directly or indirectly, for the benefit
+24 of the nonprofit or one or more of its members without receiving, in consideration for
+25 the litigation financing:
+26 a. The payment of interest, fees, or other consideration; or
+27 b. Except for in-house counsel of the nonprofit, any right to recovery or payment
+28 from the amount of a judgment, award, settlement, verdict, or other form of
+29 monetary relief obtained in the civil action, claim, or cause of action;
+30 2. A regulated lender that does not receive, in consideration for loaning money to any
+31 person, a right to receive payment from the value of any proceeds or other
+Page No. 11 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 consideration realized from a judgment, award, settlement, verdict, or other form of
+2 monetary relief a person may receive or recover in relation to a civil action, claim, or
+3 cause of action.
+4 Class actions.
+5 1. This chapter applies to any civil action filed or certified as a class action in which
+6 litigation financing is provided.
+7 2. In addition to the disclosure requirements set forth in this chapter, the legal
+8 representative of the putative class shall disclose to all putative class members, any
+9 relationship between the legal representative and the litigation financer.
+10 3. A class member is entitled to receive from the class counsel a true and correct copy of
+11 the litigation financing contract on request.
+12 Regulatory oversight - Rulemaking - Records.
+13 1. The department of financial institutions shall administer and enforce this chapter. The
+14 department may adopt rules reasonably necessary to carry out this chapter, in
+15 accordance with chapter 28 - 32. Any hearing held and any orders issued under this
+16 chapter must be in accordance with chapter 28 - 32. In addition to those powers se t
+17 forth in chapter 28 - 32, the department has additional powers as set forth in this
+18 chapter.
+19 2 Insofar as consistent with the provisions of law, the department of financial institutions
+20 may:
+21 a. Determine the qualifications of all applicants based on financial responsibility,
+22 financial condition, business experience, character, and general fitness which
+23 must reasonably warrant the belief that the applicant's business will be conducted
+24 lawfully and fairly. In determining whether this qualification is met, and for the
+25 purpose of investigating compliance with the chapter, the commissioner may
+26 review and consider the relevant business records and capital adequacy of the
+27 applicant and the competence, experience, integrity, and financial ability of an
+28 individual who is a member, partner, director, officer, or twenty-five percent or
+29 more shareholder of the applicant.
+30 b. Establish codes of ethical conduct for licensees.
+Page No. 12 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 3 Every licensee licensed under this chapter shall keep a record of all sums collected by
+2 the licensee and of litigation financing completed as a result of the licensee's efforts
+3 for six years from the date of last entry. The records of a licensee may be maintained
+4 electronically if the records can be reproduced upon request by the department of
+5 financial institutions and within the required statutory time period provided in this
+6 section. When a licensee ceases operations for any reason, the licensee shall inform
+7 the department of the location of the records. In addition, the licensee shall provide the
+8 name of the individual responsible for maintenance of the records.
+9 4 When it appears to the department of financial institutions either upon complaint or
+10 otherwise, that any person has engaged in, is engaging in, or is about to engage in
+11 any act or practice or transaction prohibited by this chapter, or by any order of the
+12 department issued under this chapter or which is declared to be illegal in this chapter,
+13 the department may:
+14 a. Issue any order that is effective upon issuance, including cease and desist, stop,
+15 and suspension orders, which the department deems necessary or appropriate in
+16 the public interest or for the protection of the public; provided, however, that any
+17 person aggrieved by an order issued under this subsection may request a
+18 hearing before the department if the request is made within ten days after receipt
+19 of the order. The hearing and any appeal of the hearing must be held in
+20 accordance with chapter 28 - 32 .
+21 b. Apply to the district court of Burleigh County, for an injunction restraining the
+22 person and the agents, employees, partners, officers, and directors of the person
+23 from continuing the act, practice, or transaction and for the other relief the facts
+24 may warrant. In any proceeding for an injunction, the department may apply for
+25 and on due showing be entitled to have issued the court's subpoena requiring the
+26 appearance of any defendants and their agents, employees, partners, officers, or
+27 directors, and the production of the documents, books, and records as may
+28 appear necessary for the hearing upon the petition for an injunction. Upon proof
+29 of any of the offenses described in this section, the court may grant the injunction
+30 as the facts may warrant. The court may not require the department to post a
+31 bond.
+Page No. 13 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Investigations, subpoenas, and examination authority.
+2 In addition to any authority allowed under this chapter, the commissioner may conduct
+3 investigations and examinations as follows:
+4 1. The department of financial institutions:
+5 a. May make the public or private investigation or examination within or outside this
+6 state as it deems necessary to determine whether any person has violated or is
+7 about to violate any provision of this chapter or any rule or order, or to aid in the
+8 enforcement of this chapter or in the prescribing of rules and forms under this
+9 chapter. The licensee shall pay an investigation or examination fee and must be
+10 charged by the department of financial institutions at an hourly rate to be set by
+11 the commissioner, sufficient to cover all reasonable expenses of the department
+12 associated with the visitation provided for by this section. Fees must be
+13 deposited in the financial institutions regulatory fund.
+14 b. May require or permit any person to file a statement in writing, under oath, or
+15 otherwise as the department determines, as to all the facts and circumstances
+16 concerning the matter to be investigated or examined.
+17 c. May publish information concerning any violation of this chapter or any rule or
+18 order under the chapter.
+19 2. For the purpose of any investigation, examination, or proceeding under this chapter,
+20 the department of financial institutions may administer oaths and affirmations,
+21 subpoena witnesses, compel the attendance of witnesses, take evidence, and require
+22 the production of any books, papers, correspondence, memoranda, agreements, or
+23 other documents or records the department deems relevant or material to the inquiry.
+24 3. In the case of a failure or refusal to obey a subpoena issued to any person, the district
+25 court, upon application by the department of financial institutions, may issue to the
+26 person an order requiring the person to appear before the department, to produce
+27 documentary evidence if so ordered, or to give evidence touching the matter in
+28 question under investigation or examination. Failure to obey the order of the court may
+29 be punished by the court as a contempt of court.
+30 4. An individual is not excused from attending and testifying or from producing any
+31 document or record before the department of financial institutions, or in obedience to
+Page No. 14 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 the subpoena of the department, or in any proceeding instituted by the department, on
+2 the grounds that the testimony or evidence, documentary or otherwise, required of the
+3 individual may tend to incriminate the individual or subject the individual to a penalty
+4 forfeiture; but no individual may be prosecuted or subjected to any penalty or forfeiture
+5 for or on account of any transaction, matter, or thing concerning which the individual is
+6 compelled, after claiming the privilege against self-incrimination, to testify or produce
+7 evidence, documentary or otherwise, except that the individual testifying is not exempt
+8 from prosecution and punishment for perjury or contempt committed in testifying.
+9 5. For purposes of initial licensing, license renewal, license suspension, license
+10 conditioning, license revocation or termination, or general or specific inquiry or
+11 investigation to determine compliance with this chapter, the commissioner may
+12 access, receive, and use any books, accounts, records, files, documents, information,
+13 or evidence, including:
+14 a. Criminal, civil, and administrative history information, including nonconviction
+15 data;
+16 b. Personal history and experience information, including independent credit reports
+17 obtained from a consumer reporting agency described under the Fair Credit
+18 Reporting Act [15 U.S.C. 1681a]; and
+19 c. Any other documents, information, or evidence the commissioner deems relevant
+20 to the inquiry or investigation regardless of the location, possession, control, or
+21 custody of the documents, information, or evidence.
+22 6. For purposes of investigating violations or complaints arising under this chapter, or for
+23 purposes of examination, the commissioner may review, investigate, or examine any
+24 licensee or person subject to this chapter, as often as necessary in order to carry out
+25 the purposes of this chapter.
+26 7. Each licensee or person subject to this chapter shall make available to the
+27 commissioner upon request the books and records relating to the operations of the
+28 licensee or person subject to this chapter. The commissioner shall have access to the
+29 books and records and interview the officers, principals, mortgage loan originators,
+30 employees, independent contractors, agents, and customers of the licensee or person
+31 subject to this chapter concerning their business.
+Page No. 15 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 8. Each licensee or person subject to this chapter shall make or compile reports or
+2 prepare other information as directed by the commissioner to carry out the purposes of
+3 this section, including:
+4 a. Accounting compilations;
+5 b. Information lists and data concerning litigation financing transactions in a format
+6 prescribed by the commissioner; or
+7 c. Any other information deemed necessary to carry out the purposes of this
+8 section.
+9 9. In making any investigation or examination authorized by this chapter, the
+10 commissioner may control access to any documents and records of the licensee or
+11 person under investigation or examination. The commissioner may take possession of
+12 the documents and records or place a person in exclusive charge of the documents
+13 and records in the place in which the records are usually kept. During the period of
+14 control, an individual may not remove or attempt to remove any of the documents and
+15 records except pursuant to a court order or with the consent of the commissioner.
+16 Unless the commissioner has reasonable grounds to believe the documents or
+17 records of the licensee have been, or are at risk of being altered or destroyed for
+18 purposes of concealing a violation of this chapter, the licensee or owner of the
+19 documents and records may have access to the documents or records as necessary
+20 to conduct its ordinary business affairs.
+21 10. To carry out the purposes of this section, the commissioner may:
+22 a. Retain accountants or other professionals and specialists as examiners, auditors,
+23 or investigators to conduct or assist in the conduct of examinations or
+24 investigations;
+25 b. Enter agreements or relationships with other government officials or regulatory
+26 associations to improve efficiencies and reduce regulatory burden by sharing
+27 resources, standardized or uniform methods or procedures, and documents,
+28 records, information, or evidence obtained under this section;
+29 c. Use, hire, contract, or employ publicly or privately available analytical systems,
+30 methods, or software to examine or investigate the licensee, individual, or person
+31 subject to this chapter;
+Page No. 16 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 d. Accept and rely on examination or investigation reports made by other
+2 government officials, within or without this state; and
+3 e. Accept audit reports made by an independent certified public accountant for the
+4 licensee or person subject to this chapter in the course of that part of the
+5 examination covering the same general subject matter as the audit and may
+6 incorporate the audit report in the report of the examination, report of
+7 investigation, or other writing of the commissioner.
+8 11. The authority of this section remains in effect, whether a licensee or person subject to
+9 this chapter acts or claims to act under any licensing or registration law of this state or
+10 claims to act without the authority.
+11 12. A licensee or person subject to investigation or examination under this section may not
+12 knowingly withhold, abstract, remove, mutilate, destroy, or secrete any books, records,
+13 computer records, or other information.
+14 Act violation - Unenforceable contract.
+15 Any violation of this chapter by the litigation financer renders the litigation financing contract
+16 unenforceable by the litigation financer or any successor-in-interest to the litigation financing
+17 contract.
+18 Penalty.
+19 1. Any person violating any provision of this chapter or any rule or order of the
+20 department of financial institutions made under this chapter or who engages in any
+21 act, practice, or transaction declared by any provision of this chapter to be unlawful is
+22 guilty of a class C felony.
+23 2. The commissioner may impose a civil money penalty not to exceed one hundred
+24 thousand dollars for each occurrence and one thousand dollars per day for each day
+25 the violation continues after issuance of the order against any person who violates a
+26 law, rule, written agreement, or order under this chapter.
+27 3. An interested party may appeal the assessment of a civil money penalty under the
+28 provisions of chapter 28 - 32 by filing a written notice of appeal within twenty days after
+29 service of the assessment of civil money penalties.
+30 4. A civil money penalty collected under this section must be paid to the department of
+31 financial institutions and deposited in the financial institution's regulatory fund.
+Page No. 17 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Confidentiality.
+2 1. Except as otherwise provided in Public Law 110 - 289, section 1512, the requirements
+3 under any federal law, chapter 44 - 04, or section 6 - 01 - 07.1, regarding the privacy or
+4 confidentiality of any information or material provided to the nationwide multistate
+5 licensing system and registry, and any privilege arising under federal or state law,
+6 including the rules of any federal or state court, with respect to the information or
+7 material, continue to apply to the information or material after the information or
+8 material has been disclosed to the nationwide multistate licensing system and registry.
+9 Any information and material may be shared with all state and federal regulatory
+10 officials with mortgage industry oversight authority without the loss of privilege or the
+11 loss of confidentiality protections provided by federal law, chapter 44 - 04, or section
+12 6 - 01 - 07.1 .
+13 2. For these purposes, the commissioner may enter agreements or sharing
+14 arrangements with other governmental agencies, the conference of state bank
+15 supervisors, the American association of residential mortgage regulators, or other
+16 associations representing governmental agencies.
+17 3. Information or material that is subject to a privilege or confidentiality under
+18 subsection 1 is not subject to :
+19 a. Disclosure under any federal or state law governing the disclosure to the public of
+20 information held by an officer or an agency of the federal government or the
+21 respective state; or
+22 b. Subpoena or discovery, or admission into evidence, in any administrative
+23 process, unless with respect to any privilege held by the nationwide multistate
+24 licensing system and registry with respect to the information or material, the
+25 person to whom the information or material pertains waives, in whole or in part, in
+26 that privilege.
+27 4. The commissioner shall take all necessary steps, under any applicable law or rule, to
+28 protect the disclosure of information or material subject to a privilege or confidentiality
+29 under subsection 1. Records subject to a privilege or confidentiality under
+30 subsection 1 may be required to be disclosed only pursuant to an order of the court .
+Page No. 18 25.0389.03000
+
+Sixty-ninth
+Legislative Assembly
+1 The court ordering the disclosure shall issue a protective order to protect the
+2 confidential nature of the records.
+3 5. Application of chapter 44 - 04 or section 6 - 01 - 07.1, relating to the disclosure o f
+4 confidential supervisory information or any information or material described in
+5 subsection 1 which is inconsistent with subsection 1, is superseded by the
+6 requirements of this section.
+7 6. Except for provisions of chapter 6 - 08.1 that are inconsistent with this chapter, chapter
+8 6 - 08.1 applies to all money brokers licensed under this chapter .
+9 SECTION 2. APPLICATION. This Act applies to any civil action commenced after the
+10 effective date of this Act.
+Page No. 19 25.0389.03000
+
+[DELETED: .".".".".A.A.".O.O.T12]
+[DELETED: .T)P)D.".".".A.A. .a.")T)G22]
+[DELETED: .T.".".A)A)A.A.A.A.A32]
+[DELETED: .I.T.T.T.A.T.A.A.T.A.A.T.T.T.A42]
+[DELETED: .E.W.I.A.M.I.L.L.T.I.T52]
+[DELETED: .T.T.T.A.T.T. .I.I62]
+[DELETED: .A.T.T)V)E)P.T. .I.A72]
+[DELETED: .W.A.A.R.A.R.F.A.O.A82]
+[DELETED: .R.D.K.A.A.T.T.T92]
+[DELETED: .T.O.A.A.R.T.T.I02]
+[DELETED: .Y.I.I.I.I.A.T.E.A12]
+[DELETED: .T.I.A.TI.D.E22]
+[DELETED: EW.I.A32]
+[DELETED: .T.M.M.M.F.I.A42]
+[DELETED: .F.C.P.A.F.E52]
+[DELETED: .E.A.I.A.I.T.R.E.U62]
+[DELETED: .A.A.T.A.A.T.A.A72]
+[DELETED: . .F.I.D.S.T82]
+[DELETED: . . 92]

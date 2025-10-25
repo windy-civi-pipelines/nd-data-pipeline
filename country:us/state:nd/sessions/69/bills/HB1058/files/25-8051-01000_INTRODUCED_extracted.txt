@@ -1,0 +1,286 @@
+Title: HOUSE BILL NO. 1058
+Official Title: HOUSE BILL NO. 1058
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25.8051.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Energy and Natural Resources Committee
+(At the request of the Department of Environmental Quality)
+1 A BILL for an Act to create and enact a new chapter to title 23.1 of the North Dakota Century
+2 Code, relating to the regulation of aboveground storage tanks; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 23.1 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 For purposes of this chapter:
+8 1. "Aboveground storage tank" means any one or a combination of aboveground
+9 containers, vessels, or enclosures, including associated piping or appurtenances used
+10 to store an accumulation of refined petroleum products that is not an underground
+11 storage tank as defined in chapter 23.1 - 04. The term does not include a :
+12 a. Farm or residential tank used for storing motor fuel for noncommercial purposes.
+13 b. Tank used for storing heating oil for consumptive use on the premises where
+14 stored.
+15 c. Septic tank.
+16 d. A pipeline facility, including gathering lines, regulated under:
+17 (1) The Natural Gas Pipeline Safety Act of 1968 [Pub. L. 90-481].
+18 (2) The Hazardous Liquid Pipeline Safety Act of 1979 [Pub. L. 96-129,
+19 49 U.S.C. 60101 et seq.] .
+20 (3) An interstate pipeline facility regulated under state laws comparable to the
+21 provisions of law in paragraph 1 or 2.
+22 e. Surface impoundment, pit, pond, or lagoon.
+23 f. Storm water or wastewater collection system.
+24 g. Flow-through process tank.
+Page No. 1 25.8051.01000
+Sixty-ninth
+Legislative Assembly
+1 h. Liquid trap or associated gathering lines directly related to oil or gas production
+2 and gathering operations.
+3 2. "Department" means the department of environmental quality.
+4 3. "Disposal" means the discharge, deposit, injection, dumping, spilling, leaking, or
+5 placing of any solid waste or hazardous waste into or on any land or water so the solid
+6 waste or hazardous waste or any hazardous constituent of the waste may enter the
+7 environment or be emitted into the air or discharged into any waters, including ground
+8 water.
+9 4. "Facility" means all contiguous land and structures, other appurtenances, and
+10 improvements on the land used for storing a regulated substance. A facility may
+11 consist of several contiguous storage or operational units.
+12 5. "Operator" means a person in control of, or having responsibility for, the daily
+13 operation of an aboveground storage tank.
+14 6. "Owner" means a person who holds title to, controls, or possesses an interest in the
+15 aboveground storage tank.
+16 7. "Refined petroleum products" means gasoline, kerosene, heating oils, diesel fuels,
+17 and other compounds as defined by the department.
+18 8. "Release" means any spilling, leaking, emitting, discharging, escaping, leaching, or
+19 disposing from an aboveground storage tank into the environment, including ground
+20 water, surface water, or subsurface soils.
+21 Powers and duties of the department.
+22 The department shall:
+23 1. Administer and enforce this chapter.
+24 2. Administer aboveground storage tank programs under this chapter.
+25 3. Adopt, modify, repeal, and enforce rules governing the aboveground storage tanks.
+26 4. Enter agreements with other local, state, or federal agencies regarding responsibilities
+27 for regulating aboveground storage tanks to promote consistency in enforcement and
+28 avoid duplication in regulation.
+29 Aboveground storage tank regulations.
+30 The department shall adopt rules:
+Page No. 2 25.8051.01000
+Sixty-ninth
+Legislative Assembly
+1 1. For maintaining a leak detection method or combination of methods designed to
+2 identify releases in a manner consistent with the protection of human health and the
+3 environment.
+4 2. For maintaining records of any monitoring of a leak detection system, inventory control
+5 system, or tank testing system.
+6 3. For reporting of any releases and corrective action taken in response to a release from
+7 an aboveground storage tank.
+8 4. For taking corrective action in response to a release from an aboveground storage
+9 tank.
+10 5. For the closure of an aboveground storage tank to prevent a release of regulated
+11 substances into the environment.
+12 6. For designation of an aboveground tank as ineligible for delivery.
+13 7. For maintaining evidence of financial responsibility for taking corrective action and
+14 compensating third parties for bodily injury and property damage caused by sudden
+15 and nonsudden accidental releases arising from operating an aboveground storage
+16 tank.
+17 8. Establishing standards for construction and performance of new aboveground storage
+18 tanks.
+19 9. For notifying the department or designated local agency of the existence of any
+20 operational or nonoperational aboveground storage tank.
+21 10. For a permit fee system to own, install, or operate an aboveground storage tank.
+22 Fees - Deposit in operating fund.
+23 The department by rule may provide for the payment and collection of reasonable fees for
+24 the issuance of permits for registering, licensing, or permitting aboveground storage tanks. The
+25 permit fees must be based on the anticipated cost of filing and processing the application,
+26 taking action on the requested permit, and conducting a monitoring and inspection program to
+27 determine compliance or noncompliance with the permit. Any moneys collected for permit
+28 licensing fees must be deposited in the department operating fund in the state treasury and any
+29 expenditure from the fund is subject to appropriation by the legislative assembly.
+Page No. 3 25.8051.01000
+Sixty-ninth
+Legislative Assembly
+1 Inspections - Right of entry.
+2 To develop or enforce any rule authorized by this chapter or enforce a requirement of this
+3 chapter, any duly authorized representative or employee of the department may, upon
+4 presentation of appropriate credentials, at any reasonable time:
+5 1. Enter any place, facility, or site at which an aboveground storage tank is located.
+6 2. Inspect and obtain samples of any substance the department has reason to believe
+7 may be regulated by this chapter.
+8 3. Inspect and copy any records, reports, information, or test results relating to the
+9 purposes of this chapter.
+10 Imminent hazard.
+11 Upon receipt of information that a release from an aboveground storage tank may present
+12 an imminent and substantial endangerment to health or the environment, the department may
+13 take emergency action as necessary to protect health or the environment.
+14 Enforcement penalties.
+15 1. If the department finds a person is in violation of a permit, rule, standard, or
+16 requirement of this chapter, the department may issue an order requiring the person to
+17 comply with the permit, rule, standard, or requirement, and the department may bring
+18 an action for a civil penalty, including an action for injunctive relief. An action under this
+19 chapter must be brought in the district court for the county in which the violation
+20 occurred or in which the party in violation has the party's residence or principal office.
+21 2. A person that violates a provision of this chapter or any rule, standard, or permit
+22 condition adopted under this chapter is subject to a civil penalty not to exceed twelve
+23 thousand five hundred dollars per day of violation. Each day of noncompliance
+24 constitutes a separate violation for purposes of penalty assessments.
+25 3. A person that knowingly makes a false statement or representation in documentation
+26 required by this chapter is subject to a civil penalty not to exceed twelve thousand five
+27 hundred dollars per violation.
+28 4. An administrative action brought under this chapter must be conducted in accordance
+29 with chapter 28 - 32 .
+Page No. 4 25.8051.01000
+[DELETED: .".F.T.S.A)T)T)A.S.S.F12]
+[DELETED: .L.".".".".".".".A.A.A.E22]
+[DELETED: .F.F.F.F.F.F.F.E.F.F32]
+[DELETED: .E.I.I.I.A.A.A42]
+
+
+================================================================================
+
+Raw Text:
+25.8051.01000
+Sixty-ninth
+HOUSE BILL NO. 1058
+Legislative Assembly
+of North Dakota
+Introduced by
+Energy and Natural Resources Committee
+(At the request of the Department of Environmental Quality)
+1 A BILL for an Act to create and enact a new chapter to title 23.1 of the North Dakota Century
+2 Code, relating to the regulation of aboveground storage tanks; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 23.1 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 For purposes of this chapter:
+8 1. "Aboveground storage tank" means any one or a combination of aboveground
+9 containers, vessels, or enclosures, including associated piping or appurtenances used
+10 to store an accumulation of refined petroleum products that is not an underground
+11 storage tank as defined in chapter 23.1 - 04. The term does not include a :
+12 a. Farm or residential tank used for storing motor fuel for noncommercial purposes.
+13 b. Tank used for storing heating oil for consumptive use on the premises where
+14 stored.
+15 c. Septic tank.
+16 d. A pipeline facility, including gathering lines, regulated under:
+17 (1) The Natural Gas Pipeline Safety Act of 1968 [Pub. L. 90-481].
+18 (2) The Hazardous Liquid Pipeline Safety Act of 1979 [Pub. L. 96-129,
+19 49 U.S.C. 60101 et seq.] .
+20 (3) An interstate pipeline facility regulated under state laws comparable to the
+21 provisions of law in paragraph 1 or 2.
+22 e. Surface impoundment, pit, pond, or lagoon.
+23 f. Storm water or wastewater collection system.
+24 g. Flow-through process tank.
+Page No. 1 25.8051.01000
+
+Sixty-ninth
+Legislative Assembly
+1 h. Liquid trap or associated gathering lines directly related to oil or gas production
+2 and gathering operations.
+3 2. "Department" means the department of environmental quality.
+4 3. "Disposal" means the discharge, deposit, injection, dumping, spilling, leaking, or
+5 placing of any solid waste or hazardous waste into or on any land or water so the solid
+6 waste or hazardous waste or any hazardous constituent of the waste may enter the
+7 environment or be emitted into the air or discharged into any waters, including ground
+8 water.
+9 4. "Facility" means all contiguous land and structures, other appurtenances, and
+10 improvements on the land used for storing a regulated substance. A facility may
+11 consist of several contiguous storage or operational units.
+12 5. "Operator" means a person in control of, or having responsibility for, the daily
+13 operation of an aboveground storage tank.
+14 6. "Owner" means a person who holds title to, controls, or possesses an interest in the
+15 aboveground storage tank.
+16 7. "Refined petroleum products" means gasoline, kerosene, heating oils, diesel fuels,
+17 and other compounds as defined by the department.
+18 8. "Release" means any spilling, leaking, emitting, discharging, escaping, leaching, or
+19 disposing from an aboveground storage tank into the environment, including ground
+20 water, surface water, or subsurface soils.
+21 Powers and duties of the department.
+22 The department shall:
+23 1. Administer and enforce this chapter.
+24 2. Administer aboveground storage tank programs under this chapter.
+25 3. Adopt, modify, repeal, and enforce rules governing the aboveground storage tanks.
+26 4. Enter agreements with other local, state, or federal agencies regarding responsibilities
+27 for regulating aboveground storage tanks to promote consistency in enforcement and
+28 avoid duplication in regulation.
+29 Aboveground storage tank regulations.
+30 The department shall adopt rules:
+Page No. 2 25.8051.01000
+
+Sixty-ninth
+Legislative Assembly
+1 1. For maintaining a leak detection method or combination of methods designed to
+2 identify releases in a manner consistent with the protection of human health and the
+3 environment.
+4 2. For maintaining records of any monitoring of a leak detection system, inventory control
+5 system, or tank testing system.
+6 3. For reporting of any releases and corrective action taken in response to a release from
+7 an aboveground storage tank.
+8 4. For taking corrective action in response to a release from an aboveground storage
+9 tank.
+10 5. For the closure of an aboveground storage tank to prevent a release of regulated
+11 substances into the environment.
+12 6. For designation of an aboveground tank as ineligible for delivery.
+13 7. For maintaining evidence of financial responsibility for taking corrective action and
+14 compensating third parties for bodily injury and property damage caused by sudden
+15 and nonsudden accidental releases arising from operating an aboveground storage
+16 tank.
+17 8. Establishing standards for construction and performance of new aboveground storage
+18 tanks.
+19 9. For notifying the department or designated local agency of the existence of any
+20 operational or nonoperational aboveground storage tank.
+21 10. For a permit fee system to own, install, or operate an aboveground storage tank.
+22 Fees - Deposit in operating fund.
+23 The department by rule may provide for the payment and collection of reasonable fees for
+24 the issuance of permits for registering, licensing, or permitting aboveground storage tanks. The
+25 permit fees must be based on the anticipated cost of filing and processing the application,
+26 taking action on the requested permit, and conducting a monitoring and inspection program to
+27 determine compliance or noncompliance with the permit. Any moneys collected for permit
+28 licensing fees must be deposited in the department operating fund in the state treasury and any
+29 expenditure from the fund is subject to appropriation by the legislative assembly.
+Page No. 3 25.8051.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Inspections - Right of entry.
+2 To develop or enforce any rule authorized by this chapter or enforce a requirement of this
+3 chapter, any duly authorized representative or employee of the department may, upon
+4 presentation of appropriate credentials, at any reasonable time:
+5 1. Enter any place, facility, or site at which an aboveground storage tank is located.
+6 2. Inspect and obtain samples of any substance the department has reason to believe
+7 may be regulated by this chapter.
+8 3. Inspect and copy any records, reports, information, or test results relating to the
+9 purposes of this chapter.
+10 Imminent hazard.
+11 Upon receipt of information that a release from an aboveground storage tank may present
+12 an imminent and substantial endangerment to health or the environment, the department may
+13 take emergency action as necessary to protect health or the environment.
+14 Enforcement penalties.
+15 1. If the department finds a person is in violation of a permit, rule, standard, or
+16 requirement of this chapter, the department may issue an order requiring the person to
+17 comply with the permit, rule, standard, or requirement, and the department may bring
+18 an action for a civil penalty, including an action for injunctive relief. An action under this
+19 chapter must be brought in the district court for the county in which the violation
+20 occurred or in which the party in violation has the party's residence or principal office.
+21 2. A person that violates a provision of this chapter or any rule, standard, or permit
+22 condition adopted under this chapter is subject to a civil penalty not to exceed twelve
+23 thousand five hundred dollars per day of violation. Each day of noncompliance
+24 constitutes a separate violation for purposes of penalty assessments.
+25 3. A person that knowingly makes a false statement or representation in documentation
+26 required by this chapter is subject to a civil penalty not to exceed twelve thousand five
+27 hundred dollars per violation.
+28 4. An administrative action brought under this chapter must be conducted in accordance
+29 with chapter 28 - 32 .
+Page No. 4 25.8051.01000
+
+[DELETED: .".F.T.S.A)T)T)A.S.S.F12]
+[DELETED: .L.".".".".".".".A.A.A.E22]
+[DELETED: .F.F.F.F.F.F.F.E.F.F32]
+[DELETED: .E.I.I.I.A.A.A42]

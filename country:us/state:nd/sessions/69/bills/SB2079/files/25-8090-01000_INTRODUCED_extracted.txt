@@ -1,0 +1,136 @@
+Title: SENATE BILL NO. 2079
+Official Title: SENATE BILL NO. 2079
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.8090.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Human Services Committee
+(At the request of the Department of Health and Human Services)
+1 A BILL for an Act to amend and reenact section 25-01-01 of the North Dakota Century Code,
+2 relating to the definition of a mental health professional.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 25-01-01 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 25-01-01. Definitions.
+7 In this title, unless the context or subject matter otherwise requires:
+8 1. "Licensed physician" means an individual licensed under the laws of this state to
+9 practice medicine and also means a medical officer of the government of the United
+10 States while in this state in the performance of the physician's official duties.
+11 2. "Mentally ill individual" means an individual having a psychiatric or other disease which
+12 substantially impairs the individual's mental health.
+13 3. "North Dakota vision services - school for the blind" means the North Dakota vision
+14 services - school for the blind as maintained under section 25-06-01.
+15 4. "School for the deaf" means the school for the deaf of North Dakota.
+16 5. "State hospital" means the state hospital for the mentally ill.
+17 6. "Superintendent" means the superintendent of the state hospital, of the life skills and
+18 transition center, of North Dakota vision services - school for the blind, or of the school
+19 for the deaf, as the case may be.
+20 7. "Supervising officer" means the commissioner of the department of health and human
+21 services or designee or the superintendent of public instruction, as the case may be.
+22 8. "Tier 1 mental health professional" means a tier 1a or tier 1b mental health
+23 professional.
+Page No. 1 25.8090.01000
+Sixty-ninth
+Legislative Assembly
+1 a. A tier 1a mental health professional is a psychiatrist licensed under chapter 43-17
+2 or a psychologist licensed under chapter 43-32.
+3 b. A tier 1b mental health professional is a licensed physician or a physician
+4 assistant licensed under chapter 43-17 or an advanced practice registered nurse
+5 licensed under chapter 43-12.
+6 9. "Tier 2 mental health professional" means a tier 2a or a tier 2b mental health
+7 professional.
+8 a. A tier 2a mental health professional is an independent clinician who is a licensed
+9 clinical social worker licensed under chapter 43-41, a licensed professional
+10 clinical counselor or licensed professional counselor licensed under chapter
+11 43-47, or a licensed marriage and family therapist licensed under chapter 43-53.
+12 b. A tier 2b mental health professional is an addiction counselor licensed under
+13 chapter 43-45 or a registered nurse licensed under chapter 43-12.
+14 10. "Tier 3 mental health professional" means a licensed associate professional counselor
+15 licensed under chapter 43-47, a licensed master social worker or licensed
+16 baccalaureate social worker licensed under chapter 43-41, a licensed professional
+17 counselor licensed under chapter 43-47, an associate marriage and family therapist
+18 licensed under chapter 43-53, an occupational therapist licensed under chapter 43-40,
+19 a licensed practical nurse licensed under chapter 43-12, a behavior analyst licensed or
+20 registered under chapter 43-32, a vocational rehabilitation counselor practicing under
+21 chapter 50-06.1, a school psychologist, or a human relations counselor.
+22 11. "Tier 4 mental health professional" means a direct care associate or, technician, or
+23 certified peer support specialist.
+Page No. 2 25.8090.01000
+[DELETED: ."."."."."."."."12]
+[DELETED: .A.A.".A.A."."22]
+
+
+================================================================================
+
+Raw Text:
+25.8090.01000
+Sixty-ninth
+SENATE BILL NO. 2079
+Legislative Assembly
+of North Dakota
+Introduced by
+Human Services Committee
+(At the request of the Department of Health and Human Services)
+1 A BILL for an Act to amend and reenact section 25-01-01 of the North Dakota Century Code,
+2 relating to the definition of a mental health professional.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 25-01-01 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 25-01-01. Definitions.
+7 In this title, unless the context or subject matter otherwise requires:
+8 1. "Licensed physician" means an individual licensed under the laws of this state to
+9 practice medicine and also means a medical officer of the government of the United
+10 States while in this state in the performance of the physician's official duties.
+11 2. "Mentally ill individual" means an individual having a psychiatric or other disease which
+12 substantially impairs the individual's mental health.
+13 3. "North Dakota vision services - school for the blind" means the North Dakota vision
+14 services - school for the blind as maintained under section 25-06-01.
+15 4. "School for the deaf" means the school for the deaf of North Dakota.
+16 5. "State hospital" means the state hospital for the mentally ill.
+17 6. "Superintendent" means the superintendent of the state hospital, of the life skills and
+18 transition center, of North Dakota vision services - school for the blind, or of the school
+19 for the deaf, as the case may be.
+20 7. "Supervising officer" means the commissioner of the department of health and human
+21 services or designee or the superintendent of public instruction, as the case may be.
+22 8. "Tier 1 mental health professional" means a tier 1a or tier 1b mental health
+23 professional.
+Page No. 1 25.8090.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. A tier 1a mental health professional is a psychiatrist licensed under chapter 43-17
+2 or a psychologist licensed under chapter 43-32.
+3 b. A tier 1b mental health professional is a licensed physician or a physician
+4 assistant licensed under chapter 43-17 or an advanced practice registered nurse
+5 licensed under chapter 43-12.
+6 9. "Tier 2 mental health professional" means a tier 2a or a tier 2b mental health
+7 professional.
+8 a. A tier 2a mental health professional is an independent clinician who is a licensed
+9 clinical social worker licensed under chapter 43-41, a licensed professional
+10 clinical counselor or licensed professional counselor licensed under chapter
+11 43-47, or a licensed marriage and family therapist licensed under chapter 43-53.
+12 b. A tier 2b mental health professional is an addiction counselor licensed under
+13 chapter 43-45 or a registered nurse licensed under chapter 43-12.
+14 10. "Tier 3 mental health professional" means a licensed associate professional counselor
+15 licensed under chapter 43-47, a licensed master social worker or licensed
+16 baccalaureate social worker licensed under chapter 43-41, a licensed professional
+17 counselor licensed under chapter 43-47, an associate marriage and family therapist
+18 licensed under chapter 43-53, an occupational therapist licensed under chapter 43-40,
+19 a licensed practical nurse licensed under chapter 43-12, a behavior analyst licensed or
+20 registered under chapter 43-32, a vocational rehabilitation counselor practicing under
+21 chapter 50-06.1, a school psychologist, or a human relations counselor.
+22 11. "Tier 4 mental health professional" means a direct care associate or, technician, or
+23 certified peer support specialist.
+Page No. 2 25.8090.01000
+
+[DELETED: ."."."."."."."."12]
+[DELETED: .A.A.".A.A."."22]

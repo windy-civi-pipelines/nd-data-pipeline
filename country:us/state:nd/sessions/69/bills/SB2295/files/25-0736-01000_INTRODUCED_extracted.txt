@@ -1,0 +1,562 @@
+Title: SENATE BILL NO. 2295
+Official Title: SENATE BILL NO. 2295
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25.0736.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Walen, Magrum
+Representatives Kasper, Koppelman
+1 A BILL for an Act to create and enact a new section to chapter 15.1-27 of the North Dakota
+2 Century Code, relating to state education funding for all students in the state; to amend and
+3 reenact sections 15.1-27-02 and 57-15-01.1, subsection 1 of section 57-15-14, section
+4 57-15-14.2, and subdivision c of subsection 1 of section 57-20-07.1 of the North Dakota
+5 Century Code, relating to required reports, school district levy authority, and information
+6 displayed on property tax statements; to repeal sections 15.1-27-04.1, 15.1-27-04.2,
+7 15.1-27-04.3, 15.1-27-15.1, 15.1-27-20.2, and 15.1-29-15 of the North Dakota Century Code,
+8 relating to adjustments to state aid payments and a property tax levy for tuition payments; and
+9 to provide an effective date.
+10 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+11 SECTION 1. AMENDMENT. Section 15.1-27-02 of the North Dakota Century Code is
+12 amended and reenacted as follows:
+13 15.1-27-02. Per student payments - Required reports.
+14 1. The superintendent of public instruction may not forward state aid payments to a
+15 school district beyond the September payment unless the district has filed the
+16 September tenth fall enrollment report with the superintendent.
+17 2. The superintendent of public instruction may not forward state aid payments to a
+18 school district beyond the October payment unless the district has filed the following
+19 with the superintendent:
+20 a. The June thirtieth student membership and attendance report;
+21 b. An annual school district financial report; and
+22 c. The personnel report forms for licensed and nonlicensed employees.
+23 3. On or before December fifteenth, each school district shall file with the superintendent
+24 of public instruction the taxable valuation and mill levy certifications. If a district fails to
+Page No. 1 25.0736.01000
+Sixty-ninth
+Legislative Assembly
+1 file the taxable valuation and mill levy certifications by the required date, the
+2 superintendent of public instruction may not forward to the district any state aid
+3 payments to which the district is entitled, until the taxable valuation and mill levy
+4 certifications are filed.
+5 SECTION 2. A new section to chapter 15.1-27 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 State aid payments for public schools, nonpublic schools, and students receiving
+8 home education.
+9 1. As used in this section:
+10 a. "Cost per student" means the statewide average educational cost per
+11 kindergarten through grade twelve student for the previous school year.
+12 b. "Registered student" means a kindergarten through grade twelve student who
+13 has registered with the student's school district of residence to receive state aid.
+14 c. "Student" means a student or the parent or legal guardian of the student as
+15 applicable.
+16 2. A student who receives home education in the state or who is enrolled in a nonpublic
+17 school in the state shall register with the student's school district of residence in the
+18 manner prescribed by the superintendent of public instruction if the student wishes to
+19 receive state aid for the education of the student.
+20 3. The superintendent of public instruction shall determine the amount of state aid
+21 payable to each school district by multiplying the cost per student by the sum of:
+22 a. The weighted average daily membership for the school district; and
+23 b. The number of registered students who receive home education under chapter
+24 15.1 - 23, or are enrolled at an approved nonpublic school under section
+25 15.1 - 06 - 06.1 .
+26 4. To provide state aid to a registered student, a school district shall forward:
+27 a. To a nonpublic school in the state, seventy-five percent of the cost per student.
+28 b. To the parent or guardian of a student receiving home education in the state, fifty
+29 percent of the cost per student.
+30 SECTION 3. AMENDMENT. Section 57-15-01.1 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 2 25.0736.01000
+Sixty-ninth
+Legislative Assembly
+1 57-15-01.1. Protection of taxpayers and taxing districts.
+2 Each taxing district may levy the lesser of the amount in dollars as certified in the budget of
+3 the governing body, or the amount in dollars as allowed in this section, subject to the following:
+4 1. No taxing district may levy more taxes expressed in dollars than the amounts allowed
+5 by this section.
+6 2. For purposes of this section:
+7 a. "Base year" means the taxing district's taxable year with the highest amount
+8 levied in dollars in property taxes of the three taxable years immediately
+9 preceding the budget year;.
+10 b. "Budget year" means the taxing district's year for which the levy is being
+11 determined under this section;.
+12 c. "Calculated mill rate" means the mill rate that results from dividing the base year
+13 taxes levied by the sum of the taxable value of the taxable property in the base
+14 year plus the taxable value of the property exempt by local discretion or
+15 charitable status, calculated in the same manner as the taxable property; and.
+16 d. "Property exempt by local discretion or charitable status" means property
+17 exempted from taxation as new or expanding businesses under chapter 40-57.1;
+18 improvements to property under chapter 57-02.2; or buildings belonging to
+19 institutions of public charity, new single-family residential or townhouse or
+20 condominium property, property used for early childhood services, or pollution
+21 abatement improvements under section 57-02-08.
+22 e. "Taxing district" means any political subdivision, other than a school district,
+23 empowered by law to levy taxes.
+24 3. A taxing district may elect to levy the amount levied in dollars in the base year. Any
+25 levy under this section must be specifically approved by a resolution approved by the
+26 governing body of the taxing district. Before determining the levy limitation under this
+27 section, the dollar amount levied in the base year must be:
+28 a. Reduced by an amount equal to the sum determined by application of the base
+29 year's calculated mill rate for that taxing district to the final base year taxable
+30 valuation of any taxable property and property exempt by local discretion or
+Page No. 3 25.0736.01000
+Sixty-ninth
+Legislative Assembly
+1 charitable status which is not included in the taxing district for the budget year but
+2 was included in the taxing district for the base year.
+3 b. Increased by an amount equal to the sum determined by the application of the
+4 base year's calculated mill rate for that taxing district to the final budget year
+5 taxable valuation of any taxable property or property exempt by local discretion or
+6 charitable status which was not included in the taxing district for the base year
+7 but which is included in the taxing district for the budget year.
+8 c. Reduced to reflect expired temporary mill levy increases authorized by the
+9 electors of the taxing district. For purposes of this subdivision, an expired
+10 temporary mill levy increase does not include a school district general fund mill
+11 rate exceeding one hundred ten mills which has expired or has not received
+12 approval of electors for an extension under subsection 2 of section 57-64-03.
+13 d. Reduced by the amount of state aid under chapter 15.1-27, which is determined
+14 by multiplying the budget year taxable valuation of the school district by the
+15 lesser of the base year mill rate of the school district minus sixty mills or fifty
+16 mills, if the base year is a taxable year before 2013.
+17 4. In addition to any other levy limitation factor under this section, a taxing district may
+18 increase its levy in dollars to reflect new or increased mill levies authorized by the
+19 legislative assembly or authorized by the electors of the taxing district.
+20 5. Under this section a taxing district may supersede any applicable mill levy limitations
+21 otherwise provided by law, or a taxing district may levy up to the mill levy limitations
+22 otherwise provided by law without reference to this section, but the provisions of this
+23 section do not apply to the following:
+24 a. Any irrepealable tax to pay bonded indebtedness levied pursuant to section 16 of
+25 article X of the Constitution of North Dakota.
+26 b. The one-mill levy for the state medical center authorized by section 10 of article X
+27 of the Constitution of North Dakota.
+28 6. A school district choosing to determine its levy authority under this section may apply
+29 subsection 3 only to the amount in dollars levied for general fund purposes under
+30 section 57-15-14 or, if the levy in the base year included separate general fund and
+31 special fund levies under sections 57-15-14 and 57-15-14.2, the school district may
+Page No. 4 25.0736.01000
+Sixty-ninth
+Legislative Assembly
+1 apply subsection 3 to the total amount levied in dollars in the base year for both the
+2 general fund and special fund accounts. School district levies under any section other
+3 than section 57-15-14 may be made within applicable limitations but those levies are
+4 not subject to subsection 3.
+5 7. Optional levies under this section may be used by any city or county that has adopted
+6 a home rule charter unless the provisions of the charter supersede state laws related
+7 to property tax levy limitations.
+8 SECTION 4. AMENDMENT. Subsection 1 of section 57-15-14 of the North Dakota Century
+9 Code is amended and reenacted as follows:
+10 1. Unless authorized by the electors of the school district in accordance with this section,
+11 a school district may not impose greater levies than those permitted under section
+12 57-15-14.2.
+13 a. In any school district having a total population in excess of four thousand
+14 according to the last federal decennial census there may be levied any specific
+15 number of mills that upon resolution of the school board has been submitted to
+16 and approved by a majority of the qualified electors voting upon the question at
+17 any regular or special school district election.
+18 b. In any school district having a total population of fewer than four thousand, there
+19 may be levied any specific number of mills that upon resolution of the school
+20 board has been approved by fifty-five percent of the qualified electors voting
+21 upon the question at any regular or special school election.
+22 c. After June 30, 2009, in any school district election for approval by electors of
+23 increased levy authority under subsection 1 or 2, the ballot must specify the
+24 number of mills proposed for approval, and the number of taxable years for which
+25 that approval is to apply. After June 30, 2009, approval by electors of increased
+26 levy authority under subsection 1 or 2 may not be effective for more than ten
+27 taxable years.
+28 d. The authority for a levy of up to a specific number of mills under this section
+29 approved by electors of a school district before July 1, 2009, is terminated
+30 effective for taxable years after 2015. If the electors of a school district subject to
+31 this subsection have not approved a levy for taxable years after 2015 of up to a
+Page No. 5 25.0736.01000
+Sixty-ninth
+Legislative Assembly
+1 specific number of mills under this section by December 31, 2015, the school
+2 district levy limitation for subsequent years is subject to the limitations under
+3 section 57-15-01.1 or this section.
+4 e. For taxable years beginning after 2012:
+5 (1) The authority for a levy of up to a specific number of mills, approved by
+6 electors of a school district for any period of time that includes a taxable
+7 year before 2009, must be reduced by one hundred fifteen mills as a
+8 precondition of receiving state aid in accordance with chapter 15.1-27.
+9 (2) The authority for a levy of up to a specific number of mills, approved by
+10 electors of a school district for any period of time that does not include a
+11 taxable year before 2009, must be reduced by forty mills as a precondition
+12 of receiving state aid in accordance with chapter 15.1-27.
+13 (3) The authority for a levy of up to a specific number of mills, placed on the
+14 ballot in a school district election for electoral approval of increased levy
+15 authority under subdivision a or b, after June 30, 20132024, must be stated
+16 as a specific number of mills of general fund levy authority and must include
+17 a statement thatincluding the specific statutory school district general fund
+18 levy limitation is seventy mills on the dollar of the taxable valuation of the
+19 school district authority under section 57 - 15 - 14.2 that is proposed to be
+20 increased under this section.
+21 f. The authority for an unlimited levy approved by electors of a school district before
+22 July 1, 2009, is terminated effective for taxable years after 2015. If the electors of
+23 a school district subject to this subsection have not approved a levy of up to a
+24 specific number of mills under this section by December 31, 2015, the school
+25 district levy limitation for subsequent years is subject to the limitations under
+26 section 57-15-01.1 or this section.
+27 SECTION 5. AMENDMENT. Section 57-15-14.2 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+29 57-15-14.2. School district levies.
+30 1. The board of a school district may levy a tax not exceeding the amount in dollars that
+31 the school district levied for the prior year, plus twelve percent, up to a levy of seventy
+Page No. 6 25.0736.01000
+Sixty-ninth
+Legislative Assembly
+1 mills on the taxable valuation of the district, for any purpose related to the provision of
+2 educational services. The proceeds of this levy must be deposited into the school
+3 district's general fund and used in accordance with this subsection. The proceeds may
+4 not be transferred into any other fund.
+5 2. The board of a school district may levy no more than twelve mills on the taxable
+6 valuation of the district, for miscellaneous purposes and expenses. The proceeds of
+7 this levy must be deposited into a special fund known as the miscellaneous fund and
+8 used in accordance with this subsection. The proceeds may not be transferred into
+9 any other fund.
+10 3. The board of a school district may levy no more than three mills on the taxable
+11 valuation of the district for deposit into a special reserve fund, in accordance with
+12 chapter 57-19.
+13 4. The board of a school district may levy no more than the number of mills necessary,
+14 on the taxable valuation of the district, for the payment of tuition, in accordance with
+15 section 15.1-29-15. The proceeds of this levy must be deposited into a special fund
+16 known as the tuition fund and used in accordance with this subsection. The proceeds
+17 may not be transferred into any other fund.
+18 5.2. The board of a school district may levy no more than five mills on the taxable valuation
+19 of the district, pursuant to section 57-15-15.1, for purposes of developing a school
+20 safety plan in accordance with section 15.1-09-60. The proceeds of this levy must be
+21 deposited into a special fund known as the school safety plan fund and used in
+22 accordance with this subsection.
+23 6.3. Nothing in this section limits the board of a school district from levying:
+24 a. Mills for a building fund, as permitted in sections 15.1-09-49 and 57-15-16; and
+25 b. Mills necessary to pay principal and interest on the bonded debt of the district,
+26 including the mills necessary to pay principal and interest on any bonded debt
+27 incurred under section 57-15-17.1 before July 1, 2013.
+28 SECTION 6. AMENDMENT. Subdivision c of subsection 1 of section 57-20-07.1 of the
+29 North Dakota Century Code is amended and reenacted as follows:
+30 c. Provide information identifying the property tax savings provided by the state of
+31 North Dakota. The tax statement must include a line item that is entitled
+Page No. 7 25.0736.01000
+Sixty-ninth
+Legislative Assembly
+1 "legislative tax relief" and identifies the dollar amount of property tax savings
+2 realized by the taxpayer under chapter 50-34 for taxable years before 2019,
+3 chapter 50-35 for taxable years after 2018, and chapter 15.1-27.
+4 (1) For purposes of this subdivision, legislative tax relief under chapter 15.1-27
+5 is determined by multiplying the taxable value for the taxable year for each
+6 parcel shown on the tax statement by the number of mills of mill levy
+7 reduction grant under chapter 57-64 for the 2012 taxable year plus the
+8 number of mills determined by subtracting from the 2012 taxable year mill
+9 rate of the school district in which the parcel is located the lesser of one
+10 hundred eighty - five mills or the sum o f:
+11 (a) Fifty millsThe number of mills of mill levy reduction grant under
+12 chapter 57 - 64 for the 2012 taxable year ; orand
+13 (b) The 2012 taxable year mill rate of the school district minus sixty mills.
+14 (2) Legislative tax relief under chapter 50-35 is determined by multiplying the
+15 taxable value for the taxable year for each parcel shown on the tax
+16 statement by the number of mills of relief determined by dividing the amount
+17 calculated in subsection 1 of section 50-35-03 for a human service zone by
+18 the taxable value of taxable property in the zone for the taxable year.
+19 SECTION 7. REPEAL. Sections 15.1-27-04.1, 15.1-27-04.2, 15.1-27-04.3, 15.1-27-15.1,
+20 and 15.1-27-20.2 of the North Dakota Century Code are repealed.
+21 SECTION 8. REPEAL. Section 15.1-29-15 of the North Dakota Century Code is repealed.
+22 SECTION 9. EFFECTIVE DATE. Sections 3, 4, 5, and 8 of this Act are effective for taxable
+23 years beginning after December 31, 2024.
+Page No. 8 25.0736.01000
+[DELETED: .T.T.T.A.T.O12]
+[DELETED: .A.".".".A.T.T.T.T.T.T22]
+[DELETED: .N.F.".".".".".A.R32]
+[DELETED: .I.R.R.I.U.A.T.A42]
+[DELETED: .O.U.I.I.A.T52]
+[DELETED: .F)T)T)T.T.T62]
+[DELETED: .T.T.T.T.N.M.M.P72]
+[DELETED: )F)F)T)L82]
+
+
+================================================================================
+
+Raw Text:
+25.0736.01000
+Sixty-ninth
+SENATE BILL NO. 2295
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Walen, Magrum
+Representatives Kasper, Koppelman
+1 A BILL for an Act to create and enact a new section to chapter 15.1-27 of the North Dakota
+2 Century Code, relating to state education funding for all students in the state; to amend and
+3 reenact sections 15.1-27-02 and 57-15-01.1, subsection 1 of section 57-15-14, section
+4 57-15-14.2, and subdivision c of subsection 1 of section 57-20-07.1 of the North Dakota
+5 Century Code, relating to required reports, school district levy authority, and information
+6 displayed on property tax statements; to repeal sections 15.1-27-04.1, 15.1-27-04.2,
+7 15.1-27-04.3, 15.1-27-15.1, 15.1-27-20.2, and 15.1-29-15 of the North Dakota Century Code,
+8 relating to adjustments to state aid payments and a property tax levy for tuition payments; and
+9 to provide an effective date.
+10 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+11 SECTION 1. AMENDMENT. Section 15.1-27-02 of the North Dakota Century Code is
+12 amended and reenacted as follows:
+13 15.1-27-02. Per student payments - Required reports.
+14 1. The superintendent of public instruction may not forward state aid payments to a
+15 school district beyond the September payment unless the district has filed the
+16 September tenth fall enrollment report with the superintendent.
+17 2. The superintendent of public instruction may not forward state aid payments to a
+18 school district beyond the October payment unless the district has filed the following
+19 with the superintendent:
+20 a. The June thirtieth student membership and attendance report;
+21 b. An annual school district financial report; and
+22 c. The personnel report forms for licensed and nonlicensed employees.
+23 3. On or before December fifteenth, each school district shall file with the superintendent
+24 of public instruction the taxable valuation and mill levy certifications. If a district fails to
+Page No. 1 25.0736.01000
+
+Sixty-ninth
+Legislative Assembly
+1 file the taxable valuation and mill levy certifications by the required date, the
+2 superintendent of public instruction may not forward to the district any state aid
+3 payments to which the district is entitled, until the taxable valuation and mill levy
+4 certifications are filed.
+5 SECTION 2. A new section to chapter 15.1-27 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 State aid payments for public schools, nonpublic schools, and students receiving
+8 home education.
+9 1. As used in this section:
+10 a. "Cost per student" means the statewide average educational cost per
+11 kindergarten through grade twelve student for the previous school year.
+12 b. "Registered student" means a kindergarten through grade twelve student who
+13 has registered with the student's school district of residence to receive state aid.
+14 c. "Student" means a student or the parent or legal guardian of the student as
+15 applicable.
+16 2. A student who receives home education in the state or who is enrolled in a nonpublic
+17 school in the state shall register with the student's school district of residence in the
+18 manner prescribed by the superintendent of public instruction if the student wishes to
+19 receive state aid for the education of the student.
+20 3. The superintendent of public instruction shall determine the amount of state aid
+21 payable to each school district by multiplying the cost per student by the sum of:
+22 a. The weighted average daily membership for the school district; and
+23 b. The number of registered students who receive home education under chapter
+24 15.1 - 23, or are enrolled at an approved nonpublic school under section
+25 15.1 - 06 - 06.1 .
+26 4. To provide state aid to a registered student, a school district shall forward:
+27 a. To a nonpublic school in the state, seventy-five percent of the cost per student.
+28 b. To the parent or guardian of a student receiving home education in the state, fifty
+29 percent of the cost per student.
+30 SECTION 3. AMENDMENT. Section 57-15-01.1 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 2 25.0736.01000
+
+Sixty-ninth
+Legislative Assembly
+1 57-15-01.1. Protection of taxpayers and taxing districts.
+2 Each taxing district may levy the lesser of the amount in dollars as certified in the budget of
+3 the governing body, or the amount in dollars as allowed in this section, subject to the following:
+4 1. No taxing district may levy more taxes expressed in dollars than the amounts allowed
+5 by this section.
+6 2. For purposes of this section:
+7 a. "Base year" means the taxing district's taxable year with the highest amount
+8 levied in dollars in property taxes of the three taxable years immediately
+9 preceding the budget year;.
+10 b. "Budget year" means the taxing district's year for which the levy is being
+11 determined under this section;.
+12 c. "Calculated mill rate" means the mill rate that results from dividing the base year
+13 taxes levied by the sum of the taxable value of the taxable property in the base
+14 year plus the taxable value of the property exempt by local discretion or
+15 charitable status, calculated in the same manner as the taxable property; and.
+16 d. "Property exempt by local discretion or charitable status" means property
+17 exempted from taxation as new or expanding businesses under chapter 40-57.1;
+18 improvements to property under chapter 57-02.2; or buildings belonging to
+19 institutions of public charity, new single-family residential or townhouse or
+20 condominium property, property used for early childhood services, or pollution
+21 abatement improvements under section 57-02-08.
+22 e. "Taxing district" means any political subdivision, other than a school district,
+23 empowered by law to levy taxes.
+24 3. A taxing district may elect to levy the amount levied in dollars in the base year. Any
+25 levy under this section must be specifically approved by a resolution approved by the
+26 governing body of the taxing district. Before determining the levy limitation under this
+27 section, the dollar amount levied in the base year must be:
+28 a. Reduced by an amount equal to the sum determined by application of the base
+29 year's calculated mill rate for that taxing district to the final base year taxable
+30 valuation of any taxable property and property exempt by local discretion or
+Page No. 3 25.0736.01000
+
+Sixty-ninth
+Legislative Assembly
+1 charitable status which is not included in the taxing district for the budget year but
+2 was included in the taxing district for the base year.
+3 b. Increased by an amount equal to the sum determined by the application of the
+4 base year's calculated mill rate for that taxing district to the final budget year
+5 taxable valuation of any taxable property or property exempt by local discretion or
+6 charitable status which was not included in the taxing district for the base year
+7 but which is included in the taxing district for the budget year.
+8 c. Reduced to reflect expired temporary mill levy increases authorized by the
+9 electors of the taxing district. For purposes of this subdivision, an expired
+10 temporary mill levy increase does not include a school district general fund mill
+11 rate exceeding one hundred ten mills which has expired or has not received
+12 approval of electors for an extension under subsection 2 of section 57-64-03.
+13 d. Reduced by the amount of state aid under chapter 15.1-27, which is determined
+14 by multiplying the budget year taxable valuation of the school district by the
+15 lesser of the base year mill rate of the school district minus sixty mills or fifty
+16 mills, if the base year is a taxable year before 2013.
+17 4. In addition to any other levy limitation factor under this section, a taxing district may
+18 increase its levy in dollars to reflect new or increased mill levies authorized by the
+19 legislative assembly or authorized by the electors of the taxing district.
+20 5. Under this section a taxing district may supersede any applicable mill levy limitations
+21 otherwise provided by law, or a taxing district may levy up to the mill levy limitations
+22 otherwise provided by law without reference to this section, but the provisions of this
+23 section do not apply to the following:
+24 a. Any irrepealable tax to pay bonded indebtedness levied pursuant to section 16 of
+25 article X of the Constitution of North Dakota.
+26 b. The one-mill levy for the state medical center authorized by section 10 of article X
+27 of the Constitution of North Dakota.
+28 6. A school district choosing to determine its levy authority under this section may apply
+29 subsection 3 only to the amount in dollars levied for general fund purposes under
+30 section 57-15-14 or, if the levy in the base year included separate general fund and
+31 special fund levies under sections 57-15-14 and 57-15-14.2, the school district may
+Page No. 4 25.0736.01000
+
+Sixty-ninth
+Legislative Assembly
+1 apply subsection 3 to the total amount levied in dollars in the base year for both the
+2 general fund and special fund accounts. School district levies under any section other
+3 than section 57-15-14 may be made within applicable limitations but those levies are
+4 not subject to subsection 3.
+5 7. Optional levies under this section may be used by any city or county that has adopted
+6 a home rule charter unless the provisions of the charter supersede state laws related
+7 to property tax levy limitations.
+8 SECTION 4. AMENDMENT. Subsection 1 of section 57-15-14 of the North Dakota Century
+9 Code is amended and reenacted as follows:
+10 1. Unless authorized by the electors of the school district in accordance with this section,
+11 a school district may not impose greater levies than those permitted under section
+12 57-15-14.2.
+13 a. In any school district having a total population in excess of four thousand
+14 according to the last federal decennial census there may be levied any specific
+15 number of mills that upon resolution of the school board has been submitted to
+16 and approved by a majority of the qualified electors voting upon the question at
+17 any regular or special school district election.
+18 b. In any school district having a total population of fewer than four thousand, there
+19 may be levied any specific number of mills that upon resolution of the school
+20 board has been approved by fifty-five percent of the qualified electors voting
+21 upon the question at any regular or special school election.
+22 c. After June 30, 2009, in any school district election for approval by electors of
+23 increased levy authority under subsection 1 or 2, the ballot must specify the
+24 number of mills proposed for approval, and the number of taxable years for which
+25 that approval is to apply. After June 30, 2009, approval by electors of increased
+26 levy authority under subsection 1 or 2 may not be effective for more than ten
+27 taxable years.
+28 d. The authority for a levy of up to a specific number of mills under this section
+29 approved by electors of a school district before July 1, 2009, is terminated
+30 effective for taxable years after 2015. If the electors of a school district subject to
+31 this subsection have not approved a levy for taxable years after 2015 of up to a
+Page No. 5 25.0736.01000
+
+Sixty-ninth
+Legislative Assembly
+1 specific number of mills under this section by December 31, 2015, the school
+2 district levy limitation for subsequent years is subject to the limitations under
+3 section 57-15-01.1 or this section.
+4 e. For taxable years beginning after 2012:
+5 (1) The authority for a levy of up to a specific number of mills, approved by
+6 electors of a school district for any period of time that includes a taxable
+7 year before 2009, must be reduced by one hundred fifteen mills as a
+8 precondition of receiving state aid in accordance with chapter 15.1-27.
+9 (2) The authority for a levy of up to a specific number of mills, approved by
+10 electors of a school district for any period of time that does not include a
+11 taxable year before 2009, must be reduced by forty mills as a precondition
+12 of receiving state aid in accordance with chapter 15.1-27.
+13 (3) The authority for a levy of up to a specific number of mills, placed on the
+14 ballot in a school district election for electoral approval of increased levy
+15 authority under subdivision a or b, after June 30, 20132024, must be stated
+16 as a specific number of mills of general fund levy authority and must include
+17 a statement thatincluding the specific statutory school district general fund
+18 levy limitation is seventy mills on the dollar of the taxable valuation of the
+19 school district authority under section 57 - 15 - 14.2 that is proposed to be
+20 increased under this section.
+21 f. The authority for an unlimited levy approved by electors of a school district before
+22 July 1, 2009, is terminated effective for taxable years after 2015. If the electors of
+23 a school district subject to this subsection have not approved a levy of up to a
+24 specific number of mills under this section by December 31, 2015, the school
+25 district levy limitation for subsequent years is subject to the limitations under
+26 section 57-15-01.1 or this section.
+27 SECTION 5. AMENDMENT. Section 57-15-14.2 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+29 57-15-14.2. School district levies.
+30 1. The board of a school district may levy a tax not exceeding the amount in dollars that
+31 the school district levied for the prior year, plus twelve percent, up to a levy of seventy
+Page No. 6 25.0736.01000
+
+Sixty-ninth
+Legislative Assembly
+1 mills on the taxable valuation of the district, for any purpose related to the provision of
+2 educational services. The proceeds of this levy must be deposited into the school
+3 district's general fund and used in accordance with this subsection. The proceeds may
+4 not be transferred into any other fund.
+5 2. The board of a school district may levy no more than twelve mills on the taxable
+6 valuation of the district, for miscellaneous purposes and expenses. The proceeds of
+7 this levy must be deposited into a special fund known as the miscellaneous fund and
+8 used in accordance with this subsection. The proceeds may not be transferred into
+9 any other fund.
+10 3. The board of a school district may levy no more than three mills on the taxable
+11 valuation of the district for deposit into a special reserve fund, in accordance with
+12 chapter 57-19.
+13 4. The board of a school district may levy no more than the number of mills necessary,
+14 on the taxable valuation of the district, for the payment of tuition, in accordance with
+15 section 15.1-29-15. The proceeds of this levy must be deposited into a special fund
+16 known as the tuition fund and used in accordance with this subsection. The proceeds
+17 may not be transferred into any other fund.
+18 5.2. The board of a school district may levy no more than five mills on the taxable valuation
+19 of the district, pursuant to section 57-15-15.1, for purposes of developing a school
+20 safety plan in accordance with section 15.1-09-60. The proceeds of this levy must be
+21 deposited into a special fund known as the school safety plan fund and used in
+22 accordance with this subsection.
+23 6.3. Nothing in this section limits the board of a school district from levying:
+24 a. Mills for a building fund, as permitted in sections 15.1-09-49 and 57-15-16; and
+25 b. Mills necessary to pay principal and interest on the bonded debt of the district,
+26 including the mills necessary to pay principal and interest on any bonded debt
+27 incurred under section 57-15-17.1 before July 1, 2013.
+28 SECTION 6. AMENDMENT. Subdivision c of subsection 1 of section 57-20-07.1 of the
+29 North Dakota Century Code is amended and reenacted as follows:
+30 c. Provide information identifying the property tax savings provided by the state of
+31 North Dakota. The tax statement must include a line item that is entitled
+Page No. 7 25.0736.01000
+
+Sixty-ninth
+Legislative Assembly
+1 "legislative tax relief" and identifies the dollar amount of property tax savings
+2 realized by the taxpayer under chapter 50-34 for taxable years before 2019,
+3 chapter 50-35 for taxable years after 2018, and chapter 15.1-27.
+4 (1) For purposes of this subdivision, legislative tax relief under chapter 15.1-27
+5 is determined by multiplying the taxable value for the taxable year for each
+6 parcel shown on the tax statement by the number of mills of mill levy
+7 reduction grant under chapter 57-64 for the 2012 taxable year plus the
+8 number of mills determined by subtracting from the 2012 taxable year mill
+9 rate of the school district in which the parcel is located the lesser of one
+10 hundred eighty - five mills or the sum o f:
+11 (a) Fifty millsThe number of mills of mill levy reduction grant under
+12 chapter 57 - 64 for the 2012 taxable year ; orand
+13 (b) The 2012 taxable year mill rate of the school district minus sixty mills.
+14 (2) Legislative tax relief under chapter 50-35 is determined by multiplying the
+15 taxable value for the taxable year for each parcel shown on the tax
+16 statement by the number of mills of relief determined by dividing the amount
+17 calculated in subsection 1 of section 50-35-03 for a human service zone by
+18 the taxable value of taxable property in the zone for the taxable year.
+19 SECTION 7. REPEAL. Sections 15.1-27-04.1, 15.1-27-04.2, 15.1-27-04.3, 15.1-27-15.1,
+20 and 15.1-27-20.2 of the North Dakota Century Code are repealed.
+21 SECTION 8. REPEAL. Section 15.1-29-15 of the North Dakota Century Code is repealed.
+22 SECTION 9. EFFECTIVE DATE. Sections 3, 4, 5, and 8 of this Act are effective for taxable
+23 years beginning after December 31, 2024.
+Page No. 8 25.0736.01000
+
+[DELETED: .T.T.T.A.T.O12]
+[DELETED: .A.".".".A.T.T.T.T.T.T22]
+[DELETED: .N.F.".".".".".A.R32]
+[DELETED: .I.R.R.I.U.A.T.A42]
+[DELETED: .O.U.I.I.A.T52]
+[DELETED: .F)T)T)T.T.T62]
+[DELETED: .T.T.T.T.N.M.M.P72]
+[DELETED: )F)F)T)L82]

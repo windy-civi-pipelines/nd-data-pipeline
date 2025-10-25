@@ -1,0 +1,146 @@
+Title: ENGROSSED HOUSE BILL NO. 1006
+Official Title: ENGROSSED HOUSE BILL NO. 1006
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.0150.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the office of the tax
+2 commissioner and for payment of state reimbursement under the homestead tax credit,
+3 disabled veterans' tax credit, and primary residence credit; to amend and reenact section
+4 57-01-04 of the North Dakota Century Code, relating to the salary of the state tax
+5 commissioner; to provide an exemption; and to provide for a transfer.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+8 as may be necessary, are appropriated out of any moneys in the general fund in the state
+9 treasury, not otherwise appropriated, and from other funds derived from federal funds, to the tax
+10 commissioner for the purpose of defraying the expenses of the tax commissioner and paying
+11 the state reimbursement under the homestead tax credit, disabled veterans' tax credit, and
+12 primary residence credit, for the biennium beginning July 1, 2025, and ending June 30, 2027, as
+13 follows:
+14 Adjustments or
+15 Base Level Enhancements Appropriation
+16 Salaries and wages $24,036,152 $1,650,068 $25,686,220
+17 New and vacant FTE pool 0 1,119,992 1,119,992
+18 Operating expenses 8,613,370 824,741 9,438,111
+19 Capital assets 6,000 0 6,000
+20 Homestead tax credit 72,400,000 (11,800,000) 60,600,000
+21 Disabled veterans' tax credit 18,745,000 10,655,000 29,400,000
+22 Primary residence credit 103,225,000 (103,225,000) 0
+Page No. 1 25.0150.02000
+Sixty-ninth
+Legislative Assembly
+1 Total all funds $227,025,522 ($100,775,199) $126,250,323
+2 Less other funds 125,000 0 125,000
+3 Total general fund $226,900,522 ($100,775,199) $126,125,323
+4 Full-time equivalent positions 117.00 0.00 117.00
+5 SECTION 2. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+6 tax commissioner may not spend funds appropriated in the new and vacant FTE pool line item
+7 in section 1 of this Act, but may request the office of management and budget to transfer funds
+8 from the new and vacant FTE pool line item to the salaries and wages line item in accordance
+9 with the guidelines and reporting provisions included in House Bill No. 1015, as approved by the
+10 sixty-ninth legislative assembly.
+11 SECTION 3. EXEMPTION - LINE ITEM TRANSFERS. Notwithstanding section 54-16-04,
+12 the state tax commissioner may transfer funds between the homestead tax credit and disabled
+13 veterans' tax credit line items in section 1 of this Act if one line item does not have sufficient
+14 funds available for state reimbursement of eligible tax credits. The state tax commissioner shall
+15 notify the office of management and budget and the legislative council of any transfers made
+16 pursuant to this section.
+17 SECTION 4. MOTOR VEHICLE FUEL TAX REVENUE TRANSFER. There is transferred to
+18 the general fund in the state treasury out of motor vehicle tax revenue collected pursuant to
+19 section 57-43.1-02, the sum of $1,761,168, for the purpose of reimbursing the general fund for
+20 expenses incurred in the collection of the motor vehicle fuels and special fuels taxes and the
+21 administration of these taxes, for the biennium beginning July 1, 2025, and ending June 30,
+22 2027.
+23 SECTION 5. AMENDMENT. Section 57-01-04 of the North Dakota Century Code is
+24 amended and reenacted as follows:
+25 57-01-04. Salary.
+26 The annual salary of the state tax commissioner is one hundred thirty-one thousand seven
+27 hundred five one hundred forty - one thousand eighty - two dollars through June 30, 20242026,
+28 and one hundred thirty-six thousand nine hundred seventy-three one hundred forty - five
+29 thousand three hundred fourteen dollars thereafter.
+Page No. 2 25.0150.02000
+[DELETED: lEsAs$2$8$l0121s80819s6006t70()6t10102t10()12]
+[DELETED: s$2()$s1001d$2()$s1000122]
+
+
+================================================================================
+
+Raw Text:
+25.0150.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1006
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the office of the tax
+2 commissioner and for payment of state reimbursement under the homestead tax credit,
+3 disabled veterans' tax credit, and primary residence credit; to amend and reenact section
+4 57-01-04 of the North Dakota Century Code, relating to the salary of the state tax
+5 commissioner; to provide an exemption; and to provide for a transfer.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+8 as may be necessary, are appropriated out of any moneys in the general fund in the state
+9 treasury, not otherwise appropriated, and from other funds derived from federal funds, to the tax
+10 commissioner for the purpose of defraying the expenses of the tax commissioner and paying
+11 the state reimbursement under the homestead tax credit, disabled veterans' tax credit, and
+12 primary residence credit, for the biennium beginning July 1, 2025, and ending June 30, 2027, as
+13 follows:
+14 Adjustments or
+15 Base Level Enhancements Appropriation
+16 Salaries and wages $24,036,152 $1,650,068 $25,686,220
+17 New and vacant FTE pool 0 1,119,992 1,119,992
+18 Operating expenses 8,613,370 824,741 9,438,111
+19 Capital assets 6,000 0 6,000
+20 Homestead tax credit 72,400,000 (11,800,000) 60,600,000
+21 Disabled veterans' tax credit 18,745,000 10,655,000 29,400,000
+22 Primary residence credit 103,225,000 (103,225,000) 0
+Page No. 1 25.0150.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Total all funds $227,025,522 ($100,775,199) $126,250,323
+2 Less other funds 125,000 0 125,000
+3 Total general fund $226,900,522 ($100,775,199) $126,125,323
+4 Full-time equivalent positions 117.00 0.00 117.00
+5 SECTION 2. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+6 tax commissioner may not spend funds appropriated in the new and vacant FTE pool line item
+7 in section 1 of this Act, but may request the office of management and budget to transfer funds
+8 from the new and vacant FTE pool line item to the salaries and wages line item in accordance
+9 with the guidelines and reporting provisions included in House Bill No. 1015, as approved by the
+10 sixty-ninth legislative assembly.
+11 SECTION 3. EXEMPTION - LINE ITEM TRANSFERS. Notwithstanding section 54-16-04,
+12 the state tax commissioner may transfer funds between the homestead tax credit and disabled
+13 veterans' tax credit line items in section 1 of this Act if one line item does not have sufficient
+14 funds available for state reimbursement of eligible tax credits. The state tax commissioner shall
+15 notify the office of management and budget and the legislative council of any transfers made
+16 pursuant to this section.
+17 SECTION 4. MOTOR VEHICLE FUEL TAX REVENUE TRANSFER. There is transferred to
+18 the general fund in the state treasury out of motor vehicle tax revenue collected pursuant to
+19 section 57-43.1-02, the sum of $1,761,168, for the purpose of reimbursing the general fund for
+20 expenses incurred in the collection of the motor vehicle fuels and special fuels taxes and the
+21 administration of these taxes, for the biennium beginning July 1, 2025, and ending June 30,
+22 2027.
+23 SECTION 5. AMENDMENT. Section 57-01-04 of the North Dakota Century Code is
+24 amended and reenacted as follows:
+25 57-01-04. Salary.
+26 The annual salary of the state tax commissioner is one hundred thirty-one thousand seven
+27 hundred five one hundred forty - one thousand eighty - two dollars through June 30, 20242026,
+28 and one hundred thirty-six thousand nine hundred seventy-three one hundred forty - five
+29 thousand three hundred fourteen dollars thereafter.
+Page No. 2 25.0150.02000
+
+[DELETED: lEsAs$2$8$l0121s80819s6006t70()6t10102t10()12]
+[DELETED: s$2()$s1001d$2()$s1000122]

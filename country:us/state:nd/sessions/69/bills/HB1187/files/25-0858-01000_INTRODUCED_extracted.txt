@@ -1,0 +1,207 @@
+Title: HOUSE BILL NO. 1187
+Official Title: HOUSE BILL NO. 1187
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0858.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Louser, Fisher, Klemin, Ostlie, Warrey
+Senators Burckhard, Roers, Sickler, Weber
+1 A BILL for an Act to create and enact a new section to chapter 35-27 of the North Dakota
+2 Century Code, relating to a debris removal lien.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 35-27 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Debris removal lien - Limitations - Notice of insurance proceeds - Release of lien .
+7 1. Notwithstanding any other provision of law, a receipt by an insurance company of a
+8 claim under a fire insurance policy for a total loss to real property creates a lien on the
+9 insurance proceeds payable for the claim in favor of the city in which the property is
+10 located, or if the property is located outside a city, the county in which the property is
+11 located. The amount of the lien under this subsection is the greater of:
+12 a. Five thousand dollars; or
+13 b. Ten percent of the policy limits for loss to the real property, including any
+14 coverage for debris removal.
+15 2. A lien created under this section may not exceed the policy limits of coverage for the
+16 real property plus debris removal. The lien does not apply to proceeds payable under
+17 the policy for any losses other than those to the real property insured, including loss of
+18 personal property and payments for temporary housing and related living expenses.
+19 3. Within ten days of a determination by the insurer that a covered claim constitutes a
+20 total loss, the insurance company shall send a certified letter to the insured and to the
+21 auditor of the city in which the property is located or, if the property is located outside a
+22 city, to the auditor of the county in which the property is located. The letter must state:
+23 a. Any amount claimed;
+24 b. The limits and conditions of coverage;
+Page No. 1 25.0858.01000
+Sixty-ninth
+Legislative Assembly
+1 c. The location of the property;
+2 d. The terms and limits of coverage designated by the insurance policy for securing,
+3 remediation, and debris removal;
+4 e. Any time limitation imposed on the insured for securing or remediating the
+5 property and removing debris; and
+6 f. The policyholder's name and mailing address.
+7 4. The lien must be discharged unless the city or county perfects and preserves the lien
+8 by filing a notice of the lien with the county recorder of the county in which property is
+9 located within thirty days of the receipt of the letter sent under subsection 3. If a city or
+10 a county fails to file a notice under this subsection, the city or county is not precluded
+11 from seeking other remedies provided by law regarding the property or the liability of
+12 the property owner.
+13 5. A notice of lien filed must include the estimated remediation costs.
+14 6. A notice of lien filed under this section must be notarized and contain the following
+15 statement in at least sixteen - point type :
+16 Notice of Lien for Debris Removal
+17 To (name of insurance company):
+18 Take notice that the undersigned, on behalf of the (city or county), North Dakota,
+19 has estimated the cost of removing debris and otherwise remediating (a certain
+20 building or other structure or improvement) on real estate known as (an adequate
+21 and ascertainable description of the real estate) would be (estimated remediation
+22 cost).
+23 You are further notified that, to secure the payment of the amount allowed under
+24 law, the undersigned, on behalf of the (city or county) claims a lien in the amount
+25 upon the interest of (policyholder's name) in a fire insurance policy (the policy
+26 number or other identifying information) issued by (the insurance company's
+27 name and address).
+28 (Signature of city auditor or county auditor).
+29 (Title)
+30 7. Upon the filing of the notice, the county recorder shall index the notice in a system as
+31 a lien against the insurance proceeds in favor of the city or county and shall send a
+Page No. 2 25.0858.01000
+Sixty-ninth
+Legislative Assembly
+1 copy of the notice to the insurer. A property owner subject to a lien under this section
+2 must be given the opportunity to satisfy the claim as provided under subsection 3 .
+3 8. The lien must be released if the:
+4 a. City or county determines the property has been satisfactorily remediated or
+5 repaired;
+6 b. City or county determines satisfactory measures have been taken to assure the
+7 property will be repaired or remediated within a reasonable time; or
+8 c. Insurance company has paid the amount of the lien to the city or county or the
+9 person designated to receive the moneys.
+10 9. If the insurer has paid the amount of the lien to the city or county auditor and the
+11 subsequent cost of remediation is less than that amount, the difference must be
+12 returned to the insurer.
+13 10. Upon the satisfaction of a lien under subsection 9, the city or county auditor shall sign
+14 a release and cause it to be recorded by the county recorder. Upon recordation, the
+15 county recorder shall send a certified copy of the lien release to the insurance
+16 company.
+17 11. If a lien has been paid or otherwise satisfied and the city or county auditor refuses to
+18 release the lien, the insurance company or policyholder may apply to the appropriate
+19 district court for an order compelling the county recorder to record a release. The
+20 prevailing party in an action commenced under this subsection must be awarded the
+21 full amount of costs and attorney's fees incurred by the prevailing party associated
+22 with the action.
+Page No. 3 25.0858.01000
+[DELETED: .N.F.T.A.W.A.T12]
+[DELETED: .T.T.A.T.T.A.A.U22]
+[DELETED: .T.C.C.I.I. .I32]
+
+
+================================================================================
+
+Raw Text:
+25.0858.01000
+Sixty-ninth
+HOUSE BILL NO. 1187
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Louser, Fisher, Klemin, Ostlie, Warrey
+Senators Burckhard, Roers, Sickler, Weber
+1 A BILL for an Act to create and enact a new section to chapter 35-27 of the North Dakota
+2 Century Code, relating to a debris removal lien.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 35-27 of the North Dakota Century Code is created
+5 and enacted as follows:
+6 Debris removal lien - Limitations - Notice of insurance proceeds - Release of lien .
+7 1. Notwithstanding any other provision of law, a receipt by an insurance company of a
+8 claim under a fire insurance policy for a total loss to real property creates a lien on the
+9 insurance proceeds payable for the claim in favor of the city in which the property is
+10 located, or if the property is located outside a city, the county in which the property is
+11 located. The amount of the lien under this subsection is the greater of:
+12 a. Five thousand dollars; or
+13 b. Ten percent of the policy limits for loss to the real property, including any
+14 coverage for debris removal.
+15 2. A lien created under this section may not exceed the policy limits of coverage for the
+16 real property plus debris removal. The lien does not apply to proceeds payable under
+17 the policy for any losses other than those to the real property insured, including loss of
+18 personal property and payments for temporary housing and related living expenses.
+19 3. Within ten days of a determination by the insurer that a covered claim constitutes a
+20 total loss, the insurance company shall send a certified letter to the insured and to the
+21 auditor of the city in which the property is located or, if the property is located outside a
+22 city, to the auditor of the county in which the property is located. The letter must state:
+23 a. Any amount claimed;
+24 b. The limits and conditions of coverage;
+Page No. 1 25.0858.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. The location of the property;
+2 d. The terms and limits of coverage designated by the insurance policy for securing,
+3 remediation, and debris removal;
+4 e. Any time limitation imposed on the insured for securing or remediating the
+5 property and removing debris; and
+6 f. The policyholder's name and mailing address.
+7 4. The lien must be discharged unless the city or county perfects and preserves the lien
+8 by filing a notice of the lien with the county recorder of the county in which property is
+9 located within thirty days of the receipt of the letter sent under subsection 3. If a city or
+10 a county fails to file a notice under this subsection, the city or county is not precluded
+11 from seeking other remedies provided by law regarding the property or the liability of
+12 the property owner.
+13 5. A notice of lien filed must include the estimated remediation costs.
+14 6. A notice of lien filed under this section must be notarized and contain the following
+15 statement in at least sixteen - point type :
+16 Notice of Lien for Debris Removal
+17 To (name of insurance company):
+18 Take notice that the undersigned, on behalf of the (city or county), North Dakota,
+19 has estimated the cost of removing debris and otherwise remediating (a certain
+20 building or other structure or improvement) on real estate known as (an adequate
+21 and ascertainable description of the real estate) would be (estimated remediation
+22 cost).
+23 You are further notified that, to secure the payment of the amount allowed under
+24 law, the undersigned, on behalf of the (city or county) claims a lien in the amount
+25 upon the interest of (policyholder's name) in a fire insurance policy (the policy
+26 number or other identifying information) issued by (the insurance company's
+27 name and address).
+28 (Signature of city auditor or county auditor).
+29 (Title)
+30 7. Upon the filing of the notice, the county recorder shall index the notice in a system as
+31 a lien against the insurance proceeds in favor of the city or county and shall send a
+Page No. 2 25.0858.01000
+
+Sixty-ninth
+Legislative Assembly
+1 copy of the notice to the insurer. A property owner subject to a lien under this section
+2 must be given the opportunity to satisfy the claim as provided under subsection 3 .
+3 8. The lien must be released if the:
+4 a. City or county determines the property has been satisfactorily remediated or
+5 repaired;
+6 b. City or county determines satisfactory measures have been taken to assure the
+7 property will be repaired or remediated within a reasonable time; or
+8 c. Insurance company has paid the amount of the lien to the city or county or the
+9 person designated to receive the moneys.
+10 9. If the insurer has paid the amount of the lien to the city or county auditor and the
+11 subsequent cost of remediation is less than that amount, the difference must be
+12 returned to the insurer.
+13 10. Upon the satisfaction of a lien under subsection 9, the city or county auditor shall sign
+14 a release and cause it to be recorded by the county recorder. Upon recordation, the
+15 county recorder shall send a certified copy of the lien release to the insurance
+16 company.
+17 11. If a lien has been paid or otherwise satisfied and the city or county auditor refuses to
+18 release the lien, the insurance company or policyholder may apply to the appropriate
+19 district court for an order compelling the county recorder to record a release. The
+20 prevailing party in an action commenced under this subsection must be awarded the
+21 full amount of costs and attorney's fees incurred by the prevailing party associated
+22 with the action.
+Page No. 3 25.0858.01000
+
+[DELETED: .N.F.T.A.W.A.T12]
+[DELETED: .T.T.A.T.T.A.A.U22]
+[DELETED: .T.C.C.I.I. .I32]

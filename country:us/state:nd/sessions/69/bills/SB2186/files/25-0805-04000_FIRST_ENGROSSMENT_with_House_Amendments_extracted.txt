@@ -1,0 +1,207 @@
+Title: ENGROSSED SENATE BILL NO. 2186
+Official Title: ENGROSSED SENATE BILL NO. 2186
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with House Amendments
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0805.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+Introduced by
+Senators Clemens, Luick
+Representatives Koppelman, Marschall
+1 A BILL for an Act to create and enact a new section to chapter 14-09 of the North Dakota
+2 Century Code, relating to interference with court-ordered parenting time; to create a child
+3 custody review task force; to provide for a legislative management report; and to provide a
+4 penalty.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 14-09 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Parenting time - Interference - Penalty.
+9 1. Unless a party shows by clear and convincing evidence that additional parenting time
+10 should not be ordered, if the court finds one parent intentionally interfered with the
+11 other parent's court-ordered parenting time, the court shall order additional parenting
+12 time to the parent who lost parenting time due to the interference to indemnify that
+13 parent for any lost court-ordered parenting time.
+14 2. The additional parenting time:
+15 a. Must at least be of the same type and duration of parenting time lost due to the
+16 interference and may be up to double the period of time lost, as determined by
+17 the court.
+18 b. May include weekend, holiday, and summer parenting time.
+19 c. Must occur within two years of the date the court finds the parent intentionally
+20 interfered with the other parent's court-ordered parenting time.
+21 3. A court shall:
+Page No. 1 25.0805.04000
+Sixty-ninth
+Legislative Assembly
+1 a. Give deference to the proposed additional parenting time schedule of the parent
+2 entitled to additional parenting time under subsection 1 when determining the
+3 schedule of the additional parenting time subject to subsection 2 .
+4 b. Consider ordering the parents to use a co-parenting application to assist with
+5 scheduling and communication.
+6 4. The court may sanction a parent who fails to comply with this section as a contempt of
+7 court.
+8 SECTION 2. CHILD CUSTODY REVIEW TASK FORCE - REPORT TO THE
+9 LEGISLATIVE MANAGEMENT.
+10 1. During the 2025-26 interim, the legislative management shall create a child custody
+11 review task force. The task force consists of:
+12 a. One member of the supreme court self-help program, appointed by the supreme
+13 court;
+14 b. One member representing the district courts, appointed by the supreme court;
+15 c. One member appointed by the state bar association;
+16 d. Two members of the house or senate judiciary committees, appointed by the
+17 chairman of the legislative management;
+18 e. One member of the senate, appointed by the senate majority leader;
+19 f. One member of the house, appointed by the house majority leader;
+20 g. Two members representing parents subject to a child custody order;
+21 h. One member representing law enforcement;
+22 i. One member representing family mediators; and
+23 j. The director of legal services of North Dakota.
+24 2. The presiding officer of the task force must be a member of the legislative assembly
+25 appointed by the chairman of the legislative management.
+26 3. The task force shall meet at the call of the presiding officer. The presiding officer of the
+27 task force may invite guests to participate in task force activities.
+28 4. The task force shall:
+29 a. Meet at least once each calendar quarter or more frequently at the call of the
+30 presiding officer;
+Page No. 2 25.0805.04000
+Sixty-ninth
+Legislative Assembly
+1 b. Address issues involving the withholding of a child in violation of a custody
+2 decree and issues relating to a parent or party who provides false information
+3 against another parent or party in connection to a child custody order;
+4 c. Consider ways to expeditiously and effectively enforce violations of custody
+5 orders, particularly the withholding of a child;
+6 d. Consider the development of self-help or artificial intelligence assisted forms and
+7 processes, expedited access to ex parte contempt of court orders, and other civil
+8 and criminal penalties, including possible additional compensatory time, and
+9 successful remedies used in other states; and
+10 e. Before June 30, 2026, submit a report of its findings and recommendations, and
+11 any proposed legislation necessary to implement the recommendations, to the
+12 legislative management.
+13 5. A member of the task force who is not a state employee is entitled to reimbursement
+14 for mileage and expenses as provided by law for state officers and employees, to be
+15 paid by the legislative council. A state employee who is a member of the task force is
+16 entitled to receive that employee's regular salary and is entitled to reimbursement for
+17 mileage and expenses to be paid by the employing agency. A member of the task
+18 force who is a member of the legislative assembly is entitled to receive per diem
+19 compensation at the rate provided under section 54-35-10 for each day performing
+20 official duties of the task force. The legislative council shall pay the per diem
+21 compensation and reimbursement for travel and expenses as provided by law for any
+22 member of the task force who is a member of the legislative assembly.
+23 6. The legislative council shall provide staffing and administrative services for the task
+24 force through July 30, 2026.
+Page No. 3 25.0805.04000
+[DELETED: .U.T.M.M.M.A12]
+[DELETED: .G.C.T.D.O.O.O.T.O.O.T.O.O.T.T.T.T.M22]
+[DELETED: .A.C.C.B.A.T32]
+
+
+================================================================================
+
+Raw Text:
+25.0805.04000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+ENGROSSED SENATE BILL NO. 2186
+Introduced by
+Senators Clemens, Luick
+Representatives Koppelman, Marschall
+1 A BILL for an Act to create and enact a new section to chapter 14-09 of the North Dakota
+2 Century Code, relating to interference with court-ordered parenting time; to create a child
+3 custody review task force; to provide for a legislative management report; and to provide a
+4 penalty.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 14-09 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Parenting time - Interference - Penalty.
+9 1. Unless a party shows by clear and convincing evidence that additional parenting time
+10 should not be ordered, if the court finds one parent intentionally interfered with the
+11 other parent's court-ordered parenting time, the court shall order additional parenting
+12 time to the parent who lost parenting time due to the interference to indemnify that
+13 parent for any lost court-ordered parenting time.
+14 2. The additional parenting time:
+15 a. Must at least be of the same type and duration of parenting time lost due to the
+16 interference and may be up to double the period of time lost, as determined by
+17 the court.
+18 b. May include weekend, holiday, and summer parenting time.
+19 c. Must occur within two years of the date the court finds the parent intentionally
+20 interfered with the other parent's court-ordered parenting time.
+21 3. A court shall:
+Page No. 1 25.0805.04000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Give deference to the proposed additional parenting time schedule of the parent
+2 entitled to additional parenting time under subsection 1 when determining the
+3 schedule of the additional parenting time subject to subsection 2 .
+4 b. Consider ordering the parents to use a co-parenting application to assist with
+5 scheduling and communication.
+6 4. The court may sanction a parent who fails to comply with this section as a contempt of
+7 court.
+8 SECTION 2. CHILD CUSTODY REVIEW TASK FORCE - REPORT TO THE
+9 LEGISLATIVE MANAGEMENT.
+10 1. During the 2025-26 interim, the legislative management shall create a child custody
+11 review task force. The task force consists of:
+12 a. One member of the supreme court self-help program, appointed by the supreme
+13 court;
+14 b. One member representing the district courts, appointed by the supreme court;
+15 c. One member appointed by the state bar association;
+16 d. Two members of the house or senate judiciary committees, appointed by the
+17 chairman of the legislative management;
+18 e. One member of the senate, appointed by the senate majority leader;
+19 f. One member of the house, appointed by the house majority leader;
+20 g. Two members representing parents subject to a child custody order;
+21 h. One member representing law enforcement;
+22 i. One member representing family mediators; and
+23 j. The director of legal services of North Dakota.
+24 2. The presiding officer of the task force must be a member of the legislative assembly
+25 appointed by the chairman of the legislative management.
+26 3. The task force shall meet at the call of the presiding officer. The presiding officer of the
+27 task force may invite guests to participate in task force activities.
+28 4. The task force shall:
+29 a. Meet at least once each calendar quarter or more frequently at the call of the
+30 presiding officer;
+Page No. 2 25.0805.04000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Address issues involving the withholding of a child in violation of a custody
+2 decree and issues relating to a parent or party who provides false information
+3 against another parent or party in connection to a child custody order;
+4 c. Consider ways to expeditiously and effectively enforce violations of custody
+5 orders, particularly the withholding of a child;
+6 d. Consider the development of self-help or artificial intelligence assisted forms and
+7 processes, expedited access to ex parte contempt of court orders, and other civil
+8 and criminal penalties, including possible additional compensatory time, and
+9 successful remedies used in other states; and
+10 e. Before June 30, 2026, submit a report of its findings and recommendations, and
+11 any proposed legislation necessary to implement the recommendations, to the
+12 legislative management.
+13 5. A member of the task force who is not a state employee is entitled to reimbursement
+14 for mileage and expenses as provided by law for state officers and employees, to be
+15 paid by the legislative council. A state employee who is a member of the task force is
+16 entitled to receive that employee's regular salary and is entitled to reimbursement for
+17 mileage and expenses to be paid by the employing agency. A member of the task
+18 force who is a member of the legislative assembly is entitled to receive per diem
+19 compensation at the rate provided under section 54-35-10 for each day performing
+20 official duties of the task force. The legislative council shall pay the per diem
+21 compensation and reimbursement for travel and expenses as provided by law for any
+22 member of the task force who is a member of the legislative assembly.
+23 6. The legislative council shall provide staffing and administrative services for the task
+24 force through July 30, 2026.
+Page No. 3 25.0805.04000
+
+[DELETED: .U.T.M.M.M.A12]
+[DELETED: .G.C.T.D.O.O.O.T.O.O.T.O.O.T.T.T.T.M22]
+[DELETED: .A.C.C.B.A.T32]
