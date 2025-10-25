@@ -1,0 +1,313 @@
+25.1011.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1447
+Introduced by
+Representatives Swiontek, Christy, Hanson, Heinert, Schauer, J. Olson, Richter
+Senators Hogan, Klein, Lee, Rummel, Sickler
+1 A BILL for an Act to create and enact sections 13-09.1-50, 13-09.1-51, 13-09.1-52, 13-09.1-53,
+2 and 13-09.1-54 of the North Dakota Century Code, relating to virtual-currency kiosks; and to
+3 amend and reenact section 13-09.1-44 of the North Dakota Century Code, relating to virtual-
+4 currency kiosks.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 13-09.1-44 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 13-09.1-44. Definitions.
+9 For the purposes of sections 13-09.1-44 through 13-09.1-49 13 - 09.1 - 54 , the following
+10 definitions apply:
+11 1. "Blockchain analytics" means the analysis of data from blockchains or publicly
+12 distributed ledgers, including associated transaction information.
+13 2. "Blockchain analytics software" means a software service that uses blockchain
+14 analytics data to provide risk-specific information about virtua l - currency walle t
+15 addresses.
+16 3. "Control of virtual currency", when used in reference to a transaction or relationship
+17 involving virtual currency, means the power to execute unilaterally or prevent
+18 indefinitely a virtual-currency transaction.
+19 2.4. "Exchange", used as a verb, means to assume control of virtual currency from or on
+20 behalf of a person, at least momentarily, to sell, trade, or convert:
+21 a. Virtual currency for money, bank credit, or one or more forms of virtual currency;
+22 or
+Page No. 1 25.1011.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Money or bank credit for one or more forms of virtual currency.
+2 5. "Transaction hash" means a unique identifier made up of a string of characters that act
+3 as a record and provide proof the transaction was verified and added to the
+4 blockchain.
+5 3.6. "Transfer" means to assume control of virtual currency from or on behalf of a person
+6 and to:
+7 a. Credit the virtual currency to the account of another person;
+8 b. Move the virtual currency from one account of a person to another account of the
+9 same person; or
+10 c. Relinquish control of virtual currency to another person.
+11 4.7. "United States dollar equivalent of virtual currency" means the equivalent value of a
+12 particular virtual currency in United States dollars shown on a virtual-currency
+13 exchange based in the United States for a particular date or period specified in this
+14 chapter.
+15 5.8. "Virtual currency":
+16 a. Means a digital representation of value that:
+17 (1) Is used as a medium of exchange, unit of account, or store of value; and
+18 (2) Is not money, whether or not denominated in money; and
+19 b. Does not include:
+20 (1) A transaction in which a merchant grants, as part of an affinity or rewards
+21 program, value that cannot be taken from or exchanged with the merchant
+22 for money, bank credit, or virtual currency; or
+23 (2) A digital representation of value issued by or on behalf of a publisher and
+24 used solely within an online game, game platform, or family of games sold
+25 by the same publisher or offered on the same game platform.
+26 9. "Virtua l - currency address" means an alphanumeric identifier associated with a
+27 virtua l - currency wallet identifying the location to which a virtua l - currency transaction
+28 may be sent.
+29 6.10. "Virtual-currency administration" means issuing virtual currency with the authority to
+30 redeem the currency for money, bank credit, or other virtual currency.
+31 7.11. "Virtual-currency business activity" means:
+Page No. 2 25.1011.02000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Exchanging, transferring, or storing virtual currency or engaging in virtual-
+2 currency administration, whether directly or through an agreement with a virtual-
+3 currency control-services vendor;
+4 b. Holding electronic precious metals or electronic certificates representing interests
+5 in precious metals on behalf of another person or issuing shares or electronic
+6 certificates representing interests in precious metals; or
+7 c. Exchanging one or more digital representations of value used within one or more
+8 online games, game platforms, or family of games for:
+9 (1) Virtual currency offered by or on behalf of the same publisher from which
+10 the original digital representation of value was received; or
+11 (2) Money or bank credit outside the online game, game platform, or family of
+12 games offered by or on behalf of the same publisher from which the original
+13 digital representation of value was received.
+14 8.12. "Virtual-currency control-services vendor" means a person that has control of virtual
+15 currency solely under an agreement with a person that, on behalf of another person,
+16 assumes control of virtual currency.
+17 13. "Virtua l - currency kiosk" means an electronic terminal acting as a mechanical agent o f
+18 the virtua l - currency kiosk operator to enable the virtua l - currency kiosk operator to
+19 facilitate the exchange of virtual currency for money, bank credit, or other virtual
+20 currency, including by:
+21 a. Connecting directly to a separate virtua l - currency exchange that performs the
+22 actual virtual-currency transmission; or
+23 b. Drawing upon the virtual currency in the possession of the electronic terminal's
+24 operator.
+25 14. "Virtua l - currency kiosk operator" means a person that engages in virtual-currency
+26 business activity via a money transmission kiosk located in this state or a person that
+27 owns, operates, or manages a money transmission kiosk located in this state through
+28 which virtual-currency business activity is offered.
+29 15. "Virtua l - currency kiosk transaction" means :
+30 a. A transaction conducted or performed, in whole or in part, by electronic means
+31 via a virtua l - currency kiosk .
+Page No. 3 25.1011.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. A transaction made at a virtua l - currency kiosk to purchase virtual currency with
+2 fiat currency or to sell virtual currency for fiat currency.
+3 16. "Virtua l - currency wallet" means a software application or other mechanism providing a
+4 means to hold, store, or transfer virtual currency.
+5 SECTION 2. Section 13-09.1-50 of the North Dakota Century Code is created and enacted
+6 as follows:
+7 13 - 09.1 - 50. Virtua l - currency kiosks .
+8 1. A kiosk operator may not engage in virtual-currency business activity or hold itself out
+9 as being able to engage in virtual-currency business activity with or on behalf of
+10 another person unless the kiosk operator is licensed in this state as a money
+11 transmitter.
+12 2. A virtua l - currency kiosk operator shall comply with all requirements of a money
+13 transmitter under this chapter.
+14 3. A virtua l - currency kiosk operator may not locate, or allow a third party to locate, a
+15 virtua l - currency kiosk in this state unless the virtua l - currency kiosk :
+16 a. Is placed in a commercially accessible area;
+17 b. Is accessible to users with sufficient space to account for mobility limitations of
+18 users; and
+19 c. Is subject to security features, including sufficient lighting and surveillance.
+20 4. Each virtua l - currency kiosk operator shall submit a quarterly report of the location o f
+21 each virtua l - currency kiosk located within the state to the commissioner within
+22 forty - five days of the end of the calendar quarter. The location report must include :
+23 a. The company's legal name;
+24 b. Any fictitious or trade name;
+25 c. The physical address;
+26 d. The start date of operation of the virtua l - currency kiosk at the location ;
+27 e. The end date of operation of the virtua l - currency kiosk at the location, i f
+28 applicable; and
+29 f. The virtua l - currency addresses associated with the virtua l - currency kiosk .
+30 SECTION 3. Section 13-09.1-51 of the North Dakota Century Code is created and enacted
+31 as follows:
+Page No. 4 25.1011.02000
+
+Sixty-ninth
+Legislative Assembly
+1 13 - 09.1 - 51. Disclosures .
+2 1. A virtua l - currency kiosk operator shall disclose in a clear, conspicuous, and easily
+3 readable manner in the chosen language of the customer, all relevant terms and
+4 conditions generally associated with the products, services, and activities of the
+5 virtua l - currency kiosk operator and virtual currency .
+6 2. The virtua l - currency kiosk operator must receive acknowledgment of receipt of al l
+7 disclosures required under this section via confirmation of consent.
+8 3. Each virtua l - currency kiosk must include a warning written prominently and in bold
+9 type, stated in substantially the following form:
+10 a. WARNING: CONSUMER FRAUD OFTEN STARTS WITH CONTACT FROM A
+11 STRANGER WHO IS INITIATING A DISHONEST SCHEME. I UNDERSTAND
+12 THAT CRIMINAL ACTIVITY MAY APPEAR IN MANY FORMS, INCLUDING:
+13 (1) Claims of a frozen bank account or credit card.
+14 (2) Fraudulent bank transactions.
+15 (3) Claims of identity theft or job offerings in exchange for payments.
+16 (4) Requests for payments to government agencies or companies.
+17 (5) Requests for disaster relief donations or loans.
+18 (6) Offers to purchase tickets for lotteries, sweepstakes, or drawings for
+19 vehicles.
+20 (7) Prompts to click on desktop popups, such as virus warnings or
+21 communication from alleged familiar merchants.
+22 (8) Communication from someone impersonating a representative of your bank
+23 or a law enforcement officer.
+24 (9) IF YOU BELIEVE YOU ARE BEING SCAMMED, CALL A LOCAL LAW
+25 ENFORCEMENT OFFICER BEFORE ANY TRANSACTION.
+26 b. WARNING: FUNDS LOST DUE TO USER ERROR OR FRAUD MAY NOT BE
+27 RECOVERABLE. TRANSACTIONS CONDUCTED ON THIS
+28 VIRTUAL - CURRENCY KIOSK ARE IRREVERSIBLE. I UNDERSTAND THESE
+29 RISKS AND WISH TO CONTINUE WITH CONDUCTING MY
+30 VIRTUAL - CURRENCY KIOSK TRANSACTION. PROTECT YOURSELF FROM
+31 FRAUD. NEVER SEND MONEY TO SOMEONE YOU DO NOT KNOW.
+Page No. 5 25.1011.02000
+
+Sixty-ninth
+Legislative Assembly
+1 4. The commissioner shall require the disclosure of material risks associated with virtual
+2 currency and virtual-currency transactions, including:
+3 a. The transaction may not be reversed;
+4 b. The virtua l - currency kiosk operator's liability for unauthorized virtual currency
+5 transactions;
+6 c. The virtua l - currency kiosk customer's liability for unauthorized currency
+7 transactions;
+8 d. Virtual currency is not legal tender, backed or insured by the government, and
+9 accounts and value balances are not subject to federal deposit insurance
+10 corporation, national credit union administration, or securities investor protection
+11 corporation protections;
+12 e. Some virtual currency transactions are deemed to be made when recorded on a
+13 public ledger which may not be the date or time when the individual initiates the
+14 transaction;
+15 f. Virtual currency's value may be derived from market participants' continued
+16 willingness to exchange fiat currency for virtual currency, which may result in the
+17 permanent and total loss of a particular virtual currency's value if the market for
+18 virtual currency disappears;
+19 g. An individual who accepts a virtual currency as payment today is not required to
+20 accept and might not accept virtual currency in the future;
+21 h. The volatility and unpredictability of the price of virtual currency relative to fiat
+22 currency may result in a significant loss over a short period;
+23 i. The nature of virtual currency means any technological difficulties experienced by
+24 virtua l - currency kiosk operators may prevent access to or use of an individual's
+25 virtual currency; and
+26 j. Any bond maintained by the virtua l - currency kiosk operator for the benefit of an
+27 individual may not cover all losses an individual incurs.
+28 5. The commissioner shall require disclosure of:
+29 a. The amount of the transaction denominated in United States dollars as well as
+30 the applicable virtual currency.
+31 b. Any fees or expenses charged by the virtua l - currency kiosk operator .
+Page No. 6 25.1011.02000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Any applicable exchange rates.
+2 d. A daily virtual-currency transaction limit of no more than two thousand dollars for
+3 the first five transactions within the first thirty - day period .
+4 e. Notice of a change in the virtua l - currency kiosk operator's rules or policies .
+5 f. The name, address, and telephone number of the owner of the kiosk and the
+6 days, time, and means by which a consumer may contact the owner for
+7 consumer assistance. Any relevant state and local law enforcement agency for
+8 reporting fraud must be displayed on or at the location of the virtua l - currency
+9 kiosk or on the first screen of the kiosk.
+10 g. Under what circumstances the virtua l - currency kiosk operator, without a court or
+11 government order, discloses a person's account information to third parties.
+12 h. Other disclosures customarily given in connection with a virtual currency
+13 transaction.
+14 6. After the completion of each transaction, the virtua l - currency kiosk operator shal l
+15 provide an individual with a choice of a physical or digital receipt secured with
+16 two - factor identification in the language chosen by the customer containing the
+17 following:
+18 a. The virtua l - currency kiosk operator's name and contact information, including a
+19 telephone number to answer questions and register complaints;
+20 b. The relevant state and local law enforcement or government agency for reporting
+21 fraud;
+22 c. The type, value, date, and precise time of the transaction, transaction hash, and
+23 each applicable virtua l - currency address ;
+24 d. A unique transaction number able to be linked to the sender during a fraud
+25 investigation;
+26 e. A unique transaction number able to be linked to the designated recipient during
+27 a fraud investigation;
+28 f. All fees charged;
+29 g. The exchange rate of the virtual currency to United States dollars;
+30 h. A statement of the virtua l - currency kiosk operator's liability for nondelivery or
+31 delayed delivery; and
+Page No. 7 25.1011.02000
+
+Sixty-ninth
+Legislative Assembly
+1 i. A statement of the virtua l - currency kiosk operator's refund policy .
+2 SECTION 4. Section 13-09.1-52 of the North Dakota Century Code is created and enacted
+3 as follows:
+4 13 - 09.1 - 52. Prevention of fraudulent activity .
+5 1. A virtua l - currency kiosk operator shall use blockchain analytics software to assist in
+6 the detection and prevention of suspicious activity, including sending purchased virtual
+7 currency from a virtua l - currency kiosk operator to a virtua l - currency wallet known to be
+8 affiliated with fraudulent activity at the time of a transaction and identifying patterns
+9 that reflect money laundering or other illicit activity. The commissioner may request
+10 evidence from any virtua l - currency kiosk operator of use of blockchain analytics .
+11 2. A virtua l - currency kiosk operator shall take reasonable steps to detect and preven t
+12 fraud, including establishing and maintaining a written antifraud policy. The antifraud
+13 policy must include:
+14 a. The identification and assessment of fraud-related risk areas;
+15 b. Procedures and controls to protect against identified risks;
+16 c. Allocation of responsibility for monitoring risks; and
+17 d. Procedures for the periodic evaluation and revision of the antifraud procedures,
+18 controls, and monitoring mechanisms.
+19 3. Each virtua l - currency kiosk operator shall designate and employ a compliance officer
+20 with the following requirements:
+21 a. The individual must be qualified to coordinate and monitor compliance with this
+22 chapter and all other applicable federal and state laws and rules;
+23 b. The individual must be employed full-time by the virtua l - currency kiosk operator ;
+24 and
+25 c. The designated compliance officer may not be an individual who owns more than
+26 twenty percent of the virtua l - currency kiosk operator by whom the individual is
+27 employed.
+28 4. Compliance responsibilities required under federal and state laws and rules must be
+29 completed by full-time employees of the virtua l - currency kiosk operator .
+Page No. 8 25.1011.02000
+
+Sixty-ninth
+Legislative Assembly
+1 5. A virtua l - currency kiosk operator shall maintain, implement, and enforce a written
+2 enhanced due diligence policy. The policy must be reviewed and approved by the
+3 virtua l - currency kiosk operator's board of directors or equivalent governing body .
+4 6. A virtua l - currency kiosk operator shall designate and employ a consumer protection
+5 officer. The consumer protection officer:
+6 a. Must be qualified to coordinate and monitor compliance with state and federal
+7 law;
+8 b. Must be employed ful l - time by the virtua l - currency kiosk operator; and
+9 c. May not own more than twenty percent of the virtua l - currency kiosk operator .
+10 SECTION 5. Section 13-09.1-53 of the North Dakota Century Code is created and enacted
+11 as follows:
+12 13 - 09.1 - 53 . Daily transaction limit .
+13 A virtua l - currency kiosk operator may not accept transactions of more than two thousand
+14 dollars of cash or the equivalent in virtual currency per calendar day for the first five
+15 virtua l - currency kiosk transactions occurring within the first thirty - days of the first transaction
+16 with a single customer in this state via one or more virtua l - currency kiosks operated by the
+17 same virtual-currency operator.
+18 SECTION 6. Section 13-09.1-54 of the North Dakota Century Code is created and enacted
+19 as follows:
+20 13 - 09.1 - 54 . Customer service .
+21 A virtua l - currency kiosk operator performing business in this state shall provide live
+22 customer service at a minimum on Monday through Friday between eight a.m. central time and
+23 ten p.m. central time. The customer service toll-free number must be displayed on the
+24 virtua l - currency kiosk or the virtua l - currency kiosk screens .
+Page No. 9 25.1011.02000
+
+[DELETED: .".".".".V12]
+[DELETED: .M.".".C.M.R.".".M)I)I.D)A)A. ."."22]
+[DELETED: .E.H.E)V)M.". . .D. . .A32]
+[DELETED: . . .A. . .I.I.I. .T.A.T. . . 42]
+[DELETED: . . . .W)C)F)C)R)R)O)P)C)I.W52]
+[DELETED: .T.T. . .V.S.V.A.T.T. .T.T. 62]
+[DELETED: .A.A. .T. .O. . .T.T.A.A.A.T. 72]
+[DELETED: . . . .T.P.A.P. .T. .T.C82]
+[DELETED: . . .M. . 92]

@@ -1,0 +1,686 @@
+Title: SENATE BILL NO. 2116
+Official Title: SENATE BILL NO. 2116
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+25.8062.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Energy and Natural Resources Committee
+(At the request of the Public Service Commission)
+1 A BILL for an Act to create and enact a new subsection to section 49-22-13 and a new
+2 subsection to section 49-22.1-10 of the North Dakota Century Code, relating to public hearings
+3 for energy conversion and transmission facilities; and to amend and reenact sections 49-22-03,
+4 49-22-16.4, and 49-22.1-01 of the North Dakota Century Code, relating to public hearings and
+5 light-mitigating technology systems.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Section 49-22-03 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 49-22-03. Definitions.
+10 In this chapter, unless the context or subject matter otherwise requires:
+11 1. "Certificate" means the certificate of site compatibility or the certificate of corridor
+12 compatibility issued under this chapter.
+13 2. "Commission" means the North Dakota public service commission.
+14 3. "Construction" includes a clearing of land, excavation, or other action affecting the
+15 environment of the site after April 9, 1975, but does not include activities:
+16 a. Conducted wholly within the geographic location for which a utility has previously
+17 obtained a certificate or permit under this chapter, or on which a facility was
+18 constructed before April 9, 1975, if:
+19 (1) The activities are for the construction of the same type of facility as the
+20 existing type of facility as identified in a subdivision of subsection 5 or 6 or in
+21 subsection 13 of this section and the activities are:
+22 (a) Within the geographic boundaries of a previously issued certificate or
+23 permit;
+Page No. 1 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 (b) For an electric energy conversion facility constructed before April 9,
+2 1975, within the geographic location on which the facility was built; or
+3 (c) For an electric transmission facility constructed before April 9, 1975,
+4 within a width of three hundred fifty feet [106.68 meters] on either side
+5 of the centerline;
+6 (2) Except as provided in subdivision b, the activities do not affect any known
+7 exclusion or avoidance area;
+8 (3) The activities are for the construction:
+9 (a) Of a new electric energy conversion facility;
+10 (b) Of a new electric transmission facility;
+11 (c) To improve the existing electric energy conversion facility or electric
+12 transmission facility; or
+13 (d) To increase or decrease the capacity of the existing electric energy
+14 conversion facility or electric transmission facility; and
+15 (4) Before conducting any activities, the utility certifies in writing to the
+16 commission that:
+17 (a) The activities will not affect a known exclusion or avoidance area;
+18 (b) The activities are for the construction:
+19 [1] Of a new electric energy conversion facility;
+20 [2] Of a new electric transmission facility;
+21 [3] To improve the existing electric energy conversion or electric
+22 transmission facility; or
+23 [4] To increase or decrease the capacity of the existing electric
+24 energy conversion facility or electric transmission facility; and
+25 (c) The utility will comply with all applicable conditions and protections in
+26 siting laws and rules and commission orders previously issued for any
+27 part of the facility.
+28 b. Otherwise qualifying for exclusion under subdivision a, except that the activities
+29 are expected to affect a known avoidance area and the utility before conducting
+30 any activities:
+31 (1) Certifies in writing to the commission that:
+Page No. 2 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 (a) The activities will not affect a known exclusion area;
+2 (b) The activities are for the construction:
+3 [1] Of a new electric energy conversion facility;
+4 [2] Of a new electric transmission facility;
+5 [3] To improve the existing electric energy conversion facility or
+6 electric transmission facility; or
+7 [4] To increase or decrease the capacity of the existing electric
+8 energy conversion facility or electric transmission facility; and
+9 (c) The utility will comply with all applicable conditions and protections in
+10 siting laws and rules and commission orders previously issued for any
+11 part of the facility;
+12 (2) Notifies the commission in writing that the activities are expected to impact
+13 an avoidance area and provides information on the specific avoidance area
+14 expected to be impacted and the reasons why impact cannot be avoided;
+15 and
+16 (3) Receives the commission's written approval for the impact to the avoidance
+17 area, based on a determination that there is no reasonable alternative to the
+18 expected impact. If the commission does not approve impacting the
+19 avoidance area, the utility must obtain siting authority under this chapter for
+20 the affected portion of the site or route. If the commission fails to act on the
+21 notification required by this subdivision within thirty days of the utility's filing
+22 the notification, the impact to the avoidance area is deemed approved.
+23 c. Incident to preliminary engineering or environmental studies.
+24 4. "Corridor" means the area of land where a designated route may be established for an
+25 electric transmission facility.
+26 5. "Electric energy conversion facility" means a plant, addition, or combination of plant
+27 and addition, designed for or capable of:
+28 a. Generation by wind energy conversion exceeding one-half megawatt of
+29 electricity;
+30 b. Generation by any means other than wind energy conversion exceeding fifty
+31 megawatts of electricity; or
+Page No. 3 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 c. Utility-scale energy storage.
+2 6. "Electric transmission facility" means an electric transmission line and associated
+3 facilities with a design in excess of one hundred fifteen kilovolts. "Electric transmission
+4 facility" does not include:
+5 a. A temporary electric transmission line loop that is:
+6 (1) Connected and adjacent to an existing electric transmission facility that was
+7 sited under this chapter;
+8 (2) Within the corridor of the sited facility and does not cross known exclusion
+9 or avoidance areas; and
+10 (3) In place for less than one year; or
+11 b. An electric transmission line that is less than one mile [1.61 kilometers] long.
+12 7. "Facility" means an electric energy conversion facility, electric transmission facility, or
+13 both.
+14 8. "Permit" means the permit for the construction of an electric transmission facility within
+15 a designated corridor issued under this chapter.
+16 9. "Person" includes an individual, firm, association, partnership, cooperative,
+17 corporation, limited liability company, or any department, agency, or instrumentality of
+18 a state or of the federal government, or any subdivision thereof.
+19 10. "Power emergency" means an electric transmission line and associated facilities that
+20 have been damaged or destroyed by natural or manmade causes resulting in a loss of
+21 power supply to consumers of the power.
+22 11. "Public hearing" means a proceeding conducted for the purpose of acquiring
+23 information that will be considered in a certificate or permit action evaluation and
+24 which affords the public an opportunity to present views, opinions, and information.
+25 12. "Repower" means construction activities to completely or partially dismantle and
+26 replace turbine equipment at an existing wind energy conversion facility site that result
+27 in an increase of the facility's generation output potential or turbine height. The term
+28 does not include routine turbine maintenance or routine replacement of malfunctioning
+29 turbines or turbine components.
+30 12.13. "Route" means the location of an electric transmission facility within a designated
+31 corridor.
+Page No. 4 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 13.14. "Site" means the location of an electric energy conversion facility.
+2 14.15. "Utility" means a person engaged in and controlling the electric generation, the
+3 transmission of electric energy, or the transmission of water from or to any electric
+4 energy conversion facility.
+5 15.16. "Utility-scale energy storage" means a plant, addition, or combination of plant and
+6 addition, designed for operation as a grid resource and capable of five megawatts or
+7 more of rated power capacity.
+8 SECTION 2. A new subsection to section 49-22-13 of the North Dakota Century Code is
+9 created and enacted as follows:
+10 The commission may hold a technical hearing on an application by the commission's
+11 own motion or by motion of a directly interested person. During a technical hearing the
+12 parties shall be afforded an opportunity to present evidence, examine witnesses, and
+13 cross-examine witnesses as permitted under sections 28 - 32 - 24 and 28 - 32 - 25 .
+14 SECTION 3. AMENDMENT. Section 49-22-16.4 of the North Dakota Century Code is
+15 amended and reenacted as follows:
+16 49-22-16.4. Light-mitigating technology system - Rules.
+17 1. The commission shall adopt rules by January 1, 2019, relating to the implementation
+18 of light-mitigating technology systems on wind energy conversion facilities. The rules
+19 must be consistent with the federal aviation administration regulations [14 CFR
+20 1.1 et seq.] and must include service and maintenance requirements, safety
+21 standards, and lighting system requirements.
+22 2. By December 31, 2019, every wind energy conversion facility for which the
+23 commission issued a certificate of site compatibility after June 5, 2016, must be
+24 equipped with a functioning light-mitigating technology system that complies with rules
+25 adopted by the commission. After public hearing, theThe commission may grant a
+26 waiver or an extension of time based on technical or economic feasibility
+27 considerations.
+28 3. By December 31, 2021, every wind energy conversion facility for which the
+29 commission issued a certificate of site compatibility before June 5, 2016, must be
+30 equipped with a functioning light-mitigating technology system that complies with the
+31 rules adopted by the commission. After public hearing, theThe commission may grant
+Page No. 5 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 a waiver or an extension of time based on technical or economic feasibility
+2 considerations.
+3 4. Any costs associated with the implementation, operation, and maintenance of
+4 light-mitigating technology systems are the sole responsibility of the wind energy
+5 conversion facility owner.
+6 SECTION 4. AMENDMENT. Section 49-22.1-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 49-22.1-01. Definitions.
+9 In this chapter, unless the context or subject matter otherwise requires:
+10 1. "Certificate" means the certificate of site compatibility or the certificate of corridor
+11 compatibility issued under this chapter.
+12 2. "Commission" means the North Dakota public service commission.
+13 3. "Construction" includes a clearing of land, excavation, or other action affecting the
+14 environment of the site after April 9, 1975, but does not include activities:
+15 a. Conducted wholly within the geographic location for which a utility has previously
+16 obtained a certificate or permit under this chapter, or on which a facility was
+17 constructed before April 9, 1975, if:
+18 (1) The activities are for the construction of the same type of facility as the
+19 existing type of facility as identified in subsection 6 or 7 and the activities
+20 are:
+21 (a) Within the geographic boundaries of a previously issued certificate or
+22 permit;
+23 (b) For a gas or liquid energy conversion facility constructed before
+24 April 9, 1975, within the geographic location on which the facility was
+25 built; or
+26 (c) For a gas or liquid transmission facility constructed before April 9,
+27 1975, within a width of three hundred fifty feet [106.68 meters] on
+28 either side of the centerline;
+29 (2) Except as provided in subdivision b, the activities do not affect any known
+30 exclusion or avoidance area;
+31 (3) The activities are for the construction:
+Page No. 6 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 (a) Of a new gas or liquid energy conversion facility;
+2 (b) Of a new gas or liquid transmission facility;
+3 (c) To improve the existing gas or liquid energy conversion facility, or gas
+4 or liquid, transmission facility; or
+5 (d) To increase or decrease the capacity of the existing gas or liquid
+6 energy conversion facility or gas or liquid transmission facility; and
+7 (4) Before conducting any activities, the utility certifies in writing to the
+8 commission that:
+9 (a) The activities will not affect a known exclusion or avoidance area;
+10 (b) The activities are for the construction:
+11 [1] Of a new gas or liquid energy conversion facility;
+12 [2] Of a new gas or liquid transmission facility;
+13 [3] To improve the existing gas or liquid energy conversion or gas or
+14 liquid transmission facility; or
+15 [4] To increase or decrease the capacity of the existing gas or liquid
+16 energy conversion facility or gas or liquid transmission facility;
+17 and
+18 (c) The utility will comply with all applicable conditions and protections in
+19 siting laws and rules and commission orders previously issued for any
+20 part of the facility.
+21 b. Otherwise qualifying for exclusion under subdivision a, except that the activities
+22 are expected to affect a known avoidance area and the utility before conducting
+23 any activities:
+24 (1) Certifies in writing to the commission:
+25 (a) The activities will not affect any known exclusion area;
+26 (b) The activities are for the construction:
+27 [1] Of a new gas or liquid energy conversion facility;
+28 [2] Of a new gas or liquid transmission facility;
+29 [3] To improve the existing gas or liquid energy conversion facility or
+30 gas or liquid facility; or
+Page No. 7 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 [4] To increase or decrease the capacity of the existing gas or liquid
+2 energy conversion facility or gas or liquid transmission facility;
+3 and
+4 (c) The utility will comply with all applicable conditions and protections in
+5 siting laws and rules and commission orders previously issued for any
+6 part of the facility;
+7 (2) Notifies the commission in writing that the activities are expected to impact
+8 an avoidance area and provides information on the specific avoidance area
+9 expected to be impacted and the reasons why impact cannot be avoided;
+10 and
+11 (3) Receives the commission's written approval for the impact to the avoidance
+12 area, based on a determination that there is no reasonable alternative to the
+13 expected impact. If the commission does not approve impacting the
+14 avoidance area, the utility must obtain siting authority under this chapter for
+15 the affected portion of the site or route. If the commission fails to act on the
+16 notification required by this subdivision within thirty days of the utility's filing
+17 the notification, the impact to the avoidance area is deemed approved.
+18 c. Incident to preliminary engineering or environmental studies.
+19 4. "Corridor" means the area of land where a designated route may be established for a
+20 gas or liquid transmission facility.
+21 5. "Facility" means a gas or liquid energy conversion facility, gas or liquid transmission
+22 facility, or both.
+23 6. "Gas or liquid energy conversion facility" means any plant, addition, or combination of
+24 plant and addition, designed for or capable of:
+25 a. Manufacture or refinement of one hundred million cubic feet [2831684.66 cubic
+26 meters] or more of gas or hydrogen per day, regardless of the end use of the gas;
+27 b. Manufacture or refinement of fifty thousand barrels [7949.36 cubic meters] or
+28 more of liquid hydrocarbon products per day; or
+29 c. Enrichment of uranium minerals.
+30 7. "Gas or liquid transmission facility" means any of the following:
+Page No. 8 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 a. A gas or liquid transmission line and associated facilities designed for or capable
+2 of transporting coal, gas, liquid hydrocarbons, liquid hydrocarbon products,
+3 hydrogen, or carbon dioxide. This subdivision does not apply to:
+4 (1) An oil or gas pipeline gathering system;
+5 (2) A natural gas distribution system;
+6 (3) Carbon dioxide storage facility underground equipment, including a flow
+7 line, subject to chapter 38-22;
+8 (4) A pipeline with an outside diameter of four and one-half inches
+9 [11.43 centimeters] or less which will not be trenched and will be plowed in
+10 with a power mechanism having a vertical knife or horizontally directionally
+11 drilled, and its associated facilities; or
+12 (5) A pipeline that is less than one mile [1.61 kilometers] long. For purposes of
+13 this chapter, a gathering system includes the pipelines and associated
+14 facilities used to collect oil from the lease site to the first pipeline storage
+15 site where pressure is increased for further transport, or pipelines and
+16 associated facilities used to collect gas from the well to the gas processing
+17 facility at which end-use consumer-quality gas is produced, with or without
+18 the addition of odorant.
+19 b. A liquid transmission line and associated facilities designed for or capable of
+20 transporting water from or to an energy conversion facility.
+21 8. "Permit" means the permit for the construction of a gas or liquid transmission facility
+22 within a designated corridor issued under this chapter.
+23 9. "Person" includes an individual, firm, association, partnership, cooperative,
+24 corporation, limited liability company, or any department, agency, or instrumentality of
+25 a state or of the federal government, or any subdivision thereof.
+26 10. "Public hearing" means a proceeding conducted for the purpose of acquiring
+27 information that will be considered in a certificate or permit action evaluation and
+28 which affords the public an opportunity to present views, opinions, and information.
+29 11. "Road use agreement" means permits required for extraordinary road use, road
+30 access points, approach or road crossings, public right-of-way setbacks, building
+Page No. 9 25.8062.01000
+Sixty-ninth
+Legislative Assembly
+1 rules, physical addressing, dust control measures, or road maintenance and any repair
+2 mitigation plans.
+3 11.12. "Route" means the location of a gas or liquid transmission facility within a designated
+4 corridor.
+5 12.13. "Site" means the location of a gas or liquid energy conversion facility.
+6 13.14. "Utility" means a person engaged in and controlling the generation, manufacture,
+7 refinement, or transmission of gas, liquid hydrocarbons, or liquid hydrocarbon
+8 products, including coal gasification, coal liquefaction, petroleum refinement, uranium
+9 enrichment, and the transmission of coal, gas, liquid hydrocarbons, or liquid
+10 hydrocarbon products, or the transmission of water from or to any gas or liquid energy
+11 conversion facility.
+12 SECTION 5. A new subsection to section 49-22.1-10 of the North Dakota Century Code is
+13 created and enacted as follows:
+14 The commission may hold a technical hearing on an application by the commission's
+15 own motion or by motion of a directly interested person. During a technical hearing the
+16 parties shall be afforded an opportunity to present evidence, examine witnesses, and
+17 cross-examine witnesses as permitted under sections 28 - 32 - 24 and 28 - 32 - 25 .
+Page No. 10 25.8062.01000
+[DELETED: .".".".C)T)W12]
+[DELETED: )F)F)E)T)O)O)T)T)B)T)T]O]O]T]T)T.O)C22]
+[DELETED: )T)T]O]O]T]T)T)N)R.I.".".G.G32]
+[DELETED: .U.".A)C)W)I.A."."."."."."."42]
+[DELETED: .".".".T.B.B52]
+[DELETED: .A.".".".C)T)W)F)F)E)T62]
+[DELETED: )O)O)T)T)B)T)T]O]O]T]T)T.O)C)T)T]O]O]T72]
+[DELETED: ]T)T)N)R.I.".".".M.M.E."82]
+[DELETED: .A)A)A)C)A)A.A."."."."92]
+[DELETED: ."."."02]
+
+
+================================================================================
+
+Raw Text:
+25.8062.01000
+Sixty-ninth
+SENATE BILL NO. 2116
+Legislative Assembly
+of North Dakota
+Introduced by
+Energy and Natural Resources Committee
+(At the request of the Public Service Commission)
+1 A BILL for an Act to create and enact a new subsection to section 49-22-13 and a new
+2 subsection to section 49-22.1-10 of the North Dakota Century Code, relating to public hearings
+3 for energy conversion and transmission facilities; and to amend and reenact sections 49-22-03,
+4 49-22-16.4, and 49-22.1-01 of the North Dakota Century Code, relating to public hearings and
+5 light-mitigating technology systems.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Section 49-22-03 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 49-22-03. Definitions.
+10 In this chapter, unless the context or subject matter otherwise requires:
+11 1. "Certificate" means the certificate of site compatibility or the certificate of corridor
+12 compatibility issued under this chapter.
+13 2. "Commission" means the North Dakota public service commission.
+14 3. "Construction" includes a clearing of land, excavation, or other action affecting the
+15 environment of the site after April 9, 1975, but does not include activities:
+16 a. Conducted wholly within the geographic location for which a utility has previously
+17 obtained a certificate or permit under this chapter, or on which a facility was
+18 constructed before April 9, 1975, if:
+19 (1) The activities are for the construction of the same type of facility as the
+20 existing type of facility as identified in a subdivision of subsection 5 or 6 or in
+21 subsection 13 of this section and the activities are:
+22 (a) Within the geographic boundaries of a previously issued certificate or
+23 permit;
+Page No. 1 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (b) For an electric energy conversion facility constructed before April 9,
+2 1975, within the geographic location on which the facility was built; or
+3 (c) For an electric transmission facility constructed before April 9, 1975,
+4 within a width of three hundred fifty feet [106.68 meters] on either side
+5 of the centerline;
+6 (2) Except as provided in subdivision b, the activities do not affect any known
+7 exclusion or avoidance area;
+8 (3) The activities are for the construction:
+9 (a) Of a new electric energy conversion facility;
+10 (b) Of a new electric transmission facility;
+11 (c) To improve the existing electric energy conversion facility or electric
+12 transmission facility; or
+13 (d) To increase or decrease the capacity of the existing electric energy
+14 conversion facility or electric transmission facility; and
+15 (4) Before conducting any activities, the utility certifies in writing to the
+16 commission that:
+17 (a) The activities will not affect a known exclusion or avoidance area;
+18 (b) The activities are for the construction:
+19 [1] Of a new electric energy conversion facility;
+20 [2] Of a new electric transmission facility;
+21 [3] To improve the existing electric energy conversion or electric
+22 transmission facility; or
+23 [4] To increase or decrease the capacity of the existing electric
+24 energy conversion facility or electric transmission facility; and
+25 (c) The utility will comply with all applicable conditions and protections in
+26 siting laws and rules and commission orders previously issued for any
+27 part of the facility.
+28 b. Otherwise qualifying for exclusion under subdivision a, except that the activities
+29 are expected to affect a known avoidance area and the utility before conducting
+30 any activities:
+31 (1) Certifies in writing to the commission that:
+Page No. 2 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (a) The activities will not affect a known exclusion area;
+2 (b) The activities are for the construction:
+3 [1] Of a new electric energy conversion facility;
+4 [2] Of a new electric transmission facility;
+5 [3] To improve the existing electric energy conversion facility or
+6 electric transmission facility; or
+7 [4] To increase or decrease the capacity of the existing electric
+8 energy conversion facility or electric transmission facility; and
+9 (c) The utility will comply with all applicable conditions and protections in
+10 siting laws and rules and commission orders previously issued for any
+11 part of the facility;
+12 (2) Notifies the commission in writing that the activities are expected to impact
+13 an avoidance area and provides information on the specific avoidance area
+14 expected to be impacted and the reasons why impact cannot be avoided;
+15 and
+16 (3) Receives the commission's written approval for the impact to the avoidance
+17 area, based on a determination that there is no reasonable alternative to the
+18 expected impact. If the commission does not approve impacting the
+19 avoidance area, the utility must obtain siting authority under this chapter for
+20 the affected portion of the site or route. If the commission fails to act on the
+21 notification required by this subdivision within thirty days of the utility's filing
+22 the notification, the impact to the avoidance area is deemed approved.
+23 c. Incident to preliminary engineering or environmental studies.
+24 4. "Corridor" means the area of land where a designated route may be established for an
+25 electric transmission facility.
+26 5. "Electric energy conversion facility" means a plant, addition, or combination of plant
+27 and addition, designed for or capable of:
+28 a. Generation by wind energy conversion exceeding one-half megawatt of
+29 electricity;
+30 b. Generation by any means other than wind energy conversion exceeding fifty
+31 megawatts of electricity; or
+Page No. 3 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Utility-scale energy storage.
+2 6. "Electric transmission facility" means an electric transmission line and associated
+3 facilities with a design in excess of one hundred fifteen kilovolts. "Electric transmission
+4 facility" does not include:
+5 a. A temporary electric transmission line loop that is:
+6 (1) Connected and adjacent to an existing electric transmission facility that was
+7 sited under this chapter;
+8 (2) Within the corridor of the sited facility and does not cross known exclusion
+9 or avoidance areas; and
+10 (3) In place for less than one year; or
+11 b. An electric transmission line that is less than one mile [1.61 kilometers] long.
+12 7. "Facility" means an electric energy conversion facility, electric transmission facility, or
+13 both.
+14 8. "Permit" means the permit for the construction of an electric transmission facility within
+15 a designated corridor issued under this chapter.
+16 9. "Person" includes an individual, firm, association, partnership, cooperative,
+17 corporation, limited liability company, or any department, agency, or instrumentality of
+18 a state or of the federal government, or any subdivision thereof.
+19 10. "Power emergency" means an electric transmission line and associated facilities that
+20 have been damaged or destroyed by natural or manmade causes resulting in a loss of
+21 power supply to consumers of the power.
+22 11. "Public hearing" means a proceeding conducted for the purpose of acquiring
+23 information that will be considered in a certificate or permit action evaluation and
+24 which affords the public an opportunity to present views, opinions, and information.
+25 12. "Repower" means construction activities to completely or partially dismantle and
+26 replace turbine equipment at an existing wind energy conversion facility site that result
+27 in an increase of the facility's generation output potential or turbine height. The term
+28 does not include routine turbine maintenance or routine replacement of malfunctioning
+29 turbines or turbine components.
+30 12.13. "Route" means the location of an electric transmission facility within a designated
+31 corridor.
+Page No. 4 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 13.14. "Site" means the location of an electric energy conversion facility.
+2 14.15. "Utility" means a person engaged in and controlling the electric generation, the
+3 transmission of electric energy, or the transmission of water from or to any electric
+4 energy conversion facility.
+5 15.16. "Utility-scale energy storage" means a plant, addition, or combination of plant and
+6 addition, designed for operation as a grid resource and capable of five megawatts or
+7 more of rated power capacity.
+8 SECTION 2. A new subsection to section 49-22-13 of the North Dakota Century Code is
+9 created and enacted as follows:
+10 The commission may hold a technical hearing on an application by the commission's
+11 own motion or by motion of a directly interested person. During a technical hearing the
+12 parties shall be afforded an opportunity to present evidence, examine witnesses, and
+13 cross-examine witnesses as permitted under sections 28 - 32 - 24 and 28 - 32 - 25 .
+14 SECTION 3. AMENDMENT. Section 49-22-16.4 of the North Dakota Century Code is
+15 amended and reenacted as follows:
+16 49-22-16.4. Light-mitigating technology system - Rules.
+17 1. The commission shall adopt rules by January 1, 2019, relating to the implementation
+18 of light-mitigating technology systems on wind energy conversion facilities. The rules
+19 must be consistent with the federal aviation administration regulations [14 CFR
+20 1.1 et seq.] and must include service and maintenance requirements, safety
+21 standards, and lighting system requirements.
+22 2. By December 31, 2019, every wind energy conversion facility for which the
+23 commission issued a certificate of site compatibility after June 5, 2016, must be
+24 equipped with a functioning light-mitigating technology system that complies with rules
+25 adopted by the commission. After public hearing, theThe commission may grant a
+26 waiver or an extension of time based on technical or economic feasibility
+27 considerations.
+28 3. By December 31, 2021, every wind energy conversion facility for which the
+29 commission issued a certificate of site compatibility before June 5, 2016, must be
+30 equipped with a functioning light-mitigating technology system that complies with the
+31 rules adopted by the commission. After public hearing, theThe commission may grant
+Page No. 5 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a waiver or an extension of time based on technical or economic feasibility
+2 considerations.
+3 4. Any costs associated with the implementation, operation, and maintenance of
+4 light-mitigating technology systems are the sole responsibility of the wind energy
+5 conversion facility owner.
+6 SECTION 4. AMENDMENT. Section 49-22.1-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 49-22.1-01. Definitions.
+9 In this chapter, unless the context or subject matter otherwise requires:
+10 1. "Certificate" means the certificate of site compatibility or the certificate of corridor
+11 compatibility issued under this chapter.
+12 2. "Commission" means the North Dakota public service commission.
+13 3. "Construction" includes a clearing of land, excavation, or other action affecting the
+14 environment of the site after April 9, 1975, but does not include activities:
+15 a. Conducted wholly within the geographic location for which a utility has previously
+16 obtained a certificate or permit under this chapter, or on which a facility was
+17 constructed before April 9, 1975, if:
+18 (1) The activities are for the construction of the same type of facility as the
+19 existing type of facility as identified in subsection 6 or 7 and the activities
+20 are:
+21 (a) Within the geographic boundaries of a previously issued certificate or
+22 permit;
+23 (b) For a gas or liquid energy conversion facility constructed before
+24 April 9, 1975, within the geographic location on which the facility was
+25 built; or
+26 (c) For a gas or liquid transmission facility constructed before April 9,
+27 1975, within a width of three hundred fifty feet [106.68 meters] on
+28 either side of the centerline;
+29 (2) Except as provided in subdivision b, the activities do not affect any known
+30 exclusion or avoidance area;
+31 (3) The activities are for the construction:
+Page No. 6 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (a) Of a new gas or liquid energy conversion facility;
+2 (b) Of a new gas or liquid transmission facility;
+3 (c) To improve the existing gas or liquid energy conversion facility, or gas
+4 or liquid, transmission facility; or
+5 (d) To increase or decrease the capacity of the existing gas or liquid
+6 energy conversion facility or gas or liquid transmission facility; and
+7 (4) Before conducting any activities, the utility certifies in writing to the
+8 commission that:
+9 (a) The activities will not affect a known exclusion or avoidance area;
+10 (b) The activities are for the construction:
+11 [1] Of a new gas or liquid energy conversion facility;
+12 [2] Of a new gas or liquid transmission facility;
+13 [3] To improve the existing gas or liquid energy conversion or gas or
+14 liquid transmission facility; or
+15 [4] To increase or decrease the capacity of the existing gas or liquid
+16 energy conversion facility or gas or liquid transmission facility;
+17 and
+18 (c) The utility will comply with all applicable conditions and protections in
+19 siting laws and rules and commission orders previously issued for any
+20 part of the facility.
+21 b. Otherwise qualifying for exclusion under subdivision a, except that the activities
+22 are expected to affect a known avoidance area and the utility before conducting
+23 any activities:
+24 (1) Certifies in writing to the commission:
+25 (a) The activities will not affect any known exclusion area;
+26 (b) The activities are for the construction:
+27 [1] Of a new gas or liquid energy conversion facility;
+28 [2] Of a new gas or liquid transmission facility;
+29 [3] To improve the existing gas or liquid energy conversion facility or
+30 gas or liquid facility; or
+Page No. 7 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 [4] To increase or decrease the capacity of the existing gas or liquid
+2 energy conversion facility or gas or liquid transmission facility;
+3 and
+4 (c) The utility will comply with all applicable conditions and protections in
+5 siting laws and rules and commission orders previously issued for any
+6 part of the facility;
+7 (2) Notifies the commission in writing that the activities are expected to impact
+8 an avoidance area and provides information on the specific avoidance area
+9 expected to be impacted and the reasons why impact cannot be avoided;
+10 and
+11 (3) Receives the commission's written approval for the impact to the avoidance
+12 area, based on a determination that there is no reasonable alternative to the
+13 expected impact. If the commission does not approve impacting the
+14 avoidance area, the utility must obtain siting authority under this chapter for
+15 the affected portion of the site or route. If the commission fails to act on the
+16 notification required by this subdivision within thirty days of the utility's filing
+17 the notification, the impact to the avoidance area is deemed approved.
+18 c. Incident to preliminary engineering or environmental studies.
+19 4. "Corridor" means the area of land where a designated route may be established for a
+20 gas or liquid transmission facility.
+21 5. "Facility" means a gas or liquid energy conversion facility, gas or liquid transmission
+22 facility, or both.
+23 6. "Gas or liquid energy conversion facility" means any plant, addition, or combination of
+24 plant and addition, designed for or capable of:
+25 a. Manufacture or refinement of one hundred million cubic feet [2831684.66 cubic
+26 meters] or more of gas or hydrogen per day, regardless of the end use of the gas;
+27 b. Manufacture or refinement of fifty thousand barrels [7949.36 cubic meters] or
+28 more of liquid hydrocarbon products per day; or
+29 c. Enrichment of uranium minerals.
+30 7. "Gas or liquid transmission facility" means any of the following:
+Page No. 8 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. A gas or liquid transmission line and associated facilities designed for or capable
+2 of transporting coal, gas, liquid hydrocarbons, liquid hydrocarbon products,
+3 hydrogen, or carbon dioxide. This subdivision does not apply to:
+4 (1) An oil or gas pipeline gathering system;
+5 (2) A natural gas distribution system;
+6 (3) Carbon dioxide storage facility underground equipment, including a flow
+7 line, subject to chapter 38-22;
+8 (4) A pipeline with an outside diameter of four and one-half inches
+9 [11.43 centimeters] or less which will not be trenched and will be plowed in
+10 with a power mechanism having a vertical knife or horizontally directionally
+11 drilled, and its associated facilities; or
+12 (5) A pipeline that is less than one mile [1.61 kilometers] long. For purposes of
+13 this chapter, a gathering system includes the pipelines and associated
+14 facilities used to collect oil from the lease site to the first pipeline storage
+15 site where pressure is increased for further transport, or pipelines and
+16 associated facilities used to collect gas from the well to the gas processing
+17 facility at which end-use consumer-quality gas is produced, with or without
+18 the addition of odorant.
+19 b. A liquid transmission line and associated facilities designed for or capable of
+20 transporting water from or to an energy conversion facility.
+21 8. "Permit" means the permit for the construction of a gas or liquid transmission facility
+22 within a designated corridor issued under this chapter.
+23 9. "Person" includes an individual, firm, association, partnership, cooperative,
+24 corporation, limited liability company, or any department, agency, or instrumentality of
+25 a state or of the federal government, or any subdivision thereof.
+26 10. "Public hearing" means a proceeding conducted for the purpose of acquiring
+27 information that will be considered in a certificate or permit action evaluation and
+28 which affords the public an opportunity to present views, opinions, and information.
+29 11. "Road use agreement" means permits required for extraordinary road use, road
+30 access points, approach or road crossings, public right-of-way setbacks, building
+Page No. 9 25.8062.01000
+
+Sixty-ninth
+Legislative Assembly
+1 rules, physical addressing, dust control measures, or road maintenance and any repair
+2 mitigation plans.
+3 11.12. "Route" means the location of a gas or liquid transmission facility within a designated
+4 corridor.
+5 12.13. "Site" means the location of a gas or liquid energy conversion facility.
+6 13.14. "Utility" means a person engaged in and controlling the generation, manufacture,
+7 refinement, or transmission of gas, liquid hydrocarbons, or liquid hydrocarbon
+8 products, including coal gasification, coal liquefaction, petroleum refinement, uranium
+9 enrichment, and the transmission of coal, gas, liquid hydrocarbons, or liquid
+10 hydrocarbon products, or the transmission of water from or to any gas or liquid energy
+11 conversion facility.
+12 SECTION 5. A new subsection to section 49-22.1-10 of the North Dakota Century Code is
+13 created and enacted as follows:
+14 The commission may hold a technical hearing on an application by the commission's
+15 own motion or by motion of a directly interested person. During a technical hearing the
+16 parties shall be afforded an opportunity to present evidence, examine witnesses, and
+17 cross-examine witnesses as permitted under sections 28 - 32 - 24 and 28 - 32 - 25 .
+Page No. 10 25.8062.01000
+
+[DELETED: .".".".C)T)W12]
+[DELETED: )F)F)E)T)O)O)T)T)B)T)T]O]O]T]T)T.O)C22]
+[DELETED: )T)T]O]O]T]T)T)N)R.I.".".G.G32]
+[DELETED: .U.".A)C)W)I.A."."."."."."."42]
+[DELETED: .".".".T.B.B52]
+[DELETED: .A.".".".C)T)W)F)F)E)T62]
+[DELETED: )O)O)T)T)B)T)T]O]O]T]T)T.O)C)T)T]O]O]T72]
+[DELETED: ]T)T)N)R.I.".".".M.M.E."82]
+[DELETED: .A)A)A)C)A)A.A."."."."92]
+[DELETED: ."."."02]

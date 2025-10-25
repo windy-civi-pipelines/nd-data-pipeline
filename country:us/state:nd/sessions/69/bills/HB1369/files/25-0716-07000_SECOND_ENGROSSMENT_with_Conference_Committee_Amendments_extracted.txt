@@ -1,0 +1,1321 @@
+Title: REENGROSSED HOUSE BILL NO. 1369
+Official Title: REENGROSSED HOUSE BILL NO. 1369
+Number of Sections: 1
+Source: versions - SECOND ENGROSSMENT with Conference Committee Amendments
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+25.0716.07000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+SECOND ENGROSSMENT
+with Conference Committee Amendments
+Introduced by
+Representatives Heinert, Richter
+Senators Lemm, Schaible
+1 A BILL for an Act to amend and reenact sections 15.1-27-04.1, 15.1-32-19, 15.1-36-02,
+2 48-01.2-02.1, 48-01.2-10, and 57-15-14.2 of the North Dakota Century Code, and section
+3 15.1-36-08 as amended by section 1 of Senate Bill No. 2149, as approved by the sixty-ninth
+4 legislative assembly, relating to the determination of state aid, boarding care costs, the coal
+5 development trust fund, the school construction assistance revolving loan fund, public
+6 improvement construction, bonds from contractors for public improvements, and school district
+7 levies; to provide an effective date; and to declare an emergency.
+8 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+9 SECTION 1. AMENDMENT. Section 15.1-27-04.1 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 15.1-27-04.1. Baseline funding - Establishment - Determination of state aid. (Effective
+12 through June 30, 2025) (Retroactive application - See note)
+13 1. To determine the amount of state aid payable to each district, the superintendent of
+14 public instruction shall establish each district's baseline funding. A district's baseline
+15 funding consists of:
+16 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+17 2018-19 school year;
+18 b. An amount equal to the property tax deducted by the superintendent of public
+19 instruction to determine the 2018-19 state aid payment;
+20 c. An amount equal to seventy-five percent of the revenue received by the school
+21 district during the 2017-18 school year for the following revenue types:
+Page No. 1 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 (1) Revenue reported under code 2000 of the North Dakota school district
+2 financial accounting and reporting manual, as developed by the
+3 superintendent of public instruction in accordance with section 15.1-02-08;
+4 (2) Mineral revenue received by the school district through direct allocation from
+5 the state treasurer and not reported under code 2000 of the North Dakota
+6 school district financial accounting and reporting manual, as developed by
+7 the superintendent of public instruction in accordance with section
+8 15.1-02-08;
+9 (3) Tuition reported under code 1300 of the North Dakota school district
+10 financial accounting and reporting manual, as developed by the
+11 superintendent of public instruction in accordance with section 15.1-02-08,
+12 with the exception of revenue received specifically for the operation of an
+13 educational program provided at a residential treatment facility, tuition
+14 received for the provision of an adult farm management program, and
+15 beginning in the 2021-22 school year, seventeen percent of tuition received
+16 under an agreement to educate students from a school district on an
+17 air force base with funding received through federal impact aid, and an
+18 additional seventeen percent of tuition received under an agreement to
+19 educate students from a school district on an air force base with funding
+20 received through federal impact aid each school year thereafter, until the
+21 2024-25 school year when sixty-eight percent of tuition received under an
+22 agreement to educate students from a school district on an air force base
+23 with funding received through federal impact aid must be excluded from the
+24 tuition calculation under this paragraph;
+25 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+26 of electric power;
+27 (5) Revenue from payments in lieu of taxes on electricity generated from
+28 sources other than coal; and
+29 (6) Revenue from the leasing of land acquired by the United States for which
+30 compensation is allocated to the state under 33 U.S.C. 701(c)(3);
+Page No. 2 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 d. An amount equal to the total revenue received by the school district during the
+2 2017-18 school year for the following revenue types:
+3 (1) Mobile home tax revenue;
+4 (2) Telecommunications tax revenue; and
+5 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+6 homestead credit and disabled veterans credit; and
+7 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+8 baseline funding for any school district that becomes an elementary district
+9 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+10 be proportional to the number of weighted student units in the grades that are
+11 offered through another school district relative to the total number of weighted
+12 student units the school district offered in the year before the school district
+13 became an elementary district. The reduced baseline funding applies to the
+14 calculation of state aid for the first school year in which the school district
+15 becomes an elementary district and for each year thereafter. For districts that
+16 become an elementary district prior to the 2020-21 school year, the
+17 superintendent shall use the reduced baseline funding to calculate state aid for
+18 the 2020-21 school year and for each year thereafter.
+19 2. a. The superintendent shall divide the district's baseline funding determined in
+20 subsection 1 by the district's 2017-18 weighted student units to determine the
+21 district's baseline funding per weighted student unit.
+22 b. For any school district that becomes an elementary district pursuant to section
+23 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+24 district's baseline funding per weighted student unit used to calculate state aid.
+25 The superintendent shall divide the district's baseline funding determined in
+26 subsection 1 by the district's weighted student units after the school district
+27 becomes an elementary district to determine the district's adjusted baseline
+28 funding per weighted student unit. The superintendent shall use the district's
+29 adjusted baseline funding per weighted student unit in the calculation of state aid
+30 for the first school year in which the school district becomes an elementary
+31 district and for each year thereafter.
+Page No. 3 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+2 superintendent shall reduce the district's baseline funding per weighted student
+3 unit. Each year the superintendent shall calculate the amount by which the
+4 district's baseline funding per weighted student unit exceeds the payment per
+5 weighted student unit provided in subsection 3. For the 2023-24 school year the
+6 superintendent shall reduce the district's baseline funding per weighted student
+7 unit by forty percent of the amount by which the district's baseline funding per
+8 weighted student unit exceeds the payment per weighted student unit for the
+9 2023-24 school year. For each year thereafter, the reduction percentage is
+10 increased by an additional fifteen percent. However, the district's baseline funding
+11 per weighted student unit, after the reduction, may not be less than the payment
+12 per weighted student unit provided in subsection 3.
+13 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+14 greater of:
+15 (1) The district's weighted student units multiplied by ten thousand six hundred
+16 forty-six dollars;
+17 (2) One hundred two percent of the district's baseline funding per weighted
+18 student unit, as established in subsection 2, multiplied by the district's
+19 weighted student units, not to exceed the district's 2017-18 baseline
+20 weighted student units, plus any weighted student units in excess of the
+21 2017-18 baseline weighted student units multiplied by ten thousand
+22 six hundred forty-six dollars; or
+23 (3) The district's baseline funding as established in subsection 1 less the
+24 amount in paragraph 1, with the difference reduced by forty percent and
+25 then the difference added to the amount determined in paragraph 1.
+26 b. For the 2024-25 school year and each school year thereafter, the superintendent
+27 shall calculate state aid as the greater of:
+28 (1) The district's weighted student units multiplied by eleven thousand
+29 seventy-two dollars;
+30 (2) One hundred two percent of the district's baseline funding per weighted
+31 student unit, as established in subsection 2, multiplied by the district's
+Page No. 4 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 weighted student units, not to exceed the district's 2017-18 baseline
+2 weighted student units, plus any weighted student units in excess of the
+3 2017-18 baseline weighted student units multiplied by eleven thousand
+4 seventy-two dollars; or
+5 (3) The district's baseline funding as established in subsection 1 less the
+6 amount in paragraph 1, with the difference reduced by fifty-five percent for
+7 the 2024-25 school year and the reduction percentage increasing by fifteen
+8 percent each school year thereafter until the difference is reduced to zero,
+9 and then the difference added to the amount determined in paragraph 1.
+10 4. After determining the product in accordance with subsection 3, the superintendent of
+11 public instruction shall:
+12 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+13 school district, except the amount in dollars subtracted for purposes of this
+14 subdivision may not exceed the previous year's amount in dollars subtracted for
+15 purposes of this subdivision by more than twelve percent, adjusted pursuant to
+16 section 15.1-27-04.3; and
+17 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+18 subdivisions c and d of subsection 1. Before determining the deduction for
+19 seventy-five percent of all revenue types, the superintendent of public instruction
+20 shall adjust revenues as follows:
+21 (1) Tuition revenue shall be adjusted as follows:
+22 (a) In addition to deducting tuition revenue received specifically for the
+23 operation of an educational program provided at a residential
+24 treatment facility, tuition revenue received for the provision of an adult
+25 farm management program, tuition received for the education of
+26 high-cost and special education students, and tuition received under
+27 an agreement to educate students from a school district on an
+28 air force base with funding received through federal impact aid as
+29 directed each school year in paragraph 3 of subdivision c of
+30 subsection 1, the superintendent of public instruction also shall reduce
+31 the total tuition reported by the school district by the amount of tuition
+Page No. 5 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 revenue received for the education of students not residing in the
+2 state and for which the state has not entered a cross-border education
+3 contract; and
+4 (b) The superintendent of public instruction also shall reduce the total
+5 tuition reported by admitting school districts meeting the requirements
+6 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+7 of tuition revenue received for the education of students residing in an
+8 adjacent school district.
+9 (2) After adjusting tuition revenue as provided in paragraph 1, the
+10 superintendent shall reduce all remaining revenues from all revenue types
+11 by the percentage of mills levied in 2022 by the school district for sinking
+12 and interest relative to the total mills levied in 2022 by the school district for
+13 all purposes.
+14 5. The amount remaining after the computation required under subsection 4 is the
+15 amount of state aid to which a school district is entitled, subject to any other statutory
+16 requirements or limitations.
+17 6. On or before June thirtieth of each year, the school board shall certify to the
+18 superintendent of public instruction the final average daily membership for the current
+19 school year.
+20 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+21 with the school districts, shall report the following to the superintendent of public
+22 instruction on an annual basis:
+23 a. The amount of revenue received by each school district in the county during the
+24 previous school year for each type of revenue identified in subdivisions c and d of
+25 subsection 1;
+26 b. The total number of mills levied in the previous calendar year by each school
+27 district for all purposes; and
+28 c. The number of mills levied in the previous calendar year by each school district
+29 for sinking and interest fund purposes.
+30 Baseline funding - Establishment - Determination of state aid. (Effective after
+31 June 30, 2025)
+Page No. 6 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 1. To determine the amount of state aid payable to each district, the superintendent of
+2 public instruction shall establish each district's baseline funding. A district's baseline
+3 funding consists of:
+4 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+5 2018-19 school year;
+6 b. An amount equal to the property tax deducted by the superintendent of public
+7 instruction to determine the 2018-19 state aid payment;
+8 c. An amount equal to seventy-five percent of the revenue received by the school
+9 district during the 2017-18 school year for the following revenue types:
+10 (1) Revenue reported under code 2000 of the North Dakota school district
+11 financial accounting and reporting manual, as developed by the
+12 superintendent of public instruction in accordance with section 15.1-02-08;
+13 (2) Mineral revenue received by the school district through direct allocation from
+14 the state treasurer and not reported under code 2000 of the North Dakota
+15 school district financial accounting and reporting manual, as developed by
+16 the superintendent of public instruction in accordance with section
+17 15.1-02-08;
+18 (3) Tuition reported under code 1300 of the North Dakota school district
+19 financial accounting and reporting manual, as developed by the
+20 superintendent of public instruction in accordance with section 15.1-02-08,
+21 with the exception of revenue received specifically for the operation of an
+22 educational program provided at a residential treatment facility, tuition
+23 received for the provision of an adult farm management program, and
+24 beginning in the 2025-26 school year, eighty-five percent of tuition received
+25 under an agreement to educate students from a school district on an
+26 air force base with funding received through federal impact aid, until the
+27 2026-27 school year, and each school year thereafter, when all tuition
+28 received under an agreement to educate students from a school district on
+29 an air force base with funding received through federal impact aid must be
+30 excluded from the tuition calculation under this paragraph;
+Page No. 7 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+2 of electric power;
+3 (5) Revenue from payments in lieu of taxes on electricity generated from
+4 sources other than coal; and
+5 (6) Revenue from the leasing of land acquired by the United States for which
+6 compensation is allocated to the state under 33 U.S.C. 701(c)(3); and
+7 d. An amount equal to the total revenue received by the school district during the
+8 2017-18 school year for the following revenue types:
+9 (1) Mobile home tax revenue;
+10 (2) Telecommunications tax revenue; and
+11 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+12 homestead credit and disabled veterans credit.; and
+13 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+14 baseline funding for any school district that becomes an elementary district
+15 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+16 be proportional to the number of weighted student units in the grades that are
+17 offered through another school district relative to the total number of weighted
+18 student units the school district offered in the year before the school district
+19 became an elementary district. The reduced baseline funding applies to the
+20 calculation of state aid for the first school year in which the school district
+21 becomes an elementary district and for each year thereafter. For districts that
+22 become an elementary district prior to the 2020-21 school year, the
+23 superintendent shall use the reduced baseline funding to calculate state aid for
+24 the 2020-21 school year and for each year thereafter.
+25 2. a. The superintendent shall divide the district's baseline funding determined in
+26 subsection 1 by the district's 2017-18 weighted student units to determine the
+27 district's baseline funding per weighted student unit.
+28 b. For any school district that becomes an elementary district pursuant to section
+29 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+30 district's baseline funding per weighted student unit used to calculate state aid.
+31 The superintendent shall divide the district's baseline funding determined in
+Page No. 8 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 subsection 1 by the district's weighted student units after the school district
+2 becomes an elementary district to determine the district's adjusted baseline
+3 funding per weighted student unit. The superintendent shall use the district's
+4 adjusted baseline funding per weighted student unit in the calculation of state aid
+5 for the first school year in which the school district becomes an elementary
+6 district and for each year thereafter.
+7 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+8 superintendent shall reduce the district's baseline funding per weighted student
+9 unit. Each year the superintendent shall calculate the amount by which the
+10 district's baseline funding per weighted student unit exceeds the payment per
+11 weighted student unit provided in subsection 3. For the 2023-24 school year the
+12 superintendent shall reduce the district's baseline funding per weighted student
+13 unit by forty percent of the amount by which the district's baseline funding per
+14 weighted student unit exceeds the payment per weighted student unit for the
+15 2023-24 school year. For each year thereafter, the reduction percentage is
+16 increased by an additional fifteen percent. However, the district's baseline funding
+17 per weighted student unit, after the reduction, may not be less than the payment
+18 per weighted student unit provided in subsection 3.
+19 3. a. For the 2023-24 2025 - 26 school year, the superintendent shall calculate state aid
+20 as the greater of:
+21 (1) The district's weighted student units multiplied by ten thousand six hundred
+22 forty-six eleven thousand three hundred forty - nine dollars;
+23 (2) One hundred two percent of the district's baseline funding per weighted
+24 student unit, as established in subsection 2, multiplied by the district's
+25 weighted student units, not to exceed the district's 2017-18 baseline
+26 weighted student units, plus any weighted student units in excess of the
+27 2017-18 baseline weighted student units multiplied by ten thousand
+28 six hundred forty-six eleven thousand three hundred forty - nine dollars; or
+29 (3) The district's baseline funding as established in subsection 1 less the
+30 amount in paragraph 1, with the difference reduced by fortyseventy percent
+31 and then the difference added to the amount determined in paragraph 1.
+Page No. 9 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 b. For the 2024-25 2026 - 27 school year and each school year thereafter, the
+2 superintendent shall calculate state aid as the greater of:
+3 (1) The district's weighted student units multiplied by eleven thousand
+4 seventy-two six hundred thirty - three dollars;
+5 (2) One hundred two percent of the district's baseline funding per weighted
+6 student unit, as established in subsection 2, multiplied by the district's
+7 weighted student units, not to exceed the district's 2017-18 baseline
+8 weighted student units, plus any weighted student units in excess of the
+9 2017-18 baseline weighted student units multiplied by eleven thousand
+10 seventy-two six hundred thirty - three dollars; or
+11 (3) The district's baseline funding as established in subsection 1 less the
+12 amount in paragraph 1, with the difference reduced by fifty-five eighty - five
+13 percent for the 2024-25 2026 - 27 school year and the reduction percentage
+14 increasing by fifteen percent each school year thereafter until the difference
+15 is reduced to zero, and then the difference added to the amount determined
+16 in paragraph 1.
+17 4. After determining the product in accordance with subsection 3, the superintendent of
+18 public instruction shall:
+19 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+20 school district; and
+21 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+22 subdivisions c and d subdivision c and paragraphs 1 and 2 of subdivision d of
+23 subsection 1 and revenue from payments in lieu of taxes. Before determining the
+24 deduction for seventy-five percent of all revenue types, the superintendent of
+25 public instruction shall adjust revenues as follows:
+26 (1) Tuition revenue shall be adjusted as follows:
+27 (a) In addition to deducting tuition revenue received specifically for the
+28 operation of an educational program provided at a residential
+29 treatment facility, tuition revenue received for the provision of an adult
+30 farm management program, tuition received for the education of
+31 high-cost and special education students, and tuition received under
+Page No. 10 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 an agreement to educate students from a school district on an
+2 air force base with funding received through federal impact aid as
+3 directed each school year in paragraph 3 of subdivision c of
+4 subsection 1, the superintendent of public instruction also shall reduce
+5 the total tuition reported by the school district by the amount of tuition
+6 revenue received for the education of students not residing in the
+7 state and for which the state has not entered a cross-border education
+8 contract; and
+9 (b) The superintendent of public instruction also shall reduce the total
+10 tuition reported by admitting school districts meeting the requirements
+11 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+12 of tuition revenue received for the education of students residing in an
+13 adjacent school district.
+14 (2) After adjusting tuition revenue as provided in paragraph 1, the
+15 superintendent shall reduce all remaining revenues from all revenue types
+16 by the percentage of mills levied in 20222024 by the school district for
+17 sinking and interest relative to the total mills levied in 20222024 by the
+18 school district for all purposes.
+19 5. The amount remaining after the computation required under subsection 4 is the
+20 amount of state aid to which a school district is entitled, subject to any other statutory
+21 requirements or limitations.
+22 6. On or before June thirtieth of each year, the school board shall certify to the
+23 superintendent of public instruction the final average daily membership for the current
+24 school year.
+25 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+26 with the school districts, shall report the following to the superintendent of public
+27 instruction on an annual basis:
+28 a. The amount of revenue received by each school district in the county during the
+29 previous school year for each type of revenue identified in subdivisions c and d of
+30 subsection 1;
+Page No. 11 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 b. The total number of mills levied in the previous calendar year by each school
+2 district for all purposes; and
+3 c. The number of mills levied in the previous calendar year by each school district
+4 for sinking and interest fund purposes.
+5 SECTION 2. AMENDMENT. Section 15.1-32-19 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 15.1-32-19. Boarding care costs - Reimbursement of school district.
+8 The superintendent of public instruction shall reimburse a student's school district of
+9 residence an amount equal to eighty percent of the room and board costs paid by the district for
+10 a student with disabilities who is placed in a facility that is located either within or outside of the
+11 student's school district of residence in order to receive special education services. The
+12 student's school district of residence is liable for any room and board costs in excess of those
+13 reimbursed as provided in this section. The placement of a student with disabilities in a public or
+14 private facility will be made by a school district and approved by the superintendent of public
+15 instruction. The placementsuperintendent of a student with disabilities in congregate care will be
+16 made in a facility designated bypublic instruction may consult with the commissioner of the
+17 department of health and human services on congregate care facilities.
+18 SECTION 3. AMENDMENT. Section 15.1-36-02 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 15.1-36-02. Coal development trust fund - Board of university and school lands -
+21 School construction projects - Unanticipated construction projects and emergency
+22 repairs - Loans.
+23 1. Up to sixty million dollars from the coal development trust fund is available to the
+24 board of university and school lands for loans under this section.
+25 2. To be eligible for a loan under this section, the school district must demonstrate a need
+26 based on an unanticipated construction project, an unanticipated replacement project,
+27 an emergency repair, or a legislatively defined condition, and the board of a school
+28 district shall:
+29 a. Obtain the approval of the superintendent of public instruction for the construction
+30 project under section 15.1-36-01; and
+Page No. 12 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 b. Submit to the superintendent of public instruction an application containing all
+2 information deemed necessary by the superintendent, including potential
+3 alternative sources or methods of financing the construction project.
+4 3. The superintendent of public instruction shall consider each loan application in the
+5 order the application received approval under section 15.1-36-01.
+6 4. If the superintendent of public instruction approves the loan, the board of university
+7 and school lands shall issue a loan from the coal development trust fund.
+8 a. For a loan made under this sectionsubsection:
+9 a.(1) TheExcept for loans provided for a school construction project on an air
+10 force base, the minimum loan amount is two hundred fifty thousand dollars
+11 and the maximum loan amount for which a school district may qualify is five
+12 million dollars;
+13 b.(2) The term of the loan is twenty years, unless the board of the school district
+14 requests a shorter term in the written loan application; and
+15 c.(3) The interest rate of the loan may not exceed two percent per year.
+16 b. During the 2025 - 27 biennium, a loan for a school construction project on an air
+17 force base is an allowable condition under subsection 2. For a loan made for a
+18 school construction project on an air force base under this subsection:
+19 (1) The maximum loan amount for which the school district may qualify is the
+20 lesser of twenty percent of the project cost or twenty million dollars;
+21 (2) The term of the loan is twenty years, unless the board of the school district
+22 requests a shorter term in the written loan application;
+23 (3) The interest rate of the loan may not exceed two percent per year; and
+24 (4) The school district must obtain all necessary federal authorizations and
+25 funding commitments for the project.
+26 5. a. If a school district seeking a loan under this section received an allocation of the
+27 oil and gas gross production tax during the previous fiscal year in accordance
+28 with chapter 57-51, the board of the district shall provide to the board of
+29 university and school lands, and to the state treasurer, its evidence of
+30 indebtedness indicating the loan originated under this section.
+Page No. 13 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 b. If the evidence of indebtedness is payable solely from the school district's
+2 allocation of the oil and gas gross production tax in accordance with section
+3 57-51-15, the loan does not constitute a general obligation of the school district
+4 and may not be considered a debt of the district.
+5 c. If a loan made to a school district is payable solely from the district's allocation of
+6 the oil and gas gross production tax in accordance with section 57-51-15, the
+7 terms of the loan must require the state treasurer withhold the dollar amount or
+8 percentage specified in the loan agreement, from each of the district's oil and gas
+9 gross production tax allocations, in order to repay the principal and interest of the
+10 evidence of indebtedness. The state treasurer shall deposit the amount withheld
+11 into the fund from which the loan originated.
+12 d. Any evidence of indebtedness executed by the board of a school district under
+13 this subsection is a negotiable instrument and not subject to taxation by the state
+14 or any political subdivision of the state.
+15 6. For purposes of this section, a "construction project" means the purchase, lease,
+16 erection, or improvement of any structure or facility by a school board, provided the
+17 acquisition or activity is within a school board's authority.
+18 SECTION 4. AMENDMENT. Section 15.1-36-08 of the North Dakota Century Code as
+19 amended by section 1 of Senate Bill No. 2149, as approved by the sixty-ninth legislative
+20 assembly, is amended and reenacted as follows:
+21 15.1-36-08. School construction assistance revolving loan fund - Bank of North
+22 Dakota - School construction projects - Continuing appropriation.
+23 1. The school construction assistance revolving loan fund is a special revolving loan fund
+24 administered by the Bank. The fund consists of all moneys appropriated or transferred
+25 to the fund by the legislative assembly, all interest or other earnings of the fund, and all
+26 repayments of loans made from the fund.
+27 2. Moneys in the fund, interest upon the moneys in the fund, and payments to the fund of
+28 principal and interest are appropriated to the Bank on a continuing basis for the
+29 purpose of providing low-interest school construction loans and for paying
+30 administrative costs, in accordance with this section.
+Page No. 14 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 3. For a school construction project not located on an air force base, to be eligible for a
+2 loan under this section, the board of a school district shall:
+3 a. Propose a new construction or remodeling project with a cost of at least
+4 one million dollars and an expected utilization of at least thirty years;
+5 b. Obtain the approval of the superintendent of public instruction for the project
+6 under section 15.1-36-01;
+7 c. (1) Publish in the official newspaper of the district the information regarding the
+8 proposed estimated additional millage and the dollar increase per
+9 one thousand dollars of taxable valuation in accordance with section
+10 21-03-13 along with the notice of the election in accordance with section
+11 21-03-12 or along with the initial resolution in accordance with subsection 7
+12 of section 21-03-07; and
+13 (2) Post the information on the school district's website before the date of the
+14 election or during the protest period in accordance with chapter 21-03;
+15 d. Receive authorization for a bond issue in accordance with chapter 21-03; and
+16 e. Submit a completed application to the Bank.
+17 4. For a school construction project located on an air force base, to be eligible for a loan
+18 under this section, the board of the school district shall:
+19 a. Propose a new construction or remodeling project on an air force base which has
+20 a cost of at least one million dollars and an expected utilization of at least thirty
+21 years;
+22 b. Obtain the approval of the superintendent of public instruction for the project
+23 under section 15.1-36-01;
+24 c. Obtain all necessary federal authorizations and funding commitments for the
+25 project; and
+26 d. Submit a completed application to the Bank.
+27 5. The superintendent of public instruction shall designate, until June 30, 2027, or until a
+28 loan is made as identified in this section, twenty million dollars of funds available for
+29 loans in the school construction assistance revolving loan fund for a loan to provide
+30 matching funds for the construction of facilities on an air force base.
+Page No. 15 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 6. The superintendent of public instruction shall review loan applications based on a
+2 prioritization system that includes a review of all applications filed during the
+3 twelve-month period preceding April first and gives consideration to:
+4 a. Student occupancy and academic needs in the district;
+5 b. The age of existing structures to be replaced or remodeled;
+6 c. Building design proposals that are based on safety and vulnerability
+7 assessments;
+8 d. Community support;
+9 e. Cost; and
+10 f. Any other criteria established by the superintendent of public instruction, after
+11 consultation with an interim committee appointed by the legislative management.
+12 7.6. If the superintendent of public instruction approves the loan, the Bank shall issue a
+13 loan from the school construction assistance revolving loan fund. For a loan made
+14 under this section:
+15 a. If the school construction project totals less than seventy-five million dollars, the
+16 maximum loan amount for which a school district may qualify is fifteen millionten
+17 million dollars. However, if a school district's unobligated general fund balance on
+18 the preceding June thirtieth exceeds the limitation under section 15.1-27-35.3,
+19 the loan amount under this section may not exceed eighty percent of the project's
+20 cost up to a maximum loan amount of twelve millioneight million dollars;
+21 b. If the school construction project totals seventy-five million dollars or more, the
+22 maximum loan amount for which a school district may qualify is thirty
+23 milliontwenty million dollars. However, if a school district's unobligated general
+24 fund balance on the preceding June thirtieth exceeds the limitation under section
+25 15.1-27-35.3, the loan amount under this section may not exceed eighty percent
+26 of the project's cost up to a maximum loan amount of twenty-four millionsixteen
+27 million dollars;
+28 c. If the school construction project is on an air force base, the maximum loan
+29 amount for which the school district may qualify is the lesser of twenty percent of
+30 the project cost or twenty million dollars;
+Page No. 16 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 d. The term of the loan is twenty years, unless the board of the school district
+2 requests a shorter term in the written loan application; and
+3 e. The interest rate of the loan may not exceed two percent per year.
+4 f. A district with a school construction loan secured on the open bond market may
+5 apply to refinance the loan when callable with the school construction assistance
+6 revolving loan fund under this subsection.
+7 8.7. The Bank may adopt policies and establish guidelines to administer this loan program
+8 in accordance with this section. The Bank may use a portion of the interest paid on the
+9 outstanding loans as a servicing fee to pay for administration costs which may not
+10 exceed one-half of one percent of the amount of the interest payment. The Bank shall
+11 deposit principal and interest payments made by school districts for loans under this
+12 section in the school construction assistance revolving loan fund. The fund must be
+13 audited annually pursuant to section 6-09-29, and the cost of the audit must be paid
+14 from the fund.
+15 SECTION 5. AMENDMENT. Section 48-01.2-02.1 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 48-01.2-02.1. Public improvement construction threshold.
+18 1. The threshold for bidding construction of a public improvement is two hundred fifty
+19 thousand dollars. The threshold for procuring plans, drawings, and specifications from
+20 an architect or engineer for construction of a public improvement is two hundred fifty
+21 thousand dollars.
+22 2. Notwithstanding the thresholds in subsection 1, if the state or a political subdivision
+23 undertakes the construction of a public improvement and there is reason to believe
+24 that engineering or architectural services are necessary to protect the health, safety, or
+25 welfare of the public, the state or political subdivision shall consider consulting with an
+26 engineer or architect.
+27 SECTION 6. AMENDMENT. Section 48-01.2-10 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+29 48-01.2-10. Bonds from contractors for public improvements.
+30 1. Unless otherwise provided under this chapter, a governing body authorized to enter a
+31 contract for the construction of a public improvement in excess of two hundred fifty
+Page No. 17 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 thousand dollars shall take from the contractor a bond before permitting any work to
+2 be done on the contract. The bond must be for an amount equal at least to the price
+3 stated in the contract. The bond must be conditioned to be void if the contractor and all
+4 subcontractors fully perform all terms, conditions, and provisions of the contract and
+5 pay all bills or claims on account of labor performed and any supplies, and materials
+6 furnished and used in the performance of the contract, including all demands of
+7 subcontractors. The requirement that bills and claims be paid must include the
+8 requirement that interest of the amount authorized under section 13-01-14 be paid on
+9 bills and claims not paid within ninety days. The bond is security for all bills, claims,
+10 and demands until fully paid, with preference to labor and material suppliers as to
+11 payment. The bond must run to the governing body, but any person having a lawful
+12 claim against the contractor or any subcontractor may sue on the bond.
+13 2. A governing body may not require any person required to provide a surety bond to
+14 obtain the surety bond from a specified insurance or surety company or insurance
+15 producer or to submit financial data to the company or producer.
+16 SECTION 7. AMENDMENT. Section 57-15-14.2 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 57-15-14.2. School district levies.
+19 1. The board of a school district may levy a tax not exceeding the amount in dollars that
+20 the school district levied for the prior year, plus twelve percent, up to a levy of seventy
+21 mills on the taxable valuation of the district, for any purpose related to the provision of
+22 educational services. The proceeds of this levy must be deposited into the school
+23 district's general fund and used in accordance with this subsection. The proceeds may
+24 not be transferred into any other fund.
+25 2. The board of a school district may levy no more than twelve mills on the taxable
+26 valuation of the district, for miscellaneous purposes and expenses. The proceeds of
+27 this levy must be deposited into a special fund known as the miscellaneous fund and
+28 used in accordance with this subsection. The proceeds may not be transferred into
+29 any other fund.
+Page No. 18 25.0716.07000
+Sixty-ninth
+Legislative Assembly
+1 3. The board of a school district may levy no more than three mills on the taxable
+2 valuation of the district for deposit into a special reserve fund, in accordance with
+3 chapter 57-19.
+4 4. The board of a school district may levy no more than the number of mills necessary,
+5 on the taxable valuation of the district, for the payment of tuition, in accordance with
+6 section 15.1-29-15. The proceeds of this levy must be deposited into a special fund
+7 known as the tuition fund and used in accordance with this subsection. The proceeds
+8 may not be transferred into any other fund.
+9 5. The board of a school district may levy no more than five mills on the taxable valuation
+10 of the district, pursuant to section 57-15-15.1, for purposes of developing a school
+11 safety plan in accordance with section 15.1-09-60. The proceeds of this levy must be
+12 deposited into a special fund known as the school safety plan fund and used in
+13 accordance with this subsection.
+14 6. Nothing in this section limits the board of a school district from levying:
+15 a. Mills for a building fund, as permitted in sections 15.1-09-49 and 57-15-16; and
+16 b. Mills necessary to pay principal and interest on the bonded debt of the district,
+17 including the mills necessary to pay principal and interest on any bonded debt
+18 incurred under section 57-15-17.1 before July 1, 2013.
+19 SECTION 8. EFFECTIVE DATE. Section 7 of this Act is effective for taxable years
+20 beginning after December 31, 2024. Sections 1, 2, 5, and 6 of this Act are effective July 1,
+21 2025.
+22 SECTION 9. EMERGENCY. This Act is declared to be an emergency measure.
+Page No. 19 25.0716.07000
+[DELETED: .T.A.A.A12]
+[DELETED: )R)M)T)R)R)R22]
+[DELETED: .A)M)T)R.B.a.T.F32]
+[DELETED: .B.a.F)T)O)T.F)T)O42]
+[DELETED: )T.A.S.S)T)I52]
+[DELETED: )T)A.T.O.F.T.T.T62]
+[DELETED: .T.A.A.A)R)M)T72]
+[DELETED: )R)R)R.A)M)T)R.B.a.T.F82]
+[DELETED: .B.a.F)T)O)T92]
+[DELETED: .F)T)O)T.A.S.S)T)I02]
+[DELETED: )T)A.T.O.F.T12]
+[DELETED: .T.T.U.T.O22]
+[DELETED: .S.T.I.F)T)T)T. )T)T)T)T.a.I32]
+[DELETED: .I.I.A.F.T.M42]
+[DELETED: .F.P.O.()P)P.R.S.F.P.O.O.S.T52]
+[DELETED: .T.S.T.B.C.C.A.I.I.I.I62]
+[DELETED: .T.T.A.T.T.N.U72]
+[DELETED: .A.T.T82]
+[DELETED: .T.T.T.N.M.M92]
+
+
+================================================================================
+
+Raw Text:
+25.0716.07000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+SECOND ENGROSSMENT
+with Conference Committee Amendments
+REENGROSSED HOUSE BILL NO. 1369
+Introduced by
+Representatives Heinert, Richter
+Senators Lemm, Schaible
+1 A BILL for an Act to amend and reenact sections 15.1-27-04.1, 15.1-32-19, 15.1-36-02,
+2 48-01.2-02.1, 48-01.2-10, and 57-15-14.2 of the North Dakota Century Code, and section
+3 15.1-36-08 as amended by section 1 of Senate Bill No. 2149, as approved by the sixty-ninth
+4 legislative assembly, relating to the determination of state aid, boarding care costs, the coal
+5 development trust fund, the school construction assistance revolving loan fund, public
+6 improvement construction, bonds from contractors for public improvements, and school district
+7 levies; to provide an effective date; and to declare an emergency.
+8 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+9 SECTION 1. AMENDMENT. Section 15.1-27-04.1 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 15.1-27-04.1. Baseline funding - Establishment - Determination of state aid. (Effective
+12 through June 30, 2025) (Retroactive application - See note)
+13 1. To determine the amount of state aid payable to each district, the superintendent of
+14 public instruction shall establish each district's baseline funding. A district's baseline
+15 funding consists of:
+16 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+17 2018-19 school year;
+18 b. An amount equal to the property tax deducted by the superintendent of public
+19 instruction to determine the 2018-19 state aid payment;
+20 c. An amount equal to seventy-five percent of the revenue received by the school
+21 district during the 2017-18 school year for the following revenue types:
+Page No. 1 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 (1) Revenue reported under code 2000 of the North Dakota school district
+2 financial accounting and reporting manual, as developed by the
+3 superintendent of public instruction in accordance with section 15.1-02-08;
+4 (2) Mineral revenue received by the school district through direct allocation from
+5 the state treasurer and not reported under code 2000 of the North Dakota
+6 school district financial accounting and reporting manual, as developed by
+7 the superintendent of public instruction in accordance with section
+8 15.1-02-08;
+9 (3) Tuition reported under code 1300 of the North Dakota school district
+10 financial accounting and reporting manual, as developed by the
+11 superintendent of public instruction in accordance with section 15.1-02-08,
+12 with the exception of revenue received specifically for the operation of an
+13 educational program provided at a residential treatment facility, tuition
+14 received for the provision of an adult farm management program, and
+15 beginning in the 2021-22 school year, seventeen percent of tuition received
+16 under an agreement to educate students from a school district on an
+17 air force base with funding received through federal impact aid, and an
+18 additional seventeen percent of tuition received under an agreement to
+19 educate students from a school district on an air force base with funding
+20 received through federal impact aid each school year thereafter, until the
+21 2024-25 school year when sixty-eight percent of tuition received under an
+22 agreement to educate students from a school district on an air force base
+23 with funding received through federal impact aid must be excluded from the
+24 tuition calculation under this paragraph;
+25 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+26 of electric power;
+27 (5) Revenue from payments in lieu of taxes on electricity generated from
+28 sources other than coal; and
+29 (6) Revenue from the leasing of land acquired by the United States for which
+30 compensation is allocated to the state under 33 U.S.C. 701(c)(3);
+Page No. 2 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 d. An amount equal to the total revenue received by the school district during the
+2 2017-18 school year for the following revenue types:
+3 (1) Mobile home tax revenue;
+4 (2) Telecommunications tax revenue; and
+5 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+6 homestead credit and disabled veterans credit; and
+7 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+8 baseline funding for any school district that becomes an elementary district
+9 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+10 be proportional to the number of weighted student units in the grades that are
+11 offered through another school district relative to the total number of weighted
+12 student units the school district offered in the year before the school district
+13 became an elementary district. The reduced baseline funding applies to the
+14 calculation of state aid for the first school year in which the school district
+15 becomes an elementary district and for each year thereafter. For districts that
+16 become an elementary district prior to the 2020-21 school year, the
+17 superintendent shall use the reduced baseline funding to calculate state aid for
+18 the 2020-21 school year and for each year thereafter.
+19 2. a. The superintendent shall divide the district's baseline funding determined in
+20 subsection 1 by the district's 2017-18 weighted student units to determine the
+21 district's baseline funding per weighted student unit.
+22 b. For any school district that becomes an elementary district pursuant to section
+23 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+24 district's baseline funding per weighted student unit used to calculate state aid.
+25 The superintendent shall divide the district's baseline funding determined in
+26 subsection 1 by the district's weighted student units after the school district
+27 becomes an elementary district to determine the district's adjusted baseline
+28 funding per weighted student unit. The superintendent shall use the district's
+29 adjusted baseline funding per weighted student unit in the calculation of state aid
+30 for the first school year in which the school district becomes an elementary
+31 district and for each year thereafter.
+Page No. 3 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+2 superintendent shall reduce the district's baseline funding per weighted student
+3 unit. Each year the superintendent shall calculate the amount by which the
+4 district's baseline funding per weighted student unit exceeds the payment per
+5 weighted student unit provided in subsection 3. For the 2023-24 school year the
+6 superintendent shall reduce the district's baseline funding per weighted student
+7 unit by forty percent of the amount by which the district's baseline funding per
+8 weighted student unit exceeds the payment per weighted student unit for the
+9 2023-24 school year. For each year thereafter, the reduction percentage is
+10 increased by an additional fifteen percent. However, the district's baseline funding
+11 per weighted student unit, after the reduction, may not be less than the payment
+12 per weighted student unit provided in subsection 3.
+13 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+14 greater of:
+15 (1) The district's weighted student units multiplied by ten thousand six hundred
+16 forty-six dollars;
+17 (2) One hundred two percent of the district's baseline funding per weighted
+18 student unit, as established in subsection 2, multiplied by the district's
+19 weighted student units, not to exceed the district's 2017-18 baseline
+20 weighted student units, plus any weighted student units in excess of the
+21 2017-18 baseline weighted student units multiplied by ten thousand
+22 six hundred forty-six dollars; or
+23 (3) The district's baseline funding as established in subsection 1 less the
+24 amount in paragraph 1, with the difference reduced by forty percent and
+25 then the difference added to the amount determined in paragraph 1.
+26 b. For the 2024-25 school year and each school year thereafter, the superintendent
+27 shall calculate state aid as the greater of:
+28 (1) The district's weighted student units multiplied by eleven thousand
+29 seventy-two dollars;
+30 (2) One hundred two percent of the district's baseline funding per weighted
+31 student unit, as established in subsection 2, multiplied by the district's
+Page No. 4 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 weighted student units, not to exceed the district's 2017-18 baseline
+2 weighted student units, plus any weighted student units in excess of the
+3 2017-18 baseline weighted student units multiplied by eleven thousand
+4 seventy-two dollars; or
+5 (3) The district's baseline funding as established in subsection 1 less the
+6 amount in paragraph 1, with the difference reduced by fifty-five percent for
+7 the 2024-25 school year and the reduction percentage increasing by fifteen
+8 percent each school year thereafter until the difference is reduced to zero,
+9 and then the difference added to the amount determined in paragraph 1.
+10 4. After determining the product in accordance with subsection 3, the superintendent of
+11 public instruction shall:
+12 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+13 school district, except the amount in dollars subtracted for purposes of this
+14 subdivision may not exceed the previous year's amount in dollars subtracted for
+15 purposes of this subdivision by more than twelve percent, adjusted pursuant to
+16 section 15.1-27-04.3; and
+17 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+18 subdivisions c and d of subsection 1. Before determining the deduction for
+19 seventy-five percent of all revenue types, the superintendent of public instruction
+20 shall adjust revenues as follows:
+21 (1) Tuition revenue shall be adjusted as follows:
+22 (a) In addition to deducting tuition revenue received specifically for the
+23 operation of an educational program provided at a residential
+24 treatment facility, tuition revenue received for the provision of an adult
+25 farm management program, tuition received for the education of
+26 high-cost and special education students, and tuition received under
+27 an agreement to educate students from a school district on an
+28 air force base with funding received through federal impact aid as
+29 directed each school year in paragraph 3 of subdivision c of
+30 subsection 1, the superintendent of public instruction also shall reduce
+31 the total tuition reported by the school district by the amount of tuition
+Page No. 5 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 revenue received for the education of students not residing in the
+2 state and for which the state has not entered a cross-border education
+3 contract; and
+4 (b) The superintendent of public instruction also shall reduce the total
+5 tuition reported by admitting school districts meeting the requirements
+6 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+7 of tuition revenue received for the education of students residing in an
+8 adjacent school district.
+9 (2) After adjusting tuition revenue as provided in paragraph 1, the
+10 superintendent shall reduce all remaining revenues from all revenue types
+11 by the percentage of mills levied in 2022 by the school district for sinking
+12 and interest relative to the total mills levied in 2022 by the school district for
+13 all purposes.
+14 5. The amount remaining after the computation required under subsection 4 is the
+15 amount of state aid to which a school district is entitled, subject to any other statutory
+16 requirements or limitations.
+17 6. On or before June thirtieth of each year, the school board shall certify to the
+18 superintendent of public instruction the final average daily membership for the current
+19 school year.
+20 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+21 with the school districts, shall report the following to the superintendent of public
+22 instruction on an annual basis:
+23 a. The amount of revenue received by each school district in the county during the
+24 previous school year for each type of revenue identified in subdivisions c and d of
+25 subsection 1;
+26 b. The total number of mills levied in the previous calendar year by each school
+27 district for all purposes; and
+28 c. The number of mills levied in the previous calendar year by each school district
+29 for sinking and interest fund purposes.
+30 Baseline funding - Establishment - Determination of state aid. (Effective after
+31 June 30, 2025)
+Page No. 6 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 1. To determine the amount of state aid payable to each district, the superintendent of
+2 public instruction shall establish each district's baseline funding. A district's baseline
+3 funding consists of:
+4 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+5 2018-19 school year;
+6 b. An amount equal to the property tax deducted by the superintendent of public
+7 instruction to determine the 2018-19 state aid payment;
+8 c. An amount equal to seventy-five percent of the revenue received by the school
+9 district during the 2017-18 school year for the following revenue types:
+10 (1) Revenue reported under code 2000 of the North Dakota school district
+11 financial accounting and reporting manual, as developed by the
+12 superintendent of public instruction in accordance with section 15.1-02-08;
+13 (2) Mineral revenue received by the school district through direct allocation from
+14 the state treasurer and not reported under code 2000 of the North Dakota
+15 school district financial accounting and reporting manual, as developed by
+16 the superintendent of public instruction in accordance with section
+17 15.1-02-08;
+18 (3) Tuition reported under code 1300 of the North Dakota school district
+19 financial accounting and reporting manual, as developed by the
+20 superintendent of public instruction in accordance with section 15.1-02-08,
+21 with the exception of revenue received specifically for the operation of an
+22 educational program provided at a residential treatment facility, tuition
+23 received for the provision of an adult farm management program, and
+24 beginning in the 2025-26 school year, eighty-five percent of tuition received
+25 under an agreement to educate students from a school district on an
+26 air force base with funding received through federal impact aid, until the
+27 2026-27 school year, and each school year thereafter, when all tuition
+28 received under an agreement to educate students from a school district on
+29 an air force base with funding received through federal impact aid must be
+30 excluded from the tuition calculation under this paragraph;
+Page No. 7 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+2 of electric power;
+3 (5) Revenue from payments in lieu of taxes on electricity generated from
+4 sources other than coal; and
+5 (6) Revenue from the leasing of land acquired by the United States for which
+6 compensation is allocated to the state under 33 U.S.C. 701(c)(3); and
+7 d. An amount equal to the total revenue received by the school district during the
+8 2017-18 school year for the following revenue types:
+9 (1) Mobile home tax revenue;
+10 (2) Telecommunications tax revenue; and
+11 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+12 homestead credit and disabled veterans credit.; and
+13 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+14 baseline funding for any school district that becomes an elementary district
+15 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+16 be proportional to the number of weighted student units in the grades that are
+17 offered through another school district relative to the total number of weighted
+18 student units the school district offered in the year before the school district
+19 became an elementary district. The reduced baseline funding applies to the
+20 calculation of state aid for the first school year in which the school district
+21 becomes an elementary district and for each year thereafter. For districts that
+22 become an elementary district prior to the 2020-21 school year, the
+23 superintendent shall use the reduced baseline funding to calculate state aid for
+24 the 2020-21 school year and for each year thereafter.
+25 2. a. The superintendent shall divide the district's baseline funding determined in
+26 subsection 1 by the district's 2017-18 weighted student units to determine the
+27 district's baseline funding per weighted student unit.
+28 b. For any school district that becomes an elementary district pursuant to section
+29 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+30 district's baseline funding per weighted student unit used to calculate state aid.
+31 The superintendent shall divide the district's baseline funding determined in
+Page No. 8 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 subsection 1 by the district's weighted student units after the school district
+2 becomes an elementary district to determine the district's adjusted baseline
+3 funding per weighted student unit. The superintendent shall use the district's
+4 adjusted baseline funding per weighted student unit in the calculation of state aid
+5 for the first school year in which the school district becomes an elementary
+6 district and for each year thereafter.
+7 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+8 superintendent shall reduce the district's baseline funding per weighted student
+9 unit. Each year the superintendent shall calculate the amount by which the
+10 district's baseline funding per weighted student unit exceeds the payment per
+11 weighted student unit provided in subsection 3. For the 2023-24 school year the
+12 superintendent shall reduce the district's baseline funding per weighted student
+13 unit by forty percent of the amount by which the district's baseline funding per
+14 weighted student unit exceeds the payment per weighted student unit for the
+15 2023-24 school year. For each year thereafter, the reduction percentage is
+16 increased by an additional fifteen percent. However, the district's baseline funding
+17 per weighted student unit, after the reduction, may not be less than the payment
+18 per weighted student unit provided in subsection 3.
+19 3. a. For the 2023-24 2025 - 26 school year, the superintendent shall calculate state aid
+20 as the greater of:
+21 (1) The district's weighted student units multiplied by ten thousand six hundred
+22 forty-six eleven thousand three hundred forty - nine dollars;
+23 (2) One hundred two percent of the district's baseline funding per weighted
+24 student unit, as established in subsection 2, multiplied by the district's
+25 weighted student units, not to exceed the district's 2017-18 baseline
+26 weighted student units, plus any weighted student units in excess of the
+27 2017-18 baseline weighted student units multiplied by ten thousand
+28 six hundred forty-six eleven thousand three hundred forty - nine dollars; or
+29 (3) The district's baseline funding as established in subsection 1 less the
+30 amount in paragraph 1, with the difference reduced by fortyseventy percent
+31 and then the difference added to the amount determined in paragraph 1.
+Page No. 9 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 b. For the 2024-25 2026 - 27 school year and each school year thereafter, the
+2 superintendent shall calculate state aid as the greater of:
+3 (1) The district's weighted student units multiplied by eleven thousand
+4 seventy-two six hundred thirty - three dollars;
+5 (2) One hundred two percent of the district's baseline funding per weighted
+6 student unit, as established in subsection 2, multiplied by the district's
+7 weighted student units, not to exceed the district's 2017-18 baseline
+8 weighted student units, plus any weighted student units in excess of the
+9 2017-18 baseline weighted student units multiplied by eleven thousand
+10 seventy-two six hundred thirty - three dollars; or
+11 (3) The district's baseline funding as established in subsection 1 less the
+12 amount in paragraph 1, with the difference reduced by fifty-five eighty - five
+13 percent for the 2024-25 2026 - 27 school year and the reduction percentage
+14 increasing by fifteen percent each school year thereafter until the difference
+15 is reduced to zero, and then the difference added to the amount determined
+16 in paragraph 1.
+17 4. After determining the product in accordance with subsection 3, the superintendent of
+18 public instruction shall:
+19 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+20 school district; and
+21 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+22 subdivisions c and d subdivision c and paragraphs 1 and 2 of subdivision d of
+23 subsection 1 and revenue from payments in lieu of taxes. Before determining the
+24 deduction for seventy-five percent of all revenue types, the superintendent of
+25 public instruction shall adjust revenues as follows:
+26 (1) Tuition revenue shall be adjusted as follows:
+27 (a) In addition to deducting tuition revenue received specifically for the
+28 operation of an educational program provided at a residential
+29 treatment facility, tuition revenue received for the provision of an adult
+30 farm management program, tuition received for the education of
+31 high-cost and special education students, and tuition received under
+Page No. 10 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 an agreement to educate students from a school district on an
+2 air force base with funding received through federal impact aid as
+3 directed each school year in paragraph 3 of subdivision c of
+4 subsection 1, the superintendent of public instruction also shall reduce
+5 the total tuition reported by the school district by the amount of tuition
+6 revenue received for the education of students not residing in the
+7 state and for which the state has not entered a cross-border education
+8 contract; and
+9 (b) The superintendent of public instruction also shall reduce the total
+10 tuition reported by admitting school districts meeting the requirements
+11 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+12 of tuition revenue received for the education of students residing in an
+13 adjacent school district.
+14 (2) After adjusting tuition revenue as provided in paragraph 1, the
+15 superintendent shall reduce all remaining revenues from all revenue types
+16 by the percentage of mills levied in 20222024 by the school district for
+17 sinking and interest relative to the total mills levied in 20222024 by the
+18 school district for all purposes.
+19 5. The amount remaining after the computation required under subsection 4 is the
+20 amount of state aid to which a school district is entitled, subject to any other statutory
+21 requirements or limitations.
+22 6. On or before June thirtieth of each year, the school board shall certify to the
+23 superintendent of public instruction the final average daily membership for the current
+24 school year.
+25 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+26 with the school districts, shall report the following to the superintendent of public
+27 instruction on an annual basis:
+28 a. The amount of revenue received by each school district in the county during the
+29 previous school year for each type of revenue identified in subdivisions c and d of
+30 subsection 1;
+Page No. 11 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 b. The total number of mills levied in the previous calendar year by each school
+2 district for all purposes; and
+3 c. The number of mills levied in the previous calendar year by each school district
+4 for sinking and interest fund purposes.
+5 SECTION 2. AMENDMENT. Section 15.1-32-19 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 15.1-32-19. Boarding care costs - Reimbursement of school district.
+8 The superintendent of public instruction shall reimburse a student's school district of
+9 residence an amount equal to eighty percent of the room and board costs paid by the district for
+10 a student with disabilities who is placed in a facility that is located either within or outside of the
+11 student's school district of residence in order to receive special education services. The
+12 student's school district of residence is liable for any room and board costs in excess of those
+13 reimbursed as provided in this section. The placement of a student with disabilities in a public or
+14 private facility will be made by a school district and approved by the superintendent of public
+15 instruction. The placementsuperintendent of a student with disabilities in congregate care will be
+16 made in a facility designated bypublic instruction may consult with the commissioner of the
+17 department of health and human services on congregate care facilities.
+18 SECTION 3. AMENDMENT. Section 15.1-36-02 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 15.1-36-02. Coal development trust fund - Board of university and school lands -
+21 School construction projects - Unanticipated construction projects and emergency
+22 repairs - Loans.
+23 1. Up to sixty million dollars from the coal development trust fund is available to the
+24 board of university and school lands for loans under this section.
+25 2. To be eligible for a loan under this section, the school district must demonstrate a need
+26 based on an unanticipated construction project, an unanticipated replacement project,
+27 an emergency repair, or a legislatively defined condition, and the board of a school
+28 district shall:
+29 a. Obtain the approval of the superintendent of public instruction for the construction
+30 project under section 15.1-36-01; and
+Page No. 12 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Submit to the superintendent of public instruction an application containing all
+2 information deemed necessary by the superintendent, including potential
+3 alternative sources or methods of financing the construction project.
+4 3. The superintendent of public instruction shall consider each loan application in the
+5 order the application received approval under section 15.1-36-01.
+6 4. If the superintendent of public instruction approves the loan, the board of university
+7 and school lands shall issue a loan from the coal development trust fund.
+8 a. For a loan made under this sectionsubsection:
+9 a.(1) TheExcept for loans provided for a school construction project on an air
+10 force base, the minimum loan amount is two hundred fifty thousand dollars
+11 and the maximum loan amount for which a school district may qualify is five
+12 million dollars;
+13 b.(2) The term of the loan is twenty years, unless the board of the school district
+14 requests a shorter term in the written loan application; and
+15 c.(3) The interest rate of the loan may not exceed two percent per year.
+16 b. During the 2025 - 27 biennium, a loan for a school construction project on an air
+17 force base is an allowable condition under subsection 2. For a loan made for a
+18 school construction project on an air force base under this subsection:
+19 (1) The maximum loan amount for which the school district may qualify is the
+20 lesser of twenty percent of the project cost or twenty million dollars;
+21 (2) The term of the loan is twenty years, unless the board of the school district
+22 requests a shorter term in the written loan application;
+23 (3) The interest rate of the loan may not exceed two percent per year; and
+24 (4) The school district must obtain all necessary federal authorizations and
+25 funding commitments for the project.
+26 5. a. If a school district seeking a loan under this section received an allocation of the
+27 oil and gas gross production tax during the previous fiscal year in accordance
+28 with chapter 57-51, the board of the district shall provide to the board of
+29 university and school lands, and to the state treasurer, its evidence of
+30 indebtedness indicating the loan originated under this section.
+Page No. 13 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 b. If the evidence of indebtedness is payable solely from the school district's
+2 allocation of the oil and gas gross production tax in accordance with section
+3 57-51-15, the loan does not constitute a general obligation of the school district
+4 and may not be considered a debt of the district.
+5 c. If a loan made to a school district is payable solely from the district's allocation of
+6 the oil and gas gross production tax in accordance with section 57-51-15, the
+7 terms of the loan must require the state treasurer withhold the dollar amount or
+8 percentage specified in the loan agreement, from each of the district's oil and gas
+9 gross production tax allocations, in order to repay the principal and interest of the
+10 evidence of indebtedness. The state treasurer shall deposit the amount withheld
+11 into the fund from which the loan originated.
+12 d. Any evidence of indebtedness executed by the board of a school district under
+13 this subsection is a negotiable instrument and not subject to taxation by the state
+14 or any political subdivision of the state.
+15 6. For purposes of this section, a "construction project" means the purchase, lease,
+16 erection, or improvement of any structure or facility by a school board, provided the
+17 acquisition or activity is within a school board's authority.
+18 SECTION 4. AMENDMENT. Section 15.1-36-08 of the North Dakota Century Code as
+19 amended by section 1 of Senate Bill No. 2149, as approved by the sixty-ninth legislative
+20 assembly, is amended and reenacted as follows:
+21 15.1-36-08. School construction assistance revolving loan fund - Bank of North
+22 Dakota - School construction projects - Continuing appropriation.
+23 1. The school construction assistance revolving loan fund is a special revolving loan fund
+24 administered by the Bank. The fund consists of all moneys appropriated or transferred
+25 to the fund by the legislative assembly, all interest or other earnings of the fund, and all
+26 repayments of loans made from the fund.
+27 2. Moneys in the fund, interest upon the moneys in the fund, and payments to the fund of
+28 principal and interest are appropriated to the Bank on a continuing basis for the
+29 purpose of providing low-interest school construction loans and for paying
+30 administrative costs, in accordance with this section.
+Page No. 14 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 3. For a school construction project not located on an air force base, to be eligible for a
+2 loan under this section, the board of a school district shall:
+3 a. Propose a new construction or remodeling project with a cost of at least
+4 one million dollars and an expected utilization of at least thirty years;
+5 b. Obtain the approval of the superintendent of public instruction for the project
+6 under section 15.1-36-01;
+7 c. (1) Publish in the official newspaper of the district the information regarding the
+8 proposed estimated additional millage and the dollar increase per
+9 one thousand dollars of taxable valuation in accordance with section
+10 21-03-13 along with the notice of the election in accordance with section
+11 21-03-12 or along with the initial resolution in accordance with subsection 7
+12 of section 21-03-07; and
+13 (2) Post the information on the school district's website before the date of the
+14 election or during the protest period in accordance with chapter 21-03;
+15 d. Receive authorization for a bond issue in accordance with chapter 21-03; and
+16 e. Submit a completed application to the Bank.
+17 4. For a school construction project located on an air force base, to be eligible for a loan
+18 under this section, the board of the school district shall:
+19 a. Propose a new construction or remodeling project on an air force base which has
+20 a cost of at least one million dollars and an expected utilization of at least thirty
+21 years;
+22 b. Obtain the approval of the superintendent of public instruction for the project
+23 under section 15.1-36-01;
+24 c. Obtain all necessary federal authorizations and funding commitments for the
+25 project; and
+26 d. Submit a completed application to the Bank.
+27 5. The superintendent of public instruction shall designate, until June 30, 2027, or until a
+28 loan is made as identified in this section, twenty million dollars of funds available for
+29 loans in the school construction assistance revolving loan fund for a loan to provide
+30 matching funds for the construction of facilities on an air force base.
+Page No. 15 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 6. The superintendent of public instruction shall review loan applications based on a
+2 prioritization system that includes a review of all applications filed during the
+3 twelve-month period preceding April first and gives consideration to:
+4 a. Student occupancy and academic needs in the district;
+5 b. The age of existing structures to be replaced or remodeled;
+6 c. Building design proposals that are based on safety and vulnerability
+7 assessments;
+8 d. Community support;
+9 e. Cost; and
+10 f. Any other criteria established by the superintendent of public instruction, after
+11 consultation with an interim committee appointed by the legislative management.
+12 7.6. If the superintendent of public instruction approves the loan, the Bank shall issue a
+13 loan from the school construction assistance revolving loan fund. For a loan made
+14 under this section:
+15 a. If the school construction project totals less than seventy-five million dollars, the
+16 maximum loan amount for which a school district may qualify is fifteen millionten
+17 million dollars. However, if a school district's unobligated general fund balance on
+18 the preceding June thirtieth exceeds the limitation under section 15.1-27-35.3,
+19 the loan amount under this section may not exceed eighty percent of the project's
+20 cost up to a maximum loan amount of twelve millioneight million dollars;
+21 b. If the school construction project totals seventy-five million dollars or more, the
+22 maximum loan amount for which a school district may qualify is thirty
+23 milliontwenty million dollars. However, if a school district's unobligated general
+24 fund balance on the preceding June thirtieth exceeds the limitation under section
+25 15.1-27-35.3, the loan amount under this section may not exceed eighty percent
+26 of the project's cost up to a maximum loan amount of twenty-four millionsixteen
+27 million dollars;
+28 c. If the school construction project is on an air force base, the maximum loan
+29 amount for which the school district may qualify is the lesser of twenty percent of
+30 the project cost or twenty million dollars;
+Page No. 16 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 d. The term of the loan is twenty years, unless the board of the school district
+2 requests a shorter term in the written loan application; and
+3 e. The interest rate of the loan may not exceed two percent per year.
+4 f. A district with a school construction loan secured on the open bond market may
+5 apply to refinance the loan when callable with the school construction assistance
+6 revolving loan fund under this subsection.
+7 8.7. The Bank may adopt policies and establish guidelines to administer this loan program
+8 in accordance with this section. The Bank may use a portion of the interest paid on the
+9 outstanding loans as a servicing fee to pay for administration costs which may not
+10 exceed one-half of one percent of the amount of the interest payment. The Bank shall
+11 deposit principal and interest payments made by school districts for loans under this
+12 section in the school construction assistance revolving loan fund. The fund must be
+13 audited annually pursuant to section 6-09-29, and the cost of the audit must be paid
+14 from the fund.
+15 SECTION 5. AMENDMENT. Section 48-01.2-02.1 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 48-01.2-02.1. Public improvement construction threshold.
+18 1. The threshold for bidding construction of a public improvement is two hundred fifty
+19 thousand dollars. The threshold for procuring plans, drawings, and specifications from
+20 an architect or engineer for construction of a public improvement is two hundred fifty
+21 thousand dollars.
+22 2. Notwithstanding the thresholds in subsection 1, if the state or a political subdivision
+23 undertakes the construction of a public improvement and there is reason to believe
+24 that engineering or architectural services are necessary to protect the health, safety, or
+25 welfare of the public, the state or political subdivision shall consider consulting with an
+26 engineer or architect.
+27 SECTION 6. AMENDMENT. Section 48-01.2-10 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+29 48-01.2-10. Bonds from contractors for public improvements.
+30 1. Unless otherwise provided under this chapter, a governing body authorized to enter a
+31 contract for the construction of a public improvement in excess of two hundred fifty
+Page No. 17 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 thousand dollars shall take from the contractor a bond before permitting any work to
+2 be done on the contract. The bond must be for an amount equal at least to the price
+3 stated in the contract. The bond must be conditioned to be void if the contractor and all
+4 subcontractors fully perform all terms, conditions, and provisions of the contract and
+5 pay all bills or claims on account of labor performed and any supplies, and materials
+6 furnished and used in the performance of the contract, including all demands of
+7 subcontractors. The requirement that bills and claims be paid must include the
+8 requirement that interest of the amount authorized under section 13-01-14 be paid on
+9 bills and claims not paid within ninety days. The bond is security for all bills, claims,
+10 and demands until fully paid, with preference to labor and material suppliers as to
+11 payment. The bond must run to the governing body, but any person having a lawful
+12 claim against the contractor or any subcontractor may sue on the bond.
+13 2. A governing body may not require any person required to provide a surety bond to
+14 obtain the surety bond from a specified insurance or surety company or insurance
+15 producer or to submit financial data to the company or producer.
+16 SECTION 7. AMENDMENT. Section 57-15-14.2 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 57-15-14.2. School district levies.
+19 1. The board of a school district may levy a tax not exceeding the amount in dollars that
+20 the school district levied for the prior year, plus twelve percent, up to a levy of seventy
+21 mills on the taxable valuation of the district, for any purpose related to the provision of
+22 educational services. The proceeds of this levy must be deposited into the school
+23 district's general fund and used in accordance with this subsection. The proceeds may
+24 not be transferred into any other fund.
+25 2. The board of a school district may levy no more than twelve mills on the taxable
+26 valuation of the district, for miscellaneous purposes and expenses. The proceeds of
+27 this levy must be deposited into a special fund known as the miscellaneous fund and
+28 used in accordance with this subsection. The proceeds may not be transferred into
+29 any other fund.
+Page No. 18 25.0716.07000
+
+Sixty-ninth
+Legislative Assembly
+1 3. The board of a school district may levy no more than three mills on the taxable
+2 valuation of the district for deposit into a special reserve fund, in accordance with
+3 chapter 57-19.
+4 4. The board of a school district may levy no more than the number of mills necessary,
+5 on the taxable valuation of the district, for the payment of tuition, in accordance with
+6 section 15.1-29-15. The proceeds of this levy must be deposited into a special fund
+7 known as the tuition fund and used in accordance with this subsection. The proceeds
+8 may not be transferred into any other fund.
+9 5. The board of a school district may levy no more than five mills on the taxable valuation
+10 of the district, pursuant to section 57-15-15.1, for purposes of developing a school
+11 safety plan in accordance with section 15.1-09-60. The proceeds of this levy must be
+12 deposited into a special fund known as the school safety plan fund and used in
+13 accordance with this subsection.
+14 6. Nothing in this section limits the board of a school district from levying:
+15 a. Mills for a building fund, as permitted in sections 15.1-09-49 and 57-15-16; and
+16 b. Mills necessary to pay principal and interest on the bonded debt of the district,
+17 including the mills necessary to pay principal and interest on any bonded debt
+18 incurred under section 57-15-17.1 before July 1, 2013.
+19 SECTION 8. EFFECTIVE DATE. Section 7 of this Act is effective for taxable years
+20 beginning after December 31, 2024. Sections 1, 2, 5, and 6 of this Act are effective July 1,
+21 2025.
+22 SECTION 9. EMERGENCY. This Act is declared to be an emergency measure.
+Page No. 19 25.0716.07000
+
+[DELETED: .T.A.A.A12]
+[DELETED: )R)M)T)R)R)R22]
+[DELETED: .A)M)T)R.B.a.T.F32]
+[DELETED: .B.a.F)T)O)T.F)T)O42]
+[DELETED: )T.A.S.S)T)I52]
+[DELETED: )T)A.T.O.F.T.T.T62]
+[DELETED: .T.A.A.A)R)M)T72]
+[DELETED: )R)R)R.A)M)T)R.B.a.T.F82]
+[DELETED: .B.a.F)T)O)T92]
+[DELETED: .F)T)O)T.A.S.S)T)I02]
+[DELETED: )T)A.T.O.F.T12]
+[DELETED: .T.T.U.T.O22]
+[DELETED: .S.T.I.F)T)T)T. )T)T)T)T.a.I32]
+[DELETED: .I.I.A.F.T.M42]
+[DELETED: .F.P.O.()P)P.R.S.F.P.O.O.S.T52]
+[DELETED: .T.S.T.B.C.C.A.I.I.I.I62]
+[DELETED: .T.T.A.T.T.N.U72]
+[DELETED: .A.T.T82]
+[DELETED: .T.T.T.N.M.M92]

@@ -1,0 +1,199 @@
+Title: SENATE BILL NO. 2283
+Official Title: SENATE BILL NO. 2283
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0899.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Hogan, Marcellais
+Representative Davis
+1 A BILL for an Act to amend and reenact section 61-32-03.3 of the North Dakota Century Code,
+2 relating to smaller subsurface water management systems; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 61-32-03.3 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 61-32-03.3. Smaller subsurface water management systems - Notification and
+7 conditions - Penalty.
+8 1. A person may not install a subsurface water management system comprising less than
+9 eighty acres [32.37 hectares] of land area until the person has notified the board of the
+10 water resource district within which is found a majority of the land area of the system
+11 and all downstream landowners of the following information:
+12 a. The system's total acreage and the legal description of the land being drained;
+13 b. The outlet locations and types; and
+14 c. The flow direction from each outlet location.
+15 2. A person required to notify the board and downstream landowners under subsection 1
+16 shall install the subsurface water management system such that:
+17 a. Pump and control structures at pump outlets are installed no closer than
+18 twenty-five feet [7.62 meters] from the top of the back slope of an assessment
+19 drain;
+20 b. Proper erosion controls are installed and maintained at all outlets; and
+21 c. Pumps and control structures at project outlets are closed or turned off during
+22 critical flood periods.
+Page No. 1 25.0899.01000
+Sixty-ninth
+Legislative Assembly
+1 3. a. A person seeking to install a subsurface water management system under this
+2 section shall provide the notice under subsection 1 through certified mail with a
+3 proof of delivery signed by the downstream landowner.
+4 b. The downstream landowner has thirty days from the receipt of the notice to
+5 deliver a written objection to the person seeking to install the subsurface water
+6 management system and the board of the water resource district in which the
+7 majority of the land subject to the planned system is located.
+8 c. If the downstream landowner:
+9 (1) Fails to timely deliver the written objection, the person may install the
+10 subsurface water management system.
+11 (2) Timely delivers the written objection, the water resource district in which the
+12 majority of the land subject to the planned system is located shall require
+13 the person to complete and file a permit application as required under
+14 section 61 - 32 - 03.1 .
+15 e. Upon receipt of the permit application, the water resource district shall review,
+16 analyze, and issue permits in the same manner as provided under section
+17 61 - 32 - 03.1 .
+18 4. If a subsurface water management system for which notification is required under
+19 subsection 1 will discharge into the watershed area of an assessment drain, the water
+20 resource board that receives the notice may require the relevant property to be
+21 included in the assessment district for the assessment drain in accordance with the
+22 benefits the property receives, provided the property is not assessed already for the
+23 assessment drain. The water resource district also may include the property in the
+24 assessment district and determine the benefits and assessment amounts under
+25 chapters 61-21 and 61-16.1, without conducting the reassessment of benefit
+26 proceedings under sections 61-21-44 and 61-16.1-26, provided the property is not
+27 assessed already for the assessment drain.
+28 4.5. The board of the water resource district within which the subsurface water
+29 management system is located may order the system's owner or operator to bring the
+30 system into compliance with subsection 2 if the board finds the system violates that
+31 subsection.
+Page No. 2 25.0899.01000
+Sixty-ninth
+Legislative Assembly
+1 5.6. A person sustaining damages as a result of a subsurface water management system
+2 of another person shall participate in mediation before filing an action to recover
+3 damages. An aggrieved person shall file a mediation request with the board of the
+4 appropriate water resource district, and the board shall appoint a mediation board
+5 consisting of a hydrologist employed by the state, an engineer employed by the state,
+6 and an individual conducting farming or ranching in the county in which the subsurface
+7 water management system is located. All mediation costs must be paid by the owner
+8 of the subsurface water management system. An opinion issued by the mediation
+9 board is not binding, and participation in a mediation session does not preclude a
+10 party from commencing a civil action to recover damages after completion of the
+11 mediation.
+12 7. A person that violates this section is guilty of an infraction.
+13 6.8. This section applies only to subsurface water management systems that drain, in
+14 whole or in part, platted or unplatted lands used for raising agricultural crops or
+15 grazing farm animals.
+16 7.9. This section does not apply to a subsurface water management system that
+17 discharges into a body of water completely encompassed by land owned by the
+18 person that owns the land drained by the system.
+19 8.10. The information that must be provided to a board of a water resource district under this
+20 section is an exempt record under section 44-04-18.
+Page No. 3 25.0899.01000
+[DELETED: .A.T.T.T.A.P.P.P12]
+[DELETED: .a.A.T.I)F)T.U.I.T22]
+[DELETED: .A.A.T.T.T32]
+
+
+================================================================================
+
+Raw Text:
+25.0899.01000
+Sixty-ninth
+SENATE BILL NO. 2283
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Hogan, Marcellais
+Representative Davis
+1 A BILL for an Act to amend and reenact section 61-32-03.3 of the North Dakota Century Code,
+2 relating to smaller subsurface water management systems; and to provide a penalty.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 61-32-03.3 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 61-32-03.3. Smaller subsurface water management systems - Notification and
+7 conditions - Penalty.
+8 1. A person may not install a subsurface water management system comprising less than
+9 eighty acres [32.37 hectares] of land area until the person has notified the board of the
+10 water resource district within which is found a majority of the land area of the system
+11 and all downstream landowners of the following information:
+12 a. The system's total acreage and the legal description of the land being drained;
+13 b. The outlet locations and types; and
+14 c. The flow direction from each outlet location.
+15 2. A person required to notify the board and downstream landowners under subsection 1
+16 shall install the subsurface water management system such that:
+17 a. Pump and control structures at pump outlets are installed no closer than
+18 twenty-five feet [7.62 meters] from the top of the back slope of an assessment
+19 drain;
+20 b. Proper erosion controls are installed and maintained at all outlets; and
+21 c. Pumps and control structures at project outlets are closed or turned off during
+22 critical flood periods.
+Page No. 1 25.0899.01000
+
+Sixty-ninth
+Legislative Assembly
+1 3. a. A person seeking to install a subsurface water management system under this
+2 section shall provide the notice under subsection 1 through certified mail with a
+3 proof of delivery signed by the downstream landowner.
+4 b. The downstream landowner has thirty days from the receipt of the notice to
+5 deliver a written objection to the person seeking to install the subsurface water
+6 management system and the board of the water resource district in which the
+7 majority of the land subject to the planned system is located.
+8 c. If the downstream landowner:
+9 (1) Fails to timely deliver the written objection, the person may install the
+10 subsurface water management system.
+11 (2) Timely delivers the written objection, the water resource district in which the
+12 majority of the land subject to the planned system is located shall require
+13 the person to complete and file a permit application as required under
+14 section 61 - 32 - 03.1 .
+15 e. Upon receipt of the permit application, the water resource district shall review,
+16 analyze, and issue permits in the same manner as provided under section
+17 61 - 32 - 03.1 .
+18 4. If a subsurface water management system for which notification is required under
+19 subsection 1 will discharge into the watershed area of an assessment drain, the water
+20 resource board that receives the notice may require the relevant property to be
+21 included in the assessment district for the assessment drain in accordance with the
+22 benefits the property receives, provided the property is not assessed already for the
+23 assessment drain. The water resource district also may include the property in the
+24 assessment district and determine the benefits and assessment amounts under
+25 chapters 61-21 and 61-16.1, without conducting the reassessment of benefit
+26 proceedings under sections 61-21-44 and 61-16.1-26, provided the property is not
+27 assessed already for the assessment drain.
+28 4.5. The board of the water resource district within which the subsurface water
+29 management system is located may order the system's owner or operator to bring the
+30 system into compliance with subsection 2 if the board finds the system violates that
+31 subsection.
+Page No. 2 25.0899.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5.6. A person sustaining damages as a result of a subsurface water management system
+2 of another person shall participate in mediation before filing an action to recover
+3 damages. An aggrieved person shall file a mediation request with the board of the
+4 appropriate water resource district, and the board shall appoint a mediation board
+5 consisting of a hydrologist employed by the state, an engineer employed by the state,
+6 and an individual conducting farming or ranching in the county in which the subsurface
+7 water management system is located. All mediation costs must be paid by the owner
+8 of the subsurface water management system. An opinion issued by the mediation
+9 board is not binding, and participation in a mediation session does not preclude a
+10 party from commencing a civil action to recover damages after completion of the
+11 mediation.
+12 7. A person that violates this section is guilty of an infraction.
+13 6.8. This section applies only to subsurface water management systems that drain, in
+14 whole or in part, platted or unplatted lands used for raising agricultural crops or
+15 grazing farm animals.
+16 7.9. This section does not apply to a subsurface water management system that
+17 discharges into a body of water completely encompassed by land owned by the
+18 person that owns the land drained by the system.
+19 8.10. The information that must be provided to a board of a water resource district under this
+20 section is an exempt record under section 44-04-18.
+Page No. 3 25.0899.01000
+
+[DELETED: .A.T.T.T.A.P.P.P12]
+[DELETED: .a.A.T.I)F)T.U.I.T22]
+[DELETED: .A.A.T.T.T32]

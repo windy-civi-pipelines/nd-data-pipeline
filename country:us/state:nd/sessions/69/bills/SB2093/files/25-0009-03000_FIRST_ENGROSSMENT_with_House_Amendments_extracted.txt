@@ -1,0 +1,319 @@
+Title: ENGROSSED SENATE BILL NO. 2093
+Official Title: ENGROSSED SENATE BILL NO. 2093
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with House Amendments
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25.0009.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+Introduced by
+Senators Larson, Rummel
+1 A BILL for an Act to amend and reenact subsection 1 of section 57-38-30.3 and subdivision u of
+2 subsection 2 of section 57-38-30.3 of the North Dakota Century Code, relating to income tax
+3 rates for individuals, estates, and trusts and an income tax deduction for retired law
+4 enforcement personnel benefits; to provide for retroactive application; and to provide an
+5 effective date.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Subsection 1 of section 57-38-30.3 of the North Dakota
+8 Century Code is amended and reenacted as follows:
+9 1. A tax is hereby imposed for each taxable year upon income earned or received in that
+10 taxable year by every resident and nonresident individual, estate, and trust. A taxpayer
+11 computing the tax under this section is only eligible for those adjustments or credits
+12 that are specifically provided for in this section. Provided, that for purposes of this
+13 section, any person required to file a state income tax return under this chapter, but
+14 who has not computed a federal taxable income figure, shall compute a federal
+15 taxable income figure using a pro forma return in order to determine a federal taxable
+16 income figure to be used as a starting point in computing state income tax under this
+17 section. The tax for individuals is equal to North Dakota taxable income multiplied by
+18 the rates in the applicable rate schedule in subdivisions a through d corresponding to
+19 an individual's filing status used for federal income tax purposes. For an estate or
+20 trust, the schedule in subdivision e must be used for purposes of this subsection.
+21 a. Single, other than head of household or surviving spouse.
+22 If North Dakota taxable income is:
+Page No. 1 25.0009.03000
+Sixty-ninth
+Legislative Assembly
+1 Over Not over The tax is equal to Of amount over
+2 $0 $44,725 $0.00 + 0.00% $0
+3 $44,725 $225,975 $0.00 + 1.95% $44,725
+4 $225,975 $3,534.38 + 2.50% $225,975
+5 $0 $51,300 $0.00 + 0.00% $0
+6 $51,300 $244,825 $0.00 + 1.95% $51,300
+7 $244,825 $3,773.74 + 2.50% $244,825
+8 b. Married filing jointly and surviving spouse.
+9 If North Dakota taxable income is:
+10 Over Not over The tax is equal to Of amount over
+11 $0 $74,750 $0.00 + 0.00% $0
+12 $74,750 $275,100 $0.00 + 1.95% $74,750
+13 $275,100 $3,906.83 + 2.50% $275,100
+14 $0 $85,700 $0.00 + 0.00% $0
+15 $85,700 $298,075 $0.00 + 1.95% $85,700
+16 $298,075 $4,141.31 + 2.50% $298,075
+17 c. Married filing separately.
+18 If North Dakota taxable income is:
+19 Over Not over The tax is equal to Of amount over
+20 $0 $37,375 $0.00 + 0.00% $0
+21 $37,375 $137,550 $0.00 + 1.95% $37,375
+22 $137,550 $1,953.41 + 2.50% $137,550
+23 $0 $42,850 $0.00 + 0.00% $0
+24 $42,850 $149,025 $0.00 + 1.95% $42,850
+25 $149,025 $2,070.41 + 2.50% $149,025
+26 d. Head of household.
+27 If North Dakota taxable income is:
+28 Over Not over The tax is equal to Of amount over
+29 $0 $59,950 $0.00 + 0.00% $0
+30 $59,950 $250,550 $0.00 + 1.95% $59,950
+31 $250,550 $3,716.70 + 2.50% $250,550
+Page No. 2 25.0009.03000
+Sixty-ninth
+Legislative Assembly
+1 $0 $68,700 $0.00 + 0.00% $0
+2 $68,700 $271,450 $0.00 + 1.95% $68,700
+3 $271,450 $3,953.63 + 2.50% $271,450
+4 e. Estates and trusts.
+5 If North Dakota taxable income is:
+6 Over Not over The tax is equal to Of amount over
+7 $0 $3,000 $0.00 + 0.00% $0
+8 $3,000 $10,750 $0.00 + 1.95% $3,000
+9 $10,750 $151.13 + 2.50% $10,750
+10 $0 $3,250 $0.00 + 0.00% $0
+11 $3,250 $11,650 $0.00 + 1.95% $3,250
+12 $11,650 $163.80 + 2.50% $11,650
+13 f. For an individual who is not a resident of this state for the entire year, or for a
+14 nonresident estate or trust, the tax is equal to the tax otherwise computed under
+15 this subsection multiplied by a fraction in which:
+16 (1) The numerator is the federal adjusted gross income allocable and
+17 apportionable to this state; and
+18 (2) The denominator is the federal adjusted gross income from all sources
+19 reduced by the net income from the amounts specified in subdivisions a and
+20 b of subsection 2.
+21 In the case of married individuals filing a joint return, if one spouse is a resident
+22 of this state for the entire year and the other spouse is a nonresident for part or
+23 all of the tax year, the tax on the joint return must be computed under this
+24 subdivision.
+25 g. The tax commissioner shall prescribe new rate schedules that apply in lieu of the
+26 schedules set forth in subdivisions a through e. The new schedules must be
+27 determined by increasing the minimum and maximum dollar amounts for each
+28 income bracket for which a tax is imposed by the cost-of-living adjustment for the
+29 taxable year as determined by the secretary of the United States treasury for
+30 purposes of section 1(f) of the United States Internal Revenue Code of 1954, as
+31 amended. For this purpose, the rate applicable to each income bracket may not
+Page No. 3 25.0009.03000
+Sixty-ninth
+Legislative Assembly
+1 be changed, and the manner of applying the cost-of-living adjustment must be
+2 the same as that used for adjusting the income brackets for federal income tax
+3 purposes.
+4 h. The tax commissioner shall prescribe an optional simplified method of computing
+5 tax under this section that may be used by an individual taxpayer who is not
+6 entitled to claim an adjustment under subsection 2 or credit against income tax
+7 liability under subsection 7.
+8 SECTION 2. AMENDMENT. Subdivision u of subsection 2 of section 57-38-30.3 of the
+9 North Dakota Century Code is amended and reenacted as follows:
+10 u. Reduced by the amount of retired law enforcement personnel benefits received
+11 by a taxpayer who has served a combined total of at least twenty years as a
+12 peace officer or has medically retired from the taxpayer's duties as a peace
+13 officer with a medical certificate due to a permanent mental or physical disability
+14 that rendered the taxpayer unable to discharge the taxpayer's duties as a peace
+15 officerqualified retired peace officer, including retired law enforcement personnel
+16 benefits paid to the surviving spouse of a deceased qualified retired peace officer,
+17 but only to the extent the amount was included in federal taxable income. For
+18 purposes of this subdivision:
+19 (1) "Peace officer" means a public servant authorized by law or by a
+20 government agency or branch of the United States, a state, or a political
+21 subdivision of a state to enforce the law and to conduct or engage in
+22 investigations of violations of the law.
+23 (2) "Qualified retired peace officer" means a peace officer who has:
+24 (a) Served a combined total of at least twenty years as a peace officer; or
+25 (b) Medically retired from the peace officer's duties with a medical
+26 certificate due to a permanent mental or physical disability that
+27 rendered the peace officer unable to discharge the peace officer's
+28 duties.
+29 (2)(3) "Retired law enforcement personnel benefits" means retirement income
+30 received by a taxpayerqualified retired peace officer or surviving spouse of a
+31 deceased qualified retired peace officer who is eligible to receive retirement
+Page No. 4 25.0009.03000
+Sixty-ninth
+Legislative Assembly
+1 income attributable to the taxpayer'squalified retired peace officer's
+2 employment as a peace officer from a retirement plan maintained by or
+3 through the employer from which the taxpayerqualified retired peace officer
+4 retired as a peace officer.
+5 SECTION 3. RETROACTIVE APPLICATION. Section 2 of this Act applies retroactively to
+6 taxable years beginning after December 31, 2023.
+7 SECTION 4. EFFECTIVE DATE. Section 1 of this Act is effective for taxable years
+8 beginning after December 31, 2024.
+Page No. 5 25.0009.03000
+[DELETED: .A.S12]
+[DELETED: rNrToO0$5$%$5$5$%$5$%$0$0$%$0$5$%$5$%$.MrNrToO0$0$%$0$0$%$0$%$0$0$%$0$5$%$5$%$.MrNrToO0$5$%$5$0$%$0$%$0$0$%$0$5$%$5$%$.HrNrToO0$0$%$0$0$%$0$%$22]
+[DELETED: 0$0$%$0$0$%$0$%$.ErNrToO0$0$%$0$0$%$0$%$0$0$%$0$0$%$0$%$.F)T)T.T32]
+[DELETED: .T.R)")")S)M)"42]
+[DELETED: 52]
+
+
+================================================================================
+
+Raw Text:
+25.0009.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with House Amendments
+ENGROSSED SENATE BILL NO. 2093
+Introduced by
+Senators Larson, Rummel
+1 A BILL for an Act to amend and reenact subsection 1 of section 57-38-30.3 and subdivision u of
+2 subsection 2 of section 57-38-30.3 of the North Dakota Century Code, relating to income tax
+3 rates for individuals, estates, and trusts and an income tax deduction for retired law
+4 enforcement personnel benefits; to provide for retroactive application; and to provide an
+5 effective date.
+6 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+7 SECTION 1. AMENDMENT. Subsection 1 of section 57-38-30.3 of the North Dakota
+8 Century Code is amended and reenacted as follows:
+9 1. A tax is hereby imposed for each taxable year upon income earned or received in that
+10 taxable year by every resident and nonresident individual, estate, and trust. A taxpayer
+11 computing the tax under this section is only eligible for those adjustments or credits
+12 that are specifically provided for in this section. Provided, that for purposes of this
+13 section, any person required to file a state income tax return under this chapter, but
+14 who has not computed a federal taxable income figure, shall compute a federal
+15 taxable income figure using a pro forma return in order to determine a federal taxable
+16 income figure to be used as a starting point in computing state income tax under this
+17 section. The tax for individuals is equal to North Dakota taxable income multiplied by
+18 the rates in the applicable rate schedule in subdivisions a through d corresponding to
+19 an individual's filing status used for federal income tax purposes. For an estate or
+20 trust, the schedule in subdivision e must be used for purposes of this subsection.
+21 a. Single, other than head of household or surviving spouse.
+22 If North Dakota taxable income is:
+Page No. 1 25.0009.03000
+
+Sixty-ninth
+Legislative Assembly
+1 Over Not over The tax is equal to Of amount over
+2 $0 $44,725 $0.00 + 0.00% $0
+3 $44,725 $225,975 $0.00 + 1.95% $44,725
+4 $225,975 $3,534.38 + 2.50% $225,975
+5 $0 $51,300 $0.00 + 0.00% $0
+6 $51,300 $244,825 $0.00 + 1.95% $51,300
+7 $244,825 $3,773.74 + 2.50% $244,825
+8 b. Married filing jointly and surviving spouse.
+9 If North Dakota taxable income is:
+10 Over Not over The tax is equal to Of amount over
+11 $0 $74,750 $0.00 + 0.00% $0
+12 $74,750 $275,100 $0.00 + 1.95% $74,750
+13 $275,100 $3,906.83 + 2.50% $275,100
+14 $0 $85,700 $0.00 + 0.00% $0
+15 $85,700 $298,075 $0.00 + 1.95% $85,700
+16 $298,075 $4,141.31 + 2.50% $298,075
+17 c. Married filing separately.
+18 If North Dakota taxable income is:
+19 Over Not over The tax is equal to Of amount over
+20 $0 $37,375 $0.00 + 0.00% $0
+21 $37,375 $137,550 $0.00 + 1.95% $37,375
+22 $137,550 $1,953.41 + 2.50% $137,550
+23 $0 $42,850 $0.00 + 0.00% $0
+24 $42,850 $149,025 $0.00 + 1.95% $42,850
+25 $149,025 $2,070.41 + 2.50% $149,025
+26 d. Head of household.
+27 If North Dakota taxable income is:
+28 Over Not over The tax is equal to Of amount over
+29 $0 $59,950 $0.00 + 0.00% $0
+30 $59,950 $250,550 $0.00 + 1.95% $59,950
+31 $250,550 $3,716.70 + 2.50% $250,550
+Page No. 2 25.0009.03000
+
+Sixty-ninth
+Legislative Assembly
+1 $0 $68,700 $0.00 + 0.00% $0
+2 $68,700 $271,450 $0.00 + 1.95% $68,700
+3 $271,450 $3,953.63 + 2.50% $271,450
+4 e. Estates and trusts.
+5 If North Dakota taxable income is:
+6 Over Not over The tax is equal to Of amount over
+7 $0 $3,000 $0.00 + 0.00% $0
+8 $3,000 $10,750 $0.00 + 1.95% $3,000
+9 $10,750 $151.13 + 2.50% $10,750
+10 $0 $3,250 $0.00 + 0.00% $0
+11 $3,250 $11,650 $0.00 + 1.95% $3,250
+12 $11,650 $163.80 + 2.50% $11,650
+13 f. For an individual who is not a resident of this state for the entire year, or for a
+14 nonresident estate or trust, the tax is equal to the tax otherwise computed under
+15 this subsection multiplied by a fraction in which:
+16 (1) The numerator is the federal adjusted gross income allocable and
+17 apportionable to this state; and
+18 (2) The denominator is the federal adjusted gross income from all sources
+19 reduced by the net income from the amounts specified in subdivisions a and
+20 b of subsection 2.
+21 In the case of married individuals filing a joint return, if one spouse is a resident
+22 of this state for the entire year and the other spouse is a nonresident for part or
+23 all of the tax year, the tax on the joint return must be computed under this
+24 subdivision.
+25 g. The tax commissioner shall prescribe new rate schedules that apply in lieu of the
+26 schedules set forth in subdivisions a through e. The new schedules must be
+27 determined by increasing the minimum and maximum dollar amounts for each
+28 income bracket for which a tax is imposed by the cost-of-living adjustment for the
+29 taxable year as determined by the secretary of the United States treasury for
+30 purposes of section 1(f) of the United States Internal Revenue Code of 1954, as
+31 amended. For this purpose, the rate applicable to each income bracket may not
+Page No. 3 25.0009.03000
+
+Sixty-ninth
+Legislative Assembly
+1 be changed, and the manner of applying the cost-of-living adjustment must be
+2 the same as that used for adjusting the income brackets for federal income tax
+3 purposes.
+4 h. The tax commissioner shall prescribe an optional simplified method of computing
+5 tax under this section that may be used by an individual taxpayer who is not
+6 entitled to claim an adjustment under subsection 2 or credit against income tax
+7 liability under subsection 7.
+8 SECTION 2. AMENDMENT. Subdivision u of subsection 2 of section 57-38-30.3 of the
+9 North Dakota Century Code is amended and reenacted as follows:
+10 u. Reduced by the amount of retired law enforcement personnel benefits received
+11 by a taxpayer who has served a combined total of at least twenty years as a
+12 peace officer or has medically retired from the taxpayer's duties as a peace
+13 officer with a medical certificate due to a permanent mental or physical disability
+14 that rendered the taxpayer unable to discharge the taxpayer's duties as a peace
+15 officerqualified retired peace officer, including retired law enforcement personnel
+16 benefits paid to the surviving spouse of a deceased qualified retired peace officer,
+17 but only to the extent the amount was included in federal taxable income. For
+18 purposes of this subdivision:
+19 (1) "Peace officer" means a public servant authorized by law or by a
+20 government agency or branch of the United States, a state, or a political
+21 subdivision of a state to enforce the law and to conduct or engage in
+22 investigations of violations of the law.
+23 (2) "Qualified retired peace officer" means a peace officer who has:
+24 (a) Served a combined total of at least twenty years as a peace officer; or
+25 (b) Medically retired from the peace officer's duties with a medical
+26 certificate due to a permanent mental or physical disability that
+27 rendered the peace officer unable to discharge the peace officer's
+28 duties.
+29 (2)(3) "Retired law enforcement personnel benefits" means retirement income
+30 received by a taxpayerqualified retired peace officer or surviving spouse of a
+31 deceased qualified retired peace officer who is eligible to receive retirement
+Page No. 4 25.0009.03000
+
+Sixty-ninth
+Legislative Assembly
+1 income attributable to the taxpayer'squalified retired peace officer's
+2 employment as a peace officer from a retirement plan maintained by or
+3 through the employer from which the taxpayerqualified retired peace officer
+4 retired as a peace officer.
+5 SECTION 3. RETROACTIVE APPLICATION. Section 2 of this Act applies retroactively to
+6 taxable years beginning after December 31, 2023.
+7 SECTION 4. EFFECTIVE DATE. Section 1 of this Act is effective for taxable years
+8 beginning after December 31, 2024.
+Page No. 5 25.0009.03000
+
+[DELETED: .A.S12]
+[DELETED: rNrToO0$5$%$5$5$%$5$%$0$0$%$0$5$%$5$%$.MrNrToO0$0$%$0$0$%$0$%$0$0$%$0$5$%$5$%$.MrNrToO0$5$%$5$0$%$0$%$0$0$%$0$5$%$5$%$.HrNrToO0$0$%$0$0$%$0$%$22]
+[DELETED: 0$0$%$0$0$%$0$%$.ErNrToO0$0$%$0$0$%$0$%$0$0$%$0$0$%$0$%$.F)T)T.T32]
+[DELETED: .T.R)")")S)M)"42]
+[DELETED: 52]

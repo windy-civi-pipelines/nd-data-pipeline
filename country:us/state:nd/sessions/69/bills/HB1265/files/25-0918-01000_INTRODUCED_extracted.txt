@@ -1,0 +1,361 @@
+Title: HOUSE BILL NO. 1265
+Official Title: HOUSE BILL NO. 1265
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25.0918.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Christy, Foss, Hanson, Stemen, Toman, Warrey, O'Brien
+Senators Meyer, Sickler, Davison
+1 A BILL for an Act to create and enact a new section to chapter 15-11 and a new chapter to
+2 title 54 of the North Dakota Century Code, relating to the state information technology research
+3 center, advanced technology review committee, compute credits grant program, and advanced
+4 technology grant fund; to provide for a transfer; and to provide an appropriation.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 15-11 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 State information technology research center - Report.
+9 1. The state information technology research center at the university of North Dakota is
+10 created to conduct exploratory, transformational, and innovative research to promote
+11 the development of data science, data analysis, software engineering, and advanced
+12 information technology in the state.
+13 2. To carry out the purposes of this section, the state information technology research
+14 center may:
+15 a. Select the research topics and projects to be pursued;
+16 b. Enter contracts or agreements with other North Dakota institutions of higher
+17 education, the information technology department, and federal, private, and
+18 nonprofit organizations to support research topics and projects;
+19 c. Assist in the development of advanced technology solutions, including artificial
+20 intelligence, machine learning, quantum computing, digital literacy, and
+21 cybersecurity initiatives;
+22 d. Encourage the establishment of data centers in the state to enhance advanced
+23 technology products and initiatives;
+Page No. 1 25.0918.01000
+Sixty-ninth
+Legislative Assembly
+1 e. Use existing staff resources, to the extent authorized by legislative
+2 appropriations, between participating state agencies for the purpose of advancing
+3 research and development of projects selected under this section; and
+4 f. Accept donations, grants, contributions, and gifts from any source to carry out the
+5 selected research topics and projects, which must be deposited in the advanced
+6 technology grant fund.
+7 3. The state information technology research center shall report all research activities
+8 and accomplishments by October first of each year to the legislative management's
+9 information technology committee. Upon request, the state information technology
+10 research center shall report all research activities and accomplishments to the
+11 appropriations committees of the legislative assembly.
+12 SECTION 2. A new chapter to title 54 of the North Dakota Century Code is created and
+13 enacted as follows:
+14 Definitions
+15 In this chapter, unless the context otherwise requires:
+16 1. "Chief information officer" means the chief information officer of the information
+17 technology department.
+18 2. "Commissioner" means the commissioner of the department of commerce.
+19 3. "Committee" means the advanced technology review committee.
+20 4. " Departmen t " means the information technology department .
+21 5. "Vice chancellor for information technology" means the chief information officer and
+22 vice chancellor for information technology of the North Dakota university system.
+23 Advanced technology review committee - Membership - Meetings.
+24 1. The advanced technology review committee consists of:
+25 a. The chief information officer or a designee within the information technology
+26 department;
+27 b. The vice chancellor for information technology or a designee within the North
+28 Dakota university system;
+29 c. One individual from the private sector with significant information and advanced
+30 technology knowledge, appointed by the governor;
+Page No. 2 25.0918.01000
+Sixty-ninth
+Legislative Assembly
+1 d. One individual from the private sector with significant information and advanced
+2 technology knowledge, appointed by the majority leader of the house of
+3 representatives;
+4 e. One individual from the private sector with significant information and advanced
+5 technology knowledge, appointed by the majority leader of the senate; and
+6 f. The commissioner, or a designee within the department of commerce, who shall
+7 serve as a nonvoting member of the committee and provide recommendations to
+8 the committee regarding grant awards.
+9 2. By July first of each odd - numbered year, the chief information officer and vice
+10 chancellor for information technology shall compile a list of individuals with significant
+11 private sector information and advanced technology knowledge working within the
+12 state to be forwarded to the governor and the majority leaders of the house of
+13 representatives and senate. The governor and the majority leaders of the house of
+14 representatives and senate must consider the listed individuals for committee
+15 membership appointments.
+16 3. The chief information officer, vice chancellor for information technology, and
+17 commissioner are permanent members of the committee. The term of office of the
+18 members of the committee appointed from the private sector is four years except the
+19 initial term of office of the individual appointed by the majority leader of the senate is
+20 three years and the initial term of office of the individual appointed by the governor is
+21 two years. Each term of office commences on August first. Members serve at the
+22 pleasure of the appointing entity and may be reappointed for additional terms. By
+23 August first of each year, the chairman of the legislative management shall select one
+24 of the appointed members to serve as the chairman of the committee. The chairman of
+25 the committee shall select a vice chair. If a committee member ceases to qualify as a
+26 member of the appointing entity, that individual's membership on the committee
+27 ceases immediately and the appointing entity shall appoint a new member to the
+28 committee for the remainder of the term.
+29 4. A committee member representing the private sector is entitled to receive
+30 compensation in an amount not exceeding one hundred thirty - five dollars per day and
+31 travel and expense reimbursement as provided by law for state officers for attending
+Page No. 3 25.0918.01000
+Sixty-ninth
+Legislative Assembly
+1 meetings of the committee, to be paid by the departmen t within the limits of legislative
+2 appropriations.
+3 5. The committee shall meet at the call of the chairman to review and approve grant
+4 applications from entrepreneurs, startup companies, and small businesses that are in
+5 the initial phases of advanced technology product research, development, and
+6 innovation and are unable to access financial resources for prototype product
+7 development.
+8 Compute credits grant program - Eligibility - Use of funds.
+9 1. The departmen t shall administer the compute credits grant program to provide grants
+10 for activities identified in this chapter. The department shall provide administrative
+11 support for the program, including the drafting of application forms, receiving
+12 applications, reviewing applications for completeness and compliance with committee
+13 policy, and forwarding complete applications to the committee in accordance with the
+14 guidelines established by the committee.
+15 2. The committee shall establish guidelines for entities to qualify for a compute credits
+16 grant under this section.
+17 3. In determining whether to approve an application for grant funding, the committee
+18 shall consider the extent to which the applicant's proposal will support the
+19 development of advanced technology solutions, including artificial intelligence,
+20 machine learning, quantum computing, digital literacy, and cybersecurity initiatives.
+21 The committee shall give priority to applications with a greater likelihood of attracting
+22 other information technology businesses to the state. The committee shall consider
+23 and process applications in a timely manner to allow applicants an opportunity to
+24 leverage other funds.
+25 4. Grant recipients shall use funding awarded under this section for the cost of increased
+26 compute credits and central processing unit storage capacity that promotes the
+27 program requirements in subsection 3 of this section . An entity receiving a grant under
+28 this section may not use the funds for capital or building investments or other activities
+29 not identified in this chapter. The funds may not be used for administrative costs or to
+30 supplant funding for regular operations of the entity. If an entity awarded a grant no
+Page No. 4 25.0918.01000
+Sixty-ninth
+Legislative Assembly
+1 longer conducts its activities in the state, the entity must repay the awarded grant
+2 funding to departmen t .
+3 Advanced technology grant fund.
+4 The advanced technology grant fund is a special fund in the state treasury administered by
+5 the department. Moneys in the fund must be used for providing grants and for the payment of
+6 committee and department administrative expenses incurred related to the requirements of this
+7 chapter, subject to legislative appropriations. Interest earned on moneys in the fund must be
+8 credited to the fund.
+9 Compute credits grant program - Post-award monitoring
+10 Upon completion of work performed from funding provided by a compute credits grant or
+11 research completed by state information technology research center, the department shall
+12 conduct an independent review of the results. Evaluation criteria may include how the work
+13 performed has:
+14 1. Promoted the development of advanced technology solutions , including artificial
+15 intelligence, machine learning, quantum computing, digital literacy, and cybersecurity
+16 initiatives;
+17 2. Enhanced the ability of a company to make investments in the state, or otherwise
+18 enticed a company to invest in or move to the state;
+19 3. Led to a patent or research that is commercially viable; or
+20 4. Positively affected workforce in the state.
+21 SECTION 3. TRANSFER - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND TO
+22 ADVANCED TECHNOLOGY GRANT FUND. The office of management and budget shall
+23 transfer $5,000,000 from the strategic investment and improvements fund to the advanced
+24 technology grant fund during the biennium beginning July 1, 2025, and ending June 30, 2027.
+25 SECTION 4. APPROPRIATION - INFORMATION TECHNOLOGY DEPARTMENT -
+26 COMPUTE CREDITS GRANT PROGRAM - ONE-TIME FUNDING. There is appropriated out of
+27 any moneys in the advanced technology grant fund in the state treasury, not otherwise
+28 appropriated, the sum of $5,000,000, or so much of the sum as may be necessary, to the
+29 information technology department for the purpose of the compute credits grant program, for
+30 the biennium beginning July 1, 2025, and ending June 30, 2027. This funding is considered a
+31 one-time funding item.
+Page No. 5 25.0918.01000
+[DELETED: .T.T.S.E.A.E12]
+[DELETED: .U.A.T.".".". .".T.T.T.O22]
+[DELETED: .O.O.T. .T.A32]
+[DELETED: .T. .T.I.G42]
+[DELETED: . .E.L.P52]
+
+
+================================================================================
+
+Raw Text:
+25.0918.01000
+Sixty-ninth
+HOUSE BILL NO. 1265
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Christy, Foss, Hanson, Stemen, Toman, Warrey, O'Brien
+Senators Meyer, Sickler, Davison
+1 A BILL for an Act to create and enact a new section to chapter 15-11 and a new chapter to
+2 title 54 of the North Dakota Century Code, relating to the state information technology research
+3 center, advanced technology review committee, compute credits grant program, and advanced
+4 technology grant fund; to provide for a transfer; and to provide an appropriation.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. A new section to chapter 15-11 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 State information technology research center - Report.
+9 1. The state information technology research center at the university of North Dakota is
+10 created to conduct exploratory, transformational, and innovative research to promote
+11 the development of data science, data analysis, software engineering, and advanced
+12 information technology in the state.
+13 2. To carry out the purposes of this section, the state information technology research
+14 center may:
+15 a. Select the research topics and projects to be pursued;
+16 b. Enter contracts or agreements with other North Dakota institutions of higher
+17 education, the information technology department, and federal, private, and
+18 nonprofit organizations to support research topics and projects;
+19 c. Assist in the development of advanced technology solutions, including artificial
+20 intelligence, machine learning, quantum computing, digital literacy, and
+21 cybersecurity initiatives;
+22 d. Encourage the establishment of data centers in the state to enhance advanced
+23 technology products and initiatives;
+Page No. 1 25.0918.01000
+
+Sixty-ninth
+Legislative Assembly
+1 e. Use existing staff resources, to the extent authorized by legislative
+2 appropriations, between participating state agencies for the purpose of advancing
+3 research and development of projects selected under this section; and
+4 f. Accept donations, grants, contributions, and gifts from any source to carry out the
+5 selected research topics and projects, which must be deposited in the advanced
+6 technology grant fund.
+7 3. The state information technology research center shall report all research activities
+8 and accomplishments by October first of each year to the legislative management's
+9 information technology committee. Upon request, the state information technology
+10 research center shall report all research activities and accomplishments to the
+11 appropriations committees of the legislative assembly.
+12 SECTION 2. A new chapter to title 54 of the North Dakota Century Code is created and
+13 enacted as follows:
+14 Definitions
+15 In this chapter, unless the context otherwise requires:
+16 1. "Chief information officer" means the chief information officer of the information
+17 technology department.
+18 2. "Commissioner" means the commissioner of the department of commerce.
+19 3. "Committee" means the advanced technology review committee.
+20 4. " Departmen t " means the information technology department .
+21 5. "Vice chancellor for information technology" means the chief information officer and
+22 vice chancellor for information technology of the North Dakota university system.
+23 Advanced technology review committee - Membership - Meetings.
+24 1. The advanced technology review committee consists of:
+25 a. The chief information officer or a designee within the information technology
+26 department;
+27 b. The vice chancellor for information technology or a designee within the North
+28 Dakota university system;
+29 c. One individual from the private sector with significant information and advanced
+30 technology knowledge, appointed by the governor;
+Page No. 2 25.0918.01000
+
+Sixty-ninth
+Legislative Assembly
+1 d. One individual from the private sector with significant information and advanced
+2 technology knowledge, appointed by the majority leader of the house of
+3 representatives;
+4 e. One individual from the private sector with significant information and advanced
+5 technology knowledge, appointed by the majority leader of the senate; and
+6 f. The commissioner, or a designee within the department of commerce, who shall
+7 serve as a nonvoting member of the committee and provide recommendations to
+8 the committee regarding grant awards.
+9 2. By July first of each odd - numbered year, the chief information officer and vice
+10 chancellor for information technology shall compile a list of individuals with significant
+11 private sector information and advanced technology knowledge working within the
+12 state to be forwarded to the governor and the majority leaders of the house of
+13 representatives and senate. The governor and the majority leaders of the house of
+14 representatives and senate must consider the listed individuals for committee
+15 membership appointments.
+16 3. The chief information officer, vice chancellor for information technology, and
+17 commissioner are permanent members of the committee. The term of office of the
+18 members of the committee appointed from the private sector is four years except the
+19 initial term of office of the individual appointed by the majority leader of the senate is
+20 three years and the initial term of office of the individual appointed by the governor is
+21 two years. Each term of office commences on August first. Members serve at the
+22 pleasure of the appointing entity and may be reappointed for additional terms. By
+23 August first of each year, the chairman of the legislative management shall select one
+24 of the appointed members to serve as the chairman of the committee. The chairman of
+25 the committee shall select a vice chair. If a committee member ceases to qualify as a
+26 member of the appointing entity, that individual's membership on the committee
+27 ceases immediately and the appointing entity shall appoint a new member to the
+28 committee for the remainder of the term.
+29 4. A committee member representing the private sector is entitled to receive
+30 compensation in an amount not exceeding one hundred thirty - five dollars per day and
+31 travel and expense reimbursement as provided by law for state officers for attending
+Page No. 3 25.0918.01000
+
+Sixty-ninth
+Legislative Assembly
+1 meetings of the committee, to be paid by the departmen t within the limits of legislative
+2 appropriations.
+3 5. The committee shall meet at the call of the chairman to review and approve grant
+4 applications from entrepreneurs, startup companies, and small businesses that are in
+5 the initial phases of advanced technology product research, development, and
+6 innovation and are unable to access financial resources for prototype product
+7 development.
+8 Compute credits grant program - Eligibility - Use of funds.
+9 1. The departmen t shall administer the compute credits grant program to provide grants
+10 for activities identified in this chapter. The department shall provide administrative
+11 support for the program, including the drafting of application forms, receiving
+12 applications, reviewing applications for completeness and compliance with committee
+13 policy, and forwarding complete applications to the committee in accordance with the
+14 guidelines established by the committee.
+15 2. The committee shall establish guidelines for entities to qualify for a compute credits
+16 grant under this section.
+17 3. In determining whether to approve an application for grant funding, the committee
+18 shall consider the extent to which the applicant's proposal will support the
+19 development of advanced technology solutions, including artificial intelligence,
+20 machine learning, quantum computing, digital literacy, and cybersecurity initiatives.
+21 The committee shall give priority to applications with a greater likelihood of attracting
+22 other information technology businesses to the state. The committee shall consider
+23 and process applications in a timely manner to allow applicants an opportunity to
+24 leverage other funds.
+25 4. Grant recipients shall use funding awarded under this section for the cost of increased
+26 compute credits and central processing unit storage capacity that promotes the
+27 program requirements in subsection 3 of this section . An entity receiving a grant under
+28 this section may not use the funds for capital or building investments or other activities
+29 not identified in this chapter. The funds may not be used for administrative costs or to
+30 supplant funding for regular operations of the entity. If an entity awarded a grant no
+Page No. 4 25.0918.01000
+
+Sixty-ninth
+Legislative Assembly
+1 longer conducts its activities in the state, the entity must repay the awarded grant
+2 funding to departmen t .
+3 Advanced technology grant fund.
+4 The advanced technology grant fund is a special fund in the state treasury administered by
+5 the department. Moneys in the fund must be used for providing grants and for the payment of
+6 committee and department administrative expenses incurred related to the requirements of this
+7 chapter, subject to legislative appropriations. Interest earned on moneys in the fund must be
+8 credited to the fund.
+9 Compute credits grant program - Post-award monitoring
+10 Upon completion of work performed from funding provided by a compute credits grant or
+11 research completed by state information technology research center, the department shall
+12 conduct an independent review of the results. Evaluation criteria may include how the work
+13 performed has:
+14 1. Promoted the development of advanced technology solutions , including artificial
+15 intelligence, machine learning, quantum computing, digital literacy, and cybersecurity
+16 initiatives;
+17 2. Enhanced the ability of a company to make investments in the state, or otherwise
+18 enticed a company to invest in or move to the state;
+19 3. Led to a patent or research that is commercially viable; or
+20 4. Positively affected workforce in the state.
+21 SECTION 3. TRANSFER - STRATEGIC INVESTMENT AND IMPROVEMENTS FUND TO
+22 ADVANCED TECHNOLOGY GRANT FUND. The office of management and budget shall
+23 transfer $5,000,000 from the strategic investment and improvements fund to the advanced
+24 technology grant fund during the biennium beginning July 1, 2025, and ending June 30, 2027.
+25 SECTION 4. APPROPRIATION - INFORMATION TECHNOLOGY DEPARTMENT -
+26 COMPUTE CREDITS GRANT PROGRAM - ONE-TIME FUNDING. There is appropriated out of
+27 any moneys in the advanced technology grant fund in the state treasury, not otherwise
+28 appropriated, the sum of $5,000,000, or so much of the sum as may be necessary, to the
+29 information technology department for the purpose of the compute credits grant program, for
+30 the biennium beginning July 1, 2025, and ending June 30, 2027. This funding is considered a
+31 one-time funding item.
+Page No. 5 25.0918.01000
+
+[DELETED: .T.T.S.E.A.E12]
+[DELETED: .U.A.T.".".". .".T.T.T.O22]
+[DELETED: .O.O.T. .T.A32]
+[DELETED: .T. .T.I.G42]
+[DELETED: . .E.L.P52]

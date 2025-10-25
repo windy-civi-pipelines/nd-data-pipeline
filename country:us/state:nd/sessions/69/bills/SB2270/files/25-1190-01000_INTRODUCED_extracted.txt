@@ -1,0 +1,191 @@
+Title: SENATE BILL NO. 2270
+Official Title: SENATE BILL NO. 2270
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1190.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Roers, Davison, Mathern
+Representatives McLeod, Schreiber-Beck, Beltz
+1 A BILL for an Act to create and enact chapter 43-17.6 of the North Dakota Century Code,
+2 relating to the licensure of international physicians.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. Chapter 43-17.6 of the North Dakota Century Code is created and enacted as
+5 follows:
+6 43 - 17.6 - 01. Definitions .
+7 As used in this chapter:
+8 1. "Board" means the state board of medicine.
+9 2. "Health care provider" means a person who:
+10 a. Furnishes, bills, or is paid for health care procedures or services in the normal
+11 course of business; and
+12 b. Includes health systems, hospitals, hospita l - based facilities, freestanding
+13 emergency facilities, and urgent care clinics.
+14 3. "International medical program" means any medical school, residency program,
+15 medical internship program, or entity that:
+16 a. Provides physicians with medical education or training eligible for certification by
+17 the educational commission on foreign medical graduates; or
+18 b. Is substantially similar to the medical education or training required by the board
+19 for licensure in this state.
+20 4. "International physician" means an individual who:
+21 a. Has been granted a medical doctorate or substantially similar degree by a
+22 domestic or international medical program in good standing;
+23 b. Maintained good standing with the medial licensing authority of the licensing
+24 country within the previous five years without pending disciplinary action;
+Page No. 1 25.1190.01000
+Sixty-ninth
+Legislative Assembly
+1 c. Completed either:
+2 (1) A residency or substantially similar postgraduate medical training program;
+3 or
+4 (2) Seven years of practice as a medical professional performing physician
+5 duties in the licensing country after completing a medical doctorate;
+6 d. Practiced medicine as a fully licensed or authorized physician in the licensing
+7 country after completing the requirements under subdivision c;
+8 e. Obtained certification by the educational council for foreign medical graduates or
+9 a successor organization approved by the board;
+10 f. Passed all three steps of the United States medical licensing examination; and
+11 g. Demonstrates English language proficiency.
+12 5. "Physician" means an individual who has obtained a medical doctorate or a
+13 substantially similar degree and is licensed inside or outside the United States.
+14 43 - 17.6 - 02. Provisional licensure program .
+15 1. The board shall grant a provisional license to practice medicine to any international
+16 physician who:
+17 a. Has an offer of employment from a health care provider operating in this state;
+18 b. Is eligible to obtain appropriate federal immigration status for medical practice;
+19 c. Passes the United States medical licensing examination;
+20 d. Meets all other requirements under subsection 4 of section 43 - 17.6 - 01; and
+21 e. Completes the required application and pays applicable fees.
+22 2. The board may revoke a provisional license if:
+23 a. The physician ceases employment with a health care provider in this state, during
+24 the provisional period; or
+25 b. Clear and convincing evidence shows the physician violated the medical, safety,
+26 competency, or conduct standards of this state.
+27 3. An appeal of a provisional license revocation:
+28 a. Must be filed with the district court within one hundred twenty days of revocation;
+29 b. Must follow the procedures established in chapter 28 - 32; and
+30 c. Must result in license reinstatement if the court finds the board's actions did not
+31 meet the standards under subsection 2 .
+Page No. 2 25.1190.01000
+Sixty-ninth
+Legislative Assembly
+1 4. A provisional license converts to a full medical license automatically after three years
+2 of active practice in this state.
+3 43 - 17.6 - 03. Additional provisions .
+4 1. The board may:
+5 a. Verify training equivalency;
+6 b. Review examination results;
+7 c. Conduct background investigations;
+8 d. Require complete license applications; and
+9 e. Collect necessary fees.
+10 2. International physicians may:
+11 a. Apply for provisional licensure before receiving federal work authorization but
+12 may not begin practicing until federal work authorization is obtained; and
+13 b. Obtain employment outside of the original sponsoring facility after receiving full
+14 licensure.
+Page No. 3 25.1190.01000
+[DELETED: .".".F. .".P.I.".H.M12]
+[DELETED: .C)A)S.P.O.P.D.".T.H.I.P. .C.T.T.C.A.M. .M22]
+[DELETED: .A.T.V.R.C.R.C.I.A.O32]
+
+
+================================================================================
+
+Raw Text:
+25.1190.01000
+Sixty-ninth
+SENATE BILL NO. 2270
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Roers, Davison, Mathern
+Representatives McLeod, Schreiber-Beck, Beltz
+1 A BILL for an Act to create and enact chapter 43-17.6 of the North Dakota Century Code,
+2 relating to the licensure of international physicians.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. Chapter 43-17.6 of the North Dakota Century Code is created and enacted as
+5 follows:
+6 43 - 17.6 - 01. Definitions .
+7 As used in this chapter:
+8 1. "Board" means the state board of medicine.
+9 2. "Health care provider" means a person who:
+10 a. Furnishes, bills, or is paid for health care procedures or services in the normal
+11 course of business; and
+12 b. Includes health systems, hospitals, hospita l - based facilities, freestanding
+13 emergency facilities, and urgent care clinics.
+14 3. "International medical program" means any medical school, residency program,
+15 medical internship program, or entity that:
+16 a. Provides physicians with medical education or training eligible for certification by
+17 the educational commission on foreign medical graduates; or
+18 b. Is substantially similar to the medical education or training required by the board
+19 for licensure in this state.
+20 4. "International physician" means an individual who:
+21 a. Has been granted a medical doctorate or substantially similar degree by a
+22 domestic or international medical program in good standing;
+23 b. Maintained good standing with the medial licensing authority of the licensing
+24 country within the previous five years without pending disciplinary action;
+Page No. 1 25.1190.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. Completed either:
+2 (1) A residency or substantially similar postgraduate medical training program;
+3 or
+4 (2) Seven years of practice as a medical professional performing physician
+5 duties in the licensing country after completing a medical doctorate;
+6 d. Practiced medicine as a fully licensed or authorized physician in the licensing
+7 country after completing the requirements under subdivision c;
+8 e. Obtained certification by the educational council for foreign medical graduates or
+9 a successor organization approved by the board;
+10 f. Passed all three steps of the United States medical licensing examination; and
+11 g. Demonstrates English language proficiency.
+12 5. "Physician" means an individual who has obtained a medical doctorate or a
+13 substantially similar degree and is licensed inside or outside the United States.
+14 43 - 17.6 - 02. Provisional licensure program .
+15 1. The board shall grant a provisional license to practice medicine to any international
+16 physician who:
+17 a. Has an offer of employment from a health care provider operating in this state;
+18 b. Is eligible to obtain appropriate federal immigration status for medical practice;
+19 c. Passes the United States medical licensing examination;
+20 d. Meets all other requirements under subsection 4 of section 43 - 17.6 - 01; and
+21 e. Completes the required application and pays applicable fees.
+22 2. The board may revoke a provisional license if:
+23 a. The physician ceases employment with a health care provider in this state, during
+24 the provisional period; or
+25 b. Clear and convincing evidence shows the physician violated the medical, safety,
+26 competency, or conduct standards of this state.
+27 3. An appeal of a provisional license revocation:
+28 a. Must be filed with the district court within one hundred twenty days of revocation;
+29 b. Must follow the procedures established in chapter 28 - 32; and
+30 c. Must result in license reinstatement if the court finds the board's actions did not
+31 meet the standards under subsection 2 .
+Page No. 2 25.1190.01000
+
+Sixty-ninth
+Legislative Assembly
+1 4. A provisional license converts to a full medical license automatically after three years
+2 of active practice in this state.
+3 43 - 17.6 - 03. Additional provisions .
+4 1. The board may:
+5 a. Verify training equivalency;
+6 b. Review examination results;
+7 c. Conduct background investigations;
+8 d. Require complete license applications; and
+9 e. Collect necessary fees.
+10 2. International physicians may:
+11 a. Apply for provisional licensure before receiving federal work authorization but
+12 may not begin practicing until federal work authorization is obtained; and
+13 b. Obtain employment outside of the original sponsoring facility after receiving full
+14 licensure.
+Page No. 3 25.1190.01000
+
+[DELETED: .".".F. .".P.I.".H.M12]
+[DELETED: .C)A)S.P.O.P.D.".T.H.I.P. .C.T.T.C.A.M. .M22]
+[DELETED: .A.T.V.R.C.R.C.I.A.O32]

@@ -1,0 +1,382 @@
+Title: SENATE BILL NO. 2251
+Official Title: SENATE BILL NO. 2251
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25.0851.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Cleary, Weston, Castaneda, Paulson
+Representatives M. Ruby, Rohr
+1 A BILL for an Act to amend and reenact section 54-10-01, subsection 5 of section 54-10-14, and
+2 sections 54-10-19 and 54-10-27 of the North Dakota Century Code, relating to audits conducted
+3 by the state auditor, charges for audits, and subpoenas issued by the state auditor.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 54-10-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 54-10-01. Powers and duties of state auditor - Report. (Retroactive application - See
+8 note)
+9 1. The state auditor shall:
+10 a. Be vested with the duties, powers, and responsibilities involved in performing the
+11 postaudit of all financial transactions of state government, detecting and reporting
+12 any defaults, and determining that expenditures have been made in accordance
+13 with law and appropriation acts.
+14 b. Perform or provide for the audit of the general purpose financial statements and a
+15 review of the material included in the comprehensive annual financial report of
+16 the state in accordance with government auditing standards.
+17 c. Except for the audit of the department of financial institutions as outlined in
+18 section 54-10-31, perform or provide for audits of state agencies in accordance
+19 with government auditing standards and legislative audit and fiscal review
+20 committee guidelines developed under section 54-35-02.10. Except for the
+21 annual audit of the North Dakota lottery required by section 53-12.1-03, the state
+22 auditor shall audit each state agency once every two to four years. Audits may be
+23 conducted at more frequent intervals if requested by the governor or the
+24 legislative audit and fiscal review committee. The state auditor shall charge an
+Page No. 1 25.0851.01000
+Sixty-ninth
+Legislative Assembly
+1 amount equal to the cost of the audit and other services rendered by the state
+2 auditor to all agencies that receive and expend moneys from other than the
+3 general fund. This charge may be reduced for an agency that receives and
+4 expends both general fund and nongeneral fund moneys. The charge for an audit
+5 of an agricultural commodity group listed in section 4.1-44-04 must be six
+6 thousand dollars for an annual financial statement audit or four thousand dollars
+7 for a two-year single-page financial statement audit performed during the
+8 biennium ending June 30, 2025, and may be increased by five percent on July
+9 first of each odd-numbered year thereafter. State agencies shall use nongeneral
+10 fund moneys to pay for the cost of the audit. If nongeneral fund moneys are not
+11 available, the agency may, upon approval of the legislative assembly, or the
+12 budget section if the legislative assembly is not in session, use general fund
+13 moneys to pay for the audit. Any budget section action under this subdivision
+14 must comply with section 54-35-02.9.
+15 d. Except for the audit of the department of financial institutions as outlined in
+16 section 54-10-31, perform or provide for performance audits of state agencies, or
+17 the agencies' blended component units or discreetly presented component units,
+18 as determined necessary by the legislative assembly, or the legislative audit and
+19 fiscal review committee if the legislative assembly is not in session. When
+20 determining the necessity of a performance audit, the legislative audit and fiscal
+21 review committee shall consider:
+22 (1) The potential cost-savings or efficiencies that may be gained as a result of
+23 the performance audit;
+24 (2) The staff resources of the state auditor's office and of the state agency
+25 being audited which will be required to conduct the audit;
+26 (3) The potential for discovery of noncompliance with state law or legislative
+27 intent regarding the program or agency; and
+28 (4) The potential for the performance audit to identify opportunities for program
+29 improvements.
+30 e. Report quarterly to the legislative audit and fiscal review committee regarding:
+Page No. 2 25.0851.01000
+Sixty-ninth
+Legislative Assembly
+1 (1) Communication processes with audited entities and any changes to the
+2 processes;
+3 (2) Billing practices and procedures, including the use of cost estimates for
+4 audits, an itemized invoicing methodology, and a defined change order
+5 process for audits that exceed the original estimate;
+6 (3) Information on audits completed, including:
+7 (a) Name of the audited organization;
+8 (b) Organization type;
+9 (c) Audit type;
+10 (d) Audit period;
+11 (e) Estimated and actual hours and costs; and
+12 (f) Total audit cost and the total cost as a percentage of the audited
+13 organization's operating budget; and
+14 (4) Audit schedules, including audits performed by private firms and audits
+15 performed by the state auditor's office.
+16 f. Report on the functions of the state auditor's office to the governor and the
+17 secretary of state in accordance with section 54-06-04 or more often as
+18 circumstances may require.
+19 g. Perform work on mineral royalties for the federal government in accordance with
+20 section 1735(a) of the Mineral Lands and Mining Act [30 U.S.C. 1735 et seq.].
+21 h. Report to the legislative audit and fiscal review committee regarding final report
+22 distribution policies and practices and any final audit reports released to the
+23 public prior to distribution of the final audit report to all individuals charged with
+24 the governance of the audit client.
+25 i. Perform all other duties as prescribed by law.
+26 2. The state auditor may:
+27 a. Conduct any work required by the federal government and charge an amount
+28 equal to the cost of the audit to be paid by the audited federal funds of the
+29 appropriate government agency and deposited into the general fund.
+Page No. 3 25.0851.01000
+Sixty-ninth
+Legislative Assembly
+1 b. Within the resources available to the state auditor, perform or provide for
+2 performance audits of state agencies as determined necessary by the state
+3 auditor.
+4 c. Audit the International Peace Garden at the request of the board of directors of
+5 the International Peace Garden.
+6 d. Contract with a private certified public accountant or other qualified professional
+7 to conduct or assist with an audit, review, or other work the state auditor is
+8 authorized to perform or provide for under this section. Before entering any
+9 contract, the state auditor shall present information to the legislative audit and
+10 fiscal review committee on the need for the contract and its estimated cost and
+11 duration. Except for performance audits conducted under subdivision d of
+12 subsection 1 or subdivision b of this subsection and except for audits of
+13 occupational or professional boards, the state auditor shall execute the contract
+14 and any executive branch agency, including higher education institutions, shall
+15 pay the fees of the contractor. For performance audits conducted under
+16 subdivision d of subsection 1 or subdivision b of this subsection, the state auditor
+17 may charge a state agency for the cost of a contract relating to an audit, subject
+18 to approval by the legislative assembly or the legislative audit and fiscal review
+19 committee if the legislative assembly is not in session. When considering a
+20 request, the legislative audit and fiscal review committee shall consider the effect
+21 of the audit cost on the agency being audited, the necessity of the contract, and
+22 the potential benefit to the state resulting from the contract. The state auditor
+23 shall notify the affected agency of the potential cost before requesting approval
+24 from the legislative assembly or the legislative audit and fiscal review committee.
+25 3. Notwithstanding subdivision c of subsection 1 and subdivision d of subsection 2, the
+26 state auditor may not charge audit fees to an institution of higher education, agency, or
+27 office under the control of the state board of higher education, including passthrough
+28 grants, except for a proportional share of audit fees on federal programs or grants to
+29 the extent those audited federal programs or grants provide for allowable cost
+30 recovery. Institutions without an approved indirect cost recovery fund may not be
+31 assessed audit fees on closed federal programs.
+Page No. 4 25.0851.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. AMENDMENT. Subsection 5 of section 54-10-14 of the North Dakota Century
+2 Code is amended and reenacted as follows:
+3 5. A political subdivision may not pay a public accountant for an audit until the state
+4 auditor has accepted the audit. However, a political subdivision may make progress
+5 payments to the public accountant. A political subdivision shall retain twentyfive
+6 percent of any progress payment until the audit report is accepted by the state auditor.
+7 SECTION 3. AMENDMENT. Section 54-10-19 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 54-10-19. Supervision of public institutions and private institutions with which state
+10 has dealings - Subpoena power .
+11 The state auditor may examine the books and accounts of all private institutions with which
+12 the state has any dealings so far only as the same relate to suchto the extent the examination is
+13 related to those dealings. The state auditor may issue subpoenas for the production of records,
+14 documents, or testimony directly related to an audit or review authorized under this chapter. If
+15 any public officer having control of any such office or institutions fails or refuses to comply with
+16 the directions of the state auditor, the auditor shall report the facts to the governor and to the
+17 manager of the state bonding fund, and such refusal constitutes grounds for removal from office
+18 and cancellation of the bond of such officer.
+19 SECTION 4. AMENDMENT. Section 54-10-27 of the North Dakota Century Code is
+20 amended and reenacted as follows:
+21 54-10-27. Occupational and professional boards - Audits and reports.
+22 The governing board of any occupational or professional board shall provide for an audit
+23 once every two years by a certified public accountant or licensed public accountant. The
+24 accountant conducting the audit shall submit the audit report to the state auditor's office. If the
+25 report is in the form and style prescribed by the state auditor, the state auditor may not audit
+26 that board. An occupational or professional board may request the state auditor to conduct its
+27 audit, and if the state auditor agrees to conduct the audit, the state auditor shall deposit the fees
+28 charged to the occupational or professional board into the state auditor operating account.
+29 Instead of providing for an audit every two years, an occupational or professional board that has
+30 less than two hundred thousandtwo million dollars of annual receipts may submit an annual
+31 report to the state auditor. The report must contain the information required by the state auditor.
+Page No. 5 25.0851.01000
+Sixty-ninth
+Legislative Assembly
+1 The state auditor also may make any additional examination or audit determined necessary in
+2 addition to the annual report. When a report is not filed, the state auditor may charge the
+3 occupational or professional board an amount equal to the fair value of the additional
+4 examination or audit and any other services rendered. The state auditor may charge an
+5 occupational or professional board a fee not to exceed ninety dollars an hour for the costs of
+6 reviewing the annual report.
+Page No. 6 25.0851.01000
+[DELETED: .T.B.P.E12]
+[DELETED: .E)T)T)T)T.R22]
+[DELETED: )C)B)I)N)O)A)A)E)T)A.R.P.R.P.T.C32]
+[DELETED: .W.A.C.N42]
+[DELETED: .A52]
+[DELETED: 62]
+
+
+================================================================================
+
+Raw Text:
+25.0851.01000
+Sixty-ninth
+SENATE BILL NO. 2251
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Cleary, Weston, Castaneda, Paulson
+Representatives M. Ruby, Rohr
+1 A BILL for an Act to amend and reenact section 54-10-01, subsection 5 of section 54-10-14, and
+2 sections 54-10-19 and 54-10-27 of the North Dakota Century Code, relating to audits conducted
+3 by the state auditor, charges for audits, and subpoenas issued by the state auditor.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 54-10-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 54-10-01. Powers and duties of state auditor - Report. (Retroactive application - See
+8 note)
+9 1. The state auditor shall:
+10 a. Be vested with the duties, powers, and responsibilities involved in performing the
+11 postaudit of all financial transactions of state government, detecting and reporting
+12 any defaults, and determining that expenditures have been made in accordance
+13 with law and appropriation acts.
+14 b. Perform or provide for the audit of the general purpose financial statements and a
+15 review of the material included in the comprehensive annual financial report of
+16 the state in accordance with government auditing standards.
+17 c. Except for the audit of the department of financial institutions as outlined in
+18 section 54-10-31, perform or provide for audits of state agencies in accordance
+19 with government auditing standards and legislative audit and fiscal review
+20 committee guidelines developed under section 54-35-02.10. Except for the
+21 annual audit of the North Dakota lottery required by section 53-12.1-03, the state
+22 auditor shall audit each state agency once every two to four years. Audits may be
+23 conducted at more frequent intervals if requested by the governor or the
+24 legislative audit and fiscal review committee. The state auditor shall charge an
+Page No. 1 25.0851.01000
+
+Sixty-ninth
+Legislative Assembly
+1 amount equal to the cost of the audit and other services rendered by the state
+2 auditor to all agencies that receive and expend moneys from other than the
+3 general fund. This charge may be reduced for an agency that receives and
+4 expends both general fund and nongeneral fund moneys. The charge for an audit
+5 of an agricultural commodity group listed in section 4.1-44-04 must be six
+6 thousand dollars for an annual financial statement audit or four thousand dollars
+7 for a two-year single-page financial statement audit performed during the
+8 biennium ending June 30, 2025, and may be increased by five percent on July
+9 first of each odd-numbered year thereafter. State agencies shall use nongeneral
+10 fund moneys to pay for the cost of the audit. If nongeneral fund moneys are not
+11 available, the agency may, upon approval of the legislative assembly, or the
+12 budget section if the legislative assembly is not in session, use general fund
+13 moneys to pay for the audit. Any budget section action under this subdivision
+14 must comply with section 54-35-02.9.
+15 d. Except for the audit of the department of financial institutions as outlined in
+16 section 54-10-31, perform or provide for performance audits of state agencies, or
+17 the agencies' blended component units or discreetly presented component units,
+18 as determined necessary by the legislative assembly, or the legislative audit and
+19 fiscal review committee if the legislative assembly is not in session. When
+20 determining the necessity of a performance audit, the legislative audit and fiscal
+21 review committee shall consider:
+22 (1) The potential cost-savings or efficiencies that may be gained as a result of
+23 the performance audit;
+24 (2) The staff resources of the state auditor's office and of the state agency
+25 being audited which will be required to conduct the audit;
+26 (3) The potential for discovery of noncompliance with state law or legislative
+27 intent regarding the program or agency; and
+28 (4) The potential for the performance audit to identify opportunities for program
+29 improvements.
+30 e. Report quarterly to the legislative audit and fiscal review committee regarding:
+Page No. 2 25.0851.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (1) Communication processes with audited entities and any changes to the
+2 processes;
+3 (2) Billing practices and procedures, including the use of cost estimates for
+4 audits, an itemized invoicing methodology, and a defined change order
+5 process for audits that exceed the original estimate;
+6 (3) Information on audits completed, including:
+7 (a) Name of the audited organization;
+8 (b) Organization type;
+9 (c) Audit type;
+10 (d) Audit period;
+11 (e) Estimated and actual hours and costs; and
+12 (f) Total audit cost and the total cost as a percentage of the audited
+13 organization's operating budget; and
+14 (4) Audit schedules, including audits performed by private firms and audits
+15 performed by the state auditor's office.
+16 f. Report on the functions of the state auditor's office to the governor and the
+17 secretary of state in accordance with section 54-06-04 or more often as
+18 circumstances may require.
+19 g. Perform work on mineral royalties for the federal government in accordance with
+20 section 1735(a) of the Mineral Lands and Mining Act [30 U.S.C. 1735 et seq.].
+21 h. Report to the legislative audit and fiscal review committee regarding final report
+22 distribution policies and practices and any final audit reports released to the
+23 public prior to distribution of the final audit report to all individuals charged with
+24 the governance of the audit client.
+25 i. Perform all other duties as prescribed by law.
+26 2. The state auditor may:
+27 a. Conduct any work required by the federal government and charge an amount
+28 equal to the cost of the audit to be paid by the audited federal funds of the
+29 appropriate government agency and deposited into the general fund.
+Page No. 3 25.0851.01000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Within the resources available to the state auditor, perform or provide for
+2 performance audits of state agencies as determined necessary by the state
+3 auditor.
+4 c. Audit the International Peace Garden at the request of the board of directors of
+5 the International Peace Garden.
+6 d. Contract with a private certified public accountant or other qualified professional
+7 to conduct or assist with an audit, review, or other work the state auditor is
+8 authorized to perform or provide for under this section. Before entering any
+9 contract, the state auditor shall present information to the legislative audit and
+10 fiscal review committee on the need for the contract and its estimated cost and
+11 duration. Except for performance audits conducted under subdivision d of
+12 subsection 1 or subdivision b of this subsection and except for audits of
+13 occupational or professional boards, the state auditor shall execute the contract
+14 and any executive branch agency, including higher education institutions, shall
+15 pay the fees of the contractor. For performance audits conducted under
+16 subdivision d of subsection 1 or subdivision b of this subsection, the state auditor
+17 may charge a state agency for the cost of a contract relating to an audit, subject
+18 to approval by the legislative assembly or the legislative audit and fiscal review
+19 committee if the legislative assembly is not in session. When considering a
+20 request, the legislative audit and fiscal review committee shall consider the effect
+21 of the audit cost on the agency being audited, the necessity of the contract, and
+22 the potential benefit to the state resulting from the contract. The state auditor
+23 shall notify the affected agency of the potential cost before requesting approval
+24 from the legislative assembly or the legislative audit and fiscal review committee.
+25 3. Notwithstanding subdivision c of subsection 1 and subdivision d of subsection 2, the
+26 state auditor may not charge audit fees to an institution of higher education, agency, or
+27 office under the control of the state board of higher education, including passthrough
+28 grants, except for a proportional share of audit fees on federal programs or grants to
+29 the extent those audited federal programs or grants provide for allowable cost
+30 recovery. Institutions without an approved indirect cost recovery fund may not be
+31 assessed audit fees on closed federal programs.
+Page No. 4 25.0851.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. AMENDMENT. Subsection 5 of section 54-10-14 of the North Dakota Century
+2 Code is amended and reenacted as follows:
+3 5. A political subdivision may not pay a public accountant for an audit until the state
+4 auditor has accepted the audit. However, a political subdivision may make progress
+5 payments to the public accountant. A political subdivision shall retain twentyfive
+6 percent of any progress payment until the audit report is accepted by the state auditor.
+7 SECTION 3. AMENDMENT. Section 54-10-19 of the North Dakota Century Code is
+8 amended and reenacted as follows:
+9 54-10-19. Supervision of public institutions and private institutions with which state
+10 has dealings - Subpoena power .
+11 The state auditor may examine the books and accounts of all private institutions with which
+12 the state has any dealings so far only as the same relate to suchto the extent the examination is
+13 related to those dealings. The state auditor may issue subpoenas for the production of records,
+14 documents, or testimony directly related to an audit or review authorized under this chapter. If
+15 any public officer having control of any such office or institutions fails or refuses to comply with
+16 the directions of the state auditor, the auditor shall report the facts to the governor and to the
+17 manager of the state bonding fund, and such refusal constitutes grounds for removal from office
+18 and cancellation of the bond of such officer.
+19 SECTION 4. AMENDMENT. Section 54-10-27 of the North Dakota Century Code is
+20 amended and reenacted as follows:
+21 54-10-27. Occupational and professional boards - Audits and reports.
+22 The governing board of any occupational or professional board shall provide for an audit
+23 once every two years by a certified public accountant or licensed public accountant. The
+24 accountant conducting the audit shall submit the audit report to the state auditor's office. If the
+25 report is in the form and style prescribed by the state auditor, the state auditor may not audit
+26 that board. An occupational or professional board may request the state auditor to conduct its
+27 audit, and if the state auditor agrees to conduct the audit, the state auditor shall deposit the fees
+28 charged to the occupational or professional board into the state auditor operating account.
+29 Instead of providing for an audit every two years, an occupational or professional board that has
+30 less than two hundred thousandtwo million dollars of annual receipts may submit an annual
+31 report to the state auditor. The report must contain the information required by the state auditor.
+Page No. 5 25.0851.01000
+
+Sixty-ninth
+Legislative Assembly
+1 The state auditor also may make any additional examination or audit determined necessary in
+2 addition to the annual report. When a report is not filed, the state auditor may charge the
+3 occupational or professional board an amount equal to the fair value of the additional
+4 examination or audit and any other services rendered. The state auditor may charge an
+5 occupational or professional board a fee not to exceed ninety dollars an hour for the costs of
+6 reviewing the annual report.
+Page No. 6 25.0851.01000
+
+[DELETED: .T.B.P.E12]
+[DELETED: .E)T)T)T)T.R22]
+[DELETED: )C)B)I)N)O)A)A)E)T)A.R.P.R.P.T.C32]
+[DELETED: .W.A.C.N42]
+[DELETED: .A52]
+[DELETED: 62]

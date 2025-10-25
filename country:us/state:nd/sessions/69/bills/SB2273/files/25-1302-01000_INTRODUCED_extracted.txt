@@ -1,0 +1,136 @@
+Title: SENATE BILL NO. 2273
+Official Title: SENATE BILL NO. 2273
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1302.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Bekkedahl, Boschee, Lee
+Representatives Koppelman, Satrom
+1 A BILL for an Act to amend and reenact subsection 14 of section 43-26.1-01 and section
+2 43-26.1-11.1 of the North Dakota Century Code, relating to diagnostic imaging by physical
+3 therapists.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Subsection 14 of section 43-26.1-01 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 14. "Practice of physical therapy" means:
+8 a. Examining, evaluating, and testing individuals with mechanical, physiological,
+9 and developmental impairments, functional limitations in movement and mobility,
+10 and disabilities or other health and movement-related conditions to determine a
+11 diagnosis for physical therapy, prognosis, and plan of therapeutic intervention,
+12 and to assess the ongoing effects of intervention. The term includes ordering
+13 musculoskeletaldiagnostic imaging consisting of plain film radiographs to be
+14 performed by a professional authorized by chapter 43-62 and interpreted by a
+15 licensed physician trained in radiology interpretation, and using these results to
+16 determine if a referral to another health care provider is necessary or indicates
+17 the necessary treatment is within the physical therapist's scope of practice.
+18 b. Alleviating impairments, functional limitations in movement and mobility, and
+19 disabilities by designing, implementing and modifying therapeutic interventions
+20 that may include therapeutic exercise; neuromuscular education; functional
+21 training related to positioning, movement, and mobility in self-care and in-home,
+22 community, or work integration or reintegration; manual therapy; therapeutic
+23 massage; prescription, application and, as appropriate, fabrication of assistive,
+24 adaptive, orthotic, prosthetic, protective, and supportive devices and equipment
+Page No. 1 25.1302.01000
+Sixty-ninth
+Legislative Assembly
+1 related to positioning, movement, and mobility; airway clearance techniques;
+2 integumentary protection and repair techniques; debridement and wound care;
+3 physiotherapy; physical agents or modalities; mechanical and electrotherapeutic
+4 modalities; and patient-related instruction.
+5 c. Engaging as a physical therapist in reducing the risk of injury, impairment,
+6 functional limitation and disability, including the promotion and maintenance of
+7 fitness, health, and wellness in populations of all ages.
+8 d. Engaging as a physical therapist in administration, consultation, education, and
+9 research.
+10 SECTION 2. AMENDMENT. Section 43-26.1-11.1 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 43-26.1-11.1. Ordering imaging.
+13 1. A physical therapist may order musculoskeletaldiagnostic imaging consisting of plain
+14 film radiographs if the physical therapist holds:
+15 a. Holds a clinical doctorate degree in physical therapy; or has completed
+16 b. Completed a board-approved formal medical imaging training program.
+17 2. A physical therapist ordering diagnostic imaging shall report the results to the patient's
+18 designated primary care provider within seven days of receipt of the image to ensure
+19 coordination of care, unless:
+20 a. The patient does not have a primary care provider; or
+21 b. The primary care provider received the images from the health care professional
+22 who performed or interpreted the images.
+Page No. 2 25.1302.01000
+[DELETED: .".E.A12]
+[DELETED: .E.E.A.H.C.A.T.T22]
+
+
+================================================================================
+
+Raw Text:
+25.1302.01000
+Sixty-ninth
+SENATE BILL NO. 2273
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Bekkedahl, Boschee, Lee
+Representatives Koppelman, Satrom
+1 A BILL for an Act to amend and reenact subsection 14 of section 43-26.1-01 and section
+2 43-26.1-11.1 of the North Dakota Century Code, relating to diagnostic imaging by physical
+3 therapists.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Subsection 14 of section 43-26.1-01 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 14. "Practice of physical therapy" means:
+8 a. Examining, evaluating, and testing individuals with mechanical, physiological,
+9 and developmental impairments, functional limitations in movement and mobility,
+10 and disabilities or other health and movement-related conditions to determine a
+11 diagnosis for physical therapy, prognosis, and plan of therapeutic intervention,
+12 and to assess the ongoing effects of intervention. The term includes ordering
+13 musculoskeletaldiagnostic imaging consisting of plain film radiographs to be
+14 performed by a professional authorized by chapter 43-62 and interpreted by a
+15 licensed physician trained in radiology interpretation, and using these results to
+16 determine if a referral to another health care provider is necessary or indicates
+17 the necessary treatment is within the physical therapist's scope of practice.
+18 b. Alleviating impairments, functional limitations in movement and mobility, and
+19 disabilities by designing, implementing and modifying therapeutic interventions
+20 that may include therapeutic exercise; neuromuscular education; functional
+21 training related to positioning, movement, and mobility in self-care and in-home,
+22 community, or work integration or reintegration; manual therapy; therapeutic
+23 massage; prescription, application and, as appropriate, fabrication of assistive,
+24 adaptive, orthotic, prosthetic, protective, and supportive devices and equipment
+Page No. 1 25.1302.01000
+
+Sixty-ninth
+Legislative Assembly
+1 related to positioning, movement, and mobility; airway clearance techniques;
+2 integumentary protection and repair techniques; debridement and wound care;
+3 physiotherapy; physical agents or modalities; mechanical and electrotherapeutic
+4 modalities; and patient-related instruction.
+5 c. Engaging as a physical therapist in reducing the risk of injury, impairment,
+6 functional limitation and disability, including the promotion and maintenance of
+7 fitness, health, and wellness in populations of all ages.
+8 d. Engaging as a physical therapist in administration, consultation, education, and
+9 research.
+10 SECTION 2. AMENDMENT. Section 43-26.1-11.1 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 43-26.1-11.1. Ordering imaging.
+13 1. A physical therapist may order musculoskeletaldiagnostic imaging consisting of plain
+14 film radiographs if the physical therapist holds:
+15 a. Holds a clinical doctorate degree in physical therapy; or has completed
+16 b. Completed a board-approved formal medical imaging training program.
+17 2. A physical therapist ordering diagnostic imaging shall report the results to the patient's
+18 designated primary care provider within seven days of receipt of the image to ensure
+19 coordination of care, unless:
+20 a. The patient does not have a primary care provider; or
+21 b. The primary care provider received the images from the health care professional
+22 who performed or interpreted the images.
+Page No. 2 25.1302.01000
+
+[DELETED: .".E.A12]
+[DELETED: .E.E.A.H.C.A.T.T22]

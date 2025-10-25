@@ -1,0 +1,562 @@
+Title: HOUSE BILL NO. 1149
+Official Title: HOUSE BILL NO. 1149
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25.0855.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative Klemin
+Senator Hogue
+1 A BILL for an Act to amend and reenact sections 47-30.2-04, 47-30.2-24, 47-30.2-32,
+2 47-30.2-39, 47-30.2-50, 47-30.2-52, 47-30.2-55, and 47-30.2-63 of the North Dakota Century
+3 Code, relating to the revised uniform unclaimed property act; and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 47-30.2-04 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 47-30.2-04. (201) When property presumed abandoned.
+8 Subject to section 47-30.2-12, the following property is presumed abandoned if it is
+9 unclaimed by the apparent owner during the period specified below:
+10 1. Except as provided in this section, checks held, issued, or owing in the ordinary
+11 course of the holder's business which remain uncashed by the owner two years after
+12 becoming payable;
+13 2. A traveler's check, fifteen years after issuance;
+14 3. A money order, seven years after issuance;
+15 4. A state or municipal bond, bearer bond, or original-issue-discount bond, three years
+16 after the earliest of the date:
+17 a. The bond matures;
+18 b. The bond is called; or
+19 c. The obligation to pay the principal of the bond arises;
+20 5. A debt of a business association, three years after the obligation to pay arises;
+21 6. A payroll card or a demand, savings, or time deposit, including a time deposit that is
+22 automatically renewable, five years after the date of maturity of the time deposit or the
+23 date of the last indication of interest in the property by the apparent owner, whichever
+24 is earlier, provided a time deposit that is automatically renewable is deemed matured
+Page No. 1 25.0855.01000
+Sixty-ninth
+Legislative Assembly
+1 on its initial date of maturity unless the apparent owner has consented in a record on
+2 file with the holder to renewal at or about the time of the renewal. If an apparent owner
+3 has another established account with the financial institution and has demonstrated
+4 interest in any account under section 47-30.2-12, then all accounts must be
+5 considered active;
+6 7. A cashier's check or certified check, two years after issuance;
+7 8. Money or a credit owed to a customer as a result of a retail business transaction, other
+8 than in-store credit for returned merchandise, three years after the obligation arose;
+9 9. An amount owed by an insurance company on a life or endowment insurance policy or
+10 an annuity contract that has matured or terminated, three years after the obligation to
+11 pay arose under the terms of the policy or contract or, if a policy or contract for which
+12 an amount is owed on proof of death has not matured by proof of the death of the
+13 insured or annuitant, as follows:
+14 a. With respect to an amount owed on a life or endowment insurance policy, three
+15 years after the earlier of the date:
+16 (1) The insurance company has knowledge of the death of the insured; or
+17 (2) The insured has attained, or would have attained if living, the limiting age
+18 under the mortality table on which the reserve for the policy is based; and
+19 b. With respect to an amount owed on an annuity contract, three years after the
+20 date the insurance company has knowledge of the death of the annuitant.
+21 10. Property distributable by a business association in the course of dissolution, one year
+22 after the property becomes distributable;
+23 11. Property held by a court, including property received as proceeds of a class action,
+24 three years after the property becomes distributable;
+25 12. Property held by a government or political subdivision, agency, or instrumentality,
+26 including municipal bond interest and unredeemed principal under the administration
+27 of a paying agent or indenture trustee, three years after the property becomes
+28 distributable;
+29 13. Wages, commissions, bonuses, or reimbursements to which an employee is entitled,
+30 or other compensation for personal services, one year after the amount becomes
+31 payable;
+Page No. 2 25.0855.01000
+Sixty-ninth
+Legislative Assembly
+1 14. A deposit or refund owed to a subscriber by a utility, one year after the deposit or
+2 refund becomes payable;
+3 15. A security deposit, including interest on the security deposit, made in advance by a
+4 person to secure an agreement for rights of services, less any lawsuit deductions,
+5 which remains unclaimed by the owner for more than one year after termination of the
+6 agreement for which the deposit or advance payment was made;
+7 16. A sum payable as mineral proceeds which has remained unclaimed by the owner for
+8 more than three years after it became payable or distributable and the owner's
+9 underlying right to receive those mineral proceeds are deemed abandoned. At the time
+10 an owner's underlying right to receive mineral proceeds is deemed abandoned, any
+11 mineral proceeds then owing to the owner and any proceeds accruing after that time
+12 are deemed abandoned; and
+13 17. Virtual currency, three years after the apparent owner's last indication of interest in the
+14 property;
+15 18. Excess proceeds from the sale of abandoned vehicles under chapter 23.1 - 15, the time
+16 prescribed by section 23.1 - 15 - 07 ;
+17 19. Excess proceeds from the sale of public or private property under chapter 57 - 28, the
+18 time prescribed by section 57 - 28 - 20; and
+19 20. Property not specified in this section or sections 47-30.2-05 through 47-30.2-10, the
+20 earlier of three years after the owner first has a right to demand the property or the
+21 obligation to pay or distribute the property arises.
+22 SECTION 2. AMENDMENT. Section 47-30.2-24 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 47-30.2-24. (404) Retention of records by holder.
+25 1. A holder required to file a report under section 47-30.2-21 shall retain records for ten
+26 years after the later of the date the report was filed or the last date a timely report was
+27 due to be filed, unless a shorter period is provided by rule of the commissioner.
+28 2. Upon receipt of a notice for an examination or notice of authorization to participate in
+29 the voluntary disclosure program under section 47-30.2-55, a holder shall retain, until
+30 the conclusion of the examination or any related appeal or litigation, or the conclusion
+31 of authorized voluntary disclosure in each instance, all relevant records dating back
+Page No. 3 25.0855.01000
+Sixty-ninth
+Legislative Assembly
+1 ten years from the commencement of the examination, plus the applicable dormancy
+2 period under section 47-30.2-04, before the date of the administrator's delivery of a
+3 notice of an examination to a holder under this chapter.
+4 3. The holder may satisfy the requirement to retain records under this section through an
+5 agent.
+6 4. The records must contain:
+7 a. The verifiable information required to be included in the report;
+8 b. The date, place, and nature of the circumstances that gave rise to the property
+9 right;
+10 c. The amount or value of the property;
+11 d. The last address of the apparent owner, if known to the holder;
+12 e. If the holder sells, issues, or provides to others for sale or issue in this state
+13 traveler's checks, money orders, or similar instruments, other than third-party
+14 bank checks, on which the holder is directly liable, a record of the instruments
+15 while they remain outstanding indicating the state and date of issue; and
+16 f. Records of items that were not reported as unclaimed sufficient to determine
+17 whether the holder has complied with this chapter.
+18 SECTION 3. AMENDMENT. Section 47-30.2-32 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 47-30.2-32. (603) Payment or delivery of property to administrator.
+21 1. Except as otherwise provided in this section, on filing a report under section
+22 47-30.2-21, the holder shall pay or deliver to the administrator the property described
+23 in the report.
+24 2. If property in a report under section 47-30.2-21 is an automatically renewable deposit
+25 and a penalty or forfeiture in the payment of interest would result from paying the
+26 deposit to the administrator at the time of the report, the date for payment of the
+27 property to the administrator is extended until a penalty or forfeiture no longer would
+28 result from payment, if the holder informs the administrator of the extended date.
+29 3. If property reported to the administrator under section 47-30.2-21 is a security, the
+30 administrator may:
+Page No. 4 25.0855.01000
+Sixty-ninth
+Legislative Assembly
+1 a. Make an endorsement, instruction, or entitlement order on behalf of the apparent
+2 owner to invoke the duty of the issuer, the transfer agent of the issuer, or the
+3 securities intermediary to transfer the security; or
+4 b. Dispose of the security under section 47-30.2-41.
+5 4. If the holder of property reported to the administrator under section 47-30.2-21 is the
+6 issuer of a certificated security, the administrator may obtain a replacement certificate
+7 in physical or book-entry form under section 41-08-38. An indemnity bond is not
+8 required.
+9 5. The administrator shall establish procedures for the registration, issuance, method of
+10 delivery, transfer, and maintenance of securities delivered to the administrator by a
+11 holder.
+12 6. An issuer, holder, or transfer agent acting under this section under instructions of and
+13 on behalf of the issuer or holder is not liable to the apparent owner for, and shall be
+14 indemnified by the state against, a claim arising with respect to property after the
+15 property has been delivered in good faith to the administrator.
+16 7. A holder is not required to deliver to the administrator a security identified by the
+17 holder as a non-freely transferable security. If the administrator or holder determines
+18 that a security is no longer a non-freely transferable security, the holder shall deliver
+19 the security on the next regular date prescribed for delivery of securities under this
+20 chapter. The holder shall make a determination annually whether a security identified
+21 in a report filed under section 47-30.2-21 as a non-freely transferable security is no
+22 longer a non-freely transferable security.
+23 8. If property reported to the administrator is virtual currency, the holder shall liquidate
+24 the virtual currency and remit the proceeds to the administrator. The liquidation must
+25 occur anytime within thirty days before the filing of the report under section
+26 47 - 30.2 - 21. The owner may not have recourse against the holder or the administrator
+27 to recover any gain in value occurring after the liquidation of the virtual currency under
+28 this subsection.
+29 SECTION 4. AMENDMENT. Section 47-30.2-39 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 5 25.0855.01000
+Sixty-ninth
+Legislative Assembly
+1 47-30.2-39. (610) Periods of limitation and repose.
+2 1. Expiration before, on, or after July 1, 2021, of a period of limitation on an owner's right
+3 to receive or recover property, whether specified by contract, statute, or court order,
+4 does not prevent the property from being presumed abandoned or affect the duty of a
+5 holder under this chapter to file a report or pay or deliver property to the administrator.
+6 2. The administrator may not commence an action or proceeding to enforce this chapter
+7 with respect to the reporting, payment, or delivery of property more than seven years
+8 after the holder filed a nonfraudulent report under section 47-30.2-21 with the
+9 administrator. The parties may agree in a record to extend the limitation in this
+10 subsection.
+11 3. The administrator may not commence an action, proceeding, or examination with
+12 respect to a duty of a holder under this chapter more than ten years after the duty
+13 arose.
+14 4. The periods of limitation established by this section are tolled by the earlier of the
+15 administrator's delivery of a notice that a holder is subject to an examination or the
+16 delivery of notice of authorization to voluntarily disclose property subject to this
+17 chapter under section 47-30.2-55.
+18 SECTION 5. AMENDMENT. Section 47-30.2-50 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 47-30.2-50. (903) Claim for property by person claiming to be owner.
+21 1. A person claiming to be the owner of property held under this chapter by the
+22 administrator may file a claim for the property and the claim must be on a form
+23 prescribed by the administrator. The claimant shall verify the claim as to the claim's
+24 completeness and accuracy.
+25 2. The administrator may waive the requirement in subsection 1 and may pay or deliver
+26 property directly to a person if:
+27 a. The person receiving the property or payment is shown to be the apparent owner
+28 included on a report filed under section 47-30.2-21; and
+29 b. The administrator reasonably believes the person is entitled to receive the
+30 property or payment; and
+31 c. The property has a value as provided by rules adopted by the commissioner.
+Page No. 6 25.0855.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 6. AMENDMENT. Section 47-30.2-52 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 47-30.2-52. (905) Allowance of claim for property.
+4 1. Not later than sixty days after a claim is allowed under subsection 2 of section
+5 47-30.2-51, the administrator shall pay or deliver to the owner the property or pay to
+6 the owner the net proceeds of a sale of the property, together with income or gain to
+7 which the owner is entitled under section 47-30.2-36. On request of the owner, the
+8 administrator may sell or liquidate a security and pay the net proceeds to the owner,
+9 even if the security had been held by the administrator for fewer than three years or
+10 the administrator has not complied with the notice requirements under section
+11 47-30.2-41.
+12 2. Property held under this chapter by the administrator is subject to a claim for the
+13 payment of an enforceable debt the owner owes in this state for:
+14 a. Child support arrearages, including child support collection costs and child
+15 support arrearages that are combined with maintenance;
+16 b. A civil or criminal fine or penalty, court costs, a surcharge, or restitution imposed
+17 by a final order of an administrative agency or a final court judgment; or
+18 c. State or local taxes, penalties, and interest that have been determined to be
+19 delinquent or as to which notice has been recorded with the state or local taxing
+20 authority; or
+21 d. A civil monetary judgment for which an execution order has been issued by a
+22 state court of competent jurisdiction.
+23 3. The state and local agencies may make periodic inquiries to the administrator to
+24 determine whether an apparent owner included in the unclaimed property records of
+25 this state has enforceable debts described in subsection 2. The administrator first shall
+26 apply the property or net proceeds of a sale of property held by the administrator to a
+27 debt under subsection 2 of an apparent owner which appears in the records of the
+28 administrator and deliver the amount to the appropriate state or local agency.
+29 SECTION 7. AMENDMENT. Section 47-30.2-55 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 7 25.0855.01000
+Sixty-ninth
+Legislative Assembly
+1 47-30.2-55. (1002) Examination of records to determine compliance.
+2 The administrator, at reasonable times and on reasonable notice, may:
+3 1. Examine the records of a person, including examination of appropriate records in the
+4 possession of an agent of the person under examination, if the records are reasonably
+5 necessary to determine whether the person has complied with this chapter;
+6 2. Issue an administrative subpoena requiring the person or agent of the person to make
+7 records available for examination; and
+8 3. Bring an action seeking judicial enforcement of the subpoena; and
+9 4. Authorize a holder to voluntarily disclose property subject to this chapter.
+10 SECTION 8. AMENDMENT. Section 47-30.2-63 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 47-30.2-63. (1202) Interstate and international agreement - Cooperation.
+13 1. Subject to subsection 2, theThe administrator may:
+14 a.1. Exchange information with another state or foreign country relating to property
+15 presumed abandoned or relating to the possible existence of property presumed
+16 abandoned; and
+17 b.2. Authorize in a record another state or foreign country or a person acting on
+18 behalf of the other state or country to examine its records of a putative holder as
+19 provided in sections 47-30.2-54, 47-30.2-55, 47-30.2-56, 47-30.2-57, 47-30.2-58,
+20 47-30.2-59, 47-30.2-60, 47-30.2-61, and 47-30.2-62.
+21 2. An exchange or examination under subsection 1 may be done only if the state or
+22 foreign country has confidentiality and security requirements substantially equivalent
+23 to those in sections 47-30.2-71, 47-30.2-72, and 47-30.2-73 or agrees in a record to
+24 be bound by this state's confidentiality and security requirements.
+25 SECTION 9. EMERGENCY. This Act is declared to be an emergency measure.
+Page No. 8 25.0855.01000
+[DELETED: .E.A.A.A.T.T.T.A.A12]
+[DELETED: .A.M.A.W)T)T.W.P.P.P.W22]
+[DELETED: .A.A.A.V. . .P.A.U32]
+[DELETED: .T.T.T.T.T.T.I.R.E.I.I42]
+[DELETED: .M.D.I.T.A.A.I52]
+[DELETED: .E.T.T.T.A.T.T.T.T62]
+[DELETED: .N.P.C.A.S.A.T72]
+[DELETED: .E.I.B.A.S.E.A.A82]
+
+
+================================================================================
+
+Raw Text:
+25.0855.01000
+Sixty-ninth
+HOUSE BILL NO. 1149
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative Klemin
+Senator Hogue
+1 A BILL for an Act to amend and reenact sections 47-30.2-04, 47-30.2-24, 47-30.2-32,
+2 47-30.2-39, 47-30.2-50, 47-30.2-52, 47-30.2-55, and 47-30.2-63 of the North Dakota Century
+3 Code, relating to the revised uniform unclaimed property act; and to declare an emergency.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 47-30.2-04 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 47-30.2-04. (201) When property presumed abandoned.
+8 Subject to section 47-30.2-12, the following property is presumed abandoned if it is
+9 unclaimed by the apparent owner during the period specified below:
+10 1. Except as provided in this section, checks held, issued, or owing in the ordinary
+11 course of the holder's business which remain uncashed by the owner two years after
+12 becoming payable;
+13 2. A traveler's check, fifteen years after issuance;
+14 3. A money order, seven years after issuance;
+15 4. A state or municipal bond, bearer bond, or original-issue-discount bond, three years
+16 after the earliest of the date:
+17 a. The bond matures;
+18 b. The bond is called; or
+19 c. The obligation to pay the principal of the bond arises;
+20 5. A debt of a business association, three years after the obligation to pay arises;
+21 6. A payroll card or a demand, savings, or time deposit, including a time deposit that is
+22 automatically renewable, five years after the date of maturity of the time deposit or the
+23 date of the last indication of interest in the property by the apparent owner, whichever
+24 is earlier, provided a time deposit that is automatically renewable is deemed matured
+Page No. 1 25.0855.01000
+
+Sixty-ninth
+Legislative Assembly
+1 on its initial date of maturity unless the apparent owner has consented in a record on
+2 file with the holder to renewal at or about the time of the renewal. If an apparent owner
+3 has another established account with the financial institution and has demonstrated
+4 interest in any account under section 47-30.2-12, then all accounts must be
+5 considered active;
+6 7. A cashier's check or certified check, two years after issuance;
+7 8. Money or a credit owed to a customer as a result of a retail business transaction, other
+8 than in-store credit for returned merchandise, three years after the obligation arose;
+9 9. An amount owed by an insurance company on a life or endowment insurance policy or
+10 an annuity contract that has matured or terminated, three years after the obligation to
+11 pay arose under the terms of the policy or contract or, if a policy or contract for which
+12 an amount is owed on proof of death has not matured by proof of the death of the
+13 insured or annuitant, as follows:
+14 a. With respect to an amount owed on a life or endowment insurance policy, three
+15 years after the earlier of the date:
+16 (1) The insurance company has knowledge of the death of the insured; or
+17 (2) The insured has attained, or would have attained if living, the limiting age
+18 under the mortality table on which the reserve for the policy is based; and
+19 b. With respect to an amount owed on an annuity contract, three years after the
+20 date the insurance company has knowledge of the death of the annuitant.
+21 10. Property distributable by a business association in the course of dissolution, one year
+22 after the property becomes distributable;
+23 11. Property held by a court, including property received as proceeds of a class action,
+24 three years after the property becomes distributable;
+25 12. Property held by a government or political subdivision, agency, or instrumentality,
+26 including municipal bond interest and unredeemed principal under the administration
+27 of a paying agent or indenture trustee, three years after the property becomes
+28 distributable;
+29 13. Wages, commissions, bonuses, or reimbursements to which an employee is entitled,
+30 or other compensation for personal services, one year after the amount becomes
+31 payable;
+Page No. 2 25.0855.01000
+
+Sixty-ninth
+Legislative Assembly
+1 14. A deposit or refund owed to a subscriber by a utility, one year after the deposit or
+2 refund becomes payable;
+3 15. A security deposit, including interest on the security deposit, made in advance by a
+4 person to secure an agreement for rights of services, less any lawsuit deductions,
+5 which remains unclaimed by the owner for more than one year after termination of the
+6 agreement for which the deposit or advance payment was made;
+7 16. A sum payable as mineral proceeds which has remained unclaimed by the owner for
+8 more than three years after it became payable or distributable and the owner's
+9 underlying right to receive those mineral proceeds are deemed abandoned. At the time
+10 an owner's underlying right to receive mineral proceeds is deemed abandoned, any
+11 mineral proceeds then owing to the owner and any proceeds accruing after that time
+12 are deemed abandoned; and
+13 17. Virtual currency, three years after the apparent owner's last indication of interest in the
+14 property;
+15 18. Excess proceeds from the sale of abandoned vehicles under chapter 23.1 - 15, the time
+16 prescribed by section 23.1 - 15 - 07 ;
+17 19. Excess proceeds from the sale of public or private property under chapter 57 - 28, the
+18 time prescribed by section 57 - 28 - 20; and
+19 20. Property not specified in this section or sections 47-30.2-05 through 47-30.2-10, the
+20 earlier of three years after the owner first has a right to demand the property or the
+21 obligation to pay or distribute the property arises.
+22 SECTION 2. AMENDMENT. Section 47-30.2-24 of the North Dakota Century Code is
+23 amended and reenacted as follows:
+24 47-30.2-24. (404) Retention of records by holder.
+25 1. A holder required to file a report under section 47-30.2-21 shall retain records for ten
+26 years after the later of the date the report was filed or the last date a timely report was
+27 due to be filed, unless a shorter period is provided by rule of the commissioner.
+28 2. Upon receipt of a notice for an examination or notice of authorization to participate in
+29 the voluntary disclosure program under section 47-30.2-55, a holder shall retain, until
+30 the conclusion of the examination or any related appeal or litigation, or the conclusion
+31 of authorized voluntary disclosure in each instance, all relevant records dating back
+Page No. 3 25.0855.01000
+
+Sixty-ninth
+Legislative Assembly
+1 ten years from the commencement of the examination, plus the applicable dormancy
+2 period under section 47-30.2-04, before the date of the administrator's delivery of a
+3 notice of an examination to a holder under this chapter.
+4 3. The holder may satisfy the requirement to retain records under this section through an
+5 agent.
+6 4. The records must contain:
+7 a. The verifiable information required to be included in the report;
+8 b. The date, place, and nature of the circumstances that gave rise to the property
+9 right;
+10 c. The amount or value of the property;
+11 d. The last address of the apparent owner, if known to the holder;
+12 e. If the holder sells, issues, or provides to others for sale or issue in this state
+13 traveler's checks, money orders, or similar instruments, other than third-party
+14 bank checks, on which the holder is directly liable, a record of the instruments
+15 while they remain outstanding indicating the state and date of issue; and
+16 f. Records of items that were not reported as unclaimed sufficient to determine
+17 whether the holder has complied with this chapter.
+18 SECTION 3. AMENDMENT. Section 47-30.2-32 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 47-30.2-32. (603) Payment or delivery of property to administrator.
+21 1. Except as otherwise provided in this section, on filing a report under section
+22 47-30.2-21, the holder shall pay or deliver to the administrator the property described
+23 in the report.
+24 2. If property in a report under section 47-30.2-21 is an automatically renewable deposit
+25 and a penalty or forfeiture in the payment of interest would result from paying the
+26 deposit to the administrator at the time of the report, the date for payment of the
+27 property to the administrator is extended until a penalty or forfeiture no longer would
+28 result from payment, if the holder informs the administrator of the extended date.
+29 3. If property reported to the administrator under section 47-30.2-21 is a security, the
+30 administrator may:
+Page No. 4 25.0855.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Make an endorsement, instruction, or entitlement order on behalf of the apparent
+2 owner to invoke the duty of the issuer, the transfer agent of the issuer, or the
+3 securities intermediary to transfer the security; or
+4 b. Dispose of the security under section 47-30.2-41.
+5 4. If the holder of property reported to the administrator under section 47-30.2-21 is the
+6 issuer of a certificated security, the administrator may obtain a replacement certificate
+7 in physical or book-entry form under section 41-08-38. An indemnity bond is not
+8 required.
+9 5. The administrator shall establish procedures for the registration, issuance, method of
+10 delivery, transfer, and maintenance of securities delivered to the administrator by a
+11 holder.
+12 6. An issuer, holder, or transfer agent acting under this section under instructions of and
+13 on behalf of the issuer or holder is not liable to the apparent owner for, and shall be
+14 indemnified by the state against, a claim arising with respect to property after the
+15 property has been delivered in good faith to the administrator.
+16 7. A holder is not required to deliver to the administrator a security identified by the
+17 holder as a non-freely transferable security. If the administrator or holder determines
+18 that a security is no longer a non-freely transferable security, the holder shall deliver
+19 the security on the next regular date prescribed for delivery of securities under this
+20 chapter. The holder shall make a determination annually whether a security identified
+21 in a report filed under section 47-30.2-21 as a non-freely transferable security is no
+22 longer a non-freely transferable security.
+23 8. If property reported to the administrator is virtual currency, the holder shall liquidate
+24 the virtual currency and remit the proceeds to the administrator. The liquidation must
+25 occur anytime within thirty days before the filing of the report under section
+26 47 - 30.2 - 21. The owner may not have recourse against the holder or the administrator
+27 to recover any gain in value occurring after the liquidation of the virtual currency under
+28 this subsection.
+29 SECTION 4. AMENDMENT. Section 47-30.2-39 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 5 25.0855.01000
+
+Sixty-ninth
+Legislative Assembly
+1 47-30.2-39. (610) Periods of limitation and repose.
+2 1. Expiration before, on, or after July 1, 2021, of a period of limitation on an owner's right
+3 to receive or recover property, whether specified by contract, statute, or court order,
+4 does not prevent the property from being presumed abandoned or affect the duty of a
+5 holder under this chapter to file a report or pay or deliver property to the administrator.
+6 2. The administrator may not commence an action or proceeding to enforce this chapter
+7 with respect to the reporting, payment, or delivery of property more than seven years
+8 after the holder filed a nonfraudulent report under section 47-30.2-21 with the
+9 administrator. The parties may agree in a record to extend the limitation in this
+10 subsection.
+11 3. The administrator may not commence an action, proceeding, or examination with
+12 respect to a duty of a holder under this chapter more than ten years after the duty
+13 arose.
+14 4. The periods of limitation established by this section are tolled by the earlier of the
+15 administrator's delivery of a notice that a holder is subject to an examination or the
+16 delivery of notice of authorization to voluntarily disclose property subject to this
+17 chapter under section 47-30.2-55.
+18 SECTION 5. AMENDMENT. Section 47-30.2-50 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 47-30.2-50. (903) Claim for property by person claiming to be owner.
+21 1. A person claiming to be the owner of property held under this chapter by the
+22 administrator may file a claim for the property and the claim must be on a form
+23 prescribed by the administrator. The claimant shall verify the claim as to the claim's
+24 completeness and accuracy.
+25 2. The administrator may waive the requirement in subsection 1 and may pay or deliver
+26 property directly to a person if:
+27 a. The person receiving the property or payment is shown to be the apparent owner
+28 included on a report filed under section 47-30.2-21; and
+29 b. The administrator reasonably believes the person is entitled to receive the
+30 property or payment; and
+31 c. The property has a value as provided by rules adopted by the commissioner.
+Page No. 6 25.0855.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 6. AMENDMENT. Section 47-30.2-52 of the North Dakota Century Code is
+2 amended and reenacted as follows:
+3 47-30.2-52. (905) Allowance of claim for property.
+4 1. Not later than sixty days after a claim is allowed under subsection 2 of section
+5 47-30.2-51, the administrator shall pay or deliver to the owner the property or pay to
+6 the owner the net proceeds of a sale of the property, together with income or gain to
+7 which the owner is entitled under section 47-30.2-36. On request of the owner, the
+8 administrator may sell or liquidate a security and pay the net proceeds to the owner,
+9 even if the security had been held by the administrator for fewer than three years or
+10 the administrator has not complied with the notice requirements under section
+11 47-30.2-41.
+12 2. Property held under this chapter by the administrator is subject to a claim for the
+13 payment of an enforceable debt the owner owes in this state for:
+14 a. Child support arrearages, including child support collection costs and child
+15 support arrearages that are combined with maintenance;
+16 b. A civil or criminal fine or penalty, court costs, a surcharge, or restitution imposed
+17 by a final order of an administrative agency or a final court judgment; or
+18 c. State or local taxes, penalties, and interest that have been determined to be
+19 delinquent or as to which notice has been recorded with the state or local taxing
+20 authority; or
+21 d. A civil monetary judgment for which an execution order has been issued by a
+22 state court of competent jurisdiction.
+23 3. The state and local agencies may make periodic inquiries to the administrator to
+24 determine whether an apparent owner included in the unclaimed property records of
+25 this state has enforceable debts described in subsection 2. The administrator first shall
+26 apply the property or net proceeds of a sale of property held by the administrator to a
+27 debt under subsection 2 of an apparent owner which appears in the records of the
+28 administrator and deliver the amount to the appropriate state or local agency.
+29 SECTION 7. AMENDMENT. Section 47-30.2-55 of the North Dakota Century Code is
+30 amended and reenacted as follows:
+Page No. 7 25.0855.01000
+
+Sixty-ninth
+Legislative Assembly
+1 47-30.2-55. (1002) Examination of records to determine compliance.
+2 The administrator, at reasonable times and on reasonable notice, may:
+3 1. Examine the records of a person, including examination of appropriate records in the
+4 possession of an agent of the person under examination, if the records are reasonably
+5 necessary to determine whether the person has complied with this chapter;
+6 2. Issue an administrative subpoena requiring the person or agent of the person to make
+7 records available for examination; and
+8 3. Bring an action seeking judicial enforcement of the subpoena; and
+9 4. Authorize a holder to voluntarily disclose property subject to this chapter.
+10 SECTION 8. AMENDMENT. Section 47-30.2-63 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 47-30.2-63. (1202) Interstate and international agreement - Cooperation.
+13 1. Subject to subsection 2, theThe administrator may:
+14 a.1. Exchange information with another state or foreign country relating to property
+15 presumed abandoned or relating to the possible existence of property presumed
+16 abandoned; and
+17 b.2. Authorize in a record another state or foreign country or a person acting on
+18 behalf of the other state or country to examine its records of a putative holder as
+19 provided in sections 47-30.2-54, 47-30.2-55, 47-30.2-56, 47-30.2-57, 47-30.2-58,
+20 47-30.2-59, 47-30.2-60, 47-30.2-61, and 47-30.2-62.
+21 2. An exchange or examination under subsection 1 may be done only if the state or
+22 foreign country has confidentiality and security requirements substantially equivalent
+23 to those in sections 47-30.2-71, 47-30.2-72, and 47-30.2-73 or agrees in a record to
+24 be bound by this state's confidentiality and security requirements.
+25 SECTION 9. EMERGENCY. This Act is declared to be an emergency measure.
+Page No. 8 25.0855.01000
+
+[DELETED: .E.A.A.A.T.T.T.A.A12]
+[DELETED: .A.M.A.W)T)T.W.P.P.P.W22]
+[DELETED: .A.A.A.V. . .P.A.U32]
+[DELETED: .T.T.T.T.T.T.I.R.E.I.I42]
+[DELETED: .M.D.I.T.A.A.I52]
+[DELETED: .E.T.T.T.A.T.T.T.T62]
+[DELETED: .N.P.C.A.S.A.T72]
+[DELETED: .E.I.B.A.S.E.A.A82]

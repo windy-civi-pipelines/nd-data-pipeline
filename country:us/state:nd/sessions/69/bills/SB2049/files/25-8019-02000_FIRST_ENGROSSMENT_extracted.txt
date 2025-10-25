@@ -1,0 +1,339 @@
+Title: ENGROSSED SENATE BILL NO. 2049
+Official Title: ENGROSSED SENATE BILL NO. 2049
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25.8019.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+State and Local Government Committee
+(At the request of the Information Technology Department)
+1 A BILL for an Act to amend and reenact sections 54-35-15.2, 54-59-01, subsection 8 of section
+2 54-59-05, and section 54-59-32 of the North Dakota Century Code, relating to executive
+3 steering committees of major information technology projects.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 54-35-15.2 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 54-35-15.2. Information technology committee - Powers and duties.
+8 The information technology committee has continuing existence and may meet and conduct
+9 its business during the legislative session and in the interim between sessions. The committee
+10 shall:
+11 1. Meet at least once each calendar quarter.
+12 2. Receive a report from the chief information officer of the state at each meeting.
+13 3. Review the business plan of the information technology department.
+14 4. Review macro-level issues relating to information technology.
+15 5. Review the activities of the information technology department.
+16 6. Review statewide information technology standards.
+17 7. Review the statewide information technology plan.
+18 8. Review information technology efficiency and security.
+19 9. Review established or proposed information technology programs and information
+20 technology acquisition by the executive and judicial branches.
+21 10. Except as provided in subsection 11, receive and review information, including a
+22 project startup report summarizing the project description, project objectives, business
+Page No. 1 25.8019.02000
+Sixty-ninth
+Legislative Assembly
+1 need or problem, cost-benefit analysis, and project risks and a project closeout report
+2 summarizing the project objectives achieved, project budget and schedule variances,
+3 and lessons learned, from the information technology department and the affected
+4 agency regarding any major information technology project of an executive branch
+5 agency. For the purposes of this subsection, a major project is aan information
+6 technology project with a total cost of five hundred thousand dollarsthat meets one or
+7 more of the following criteria, as determined by the chief information officer:
+8 a. An estimated total cost, as defined by the information technology department, of
+9 five million dollars or more;
+10 b. Requires one year or longer to reach operational status; or
+11 c. Requires oversight due to its potential benefits, risks, public impact, visibility, or
+12 another significant reason.
+13 11. a. Receive and review information, including a project startup report summarizing
+14 the project description, project objectives, business need or problem, cost-benefit
+15 analysis, and project risks and a project closeout report summarizing the project
+16 objectives achieved, project budget and schedule variances, and lessons
+17 learned, from the state board of higher education regarding any major project of
+18 the state board of higher education or any institution under the control of the state
+19 board of higher education if the project:
+20 (1) Significantly impacts the statewide wide area network, including the campus
+21 access routers;
+22 (2) Impacts the statewide library system; or
+23 (3) Is an administrative project. An administrative project is a project that
+24 directly collects, aggregates, modifies, stores, or reports institutional
+25 student, financial, or human resources records or data and is provided
+26 primarily for administrative purposes.
+27 b. For the purposes of this subsection, a major project is a project with a total cost
+28 of five hundred thousand dollars or more.
+29 12. Receive and review information from the information technology department and the
+30 affected agency regarding any information technology project of an executive branch
+31 agency with a total cost of between one hundred thousand and five hundred
+Page No. 2 25.8019.02000
+Sixty-ninth
+Legislative Assembly
+1 thousandmillion dollars as determined necessary by the information technology
+2 department.
+3 13. Receive a report from the chief information officer before October first of each
+4 even-numbered year regarding proposed major information technology projects and
+5 other information technology issues for the next biennium.
+6 14. Receive and review information, including a project startup report summarizing the
+7 project description, project objectives, business need or problem, cost-benefit
+8 analysis, and project risks and a project closeout report summarizing the project
+9 objectives achieved, project budget and schedule variances, and lessons learned,
+10 from the affected legislative or judicial branch agency regarding any information
+11 technology project of the legislative or judicial branch with a total cost of five hundred
+12 thousandmillion dollars or more.
+13 15. Receive information from the state board of higher education regarding higher
+14 education information technology planning, services, and major projects.
+15 SECTION 2. AMENDMENT. Section 54-59-01 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 54-59-01. Definitions.
+18 As used in this chapter:
+19 1. "Agency" or "entity" does not include any agricultural commodity promotion group or
+20 any occupational or professional board.
+21 2. "Cybersecurity" means processes or capabilities, wherein, systems, communications,
+22 and information are protected and defended against damage, unauthorized use or
+23 modification, and exploitation.
+24 3. "Cybersecurity strategy" means a vision, plan of action, or guiding principles. Unless
+25 otherwise defined in this chapter, the term does not mean an associated operational
+26 plan.
+27 4. "Department" means the information technology department.
+28 5. "Information technology" means the use of hardware, software, services, and
+29 supporting infrastructure to manage and deliver information using voice, data, and
+30 video.
+Page No. 3 25.8019.02000
+Sixty-ninth
+Legislative Assembly
+1 6. "Major information technology project" means a project that meets one or more of the
+2 following criteria, as determined by the chief information officer:
+3 a. An estimated total cost, as defined by the department, of five million dollars or
+4 more;
+5 b. Requires one year or longer to reach operational status; or
+6 c. Requires oversight due to its potential benefits, risks, public impact, visibility, or
+7 other significant reason.
+8 7. "Network services" means the equipment, software, and services necessary to
+9 transmit voice, data, or video.
+10 SECTION 3. AMENDMENT. Subsection 8 of section 54-59-05 of the North Dakota Century
+11 Code is amended and reenacted as follows:
+12 8. May request and review information regarding any information technology project of
+13 an executive branch agency with a total cost of between one hundred thousand and
+14 five hundred thousandmillion dollars as determined necessary by the department. The
+15 department shall present the information to the information technology committee on
+16 request of the committee.
+17 SECTION 4. AMENDMENT. Section 54-59-32 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 54-59-32. Major information technology projects - Appointment of executive steering
+20 committeesOversight.
+21 1. An executive branch state agency, excluding institutions under the control of the state
+22 board of higher education, proposing to conduct a major information technology
+23 project as described in subsection 10 of section 54-35-15.2, the department, and the
+24 office of management and budget, in consultation with the attorney general, shall
+25 collaborate on the procurement, contract negotiation, and contract administration of
+26 the project. The agency, the department, and the office of management and budget, in
+27 consultation with the attorney general, shall approve the solicitation, contract, or
+28 agreement, and any amendments relating to the project before submission to the
+29 executive steeringoversight committee as provided in subsection 3.
+Page No. 4 25.8019.02000
+Sixty-ninth
+Legislative Assembly
+1 2. The procurement officer and primary project manager for a major information
+2 technology project must meet the qualifications established by the department and the
+3 office of management and budget.
+4 3. An executive steeringoversight committee must be appointed to oversee eacha major
+5 information technology project. The agency project sponsorchief information officer
+6 shall serve asappoint a chairman of the committee. The executive steeringoversight
+7 committee must consist ofmay include the director of the office of management and
+8 budget or a designee of the director, the chief information officer or a designee of the
+9 officer, the head of the agency contracting for the project or a designee, the project
+10 sponsor, and a large project oversight analyst designated by the chief information
+11 officer. The executive steeringoversight committee shall monitor the overall status of
+12 the project and reviewmake recommendations to the head of the agency contracting
+13 for the project or a designee, and the project sponsor, regarding project decisions,
+14 including negotiation and execution of contracts, approval of project budgets,
+15 implementation of project schedules, assessment of project quality, and consideration
+16 of scope changes. Any project decision declared by a member of the committee to be
+17 a major project decision requires at least four affirmative votes.
+18 4. An agreement or contract, including an amendment, revision, or scope change, for a
+19 major information technology project may not be entered unless signed by the head of
+20 the contracting agency or a designee and the chief information officer or a designee of
+21 the officer.
+Page No. 5 25.8019.02000
+[DELETED: .M.R.R.R.R.R.R.R.R.E12]
+[DELETED: .A.R.R.a.R)S)I)I.F.R22]
+[DELETED: .R.R.R."."."."."32]
+[DELETED: .".A.R.R.".M.A42]
+[DELETED: .T.A.A52]
+
+
+================================================================================
+
+Raw Text:
+25.8019.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2049
+Introduced by
+State and Local Government Committee
+(At the request of the Information Technology Department)
+1 A BILL for an Act to amend and reenact sections 54-35-15.2, 54-59-01, subsection 8 of section
+2 54-59-05, and section 54-59-32 of the North Dakota Century Code, relating to executive
+3 steering committees of major information technology projects.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 54-35-15.2 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 54-35-15.2. Information technology committee - Powers and duties.
+8 The information technology committee has continuing existence and may meet and conduct
+9 its business during the legislative session and in the interim between sessions. The committee
+10 shall:
+11 1. Meet at least once each calendar quarter.
+12 2. Receive a report from the chief information officer of the state at each meeting.
+13 3. Review the business plan of the information technology department.
+14 4. Review macro-level issues relating to information technology.
+15 5. Review the activities of the information technology department.
+16 6. Review statewide information technology standards.
+17 7. Review the statewide information technology plan.
+18 8. Review information technology efficiency and security.
+19 9. Review established or proposed information technology programs and information
+20 technology acquisition by the executive and judicial branches.
+21 10. Except as provided in subsection 11, receive and review information, including a
+22 project startup report summarizing the project description, project objectives, business
+Page No. 1 25.8019.02000
+
+Sixty-ninth
+Legislative Assembly
+1 need or problem, cost-benefit analysis, and project risks and a project closeout report
+2 summarizing the project objectives achieved, project budget and schedule variances,
+3 and lessons learned, from the information technology department and the affected
+4 agency regarding any major information technology project of an executive branch
+5 agency. For the purposes of this subsection, a major project is aan information
+6 technology project with a total cost of five hundred thousand dollarsthat meets one or
+7 more of the following criteria, as determined by the chief information officer:
+8 a. An estimated total cost, as defined by the information technology department, of
+9 five million dollars or more;
+10 b. Requires one year or longer to reach operational status; or
+11 c. Requires oversight due to its potential benefits, risks, public impact, visibility, or
+12 another significant reason.
+13 11. a. Receive and review information, including a project startup report summarizing
+14 the project description, project objectives, business need or problem, cost-benefit
+15 analysis, and project risks and a project closeout report summarizing the project
+16 objectives achieved, project budget and schedule variances, and lessons
+17 learned, from the state board of higher education regarding any major project of
+18 the state board of higher education or any institution under the control of the state
+19 board of higher education if the project:
+20 (1) Significantly impacts the statewide wide area network, including the campus
+21 access routers;
+22 (2) Impacts the statewide library system; or
+23 (3) Is an administrative project. An administrative project is a project that
+24 directly collects, aggregates, modifies, stores, or reports institutional
+25 student, financial, or human resources records or data and is provided
+26 primarily for administrative purposes.
+27 b. For the purposes of this subsection, a major project is a project with a total cost
+28 of five hundred thousand dollars or more.
+29 12. Receive and review information from the information technology department and the
+30 affected agency regarding any information technology project of an executive branch
+31 agency with a total cost of between one hundred thousand and five hundred
+Page No. 2 25.8019.02000
+
+Sixty-ninth
+Legislative Assembly
+1 thousandmillion dollars as determined necessary by the information technology
+2 department.
+3 13. Receive a report from the chief information officer before October first of each
+4 even-numbered year regarding proposed major information technology projects and
+5 other information technology issues for the next biennium.
+6 14. Receive and review information, including a project startup report summarizing the
+7 project description, project objectives, business need or problem, cost-benefit
+8 analysis, and project risks and a project closeout report summarizing the project
+9 objectives achieved, project budget and schedule variances, and lessons learned,
+10 from the affected legislative or judicial branch agency regarding any information
+11 technology project of the legislative or judicial branch with a total cost of five hundred
+12 thousandmillion dollars or more.
+13 15. Receive information from the state board of higher education regarding higher
+14 education information technology planning, services, and major projects.
+15 SECTION 2. AMENDMENT. Section 54-59-01 of the North Dakota Century Code is
+16 amended and reenacted as follows:
+17 54-59-01. Definitions.
+18 As used in this chapter:
+19 1. "Agency" or "entity" does not include any agricultural commodity promotion group or
+20 any occupational or professional board.
+21 2. "Cybersecurity" means processes or capabilities, wherein, systems, communications,
+22 and information are protected and defended against damage, unauthorized use or
+23 modification, and exploitation.
+24 3. "Cybersecurity strategy" means a vision, plan of action, or guiding principles. Unless
+25 otherwise defined in this chapter, the term does not mean an associated operational
+26 plan.
+27 4. "Department" means the information technology department.
+28 5. "Information technology" means the use of hardware, software, services, and
+29 supporting infrastructure to manage and deliver information using voice, data, and
+30 video.
+Page No. 3 25.8019.02000
+
+Sixty-ninth
+Legislative Assembly
+1 6. "Major information technology project" means a project that meets one or more of the
+2 following criteria, as determined by the chief information officer:
+3 a. An estimated total cost, as defined by the department, of five million dollars or
+4 more;
+5 b. Requires one year or longer to reach operational status; or
+6 c. Requires oversight due to its potential benefits, risks, public impact, visibility, or
+7 other significant reason.
+8 7. "Network services" means the equipment, software, and services necessary to
+9 transmit voice, data, or video.
+10 SECTION 3. AMENDMENT. Subsection 8 of section 54-59-05 of the North Dakota Century
+11 Code is amended and reenacted as follows:
+12 8. May request and review information regarding any information technology project of
+13 an executive branch agency with a total cost of between one hundred thousand and
+14 five hundred thousandmillion dollars as determined necessary by the department. The
+15 department shall present the information to the information technology committee on
+16 request of the committee.
+17 SECTION 4. AMENDMENT. Section 54-59-32 of the North Dakota Century Code is
+18 amended and reenacted as follows:
+19 54-59-32. Major information technology projects - Appointment of executive steering
+20 committeesOversight.
+21 1. An executive branch state agency, excluding institutions under the control of the state
+22 board of higher education, proposing to conduct a major information technology
+23 project as described in subsection 10 of section 54-35-15.2, the department, and the
+24 office of management and budget, in consultation with the attorney general, shall
+25 collaborate on the procurement, contract negotiation, and contract administration of
+26 the project. The agency, the department, and the office of management and budget, in
+27 consultation with the attorney general, shall approve the solicitation, contract, or
+28 agreement, and any amendments relating to the project before submission to the
+29 executive steeringoversight committee as provided in subsection 3.
+Page No. 4 25.8019.02000
+
+Sixty-ninth
+Legislative Assembly
+1 2. The procurement officer and primary project manager for a major information
+2 technology project must meet the qualifications established by the department and the
+3 office of management and budget.
+4 3. An executive steeringoversight committee must be appointed to oversee eacha major
+5 information technology project. The agency project sponsorchief information officer
+6 shall serve asappoint a chairman of the committee. The executive steeringoversight
+7 committee must consist ofmay include the director of the office of management and
+8 budget or a designee of the director, the chief information officer or a designee of the
+9 officer, the head of the agency contracting for the project or a designee, the project
+10 sponsor, and a large project oversight analyst designated by the chief information
+11 officer. The executive steeringoversight committee shall monitor the overall status of
+12 the project and reviewmake recommendations to the head of the agency contracting
+13 for the project or a designee, and the project sponsor, regarding project decisions,
+14 including negotiation and execution of contracts, approval of project budgets,
+15 implementation of project schedules, assessment of project quality, and consideration
+16 of scope changes. Any project decision declared by a member of the committee to be
+17 a major project decision requires at least four affirmative votes.
+18 4. An agreement or contract, including an amendment, revision, or scope change, for a
+19 major information technology project may not be entered unless signed by the head of
+20 the contracting agency or a designee and the chief information officer or a designee of
+21 the officer.
+Page No. 5 25.8019.02000
+
+[DELETED: .M.R.R.R.R.R.R.R.R.E12]
+[DELETED: .A.R.R.a.R)S)I)I.F.R22]
+[DELETED: .R.R.R."."."."."32]
+[DELETED: .".A.R.R.".M.A42]
+[DELETED: .T.A.A52]

@@ -1,0 +1,90 @@
+Title: ENGROSSED HOUSE BILL NO. 1614
+Official Title: ENGROSSED HOUSE BILL NO. 1614
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1255.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representatives Hendrix, D. Johnston
+1 A BILL for an Act to provide for a department of transportation study regarding autonomous and
+2 semiautonomous vehicle technologies; and to provide a legislative management report.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. DEPARTMENT OF TRANSPORTATION STUDY - AUTONOMOUS AND
+5 SEMIAUTONOMOUS VEHICLE TECHNOLOGIES - REPORT TO LEGISLATIVE
+6 MANAGEMENT.
+7 1. During the 2025-26 interim, the department of transportation shall study relevant
+8 issues in order to develop a preemptive regulatory and statutory framework for the
+9 operation of autonomous and semiautonomous vehicles on the North Dakota highway
+10 system. The study must include:
+11 a. A process for determining where the state's infrastructure may or may not be fully
+12 prepared for widespread deployment of autonomous and semiautonomous
+13 vehicle technologies;
+14 b. A process to review accident and traffic data for autonomous and
+15 semiautonomous vehicle systems with independent oversight on the industry
+16 operators;
+17 c. If there is a need to promulgate rules relating to accident liability regarding
+18 autonomous and semiautonomous vehicle technologies; and
+19 d. A determination of common vulnerabilities relating to privacy concerns and data
+20 security with proposed solutions.
+Page No. 1 25.1255.02000
+Sixty-ninth
+Legislative Assembly
+1 2. Before August 1, 2026, the department of transportation shall report its findings and
+2 recommendations, together with any legislation required to implement the
+3 recommendations, to the legislative management.
+Page No. 2 25.1255.02000
+[DELETED: .D.A.A.I.A12]
+[DELETED: .B22]
+
+
+================================================================================
+
+Raw Text:
+25.1255.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1614
+Introduced by
+Representatives Hendrix, D. Johnston
+1 A BILL for an Act to provide for a department of transportation study regarding autonomous and
+2 semiautonomous vehicle technologies; and to provide a legislative management report.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. DEPARTMENT OF TRANSPORTATION STUDY - AUTONOMOUS AND
+5 SEMIAUTONOMOUS VEHICLE TECHNOLOGIES - REPORT TO LEGISLATIVE
+6 MANAGEMENT.
+7 1. During the 2025-26 interim, the department of transportation shall study relevant
+8 issues in order to develop a preemptive regulatory and statutory framework for the
+9 operation of autonomous and semiautonomous vehicles on the North Dakota highway
+10 system. The study must include:
+11 a. A process for determining where the state's infrastructure may or may not be fully
+12 prepared for widespread deployment of autonomous and semiautonomous
+13 vehicle technologies;
+14 b. A process to review accident and traffic data for autonomous and
+15 semiautonomous vehicle systems with independent oversight on the industry
+16 operators;
+17 c. If there is a need to promulgate rules relating to accident liability regarding
+18 autonomous and semiautonomous vehicle technologies; and
+19 d. A determination of common vulnerabilities relating to privacy concerns and data
+20 security with proposed solutions.
+Page No. 1 25.1255.02000
+
+Sixty-ninth
+Legislative Assembly
+1 2. Before August 1, 2026, the department of transportation shall report its findings and
+2 recommendations, together with any legislation required to implement the
+3 recommendations, to the legislative management.
+Page No. 2 25.1255.02000
+
+[DELETED: .D.A.A.I.A12]
+[DELETED: .B22]

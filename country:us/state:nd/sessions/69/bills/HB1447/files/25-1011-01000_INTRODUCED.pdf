@@ -1,0 +1,259 @@
+25.1011.01000
+Sixty-ninth
+HOUSE BILL NO. 1447
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Swiontek, Christy, Hanson, Heinert, Schauer, J. Olson, Richter
+Senators Hogan, Klein, Lee, Rummel, Sickler
+1 A BILL for an Act to create and enact a new chapter to title 6 of the North Dakota Century Code,
+2 relating to virtual currency kiosks.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new chapter to title 6 of the North Dakota Century Code is created and
+5 enacted as follows:
+6 Definitions.
+7 In this chapter unless context requires:
+8 1. "Blockchain analytics" means the analysis of data from blockchains or public
+9 distributed ledgers, including associated transaction information.
+10 2. "Blockchain analytics software" means a software service that uses blockchain
+11 analytics data to provide risk-specific information about virtual currency wallet
+12 addresses.
+13 3. "Commissioner" means the commissioner of financial institutions.
+14 4. "New customer" means an individual who has never previously transacted with the
+15 virtual currency kiosk operator and for the first thirty days after the first financial
+16 transaction with the virtual currency kiosk operator.
+17 5. "Transaction hash" means a unique identifier made up of a string of characters that act
+18 as a record and provide proof the transaction was verified and added to the
+19 blockchain.
+20 6. "Virtual currency address" means an alphanumeric identifier associated with a virtual
+21 currency wallet identifying the location to which a virtual currency transaction can be
+22 sent.
+23 7. "Virtual currency kiosk" means an electronic terminal acting as a mechanical agent of
+24 the virtual currency kiosk operator to enable the virtual currency kiosk operator to
+Page No. 1 25.1011.01000
+
+Sixty-ninth
+Legislative Assembly
+1 facilitate the exchange of virtual currency for money, bank credit, or other virtual
+2 currency, including by:
+3 a. Connecting directly to a separate virtual currency exchange that performs the
+4 actual virtual currency transmission; or
+5 b. Drawing upon the virtual currency in the possession of the electronic terminal's
+6 operator.
+7 8. "Virtual currency kiosk operator" means a person that engages in virtual currency
+8 business activity via a money transmission kiosk located in this state or a person that
+9 owns, operates, or manages a money transmission kiosk located in this state through
+10 which virtual currency business activity is offered.
+11 9. "Virtual currency kiosk transaction" means a transaction conducted or performed, in
+12 whole or in part, by electronic means via a virtual currency kiosk. Virtual currency
+13 kiosk transaction also means a transaction made at a virtual currency kiosk to
+14 purchase virtual currency with fiat currency or to sell virtual currency for fiat currency.
+15 10. "Virtual currency wallet" means a software application or other mechanism providing a
+16 means to hold, store, or transfer virtual currency.
+17 Virtual currency kiosks.
+18 1. A kiosk operator may not engage in virtual currency business activity or hold itself out
+19 as being able to engage in virtual currency business activity with or on behalf of
+20 another person unless the kiosk operator is licensed in this state as a money
+21 transmitter.
+22 2. A virtual currency kiosk operator shall comply with all requirements of a money
+23 transmitter under chapter 13 - 09.1 .
+24 3. A virtual currency kiosk operator may not locate, or allow a third party to locate, a
+25 virtual currency kiosk in this state unless the virtual currency kiosk:
+26 a. Is placed a commercially accessible area;
+27 b. Is accessible to users with sufficient space to account for mobility limitations of
+28 users;
+29 c. Is subject to security features, including sufficient lighting and surveillance; and
+30 d. Complies with any additional restrictions or requirements as required by the
+31 commissioner.
+Page No. 2 25.1011.01000
+
+Sixty-ninth
+Legislative Assembly
+1 4. Each virtual currency kiosk operator shall submit a quarterly report of the location of
+2 each virtual currency kiosk located within the state to the commissioner within forty-
+3 five days of the end of the calendar quarter. The location report must include:
+4 a. The company legal name;
+5 b. Any fictitious or trade name;
+6 c. The physical address;
+7 d. The start date of operation of the virtual currency kiosk at the location;
+8 e. The end date of operation of the virtual currency kiosk at the location, if
+9 applicable; and
+10 f. The virtual currency addresses associated with the virtual currency kiosk.
+11 Disclosures.
+12 1. A virtual currency kiosk operator shall disclose in a clear, conspicuous, and easily
+13 readable manner in the chosen language of the customer, all relevant terms and
+14 conditions generally associated with the products, services, and activities of the virtual
+15 currency kiosk operator and virtual currency.
+16 2. The virtual currency kiosk operator must receive acknowledgment of receipt of all
+17 disclosures required under this section via confirmation of consent.
+18 3. Each virtual currency kiosk must include a warning written prominently and in bold
+19 type, stating substantially the following form:
+20 a. WARNING: CONSUMER FRAUD OFTEN STARTS WITH CONTACT FROM A
+21 STRANGER WHO IS INITIATING A DISHONEST SCHEME. I UNDERSTAND
+22 THAT CRIMINAL ACTIVITY MAY APPEAR IN MANY FORMS, INCLUDING:
+23 (1) Claims of a frozen bank account or credit card.
+24 (2) Fraudulent bank transactions.
+25 (3) Claims of identity theft or job offerings in exchange for payments.
+26 (4) Requests for payments to government agencies or companies.
+27 (5) Requests for disaster relief donations or loans.
+28 (6) Offers to purchase tickets for lotteries, sweepstakes, or drawings for
+29 vehicles.
+30 (7) Prompts to click on desktop popups, such as virus warnings or
+31 communication from alleged familiar merchants.
+Page No. 3 25.1011.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (8) Communication from someone impersonating a representative of your bank
+2 or a law enforcement officer.
+3 (9) IF YOU BELIEVE YOU ARE BEING SCAMMED, CALL YOUR LOCAL LAW
+4 ENFORCEMENT BEFORE ANY TRANSACTION.
+5 b. WARNING: FUNDS LOST DUE TO USER ERROR OR FRAUD MAY NOT BE
+6 RECOVERABLE. TRANSACTIONS CONDUCTED ON THIS VIRTUAL
+7 CURRENCY KIOSK ARE IRREVERSIBLE. I UNDERSTAND THESE RISKS AND
+8 WISH TO CONTINUE WITH CONDUCTING MY VIRTUAL CURRENCY KIOSK
+9 TRANSACTION. PROTECT YOURSELF FROM FRAUD. NEVER SEND MONEY
+10 TO SOMEONE YOU DON'T KNOW.
+11 4. The commissioner shall require the disclosure of material risks associated with virtual
+12 currency and virtual currency transactions, including:
+13 a. The transaction may not be reversed;
+14 b. The virtual currency kiosk operator's liability for unauthorized virtual currency
+15 transactions;
+16 c. The virtual currency kiosk customer's liability for unauthorized currency
+17 transactions;
+18 d. Virtual currency is not legal tender, backed or insured by the government, and
+19 accounts and value balances are not subject to federal deposit insurance
+20 corporation, national credit union administration, or securities investor protection
+21 corporation protections;
+22 e. Some virtual currency transactions are deemed to be made when recorded on a
+23 public ledger which may not be the date or time when the individual initiates the
+24 transaction;
+25 f. Virtual currency's value may be derived from market participants' continued
+26 willingness to exchange fiat currency for virtual currency, which may result in the
+27 permanent and total loss of a particular virtual currency's value if the market for
+28 virtual currency disappears;
+29 g. An individual who accepts a virtual currency as payment today is not required to
+30 accept and might not accept virtual currency in the future;
+Page No. 4 25.1011.01000
+
+Sixty-ninth
+Legislative Assembly
+1 h. The volatility and unpredictability of the price of virtual currency relative to fiat
+2 currency may result in a significant loss over a short period;
+3 i. The nature of virtual currency means any technological difficulties experienced by
+4 virtual currency kiosk operators may prevent access to or use of an individual's
+5 virtual currency; and
+6 j. Any bond maintained by the virtual currency kiosk operator for the benefit of an
+7 individual may not cover all losses an individual incurs.
+8 5. The commissioner shall require disclosure of:
+9 a. The amount of the transaction denominated in United States dollars as well as
+10 the applicable virtual currency;
+11 b. Any fees or expenses charged by the virtual currency kiosk operator;
+12 c. Any applicable exchange rates;
+13 d. A daily virtual currency transaction limit of no more than one thousand dollars;
+14 e. Notice of a change in the virtual currency kiosk operator's rules or policies;
+15 f. The name, address, and telephone number of the owner of the kiosk and the
+16 days, time, means by which a consumer can contact the owner for consumer
+17 assistance. Any relevant state and local law enforcement agency for reporting
+18 fraud must be displayed on or at the location of the virtual currency kiosk or on
+19 the first screen of the kiosk;
+20 g. Under what circumstances the virtual currency kiosk operator, without a court or
+21 government order, discloses a person's account information to third parties; and
+22 h. Other disclosures customarily given in connection with a virtual currency
+23 transaction.
+24 6. After the completion of each transaction, the virtual currency kiosk operator shall
+25 provide an individual with a physical receipt in the language chosen by the customer
+26 containing the following:
+27 a. The virtual currency kiosk operator's name and contact information, including a
+28 telephone number to answer questions and register complaints;
+29 b. Relevant state and local law enforcement or government agency for reporting
+30 fraud;
+Page No. 5 25.1011.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. The type, value, date, and precise time of the transaction, transaction hash, and
+2 each applicable virtual currency address;
+3 d. The name and contact information of the sender;
+4 e. The name and contact information of the designated recipient;
+5 f. All fees charged;
+6 g. The exchange rate of the virtual currency to United States dollars;
+7 h. A statement of the virtual currency kiosk operator's liability for nondelivery or
+8 delayed delivery;
+9 i. A statement of the virtual currency kiosk operator's refund policy; and
+10 j. Any additional information the commissioner may require.
+11 Prevention of fraudulent activity.
+12 1. A virtual currency kiosk operator shall use blockchain analytics software to assist in
+13 the detection and prevention of suspicious activity, including sending purchased virtual
+14 currency from a virtual currency kiosk operator to a virtual currency wallet known to be
+15 affiliated with fraudulent activity at the time of a transaction and identifying patterns
+16 that reflect money laundering or other illicit activity. The commissioner may request
+17 evidence from any virtual currency kiosk operator of use of blockchain analytics.
+18 2. A virtual currency kiosk operator shall take reasonable steps to detect and prevent
+19 fraud, including establishing and maintaining a written antifraud policy. The antifraud
+20 policy must include:
+21 a. The identification and assessment of fraud-related risk areas;
+22 b. Procedures and controls to protect against identified risks;
+23 c. Allocation of responsibility for monitoring risks; and
+24 d. Procedures for the periodic evaluation and revision of the antifraud procedures,
+25 controls, and monitoring mechanisms.
+26 3. Each virtual currency kiosk operator shall designate and employ a compliance officer
+27 with the following requirements:
+28 a. The individual must be qualified to coordinate and monitor compliance with this
+29 chapter and all other applicable federal and state laws and rules;
+30 b. The individual must be employed full-time by the virtual currency kiosk operator;
+31 and
+Page No. 6 25.1011.01000
+
+Sixty-ninth
+Legislative Assembly
+1 c. The designated compliance officer may not be any individual who owns more
+2 than twenty percent of the virtual currency kiosk operator by whom the individual
+3 is employed.
+4 4. Compliance responsibilities required under federal and state laws and rules must be
+5 completed by full-time employees of the virtual currency kiosk operator.
+6 5. A virtual currency kiosk operator shall issue a refund to a new customer for the full
+7 amount of all transactions made within the thirty - day new customer time period on the
+8 request of the customer. To receive a refund under this section, a new customer must
+9 have been fraudulently induced to engage in the virtual currency transactions and
+10 shall contact the virtual currency kiosk operator and a government or law enforcement
+11 regarding the fraudulent nature of the transaction agency within ninety days of the last
+12 transaction to occur during the thirty - day new customer time period .
+13 6. A virtual currency kiosk operator shall issue a refund to an existing customer for the
+14 full amount of all transaction fees upon the request of an existing customer. To receive
+15 a refund under this section, a customer must have been fraudulently induced to
+16 engage in the virtual currency transactions and shall contact the virtual currency kiosk
+17 operator and a government or law enforcement agency regarding the fraudulent
+18 nature of the transaction within ninety days of the transaction.
+19 Daily transaction limit.
+20 A virtual currency kiosk operator may not accept transactions of more than one thousand
+21 dollars of cash or the equivalent in virtual currency in a day in connection with virtual currency
+22 kiosk transactions with a single customer in this state via one or more virtual currency kiosks
+23 operated by the same virtual currency operator.
+24 Fee cap.
+25 The aggregate fees and charges, directly or indirectly, charged to a customer related to a
+26 single transaction or series of related transactions involving virtual currency charged through a
+27 money transmission kiosk in this state, including any difference between the price charged to a
+28 customer to buy, sell, exchange, swap, or convert virtual currency and the prevailing market
+29 value of the virtual currency at the time of the transaction, may not exceed the greater of five
+30 dollars or three percent of the dollar equivalent of virtual currency involved in the transaction or
+31 transactions.
+Page No. 7 25.1011.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Customer service.
+2 A virtual currency kiosk operator performing business in this state shall provide live
+3 customer service at a minimum on Monday through Friday between eight a.m. central time and
+4 ten p.m. central time. The customer service toll free number must be displayed on the virtual
+5 currency kiosk or the virtual currency kiosk screens.
+Page No. 8 25.1011.01000
+
+[DELETED: ."."."."."."."12]
+[DELETED: .C.D.".".".A.A.A.I.I.I.C22]
+[DELETED: .E.T.A.T.T.T.T.A.T.E.W)C)F)C)R)R)O)P32]
+[DELETED: )C)I.W.T.T.T.T.V.S.V.A42]
+[DELETED: .T.T.A.T.T.A.A.A.N.T.U.O.A.T.R52]
+[DELETED: .T.T.T.A.T.A.A.A.A.A.T.P.A.P.E.T.T62]
+[DELETED: .T.C.A.A72]
+[DELETED: 82]

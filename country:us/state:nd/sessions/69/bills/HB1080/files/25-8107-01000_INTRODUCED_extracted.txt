@@ -1,0 +1,416 @@
+Title: HOUSE BILL NO. 1080
+Official Title: HOUSE BILL NO. 1080
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25.8107.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry, Business and Labor Committee
+(At the request of the North Dakota Real Estate Appraiser Qualifications and Ethics Board)
+1 A BILL for an Act to amend and reenact sections 43-23.5-01, 43-23.5-07, 43-23.5-08, and
+2 43-23.5-15 and subsection 6 of section 43-23.5-21 of the North Dakota Century Code, relating
+3 to the regulation of appraisal management companies.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 43-23.5-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 43-23.5-01. Definitions.
+8 As used in this chapter, unless the context otherwise requires:
+9 1. "Appraisal firm" means any person or entity that exclusively employs persons on an
+10 employer and employee basis for the performance of real estate appraisal services in
+11 the normal course of its business and the real estate appraisal services being
+12 performed are in accordance with the uniform standards of professional appraisal
+13 practices.
+14 2. "Appraisal management company" means, in connection with valuing properties
+15 collateralizing mortgage loans or mortgages incorporated into a securitization, any
+16 external third party that oversees a network or panel of more than fifteen certified or
+17 licensed appraisers in this state or twenty-five or more nationally within a given year,
+18 that is authorized either by a creditor of a consumer credit transaction secured by a
+19 consumer's principal dwelling or by an underwriter or other principal in the secondary
+20 mortgage markets that engages in appraisal management services.
+21 3. "Appraisal management services" means to, directly or indirectly, perform any of the
+22 following functions on behalf of a lender, financial institution, client, or any other
+23 person in conjunction with a consumer credit transaction that is secured by a
+24 consumer's primary dwelling:
+Page No. 1 25.8107.01000
+Sixty-ninth
+Legislative Assembly
+1 a. Administer an appraiser panel.
+2 b. Recruit, retain, or select appraisers.
+3 c. Qualify, verify licensing or certification, and negotiate fees and service level
+4 expectations with persons who are part of an appraiser panel.
+5 d. Contract with appraisers to perform appraisal assignments.
+6 e. Receive an order for an appraisal from one person, and deliver the order for the
+7 appraisal to an appraiser that is part of an appraiser panel for completion.
+8 f. Manage the process of having an appraisal performed, including providing
+9 administrative duties, such as receiving appraisal orders and reports, submitting
+10 completed appraisal reports to creditors and underwriters, collecting fees from
+11 creditors and underwriters for services provided, and reimbursing appraisers for
+12 services performed.
+13 g. Track and determine the status of appraisal orders.
+14 h. Conduct an appraisal review or other quality control of a completed appraisal
+15 prior to the delivery of the appraisal to the person that ordered the appraisal.
+16 i. Provide a completed appraisal performed by an appraiser to one or more clients.
+17 4. "Appraisal review" means the act or process of developing and communicating an
+18 opinion about the quality of another appraiser's work that was performed as part of an
+19 appraisal assignment related to the appraiser's data collection, analysis, opinions,
+20 conclusions, estimate of value, or compliance with the uniform standards of
+21 professional appraisal practice. This term does not include:
+22 a. A general examination for grammatical, typographical, or other similar errors.
+23 b. A general examination for completeness, including regulatory client requirements,
+24 or both, as specified in the agreement process that does not communicate an
+25 opinion.
+26 5. "Appraiser panel" means a network of licensed or certified appraisers who have:
+27 a. Responded to an invitation, request, or solicitation from an appraisal
+28 management company, in any form, to perform appraisals for persons that have
+29 ordered appraisals through the appraisal management company, or to perform
+30 appraisals for the appraisal management company directly, on a periodic basis,
+31 as requested and assigned by the appraisal management company.
+Page No. 2 25.8107.01000
+Sixty-ninth
+Legislative Assembly
+1 b. Been selected and approved by an appraisal management company to perform
+2 appraisals for any client of the appraisal management company that has ordered
+3 an appraisal through the appraisal management company, or to perform
+4 appraisals for the appraisal management company directly, on a periodic basis,
+5 as assigned by the appraisal management company.
+6 6. "Board" means the North Dakota real estate appraiser qualifications and ethics board.
+7 7. "Controlling person" means:
+8 a. An officer, director, or owner of greater than a ten percent interest of a
+9 corporation, partnership, or other business entity seeking to act as an appraisal
+10 management company in this state.
+11 b. An individual employed, appointed, or authorized by an appraisal management
+12 company that has the authority to enter a contractual relationship with other
+13 persons for performance of services requiring registration as an appraisal
+14 management company and has the authority to enter agreements with appraisers
+15 for the performance of appraisals.
+16 c. An individual who possesses, directly or indirectly, the power to direct or cause
+17 the direction of the management or policies of an appraisal management
+18 company.
+19 8. "Federal financial institutions regulatory agencies" includes the board of governors of
+20 the federal reserve system, the federal deposit insurance corporation, the office of the
+21 comptroller of the currency, and the national credit union administration.
+22 9. "Federally regulated appraisal management company" means an appraisal
+23 management company that is owned and controlled by an insured depository
+24 institution, as defined in 12 U.S.C. 1813 and regulated by the office of the comptroller
+25 of the currency, the board of governors of the federal reserve system, or the federal
+26 deposit insurance corporation.
+27 10. "Federally related transaction" means any real estate-related financial transaction
+28 which a federal financial institutions regulatory agency or the resolution trust
+29 corporation engages in, contracts for, or regulates, and requires the services of an
+30 appraiser.
+31 10.11. "Real estate-related financial transaction" means any transaction involving:
+Page No. 3 25.8107.01000
+Sixty-ninth
+Legislative Assembly
+1 a. The sale, lease, purchase, investment in, or exchange of real property, including
+2 interests in property or the financing thereof.
+3 b. The refinancing of real property or interests in real property.
+4 c. The use of real property or interests in property as security for a loan or
+5 investment, including mortgage-backed securities.
+6 SECTION 2. AMENDMENT. Section 43-23.5-07 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 43-23.5-07. Exemptions.
+9 The provisions of this chapter do not apply to:
+10 1. An appraisal firm.
+11 2. A federally regulated appraisal management company, or a financial institution,
+12 including a department or unit within the institution, that is regulated by an agency of
+13 this state or the United States government.
+14 3. A person that enters an agreement with an appraiser for the performance of an
+15 appraisal that upon completion results in a report signed by both the appraiser who
+16 completed the appraisal and the appraiser who requested completion of the appraisal.
+17 4. An appraisal management company with an appraisal panel of fewer than sixteen
+18 certified or licensed appraisers in this state or fewer than twenty-five nationally within a
+19 given year.
+20 5. An appraisal management company that is a subsidiary owned and controlled by a
+21 financial institution that is subject to appraisal independence standards at least as
+22 stringent as those under chapter 43-23.5-21, if regulated by an agency of this state, or
+23 the Truth in Lending Act [15 U.S.C. 1601 et seq.], if regulated by the United States
+24 government.
+25 SECTION 3. AMENDMENT. Section 43-23.5-08 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 43-23.5-08. Owner requirements.
+28 1. An appraisal management company applying for, holding, or renewing a registration
+29 under this chapter may not be, in whole or in part, directly or indirectly, owned by:
+30 a. An individual who has had an appraiser license or certification in this state or in
+31 any other state refused, denied, canceled, surrendered in lieu of revocation, or
+Page No. 4 25.8107.01000
+Sixty-ninth
+Legislative Assembly
+1 revoked, or surrendered in lieu of a pending disciplinary proceeding in any
+2 jurisdiction and not subsequently granted or reinstatedfor a substantive cause, as
+3 determined by the board, and the license or certificate was subsequently granted
+4 or reinstated.
+5 b. An entity that is owned by anyan individual who has had an appraiser license or
+6 certification in this state or any other state refused, denied, canceled,
+7 surrendered in lieu of revocation, or revoked, or surrendered in lieu of a pending
+8 disciplinary proceeding in any jurisdiction and not subsequently granted or
+9 reinstatedfor a substantive cause, as determined by the board, and the license or
+10 certificate was subsequently granted or reinstated.
+11 2. Each person that owns more than ten percent of an appraisal management company
+12 applying for, holding, or renewing a registration under this chapter:
+13 a. Must be of good moral character.
+14 b. Shall submit to a criminal background investigation for an initial application or as
+15 required by the board.
+16 3. Each appraisal management company applying for a registration or for renewal of a
+17 registration under this chapter shall certify to the board on a form prescribed by the
+18 board that the company has reviewed each entity that owns the appraisal
+19 management company and that no entity that owns the appraisal management
+20 company is owned by any personan individual that has had an appraiser license or
+21 certification in this state or any other state refused, denied, canceled, surrendered in
+22 lieu of revocation, or revoked, or surrendered in lieu of a pending disciplinary
+23 proceeding in any jurisdiction and not subsequently granted or reinstatedfor a
+24 substantive cause, as determined by the board, and the license or certificate was
+25 subsequently granted or reinstated.
+26 SECTION 4. AMENDMENT. Section 43-23.5-15 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 43-23.5-15. Retention of records.
+29 1. Each appraisal management company seeking to be registered or to renew an
+30 existing registration in this state shall certify to the board on a form prescribed by the
+Page No. 5 25.8107.01000
+Sixty-ninth
+Legislative Assembly
+1 board that the company maintains a detailed record of each service request that the
+2 company receives for appraisal of real property located in this state.
+3 2. An appraisal management company registered in this state shall retain for five years
+4 all records required to be maintained under this chapter as described in rules. This
+5 five-year period shall commence on the date of the final action by the appraisal
+6 management company for each individual transaction or, if the appraisal management
+7 company is notified that the transaction is involved in litigation, the five-year period
+8 shall commence on the date the litigation is finally disposed.
+9 3. All records required to be maintained by the registered appraisal management
+10 company maymust, upon request by the board, be made available for inspection and
+11 copying by the board on reasonable notice to the appraisal management company.
+12 SECTION 5. AMENDMENT. Subsection 6 of section 43-23.5-21 of the North Dakota
+13 Century Code is amended and reenacted as follows:
+14 6. Except within the first ninety days after an independent appraiser is added to an
+15 appraiser page, removeRemove an independent appraiser from an appraiser panel
+16 without prior written notice to the appraiser, with the prior written notice including
+17 evidence of the following, if applicable:
+18 a. The appraiser's illegal conduct.
+19 b. A violation of the uniform standards of professional appraisal practice, this
+20 chapter, or the rules adopted by the board.
+21 c. Improper or unprofessional conduct.
+Page No. 6 25.8107.01000
+[DELETED: ."."."12]
+[DELETED: .A.R.Q.C.R.M.T.C.P.".A.A.".R22]
+[DELETED: .B.".".A.A.A."."."."32]
+[DELETED: .T.T.T.A.A.A.A.A.A.A42]
+[DELETED: .A.E.M.S.E.E52]
+[DELETED: .A.A.E.T.A.I62]
+
+
+================================================================================
+
+Raw Text:
+25.8107.01000
+Sixty-ninth
+HOUSE BILL NO. 1080
+Legislative Assembly
+of North Dakota
+Introduced by
+Industry, Business and Labor Committee
+(At the request of the North Dakota Real Estate Appraiser Qualifications and Ethics Board)
+1 A BILL for an Act to amend and reenact sections 43-23.5-01, 43-23.5-07, 43-23.5-08, and
+2 43-23.5-15 and subsection 6 of section 43-23.5-21 of the North Dakota Century Code, relating
+3 to the regulation of appraisal management companies.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 43-23.5-01 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 43-23.5-01. Definitions.
+8 As used in this chapter, unless the context otherwise requires:
+9 1. "Appraisal firm" means any person or entity that exclusively employs persons on an
+10 employer and employee basis for the performance of real estate appraisal services in
+11 the normal course of its business and the real estate appraisal services being
+12 performed are in accordance with the uniform standards of professional appraisal
+13 practices.
+14 2. "Appraisal management company" means, in connection with valuing properties
+15 collateralizing mortgage loans or mortgages incorporated into a securitization, any
+16 external third party that oversees a network or panel of more than fifteen certified or
+17 licensed appraisers in this state or twenty-five or more nationally within a given year,
+18 that is authorized either by a creditor of a consumer credit transaction secured by a
+19 consumer's principal dwelling or by an underwriter or other principal in the secondary
+20 mortgage markets that engages in appraisal management services.
+21 3. "Appraisal management services" means to, directly or indirectly, perform any of the
+22 following functions on behalf of a lender, financial institution, client, or any other
+23 person in conjunction with a consumer credit transaction that is secured by a
+24 consumer's primary dwelling:
+Page No. 1 25.8107.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. Administer an appraiser panel.
+2 b. Recruit, retain, or select appraisers.
+3 c. Qualify, verify licensing or certification, and negotiate fees and service level
+4 expectations with persons who are part of an appraiser panel.
+5 d. Contract with appraisers to perform appraisal assignments.
+6 e. Receive an order for an appraisal from one person, and deliver the order for the
+7 appraisal to an appraiser that is part of an appraiser panel for completion.
+8 f. Manage the process of having an appraisal performed, including providing
+9 administrative duties, such as receiving appraisal orders and reports, submitting
+10 completed appraisal reports to creditors and underwriters, collecting fees from
+11 creditors and underwriters for services provided, and reimbursing appraisers for
+12 services performed.
+13 g. Track and determine the status of appraisal orders.
+14 h. Conduct an appraisal review or other quality control of a completed appraisal
+15 prior to the delivery of the appraisal to the person that ordered the appraisal.
+16 i. Provide a completed appraisal performed by an appraiser to one or more clients.
+17 4. "Appraisal review" means the act or process of developing and communicating an
+18 opinion about the quality of another appraiser's work that was performed as part of an
+19 appraisal assignment related to the appraiser's data collection, analysis, opinions,
+20 conclusions, estimate of value, or compliance with the uniform standards of
+21 professional appraisal practice. This term does not include:
+22 a. A general examination for grammatical, typographical, or other similar errors.
+23 b. A general examination for completeness, including regulatory client requirements,
+24 or both, as specified in the agreement process that does not communicate an
+25 opinion.
+26 5. "Appraiser panel" means a network of licensed or certified appraisers who have:
+27 a. Responded to an invitation, request, or solicitation from an appraisal
+28 management company, in any form, to perform appraisals for persons that have
+29 ordered appraisals through the appraisal management company, or to perform
+30 appraisals for the appraisal management company directly, on a periodic basis,
+31 as requested and assigned by the appraisal management company.
+Page No. 2 25.8107.01000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Been selected and approved by an appraisal management company to perform
+2 appraisals for any client of the appraisal management company that has ordered
+3 an appraisal through the appraisal management company, or to perform
+4 appraisals for the appraisal management company directly, on a periodic basis,
+5 as assigned by the appraisal management company.
+6 6. "Board" means the North Dakota real estate appraiser qualifications and ethics board.
+7 7. "Controlling person" means:
+8 a. An officer, director, or owner of greater than a ten percent interest of a
+9 corporation, partnership, or other business entity seeking to act as an appraisal
+10 management company in this state.
+11 b. An individual employed, appointed, or authorized by an appraisal management
+12 company that has the authority to enter a contractual relationship with other
+13 persons for performance of services requiring registration as an appraisal
+14 management company and has the authority to enter agreements with appraisers
+15 for the performance of appraisals.
+16 c. An individual who possesses, directly or indirectly, the power to direct or cause
+17 the direction of the management or policies of an appraisal management
+18 company.
+19 8. "Federal financial institutions regulatory agencies" includes the board of governors of
+20 the federal reserve system, the federal deposit insurance corporation, the office of the
+21 comptroller of the currency, and the national credit union administration.
+22 9. "Federally regulated appraisal management company" means an appraisal
+23 management company that is owned and controlled by an insured depository
+24 institution, as defined in 12 U.S.C. 1813 and regulated by the office of the comptroller
+25 of the currency, the board of governors of the federal reserve system, or the federal
+26 deposit insurance corporation.
+27 10. "Federally related transaction" means any real estate-related financial transaction
+28 which a federal financial institutions regulatory agency or the resolution trust
+29 corporation engages in, contracts for, or regulates, and requires the services of an
+30 appraiser.
+31 10.11. "Real estate-related financial transaction" means any transaction involving:
+Page No. 3 25.8107.01000
+
+Sixty-ninth
+Legislative Assembly
+1 a. The sale, lease, purchase, investment in, or exchange of real property, including
+2 interests in property or the financing thereof.
+3 b. The refinancing of real property or interests in real property.
+4 c. The use of real property or interests in property as security for a loan or
+5 investment, including mortgage-backed securities.
+6 SECTION 2. AMENDMENT. Section 43-23.5-07 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 43-23.5-07. Exemptions.
+9 The provisions of this chapter do not apply to:
+10 1. An appraisal firm.
+11 2. A federally regulated appraisal management company, or a financial institution,
+12 including a department or unit within the institution, that is regulated by an agency of
+13 this state or the United States government.
+14 3. A person that enters an agreement with an appraiser for the performance of an
+15 appraisal that upon completion results in a report signed by both the appraiser who
+16 completed the appraisal and the appraiser who requested completion of the appraisal.
+17 4. An appraisal management company with an appraisal panel of fewer than sixteen
+18 certified or licensed appraisers in this state or fewer than twenty-five nationally within a
+19 given year.
+20 5. An appraisal management company that is a subsidiary owned and controlled by a
+21 financial institution that is subject to appraisal independence standards at least as
+22 stringent as those under chapter 43-23.5-21, if regulated by an agency of this state, or
+23 the Truth in Lending Act [15 U.S.C. 1601 et seq.], if regulated by the United States
+24 government.
+25 SECTION 3. AMENDMENT. Section 43-23.5-08 of the North Dakota Century Code is
+26 amended and reenacted as follows:
+27 43-23.5-08. Owner requirements.
+28 1. An appraisal management company applying for, holding, or renewing a registration
+29 under this chapter may not be, in whole or in part, directly or indirectly, owned by:
+30 a. An individual who has had an appraiser license or certification in this state or in
+31 any other state refused, denied, canceled, surrendered in lieu of revocation, or
+Page No. 4 25.8107.01000
+
+Sixty-ninth
+Legislative Assembly
+1 revoked, or surrendered in lieu of a pending disciplinary proceeding in any
+2 jurisdiction and not subsequently granted or reinstatedfor a substantive cause, as
+3 determined by the board, and the license or certificate was subsequently granted
+4 or reinstated.
+5 b. An entity that is owned by anyan individual who has had an appraiser license or
+6 certification in this state or any other state refused, denied, canceled,
+7 surrendered in lieu of revocation, or revoked, or surrendered in lieu of a pending
+8 disciplinary proceeding in any jurisdiction and not subsequently granted or
+9 reinstatedfor a substantive cause, as determined by the board, and the license or
+10 certificate was subsequently granted or reinstated.
+11 2. Each person that owns more than ten percent of an appraisal management company
+12 applying for, holding, or renewing a registration under this chapter:
+13 a. Must be of good moral character.
+14 b. Shall submit to a criminal background investigation for an initial application or as
+15 required by the board.
+16 3. Each appraisal management company applying for a registration or for renewal of a
+17 registration under this chapter shall certify to the board on a form prescribed by the
+18 board that the company has reviewed each entity that owns the appraisal
+19 management company and that no entity that owns the appraisal management
+20 company is owned by any personan individual that has had an appraiser license or
+21 certification in this state or any other state refused, denied, canceled, surrendered in
+22 lieu of revocation, or revoked, or surrendered in lieu of a pending disciplinary
+23 proceeding in any jurisdiction and not subsequently granted or reinstatedfor a
+24 substantive cause, as determined by the board, and the license or certificate was
+25 subsequently granted or reinstated.
+26 SECTION 4. AMENDMENT. Section 43-23.5-15 of the North Dakota Century Code is
+27 amended and reenacted as follows:
+28 43-23.5-15. Retention of records.
+29 1. Each appraisal management company seeking to be registered or to renew an
+30 existing registration in this state shall certify to the board on a form prescribed by the
+Page No. 5 25.8107.01000
+
+Sixty-ninth
+Legislative Assembly
+1 board that the company maintains a detailed record of each service request that the
+2 company receives for appraisal of real property located in this state.
+3 2. An appraisal management company registered in this state shall retain for five years
+4 all records required to be maintained under this chapter as described in rules. This
+5 five-year period shall commence on the date of the final action by the appraisal
+6 management company for each individual transaction or, if the appraisal management
+7 company is notified that the transaction is involved in litigation, the five-year period
+8 shall commence on the date the litigation is finally disposed.
+9 3. All records required to be maintained by the registered appraisal management
+10 company maymust, upon request by the board, be made available for inspection and
+11 copying by the board on reasonable notice to the appraisal management company.
+12 SECTION 5. AMENDMENT. Subsection 6 of section 43-23.5-21 of the North Dakota
+13 Century Code is amended and reenacted as follows:
+14 6. Except within the first ninety days after an independent appraiser is added to an
+15 appraiser page, removeRemove an independent appraiser from an appraiser panel
+16 without prior written notice to the appraiser, with the prior written notice including
+17 evidence of the following, if applicable:
+18 a. The appraiser's illegal conduct.
+19 b. A violation of the uniform standards of professional appraisal practice, this
+20 chapter, or the rules adopted by the board.
+21 c. Improper or unprofessional conduct.
+Page No. 6 25.8107.01000
+
+[DELETED: ."."."12]
+[DELETED: .A.R.Q.C.R.M.T.C.P.".A.A.".R22]
+[DELETED: .B.".".A.A.A."."."."32]
+[DELETED: .T.T.T.A.A.A.A.A.A.A42]
+[DELETED: .A.E.M.S.E.E52]
+[DELETED: .A.A.E.T.A.I62]

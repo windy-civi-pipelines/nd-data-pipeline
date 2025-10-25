@@ -1,0 +1,459 @@
+Title: SENATE BILL NO. 2208
+Official Title: SENATE BILL NO. 2208
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25.1104.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Patten, Bekkedahl, Erbele, Kessel
+Representatives Brandenburg, Porter
+1 A BILL for an Act to amend and reenact sections 57-51.1-07.7 and 57-51.1-07.8 of the North
+2 Dakota Century Code, relating to the municipal infrastructure fund and the county and township
+3 infrastructure fund.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 57-51.1-07.7 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 57-51.1-07.7. Municipal infrastructure fund - Continuing appropriation - State
+8 treasurer - Reports.
+9 1. There is created in the state treasury the municipal infrastructure fund. The fund
+10 consists of all moneys deposited in the fund under section 57-51.1-07.5. All moneys in
+11 the fund are appropriated to the state treasurer on a continuing basis for the purpose
+12 of providing grants to cities located in non-oil-producing counties. The grant funding
+13 may be distributed only to cities located in non-oil-producing counties, excluding hub
+14 cities, and may be used only for essential infrastructure projects.
+15 1.2. By November thirtieth of each even-numbered year, starting in 2022, a city that
+16 receives a grant from the fund shall provide a report to the state treasurer on the use
+17 of the funding. The state treasurer shall notify cities of the reporting requirement by
+18 November first of each even-numbered year, starting in 2022. Upon request, the state
+19 treasurer may provide an extension of up to fifteen days for a city to submit the report.
+20 The state treasurer shall determine the format of the report. The report must include
+21 the amount of grant funding received and spent by the city and a description of the
+22 infrastructure projects completed in part or in whole with the grant funding. The state
+23 treasurer shall make the reports available to the public on the state treasurer's
+24 website.
+Page No. 1 25.1104.01000
+Sixty-ninth
+Legislative Assembly
+1 3. a. A city that does not provide the report in a timely manner or in the correct format
+2 is not eligible to receive a grant from the fund for a period of two years starting
+3 from the date the report was due.
+4 b. If a city uses the funding in a manner inconsistent with the requirements of this
+5 section as identified in any financial audits conducted by the state auditor or an
+6 independent accounting firm, the state treasurer shall reduce any future grants to
+7 that city by the amount spent that was inconsistent with the requirements.
+8 c. If a city adopts an ordinance or policy that interferes or conflicts with an energy
+9 infrastructure project permitted or approved by a state agency, the city is not
+10 eligible to receive any grants from the fund beginning on the later of the date on
+11 which the city adopted the ordinance or policy, or the date on which the state
+12 agency permits or approves the project.
+13 2.4. Within forty days after the fund balance is greater than or equal to the amount needed
+14 for the grants under this subsection or by September thirtieth of each odd-numbered
+15 year, whichever is earlier, the state treasurer shall distribute moneys in the fund as
+16 grants to cities for essential infrastructure projects. The state treasurer shall distribute
+17 the grants only if the fund balance is at least ten percent of the amount needed for
+18 distributions under this subsection based on the following:
+19 a. Two million five hundred thousand dollars to each city with a population of at
+20 least five thousand;
+21 b. Five hundred thousand dollars to each city with a population of at least two
+22 thousand but less than five thousand; and
+23 c. One hundred twenty-five thousand dollars to each city with a population of at
+24 least one thousand but less than two thousand.
+25 d. If, at the time of the distributions, the moneys in the fund are less than the
+26 amount needed for the grants under this subsection, the state treasurer shall
+27 distribute the grants under this subsection on a pro rata basis.
+28 e. For the purposes of determining the city's population under this subsection, the
+29 state treasurer shall use the most recent actual or estimated census data
+30 published by the United States census bureau.
+Page No. 2 25.1104.01000
+Sixty-ninth
+Legislative Assembly
+1 3.5. Within sixty days after the fund receives its statutory limit of oil and gas tax allocations
+2 under section 57-51.1-07.5 or by September thirtieth of each odd-numbered year,
+3 whichever is earlier, the state treasurer shall distribute the moneys in the fund as
+4 grants to cities for essential infrastructure projects. The state treasurer shall distribute
+5 the grants only if the fund balance is at least ten percent of the amount needed for
+6 distributions under this subsection based on the following:
+7 a. One hundred fifty dollars per person of the city's population.
+8 b. In addition to the amounts in subdivision a, for a city with a positive average of
+9 the annual percentage increase in population from three years prior, a dollar
+10 amount equal to the product of the following:
+11 (1) The amount calculated in subdivision a; and
+12 (2) The average of the annual percentage increase in population from three
+13 years prior, multiplied by ten.
+14 c. In addition to the amounts in subdivisions a and b, for a city with a positive
+15 average of the annual percentage increase in taxable property values from three
+16 years prior, a dollar amount equal to the average of the annual property valuation
+17 percentage increase for the three most recent years, multiplied by twenty-five
+18 thousandths.
+19 d. Grants may be distributed under this subdivision only if the grant distributions
+20 under subsection 24 are completed. If the moneys in the fund are insufficient to
+21 provide for the grants, the state treasurer shall distribute the grants under this
+22 subsection on a pro rata basis. If any moneys remain in the fund after the
+23 distribution of grants under this subsection, the state treasurer shall distribute any
+24 remaining moneys in the fund in proportion to the combined total distributed to
+25 each city under this section relative to the combined total distributed to all the
+26 cities under this section.
+27 e. For the purposes of determining the city's population under this subsection, the
+28 state treasurer shall use the most recent actual or estimated census data
+29 published by the United States census bureau.
+Page No. 3 25.1104.01000
+Sixty-ninth
+Legislative Assembly
+1 f. For the purposes of determining taxable property values, the state treasurer shall
+2 use the most recent data published by the tax commissioner in the tax levy
+3 report.
+4 4.6. For purposes of this section:
+5 a. "Essential infrastructure projects" means capital construction projects to construct
+6 new infrastructure or to replace existing infrastructure, which provide the fixed
+7 installations necessary for the function of a city. Capital construction projects
+8 exclude debt repayments and routine maintenance and repair projects, but
+9 include the following:
+10 (1) Water treatment plants;
+11 (2) Wastewater treatment plants;
+12 (3) Sewer lines and water lines, including lift stations and pumping systems;
+13 (4) Water storage systems, including dams, water tanks, and water towers;
+14 (5) Storm water infrastructure, including curb and gutter construction;
+15 (6) Road and bridge infrastructure, including paved and unpaved roads and
+16 bridges;
+17 (7) Airport infrastructure;
+18 (8) Electricity transmission infrastructure;
+19 (9) Natural gas transmission infrastructure; and
+20 (10) Communications infrastructure, excluding fiber optic infrastructure.
+21 b. "Fiscal year" means the period beginning September first and ending August
+22 thirty-first of the following calendar year.
+23 c. "Non-oil-producing county" means a county that received no allocation of funding
+24 or a total allocation of less than five million dollars under subsection 2 of section
+25 57-51-15 in the most recently completed even-numbered fiscal year before the
+26 start of each biennium.
+27 SECTION 2. AMENDMENT. Section 57-51.1-07.8 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+Page No. 4 25.1104.01000
+Sixty-ninth
+Legislative Assembly
+1 57-51.1-07.8. County and township infrastructure fund - Continuing appropriation -
+2 State treasurer - Reports.
+3 1. There is created in the state treasury the county and township infrastructure fund. The
+4 fund consists of all moneys deposited in the fund under section 57-51.1-07.5. All
+5 moneys in the fund are appropriated to the state treasurer on a continuing basis for
+6 the purpose of providing grants to non-oil-producing counties and townships located in
+7 non-oil-producing counties. The grant funding may be distributed only to
+8 non-oil-producing counties and townships located in non-oil-producing counties and
+9 may be used only for road and bridge infrastructure projects.
+10 1.2. By November thirtieth of each even-numbered year, starting in 2022, a county that
+11 receives a grant from the fund shall provide a report to the state treasurer on the use
+12 of the funding. The state treasurer shall notify counties of the reporting requirement by
+13 November first of each even-numbered year, starting in 2022. Upon request, the state
+14 treasurer may provide an extension of up to fifteen days for a county to submit the
+15 report. The state treasurer shall determine the format of the report. The report must
+16 include the amount of grant funding received and spent by the county and a
+17 description of the road and bridge infrastructure projects completed in part or in whole
+18 with the grant funding. The state treasurer shall make the reports available to the
+19 public on the state treasurer's website.
+20 3. a. A county that does not provide the report in a timely manner or in the correct
+21 format is not eligible to receive a grant from the fund for a period of two years
+22 starting from the date the report was due.
+23 b. If a county uses the funding in a manner inconsistent with the requirements of
+24 this section as identified in any financial audits conducted by the state auditor or
+25 an independent accounting firm, the state treasurer shall reduce any future
+26 grants to that county by the amount spent that was inconsistent with the
+27 requirements.
+28 c. If a county or township adopts an ordinance or policy that interferes or conflicts
+29 with an energy infrastructure project permitted or approved by a state agency, the
+30 county or township is not eligible to receive any grants from the fund beginning
+Page No. 5 25.1104.01000
+Sixty-ninth
+Legislative Assembly
+1 on the later of the date on which the city adopted the ordinance or policy, or the
+2 date on which the state agency permits or approves the project.
+3 2.4. Within sixty days after the fund receives its statutory limit of oil and gas tax allocations
+4 under section 57-51.1-07.5 or by September thirtieth of each odd-numbered year,
+5 whichever is earlier, the state treasurer shall distribute moneys in the fund as grants to
+6 counties for road and bridge infrastructure projects. The state treasurer shall distribute
+7 the grants only if the fund balance is at least ten percent of the amount needed for
+8 distributions under this section.
+9 3.5. The state treasurer shall distribute the lesser of thirteen percent of the balance of the
+10 fund or sixteen million one hundred thousand dollars to non-oil-producing counties for
+11 the benefit of the organized and unorganized townships within each non-oil-producing
+12 county. The distribution to each non-oil-producing county must provide for an equal
+13 allocation to each organized and unorganized township. The amount allocated to
+14 organized townships under this section must be paid by the county treasurer to each
+15 organized township. The amount allocated to unorganized townships under this
+16 section must be credited by the county treasurer to a special fund for unorganized
+17 township roads. A township is not eligible for an allocation of funds under this section if
+18 the township does not maintain any township roads.
+19 4.6. After the distributions in subsection 35, the state treasurer shall distribute the
+20 remaining money in the fund to non-oil-producing counties based on the most recent
+21 data compiled by the upper great plains transportation institute regarding North
+22 Dakota's county, township, and tribal road and bridge infrastructure needs. The
+23 distribution to each non-oil-producing county must be proportional to each
+24 non-oil-producing county's total estimated road and bridge investment needs relative
+25 to the combined total estimated road and bridge investment needs of all the
+26 non-oil-producing counties. The total estimated road and bridge investment needs for
+27 each county is the twenty-year estimate for unpaved and paved road and bridge
+28 needs as identified by the upper great plains transportation institute. If the data
+29 compiled by the upper great plains transportation institute includes more than one
+30 twenty-year estimate for the total needs of each county, the state treasurer shall use
+31 an average of the twenty-year estimates for each county.
+Page No. 6 25.1104.01000
+Sixty-ninth
+Legislative Assembly
+1 5.7. If the moneys in the fund are insufficient to provide for the grants under this section,
+2 the state treasurer shall distribute the grants on a pro rata basis.
+3 6.8. For purposes of this section:
+4 a. "Fiscal year" means the period beginning September first and ending August
+5 thirty-first of the following calendar year.
+6 b. "Non-oil-producing county" means a county that received no allocation of funding
+7 or a total allocation of less than five million dollars under subsection 2 of section
+8 57-51-15 in the most recently completed even-numbered fiscal year before the
+9 start of each biennium.
+10 c. "Road and bridge infrastructure projects" means the projects associated with the
+11 construction of new unpaved and paved road and bridge infrastructure or
+12 associated with the maintenance, repair, or replacement of existing unpaved and
+13 paved road and bridge infrastructure.
+Page No. 7 25.1104.01000
+[DELETED: .T.B12]
+[DELETED: .a.A.I.I.W.T.F.O.I.F22]
+[DELETED: .W.O.I)T)T.I.G.F32]
+[DELETED: .F.F.")W)W)S)W)S)R)A)E)N)C."."42]
+[DELETED: .T.B.a.A.I.I52]
+[DELETED: .W.T.A62]
+[DELETED: .I.F."."."72]
+
+
+================================================================================
+
+Raw Text:
+25.1104.01000
+Sixty-ninth
+SENATE BILL NO. 2208
+Legislative Assembly
+of North Dakota
+Introduced by
+Senators Patten, Bekkedahl, Erbele, Kessel
+Representatives Brandenburg, Porter
+1 A BILL for an Act to amend and reenact sections 57-51.1-07.7 and 57-51.1-07.8 of the North
+2 Dakota Century Code, relating to the municipal infrastructure fund and the county and township
+3 infrastructure fund.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Section 57-51.1-07.7 of the North Dakota Century Code is
+6 amended and reenacted as follows:
+7 57-51.1-07.7. Municipal infrastructure fund - Continuing appropriation - State
+8 treasurer - Reports.
+9 1. There is created in the state treasury the municipal infrastructure fund. The fund
+10 consists of all moneys deposited in the fund under section 57-51.1-07.5. All moneys in
+11 the fund are appropriated to the state treasurer on a continuing basis for the purpose
+12 of providing grants to cities located in non-oil-producing counties. The grant funding
+13 may be distributed only to cities located in non-oil-producing counties, excluding hub
+14 cities, and may be used only for essential infrastructure projects.
+15 1.2. By November thirtieth of each even-numbered year, starting in 2022, a city that
+16 receives a grant from the fund shall provide a report to the state treasurer on the use
+17 of the funding. The state treasurer shall notify cities of the reporting requirement by
+18 November first of each even-numbered year, starting in 2022. Upon request, the state
+19 treasurer may provide an extension of up to fifteen days for a city to submit the report.
+20 The state treasurer shall determine the format of the report. The report must include
+21 the amount of grant funding received and spent by the city and a description of the
+22 infrastructure projects completed in part or in whole with the grant funding. The state
+23 treasurer shall make the reports available to the public on the state treasurer's
+24 website.
+Page No. 1 25.1104.01000
+
+Sixty-ninth
+Legislative Assembly
+1 3. a. A city that does not provide the report in a timely manner or in the correct format
+2 is not eligible to receive a grant from the fund for a period of two years starting
+3 from the date the report was due.
+4 b. If a city uses the funding in a manner inconsistent with the requirements of this
+5 section as identified in any financial audits conducted by the state auditor or an
+6 independent accounting firm, the state treasurer shall reduce any future grants to
+7 that city by the amount spent that was inconsistent with the requirements.
+8 c. If a city adopts an ordinance or policy that interferes or conflicts with an energy
+9 infrastructure project permitted or approved by a state agency, the city is not
+10 eligible to receive any grants from the fund beginning on the later of the date on
+11 which the city adopted the ordinance or policy, or the date on which the state
+12 agency permits or approves the project.
+13 2.4. Within forty days after the fund balance is greater than or equal to the amount needed
+14 for the grants under this subsection or by September thirtieth of each odd-numbered
+15 year, whichever is earlier, the state treasurer shall distribute moneys in the fund as
+16 grants to cities for essential infrastructure projects. The state treasurer shall distribute
+17 the grants only if the fund balance is at least ten percent of the amount needed for
+18 distributions under this subsection based on the following:
+19 a. Two million five hundred thousand dollars to each city with a population of at
+20 least five thousand;
+21 b. Five hundred thousand dollars to each city with a population of at least two
+22 thousand but less than five thousand; and
+23 c. One hundred twenty-five thousand dollars to each city with a population of at
+24 least one thousand but less than two thousand.
+25 d. If, at the time of the distributions, the moneys in the fund are less than the
+26 amount needed for the grants under this subsection, the state treasurer shall
+27 distribute the grants under this subsection on a pro rata basis.
+28 e. For the purposes of determining the city's population under this subsection, the
+29 state treasurer shall use the most recent actual or estimated census data
+30 published by the United States census bureau.
+Page No. 2 25.1104.01000
+
+Sixty-ninth
+Legislative Assembly
+1 3.5. Within sixty days after the fund receives its statutory limit of oil and gas tax allocations
+2 under section 57-51.1-07.5 or by September thirtieth of each odd-numbered year,
+3 whichever is earlier, the state treasurer shall distribute the moneys in the fund as
+4 grants to cities for essential infrastructure projects. The state treasurer shall distribute
+5 the grants only if the fund balance is at least ten percent of the amount needed for
+6 distributions under this subsection based on the following:
+7 a. One hundred fifty dollars per person of the city's population.
+8 b. In addition to the amounts in subdivision a, for a city with a positive average of
+9 the annual percentage increase in population from three years prior, a dollar
+10 amount equal to the product of the following:
+11 (1) The amount calculated in subdivision a; and
+12 (2) The average of the annual percentage increase in population from three
+13 years prior, multiplied by ten.
+14 c. In addition to the amounts in subdivisions a and b, for a city with a positive
+15 average of the annual percentage increase in taxable property values from three
+16 years prior, a dollar amount equal to the average of the annual property valuation
+17 percentage increase for the three most recent years, multiplied by twenty-five
+18 thousandths.
+19 d. Grants may be distributed under this subdivision only if the grant distributions
+20 under subsection 24 are completed. If the moneys in the fund are insufficient to
+21 provide for the grants, the state treasurer shall distribute the grants under this
+22 subsection on a pro rata basis. If any moneys remain in the fund after the
+23 distribution of grants under this subsection, the state treasurer shall distribute any
+24 remaining moneys in the fund in proportion to the combined total distributed to
+25 each city under this section relative to the combined total distributed to all the
+26 cities under this section.
+27 e. For the purposes of determining the city's population under this subsection, the
+28 state treasurer shall use the most recent actual or estimated census data
+29 published by the United States census bureau.
+Page No. 3 25.1104.01000
+
+Sixty-ninth
+Legislative Assembly
+1 f. For the purposes of determining taxable property values, the state treasurer shall
+2 use the most recent data published by the tax commissioner in the tax levy
+3 report.
+4 4.6. For purposes of this section:
+5 a. "Essential infrastructure projects" means capital construction projects to construct
+6 new infrastructure or to replace existing infrastructure, which provide the fixed
+7 installations necessary for the function of a city. Capital construction projects
+8 exclude debt repayments and routine maintenance and repair projects, but
+9 include the following:
+10 (1) Water treatment plants;
+11 (2) Wastewater treatment plants;
+12 (3) Sewer lines and water lines, including lift stations and pumping systems;
+13 (4) Water storage systems, including dams, water tanks, and water towers;
+14 (5) Storm water infrastructure, including curb and gutter construction;
+15 (6) Road and bridge infrastructure, including paved and unpaved roads and
+16 bridges;
+17 (7) Airport infrastructure;
+18 (8) Electricity transmission infrastructure;
+19 (9) Natural gas transmission infrastructure; and
+20 (10) Communications infrastructure, excluding fiber optic infrastructure.
+21 b. "Fiscal year" means the period beginning September first and ending August
+22 thirty-first of the following calendar year.
+23 c. "Non-oil-producing county" means a county that received no allocation of funding
+24 or a total allocation of less than five million dollars under subsection 2 of section
+25 57-51-15 in the most recently completed even-numbered fiscal year before the
+26 start of each biennium.
+27 SECTION 2. AMENDMENT. Section 57-51.1-07.8 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+Page No. 4 25.1104.01000
+
+Sixty-ninth
+Legislative Assembly
+1 57-51.1-07.8. County and township infrastructure fund - Continuing appropriation -
+2 State treasurer - Reports.
+3 1. There is created in the state treasury the county and township infrastructure fund. The
+4 fund consists of all moneys deposited in the fund under section 57-51.1-07.5. All
+5 moneys in the fund are appropriated to the state treasurer on a continuing basis for
+6 the purpose of providing grants to non-oil-producing counties and townships located in
+7 non-oil-producing counties. The grant funding may be distributed only to
+8 non-oil-producing counties and townships located in non-oil-producing counties and
+9 may be used only for road and bridge infrastructure projects.
+10 1.2. By November thirtieth of each even-numbered year, starting in 2022, a county that
+11 receives a grant from the fund shall provide a report to the state treasurer on the use
+12 of the funding. The state treasurer shall notify counties of the reporting requirement by
+13 November first of each even-numbered year, starting in 2022. Upon request, the state
+14 treasurer may provide an extension of up to fifteen days for a county to submit the
+15 report. The state treasurer shall determine the format of the report. The report must
+16 include the amount of grant funding received and spent by the county and a
+17 description of the road and bridge infrastructure projects completed in part or in whole
+18 with the grant funding. The state treasurer shall make the reports available to the
+19 public on the state treasurer's website.
+20 3. a. A county that does not provide the report in a timely manner or in the correct
+21 format is not eligible to receive a grant from the fund for a period of two years
+22 starting from the date the report was due.
+23 b. If a county uses the funding in a manner inconsistent with the requirements of
+24 this section as identified in any financial audits conducted by the state auditor or
+25 an independent accounting firm, the state treasurer shall reduce any future
+26 grants to that county by the amount spent that was inconsistent with the
+27 requirements.
+28 c. If a county or township adopts an ordinance or policy that interferes or conflicts
+29 with an energy infrastructure project permitted or approved by a state agency, the
+30 county or township is not eligible to receive any grants from the fund beginning
+Page No. 5 25.1104.01000
+
+Sixty-ninth
+Legislative Assembly
+1 on the later of the date on which the city adopted the ordinance or policy, or the
+2 date on which the state agency permits or approves the project.
+3 2.4. Within sixty days after the fund receives its statutory limit of oil and gas tax allocations
+4 under section 57-51.1-07.5 or by September thirtieth of each odd-numbered year,
+5 whichever is earlier, the state treasurer shall distribute moneys in the fund as grants to
+6 counties for road and bridge infrastructure projects. The state treasurer shall distribute
+7 the grants only if the fund balance is at least ten percent of the amount needed for
+8 distributions under this section.
+9 3.5. The state treasurer shall distribute the lesser of thirteen percent of the balance of the
+10 fund or sixteen million one hundred thousand dollars to non-oil-producing counties for
+11 the benefit of the organized and unorganized townships within each non-oil-producing
+12 county. The distribution to each non-oil-producing county must provide for an equal
+13 allocation to each organized and unorganized township. The amount allocated to
+14 organized townships under this section must be paid by the county treasurer to each
+15 organized township. The amount allocated to unorganized townships under this
+16 section must be credited by the county treasurer to a special fund for unorganized
+17 township roads. A township is not eligible for an allocation of funds under this section if
+18 the township does not maintain any township roads.
+19 4.6. After the distributions in subsection 35, the state treasurer shall distribute the
+20 remaining money in the fund to non-oil-producing counties based on the most recent
+21 data compiled by the upper great plains transportation institute regarding North
+22 Dakota's county, township, and tribal road and bridge infrastructure needs. The
+23 distribution to each non-oil-producing county must be proportional to each
+24 non-oil-producing county's total estimated road and bridge investment needs relative
+25 to the combined total estimated road and bridge investment needs of all the
+26 non-oil-producing counties. The total estimated road and bridge investment needs for
+27 each county is the twenty-year estimate for unpaved and paved road and bridge
+28 needs as identified by the upper great plains transportation institute. If the data
+29 compiled by the upper great plains transportation institute includes more than one
+30 twenty-year estimate for the total needs of each county, the state treasurer shall use
+31 an average of the twenty-year estimates for each county.
+Page No. 6 25.1104.01000
+
+Sixty-ninth
+Legislative Assembly
+1 5.7. If the moneys in the fund are insufficient to provide for the grants under this section,
+2 the state treasurer shall distribute the grants on a pro rata basis.
+3 6.8. For purposes of this section:
+4 a. "Fiscal year" means the period beginning September first and ending August
+5 thirty-first of the following calendar year.
+6 b. "Non-oil-producing county" means a county that received no allocation of funding
+7 or a total allocation of less than five million dollars under subsection 2 of section
+8 57-51-15 in the most recently completed even-numbered fiscal year before the
+9 start of each biennium.
+10 c. "Road and bridge infrastructure projects" means the projects associated with the
+11 construction of new unpaved and paved road and bridge infrastructure or
+12 associated with the maintenance, repair, or replacement of existing unpaved and
+13 paved road and bridge infrastructure.
+Page No. 7 25.1104.01000
+
+[DELETED: .T.B12]
+[DELETED: .a.A.I.I.W.T.F.O.I.F22]
+[DELETED: .W.O.I)T)T.I.G.F32]
+[DELETED: .F.F.")W)W)S)W)S)R)A)E)N)C."."42]
+[DELETED: .T.B.a.A.I.I52]
+[DELETED: .W.T.A62]
+[DELETED: .I.F."."."72]

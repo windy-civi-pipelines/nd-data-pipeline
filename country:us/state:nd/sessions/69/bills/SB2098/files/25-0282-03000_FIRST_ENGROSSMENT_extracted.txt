@@ -1,0 +1,205 @@
+Title: ENGROSSED SENATE BILL NO. 2098
+Official Title: ENGROSSED SENATE BILL NO. 2098
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0282.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Senator Larson
+Representative Heinert
+1 A BILL for an Act to create and enact a new chapter to title 54 of the North Dakota Century
+2 Code, relating to a state alert notice system; and to repeal sections 39-03-13.2 and 54-12-32 of
+3 the North Dakota Century Code, relating to the state's silver and blue alert notice systems.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new chapter to title 54 of the North Dakota Century Code is created and
+6 enacted as follows:
+7 Definitions.
+8 As used in this chapter:
+9 1. "Amber alert notice" means an urgent bulletin using the emergency alert system to air
+10 a description of a child who has been abducted.
+11 2. "Blue alert notice" means an urgent bulletin using the emergency alert system to air a
+12 description of an individual or an individual's vehicle to aid in the apprehension of an
+13 individual who has threatened a law enforcement officer with a deadly weapon, used a
+14 deadly weapon against a law enforcement officer, caused a law enforcement officer to
+15 suffer serious bodily injury or death, abducted a law enforcement officer, or caused a
+16 law enforcement officer to go missing while on duty, and the individual has left the
+17 scene of the offense.
+18 3. "Missing endangered individual" means:
+19 a. A disabled adult or elderly vulnerable adult as defined in section 50 - 25.2 - 01 who
+20 has disappeared and whose disappearance has been reported to law
+21 enforcement;
+Page No. 1 25.0282.03000
+Sixty-ninth
+Legislative Assembly
+1 b. A minor who has a developmental disability as defined in section 25 - 01.2 - 01 who
+2 has disappeared and whose disappearance has been reported to law
+3 enforcement; or
+4 c. An elderly adult who has disappeared, whose disappearance has been reported
+5 to law enforcement and the disappearance:
+6 (1) Indicates the individual is believed to be in grave danger of serious bodily
+7 harm or death, as determined by a law enforcement agency and either the
+8 highway patrol or bureau of criminal investigation, based on a report
+9 received from the missing adult's family member or an individual who has
+10 significant frequent contact with the missing adult, which contains sufficient
+11 evidence of the imminent risk;
+12 (2) Warrants a silver alert notice activation due to the particular circumstances,
+13 as determined by a law enforcement agency and either the highway patrol
+14 or bureau of criminal investigation, based on a report received from the
+15 missing adult's family member or an individual who has significant frequent
+16 contact with the missing adult, which contains sufficient evidence that the
+17 particular circumstances warrant a silver alert notice activation.
+18 4. "Silver alert notice" means an urgent bulletin using the emergency alert system to air a
+19 description of a missing individual to aid in the location of that individual.
+20 Alert notice system activation.
+21 1. A law enforcement agency may request the bureau of criminal investigation or the
+22 superintendent of the highway patrol to activate an amber alert notice, a blue alert
+23 notice, or a silver alert notice.
+24 2. The bureau of criminal investigation, in cooperation with the highway patrol, shall
+25 prepare an operational plan to prepare for and respond to requests for activation of an
+26 amber alert notice, a blue alert notice, or a silver alert notice. The plan must include
+27 the role and requirements of the division of state radio of the department of emergency
+28 services in broadcasting an alert to the public.
+29 Minimum requirements for activating an amber or blue alert notice.
+30 1. An amber alert notice may not be activated unless:
+31 a. The abduction involves a child seventeen years of age or younger;
+Page No. 2 25.0282.03000
+Sixty-ninth
+Legislative Assembly
+1 b. The law enforcement agency investigating the abduction has confirmed the child
+2 is believed to be in grave danger of serious bodily harm or death; and
+3 c. The bureau of criminal investigation or the superintendent of the highway patrol
+4 determines sufficient descriptive information has been provided about the child,
+5 the abductor, or the abductor's motor vehicle to:
+6 (1) Assist with the safe recovery of the child;
+7 (2) Assist with the apprehension of the abductor; and
+8 (3) Believe an immediate broadcast alert will assist in the search for and safe
+9 return of the child.
+10 2. A blue alert notice may not be activated unless:
+11 a. An individual who is a suspect in an offense has threatened a law enforcement
+12 officer with a deadly weapon, used a deadly weapon against a law enforcement
+13 officer, caused a law enforcement officer to suffer serious bodily injury or death,
+14 abducted a law enforcement officer, or caused a law enforcement officer to go
+15 missing while on duty;
+16 b. The individual has fled the scene of the offense and a description of the individual
+17 or the individual's vehicle is available for broadcast;
+18 c. The law enforcement agency investigating the offense has determined the
+19 individual poses a threat to the public or other law enforcement personnel; and
+20 d. Dissemination of available information to the public may help avert further harm
+21 or assist in the apprehension of the suspect.
+22 SECTION 2. REPEAL. Sections 39-03-13.2 and 54-12-32 of the North Dakota Century
+23 Code are repealed.
+Page No. 3 25.0282.03000
+[DELETED: .".".". 12]
+[DELETED: . .A)I)W.".A.T.A.T22]
+[DELETED: .T.T)A)A)B.A.A.T.T.D32]
+
+
+================================================================================
+
+Raw Text:
+25.0282.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2098
+Introduced by
+Senator Larson
+Representative Heinert
+1 A BILL for an Act to create and enact a new chapter to title 54 of the North Dakota Century
+2 Code, relating to a state alert notice system; and to repeal sections 39-03-13.2 and 54-12-32 of
+3 the North Dakota Century Code, relating to the state's silver and blue alert notice systems.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new chapter to title 54 of the North Dakota Century Code is created and
+6 enacted as follows:
+7 Definitions.
+8 As used in this chapter:
+9 1. "Amber alert notice" means an urgent bulletin using the emergency alert system to air
+10 a description of a child who has been abducted.
+11 2. "Blue alert notice" means an urgent bulletin using the emergency alert system to air a
+12 description of an individual or an individual's vehicle to aid in the apprehension of an
+13 individual who has threatened a law enforcement officer with a deadly weapon, used a
+14 deadly weapon against a law enforcement officer, caused a law enforcement officer to
+15 suffer serious bodily injury or death, abducted a law enforcement officer, or caused a
+16 law enforcement officer to go missing while on duty, and the individual has left the
+17 scene of the offense.
+18 3. "Missing endangered individual" means:
+19 a. A disabled adult or elderly vulnerable adult as defined in section 50 - 25.2 - 01 who
+20 has disappeared and whose disappearance has been reported to law
+21 enforcement;
+Page No. 1 25.0282.03000
+
+Sixty-ninth
+Legislative Assembly
+1 b. A minor who has a developmental disability as defined in section 25 - 01.2 - 01 who
+2 has disappeared and whose disappearance has been reported to law
+3 enforcement; or
+4 c. An elderly adult who has disappeared, whose disappearance has been reported
+5 to law enforcement and the disappearance:
+6 (1) Indicates the individual is believed to be in grave danger of serious bodily
+7 harm or death, as determined by a law enforcement agency and either the
+8 highway patrol or bureau of criminal investigation, based on a report
+9 received from the missing adult's family member or an individual who has
+10 significant frequent contact with the missing adult, which contains sufficient
+11 evidence of the imminent risk;
+12 (2) Warrants a silver alert notice activation due to the particular circumstances,
+13 as determined by a law enforcement agency and either the highway patrol
+14 or bureau of criminal investigation, based on a report received from the
+15 missing adult's family member or an individual who has significant frequent
+16 contact with the missing adult, which contains sufficient evidence that the
+17 particular circumstances warrant a silver alert notice activation.
+18 4. "Silver alert notice" means an urgent bulletin using the emergency alert system to air a
+19 description of a missing individual to aid in the location of that individual.
+20 Alert notice system activation.
+21 1. A law enforcement agency may request the bureau of criminal investigation or the
+22 superintendent of the highway patrol to activate an amber alert notice, a blue alert
+23 notice, or a silver alert notice.
+24 2. The bureau of criminal investigation, in cooperation with the highway patrol, shall
+25 prepare an operational plan to prepare for and respond to requests for activation of an
+26 amber alert notice, a blue alert notice, or a silver alert notice. The plan must include
+27 the role and requirements of the division of state radio of the department of emergency
+28 services in broadcasting an alert to the public.
+29 Minimum requirements for activating an amber or blue alert notice.
+30 1. An amber alert notice may not be activated unless:
+31 a. The abduction involves a child seventeen years of age or younger;
+Page No. 2 25.0282.03000
+
+Sixty-ninth
+Legislative Assembly
+1 b. The law enforcement agency investigating the abduction has confirmed the child
+2 is believed to be in grave danger of serious bodily harm or death; and
+3 c. The bureau of criminal investigation or the superintendent of the highway patrol
+4 determines sufficient descriptive information has been provided about the child,
+5 the abductor, or the abductor's motor vehicle to:
+6 (1) Assist with the safe recovery of the child;
+7 (2) Assist with the apprehension of the abductor; and
+8 (3) Believe an immediate broadcast alert will assist in the search for and safe
+9 return of the child.
+10 2. A blue alert notice may not be activated unless:
+11 a. An individual who is a suspect in an offense has threatened a law enforcement
+12 officer with a deadly weapon, used a deadly weapon against a law enforcement
+13 officer, caused a law enforcement officer to suffer serious bodily injury or death,
+14 abducted a law enforcement officer, or caused a law enforcement officer to go
+15 missing while on duty;
+16 b. The individual has fled the scene of the offense and a description of the individual
+17 or the individual's vehicle is available for broadcast;
+18 c. The law enforcement agency investigating the offense has determined the
+19 individual poses a threat to the public or other law enforcement personnel; and
+20 d. Dissemination of available information to the public may help avert further harm
+21 or assist in the apprehension of the suspect.
+22 SECTION 2. REPEAL. Sections 39-03-13.2 and 54-12-32 of the North Dakota Century
+23 Code are repealed.
+Page No. 3 25.0282.03000
+
+[DELETED: .".".". 12]
+[DELETED: . .A)I)W.".A.T.A.T22]
+[DELETED: .T.T)A)A)B.A.A.T.T.D32]

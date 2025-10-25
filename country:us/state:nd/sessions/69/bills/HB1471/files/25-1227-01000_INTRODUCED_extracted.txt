@@ -1,0 +1,96 @@
+Title: HOUSE BILL NO. 1471
+Official Title: HOUSE BILL NO. 1471
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1227.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Christianson, Dockter, Kasper, Koppelman, Ostlie, Finley-DeVille, Louser
+Senators Bekkedahl, Paulson, Cleary, Meyer, Lee
+1 A BILL for an Act to create and enact a new section to chapter 26.1-36.9 of the North Dakota
+2 Century Code, relating to dental benefit plan method of payment options.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 26.1-36.9 of the North Dakota Century Code is
+5 created and enacted as follows:
+6 Method of payment option.
+7 1. A dental benefit plan may not include restrictions on methods of payment from the
+8 dental benefit plans or the plan's vendor or the health maintenance organization to the
+9 dentist in which the only acceptable payment method is a credit card payment.
+10 2. If initiating or changing payments to a dentist using electronic funds transfer payments,
+11 including virtual credit card payments, a dental benefit plan or the plan's contracted
+12 vendor or health maintenance organization shall:
+13 a. Notify the dentist if any fees are associated with a particular payment method;
+14 b. Advise the dentist of the available methods of payment and provide clear
+15 instructions to the dentist as to how to select an alternative payment method that
+16 does not impose fees or similar charges on the provider; and
+17 c. Notify the dentist if the dental benefit plan is sharing a part of the profit of the fee
+18 charged by the credit card company to pay the claim.
+19 3. A dental benefit plan, or the plan's contracted vendor or health maintenance
+20 organization, which initiates or changes payments to a dentist through the automated
+21 clearinghouse network, under title 45, Code of Federal Regulations, sections 162.1601
+22 and 162.1602, may not charge a fee solely to transmit the payment to a dentist unless
+23 the dentist has consented to the fee. A dentist's agent may charge reasonable fees if
+24 transmitting an automated clearinghouse network payment related to transaction
+Page No. 1 25.1227.01000
+Sixty-ninth
+Legislative Assembly
+1 management, data management, portal services, and other value-added services in
+2 addition to the bank transmittal.
+Page No. 2 25.1227.01000
+[DELETED: .A.I.N.A.N.A12]
+[DELETED: 22]
+
+
+================================================================================
+
+Raw Text:
+25.1227.01000
+Sixty-ninth
+HOUSE BILL NO. 1471
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Christianson, Dockter, Kasper, Koppelman, Ostlie, Finley-DeVille, Louser
+Senators Bekkedahl, Paulson, Cleary, Meyer, Lee
+1 A BILL for an Act to create and enact a new section to chapter 26.1-36.9 of the North Dakota
+2 Century Code, relating to dental benefit plan method of payment options.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. A new section to chapter 26.1-36.9 of the North Dakota Century Code is
+5 created and enacted as follows:
+6 Method of payment option.
+7 1. A dental benefit plan may not include restrictions on methods of payment from the
+8 dental benefit plans or the plan's vendor or the health maintenance organization to the
+9 dentist in which the only acceptable payment method is a credit card payment.
+10 2. If initiating or changing payments to a dentist using electronic funds transfer payments,
+11 including virtual credit card payments, a dental benefit plan or the plan's contracted
+12 vendor or health maintenance organization shall:
+13 a. Notify the dentist if any fees are associated with a particular payment method;
+14 b. Advise the dentist of the available methods of payment and provide clear
+15 instructions to the dentist as to how to select an alternative payment method that
+16 does not impose fees or similar charges on the provider; and
+17 c. Notify the dentist if the dental benefit plan is sharing a part of the profit of the fee
+18 charged by the credit card company to pay the claim.
+19 3. A dental benefit plan, or the plan's contracted vendor or health maintenance
+20 organization, which initiates or changes payments to a dentist through the automated
+21 clearinghouse network, under title 45, Code of Federal Regulations, sections 162.1601
+22 and 162.1602, may not charge a fee solely to transmit the payment to a dentist unless
+23 the dentist has consented to the fee. A dentist's agent may charge reasonable fees if
+24 transmitting an automated clearinghouse network payment related to transaction
+Page No. 1 25.1227.01000
+
+Sixty-ninth
+Legislative Assembly
+1 management, data management, portal services, and other value-added services in
+2 addition to the bank transmittal.
+Page No. 2 25.1227.01000
+
+[DELETED: .A.I.N.A.N.A12]
+[DELETED: 22]

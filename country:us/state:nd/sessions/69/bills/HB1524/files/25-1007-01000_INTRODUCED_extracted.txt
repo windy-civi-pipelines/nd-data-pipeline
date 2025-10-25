@@ -1,0 +1,144 @@
+Title: HOUSE BILL NO. 1524
+Official Title: HOUSE BILL NO. 1524
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1007.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Monson, Brandenburg, Kempenich, O'Brien, Ostlie, Pyle
+Senators Kessel, Meyer, Myrdal, Barta, Lemm
+1 A BILL for an Act to create and enact a new section to chapter 54-40.1 of the North Dakota
+2 Century Code, relating to the funding of regional planning councils; and to provide an
+3 appropriation.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 54-40.1 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Biennial work plan - Funding.
+8 1. A regional council shall prepare a biennial work plan. The work plan must:
+9 a. Include proposed actions, targeted outcomes, and an itemized budget.
+10 b. Align with the comprehensive economic development strategy for the region
+11 developed with input from regional stakeholders, including members of the
+12 legislative assembly.
+13 c. Be approved by the regional council's executive board before submission.
+14 d. Address issues of rural capacity, including business development, zoning and
+15 land use planning, grant writing and technical assistance, housing development,
+16 child care support, workforce development, infrastructure planning, tourism and
+17 placemaking initiatives, disaster recovery planning, and community leadership
+18 development.
+19 2. A regional council shall submit:
+20 a. Copies of the biennial work plan no later than twelve months before the
+21 beginning of each biennium to the commissioner of the department of commerce,
+22 the governor, and members of the legislative assembly representing the region. A
+23 county providing financial support to regional councils shall maintain or exceed
+24 the funding to ensure the continuation of regional development efforts.
+Page No. 1 25.1007.01000
+Sixty-ninth
+Legislative Assembly
+1 b. Reporting metrics detailing program outcomes, expenditures, and other relevant
+2 performance measures no later than forty - five days before the end of the
+3 biennium to the commissioner of the department of commerce, the governor, and
+4 members of the legislative assembly representing the region.
+5 3. Subject to legislative appropriations, the department of commerce shall provide
+6 funding to regional councils to implement the biennial work plan.
+7 4. Funds may:
+8 a. Be used to employ individuals or for contractual services to implement the
+9 biennial work plan under this section.
+10 b. Not be used for debt repayment, loans, grants, lobbying, political activities, or
+11 unrelated or nonessential expenses, including entertainment, luxury purchases,
+12 or projects that do not demonstrate a regional benefit.
+13 5. Fifty percent of appropriated funding must be allocated equally among the eight
+14 regions and fifty percent must be awarded based on a funding formula established
+15 jointly by the department of commerce and the association of regional councils.
+16 6. The funding formula under subsection 5 must be reviewed and amended as necessary
+17 every four years and provide equitable allocation of funding for a regional council
+18 providing services for multiple service areas or counties.
+19 7. The department of commerce shall provide to each regional council a minimum
+20 allocation of five hundred thousand dollars per region per biennium and a maximum
+21 allocation of one million five hundred thousand dollars per region per biennium.
+22 SECTION 2. APPROPRIATION - DEPARTMENT OF COMMERCE - REGIONAL
+23 COUNCILS. There is appropriated out of any moneys in the general fund in the state treasury,
+24 not otherwise appropriated, the sum of $8,000,000, or so much of the sum as may be
+25 necessary, to the department of commerce for the purpose of funding regional planning
+26 councils, for the biennium beginning July 1, 2025, and ending June 30, 2027.
+Page No. 2 25.1007.01000
+[DELETED: .A.I.A.B.A.A.C12]
+[DELETED: .R.S.F.B.N.F. .T22]
+
+
+================================================================================
+
+Raw Text:
+25.1007.01000
+Sixty-ninth
+HOUSE BILL NO. 1524
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Monson, Brandenburg, Kempenich, O'Brien, Ostlie, Pyle
+Senators Kessel, Meyer, Myrdal, Barta, Lemm
+1 A BILL for an Act to create and enact a new section to chapter 54-40.1 of the North Dakota
+2 Century Code, relating to the funding of regional planning councils; and to provide an
+3 appropriation.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 54-40.1 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Biennial work plan - Funding.
+8 1. A regional council shall prepare a biennial work plan. The work plan must:
+9 a. Include proposed actions, targeted outcomes, and an itemized budget.
+10 b. Align with the comprehensive economic development strategy for the region
+11 developed with input from regional stakeholders, including members of the
+12 legislative assembly.
+13 c. Be approved by the regional council's executive board before submission.
+14 d. Address issues of rural capacity, including business development, zoning and
+15 land use planning, grant writing and technical assistance, housing development,
+16 child care support, workforce development, infrastructure planning, tourism and
+17 placemaking initiatives, disaster recovery planning, and community leadership
+18 development.
+19 2. A regional council shall submit:
+20 a. Copies of the biennial work plan no later than twelve months before the
+21 beginning of each biennium to the commissioner of the department of commerce,
+22 the governor, and members of the legislative assembly representing the region. A
+23 county providing financial support to regional councils shall maintain or exceed
+24 the funding to ensure the continuation of regional development efforts.
+Page No. 1 25.1007.01000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Reporting metrics detailing program outcomes, expenditures, and other relevant
+2 performance measures no later than forty - five days before the end of the
+3 biennium to the commissioner of the department of commerce, the governor, and
+4 members of the legislative assembly representing the region.
+5 3. Subject to legislative appropriations, the department of commerce shall provide
+6 funding to regional councils to implement the biennial work plan.
+7 4. Funds may:
+8 a. Be used to employ individuals or for contractual services to implement the
+9 biennial work plan under this section.
+10 b. Not be used for debt repayment, loans, grants, lobbying, political activities, or
+11 unrelated or nonessential expenses, including entertainment, luxury purchases,
+12 or projects that do not demonstrate a regional benefit.
+13 5. Fifty percent of appropriated funding must be allocated equally among the eight
+14 regions and fifty percent must be awarded based on a funding formula established
+15 jointly by the department of commerce and the association of regional councils.
+16 6. The funding formula under subsection 5 must be reviewed and amended as necessary
+17 every four years and provide equitable allocation of funding for a regional council
+18 providing services for multiple service areas or counties.
+19 7. The department of commerce shall provide to each regional council a minimum
+20 allocation of five hundred thousand dollars per region per biennium and a maximum
+21 allocation of one million five hundred thousand dollars per region per biennium.
+22 SECTION 2. APPROPRIATION - DEPARTMENT OF COMMERCE - REGIONAL
+23 COUNCILS. There is appropriated out of any moneys in the general fund in the state treasury,
+24 not otherwise appropriated, the sum of $8,000,000, or so much of the sum as may be
+25 necessary, to the department of commerce for the purpose of funding regional planning
+26 councils, for the biennium beginning July 1, 2025, and ending June 30, 2027.
+Page No. 2 25.1007.01000
+
+[DELETED: .A.I.A.B.A.A.C12]
+[DELETED: .R.S.F.B.N.F. .T22]

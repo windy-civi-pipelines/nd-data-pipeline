@@ -1,0 +1,165 @@
+Title: HOUSE BILL NO. 1378
+Official Title: HOUSE BILL NO. 1378
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1015.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative J. Johnson
+1 A BILL for an Act to create and enact a new chapter to title 6 of the North Dakota Century Code,
+2 relating to mandating the payment of interest on escrow accounts for residential mortgages; to
+3 provide a penalty; and to provide for application.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new chapter to title 6 of the North Dakota Century Code is created and
+6 enacted as follows:
+7 Definitions.
+8 1. "Borrower" means a person that holds a residential mortgage loan and has an escrow
+9 account with a lender for the purpose of paying property taxes, insurance, or other
+10 related expenses.
+11 2. "Escrow account" means an account held by a lender or servicer used to collect and
+12 hold funds for the payment of property taxes, homeowner's insurance, and other
+13 related expenses associated with a residential mortgage.
+14 3. "Escrow funds" means money placed into an escrow account by a borrower for the
+15 payment of obligations such as property taxes, homeowner's insurance, and other
+16 expenses associated with home ownership.
+17 4. "Interest rate" means the percentage rate paid by the lender on funds held in escrow
+18 accounts.
+19 5. "Lender" means a bank, mortgage company, or other financial institution that services
+20 residential mortgage loans and holds escrow accounts. A lender shall pay interest on
+21 funds held in an escrow account that maintains a minimum average balance of five
+22 hundred dollars. The escrow account must have been in existence for a minimum of
+23 three months before the interest may be credited. Only active accounts are eligible for
+24 accumulation of interest.
+Page No. 1 25.1015.01000
+Sixty-ninth
+Legislative Assembly
+1 Determining the acceptable interest rate.
+2 1. The interest rate paid on escrow funds must be based on prevailing market rates for a
+3 saving or similar deposit account. At minimum, all interest paid under this chapter must
+4 be set at one - half percent annually. If the lender adjusts the interest rate, the change
+5 must be consistent with changes in market rates for comparable deposit products. A
+6 rate change may not disproportionately favor the lender. An adjustment to the interest
+7 rate must be communicated to the borrower at least thirty days before the new rate is
+8 applied.
+9 2. A lender holding an escrow account shall use a transparent and clear formula for
+10 determining the escrow account interest rate and clearly disclose the interest rate
+11 applied to escrow accounts in a loan agreement. If a lender offers multiple types of
+12 deposit accounts with different interest rates, the borrower must be informed of the
+13 type of deposit product tied to the borrower's escrow account.
+14 Compliance and enforcement - Penalty.
+15 1. The department of financial institutions shall enforce this chapter.
+16 2. A lender holding an escrow account shall submit an annual report to the department
+17 detailing the amount of interest credited to escrow accounts, including information on
+18 the rates applied and the number of borrowers affected.
+19 3. A lender that fails to pay interest on eligible escrow accounts is subject to a civil
+20 penalty determined by the department and suspension of business operations within
+21 the state until compliance is achieved.
+22 4. If a lender fails to credit interest to an escrow account, the borrower is entitled to
+23 receive the unpaid interest, plus an additional penalty interest rate, not to exceed ten
+24 percent of the unpaid interest, for each year of nonpayment.
+25 Disclosure - Opt - out.
+26 1. A lender shall state in the mortgage agreement and in periodic statements how escrow
+27 funds are managed, including details on the interest rate and how interest is credited.
+28 2. A borrower may op t - out of the interest payment provision only if the borrower's
+29 mortgage agreement explicitly allows the borrower to op t - out and the borrower agrees
+30 to forfeit the interest in exchange for a reduced mortgage rate or other benefit.
+Page No. 2 25.1015.01000
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. APPLICATION. This Act applies to an escrow account created after the
+2 effective date of this Act. For an existing escrow account, interest payments required by this Act
+3 must begin on January 1, 2026.
+Page No. 3 25.1015.01000
+[DELETED: ."."."."."12]
+[DELETED: .T.A.T.A.A.I.A. 22]
+[DELETED: 32]
+
+
+================================================================================
+
+Raw Text:
+25.1015.01000
+Sixty-ninth
+HOUSE BILL NO. 1378
+Legislative Assembly
+of North Dakota
+Introduced by
+Representative J. Johnson
+1 A BILL for an Act to create and enact a new chapter to title 6 of the North Dakota Century Code,
+2 relating to mandating the payment of interest on escrow accounts for residential mortgages; to
+3 provide a penalty; and to provide for application.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new chapter to title 6 of the North Dakota Century Code is created and
+6 enacted as follows:
+7 Definitions.
+8 1. "Borrower" means a person that holds a residential mortgage loan and has an escrow
+9 account with a lender for the purpose of paying property taxes, insurance, or other
+10 related expenses.
+11 2. "Escrow account" means an account held by a lender or servicer used to collect and
+12 hold funds for the payment of property taxes, homeowner's insurance, and other
+13 related expenses associated with a residential mortgage.
+14 3. "Escrow funds" means money placed into an escrow account by a borrower for the
+15 payment of obligations such as property taxes, homeowner's insurance, and other
+16 expenses associated with home ownership.
+17 4. "Interest rate" means the percentage rate paid by the lender on funds held in escrow
+18 accounts.
+19 5. "Lender" means a bank, mortgage company, or other financial institution that services
+20 residential mortgage loans and holds escrow accounts. A lender shall pay interest on
+21 funds held in an escrow account that maintains a minimum average balance of five
+22 hundred dollars. The escrow account must have been in existence for a minimum of
+23 three months before the interest may be credited. Only active accounts are eligible for
+24 accumulation of interest.
+Page No. 1 25.1015.01000
+
+Sixty-ninth
+Legislative Assembly
+1 Determining the acceptable interest rate.
+2 1. The interest rate paid on escrow funds must be based on prevailing market rates for a
+3 saving or similar deposit account. At minimum, all interest paid under this chapter must
+4 be set at one - half percent annually. If the lender adjusts the interest rate, the change
+5 must be consistent with changes in market rates for comparable deposit products. A
+6 rate change may not disproportionately favor the lender. An adjustment to the interest
+7 rate must be communicated to the borrower at least thirty days before the new rate is
+8 applied.
+9 2. A lender holding an escrow account shall use a transparent and clear formula for
+10 determining the escrow account interest rate and clearly disclose the interest rate
+11 applied to escrow accounts in a loan agreement. If a lender offers multiple types of
+12 deposit accounts with different interest rates, the borrower must be informed of the
+13 type of deposit product tied to the borrower's escrow account.
+14 Compliance and enforcement - Penalty.
+15 1. The department of financial institutions shall enforce this chapter.
+16 2. A lender holding an escrow account shall submit an annual report to the department
+17 detailing the amount of interest credited to escrow accounts, including information on
+18 the rates applied and the number of borrowers affected.
+19 3. A lender that fails to pay interest on eligible escrow accounts is subject to a civil
+20 penalty determined by the department and suspension of business operations within
+21 the state until compliance is achieved.
+22 4. If a lender fails to credit interest to an escrow account, the borrower is entitled to
+23 receive the unpaid interest, plus an additional penalty interest rate, not to exceed ten
+24 percent of the unpaid interest, for each year of nonpayment.
+25 Disclosure - Opt - out.
+26 1. A lender shall state in the mortgage agreement and in periodic statements how escrow
+27 funds are managed, including details on the interest rate and how interest is credited.
+28 2. A borrower may op t - out of the interest payment provision only if the borrower's
+29 mortgage agreement explicitly allows the borrower to op t - out and the borrower agrees
+30 to forfeit the interest in exchange for a reduced mortgage rate or other benefit.
+Page No. 2 25.1015.01000
+
+Sixty-ninth
+Legislative Assembly
+1 SECTION 2. APPLICATION. This Act applies to an escrow account created after the
+2 effective date of this Act. For an existing escrow account, interest payments required by this Act
+3 must begin on January 1, 2026.
+Page No. 3 25.1015.01000
+
+[DELETED: ."."."."."12]
+[DELETED: .T.A.T.A.A.I.A. 22]
+[DELETED: 32]

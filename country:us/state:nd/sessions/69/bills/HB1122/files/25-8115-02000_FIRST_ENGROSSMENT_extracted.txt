@@ -1,0 +1,895 @@
+Title: ENGROSSED HOUSE BILL NO. 1122
+Official Title: ENGROSSED HOUSE BILL NO. 1122
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+25.8115.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representative Nelson
+1 A BILL for an Act to create and enact two new sections to chapter 54-44.4 of the North Dakota
+2 Century Code, relating to purchases by state officials and employees and multiple award vendor
+3 pool contracts; and to amend and reenact subsection 6 of section 44-04-18.4, sections
+4 54-44.4-01, 54-44.4-02, 54-44.4-05, subsection 1 of section 54-44.4-07, subsection 1 of section
+5 54-44.4-09, sections 54-44.4-09.1, 54-44.4-12, 54-44.4-13, and 54-44.4-14 of the North Dakota
+6 Century Code, relating to state purchasing practices.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Subsection 6 of section 44-04-18.4 of the North Dakota
+9 Century Code is amended and reenacted as follows:
+10 6. Unless made confidential under subsection 1 or made exempt under subsection 5:
+11 a. Bids received by a public entity in response to an invitation for bids by the public
+12 entity are exempt until all of the bids have been received and opened by the
+13 public entity.
+14 b. Proposals received by a public entity in response to a request for proposals are
+15 exempt records until a notice of intent to award is issued.
+16 c. Records included with any bid or proposal naming and generally describing the
+17 entity submitting the proposal are open.
+18 SECTION 2. AMENDMENT. Section 54-44.4-01 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 54-44.4-01. Declaration of policy - Definitions.
+21 It is state policy to provide comprehensive purchasing services based upon sound
+22 procurement practices and principles wherein, through full competition with fair and equal
+Page No. 1 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 opportunity to all qualified persons to sell to the state, each state agency and institution shall
+2 obtain its necessary commodities and services at competitive cost, consistent with quality, time,
+3 and performance requirements, except as otherwise provided by law. As used in this chapter,
+4 unless the context requires otherwise:
+5 1. "Commodities" means all property, including equipment, supplies, materials, printing,
+6 insurance, and leases of equipment.
+7 2. "Information technology" has the same meaning as provided in section 54 - 59 - 01 .
+8 3. "Procurement officer" means an individual duly authorized to enter and administer
+9 purchasing contracts and make written determinations with respect thereto and also
+10 includes an authorized representative acting within the limits of authority.
+11 3.4. "Professional services" means those services requiring special knowledge, education,
+12 or skills when the qualifications and experience of the individual rendering the services
+13 are of primary importance and the individual is required to exercise professional
+14 judgment. Professional services providers include appraisers, attorneys, accountants,
+15 psychologists, physicians, dentists, planners, analysts, and consultants. The term
+16 includes human services under which a person provides direct health or social welfare
+17 services to the citizens on behalf of the state. The term does not include services
+18 defined in section 54-44.7-01.
+19 4.5. "Purchasing agency" means a governmental entity in the executive branch of
+20 government other than the office of management and budget which is authorized by
+21 this chapter, rules adopted under this chapter, written policy of the office of
+22 management and budget, or by way of delegation from the office of management and
+23 budget to enter purchasing contracts for commodities and services.
+24 5.6. "Services" means the furnishing of labor, time, or effort by a contractor, not involving
+25 the delivery of a specific end product other than reports that are merely incidental to
+26 the required performance. The term includes professional services.
+27 SECTION 3. AMENDMENT. Section 54-44.4-02 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+29 54-44.4-02. Office of management and budget purchasing services.
+30 The office of management and budget shall purchase or lease or otherwise arrange for the
+31 procurement, for all state agencies and institutions in the executive branch of state government,
+Page No. 2 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 all materials, furniture, fixtures, printing, insurance, services, and other commodities. The
+2 International Peace Garden may participate in the procurement authorized by this
+3 sectionContracts for use by multiple state agencies and institutions, including purchases under
+4 this section, must be established as a state contract by the office of management and budget or
+5 as a cooperative purchasing contract under section 54 - 44.4 - 13. Information technology
+6 procurements, including purchases under this section, are subject to the requirements of
+7 chapter 54 - 59 and policies, standards, and guidelines established pursuant to section 54 - 59 - 09 .
+8 The following commodities and services, however, are not subject to the competitive
+9 procurement requirements of this chapter:
+10 1. Land, buildings, space, or the rental thereof , in accordance with sections 54 - 21 - 24.1
+11 and 54 - 44.1 - 16 .
+12 2. Telephone and telegraph service and electrical light and power services.
+13 3. Public books, maps, periodicals, resource materials, and technical pamphlets.
+14 4. Department of transportation materials, equipment, and supplies in accordance with
+15 section 24-02-16.
+16 5. ProcurementsEnergy-related procurements by the industrial commission for
+17 energy-related programs under chapters 17-05, 54-17.5, 54-17.6, 54-17.7, 54-63, and
+18 54-63.1 and under those statutes in title 38 authorizing the industrial commission to
+19 perform well and hole pluggings, reclamation work, equipment removal, leak
+20 prevention, and similar work.
+21 6. Services for the maintenance or servicing of equipment by the manufacturer or
+22 authorized servicing agent of that equipment when the maintenance or servicing can
+23 best be performed by the manufacturer or authorized service agent, or when such a
+24 contract would otherwise be advantageous to the state.
+25 7. Emergency purchases the office of management and budget or a purchasing agency
+26 cannot make within the required time and which involve public health or public safety,
+27 or when immediate expenditures are necessary for repairs of state property to protect
+28 it against further loss or damage, or to prevent or minimize serious disruption in state
+29 services.
+30 a. Emergency purchases made under this subsection must treat all bidders fairly
+31 and promote competition as is practicable under the circumstances;
+Page No. 3 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 b. The procurement file must contain a written determination of:
+2 (1) The basis for the emergency; and
+3 (2) The basis for the selection of the particular contractor.
+4 c. If the emergency circumstances warrant a noncompetitive purchase, the office of
+5 management and budget or the purchasing agency shall document within the
+6 procurement file a written determination of the basis for the noncompetitive
+7 purchase, including the circumstances that justified the noncompetitive purchase.
+8 d. If the emergency purchase is subject to federal funding reimbursement, the office
+9 of management and budget or the purchasing agency shall ensure the
+10 procurement procedures and documentation are adequate to satisfy
+11 requirements for federal reimbursement.
+12 e. If time allows, emergency purchases for commodities under this subsection may
+13 require a sample for use in determining whether an offered product meets
+14 specifications.
+15 8. Commodities and services costing less than a specified amount as determined by
+16 written directive by the director of the office of management and budget.
+17 9. Specified commodities and services as determined by written directive by the director
+18 of the office of management and budget.
+19 10. Employee benefit services, trust-related services, and investment management
+20 services obtained by an agency with a fiduciary responsibility regarding those
+21 services. Nothing in this subsection may be construed to allow an agency to create or
+22 renew a contract perpetually and without limitation.
+23 11. Services to extract, tow, store, and dispose of abandoned or submerged vehicles as
+24 defined in chapter 23.1-15.
+25 12. Contracts by the agriculture commissioner for agricultural market news services under
+26 cooperative agreements with the United States department of agriculture, ombudsmen
+27 for pipeline restoration under section 4.1-01-17, environmental impact mitigation
+28 services under section 4.1-01-21.1, ombudsmen for wind property issues under
+29 section 4.1-01-23, weed control inspection agents under section 4.1-14-02, and hemp
+30 testing under section 4.1-18.1-04.2.
+31 13. Contracts by the state auditor for audits of computer systems under section 54-10-29.
+Page No. 4 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 14. Contracts by the attorney general with experts under section 10-33-145.
+2 15. Contracts by the department of health and human services for online virtual mental
+3 health and suicide prevention simulation-based training programs, under
+4 subsection 28 of section 50-06-05.1 and brain injury informal supports, and other
+5 under section 50-06.4-07training and related materials for individuals receiving
+6 assistance or services and employees, contractors, or professionals providing
+7 assistance or services under programs administered by or under the supervision and
+8 direction of the department of health and human services.
+9 16. Expenditures by a state agency or institution for direct media placement, including a
+10 billboard or signage, with a newspaper or newspaper industry association, magazine
+11 or other publication, radio or television station, digital media provider, or venue.
+12 All purchases made by the office of management and budget or a state agency or institution to
+13 which authority to purchase has been delegated by the office of management and budget must
+14 be made in accordance with this chapter, rules adopted under this chapter, and written policies
+15 of the office of management and budget.
+16 SECTION 4. AMENDMENT. Section 54-44.4-05 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 54-44.4-05. Competitive, limited competitive, noncompetitive, and negotiated
+19 purchases - Exempt records.
+20 1. Except as otherwise provided in sections 12-48-03.1 and 44-08-01, chapter 25-16.2,
+21 and this chapter, purchasing contracts must be awarded through a competitive bidding
+22 process to the lowest responsible bidder considering conformity with specifications,
+23 and terms of delivery, and quality and serviceability, unless it is determined to be
+24 advantageous to the state to select a contractor through a request for a competitive
+25 proposal process pursuant to section 54-44.4-10 using other or additional criteria.
+26 Notwithstanding this section, the director of the office of management and budget or
+27 the director's designee may determine a different procurement process is in the best
+28 interest of the state and shall document the circumstances, procurement process, and
+29 basis for contract award in the procurement file.
+30 2. The procurement officer may reject any or all bids or proposals or negotiate for a lower
+31 price with a successful bidder or offeror. Each bid or proposal received, with the name
+Page No. 5 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 of the bidder or offeror, must be recorded. The office of management and budget may
+2 enter into term contracts for the acquisition of commodities or services and may make
+3 multiple awards for term commodity or service contracts when it deems a multiple
+4 award to be in the best interests of the state.
+5 3. All bids and proposals received under this chapter pursuant to a competitive sealed
+6 bidsolicitation are exempt records under subsection 5 of section 44-04-17.1 until the
+7 date and time the bids are opened except as otherwise provided under subsection 6 o f
+8 section 44 - 04 - 18.4 .
+9 4. The office of management and budget shall adopt rules specifying the circumstances
+10 under which competition may be waived or limited, when negotiation may be used,
+11 and specifying the required justifications and procedures for using those methods of
+12 purchasing. The office of management and budget shall adopt rules related to sending
+13 notice of intent to make limited competitive, noncompetitive, and negotiated purchases
+14 in accordance with this chapter. The notice must describe the needed commodity or
+15 service and the intended procurement method and must state that persons are
+16 permitted to submit bids or proposals for contracts to be awarded under this section.
+17 The circumstances that may permit limited competitive, noncompetitive, or negotiated
+18 purchases include:
+19 a. The commodity or service is available from only one source.
+20 b. The commodity or service is to be purchased for experimentation or trial.
+21 c. No acceptable bid or proposal was received pursuant to a competitive bidding or
+22 competitive proposal process.
+23 d. Commodities are being purchased for over-the-counter resale.
+24 e. Acceptable commodities or services are produced or provided by correctional
+25 institutions or prison industries under section 12 - 48 - 03.1 , other government
+26 agencies, or a work activity center as defined in section 25-16.2-01.
+27 f. The anticipated cost of purchasing specified commodities or services is less than
+28 an amount determined by the office of management and budget which would
+29 justify the expense of a competitive bidding or competitive proposal process.
+30 g. A used commodity is advantageous to the state and the commodity is available
+31 only on short notice.
+Page No. 6 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 h. The commodity is a component or replacement part for which there is no
+2 commercially available substitute and which can be obtained only from the
+3 manufacturer.
+4 i. Compatibility with equipment currently owned by the state is essential to the
+5 proper functioning of that equipment.
+6 j. The agency provides documentation indicating that the services or the
+7 circumstances are of such a nature that deviation from the procurement
+8 procedure is appropriate.
+9 k. Recurring support costs associated with implemented information technology
+10 solutions, including licensing, service agreements, maintenance, and
+11 subscriptions for software as a service, platform as a service, and infrastructure
+12 as a service. This includes recurring costs for software or firmware required for
+13 proper functioning of currently owned equipment.
+14 l. Contracts for specialized equipment, machinery, and materials required for
+15 manufacturing, production, and distribution by the North Dakota mill and elevator
+16 association under section 54-18-02 or prison industries under section 12 - 48 - 03.1 .
+17 m. Purchases of copyrighted printed and electronic books, periodicals, subscriptions
+18 to publications, subscriptions to information services, prerecorded audio and
+19 video materials, state library materials, and state library online resources,
+20 including purchases for libraries operated by state agencies, institutions of higher
+21 education, and other public libraries.
+22 SECTION 5. AMENDMENT. Subsection 1 of section 54-44.4-07 of the North Dakota
+23 Century Code is amended and reenacted as follows:
+24 1. The office of management and budget, the institutions of higher education, and any
+25 other state agency or institution that has authority to purchase products are
+26 encouraged to purchase environmentally preferable products.
+27 a. When practicable, specifications for purchasing newsprint printing services
+28 should specify the use of soybean-based ink. The North Dakota soybean council
+29 and the agriculture commissioner shall assist the office of management and
+30 budget in locating suppliers of soybean-based inks and in collecting data on the
+31 purchase of soybean-based inks.
+Page No. 7 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 b. When practicable, biobased products should be specified.
+2 SECTION 6. AMENDMENT. Subsection 1 of section 54-44.4-09 of the North Dakota
+3 Century Code is amended and reenacted as follows:
+4 1. The office of management and budget shall establish and maintain a bidders list of
+5 persons that desire to be informed of government procurement opportunities. The
+6 office of management and budget or the purchasing agency shall notify those on the
+7 list when issuing invitation for bids or request for proposals over the amount
+8 established for small purchases, except as otherwise provided in this section. The
+9 office of management and budget or the purchasing agency shall notify those on the
+10 list when sending notice of intent to make cooperative, limited competitive,
+11 noncompetitive, and negotiated purchases. A person may be required to register for
+12 the bidders list before the person may submit a response to a solicitation.
+13 SECTION 7. AMENDMENT. Section 54-44.4-09.1 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 54-44.4-09.1. Secretary of state registration.
+16 A person that has a registration requirement with the secretary of state must be registered
+17 before the contract awardexecution and the registration must remain active for the duration of
+18 the contract period.
+19 SECTION 8. AMENDMENT. Section 54-44.4-12 of the North Dakota Century Code is
+20 amended and reenacted as follows:
+21 54-44.4-12. Resolution of protested solicitations and awards.
+22 1. An interested party may protest the award of a contract, the notice of intent to award a
+23 contract, or a solicitation for commodities or services by the office of management and
+24 budget or purchasing agency under this chapter. The protest must be submitted in
+25 writing or electronic mail communication to the procurement officer responsible for the
+26 contract or solicitation within seven calendar days after the protestor knows or should
+27 have known of the facts giving rise to the protest.
+28 2. If a contract has been awarded, the procurement officer immediately shall give notice
+29 of a protest to the contractor. In the case of pending award, a stay of award may be
+30 requested. A stay must be granted unless a written determination is made that the
+31 award of the contract without delay is necessary to protect the interests of the state.
+Page No. 8 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 3. If the protest is resolved by mutual agreement, the procurement officer shall send
+2 written notice to the protestor confirming the mutually agreed upon resolution. If the
+3 protest is not resolved by mutual agreement, the procurement officer promptly shall,
+4 within seven calendar days, send by certified mail to the protestor a written decision
+5 containing the basis for the decision and inform the protestor of the protestor's right to
+6 appeal under subsection 5 of this section. The procurement officer may extend the
+7 protest review period by no more than seven calendar days and shall send written
+8 notice to the protestor of the extension.
+9 4. The procurement officer shall promptly provide the office of management and budget
+10 with a copy of the protest and the procurement officer's decision.
+11 4.5. The protestor may file an appeal of the decision rendered by the procurement officer
+12 with the director of the office of management and budget or designee. An appeal must
+13 be filed in writing within seven calendar days after the protestor receives the decision
+14 rendered by the procurement officer of the office of management and budget or the
+15 purchasing agency. The appeal must include a copy of the decision being appealed
+16 and the basis for the appeal. An appeal of a decision rendered by a procurement
+17 officer of a state agency or an institution that is not under the jurisdiction of the state
+18 board of higher education, must be filed with the office of management and budget. An
+19 appeal of a decision rendered by a procurement officer of an institution under the
+20 jurisdiction of the state board of higher education must be filed in accordance with
+21 policy established under subsection 5 of section 15 - 10 - 17 . Within seven calendar days
+22 the director of the office of management and budget or the director's designeedeciding
+23 authority shall send by certified mail written notice of the appeal decision to the
+24 protestor. The deciding authority may extend the appeal review period by no more
+25 than seven calendar days. Notice of any extension shall be provided in writing to the
+26 protestor.
+27 6. Written notices required in this section may be accomplished by certified mail,
+28 commercial delivery service with delivery confirmation, or by a delivery confirmation to
+29 the electronic mail address used by the protestor to submit the protest.
+30 SECTION 9. AMENDMENT. Section 54-44.4-13 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 9 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 54-44.4-13. Cooperative purchasing.
+2 1. The office of management and budget shall purchase commodities or services as
+3 requested by agencies and institutions under the jurisdiction of the state board of
+4 higher education and the legislative and judicial branches of state government.
+5 2. The office of management and budget and the agencies and institutions under the
+6 jurisdiction of the state board of higher education shall make joint purchases of like
+7 commodities or services of high common usage when the office of management and
+8 budget and the state board of higher education determine it is in the best interest of
+9 the state.
+10 3. An institution of higher education may establish a cooperative purchasing contract for
+11 use limited to other institutions of higher education.
+12 3.4. The director of the office of management and budget or the director's designee may
+13 agree to purchase commodities or services under contracts entered into by the United
+14 States general services administration or contracts of other government entities if it is
+15 determined to be in the best interest of the state after consideration of price,
+16 contractual terms and conditions, and the availability of competition.
+17 4.5. The director of the office of management and budget or the director's designee may
+18 participate in, sponsor, or administer a cooperative purchasing agreement with one or
+19 more government entities or a nonprofit organization established on behalf of public
+20 entities for the procurement of commodities or services in accordance with an
+21 agreement entered into between the participants.
+22 5.6. The director of the office of management and budget or the director's designee may
+23 coordinate with the director of the department of transportation or the director's
+24 designee to establish or participate in contracts which may be made available to
+25 entities that have been determined by the department of transportation to be
+26 transportation providers under chapter 39-04.2 eligible to receive state funds or federal
+27 funds for public transportation.
+28 6.7. Cooperative purchasing may include open-ended contracts that are available to other
+29 government entities, nonprofit organizations established on behalf of public entities,
+30 tribal agencies, or transportation providers determined to be eligible under this section,
+31 or the International Peace Garden established under chapter 55 - 05 .
+Page No. 10 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 7.8. Before entering into a cooperative purchasing agreement under this section, the office
+2 of management and budget must determine that the contracts were awarded through
+3 full and open competition or source selection methods specified in section 54-44.4-05
+4 and shall send notice to the bidders list of the office's intent to make a cooperative
+5 purchase in accordance with this chapter.
+6 SECTION 10. AMENDMENT. Section 54-44.4-14 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 54-44.4-14. Procurement information - Website.
+9 1. The office of management and budget shall establish and maintain a procurement
+10 information website on the internet. This procurement information website must
+11 provide current information regarding North Dakota government procurement
+12 opportunities in order to inform potential vendors of the commodities and services
+13 sought by state agencies and institutions. Notwithstanding section 54-44.4-09, for
+14 each purchase of services or commodities over the amount established for small
+15 purchases, the office of management and budget and every purchasing agency shall
+16 provide procurement information on the website. The time period and manner of
+17 providing procurement information on the website must be in accordance with rules
+18 adopted by the office of management and budget. The office of management and
+19 budget may contract with a third party to assist in providing or maintaining the
+20 procurement information website.
+21 2. AIn addition to other notice requirements provided by law, a state agency or institution
+22 may elect to use theissue solicitation notices on the procurement information website
+23 for the purchase of services and commodities that are not subject to the procurement
+24 requirements of this chapter, including:
+25 a. Commodities and services exempted under section 54-44.4-02;
+26 b. Public improvements under title 48;
+27 c. Architect, engineer, construction management, and land surveying services
+28 under chapter 54-44.7; and
+29 d. Concessions under chapter 48-09.
+30 3. The office of management and budget shall establish and maintain a standardized
+31 procedure for the submission of electronic bids and proposals through the
+Page No. 11 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 procurement information website. The office of management and budget, in
+2 consultation with the office of the attorney general, shall develop standardized
+3 solicitation documents. The documents must be made available on the procurement
+4 information website. When drafting a solicitation, the office of management and budget
+5 and purchasing agencies shall use their best efforts to minimize the length of the
+6 solicitation by ensuring only those sections from the standardized solicitation
+7 documents applicable to the procurement are included.
+8 4. The office of management and budget may make the procurement information website
+9 available to government entities, including political subdivisions of the state and public
+10 schools, for the purpose of issuance of solicitation notices that are in addition to any
+11 other notice requirements provided by law.
+12 SECTION 11. A new section to chapter 54-44.4 of the North Dakota Century Code is
+13 created and enacted as follows:
+14 Purchases from state contracts by state officials and employees .
+15 The office of management and budget, in consultation with the office of the attorney
+16 general, shall adopt rules related to circumstances under which it is determined to be in the best
+17 interest of the state to authorize state officials and employees to make personal purchases from
+18 state contracts .
+19 SECTION 12. A new section to chapter 54-44.4 of the North Dakota Century Code is
+20 created and enacted as follows:
+21 Multiple award vendor pool contracts - Indefinite-delivery, indefinite-quantity -
+22 Multistep competition.
+23 1. The office of management and budget, in coordination with the state board of higher
+24 education and the information technology department, shall develop guidelines for
+25 establishing multiple award vendor pool contracts, including cooperative purchasing
+26 contracts under section 54 - 44.4 - 13. Multiple award vendor pool contracts establish
+27 indefinite-delivery, indefinite-quantity primary contracts with service providers including
+28 hourly rates for various services, unit prices for deliverable products, and provisions
+29 for price adjustments. The guidelines must establish thresholds at which a purchasing
+30 agency or institution may purchase directly from a service provider within the vendor
+31 pool or must obtain secondary competition by soliciting bids or proposals limited to
+Page No. 12 25.8115.02000
+Sixty-ninth
+Legislative Assembly
+1 service providers within the vendor pool. A purchasing agency or institution
+2 establishing a multiple award vendor pool contract or making a purchase from a
+3 vendor pool contract shall comply with guidelines established under this section.
+4 2. A multiple award vendor pool primary contract term may not exceed a total contract
+5 length of five years, including renewals and extensions, unless prior written approval is
+6 obtained as set forth in the guidelines. The work performed under an awarded
+7 secondary contract must be completed within the contract term of the primary vendor
+8 pool contract.
+9 3. The purchasing agency or institution making a purchase from a vendor pool contract
+10 shall prepare a statement of work for the entire project describing the needed services
+11 to determine the level of competition required. The purchasing agency or institution
+12 may not artificially fragment requirements or make serial noncompetitive purchases
+13 from service providers within the vendor pool to circumvent competition requirements.
+Page No. 13 25.8115.02000
+[DELETED: .U.B.P.R12]
+[DELETED: .". ."."."."22]
+[DELETED: .L.T.P.D.P.S.E.E32]
+[DELETED: .T)T)T.I.I.I.C.S.E.S.C.C42]
+[DELETED: .C.C.E.E.T52]
+[DELETED: .A.T.T.T.N.C.A.T.A62]
+[DELETED: .T.C.T.R.C.P.T.W72]
+[DELETED: .W.T.A.I82]
+[DELETED: .I.T.T.W92]
+[DELETED: .T.T.A.T.T.T.C02]
+[DELETED: .B.T.A.C.P.A.C.T12]
+[DELETED: .T.T22]
+[DELETED: .A.T32]
+
+
+================================================================================
+
+Raw Text:
+25.8115.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1122
+Introduced by
+Representative Nelson
+1 A BILL for an Act to create and enact two new sections to chapter 54-44.4 of the North Dakota
+2 Century Code, relating to purchases by state officials and employees and multiple award vendor
+3 pool contracts; and to amend and reenact subsection 6 of section 44-04-18.4, sections
+4 54-44.4-01, 54-44.4-02, 54-44.4-05, subsection 1 of section 54-44.4-07, subsection 1 of section
+5 54-44.4-09, sections 54-44.4-09.1, 54-44.4-12, 54-44.4-13, and 54-44.4-14 of the North Dakota
+6 Century Code, relating to state purchasing practices.
+7 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+8 SECTION 1. AMENDMENT. Subsection 6 of section 44-04-18.4 of the North Dakota
+9 Century Code is amended and reenacted as follows:
+10 6. Unless made confidential under subsection 1 or made exempt under subsection 5:
+11 a. Bids received by a public entity in response to an invitation for bids by the public
+12 entity are exempt until all of the bids have been received and opened by the
+13 public entity.
+14 b. Proposals received by a public entity in response to a request for proposals are
+15 exempt records until a notice of intent to award is issued.
+16 c. Records included with any bid or proposal naming and generally describing the
+17 entity submitting the proposal are open.
+18 SECTION 2. AMENDMENT. Section 54-44.4-01 of the North Dakota Century Code is
+19 amended and reenacted as follows:
+20 54-44.4-01. Declaration of policy - Definitions.
+21 It is state policy to provide comprehensive purchasing services based upon sound
+22 procurement practices and principles wherein, through full competition with fair and equal
+Page No. 1 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 opportunity to all qualified persons to sell to the state, each state agency and institution shall
+2 obtain its necessary commodities and services at competitive cost, consistent with quality, time,
+3 and performance requirements, except as otherwise provided by law. As used in this chapter,
+4 unless the context requires otherwise:
+5 1. "Commodities" means all property, including equipment, supplies, materials, printing,
+6 insurance, and leases of equipment.
+7 2. "Information technology" has the same meaning as provided in section 54 - 59 - 01 .
+8 3. "Procurement officer" means an individual duly authorized to enter and administer
+9 purchasing contracts and make written determinations with respect thereto and also
+10 includes an authorized representative acting within the limits of authority.
+11 3.4. "Professional services" means those services requiring special knowledge, education,
+12 or skills when the qualifications and experience of the individual rendering the services
+13 are of primary importance and the individual is required to exercise professional
+14 judgment. Professional services providers include appraisers, attorneys, accountants,
+15 psychologists, physicians, dentists, planners, analysts, and consultants. The term
+16 includes human services under which a person provides direct health or social welfare
+17 services to the citizens on behalf of the state. The term does not include services
+18 defined in section 54-44.7-01.
+19 4.5. "Purchasing agency" means a governmental entity in the executive branch of
+20 government other than the office of management and budget which is authorized by
+21 this chapter, rules adopted under this chapter, written policy of the office of
+22 management and budget, or by way of delegation from the office of management and
+23 budget to enter purchasing contracts for commodities and services.
+24 5.6. "Services" means the furnishing of labor, time, or effort by a contractor, not involving
+25 the delivery of a specific end product other than reports that are merely incidental to
+26 the required performance. The term includes professional services.
+27 SECTION 3. AMENDMENT. Section 54-44.4-02 of the North Dakota Century Code is
+28 amended and reenacted as follows:
+29 54-44.4-02. Office of management and budget purchasing services.
+30 The office of management and budget shall purchase or lease or otherwise arrange for the
+31 procurement, for all state agencies and institutions in the executive branch of state government,
+Page No. 2 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 all materials, furniture, fixtures, printing, insurance, services, and other commodities. The
+2 International Peace Garden may participate in the procurement authorized by this
+3 sectionContracts for use by multiple state agencies and institutions, including purchases under
+4 this section, must be established as a state contract by the office of management and budget or
+5 as a cooperative purchasing contract under section 54 - 44.4 - 13. Information technology
+6 procurements, including purchases under this section, are subject to the requirements of
+7 chapter 54 - 59 and policies, standards, and guidelines established pursuant to section 54 - 59 - 09 .
+8 The following commodities and services, however, are not subject to the competitive
+9 procurement requirements of this chapter:
+10 1. Land, buildings, space, or the rental thereof , in accordance with sections 54 - 21 - 24.1
+11 and 54 - 44.1 - 16 .
+12 2. Telephone and telegraph service and electrical light and power services.
+13 3. Public books, maps, periodicals, resource materials, and technical pamphlets.
+14 4. Department of transportation materials, equipment, and supplies in accordance with
+15 section 24-02-16.
+16 5. ProcurementsEnergy-related procurements by the industrial commission for
+17 energy-related programs under chapters 17-05, 54-17.5, 54-17.6, 54-17.7, 54-63, and
+18 54-63.1 and under those statutes in title 38 authorizing the industrial commission to
+19 perform well and hole pluggings, reclamation work, equipment removal, leak
+20 prevention, and similar work.
+21 6. Services for the maintenance or servicing of equipment by the manufacturer or
+22 authorized servicing agent of that equipment when the maintenance or servicing can
+23 best be performed by the manufacturer or authorized service agent, or when such a
+24 contract would otherwise be advantageous to the state.
+25 7. Emergency purchases the office of management and budget or a purchasing agency
+26 cannot make within the required time and which involve public health or public safety,
+27 or when immediate expenditures are necessary for repairs of state property to protect
+28 it against further loss or damage, or to prevent or minimize serious disruption in state
+29 services.
+30 a. Emergency purchases made under this subsection must treat all bidders fairly
+31 and promote competition as is practicable under the circumstances;
+Page No. 3 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. The procurement file must contain a written determination of:
+2 (1) The basis for the emergency; and
+3 (2) The basis for the selection of the particular contractor.
+4 c. If the emergency circumstances warrant a noncompetitive purchase, the office of
+5 management and budget or the purchasing agency shall document within the
+6 procurement file a written determination of the basis for the noncompetitive
+7 purchase, including the circumstances that justified the noncompetitive purchase.
+8 d. If the emergency purchase is subject to federal funding reimbursement, the office
+9 of management and budget or the purchasing agency shall ensure the
+10 procurement procedures and documentation are adequate to satisfy
+11 requirements for federal reimbursement.
+12 e. If time allows, emergency purchases for commodities under this subsection may
+13 require a sample for use in determining whether an offered product meets
+14 specifications.
+15 8. Commodities and services costing less than a specified amount as determined by
+16 written directive by the director of the office of management and budget.
+17 9. Specified commodities and services as determined by written directive by the director
+18 of the office of management and budget.
+19 10. Employee benefit services, trust-related services, and investment management
+20 services obtained by an agency with a fiduciary responsibility regarding those
+21 services. Nothing in this subsection may be construed to allow an agency to create or
+22 renew a contract perpetually and without limitation.
+23 11. Services to extract, tow, store, and dispose of abandoned or submerged vehicles as
+24 defined in chapter 23.1-15.
+25 12. Contracts by the agriculture commissioner for agricultural market news services under
+26 cooperative agreements with the United States department of agriculture, ombudsmen
+27 for pipeline restoration under section 4.1-01-17, environmental impact mitigation
+28 services under section 4.1-01-21.1, ombudsmen for wind property issues under
+29 section 4.1-01-23, weed control inspection agents under section 4.1-14-02, and hemp
+30 testing under section 4.1-18.1-04.2.
+31 13. Contracts by the state auditor for audits of computer systems under section 54-10-29.
+Page No. 4 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 14. Contracts by the attorney general with experts under section 10-33-145.
+2 15. Contracts by the department of health and human services for online virtual mental
+3 health and suicide prevention simulation-based training programs, under
+4 subsection 28 of section 50-06-05.1 and brain injury informal supports, and other
+5 under section 50-06.4-07training and related materials for individuals receiving
+6 assistance or services and employees, contractors, or professionals providing
+7 assistance or services under programs administered by or under the supervision and
+8 direction of the department of health and human services.
+9 16. Expenditures by a state agency or institution for direct media placement, including a
+10 billboard or signage, with a newspaper or newspaper industry association, magazine
+11 or other publication, radio or television station, digital media provider, or venue.
+12 All purchases made by the office of management and budget or a state agency or institution to
+13 which authority to purchase has been delegated by the office of management and budget must
+14 be made in accordance with this chapter, rules adopted under this chapter, and written policies
+15 of the office of management and budget.
+16 SECTION 4. AMENDMENT. Section 54-44.4-05 of the North Dakota Century Code is
+17 amended and reenacted as follows:
+18 54-44.4-05. Competitive, limited competitive, noncompetitive, and negotiated
+19 purchases - Exempt records.
+20 1. Except as otherwise provided in sections 12-48-03.1 and 44-08-01, chapter 25-16.2,
+21 and this chapter, purchasing contracts must be awarded through a competitive bidding
+22 process to the lowest responsible bidder considering conformity with specifications,
+23 and terms of delivery, and quality and serviceability, unless it is determined to be
+24 advantageous to the state to select a contractor through a request for a competitive
+25 proposal process pursuant to section 54-44.4-10 using other or additional criteria.
+26 Notwithstanding this section, the director of the office of management and budget or
+27 the director's designee may determine a different procurement process is in the best
+28 interest of the state and shall document the circumstances, procurement process, and
+29 basis for contract award in the procurement file.
+30 2. The procurement officer may reject any or all bids or proposals or negotiate for a lower
+31 price with a successful bidder or offeror. Each bid or proposal received, with the name
+Page No. 5 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 of the bidder or offeror, must be recorded. The office of management and budget may
+2 enter into term contracts for the acquisition of commodities or services and may make
+3 multiple awards for term commodity or service contracts when it deems a multiple
+4 award to be in the best interests of the state.
+5 3. All bids and proposals received under this chapter pursuant to a competitive sealed
+6 bidsolicitation are exempt records under subsection 5 of section 44-04-17.1 until the
+7 date and time the bids are opened except as otherwise provided under subsection 6 o f
+8 section 44 - 04 - 18.4 .
+9 4. The office of management and budget shall adopt rules specifying the circumstances
+10 under which competition may be waived or limited, when negotiation may be used,
+11 and specifying the required justifications and procedures for using those methods of
+12 purchasing. The office of management and budget shall adopt rules related to sending
+13 notice of intent to make limited competitive, noncompetitive, and negotiated purchases
+14 in accordance with this chapter. The notice must describe the needed commodity or
+15 service and the intended procurement method and must state that persons are
+16 permitted to submit bids or proposals for contracts to be awarded under this section.
+17 The circumstances that may permit limited competitive, noncompetitive, or negotiated
+18 purchases include:
+19 a. The commodity or service is available from only one source.
+20 b. The commodity or service is to be purchased for experimentation or trial.
+21 c. No acceptable bid or proposal was received pursuant to a competitive bidding or
+22 competitive proposal process.
+23 d. Commodities are being purchased for over-the-counter resale.
+24 e. Acceptable commodities or services are produced or provided by correctional
+25 institutions or prison industries under section 12 - 48 - 03.1 , other government
+26 agencies, or a work activity center as defined in section 25-16.2-01.
+27 f. The anticipated cost of purchasing specified commodities or services is less than
+28 an amount determined by the office of management and budget which would
+29 justify the expense of a competitive bidding or competitive proposal process.
+30 g. A used commodity is advantageous to the state and the commodity is available
+31 only on short notice.
+Page No. 6 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 h. The commodity is a component or replacement part for which there is no
+2 commercially available substitute and which can be obtained only from the
+3 manufacturer.
+4 i. Compatibility with equipment currently owned by the state is essential to the
+5 proper functioning of that equipment.
+6 j. The agency provides documentation indicating that the services or the
+7 circumstances are of such a nature that deviation from the procurement
+8 procedure is appropriate.
+9 k. Recurring support costs associated with implemented information technology
+10 solutions, including licensing, service agreements, maintenance, and
+11 subscriptions for software as a service, platform as a service, and infrastructure
+12 as a service. This includes recurring costs for software or firmware required for
+13 proper functioning of currently owned equipment.
+14 l. Contracts for specialized equipment, machinery, and materials required for
+15 manufacturing, production, and distribution by the North Dakota mill and elevator
+16 association under section 54-18-02 or prison industries under section 12 - 48 - 03.1 .
+17 m. Purchases of copyrighted printed and electronic books, periodicals, subscriptions
+18 to publications, subscriptions to information services, prerecorded audio and
+19 video materials, state library materials, and state library online resources,
+20 including purchases for libraries operated by state agencies, institutions of higher
+21 education, and other public libraries.
+22 SECTION 5. AMENDMENT. Subsection 1 of section 54-44.4-07 of the North Dakota
+23 Century Code is amended and reenacted as follows:
+24 1. The office of management and budget, the institutions of higher education, and any
+25 other state agency or institution that has authority to purchase products are
+26 encouraged to purchase environmentally preferable products.
+27 a. When practicable, specifications for purchasing newsprint printing services
+28 should specify the use of soybean-based ink. The North Dakota soybean council
+29 and the agriculture commissioner shall assist the office of management and
+30 budget in locating suppliers of soybean-based inks and in collecting data on the
+31 purchase of soybean-based inks.
+Page No. 7 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 b. When practicable, biobased products should be specified.
+2 SECTION 6. AMENDMENT. Subsection 1 of section 54-44.4-09 of the North Dakota
+3 Century Code is amended and reenacted as follows:
+4 1. The office of management and budget shall establish and maintain a bidders list of
+5 persons that desire to be informed of government procurement opportunities. The
+6 office of management and budget or the purchasing agency shall notify those on the
+7 list when issuing invitation for bids or request for proposals over the amount
+8 established for small purchases, except as otherwise provided in this section. The
+9 office of management and budget or the purchasing agency shall notify those on the
+10 list when sending notice of intent to make cooperative, limited competitive,
+11 noncompetitive, and negotiated purchases. A person may be required to register for
+12 the bidders list before the person may submit a response to a solicitation.
+13 SECTION 7. AMENDMENT. Section 54-44.4-09.1 of the North Dakota Century Code is
+14 amended and reenacted as follows:
+15 54-44.4-09.1. Secretary of state registration.
+16 A person that has a registration requirement with the secretary of state must be registered
+17 before the contract awardexecution and the registration must remain active for the duration of
+18 the contract period.
+19 SECTION 8. AMENDMENT. Section 54-44.4-12 of the North Dakota Century Code is
+20 amended and reenacted as follows:
+21 54-44.4-12. Resolution of protested solicitations and awards.
+22 1. An interested party may protest the award of a contract, the notice of intent to award a
+23 contract, or a solicitation for commodities or services by the office of management and
+24 budget or purchasing agency under this chapter. The protest must be submitted in
+25 writing or electronic mail communication to the procurement officer responsible for the
+26 contract or solicitation within seven calendar days after the protestor knows or should
+27 have known of the facts giving rise to the protest.
+28 2. If a contract has been awarded, the procurement officer immediately shall give notice
+29 of a protest to the contractor. In the case of pending award, a stay of award may be
+30 requested. A stay must be granted unless a written determination is made that the
+31 award of the contract without delay is necessary to protect the interests of the state.
+Page No. 8 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 3. If the protest is resolved by mutual agreement, the procurement officer shall send
+2 written notice to the protestor confirming the mutually agreed upon resolution. If the
+3 protest is not resolved by mutual agreement, the procurement officer promptly shall,
+4 within seven calendar days, send by certified mail to the protestor a written decision
+5 containing the basis for the decision and inform the protestor of the protestor's right to
+6 appeal under subsection 5 of this section. The procurement officer may extend the
+7 protest review period by no more than seven calendar days and shall send written
+8 notice to the protestor of the extension.
+9 4. The procurement officer shall promptly provide the office of management and budget
+10 with a copy of the protest and the procurement officer's decision.
+11 4.5. The protestor may file an appeal of the decision rendered by the procurement officer
+12 with the director of the office of management and budget or designee. An appeal must
+13 be filed in writing within seven calendar days after the protestor receives the decision
+14 rendered by the procurement officer of the office of management and budget or the
+15 purchasing agency. The appeal must include a copy of the decision being appealed
+16 and the basis for the appeal. An appeal of a decision rendered by a procurement
+17 officer of a state agency or an institution that is not under the jurisdiction of the state
+18 board of higher education, must be filed with the office of management and budget. An
+19 appeal of a decision rendered by a procurement officer of an institution under the
+20 jurisdiction of the state board of higher education must be filed in accordance with
+21 policy established under subsection 5 of section 15 - 10 - 17 . Within seven calendar days
+22 the director of the office of management and budget or the director's designeedeciding
+23 authority shall send by certified mail written notice of the appeal decision to the
+24 protestor. The deciding authority may extend the appeal review period by no more
+25 than seven calendar days. Notice of any extension shall be provided in writing to the
+26 protestor.
+27 6. Written notices required in this section may be accomplished by certified mail,
+28 commercial delivery service with delivery confirmation, or by a delivery confirmation to
+29 the electronic mail address used by the protestor to submit the protest.
+30 SECTION 9. AMENDMENT. Section 54-44.4-13 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 9 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 54-44.4-13. Cooperative purchasing.
+2 1. The office of management and budget shall purchase commodities or services as
+3 requested by agencies and institutions under the jurisdiction of the state board of
+4 higher education and the legislative and judicial branches of state government.
+5 2. The office of management and budget and the agencies and institutions under the
+6 jurisdiction of the state board of higher education shall make joint purchases of like
+7 commodities or services of high common usage when the office of management and
+8 budget and the state board of higher education determine it is in the best interest of
+9 the state.
+10 3. An institution of higher education may establish a cooperative purchasing contract for
+11 use limited to other institutions of higher education.
+12 3.4. The director of the office of management and budget or the director's designee may
+13 agree to purchase commodities or services under contracts entered into by the United
+14 States general services administration or contracts of other government entities if it is
+15 determined to be in the best interest of the state after consideration of price,
+16 contractual terms and conditions, and the availability of competition.
+17 4.5. The director of the office of management and budget or the director's designee may
+18 participate in, sponsor, or administer a cooperative purchasing agreement with one or
+19 more government entities or a nonprofit organization established on behalf of public
+20 entities for the procurement of commodities or services in accordance with an
+21 agreement entered into between the participants.
+22 5.6. The director of the office of management and budget or the director's designee may
+23 coordinate with the director of the department of transportation or the director's
+24 designee to establish or participate in contracts which may be made available to
+25 entities that have been determined by the department of transportation to be
+26 transportation providers under chapter 39-04.2 eligible to receive state funds or federal
+27 funds for public transportation.
+28 6.7. Cooperative purchasing may include open-ended contracts that are available to other
+29 government entities, nonprofit organizations established on behalf of public entities,
+30 tribal agencies, or transportation providers determined to be eligible under this section,
+31 or the International Peace Garden established under chapter 55 - 05 .
+Page No. 10 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 7.8. Before entering into a cooperative purchasing agreement under this section, the office
+2 of management and budget must determine that the contracts were awarded through
+3 full and open competition or source selection methods specified in section 54-44.4-05
+4 and shall send notice to the bidders list of the office's intent to make a cooperative
+5 purchase in accordance with this chapter.
+6 SECTION 10. AMENDMENT. Section 54-44.4-14 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 54-44.4-14. Procurement information - Website.
+9 1. The office of management and budget shall establish and maintain a procurement
+10 information website on the internet. This procurement information website must
+11 provide current information regarding North Dakota government procurement
+12 opportunities in order to inform potential vendors of the commodities and services
+13 sought by state agencies and institutions. Notwithstanding section 54-44.4-09, for
+14 each purchase of services or commodities over the amount established for small
+15 purchases, the office of management and budget and every purchasing agency shall
+16 provide procurement information on the website. The time period and manner of
+17 providing procurement information on the website must be in accordance with rules
+18 adopted by the office of management and budget. The office of management and
+19 budget may contract with a third party to assist in providing or maintaining the
+20 procurement information website.
+21 2. AIn addition to other notice requirements provided by law, a state agency or institution
+22 may elect to use theissue solicitation notices on the procurement information website
+23 for the purchase of services and commodities that are not subject to the procurement
+24 requirements of this chapter, including:
+25 a. Commodities and services exempted under section 54-44.4-02;
+26 b. Public improvements under title 48;
+27 c. Architect, engineer, construction management, and land surveying services
+28 under chapter 54-44.7; and
+29 d. Concessions under chapter 48-09.
+30 3. The office of management and budget shall establish and maintain a standardized
+31 procedure for the submission of electronic bids and proposals through the
+Page No. 11 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 procurement information website. The office of management and budget, in
+2 consultation with the office of the attorney general, shall develop standardized
+3 solicitation documents. The documents must be made available on the procurement
+4 information website. When drafting a solicitation, the office of management and budget
+5 and purchasing agencies shall use their best efforts to minimize the length of the
+6 solicitation by ensuring only those sections from the standardized solicitation
+7 documents applicable to the procurement are included.
+8 4. The office of management and budget may make the procurement information website
+9 available to government entities, including political subdivisions of the state and public
+10 schools, for the purpose of issuance of solicitation notices that are in addition to any
+11 other notice requirements provided by law.
+12 SECTION 11. A new section to chapter 54-44.4 of the North Dakota Century Code is
+13 created and enacted as follows:
+14 Purchases from state contracts by state officials and employees .
+15 The office of management and budget, in consultation with the office of the attorney
+16 general, shall adopt rules related to circumstances under which it is determined to be in the best
+17 interest of the state to authorize state officials and employees to make personal purchases from
+18 state contracts .
+19 SECTION 12. A new section to chapter 54-44.4 of the North Dakota Century Code is
+20 created and enacted as follows:
+21 Multiple award vendor pool contracts - Indefinite-delivery, indefinite-quantity -
+22 Multistep competition.
+23 1. The office of management and budget, in coordination with the state board of higher
+24 education and the information technology department, shall develop guidelines for
+25 establishing multiple award vendor pool contracts, including cooperative purchasing
+26 contracts under section 54 - 44.4 - 13. Multiple award vendor pool contracts establish
+27 indefinite-delivery, indefinite-quantity primary contracts with service providers including
+28 hourly rates for various services, unit prices for deliverable products, and provisions
+29 for price adjustments. The guidelines must establish thresholds at which a purchasing
+30 agency or institution may purchase directly from a service provider within the vendor
+31 pool or must obtain secondary competition by soliciting bids or proposals limited to
+Page No. 12 25.8115.02000
+
+Sixty-ninth
+Legislative Assembly
+1 service providers within the vendor pool. A purchasing agency or institution
+2 establishing a multiple award vendor pool contract or making a purchase from a
+3 vendor pool contract shall comply with guidelines established under this section.
+4 2. A multiple award vendor pool primary contract term may not exceed a total contract
+5 length of five years, including renewals and extensions, unless prior written approval is
+6 obtained as set forth in the guidelines. The work performed under an awarded
+7 secondary contract must be completed within the contract term of the primary vendor
+8 pool contract.
+9 3. The purchasing agency or institution making a purchase from a vendor pool contract
+10 shall prepare a statement of work for the entire project describing the needed services
+11 to determine the level of competition required. The purchasing agency or institution
+12 may not artificially fragment requirements or make serial noncompetitive purchases
+13 from service providers within the vendor pool to circumvent competition requirements.
+Page No. 13 25.8115.02000
+
+[DELETED: .U.B.P.R12]
+[DELETED: .". ."."."."22]
+[DELETED: .L.T.P.D.P.S.E.E32]
+[DELETED: .T)T)T.I.I.I.C.S.E.S.C.C42]
+[DELETED: .C.C.E.E.T52]
+[DELETED: .A.T.T.T.N.C.A.T.A62]
+[DELETED: .T.C.T.R.C.P.T.W72]
+[DELETED: .W.T.A.I82]
+[DELETED: .I.T.T.W92]
+[DELETED: .T.T.A.T.T.T.C02]
+[DELETED: .B.T.A.C.P.A.C.T12]
+[DELETED: .T.T22]
+[DELETED: .A.T32]

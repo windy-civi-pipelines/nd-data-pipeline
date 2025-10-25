@@ -1,0 +1,79 @@
+Title: SENATE BILL NO. 2048
+Official Title: SENATE BILL NO. 2048
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+25.8018.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+State and Local Government Committee
+(At the request of the Information Technology Department)
+1 A BILL for an Act to amend and reenact section 54-59-11 of the North Dakota Century Code,
+2 relating to information technology plans.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 54-59-11 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 54-59-11. Information technology plans.
+7 Each executive branch state agency or institution, excluding the institutions under the
+8 control of the board of higher education, unless the chief information officer grants an
+9 exemption, shall participate in the information technology planning process based on guidelines
+10 developed by the department. TheAn information technology plan must be submitted to and
+11 remain on file with the department by August fifteenth of each even-numbered year, and may be
+12 updated on a quarterly basis, unless the chief information officer grants an extension. The
+13 department shall review each entity's plan for compliance with statewide information technology
+14 policies and standards and may require an entity to change its plan to comply with statewide
+15 policies or standards or to resolve conflicting directions among plans. Agencies of the judicial
+16 and legislative branches shall file their information technology plans with the department by
+17 August fifteenth of each even-numbered yearas requested by the department. Based on the
+18 plans, the department shall prepare and keep current a statewide information technology plan
+19 and distribute copies of that plan to members of the legislative assembly as requested by the
+20 legislative council. The statewide information technology plan must be developed with emphasis
+21 on long-termagency strategic goals, business objectives, and accomplishmentsalignment to
+22 statewide information technology initiatives.
+Page No. 1 25.8018.01000
+[DELETED: 12]
+
+
+================================================================================
+
+Raw Text:
+25.8018.01000
+Sixty-ninth
+SENATE BILL NO. 2048
+Legislative Assembly
+of North Dakota
+Introduced by
+State and Local Government Committee
+(At the request of the Information Technology Department)
+1 A BILL for an Act to amend and reenact section 54-59-11 of the North Dakota Century Code,
+2 relating to information technology plans.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Section 54-59-11 of the North Dakota Century Code is
+5 amended and reenacted as follows:
+6 54-59-11. Information technology plans.
+7 Each executive branch state agency or institution, excluding the institutions under the
+8 control of the board of higher education, unless the chief information officer grants an
+9 exemption, shall participate in the information technology planning process based on guidelines
+10 developed by the department. TheAn information technology plan must be submitted to and
+11 remain on file with the department by August fifteenth of each even-numbered year, and may be
+12 updated on a quarterly basis, unless the chief information officer grants an extension. The
+13 department shall review each entity's plan for compliance with statewide information technology
+14 policies and standards and may require an entity to change its plan to comply with statewide
+15 policies or standards or to resolve conflicting directions among plans. Agencies of the judicial
+16 and legislative branches shall file their information technology plans with the department by
+17 August fifteenth of each even-numbered yearas requested by the department. Based on the
+18 plans, the department shall prepare and keep current a statewide information technology plan
+19 and distribute copies of that plan to members of the legislative assembly as requested by the
+20 legislative council. The statewide information technology plan must be developed with emphasis
+21 on long-termagency strategic goals, business objectives, and accomplishmentsalignment to
+22 statewide information technology initiatives.
+Page No. 1 25.8018.01000
+
+[DELETED: 12]

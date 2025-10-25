@@ -1,0 +1,142 @@
+Title: ENGROSSED SENATE BILL NO. 2354
+Official Title: ENGROSSED SENATE BILL NO. 2354
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25.1182.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Senators Axtman, Cleary, Sickler, Thomas
+Representatives Bosch, O'Brien
+1 A BILL for an Act to create and enact a new section to chapter 15.1-07 of the North Dakota
+2 Century Code, relating to school district personal electronic device policies; and to provide an
+3 appropriation.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 15.1-07 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Personal electronic device policy.
+8 1. As used in this section, " personal electronic device" means a portable wireless device
+9 with the capability to provide voice, messaging, or other data communication between
+10 two or more parties, including a cell phone, tablet computer, laptop computer, or
+11 gaming device.
+12 2. Before August 1, 2026, a school district in coordination with the board of the schoo l
+13 district shall adopt and implement a personal electronic device policy that :
+14 a. Except as provided in subdivisions b and c and subsection 3, minimizes or
+15 prohibits a student from using a personal electronic device during school hours ;
+16 b. Authorizes a teacher to allow a student to use a personal electronic device for
+17 educational purposes during instructional time;
+18 c. Permits a student to use a personal electronic device to manage the student's
+19 health care, as documented by a licensed treating provider or in accordance with
+20 an individual health plan;
+21 d. Is consistent across grade levels; and
+Page No. 1 25.1182.03000
+Sixty-ninth
+Legislative Assembly
+1 e. Promotes evidence-based smartphone practices to support student learning and
+2 well-being.
+3 3. The policy under subsection 2 may not prohibit a student from using a persona l
+4 electronic device during school hours if the use of the personal electronic device is
+5 included in the student's individualized education program in accordance with the
+6 Individuals with Disabilities Education Act [29 U.S.C . 1400], a plan developed under
+7 section 504 of the federal Rehabilitation Act of 1973 [29 U.S.C. 794], or any other
+8 applicable law.
+9 4. A school district shall:
+10 a. Solicit input from stakeholders to develop the policy under subsection 2 to ensure
+11 the policy is responsive to the unique needs and desires of students, parents,
+12 and educators in the community.
+13 b. Ensure the policy carefully considers the retention of possession and security
+14 against loss or theft of the personal electronic devices.
+15 c. Publish on its website the personal electronic device policy .
+16 d. Annually review and update policies based on emerging research and data
+17 regarding personal electronic device use in schools .
+18 5. The superintendent of public instruction shall identify and provide information on
+19 approved secure storage containers to the requesting school districts.
+20 SECTION 2. APPROPRIATION - DEPARTMENT OF PUBLIC INSTRUCTION- ONE-TIME
+21 FUNDING. There is appropriated out of any moneys in the general fund in the state treasury,
+22 not otherwise appropriated, the sum of $300,000, or so much of the sum as may be necessary,
+23 to the superintendent of public instruction for the purpose of providing funds to a school district
+24 upon the request of the board of a school district to acquire approved secure containers to store
+25 each student's personal electronic device, in accordance with the established school district
+26 plan, for the biennium beginning July 1, 2025, and ending June 30, 2027. The funding provided
+27 in this section is considered a one time funding item.
+Page No. 2 25.1182.03000
+[DELETED: . . . . . .I12]
+[DELETED: .P. .A. .E. .A.T22]
+
+
+================================================================================
+
+Raw Text:
+25.1182.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED SENATE BILL NO. 2354
+Introduced by
+Senators Axtman, Cleary, Sickler, Thomas
+Representatives Bosch, O'Brien
+1 A BILL for an Act to create and enact a new section to chapter 15.1-07 of the North Dakota
+2 Century Code, relating to school district personal electronic device policies; and to provide an
+3 appropriation.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. A new section to chapter 15.1-07 of the North Dakota Century Code is created
+6 and enacted as follows:
+7 Personal electronic device policy.
+8 1. As used in this section, " personal electronic device" means a portable wireless device
+9 with the capability to provide voice, messaging, or other data communication between
+10 two or more parties, including a cell phone, tablet computer, laptop computer, or
+11 gaming device.
+12 2. Before August 1, 2026, a school district in coordination with the board of the schoo l
+13 district shall adopt and implement a personal electronic device policy that :
+14 a. Except as provided in subdivisions b and c and subsection 3, minimizes or
+15 prohibits a student from using a personal electronic device during school hours ;
+16 b. Authorizes a teacher to allow a student to use a personal electronic device for
+17 educational purposes during instructional time;
+18 c. Permits a student to use a personal electronic device to manage the student's
+19 health care, as documented by a licensed treating provider or in accordance with
+20 an individual health plan;
+21 d. Is consistent across grade levels; and
+Page No. 1 25.1182.03000
+
+Sixty-ninth
+Legislative Assembly
+1 e. Promotes evidence-based smartphone practices to support student learning and
+2 well-being.
+3 3. The policy under subsection 2 may not prohibit a student from using a persona l
+4 electronic device during school hours if the use of the personal electronic device is
+5 included in the student's individualized education program in accordance with the
+6 Individuals with Disabilities Education Act [29 U.S.C . 1400], a plan developed under
+7 section 504 of the federal Rehabilitation Act of 1973 [29 U.S.C. 794], or any other
+8 applicable law.
+9 4. A school district shall:
+10 a. Solicit input from stakeholders to develop the policy under subsection 2 to ensure
+11 the policy is responsive to the unique needs and desires of students, parents,
+12 and educators in the community.
+13 b. Ensure the policy carefully considers the retention of possession and security
+14 against loss or theft of the personal electronic devices.
+15 c. Publish on its website the personal electronic device policy .
+16 d. Annually review and update policies based on emerging research and data
+17 regarding personal electronic device use in schools .
+18 5. The superintendent of public instruction shall identify and provide information on
+19 approved secure storage containers to the requesting school districts.
+20 SECTION 2. APPROPRIATION - DEPARTMENT OF PUBLIC INSTRUCTION- ONE-TIME
+21 FUNDING. There is appropriated out of any moneys in the general fund in the state treasury,
+22 not otherwise appropriated, the sum of $300,000, or so much of the sum as may be necessary,
+23 to the superintendent of public instruction for the purpose of providing funds to a school district
+24 upon the request of the board of a school district to acquire approved secure containers to store
+25 each student's personal electronic device, in accordance with the established school district
+26 plan, for the biennium beginning July 1, 2025, and ending June 30, 2027. The funding provided
+27 in this section is considered a one time funding item.
+Page No. 2 25.1182.03000
+
+[DELETED: . . . . . .I12]
+[DELETED: .P. .A. .E. .A.T22]

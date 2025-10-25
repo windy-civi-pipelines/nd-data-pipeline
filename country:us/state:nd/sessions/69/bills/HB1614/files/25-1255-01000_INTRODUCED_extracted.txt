@@ -1,0 +1,1165 @@
+Title: HOUSE BILL NO. 1614
+Official Title: HOUSE BILL NO. 1614
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+25.1255.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Hendrix, D. Johnston
+1 A BILL for an Act to create and enact a new section to chapter 39-10 of the North Dakota
+2 Century Code, relating to the operation of an automated truck tractor; and to amend and
+3 reenact section 39-01-01 of the North Dakota Century Code, relating to the definition of an
+4 automated truck tractor.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 39-01-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 39-01-01. Definitions.
+9 In this title, unless the context or subject matter otherwise requires:
+10 1. "Appropriate licensed addiction treatment program" means an addiction treatment
+11 program conducted by an addiction facility licensed by the department of health and
+12 human services or conducted by a licensed individual specifically trained in addiction
+13 treatment.
+14 2. "Authorized emergency vehicles":
+15 a. "Class A" authorized emergency vehicles means:
+16 (1) Vehicles of a governmentally owned fire department.
+17 (2) Vehicles when operated by or under the control of a police officer having
+18 authority to enforce the provisions of this title or by a salaried employee of a
+19 municipal police department within the municipality or by a sheriff or deputy
+20 sheriff not including special deputy sheriffs, or by the director of the
+21 department of corrections and rehabilitation and the director's authorized
+22 agents who have successfully completed training in the operation of class A
+23 authorized emergency vehicles.
+Page No. 1 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 (3) Vehicles clearly identifiable as property of the department of corrections and
+2 rehabilitation when operated or under the control of the director of the
+3 department of corrections and rehabilitation.
+4 (4) Ambulances and other vehicles authorized by licensure granted under
+5 chapter 23-27.
+6 (5) Vehicles operated by or under the control of the director, district deputy
+7 director, or a district deputy game warden of the game and fish department.
+8 (6) Vehicles owned or leased by the United States and used for law
+9 enforcement purposes.
+10 (7) Vehicles designated for the use of the adjutant general or assistant adjutant
+11 general in cases of emergency.
+12 (8) Vehicles operated by or under the control of the director of the parks and
+13 recreation department.
+14 (9) Vehicles operated by or under the control of a licensed railroad police officer
+15 and used for law enforcement purposes.
+16 (10) Vehicles operated by or under the control of the state forester.
+17 (11) Vehicles operated by or under the control of the bureau of criminal
+18 investigation and used for law enforcement purposes.
+19 (12) Vehicles operated by or under the department of health and human services
+20 in cases of emergencies.
+21 (13) Vehicles used or operated by governmental search and rescue personnel
+22 while performing emergency operations or duties. As used in this paragraph,
+23 "search and rescue" means deployment, coordination, and use of available
+24 resources and personnel in locating, relieving the distress, and preserving
+25 the life of and removing an individual who is missing, trapped, or lost in the
+26 backcountry, remote areas, or waters of the state. The term includes water
+27 and dive rescue.
+28 b. "Class B" authorized emergency vehicles means wreckers and such other
+29 emergency vehicles as are authorized by the local authorities.
+30 c. "Class C" authorized emergency vehicles means:
+Page No. 2 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 (1) Vehicles used by the state division of homeland security or local division of
+2 emergency management organizations.
+3 (2) Vehicles used by volunteer firefighters while performing their assigned
+4 disaster and emergency responsibilities.
+5 (3) Vehicles, other than ambulances, used by emergency medical services
+6 personnel.
+7 (4) Vehicles used by volunteer search and rescue personnel if performing an
+8 emergency operation or duty upon the request of a state entity, political
+9 subdivision, or volunteer fire department. A volunteer organization may
+10 classify a personal vehicle as a class C emergency vehicle if needed to
+11 assist in a search and rescue operation in accordance with this paragraph.
+12 As used in this paragraph, "search and rescue" means deployment,
+13 coordination, and use of available resources and personnel in locating,
+14 relieving the distress, and preserving the life of and removing an individual
+15 who is missing, trapped, or lost in the backcountry, remote areas, or waters
+16 of the state. The term includes water and dive rescue.
+17 3. "Automated truck tractor" means a truck tractor that is towing a trailer or semitrailer
+18 and at least one aspect of a safety critical control function of the truck tractor occurs
+19 without direct input from an individual operating the truck tractor.
+20 4. "Bicycle" means every device propelled solely by human power upon which any
+21 person may ride, having two tandem wheels or two parallel wheels and one forward or
+22 rearward wheel. The term includes an electric bicycle and a multipassenger bicycle.
+23 4.5. "Bus" means every motor vehicle designed for carrying more than ten passengers and
+24 used for the transportation of persons, and every motor vehicle, other than a taxicab,
+25 designed and used for the transportation of persons for compensation. Provided,
+26 every motor vehicle designed for carrying not more than fifteen persons and used for a
+27 ridesharing arrangement, as defined in section 8-02-07, is not a "bus".
+28 5.6. "Business district" means the territory contiguous to a highway when fifty percent or
+29 more of the frontage thereon for a distance of three hundred feet [91.44 meters] or
+30 more is occupied by buildings in use for business.
+Page No. 3 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 6.7. "Camping trailer" means a vehicular portable unit mounted on wheels and constructed
+2 with collapsible partial side walls that fold for towing by another vehicle and unfold at
+3 the campsite to provide temporary living quarters for recreational, camping, or travel
+4 use.
+5 7.8. "Cancellation" means a license is annulled and terminated because of an error or
+6 defect or because the licensee is no longer entitled to the operator's license, but the
+7 cancellation of a license is without prejudice and application for a new license may be
+8 made at any time after the cancellation.
+9 8.9. "Child restraint system" means a specifically designed device, built-in seating system,
+10 or belt-positioning booster that meets the federal motor vehicle safety standards and is
+11 permanently affixed to a motor vehicle, is affixed to the vehicle by a safety belt or
+12 universal attachment system, or is combined with a federally compliant safety belt
+13 system.
+14 9.10. "Commercial freighting" means the carriage of things other than passengers, for hire,
+15 except that such term does not include:
+16 a. The carriage of things other than passengers within the limits of the same city;
+17 b. Carriage by local dray lines of baggage or goods to or from a railroad station from
+18 or to places in such city or in the immediate vicinity thereof, in this state, and not
+19 to exceed two miles [3.22 kilometers] from the corporate or recognized limits of
+20 said city; or
+21 c. Hauling done by farmers for their neighbors in transporting agricultural products
+22 to or from market.
+23 10.11. "Commercial passenger transportation" means the carriage of passengers for hire,
+24 except that the term does not include:
+25 a. The carriage of passengers within the limits of a city.
+26 b. The carriage by local buslines of passengers to or from a railroad station from or
+27 to places within any city or within two miles [3.22 kilometers] of the limits of the
+28 city.
+29 c. The carriage of passengers under a ridesharing arrangement, as defined in
+30 section 8-02-07.
+Page No. 4 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 11.12. "Commissioner" means the director of the department of transportation of this state,
+2 acting directly or through authorized agents as provided by section 24-02-01.3.
+3 12.13. "Controlled-access highway" means every highway, street, or roadway in respect to
+4 which owners or occupants of abutting lands and other persons have no legal right of
+5 access to or from the same except at such points only and in such manner as may be
+6 determined by the public authority having jurisdiction over such highway, street, or
+7 roadway.
+8 13.14. "Conviction" means a final order or judgment or conviction by the North Dakota
+9 supreme court, any lower court having jurisdiction, a tribal court, or a court in another
+10 state if an appeal is not pending and the time for filing a notice of appeal has elapsed.
+11 Subject to the filing of an appeal, the term includes:
+12 a. An imposed and suspended sentence;
+13 b. A deferred imposition of sentence under subsection 4 of section 12.1-32-02; or
+14 c. A forfeiture of bail or collateral deposited to secure a defendant's appearance in
+15 court and the forfeiture has not been vacated.
+16 14.15. "Crosswalk" means that part of a roadway at an intersection included within the
+17 connections of the lateral lines of the sidewalks on opposite sides of the highway
+18 measured from the curbs, or, in the absence of curbs, from the edges of the
+19 traversable roadway; or any portion of a roadway at an intersection or elsewhere
+20 distinctly indicated for pedestrian crossing by lines or other markings on the surface.
+21 15.16. "Dealer" means every person, partnership, corporation, or limited liability company
+22 engaged in the business of buying, selling, or exchanging motor vehicles, or who
+23 advertises, or holds out to the public as engaged in the buying, selling, or exchanging
+24 of motor vehicles, or who engages in the buying of motor vehicles for resale. Any
+25 person, partnership, corporation, limited liability company, or association doing
+26 business in several cities or in several locations within a city must be considered a
+27 separate dealer in each such location.
+28 16.17. "Department" means the department of transportation of this state as provided by
+29 section 24-02-01.1.
+30 17.18. "Director" means the director of the department of transportation of this state as
+31 provided by section 24-02-01.3.
+Page No. 5 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 18.19. "Driver" means every person who drives or is in actual physical control of a vehicle.
+2 19.20. "Electric bicycle" means a bicycle equipped with fully operable pedals, a saddle or
+3 seat for the rider, and an electric motor of seven hundred fifty or fewer watts which
+4 meets the requirements of one of the following three classes:
+5 a. A class 1 electric bicycle if the motor provides assistance only when the individual
+6 is pedaling and the motor ceases to provide assistance when a speed of twenty
+7 miles [32 kilometers] per hour is achieved.
+8 b. A class 2 electric bicycle if the motor is capable of propelling the bicycle without
+9 the individual pedaling and the motor ceases to provide assistance when a speed
+10 of twenty miles [32 kilometers] per hour is achieved.
+11 c. A class 3 electric bicycle if the motor provides assistance only when the individual
+12 is pedaling and the motor ceases to provide assistance when a speed of
+13 twenty-eight miles [45 kilometers] per hour is achieved.
+14 20.21. "Electronic communication device" means an electronic device, including a wireless
+15 telephone, personal digital assistant, a portable or mobile computer or other device,
+16 and video display equipment. The term does not include a global positioning system or
+17 navigation system or a device that is physically or electronically integrated into the
+18 motor vehicle.
+19 21.22. "Essential parts" means all integral and body parts of a vehicle of a type required to be
+20 registered hereunder, the removal, alteration, or substitution of which would tend to
+21 conceal the identity of the vehicle or substantially alter its appearance, model, type, or
+22 mode of operation and includes all integral parts and body parts, the removal,
+23 alteration, or substitution of which will tend to conceal the identity or substantially alter
+24 the appearance of the vehicle.
+25 22.23. "Explosives" means any chemical compound or mechanical mixture that is commonly
+26 used or intended for the purpose of producing an explosion and which contains any
+27 oxidizing and combustive units or other ingredients in such proportions, quantities, or
+28 packing that an ignition by fire, by friction, by concussion, by percussion, or by
+29 detonator of any part of the compound or mixture may cause such a sudden
+30 generation of highly heated gases that the resultant gaseous pressures are capable of
+31 producing destructive effects on contiguous objects or by destroying life or limb.
+Page No. 6 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 23.24. "Farm tractor" includes every motor vehicle designed and used primarily as a farm
+2 implement for drawing plows, moving machines, and other implements of husbandry.
+3 24.25. "Farm trailer" includes those trailers and semitrailers towed by a bona fide resident
+4 farmer hauling the farmer's own agricultural, horticultural, dairy, and other farm
+5 products if the gross weight, not including the towing vehicle, does not exceed
+6 twenty-four thousand pounds [10886.22 kilograms].
+7 25.26. "Fifth-wheel travel trailer" means a vehicular unit mounted on wheels, designed to
+8 provide temporary living quarters for recreational, camping, or travel use, of such size
+9 or weight as not to require a special highway movement permit and designed to be
+10 towed by a motorized vehicle that contains a towing mechanism that is mounted
+11 above or forward of the tow vehicle's rear axle.
+12 26.27. "Flammable liquid" means any liquid which has a flash point of seventy degrees
+13 Fahrenheit [21.11 degrees Celsius], or less, as determined by a tagliabue or
+14 equivalent closed-cup test device.
+15 27.28. "Foreign vehicle" means every motor vehicle which is brought into this state other than
+16 in the ordinary course of business by or through a manufacturer or dealer and which
+17 has not been registered in this state.
+18 28.29. "Gross weight" means the weight of a vehicle without load plus the weight of any load
+19 thereon.
+20 29.30. "Guest" means and includes a person who accepts a ride in any vehicle without giving
+21 compensation therefor.
+22 30.31. "Highway" means the entire width between the boundary lines of every way publicly
+23 maintained when any part thereof is open to the use of the public for purposes of
+24 vehicular travel and of every way privately maintained within a mobile home park,
+25 trailer park, or campground containing five or more lots for occupancy by mobile
+26 homes, travel trailers, or tents when any part thereof is open for purposes of vehicular
+27 travel.
+28 31.32. "House car" or "motor home" means a motor vehicle which has been reconstructed or
+29 manufactured primarily for private use as a temporary or recreational dwelling and
+30 having at least four of the following permanently installed systems:
+31 a. Cooking facilities.
+Page No. 7 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 b. Icebox or mechanical refrigerator.
+2 c. Potable water supply including plumbing and a sink with faucet either
+3 self-contained or with connections for an external source, or both.
+4 d. Self-contained toilet or a toilet connected to a plumbing system with connection
+5 for external water disposal, or both.
+6 e. Heating or air-conditioning system, or both, separate from the vehicle engine or
+7 the vehicle engine electrical system.
+8 f. A 110-115 volt alternating current electrical system separate from the vehicle
+9 engine electrical system either with its own power supply or with a connection for
+10 an external source, or both, or a liquefied petroleum system and supply.
+11 32.33. "Implement of husbandry" means every vehicle designed and adapted exclusively for
+12 agricultural, horticultural, or livestock raising operations or for lifting or carrying an
+13 implement of husbandry and in either case not subject to registration if used upon the
+14 highway.
+15 33.34. "Intersection" means the area embraced within the prolongation or connection of the
+16 lateral curb lines, or, if none, then the lateral boundary lines of the roadways of two
+17 highways which join one another at, or approximately at, right angles, or the area
+18 within which vehicles traveling upon different highways joining at any other angle may
+19 come in conflict. Where a highway includes two roadways thirty feet [9.14 meters] or
+20 more apart, then every crossing of each roadway of such divided highway by an
+21 intersecting highway must be regarded as a separate intersection. In the event such
+22 intersecting highway also includes two roadways thirty feet [9.14 meters] or more
+23 apart, then every crossing of two roadways of such highways must be regarded as a
+24 separate intersection.
+25 34.35. "Intoxicating liquor" means and includes any beverage containing alcohol.
+26 35.36. "Judgment" means any judgment which has become final by expiration without appeal
+27 of the time within which an appeal might have been perfected, or by final affirmation
+28 on appeal, rendered by a court of competent jurisdiction of any state of the United
+29 States, upon a claim for relief arising out of ownership, maintenance, or use of any
+30 motor vehicle, for damages, including damages for care and loss of services, because
+31 of bodily injury to or death of any person, or for damages because of injury to or
+Page No. 8 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 destruction of property, including the loss of use thereof, or upon a claim for relief on
+2 an agreement of settlement for such damages.
+3 36.37. "Legal owner" means a person who holds the legal title to a vehicle.
+4 37.38. "Licensed health care provider" means doctor of medicine, doctor of osteopathy,
+5 doctor of chiropractic, optometrist, psychologist, advanced practice registered nurse,
+6 or physician assistant who is licensed, certified, or registered in accordance with laws
+7 and regulations in this or another state.
+8 38.39. "Lienholder" means a person holding a security interest in a vehicle.
+9 39.40. "Local authorities" includes every county, municipal, and other local board or body
+10 having authority to adopt local police regulations under the constitution and laws of
+11 this state.
+12 40.41. "Mail" means to deposit mail properly addressed and with postage prepaid with the
+13 United States postal service.
+14 41.42. "Manifest injustice" means a specific finding by the court that the imposition of
+15 sentence is unreasonably harsh or shocking to the conscience of a reasonable
+16 person, with due consideration of the totality of circumstances.
+17 42.43. "Manufactured home" means a structure, transportable in one or more sections, that,
+18 in the traveling mode, is eight body feet [2.44 meters] or more in width or forty body
+19 feet [12.19 meters] or more in length, or, when erected onsite, is three hundred twenty
+20 square feet [29.73 square meters] or more, and which is built on a permanent chassis
+21 and designed to be used as a dwelling with or without a permanent foundation when
+22 connected to the required utilities, and includes the plumbing, heating, air-conditioning,
+23 and electrical systems contained therein. The term includes any structure that meets
+24 all of the requirements of this subsection except the size requirements and with
+25 respect to whether the manufacturer voluntarily files a certification required by the
+26 United States secretary of housing and urban development and complies with the
+27 standards established under title 42 of the United States Code.
+28 43.44. "Manufacturer" means any person who manufactures, assembles, or imports and sells
+29 new motor vehicles to new motor vehicle dealers for resale in the state; but such term
+30 does not include a person who assembles or specially builds interior equipment on a
+31 completed vehicle supplied by another manufacturer, distributor, or supplier.
+Page No. 9 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 44.45. "Metal tires" includes all tires the surface of which in contact with the highway is wholly
+2 or partly of metal or other hard, nonresilient material except that this provision does
+3 not apply to pneumatic tires.
+4 45.46. "Mobile home" means a structure, either single or multisectional, which is built on a
+5 permanent chassis, ordinarily designed for human living quarters, either on a
+6 temporary or permanent basis, owned or used as a residence or place of business of
+7 the owner or occupant, which is either attached to utility services or is twenty-seven
+8 feet [8.23 meters] or more in length.
+9 46.47. "Modular unit" includes every factory fabricated transportable building unit designed to
+10 be incorporated with similar units at a building site into a modular structure to be used
+11 for residential, commercial, educational, or industrial purposes.
+12 47.48. "Motor vehicle" includes every vehicle that is self-propelled, every vehicle that is
+13 propelled by electric power obtained from overhead trolley wires, but not operated
+14 upon rails, and, for purposes of motor vehicle registration, title registration, and
+15 operator's licenses, motorized bicycles. The term does not include a snowmobile as
+16 defined in section 39-24-01, an electric bicycle, or a multipassenger bicycle.
+17 48.49. "Motorcycle" means every motor vehicle having a seat or saddle for the use of the
+18 rider and designed to travel on not more than three wheels in contact with the ground,
+19 but excluding implements of husbandry. The term does not include an electric bicycle.
+20 49.50. "Motorized bicycle" means a vehicle equipped with two or three wheels, foot pedals to
+21 permit muscular propulsion or footrests for use by the operator, a power source
+22 providing up to a maximum of two brake horsepower having a maximum piston or
+23 rotor displacement of 3.05 cubic inches [49.98 milliliters] if a combustion engine is
+24 used, which will propel the vehicle, unassisted, at a speed not to exceed thirty miles
+25 [48.28 kilometers] per hour on a level road surface, and a power drive system that
+26 functions directly or automatically only, not requiring clutching or shifting by the
+27 operator after the drive system is engaged, and the vehicle may not have a width
+28 greater than thirty-two inches [81.28 centimeters]. The term does not include an
+29 electric bicycle.
+Page No. 10 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 50.51. "Motor-powered recreational vehicle" means a motorcycle, unconventional vehicle, or
+2 off-highway vehicle as defined in section 39-29-01, or a snowmobile as defined in
+3 section 39-24-01. The term does not include an electric bicycle.
+4 51.52. "Multipassenger bicycle" means a vehicle that:
+5 a. Has fully operative pedals for propulsion entirely by human power;
+6 b. Has at least four wheels and is operated in a manner similar to a bicycle;
+7 c. Has at least five seats for passengers;
+8 d. Has been designed to be occupied by a driver and powered either by passengers
+9 providing pedal power to the drive train of the vehicle or by a motor capable of
+10 propelling the vehicle in the absence of human power;
+11 e. Is used for commercial purposes;
+12 f. Is operated by the owner of the vehicle or an employee of the owner of the
+13 vehicle;
+14 g. Is equipped with a steering wheel that gives the driver exclusive control of the
+15 direction of the vehicle;
+16 h. Is equipped with at least one taillamp in accordance with section 39-21-04;
+17 i. Is equipped with a stop lamp in accordance with subsection 1 of section
+18 39-21-19; and
+19 j. Is equipped with headlamps in accordance with section 39-27-17.1.
+20 52.53. "Nonresident" means any person who is not a resident of this state.
+21 53.54. "Nonresident's operating privilege" means the privilege conferred upon a nonresident
+22 by the laws of this state pertaining to the operation by such person of a motor vehicle,
+23 or the use of a vehicle owned by such person, in this state.
+24 54.55. "Official traffic-control devices" means all signs, signals, markings, and devices not
+25 inconsistent with this title placed or erected by authority of a public body or official
+26 having jurisdiction, for the purpose of regulating, warning, or guiding traffic.
+27 55.56. "Operator" means every person who drives or is in actual physical control of a motor
+28 vehicle upon a highway or who is exercising control over or steering a vehicle being
+29 towed by a motor vehicle.
+Page No. 11 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 56.57. "Operator's license", "driver's license", or "license to operate a motor vehicle" means
+2 any operator's or driver's license or any other license or permit to operate a motor
+3 vehicle issued under, or granted by, the laws of this state, including:
+4 a. Any temporary license or instruction permit;
+5 b. The privilege of any person to drive a motor vehicle whether such person holds a
+6 valid license; or
+7 c. Any nonresident's operating privilege as defined in this section.
+8 57.58. "Owner" means a person, other than a lienholder, having the property in or title to a
+9 vehicle. The term includes a person entitled to the use and possession of a vehicle
+10 subject to a security interest in another person, but excludes a lessee under a lease
+11 not intended as security.
+12 58.59. "Park", when prohibited, means the standing of a vehicle, whether occupied or not,
+13 otherwise than temporarily for the purpose of and while actually engaged in loading or
+14 unloading.
+15 59.60. "Passenger motor vehicle" means every motor vehicle designed principally for the
+16 transportation of persons and includes vehicles which utilize a truck chassis, but have
+17 a seating capacity for four or more passengers.
+18 60.61. "Pedestrian" means any person afoot.
+19 61.62. "Person" includes every natural person, firm, copartnership, association, corporation,
+20 or limited liability company.
+21 62.63. "Pneumatic tires" includes all tires inflated with compressed air.
+22 63.64. "Pole trailer" means every vehicle without motive power designed to be drawn by
+23 another vehicle and attached to the towing vehicle by means of a reach, or pole, or by
+24 being boomed or otherwise secured to the towing vehicle, and ordinarily used for
+25 transporting long or irregularly shaped loads such as poles, pipes, or structural
+26 members capable, generally, of sustaining themselves as beams between the
+27 supporting connections.
+28 64.65. "Police officer" means every officer authorized to direct or regulate traffic or to make
+29 arrests for violations of traffic regulations.
+30 65.66. "Primary source identity document" means documentary evidence of an individual's
+31 name, date of birth, and legal presence required in chapters 39-06 and 39-06.2 related
+Page No. 12 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 to the issuance of permits, licenses, and nondriver photo identification cards, and
+2 retained in the driver record.
+3 66.67. "Private road or driveway" means every way or place in private ownership and used
+4 for vehicular travel by the owner and those having express or implied permission from
+5 the owner, but not by other persons.
+6 67.68. "Proof of financial responsibility" means proof of ability to respond in damages for
+7 liability, on account of accidents occurring after the effective date of the proof, arising
+8 out of the ownership, maintenance, or use of a motor vehicle, in the amount of
+9 twenty-five thousand dollars because of bodily injury to or death of one person in any
+10 one accident, and, subject to the limit for one person, in the amount of fifty thousand
+11 dollars because of bodily injury to or death of two or more persons in any one
+12 accident, and in the amount of twenty-five thousand dollars because of injury to or
+13 destruction of property of others in any one accident.
+14 68.69. "Railroad" means a carrier of persons or property upon cars, other than streetcars,
+15 operated upon stationary rails.
+16 69.70. "Railroad sign or signal" means any sign, signal, or device erected by authority of a
+17 public body or official or by a railroad and intended to give notice of the presence of
+18 railroad tracks or the approach of a railroad train.
+19 70.71. "Reconstructed vehicle" means any vehicle, of a type required to be registered,
+20 materially altered from its original construction by the removal, addition, or substitution
+21 of new or used essential parts.
+22 71.72. "Recreational vehicle" means any motorcycle not qualified for registration, off-highway
+23 vehicle, snowmobile, vessel, or personal watercraft. The term does not include an
+24 electric bicycle.
+25 72.73. "Residence district" means territory contiguous to a highway not comprising a
+26 business district, when the frontage on such highway for a distance of three hundred
+27 feet [91.44 meters] or more is occupied mainly by dwellings, or by dwellings and
+28 buildings in use for business.
+29 73.74. "Revocation" means that the operator's license is terminated and may not be renewed
+30 or restored, except on application for a new license presented to and acted upon by
+31 the director after the expiration of the period of revocation.
+Page No. 13 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 74.75. "Right of way" means the privilege of the immediate use of a roadway.
+2 75.76. "Road tractor" means every motor vehicle designed and used for drawing other
+3 vehicles and not so constructed as to carry any load thereon either independently or
+4 any part of the weight of a vehicle or load so drawn.
+5 76.77. "Roadway" means that portion of a highway improved, designed, or ordinarily used for
+6 vehicular travel, exclusive of the berm or shoulder. In the event a highway includes two
+7 or more separate roadways, the term "roadway" as used herein refers to any such
+8 roadway separately but not to all such roadways collectively.
+9 77.78. "Saddle mount" means placing the front wheels of the drawn vehicle upon the bed of
+10 the drawing vehicle.
+11 78.79. "Safety zone" means the area or space officially set aside within a highway for the
+12 exclusive use of pedestrians and which is so plainly marked or indicated by proper
+13 signs as to be plainly visible at all times while set aside as a safety zone.
+14 79.80. "Salvage certificate of title" means a document issued by the department for purposes
+15 of proof of ownership of a salvage or destroyed vehicle and not acceptable for motor
+16 vehicle registration purposes.
+17 80.81. "Schoolbus" means a motor vehicle designed or used to carry more than ten
+18 passengers in addition to the driver, and is used for the purpose of transporting
+19 preprimary, primary, or secondary school students from home to school, from school to
+20 home, or to and from school-related events. For the purposes of chapter 39-21,
+21 "schoolbus" means any motor vehicle that is owned or leased by a public or
+22 governmental agency and used to transport preprimary, primary, or secondary school
+23 students to or from school or to or from school-related events, or is privately owned
+24 and operated for compensation to transport preprimary, primary, or secondary school
+25 students to or from school or to or from school-related events. Schoolbus does not
+26 include a bus used as a common carrier.
+27 81.82. "Semitrailer" includes every vehicle of the trailer type so designed and used in
+28 conjunction with a truck or truck tractor that some part of its own weight and that of its
+29 own load rests upon or is carried by a truck or truck tractor, except that it does not
+30 include a "housetrailer" or "mobile home".
+Page No. 14 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 82.83. "Sidewalk" means that portion of a street between the curb lines, or the lateral lines of
+2 a roadway, and the adjacent property lines, intended for use of pedestrians.
+3 83.84. "Solid tire" includes every tire made of rubber or other resilient material other than a
+4 pneumatic tire.
+5 84.85. "Special mobile equipment" means every vehicle not designed or used primarily for
+6 the transportation of persons or property and only incidentally operated or moved over
+7 a highway.
+8 85.86. "Specially constructed vehicle" means any vehicle which was not constructed
+9 originally under the distinct name, make, model, or type by a generally recognized
+10 manufacturer of vehicles.
+11 86.87. "Stand" or "standing" means the halting of a vehicle, whether occupied or not,
+12 otherwise than temporarily for the purpose of and while actually engaged in receiving
+13 or discharging passengers.
+14 87.88. "State" means a state, territory, or possession of the United States, the District of
+15 Columbia, the Commonwealth of Puerto Rico, or a province of the Dominion of
+16 Canada.
+17 88.89. "Stop", when required, means complete cessation from movement.
+18 89.90. "Stop" or "stopping", when prohibited, means any halting, even momentarily, of a
+19 vehicle, whether occupied or not, except when necessary to avoid conflict with other
+20 traffic or in compliance with the directions of a police officer or traffic-control sign or
+21 signal.
+22 90.91. "Street" means the entire width between boundary lines of every way publicly
+23 maintained when any part thereof is open to the use of the public for purposes of
+24 vehicular travel.
+25 91.92. "Superintendent" means the superintendent of the North Dakota state highway patrol,
+26 acting directly or through authorized employees of the superintendent.
+27 92.93. "Suspension" means that the operator's license is temporarily withdrawn but only
+28 during the period of the suspension.
+29 93.94. "Through highway" means every highway or portion thereof on which vehicular traffic
+30 is given preferential right of way, and at the entrances to which vehicular traffic from
+31 intersecting highways is required by law to yield right of way to vehicles on such
+Page No. 15 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 through highway and in obedience to either a stop sign or yield sign, when such signs
+2 are erected by law.
+3 94.95. "Trackless trolley coach" means every motor vehicle which is propelled by electric
+4 power obtained from overhead trolley wires but not operated upon rails.
+5 95.96. "Traffic" means pedestrians, ridden or herded animals, vehicles, streetcars, and other
+6 conveyances either singly or together while using any highway for purposes of travel.
+7 96.97. "Traffic-control signal" means any device, whether manually, electrically, or
+8 mechanically operated, by which traffic is alternately directed to stop and to proceed.
+9 97.98. "Trailer" includes every vehicle without motive power designed to carry property or
+10 passengers wholly on its own structure and to be drawn by a motor vehicle, except
+11 that it does not include a "housetrailer" or "mobile home", which terms mean a vehicle
+12 as defined in this subsection which is designed and intended for use as living or
+13 sleeping quarters for people and which is not used for commercial hauling of
+14 passengers.
+15 98.99. "Travel trailer" means a vehicular unit mounted on wheels, designed to provide
+16 temporary living quarters for recreational, camping, or travel use, and of such size or
+17 weight as not to require a special highway movement permit when towed by a
+18 motorized vehicle.
+19 99.100. "Truck" includes every motor vehicle designed, used, or maintained primarily for
+20 transportation of property.
+21 100.101."Truck camper" means a portable unit that is constructed to provide temporary living
+22 quarters for recreational, camping, or travel use; consists of a roof, floor, and sides;
+23 and is designed to be loaded onto and unloaded from the bed of a pickup truck.
+24 101.102."Truck tractor" includes every motor vehicle designed and used primarily for drawing
+25 other vehicles and not so constructed as to carry a load other than a part of the weight
+26 of the vehicle and load so drawn.
+27 102.103."Urban district" means the territory contiguous to and including any street which is built
+28 up with structures devoted to business, industry, or dwelling houses situated at
+29 intervals of less than one hundred feet [30.48 meters] for a distance of a quarter of a
+30 mile [402.34 meters] or more.
+Page No. 16 25.1255.01000
+Sixty-ninth
+Legislative Assembly
+1 103.104."Used vehicle" means a motor vehicle which has been sold, bargained, exchanged,
+2 given away, or the title to which has been transferred to another, by the person who
+3 first acquired it from the manufacturer or importer, dealer, or agent of the manufacturer
+4 or importer.
+5 104.105."Vehicle" includes every device in, upon, or by which any person or property may be
+6 transported or drawn upon a public highway, except devices moved by human power
+7 or used exclusively upon stationary rails or tracks. The term does not include an
+8 electric bicycle.
+9 SECTION 2. A new section to chapter 39-10 of the North Dakota Century Code is created
+10 and enacted as follows:
+11 Automated truck tractor operation requirement.
+12 An automated truck tractor may not be operated on a highway of this state to transport
+13 passengers or goods unless an individual with a valid commercial driver's license is physically
+14 present in the automated truck tractor. The individual must be able to monitor the performance
+15 of the automated truck tractor and take control of driving the automated truck tractor.
+Page No. 17 25.1255.01000
+[DELETED: .".".")V)V12]
+[DELETED: )V)A)V)V)V)V)V)V)V)V)V."."22]
+[DELETED: )V)V)V)V."."."."32]
+[DELETED: .".".".".T.C.H.".T.T.T42]
+[DELETED: .".".".A.A.A."."."."52]
+[DELETED: .".".A.A.A."."."62]
+[DELETED: .".".".".".".".".".C72]
+[DELETED: .I.P.S.H.A."."."."82]
+[DELETED: ."."."."."."."."92]
+[DELETED: ."."."."."."02]
+[DELETED: .".".H.H.H.H.I.I.I.I.I.I."."."."12]
+[DELETED: .".A.T.A."."."."."."."."."22]
+[DELETED: ."."."."."."."."32]
+[DELETED: ."."."."."."."."42]
+[DELETED: ."."."."."."."."."."."."52]
+[DELETED: ."."."."."."."."."62]
+[DELETED: ."."72]
+
+
+================================================================================
+
+Raw Text:
+25.1255.01000
+Sixty-ninth
+HOUSE BILL NO. 1614
+Legislative Assembly
+of North Dakota
+Introduced by
+Representatives Hendrix, D. Johnston
+1 A BILL for an Act to create and enact a new section to chapter 39-10 of the North Dakota
+2 Century Code, relating to the operation of an automated truck tractor; and to amend and
+3 reenact section 39-01-01 of the North Dakota Century Code, relating to the definition of an
+4 automated truck tractor.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 39-01-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 39-01-01. Definitions.
+9 In this title, unless the context or subject matter otherwise requires:
+10 1. "Appropriate licensed addiction treatment program" means an addiction treatment
+11 program conducted by an addiction facility licensed by the department of health and
+12 human services or conducted by a licensed individual specifically trained in addiction
+13 treatment.
+14 2. "Authorized emergency vehicles":
+15 a. "Class A" authorized emergency vehicles means:
+16 (1) Vehicles of a governmentally owned fire department.
+17 (2) Vehicles when operated by or under the control of a police officer having
+18 authority to enforce the provisions of this title or by a salaried employee of a
+19 municipal police department within the municipality or by a sheriff or deputy
+20 sheriff not including special deputy sheriffs, or by the director of the
+21 department of corrections and rehabilitation and the director's authorized
+22 agents who have successfully completed training in the operation of class A
+23 authorized emergency vehicles.
+Page No. 1 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (3) Vehicles clearly identifiable as property of the department of corrections and
+2 rehabilitation when operated or under the control of the director of the
+3 department of corrections and rehabilitation.
+4 (4) Ambulances and other vehicles authorized by licensure granted under
+5 chapter 23-27.
+6 (5) Vehicles operated by or under the control of the director, district deputy
+7 director, or a district deputy game warden of the game and fish department.
+8 (6) Vehicles owned or leased by the United States and used for law
+9 enforcement purposes.
+10 (7) Vehicles designated for the use of the adjutant general or assistant adjutant
+11 general in cases of emergency.
+12 (8) Vehicles operated by or under the control of the director of the parks and
+13 recreation department.
+14 (9) Vehicles operated by or under the control of a licensed railroad police officer
+15 and used for law enforcement purposes.
+16 (10) Vehicles operated by or under the control of the state forester.
+17 (11) Vehicles operated by or under the control of the bureau of criminal
+18 investigation and used for law enforcement purposes.
+19 (12) Vehicles operated by or under the department of health and human services
+20 in cases of emergencies.
+21 (13) Vehicles used or operated by governmental search and rescue personnel
+22 while performing emergency operations or duties. As used in this paragraph,
+23 "search and rescue" means deployment, coordination, and use of available
+24 resources and personnel in locating, relieving the distress, and preserving
+25 the life of and removing an individual who is missing, trapped, or lost in the
+26 backcountry, remote areas, or waters of the state. The term includes water
+27 and dive rescue.
+28 b. "Class B" authorized emergency vehicles means wreckers and such other
+29 emergency vehicles as are authorized by the local authorities.
+30 c. "Class C" authorized emergency vehicles means:
+Page No. 2 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (1) Vehicles used by the state division of homeland security or local division of
+2 emergency management organizations.
+3 (2) Vehicles used by volunteer firefighters while performing their assigned
+4 disaster and emergency responsibilities.
+5 (3) Vehicles, other than ambulances, used by emergency medical services
+6 personnel.
+7 (4) Vehicles used by volunteer search and rescue personnel if performing an
+8 emergency operation or duty upon the request of a state entity, political
+9 subdivision, or volunteer fire department. A volunteer organization may
+10 classify a personal vehicle as a class C emergency vehicle if needed to
+11 assist in a search and rescue operation in accordance with this paragraph.
+12 As used in this paragraph, "search and rescue" means deployment,
+13 coordination, and use of available resources and personnel in locating,
+14 relieving the distress, and preserving the life of and removing an individual
+15 who is missing, trapped, or lost in the backcountry, remote areas, or waters
+16 of the state. The term includes water and dive rescue.
+17 3. "Automated truck tractor" means a truck tractor that is towing a trailer or semitrailer
+18 and at least one aspect of a safety critical control function of the truck tractor occurs
+19 without direct input from an individual operating the truck tractor.
+20 4. "Bicycle" means every device propelled solely by human power upon which any
+21 person may ride, having two tandem wheels or two parallel wheels and one forward or
+22 rearward wheel. The term includes an electric bicycle and a multipassenger bicycle.
+23 4.5. "Bus" means every motor vehicle designed for carrying more than ten passengers and
+24 used for the transportation of persons, and every motor vehicle, other than a taxicab,
+25 designed and used for the transportation of persons for compensation. Provided,
+26 every motor vehicle designed for carrying not more than fifteen persons and used for a
+27 ridesharing arrangement, as defined in section 8-02-07, is not a "bus".
+28 5.6. "Business district" means the territory contiguous to a highway when fifty percent or
+29 more of the frontage thereon for a distance of three hundred feet [91.44 meters] or
+30 more is occupied by buildings in use for business.
+Page No. 3 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 6.7. "Camping trailer" means a vehicular portable unit mounted on wheels and constructed
+2 with collapsible partial side walls that fold for towing by another vehicle and unfold at
+3 the campsite to provide temporary living quarters for recreational, camping, or travel
+4 use.
+5 7.8. "Cancellation" means a license is annulled and terminated because of an error or
+6 defect or because the licensee is no longer entitled to the operator's license, but the
+7 cancellation of a license is without prejudice and application for a new license may be
+8 made at any time after the cancellation.
+9 8.9. "Child restraint system" means a specifically designed device, built-in seating system,
+10 or belt-positioning booster that meets the federal motor vehicle safety standards and is
+11 permanently affixed to a motor vehicle, is affixed to the vehicle by a safety belt or
+12 universal attachment system, or is combined with a federally compliant safety belt
+13 system.
+14 9.10. "Commercial freighting" means the carriage of things other than passengers, for hire,
+15 except that such term does not include:
+16 a. The carriage of things other than passengers within the limits of the same city;
+17 b. Carriage by local dray lines of baggage or goods to or from a railroad station from
+18 or to places in such city or in the immediate vicinity thereof, in this state, and not
+19 to exceed two miles [3.22 kilometers] from the corporate or recognized limits of
+20 said city; or
+21 c. Hauling done by farmers for their neighbors in transporting agricultural products
+22 to or from market.
+23 10.11. "Commercial passenger transportation" means the carriage of passengers for hire,
+24 except that the term does not include:
+25 a. The carriage of passengers within the limits of a city.
+26 b. The carriage by local buslines of passengers to or from a railroad station from or
+27 to places within any city or within two miles [3.22 kilometers] of the limits of the
+28 city.
+29 c. The carriage of passengers under a ridesharing arrangement, as defined in
+30 section 8-02-07.
+Page No. 4 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 11.12. "Commissioner" means the director of the department of transportation of this state,
+2 acting directly or through authorized agents as provided by section 24-02-01.3.
+3 12.13. "Controlled-access highway" means every highway, street, or roadway in respect to
+4 which owners or occupants of abutting lands and other persons have no legal right of
+5 access to or from the same except at such points only and in such manner as may be
+6 determined by the public authority having jurisdiction over such highway, street, or
+7 roadway.
+8 13.14. "Conviction" means a final order or judgment or conviction by the North Dakota
+9 supreme court, any lower court having jurisdiction, a tribal court, or a court in another
+10 state if an appeal is not pending and the time for filing a notice of appeal has elapsed.
+11 Subject to the filing of an appeal, the term includes:
+12 a. An imposed and suspended sentence;
+13 b. A deferred imposition of sentence under subsection 4 of section 12.1-32-02; or
+14 c. A forfeiture of bail or collateral deposited to secure a defendant's appearance in
+15 court and the forfeiture has not been vacated.
+16 14.15. "Crosswalk" means that part of a roadway at an intersection included within the
+17 connections of the lateral lines of the sidewalks on opposite sides of the highway
+18 measured from the curbs, or, in the absence of curbs, from the edges of the
+19 traversable roadway; or any portion of a roadway at an intersection or elsewhere
+20 distinctly indicated for pedestrian crossing by lines or other markings on the surface.
+21 15.16. "Dealer" means every person, partnership, corporation, or limited liability company
+22 engaged in the business of buying, selling, or exchanging motor vehicles, or who
+23 advertises, or holds out to the public as engaged in the buying, selling, or exchanging
+24 of motor vehicles, or who engages in the buying of motor vehicles for resale. Any
+25 person, partnership, corporation, limited liability company, or association doing
+26 business in several cities or in several locations within a city must be considered a
+27 separate dealer in each such location.
+28 16.17. "Department" means the department of transportation of this state as provided by
+29 section 24-02-01.1.
+30 17.18. "Director" means the director of the department of transportation of this state as
+31 provided by section 24-02-01.3.
+Page No. 5 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 18.19. "Driver" means every person who drives or is in actual physical control of a vehicle.
+2 19.20. "Electric bicycle" means a bicycle equipped with fully operable pedals, a saddle or
+3 seat for the rider, and an electric motor of seven hundred fifty or fewer watts which
+4 meets the requirements of one of the following three classes:
+5 a. A class 1 electric bicycle if the motor provides assistance only when the individual
+6 is pedaling and the motor ceases to provide assistance when a speed of twenty
+7 miles [32 kilometers] per hour is achieved.
+8 b. A class 2 electric bicycle if the motor is capable of propelling the bicycle without
+9 the individual pedaling and the motor ceases to provide assistance when a speed
+10 of twenty miles [32 kilometers] per hour is achieved.
+11 c. A class 3 electric bicycle if the motor provides assistance only when the individual
+12 is pedaling and the motor ceases to provide assistance when a speed of
+13 twenty-eight miles [45 kilometers] per hour is achieved.
+14 20.21. "Electronic communication device" means an electronic device, including a wireless
+15 telephone, personal digital assistant, a portable or mobile computer or other device,
+16 and video display equipment. The term does not include a global positioning system or
+17 navigation system or a device that is physically or electronically integrated into the
+18 motor vehicle.
+19 21.22. "Essential parts" means all integral and body parts of a vehicle of a type required to be
+20 registered hereunder, the removal, alteration, or substitution of which would tend to
+21 conceal the identity of the vehicle or substantially alter its appearance, model, type, or
+22 mode of operation and includes all integral parts and body parts, the removal,
+23 alteration, or substitution of which will tend to conceal the identity or substantially alter
+24 the appearance of the vehicle.
+25 22.23. "Explosives" means any chemical compound or mechanical mixture that is commonly
+26 used or intended for the purpose of producing an explosion and which contains any
+27 oxidizing and combustive units or other ingredients in such proportions, quantities, or
+28 packing that an ignition by fire, by friction, by concussion, by percussion, or by
+29 detonator of any part of the compound or mixture may cause such a sudden
+30 generation of highly heated gases that the resultant gaseous pressures are capable of
+31 producing destructive effects on contiguous objects or by destroying life or limb.
+Page No. 6 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 23.24. "Farm tractor" includes every motor vehicle designed and used primarily as a farm
+2 implement for drawing plows, moving machines, and other implements of husbandry.
+3 24.25. "Farm trailer" includes those trailers and semitrailers towed by a bona fide resident
+4 farmer hauling the farmer's own agricultural, horticultural, dairy, and other farm
+5 products if the gross weight, not including the towing vehicle, does not exceed
+6 twenty-four thousand pounds [10886.22 kilograms].
+7 25.26. "Fifth-wheel travel trailer" means a vehicular unit mounted on wheels, designed to
+8 provide temporary living quarters for recreational, camping, or travel use, of such size
+9 or weight as not to require a special highway movement permit and designed to be
+10 towed by a motorized vehicle that contains a towing mechanism that is mounted
+11 above or forward of the tow vehicle's rear axle.
+12 26.27. "Flammable liquid" means any liquid which has a flash point of seventy degrees
+13 Fahrenheit [21.11 degrees Celsius], or less, as determined by a tagliabue or
+14 equivalent closed-cup test device.
+15 27.28. "Foreign vehicle" means every motor vehicle which is brought into this state other than
+16 in the ordinary course of business by or through a manufacturer or dealer and which
+17 has not been registered in this state.
+18 28.29. "Gross weight" means the weight of a vehicle without load plus the weight of any load
+19 thereon.
+20 29.30. "Guest" means and includes a person who accepts a ride in any vehicle without giving
+21 compensation therefor.
+22 30.31. "Highway" means the entire width between the boundary lines of every way publicly
+23 maintained when any part thereof is open to the use of the public for purposes of
+24 vehicular travel and of every way privately maintained within a mobile home park,
+25 trailer park, or campground containing five or more lots for occupancy by mobile
+26 homes, travel trailers, or tents when any part thereof is open for purposes of vehicular
+27 travel.
+28 31.32. "House car" or "motor home" means a motor vehicle which has been reconstructed or
+29 manufactured primarily for private use as a temporary or recreational dwelling and
+30 having at least four of the following permanently installed systems:
+31 a. Cooking facilities.
+Page No. 7 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 b. Icebox or mechanical refrigerator.
+2 c. Potable water supply including plumbing and a sink with faucet either
+3 self-contained or with connections for an external source, or both.
+4 d. Self-contained toilet or a toilet connected to a plumbing system with connection
+5 for external water disposal, or both.
+6 e. Heating or air-conditioning system, or both, separate from the vehicle engine or
+7 the vehicle engine electrical system.
+8 f. A 110-115 volt alternating current electrical system separate from the vehicle
+9 engine electrical system either with its own power supply or with a connection for
+10 an external source, or both, or a liquefied petroleum system and supply.
+11 32.33. "Implement of husbandry" means every vehicle designed and adapted exclusively for
+12 agricultural, horticultural, or livestock raising operations or for lifting or carrying an
+13 implement of husbandry and in either case not subject to registration if used upon the
+14 highway.
+15 33.34. "Intersection" means the area embraced within the prolongation or connection of the
+16 lateral curb lines, or, if none, then the lateral boundary lines of the roadways of two
+17 highways which join one another at, or approximately at, right angles, or the area
+18 within which vehicles traveling upon different highways joining at any other angle may
+19 come in conflict. Where a highway includes two roadways thirty feet [9.14 meters] or
+20 more apart, then every crossing of each roadway of such divided highway by an
+21 intersecting highway must be regarded as a separate intersection. In the event such
+22 intersecting highway also includes two roadways thirty feet [9.14 meters] or more
+23 apart, then every crossing of two roadways of such highways must be regarded as a
+24 separate intersection.
+25 34.35. "Intoxicating liquor" means and includes any beverage containing alcohol.
+26 35.36. "Judgment" means any judgment which has become final by expiration without appeal
+27 of the time within which an appeal might have been perfected, or by final affirmation
+28 on appeal, rendered by a court of competent jurisdiction of any state of the United
+29 States, upon a claim for relief arising out of ownership, maintenance, or use of any
+30 motor vehicle, for damages, including damages for care and loss of services, because
+31 of bodily injury to or death of any person, or for damages because of injury to or
+Page No. 8 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 destruction of property, including the loss of use thereof, or upon a claim for relief on
+2 an agreement of settlement for such damages.
+3 36.37. "Legal owner" means a person who holds the legal title to a vehicle.
+4 37.38. "Licensed health care provider" means doctor of medicine, doctor of osteopathy,
+5 doctor of chiropractic, optometrist, psychologist, advanced practice registered nurse,
+6 or physician assistant who is licensed, certified, or registered in accordance with laws
+7 and regulations in this or another state.
+8 38.39. "Lienholder" means a person holding a security interest in a vehicle.
+9 39.40. "Local authorities" includes every county, municipal, and other local board or body
+10 having authority to adopt local police regulations under the constitution and laws of
+11 this state.
+12 40.41. "Mail" means to deposit mail properly addressed and with postage prepaid with the
+13 United States postal service.
+14 41.42. "Manifest injustice" means a specific finding by the court that the imposition of
+15 sentence is unreasonably harsh or shocking to the conscience of a reasonable
+16 person, with due consideration of the totality of circumstances.
+17 42.43. "Manufactured home" means a structure, transportable in one or more sections, that,
+18 in the traveling mode, is eight body feet [2.44 meters] or more in width or forty body
+19 feet [12.19 meters] or more in length, or, when erected onsite, is three hundred twenty
+20 square feet [29.73 square meters] or more, and which is built on a permanent chassis
+21 and designed to be used as a dwelling with or without a permanent foundation when
+22 connected to the required utilities, and includes the plumbing, heating, air-conditioning,
+23 and electrical systems contained therein. The term includes any structure that meets
+24 all of the requirements of this subsection except the size requirements and with
+25 respect to whether the manufacturer voluntarily files a certification required by the
+26 United States secretary of housing and urban development and complies with the
+27 standards established under title 42 of the United States Code.
+28 43.44. "Manufacturer" means any person who manufactures, assembles, or imports and sells
+29 new motor vehicles to new motor vehicle dealers for resale in the state; but such term
+30 does not include a person who assembles or specially builds interior equipment on a
+31 completed vehicle supplied by another manufacturer, distributor, or supplier.
+Page No. 9 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 44.45. "Metal tires" includes all tires the surface of which in contact with the highway is wholly
+2 or partly of metal or other hard, nonresilient material except that this provision does
+3 not apply to pneumatic tires.
+4 45.46. "Mobile home" means a structure, either single or multisectional, which is built on a
+5 permanent chassis, ordinarily designed for human living quarters, either on a
+6 temporary or permanent basis, owned or used as a residence or place of business of
+7 the owner or occupant, which is either attached to utility services or is twenty-seven
+8 feet [8.23 meters] or more in length.
+9 46.47. "Modular unit" includes every factory fabricated transportable building unit designed to
+10 be incorporated with similar units at a building site into a modular structure to be used
+11 for residential, commercial, educational, or industrial purposes.
+12 47.48. "Motor vehicle" includes every vehicle that is self-propelled, every vehicle that is
+13 propelled by electric power obtained from overhead trolley wires, but not operated
+14 upon rails, and, for purposes of motor vehicle registration, title registration, and
+15 operator's licenses, motorized bicycles. The term does not include a snowmobile as
+16 defined in section 39-24-01, an electric bicycle, or a multipassenger bicycle.
+17 48.49. "Motorcycle" means every motor vehicle having a seat or saddle for the use of the
+18 rider and designed to travel on not more than three wheels in contact with the ground,
+19 but excluding implements of husbandry. The term does not include an electric bicycle.
+20 49.50. "Motorized bicycle" means a vehicle equipped with two or three wheels, foot pedals to
+21 permit muscular propulsion or footrests for use by the operator, a power source
+22 providing up to a maximum of two brake horsepower having a maximum piston or
+23 rotor displacement of 3.05 cubic inches [49.98 milliliters] if a combustion engine is
+24 used, which will propel the vehicle, unassisted, at a speed not to exceed thirty miles
+25 [48.28 kilometers] per hour on a level road surface, and a power drive system that
+26 functions directly or automatically only, not requiring clutching or shifting by the
+27 operator after the drive system is engaged, and the vehicle may not have a width
+28 greater than thirty-two inches [81.28 centimeters]. The term does not include an
+29 electric bicycle.
+Page No. 10 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 50.51. "Motor-powered recreational vehicle" means a motorcycle, unconventional vehicle, or
+2 off-highway vehicle as defined in section 39-29-01, or a snowmobile as defined in
+3 section 39-24-01. The term does not include an electric bicycle.
+4 51.52. "Multipassenger bicycle" means a vehicle that:
+5 a. Has fully operative pedals for propulsion entirely by human power;
+6 b. Has at least four wheels and is operated in a manner similar to a bicycle;
+7 c. Has at least five seats for passengers;
+8 d. Has been designed to be occupied by a driver and powered either by passengers
+9 providing pedal power to the drive train of the vehicle or by a motor capable of
+10 propelling the vehicle in the absence of human power;
+11 e. Is used for commercial purposes;
+12 f. Is operated by the owner of the vehicle or an employee of the owner of the
+13 vehicle;
+14 g. Is equipped with a steering wheel that gives the driver exclusive control of the
+15 direction of the vehicle;
+16 h. Is equipped with at least one taillamp in accordance with section 39-21-04;
+17 i. Is equipped with a stop lamp in accordance with subsection 1 of section
+18 39-21-19; and
+19 j. Is equipped with headlamps in accordance with section 39-27-17.1.
+20 52.53. "Nonresident" means any person who is not a resident of this state.
+21 53.54. "Nonresident's operating privilege" means the privilege conferred upon a nonresident
+22 by the laws of this state pertaining to the operation by such person of a motor vehicle,
+23 or the use of a vehicle owned by such person, in this state.
+24 54.55. "Official traffic-control devices" means all signs, signals, markings, and devices not
+25 inconsistent with this title placed or erected by authority of a public body or official
+26 having jurisdiction, for the purpose of regulating, warning, or guiding traffic.
+27 55.56. "Operator" means every person who drives or is in actual physical control of a motor
+28 vehicle upon a highway or who is exercising control over or steering a vehicle being
+29 towed by a motor vehicle.
+Page No. 11 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 56.57. "Operator's license", "driver's license", or "license to operate a motor vehicle" means
+2 any operator's or driver's license or any other license or permit to operate a motor
+3 vehicle issued under, or granted by, the laws of this state, including:
+4 a. Any temporary license or instruction permit;
+5 b. The privilege of any person to drive a motor vehicle whether such person holds a
+6 valid license; or
+7 c. Any nonresident's operating privilege as defined in this section.
+8 57.58. "Owner" means a person, other than a lienholder, having the property in or title to a
+9 vehicle. The term includes a person entitled to the use and possession of a vehicle
+10 subject to a security interest in another person, but excludes a lessee under a lease
+11 not intended as security.
+12 58.59. "Park", when prohibited, means the standing of a vehicle, whether occupied or not,
+13 otherwise than temporarily for the purpose of and while actually engaged in loading or
+14 unloading.
+15 59.60. "Passenger motor vehicle" means every motor vehicle designed principally for the
+16 transportation of persons and includes vehicles which utilize a truck chassis, but have
+17 a seating capacity for four or more passengers.
+18 60.61. "Pedestrian" means any person afoot.
+19 61.62. "Person" includes every natural person, firm, copartnership, association, corporation,
+20 or limited liability company.
+21 62.63. "Pneumatic tires" includes all tires inflated with compressed air.
+22 63.64. "Pole trailer" means every vehicle without motive power designed to be drawn by
+23 another vehicle and attached to the towing vehicle by means of a reach, or pole, or by
+24 being boomed or otherwise secured to the towing vehicle, and ordinarily used for
+25 transporting long or irregularly shaped loads such as poles, pipes, or structural
+26 members capable, generally, of sustaining themselves as beams between the
+27 supporting connections.
+28 64.65. "Police officer" means every officer authorized to direct or regulate traffic or to make
+29 arrests for violations of traffic regulations.
+30 65.66. "Primary source identity document" means documentary evidence of an individual's
+31 name, date of birth, and legal presence required in chapters 39-06 and 39-06.2 related
+Page No. 12 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 to the issuance of permits, licenses, and nondriver photo identification cards, and
+2 retained in the driver record.
+3 66.67. "Private road or driveway" means every way or place in private ownership and used
+4 for vehicular travel by the owner and those having express or implied permission from
+5 the owner, but not by other persons.
+6 67.68. "Proof of financial responsibility" means proof of ability to respond in damages for
+7 liability, on account of accidents occurring after the effective date of the proof, arising
+8 out of the ownership, maintenance, or use of a motor vehicle, in the amount of
+9 twenty-five thousand dollars because of bodily injury to or death of one person in any
+10 one accident, and, subject to the limit for one person, in the amount of fifty thousand
+11 dollars because of bodily injury to or death of two or more persons in any one
+12 accident, and in the amount of twenty-five thousand dollars because of injury to or
+13 destruction of property of others in any one accident.
+14 68.69. "Railroad" means a carrier of persons or property upon cars, other than streetcars,
+15 operated upon stationary rails.
+16 69.70. "Railroad sign or signal" means any sign, signal, or device erected by authority of a
+17 public body or official or by a railroad and intended to give notice of the presence of
+18 railroad tracks or the approach of a railroad train.
+19 70.71. "Reconstructed vehicle" means any vehicle, of a type required to be registered,
+20 materially altered from its original construction by the removal, addition, or substitution
+21 of new or used essential parts.
+22 71.72. "Recreational vehicle" means any motorcycle not qualified for registration, off-highway
+23 vehicle, snowmobile, vessel, or personal watercraft. The term does not include an
+24 electric bicycle.
+25 72.73. "Residence district" means territory contiguous to a highway not comprising a
+26 business district, when the frontage on such highway for a distance of three hundred
+27 feet [91.44 meters] or more is occupied mainly by dwellings, or by dwellings and
+28 buildings in use for business.
+29 73.74. "Revocation" means that the operator's license is terminated and may not be renewed
+30 or restored, except on application for a new license presented to and acted upon by
+31 the director after the expiration of the period of revocation.
+Page No. 13 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 74.75. "Right of way" means the privilege of the immediate use of a roadway.
+2 75.76. "Road tractor" means every motor vehicle designed and used for drawing other
+3 vehicles and not so constructed as to carry any load thereon either independently or
+4 any part of the weight of a vehicle or load so drawn.
+5 76.77. "Roadway" means that portion of a highway improved, designed, or ordinarily used for
+6 vehicular travel, exclusive of the berm or shoulder. In the event a highway includes two
+7 or more separate roadways, the term "roadway" as used herein refers to any such
+8 roadway separately but not to all such roadways collectively.
+9 77.78. "Saddle mount" means placing the front wheels of the drawn vehicle upon the bed of
+10 the drawing vehicle.
+11 78.79. "Safety zone" means the area or space officially set aside within a highway for the
+12 exclusive use of pedestrians and which is so plainly marked or indicated by proper
+13 signs as to be plainly visible at all times while set aside as a safety zone.
+14 79.80. "Salvage certificate of title" means a document issued by the department for purposes
+15 of proof of ownership of a salvage or destroyed vehicle and not acceptable for motor
+16 vehicle registration purposes.
+17 80.81. "Schoolbus" means a motor vehicle designed or used to carry more than ten
+18 passengers in addition to the driver, and is used for the purpose of transporting
+19 preprimary, primary, or secondary school students from home to school, from school to
+20 home, or to and from school-related events. For the purposes of chapter 39-21,
+21 "schoolbus" means any motor vehicle that is owned or leased by a public or
+22 governmental agency and used to transport preprimary, primary, or secondary school
+23 students to or from school or to or from school-related events, or is privately owned
+24 and operated for compensation to transport preprimary, primary, or secondary school
+25 students to or from school or to or from school-related events. Schoolbus does not
+26 include a bus used as a common carrier.
+27 81.82. "Semitrailer" includes every vehicle of the trailer type so designed and used in
+28 conjunction with a truck or truck tractor that some part of its own weight and that of its
+29 own load rests upon or is carried by a truck or truck tractor, except that it does not
+30 include a "housetrailer" or "mobile home".
+Page No. 14 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 82.83. "Sidewalk" means that portion of a street between the curb lines, or the lateral lines of
+2 a roadway, and the adjacent property lines, intended for use of pedestrians.
+3 83.84. "Solid tire" includes every tire made of rubber or other resilient material other than a
+4 pneumatic tire.
+5 84.85. "Special mobile equipment" means every vehicle not designed or used primarily for
+6 the transportation of persons or property and only incidentally operated or moved over
+7 a highway.
+8 85.86. "Specially constructed vehicle" means any vehicle which was not constructed
+9 originally under the distinct name, make, model, or type by a generally recognized
+10 manufacturer of vehicles.
+11 86.87. "Stand" or "standing" means the halting of a vehicle, whether occupied or not,
+12 otherwise than temporarily for the purpose of and while actually engaged in receiving
+13 or discharging passengers.
+14 87.88. "State" means a state, territory, or possession of the United States, the District of
+15 Columbia, the Commonwealth of Puerto Rico, or a province of the Dominion of
+16 Canada.
+17 88.89. "Stop", when required, means complete cessation from movement.
+18 89.90. "Stop" or "stopping", when prohibited, means any halting, even momentarily, of a
+19 vehicle, whether occupied or not, except when necessary to avoid conflict with other
+20 traffic or in compliance with the directions of a police officer or traffic-control sign or
+21 signal.
+22 90.91. "Street" means the entire width between boundary lines of every way publicly
+23 maintained when any part thereof is open to the use of the public for purposes of
+24 vehicular travel.
+25 91.92. "Superintendent" means the superintendent of the North Dakota state highway patrol,
+26 acting directly or through authorized employees of the superintendent.
+27 92.93. "Suspension" means that the operator's license is temporarily withdrawn but only
+28 during the period of the suspension.
+29 93.94. "Through highway" means every highway or portion thereof on which vehicular traffic
+30 is given preferential right of way, and at the entrances to which vehicular traffic from
+31 intersecting highways is required by law to yield right of way to vehicles on such
+Page No. 15 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 through highway and in obedience to either a stop sign or yield sign, when such signs
+2 are erected by law.
+3 94.95. "Trackless trolley coach" means every motor vehicle which is propelled by electric
+4 power obtained from overhead trolley wires but not operated upon rails.
+5 95.96. "Traffic" means pedestrians, ridden or herded animals, vehicles, streetcars, and other
+6 conveyances either singly or together while using any highway for purposes of travel.
+7 96.97. "Traffic-control signal" means any device, whether manually, electrically, or
+8 mechanically operated, by which traffic is alternately directed to stop and to proceed.
+9 97.98. "Trailer" includes every vehicle without motive power designed to carry property or
+10 passengers wholly on its own structure and to be drawn by a motor vehicle, except
+11 that it does not include a "housetrailer" or "mobile home", which terms mean a vehicle
+12 as defined in this subsection which is designed and intended for use as living or
+13 sleeping quarters for people and which is not used for commercial hauling of
+14 passengers.
+15 98.99. "Travel trailer" means a vehicular unit mounted on wheels, designed to provide
+16 temporary living quarters for recreational, camping, or travel use, and of such size or
+17 weight as not to require a special highway movement permit when towed by a
+18 motorized vehicle.
+19 99.100. "Truck" includes every motor vehicle designed, used, or maintained primarily for
+20 transportation of property.
+21 100.101."Truck camper" means a portable unit that is constructed to provide temporary living
+22 quarters for recreational, camping, or travel use; consists of a roof, floor, and sides;
+23 and is designed to be loaded onto and unloaded from the bed of a pickup truck.
+24 101.102."Truck tractor" includes every motor vehicle designed and used primarily for drawing
+25 other vehicles and not so constructed as to carry a load other than a part of the weight
+26 of the vehicle and load so drawn.
+27 102.103."Urban district" means the territory contiguous to and including any street which is built
+28 up with structures devoted to business, industry, or dwelling houses situated at
+29 intervals of less than one hundred feet [30.48 meters] for a distance of a quarter of a
+30 mile [402.34 meters] or more.
+Page No. 16 25.1255.01000
+
+Sixty-ninth
+Legislative Assembly
+1 103.104."Used vehicle" means a motor vehicle which has been sold, bargained, exchanged,
+2 given away, or the title to which has been transferred to another, by the person who
+3 first acquired it from the manufacturer or importer, dealer, or agent of the manufacturer
+4 or importer.
+5 104.105."Vehicle" includes every device in, upon, or by which any person or property may be
+6 transported or drawn upon a public highway, except devices moved by human power
+7 or used exclusively upon stationary rails or tracks. The term does not include an
+8 electric bicycle.
+9 SECTION 2. A new section to chapter 39-10 of the North Dakota Century Code is created
+10 and enacted as follows:
+11 Automated truck tractor operation requirement.
+12 An automated truck tractor may not be operated on a highway of this state to transport
+13 passengers or goods unless an individual with a valid commercial driver's license is physically
+14 present in the automated truck tractor. The individual must be able to monitor the performance
+15 of the automated truck tractor and take control of driving the automated truck tractor.
+Page No. 17 25.1255.01000
+
+[DELETED: .".".")V)V12]
+[DELETED: )V)A)V)V)V)V)V)V)V)V)V."."22]
+[DELETED: )V)V)V)V."."."."32]
+[DELETED: .".".".".T.C.H.".T.T.T42]
+[DELETED: .".".".A.A.A."."."."52]
+[DELETED: .".".A.A.A."."."62]
+[DELETED: .".".".".".".".".".C72]
+[DELETED: .I.P.S.H.A."."."."82]
+[DELETED: ."."."."."."."."92]
+[DELETED: ."."."."."."02]
+[DELETED: .".".H.H.H.H.I.I.I.I.I.I."."."."12]
+[DELETED: .".A.T.A."."."."."."."."."22]
+[DELETED: ."."."."."."."."32]
+[DELETED: ."."."."."."."."42]
+[DELETED: ."."."."."."."."."."."."52]
+[DELETED: ."."."."."."."."."62]
+[DELETED: ."."72]

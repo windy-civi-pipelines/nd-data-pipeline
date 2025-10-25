@@ -244,6 +244,7 @@
     "division_id": "ocd-division/country:us/state:nd"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:09:07Z"
+    "logs_latest_update": "2025-10-25T03:09:07Z",
+    "text_extraction_latest_update": "2025-10-25T08:29:53.282077Z"
   }
 }

@@ -1,0 +1,195 @@
+Title: ENGROSSED HOUSE BILL NO. 1008
+Official Title: ENGROSSED HOUSE BILL NO. 1008
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.0152.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the public service
+2 commission; to amend and reenact sections 49-01-05 and 57-43.2-19 of the North Dakota
+3 Century Code, relating to the salaries of the public service commissioners and deposits of
+4 special fuels excise taxes; and to provide loan authorization.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+7 as may be necessary, are appropriated out of any moneys in the general fund in the state
+8 treasury, not otherwise appropriated, and from other funds derived from special funds and
+9 federal funds, to the public service commission for the purpose of defraying the expenses of the
+10 public service commission, for the biennium beginning July 1, 2025, and ending June 30, 2027,
+11 as follows:
+12 Adjustments or
+13 Base Level Enhancements Appropriation
+14 Salaries and wages $11,026,304 $1,108,083 $12,134,387
+15 New and vacant FTE pool 0 265,735 265,735
+16 Operating expenses 2,205,487 417,167 2,622,654
+17 Capital assets 25,000 205,000 230,000
+18 Grants 20,000 0 20,000
+19 Abandoned mined lands contractual 6,000,000 0 6,000,000
+20 services
+21 Rail rate complaint case 900,000 0 900,000
+22 Railroad safety program 672,206 41,024 713,230
+Page No. 1 25.0152.02000
+Sixty-ninth
+Legislative Assembly
+1 Specialized legal services 420,000 (19,834) 400,166
+2 Total all funds $21,268,997 $2,017,175 $23,286,172
+3 Less other funds 13,779,645 454,823 14,234,468
+4 Total general fund $7,489,352 $1,562,352 $9,051,704
+5 Full-time equivalent positions 45.00 0.00 45.00
+6 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+7 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+8 items included in the appropriation in section 1 of this Act which are not included in the entity's
+9 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+10 committees of the seventieth legislative assembly regarding the use of this funding:
+11 One-Time Funding Description General Fund Other Funds Total
+12 Drone imaging technology $5,580 $149,420 $155,000
+13 Federal intervention funding 250,000 0 250,000
+14 Total $255,580 $149,420 $405,000
+15 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+16 public service commission may not spend funds appropriated in the new and vacant FTE pool
+17 line item in section 1 of this Act, but may request the office of management and budget to
+18 transfer funds from the new and vacant FTE pool line item to the salaries and wages and
+19 railroad safety program line items in accordance with the guidelines and reporting provisions
+20 included in House Bill No. 1015, as approved by the sixty-ninth legislative assembly.
+21 SECTION 4. RAIL RATE COMPLAINT CASE - LOAN AUTHORIZATION. The public
+22 service commission may obtain a loan from the Bank of North Dakota for costs associated with
+23 a rail rate complaint case. The loan may not exceed $900,000, and the interest rate associated
+24 with the loan must be the prevailing interest rate charged to North Dakota governmental
+25 entities. The public service commission shall repay the loan from amounts available from
+26 damages or proceeds received, net of legal fees, from a successful outcome of a rail complaint
+27 case. If moneys anticipated to be available on June 30, 2027, are not sufficient to repay the
+28 loan, the public service commission may request a deficiency appropriation from the legislative
+29 assembly to repay the loan.
+30 SECTION 5. AMENDMENT. Section 49-01-05 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 2 25.0152.02000
+Sixty-ninth
+Legislative Assembly
+1 49-01-05. Salary of commissioners.
+2 The annual salary of a commissioner is one hundred thirty thousand dollars through
+3 June 30, 2024, and one hundred thirty-five thousand two hundredone hundred thirty-nine
+4 thousand two hundred fifty-six dollars through June 30, 2026, and one hundred forty-three
+5 thousand four hundred thirty-four dollars thereafter. All fees received or charged by any
+6 commissioner for any act or service rendered in any official capacity must be accounted for and
+7 paid over by the commissioner monthly to the state treasurer and must be credited to the
+8 general fund of the state.
+9 SECTION 6. AMENDMENT. Section 57-43.2-19 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 57-43.2-19. Transfer, deposit, and distribution of funds.
+12 All taxes, license fees, penalties, and interest collected under this chapter must be
+13 transferred to the state treasurer who shall deposit moneys in a highway tax distribution fund,
+14 except all special fuels excise taxes collected on sales of diesel fuel to a railroad under section
+15 57-43.2-03 of up to three hundred thirty-two thousand three hundred twenty-seventhree
+16 hundred fifty-two thousand eight hundred ninety-two dollars per year must be transferred to the
+17 state treasurer who shall deposit the moneys in the rail safety fund. The highway tax distribution
+18 fund must be distributed in the manner as prescribed by section 54-27-19.
+Page No. 3 25.0152.02000
+[DELETED: lEsAs$4$3$l0252s27472s20202s2002l6006e9009m6644712]
+[DELETED: s40()4s$7$5$s15431d$2$2$s40004nGdOsTy$0$0$g2002l$0$0$22]
+[DELETED: 32]
+
+
+================================================================================
+
+Raw Text:
+25.0152.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1008
+Introduced by
+Appropriations Committee
+1 A BILL for an Act to provide an appropriation for defraying the expenses of the public service
+2 commission; to amend and reenact sections 49-01-05 and 57-43.2-19 of the North Dakota
+3 Century Code, relating to the salaries of the public service commissioners and deposits of
+4 special fuels excise taxes; and to provide loan authorization.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. APPROPRIATION. The funds provided in this section, or so much of the funds
+7 as may be necessary, are appropriated out of any moneys in the general fund in the state
+8 treasury, not otherwise appropriated, and from other funds derived from special funds and
+9 federal funds, to the public service commission for the purpose of defraying the expenses of the
+10 public service commission, for the biennium beginning July 1, 2025, and ending June 30, 2027,
+11 as follows:
+12 Adjustments or
+13 Base Level Enhancements Appropriation
+14 Salaries and wages $11,026,304 $1,108,083 $12,134,387
+15 New and vacant FTE pool 0 265,735 265,735
+16 Operating expenses 2,205,487 417,167 2,622,654
+17 Capital assets 25,000 205,000 230,000
+18 Grants 20,000 0 20,000
+19 Abandoned mined lands contractual 6,000,000 0 6,000,000
+20 services
+21 Rail rate complaint case 900,000 0 900,000
+22 Railroad safety program 672,206 41,024 713,230
+Page No. 1 25.0152.02000
+
+Sixty-ninth
+Legislative Assembly
+1 Specialized legal services 420,000 (19,834) 400,166
+2 Total all funds $21,268,997 $2,017,175 $23,286,172
+3 Less other funds 13,779,645 454,823 14,234,468
+4 Total general fund $7,489,352 $1,562,352 $9,051,704
+5 Full-time equivalent positions 45.00 0.00 45.00
+6 SECTION 2. ONE-TIME FUNDING - EFFECT ON BASE BUDGET - REPORT TO
+7 SEVENTIETH LEGISLATIVE ASSEMBLY. The following amounts reflect the one-time funding
+8 items included in the appropriation in section 1 of this Act which are not included in the entity's
+9 base budget for the 2027-29 biennium and which the entity shall report to the appropriations
+10 committees of the seventieth legislative assembly regarding the use of this funding:
+11 One-Time Funding Description General Fund Other Funds Total
+12 Drone imaging technology $5,580 $149,420 $155,000
+13 Federal intervention funding 250,000 0 250,000
+14 Total $255,580 $149,420 $405,000
+15 SECTION 3. NEW AND VACANT FTE POOL - LIMITATION - TRANSFER REQUEST. The
+16 public service commission may not spend funds appropriated in the new and vacant FTE pool
+17 line item in section 1 of this Act, but may request the office of management and budget to
+18 transfer funds from the new and vacant FTE pool line item to the salaries and wages and
+19 railroad safety program line items in accordance with the guidelines and reporting provisions
+20 included in House Bill No. 1015, as approved by the sixty-ninth legislative assembly.
+21 SECTION 4. RAIL RATE COMPLAINT CASE - LOAN AUTHORIZATION. The public
+22 service commission may obtain a loan from the Bank of North Dakota for costs associated with
+23 a rail rate complaint case. The loan may not exceed $900,000, and the interest rate associated
+24 with the loan must be the prevailing interest rate charged to North Dakota governmental
+25 entities. The public service commission shall repay the loan from amounts available from
+26 damages or proceeds received, net of legal fees, from a successful outcome of a rail complaint
+27 case. If moneys anticipated to be available on June 30, 2027, are not sufficient to repay the
+28 loan, the public service commission may request a deficiency appropriation from the legislative
+29 assembly to repay the loan.
+30 SECTION 5. AMENDMENT. Section 49-01-05 of the North Dakota Century Code is
+31 amended and reenacted as follows:
+Page No. 2 25.0152.02000
+
+Sixty-ninth
+Legislative Assembly
+1 49-01-05. Salary of commissioners.
+2 The annual salary of a commissioner is one hundred thirty thousand dollars through
+3 June 30, 2024, and one hundred thirty-five thousand two hundredone hundred thirty-nine
+4 thousand two hundred fifty-six dollars through June 30, 2026, and one hundred forty-three
+5 thousand four hundred thirty-four dollars thereafter. All fees received or charged by any
+6 commissioner for any act or service rendered in any official capacity must be accounted for and
+7 paid over by the commissioner monthly to the state treasurer and must be credited to the
+8 general fund of the state.
+9 SECTION 6. AMENDMENT. Section 57-43.2-19 of the North Dakota Century Code is
+10 amended and reenacted as follows:
+11 57-43.2-19. Transfer, deposit, and distribution of funds.
+12 All taxes, license fees, penalties, and interest collected under this chapter must be
+13 transferred to the state treasurer who shall deposit moneys in a highway tax distribution fund,
+14 except all special fuels excise taxes collected on sales of diesel fuel to a railroad under section
+15 57-43.2-03 of up to three hundred thirty-two thousand three hundred twenty-seventhree
+16 hundred fifty-two thousand eight hundred ninety-two dollars per year must be transferred to the
+17 state treasurer who shall deposit the moneys in the rail safety fund. The highway tax distribution
+18 fund must be distributed in the manner as prescribed by section 54-27-19.
+Page No. 3 25.0152.02000
+
+[DELETED: lEsAs$4$3$l0252s27472s20202s2002l6006e9009m6644712]
+[DELETED: s40()4s$7$5$s15431d$2$2$s40004nGdOsTy$0$0$g2002l$0$0$22]
+[DELETED: 32]

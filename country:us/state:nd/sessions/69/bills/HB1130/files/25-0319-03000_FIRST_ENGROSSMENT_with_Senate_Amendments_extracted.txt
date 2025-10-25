@@ -1,0 +1,787 @@
+Title: ENGROSSED HOUSE BILL NO. 1130
+Official Title: ENGROSSED HOUSE BILL NO. 1130
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT with Senate Amendments
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+25.0319.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Senate Amendments
+Introduced by
+Representatives Richter, Jonas, Novak, Sanford, Swiontek, Murphy
+Senators Bekkedahl, Patten, Schaible
+1 A BILL for an Act to amend and reenact section 15.1-27-04.1 of the North Dakota Century
+2 Code, relating to the option for a school district to reduce its local contribution deduction in the
+3 school state aid formula by the percentage of the local contribution which comes from in lieu of
+4 revenue.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 15.1-27-04.1 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 15.1-27-04.1. Baseline funding - Establishment - Determination of state aid. (Effective
+9 through June 30, 2025) (Retroactive application - See note)
+10 1. To determine the amount of state aid payable to each district, the superintendent of
+11 public instruction shall establish each district's baseline funding. A district's baseline
+12 funding consists of:
+13 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+14 2018-19 school year;
+15 b. An amount equal to the property tax deducted by the superintendent of public
+16 instruction to determine the 2018-19 state aid payment;
+17 c. An amount equal to seventy-five percent of the revenue received by the school
+18 district during the 2017-18 school year for the following revenue types:
+19 (1) Revenue reported under code 2000 of the North Dakota school district
+20 financial accounting and reporting manual, as developed by the
+21 superintendent of public instruction in accordance with section 15.1-02-08;
+Page No. 1 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 (2) Mineral revenue received by the school district through direct allocation from
+2 the state treasurer and not reported under code 2000 of the North Dakota
+3 school district financial accounting and reporting manual, as developed by
+4 the superintendent of public instruction in accordance with section
+5 15.1-02-08;
+6 (3) Tuition reported under code 1300 of the North Dakota school district
+7 financial accounting and reporting manual, as developed by the
+8 superintendent of public instruction in accordance with section 15.1-02-08,
+9 with the exception of revenue received specifically for the operation of an
+10 educational program provided at a residential treatment facility, tuition
+11 received for the provision of an adult farm management program, and
+12 beginning in the 2021-22 school year, seventeen percent of tuition received
+13 under an agreement to educate students from a school district on an
+14 air force base with funding received through federal impact aid, and an
+15 additional seventeen percent of tuition received under an agreement to
+16 educate students from a school district on an air force base with funding
+17 received through federal impact aid each school year thereafter, until the
+18 2024-25 school year when sixty-eight percent of tuition received under an
+19 agreement to educate students from a school district on an air force base
+20 with funding received through federal impact aid must be excluded from the
+21 tuition calculation under this paragraph;
+22 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+23 of electric power;
+24 (5) Revenue from payments in lieu of taxes on electricity generated from
+25 sources other than coal; and
+26 (6) Revenue from the leasing of land acquired by the United States for which
+27 compensation is allocated to the state under 33 U.S.C. 701(c)(3);
+28 d. An amount equal to the total revenue received by the school district during the
+29 2017-18 school year for the following revenue types:
+30 (1) Mobile home tax revenue;
+31 (2) Telecommunications tax revenue; and
+Page No. 2 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+2 homestead credit and disabled veterans credit; and
+3 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+4 baseline funding for any school district that becomes an elementary district
+5 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+6 be proportional to the number of weighted student units in the grades that are
+7 offered through another school district relative to the total number of weighted
+8 student units the school district offered in the year before the school district
+9 became an elementary district. The reduced baseline funding applies to the
+10 calculation of state aid for the first school year in which the school district
+11 becomes an elementary district and for each year thereafter. For districts that
+12 become an elementary district prior to the 2020-21 school year, the
+13 superintendent shall use the reduced baseline funding to calculate state aid for
+14 the 2020-21 school year and for each year thereafter.
+15 2. a. The superintendent shall divide the district's baseline funding determined in
+16 subsection 1 by the district's 2017-18 weighted student units to determine the
+17 district's baseline funding per weighted student unit.
+18 b. For any school district that becomes an elementary district pursuant to section
+19 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+20 district's baseline funding per weighted student unit used to calculate state aid.
+21 The superintendent shall divide the district's baseline funding determined in
+22 subsection 1 by the district's weighted student units after the school district
+23 becomes an elementary district to determine the district's adjusted baseline
+24 funding per weighted student unit. The superintendent shall use the district's
+25 adjusted baseline funding per weighted student unit in the calculation of state aid
+26 for the first school year in which the school district becomes an elementary
+27 district and for each year thereafter.
+28 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+29 superintendent shall reduce the district's baseline funding per weighted student
+30 unit. Each year the superintendent shall calculate the amount by which the
+31 district's baseline funding per weighted student unit exceeds the payment per
+Page No. 3 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 weighted student unit provided in subsection 3. For the 2023-24 school year the
+2 superintendent shall reduce the district's baseline funding per weighted student
+3 unit by forty percent of the amount by which the district's baseline funding per
+4 weighted student unit exceeds the payment per weighted student unit for the
+5 2023-24 school year. For each year thereafter, the reduction percentage is
+6 increased by an additional fifteen percent. However, the district's baseline funding
+7 per weighted student unit, after the reduction, may not be less than the payment
+8 per weighted student unit provided in subsection 3.
+9 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+10 greater of:
+11 (1) The district's weighted student units multiplied by ten thousand six hundred
+12 forty-six dollars;
+13 (2) One hundred two percent of the district's baseline funding per weighted
+14 student unit, as established in subsection 2, multiplied by the district's
+15 weighted student units, not to exceed the district's 2017-18 baseline
+16 weighted student units, plus any weighted student units in excess of the
+17 2017-18 baseline weighted student units multiplied by ten thousand
+18 six hundred forty-six dollars; or
+19 (3) The district's baseline funding as established in subsection 1 less the
+20 amount in paragraph 1, with the difference reduced by forty percent and
+21 then the difference added to the amount determined in paragraph 1.
+22 b. For the 2024-25 school year and each school year thereafter, the superintendent
+23 shall calculate state aid as the greater of:
+24 (1) The district's weighted student units multiplied by eleven thousand
+25 seventy-two dollars;
+26 (2) One hundred two percent of the district's baseline funding per weighted
+27 student unit, as established in subsection 2, multiplied by the district's
+28 weighted student units, not to exceed the district's 2017-18 baseline
+29 weighted student units, plus any weighted student units in excess of the
+30 2017-18 baseline weighted student units multiplied by eleven thousand
+31 seventy-two dollars; or
+Page No. 4 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 (3) The district's baseline funding as established in subsection 1 less the
+2 amount in paragraph 1, with the difference reduced by fifty-five percent for
+3 the 2024-25 school year and the reduction percentage increasing by fifteen
+4 percent each school year thereafter until the difference is reduced to zero,
+5 and then the difference added to the amount determined in paragraph 1.
+6 4. After determining the product in accordance with subsection 3, the superintendent of
+7 public instruction shall:
+8 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+9 school district, except the amount in dollars subtracted for purposes of this
+10 subdivision may not exceed the previous year's amount in dollars subtracted for
+11 purposes of this subdivision by more than twelve percent, adjusted pursuant to
+12 section 15.1-27-04.3; and
+13 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+14 subdivisions c and d of subsection 1. Before determining the deduction for
+15 seventy-five percent of all revenue types, the superintendent of public instruction
+16 shall adjust revenues as follows:
+17 (1) Tuition revenue shall be adjusted as follows:
+18 (a) In addition to deducting tuition revenue received specifically for the
+19 operation of an educational program provided at a residential
+20 treatment facility, tuition revenue received for the provision of an adult
+21 farm management program, tuition received for the education of
+22 high-cost and special education students, and tuition received under
+23 an agreement to educate students from a school district on an
+24 air force base with funding received through federal impact aid as
+25 directed each school year in paragraph 3 of subdivision c of
+26 subsection 1, the superintendent of public instruction also shall reduce
+27 the total tuition reported by the school district by the amount of tuition
+28 revenue received for the education of students not residing in the
+29 state and for which the state has not entered a cross-border education
+30 contract; and
+Page No. 5 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 (b) The superintendent of public instruction also shall reduce the total
+2 tuition reported by admitting school districts meeting the requirements
+3 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+4 of tuition revenue received for the education of students residing in an
+5 adjacent school district.
+6 (2) After adjusting tuition revenue as provided in paragraph 1, the
+7 superintendent shall reduce all remaining revenues from all revenue types
+8 by the percentage of mills levied in 2022 by the school district for sinking
+9 and interest relative to the total mills levied in 2022 by the school district for
+10 all purposes.
+11 5. The amount remaining after the computation required under subsection 4 is the
+12 amount of state aid to which a school district is entitled, subject to any other statutory
+13 requirements or limitations.
+14 6. On or before June thirtieth of each year, the school board shall certify to the
+15 superintendent of public instruction the final average daily membership for the current
+16 school year.
+17 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+18 with the school districts, shall report the following to the superintendent of public
+19 instruction on an annual basis:
+20 a. The amount of revenue received by each school district in the county during the
+21 previous school year for each type of revenue identified in subdivisions c and d of
+22 subsection 1;
+23 b. The total number of mills levied in the previous calendar year by each school
+24 district for all purposes; and
+25 c. The number of mills levied in the previous calendar year by each school district
+26 for sinking and interest fund purposes.
+27 Baseline funding - Establishment - Determination of state aid. (Effective after
+28 June 30, 2025)
+29 1. To determine the amount of state aid payable to each district, the superintendent of
+30 public instruction shall establish each district's baseline funding. A district's baseline
+31 funding consists of:
+Page No. 6 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+2 2018-19 school year;
+3 b. An amount equal to the property tax deducted by the superintendent of public
+4 instruction to determine the 2018-19 state aid payment;
+5 c. An amount equal to seventy-five percent of the revenue received by the school
+6 district during the 2017-18 school year for the following revenue types:
+7 (1) Revenue reported under code 2000 of the North Dakota school district
+8 financial accounting and reporting manual, as developed by the
+9 superintendent of public instruction in accordance with section 15.1-02-08;
+10 (2) Mineral revenue received by the school district through direct allocation from
+11 the state treasurer and not reported under code 2000 of the North Dakota
+12 school district financial accounting and reporting manual, as developed by
+13 the superintendent of public instruction in accordance with section
+14 15.1-02-08;
+15 (3) Tuition reported under code 1300 of the North Dakota school district
+16 financial accounting and reporting manual, as developed by the
+17 superintendent of public instruction in accordance with section 15.1-02-08,
+18 with the exception of revenue received specifically for the operation of an
+19 educational program provided at a residential treatment facility, tuition
+20 received for the provision of an adult farm management program, and
+21 beginning in the 2025-26 school year, eighty-five percent of tuition received
+22 under an agreement to educate students from a school district on an
+23 air force base with funding received through federal impact aid, until the
+24 2026-27 school year, and each school year thereafter, when all tuition
+25 received under an agreement to educate students from a school district on
+26 an air force base with funding received through federal impact aid must be
+27 excluded from the tuition calculation under this paragraph;
+28 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+29 of electric power;
+30 (5) Revenue from payments in lieu of taxes on electricity generated from
+31 sources other than coal; and
+Page No. 7 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 (6) Revenue from the leasing of land acquired by the United States for which
+2 compensation is allocated to the state under 33 U.S.C. 701(c)(3); and
+3 d. An amount equal to the total revenue received by the school district during the
+4 2017-18 school year for the following revenue types:
+5 (1) Mobile home tax revenue;
+6 (2) Telecommunications tax revenue; and
+7 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+8 homestead credit and disabled veterans credit.
+9 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+10 baseline funding for any school district that becomes an elementary district
+11 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+12 be proportional to the number of weighted student units in the grades that are
+13 offered through another school district relative to the total number of weighted
+14 student units the school district offered in the year before the school district
+15 became an elementary district. The reduced baseline funding applies to the
+16 calculation of state aid for the first school year in which the school district
+17 becomes an elementary district and for each year thereafter. For districts that
+18 become an elementary district prior to the 2020-21 school year, the
+19 superintendent shall use the reduced baseline funding to calculate state aid for
+20 the 2020-21 school year and for each year thereafter.
+21 2. a. The superintendent shall divide the district's baseline funding determined in
+22 subsection 1 by the district's 2017-18 weighted student units to determine the
+23 district's baseline funding per weighted student unit.
+24 b. For any school district that becomes an elementary district pursuant to section
+25 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+26 district's baseline funding per weighted student unit used to calculate state aid.
+27 The superintendent shall divide the district's baseline funding determined in
+28 subsection 1 by the district's weighted student units after the school district
+29 becomes an elementary district to determine the district's adjusted baseline
+30 funding per weighted student unit. The superintendent shall use the district's
+31 adjusted baseline funding per weighted student unit in the calculation of state aid
+Page No. 8 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 for the first school year in which the school district becomes an elementary
+2 district and for each year thereafter.
+3 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+4 superintendent shall reduce the district's baseline funding per weighted student
+5 unit. Each year the superintendent shall calculate the amount by which the
+6 district's baseline funding per weighted student unit exceeds the payment per
+7 weighted student unit provided in subsection 3. For the 2023-24 school year the
+8 superintendent shall reduce the district's baseline funding per weighted student
+9 unit by forty percent of the amount by which the district's baseline funding per
+10 weighted student unit exceeds the payment per weighted student unit for the
+11 2023-24 school year. For each year thereafter, the reduction percentage is
+12 increased by an additional fifteen percent. However, the district's baseline funding
+13 per weighted student unit, after the reduction, may not be less than the payment
+14 per weighted student unit provided in subsection 3.
+15 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+16 greater of:
+17 (1) The district's weighted student units multiplied by ten thousand six hundred
+18 forty-six dollars;
+19 (2) One hundred two percent of the district's baseline funding per weighted
+20 student unit, as established in subsection 2, multiplied by the district's
+21 weighted student units, not to exceed the district's 2017-18 baseline
+22 weighted student units, plus any weighted student units in excess of the
+23 2017-18 baseline weighted student units multiplied by ten thousand
+24 six hundred forty-six dollars; or
+25 (3) The district's baseline funding as established in subsection 1 less the
+26 amount in paragraph 1, with the difference reduced by forty percent and
+27 then the difference added to the amount determined in paragraph 1.
+28 b. For the 2024-25 school year and each school year thereafter, the superintendent
+29 shall calculate state aid as the greater of:
+30 (1) The district's weighted student units multiplied by eleven thousand
+31 seventy-two dollars;
+Page No. 9 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 (2) One hundred two percent of the district's baseline funding per weighted
+2 student unit, as established in subsection 2, multiplied by the district's
+3 weighted student units, not to exceed the district's 2017-18 baseline
+4 weighted student units, plus any weighted student units in excess of the
+5 2017-18 baseline weighted student units multiplied by eleven thousand
+6 seventy-two dollars; or
+7 (3) The district's baseline funding as established in subsection 1 less the
+8 amount in paragraph 1, with the difference reduced by fifty-five percent for
+9 the 2024-25 school year and the reduction percentage increasing by fifteen
+10 percent each school year thereafter until the difference is reduced to zero,
+11 and then the difference added to the amount determined in paragraph 1.
+12 4. After determining the product in accordance with subsection 3, the superintendent of
+13 public instruction shall:
+14 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+15 school district; and
+16 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+17 subdivisions c and d of subsection 1. Before determining the deduction for
+18 seventy-five percent of all revenue types, the superintendent of public instruction
+19 shall adjust revenues as follows:
+20 (1) Tuition revenue shall be adjusted as follows:
+21 (a) In addition to deducting tuition revenue received specifically for the
+22 operation of an educational program provided at a residential
+23 treatment facility, tuition revenue received for the provision of an adult
+24 farm management program, tuition received for the education of
+25 high-cost and special education students, and tuition received under
+26 an agreement to educate students from a school district on an
+27 air force base with funding received through federal impact aid as
+28 directed each school year in paragraph 3 of subdivision c of
+29 subsection 1, the superintendent of public instruction also shall reduce
+30 the total tuition reported by the school district by the amount of tuition
+31 revenue received for the education of students not residing in the
+Page No. 10 25.0319.03000
+Sixty-ninth
+Legislative Assembly
+1 state and for which the state has not entered a cross-border education
+2 contract; and
+3 (b) The superintendent of public instruction also shall reduce the total
+4 tuition reported by admitting school districts meeting the requirements
+5 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+6 of tuition revenue received for the education of students residing in an
+7 adjacent school district.
+8 (2) After adjusting tuition revenue as provided in paragraph 1, the
+9 superintendent shall reduce all remaining revenues from all revenue types
+10 by the percentage of mills levied in 20222024 by the school district for
+11 sinking and interest and building fund relative to the total mills levied in
+12 20222024 by the school district for all purposes. The amount of the
+13 reduction must be used by the school district for capital projects or capital
+14 debt repayment.
+15 5. The amount remaining after the computation required under subsection 4 is the
+16 amount of state aid to which a school district is entitled, subject to any other statutory
+17 requirements or limitations.
+18 6. On or before June thirtieth of each year, the school board shall certify to the
+19 superintendent of public instruction the final average daily membership for the current
+20 school year.
+21 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+22 with the school districts, shall report the following to the superintendent of public
+23 instruction on an annual basis:
+24 a. The amount of revenue received by each school district in the county during the
+25 previous school year for each type of revenue identified in subdivisions c and d of
+26 subsection 1;
+27 b. The total number of mills levied in the previous calendar year by each school
+28 district for all purposes; and
+29 c. The number of mills levied in the previous calendar year by each school district
+30 for sinking and interest fund purposes.
+Page No. 11 25.0319.03000
+[DELETED: .T.A.A.A)R12]
+[DELETED: )M)T)R)R)R.A)M)T22]
+[DELETED: )R.B.a.T.F.B32]
+[DELETED: .a.F)T)O)T.F)T)O42]
+[DELETED: )T.A.S.S)T)I52]
+[DELETED: )T)A.T.O.F.T.T.T.T62]
+[DELETED: .A.A.A)R)M)T)R)R72]
+[DELETED: )R.A)M)T)R.B.a.T.F82]
+[DELETED: .B.a.F)T)O)T.F)T92]
+[DELETED: )O)T.A.S.S)T)I02]
+[DELETED: )T)A.T.O.F.T.T.T12]
+
+
+================================================================================
+
+Raw Text:
+25.0319.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+with Senate Amendments
+ENGROSSED HOUSE BILL NO. 1130
+Introduced by
+Representatives Richter, Jonas, Novak, Sanford, Swiontek, Murphy
+Senators Bekkedahl, Patten, Schaible
+1 A BILL for an Act to amend and reenact section 15.1-27-04.1 of the North Dakota Century
+2 Code, relating to the option for a school district to reduce its local contribution deduction in the
+3 school state aid formula by the percentage of the local contribution which comes from in lieu of
+4 revenue.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 15.1-27-04.1 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 15.1-27-04.1. Baseline funding - Establishment - Determination of state aid. (Effective
+9 through June 30, 2025) (Retroactive application - See note)
+10 1. To determine the amount of state aid payable to each district, the superintendent of
+11 public instruction shall establish each district's baseline funding. A district's baseline
+12 funding consists of:
+13 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+14 2018-19 school year;
+15 b. An amount equal to the property tax deducted by the superintendent of public
+16 instruction to determine the 2018-19 state aid payment;
+17 c. An amount equal to seventy-five percent of the revenue received by the school
+18 district during the 2017-18 school year for the following revenue types:
+19 (1) Revenue reported under code 2000 of the North Dakota school district
+20 financial accounting and reporting manual, as developed by the
+21 superintendent of public instruction in accordance with section 15.1-02-08;
+Page No. 1 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) Mineral revenue received by the school district through direct allocation from
+2 the state treasurer and not reported under code 2000 of the North Dakota
+3 school district financial accounting and reporting manual, as developed by
+4 the superintendent of public instruction in accordance with section
+5 15.1-02-08;
+6 (3) Tuition reported under code 1300 of the North Dakota school district
+7 financial accounting and reporting manual, as developed by the
+8 superintendent of public instruction in accordance with section 15.1-02-08,
+9 with the exception of revenue received specifically for the operation of an
+10 educational program provided at a residential treatment facility, tuition
+11 received for the provision of an adult farm management program, and
+12 beginning in the 2021-22 school year, seventeen percent of tuition received
+13 under an agreement to educate students from a school district on an
+14 air force base with funding received through federal impact aid, and an
+15 additional seventeen percent of tuition received under an agreement to
+16 educate students from a school district on an air force base with funding
+17 received through federal impact aid each school year thereafter, until the
+18 2024-25 school year when sixty-eight percent of tuition received under an
+19 agreement to educate students from a school district on an air force base
+20 with funding received through federal impact aid must be excluded from the
+21 tuition calculation under this paragraph;
+22 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+23 of electric power;
+24 (5) Revenue from payments in lieu of taxes on electricity generated from
+25 sources other than coal; and
+26 (6) Revenue from the leasing of land acquired by the United States for which
+27 compensation is allocated to the state under 33 U.S.C. 701(c)(3);
+28 d. An amount equal to the total revenue received by the school district during the
+29 2017-18 school year for the following revenue types:
+30 (1) Mobile home tax revenue;
+31 (2) Telecommunications tax revenue; and
+Page No. 2 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+2 homestead credit and disabled veterans credit; and
+3 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+4 baseline funding for any school district that becomes an elementary district
+5 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+6 be proportional to the number of weighted student units in the grades that are
+7 offered through another school district relative to the total number of weighted
+8 student units the school district offered in the year before the school district
+9 became an elementary district. The reduced baseline funding applies to the
+10 calculation of state aid for the first school year in which the school district
+11 becomes an elementary district and for each year thereafter. For districts that
+12 become an elementary district prior to the 2020-21 school year, the
+13 superintendent shall use the reduced baseline funding to calculate state aid for
+14 the 2020-21 school year and for each year thereafter.
+15 2. a. The superintendent shall divide the district's baseline funding determined in
+16 subsection 1 by the district's 2017-18 weighted student units to determine the
+17 district's baseline funding per weighted student unit.
+18 b. For any school district that becomes an elementary district pursuant to section
+19 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+20 district's baseline funding per weighted student unit used to calculate state aid.
+21 The superintendent shall divide the district's baseline funding determined in
+22 subsection 1 by the district's weighted student units after the school district
+23 becomes an elementary district to determine the district's adjusted baseline
+24 funding per weighted student unit. The superintendent shall use the district's
+25 adjusted baseline funding per weighted student unit in the calculation of state aid
+26 for the first school year in which the school district becomes an elementary
+27 district and for each year thereafter.
+28 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+29 superintendent shall reduce the district's baseline funding per weighted student
+30 unit. Each year the superintendent shall calculate the amount by which the
+31 district's baseline funding per weighted student unit exceeds the payment per
+Page No. 3 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 weighted student unit provided in subsection 3. For the 2023-24 school year the
+2 superintendent shall reduce the district's baseline funding per weighted student
+3 unit by forty percent of the amount by which the district's baseline funding per
+4 weighted student unit exceeds the payment per weighted student unit for the
+5 2023-24 school year. For each year thereafter, the reduction percentage is
+6 increased by an additional fifteen percent. However, the district's baseline funding
+7 per weighted student unit, after the reduction, may not be less than the payment
+8 per weighted student unit provided in subsection 3.
+9 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+10 greater of:
+11 (1) The district's weighted student units multiplied by ten thousand six hundred
+12 forty-six dollars;
+13 (2) One hundred two percent of the district's baseline funding per weighted
+14 student unit, as established in subsection 2, multiplied by the district's
+15 weighted student units, not to exceed the district's 2017-18 baseline
+16 weighted student units, plus any weighted student units in excess of the
+17 2017-18 baseline weighted student units multiplied by ten thousand
+18 six hundred forty-six dollars; or
+19 (3) The district's baseline funding as established in subsection 1 less the
+20 amount in paragraph 1, with the difference reduced by forty percent and
+21 then the difference added to the amount determined in paragraph 1.
+22 b. For the 2024-25 school year and each school year thereafter, the superintendent
+23 shall calculate state aid as the greater of:
+24 (1) The district's weighted student units multiplied by eleven thousand
+25 seventy-two dollars;
+26 (2) One hundred two percent of the district's baseline funding per weighted
+27 student unit, as established in subsection 2, multiplied by the district's
+28 weighted student units, not to exceed the district's 2017-18 baseline
+29 weighted student units, plus any weighted student units in excess of the
+30 2017-18 baseline weighted student units multiplied by eleven thousand
+31 seventy-two dollars; or
+Page No. 4 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (3) The district's baseline funding as established in subsection 1 less the
+2 amount in paragraph 1, with the difference reduced by fifty-five percent for
+3 the 2024-25 school year and the reduction percentage increasing by fifteen
+4 percent each school year thereafter until the difference is reduced to zero,
+5 and then the difference added to the amount determined in paragraph 1.
+6 4. After determining the product in accordance with subsection 3, the superintendent of
+7 public instruction shall:
+8 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+9 school district, except the amount in dollars subtracted for purposes of this
+10 subdivision may not exceed the previous year's amount in dollars subtracted for
+11 purposes of this subdivision by more than twelve percent, adjusted pursuant to
+12 section 15.1-27-04.3; and
+13 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+14 subdivisions c and d of subsection 1. Before determining the deduction for
+15 seventy-five percent of all revenue types, the superintendent of public instruction
+16 shall adjust revenues as follows:
+17 (1) Tuition revenue shall be adjusted as follows:
+18 (a) In addition to deducting tuition revenue received specifically for the
+19 operation of an educational program provided at a residential
+20 treatment facility, tuition revenue received for the provision of an adult
+21 farm management program, tuition received for the education of
+22 high-cost and special education students, and tuition received under
+23 an agreement to educate students from a school district on an
+24 air force base with funding received through federal impact aid as
+25 directed each school year in paragraph 3 of subdivision c of
+26 subsection 1, the superintendent of public instruction also shall reduce
+27 the total tuition reported by the school district by the amount of tuition
+28 revenue received for the education of students not residing in the
+29 state and for which the state has not entered a cross-border education
+30 contract; and
+Page No. 5 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (b) The superintendent of public instruction also shall reduce the total
+2 tuition reported by admitting school districts meeting the requirements
+3 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+4 of tuition revenue received for the education of students residing in an
+5 adjacent school district.
+6 (2) After adjusting tuition revenue as provided in paragraph 1, the
+7 superintendent shall reduce all remaining revenues from all revenue types
+8 by the percentage of mills levied in 2022 by the school district for sinking
+9 and interest relative to the total mills levied in 2022 by the school district for
+10 all purposes.
+11 5. The amount remaining after the computation required under subsection 4 is the
+12 amount of state aid to which a school district is entitled, subject to any other statutory
+13 requirements or limitations.
+14 6. On or before June thirtieth of each year, the school board shall certify to the
+15 superintendent of public instruction the final average daily membership for the current
+16 school year.
+17 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+18 with the school districts, shall report the following to the superintendent of public
+19 instruction on an annual basis:
+20 a. The amount of revenue received by each school district in the county during the
+21 previous school year for each type of revenue identified in subdivisions c and d of
+22 subsection 1;
+23 b. The total number of mills levied in the previous calendar year by each school
+24 district for all purposes; and
+25 c. The number of mills levied in the previous calendar year by each school district
+26 for sinking and interest fund purposes.
+27 Baseline funding - Establishment - Determination of state aid. (Effective after
+28 June 30, 2025)
+29 1. To determine the amount of state aid payable to each district, the superintendent of
+30 public instruction shall establish each district's baseline funding. A district's baseline
+31 funding consists of:
+Page No. 6 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 a. All state aid received by the district in accordance with chapter 15.1-27 during the
+2 2018-19 school year;
+3 b. An amount equal to the property tax deducted by the superintendent of public
+4 instruction to determine the 2018-19 state aid payment;
+5 c. An amount equal to seventy-five percent of the revenue received by the school
+6 district during the 2017-18 school year for the following revenue types:
+7 (1) Revenue reported under code 2000 of the North Dakota school district
+8 financial accounting and reporting manual, as developed by the
+9 superintendent of public instruction in accordance with section 15.1-02-08;
+10 (2) Mineral revenue received by the school district through direct allocation from
+11 the state treasurer and not reported under code 2000 of the North Dakota
+12 school district financial accounting and reporting manual, as developed by
+13 the superintendent of public instruction in accordance with section
+14 15.1-02-08;
+15 (3) Tuition reported under code 1300 of the North Dakota school district
+16 financial accounting and reporting manual, as developed by the
+17 superintendent of public instruction in accordance with section 15.1-02-08,
+18 with the exception of revenue received specifically for the operation of an
+19 educational program provided at a residential treatment facility, tuition
+20 received for the provision of an adult farm management program, and
+21 beginning in the 2025-26 school year, eighty-five percent of tuition received
+22 under an agreement to educate students from a school district on an
+23 air force base with funding received through federal impact aid, until the
+24 2026-27 school year, and each school year thereafter, when all tuition
+25 received under an agreement to educate students from a school district on
+26 an air force base with funding received through federal impact aid must be
+27 excluded from the tuition calculation under this paragraph;
+28 (4) Revenue from payments in lieu of taxes on the distribution and transmission
+29 of electric power;
+30 (5) Revenue from payments in lieu of taxes on electricity generated from
+31 sources other than coal; and
+Page No. 7 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (6) Revenue from the leasing of land acquired by the United States for which
+2 compensation is allocated to the state under 33 U.S.C. 701(c)(3); and
+3 d. An amount equal to the total revenue received by the school district during the
+4 2017-18 school year for the following revenue types:
+5 (1) Mobile home tax revenue;
+6 (2) Telecommunications tax revenue; and
+7 (3) Revenue from payments in lieu of taxes and state reimbursement of the
+8 homestead credit and disabled veterans credit.
+9 e. Beginning with the 2020-21 school year, the superintendent shall reduce the
+10 baseline funding for any school district that becomes an elementary district
+11 pursuant to section 15.1-07-27 after the 2012-13 school year. The reduction must
+12 be proportional to the number of weighted student units in the grades that are
+13 offered through another school district relative to the total number of weighted
+14 student units the school district offered in the year before the school district
+15 became an elementary district. The reduced baseline funding applies to the
+16 calculation of state aid for the first school year in which the school district
+17 becomes an elementary district and for each year thereafter. For districts that
+18 become an elementary district prior to the 2020-21 school year, the
+19 superintendent shall use the reduced baseline funding to calculate state aid for
+20 the 2020-21 school year and for each year thereafter.
+21 2. a. The superintendent shall divide the district's baseline funding determined in
+22 subsection 1 by the district's 2017-18 weighted student units to determine the
+23 district's baseline funding per weighted student unit.
+24 b. For any school district that becomes an elementary district pursuant to section
+25 15.1-07-27 after the 2017-18 school year, the superintendent shall adjust the
+26 district's baseline funding per weighted student unit used to calculate state aid.
+27 The superintendent shall divide the district's baseline funding determined in
+28 subsection 1 by the district's weighted student units after the school district
+29 becomes an elementary district to determine the district's adjusted baseline
+30 funding per weighted student unit. The superintendent shall use the district's
+31 adjusted baseline funding per weighted student unit in the calculation of state aid
+Page No. 8 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 for the first school year in which the school district becomes an elementary
+2 district and for each year thereafter.
+3 c. Beginning with the 2021-22 school year and for each school year thereafter, the
+4 superintendent shall reduce the district's baseline funding per weighted student
+5 unit. Each year the superintendent shall calculate the amount by which the
+6 district's baseline funding per weighted student unit exceeds the payment per
+7 weighted student unit provided in subsection 3. For the 2023-24 school year the
+8 superintendent shall reduce the district's baseline funding per weighted student
+9 unit by forty percent of the amount by which the district's baseline funding per
+10 weighted student unit exceeds the payment per weighted student unit for the
+11 2023-24 school year. For each year thereafter, the reduction percentage is
+12 increased by an additional fifteen percent. However, the district's baseline funding
+13 per weighted student unit, after the reduction, may not be less than the payment
+14 per weighted student unit provided in subsection 3.
+15 3. a. For the 2023-24 school year, the superintendent shall calculate state aid as the
+16 greater of:
+17 (1) The district's weighted student units multiplied by ten thousand six hundred
+18 forty-six dollars;
+19 (2) One hundred two percent of the district's baseline funding per weighted
+20 student unit, as established in subsection 2, multiplied by the district's
+21 weighted student units, not to exceed the district's 2017-18 baseline
+22 weighted student units, plus any weighted student units in excess of the
+23 2017-18 baseline weighted student units multiplied by ten thousand
+24 six hundred forty-six dollars; or
+25 (3) The district's baseline funding as established in subsection 1 less the
+26 amount in paragraph 1, with the difference reduced by forty percent and
+27 then the difference added to the amount determined in paragraph 1.
+28 b. For the 2024-25 school year and each school year thereafter, the superintendent
+29 shall calculate state aid as the greater of:
+30 (1) The district's weighted student units multiplied by eleven thousand
+31 seventy-two dollars;
+Page No. 9 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 (2) One hundred two percent of the district's baseline funding per weighted
+2 student unit, as established in subsection 2, multiplied by the district's
+3 weighted student units, not to exceed the district's 2017-18 baseline
+4 weighted student units, plus any weighted student units in excess of the
+5 2017-18 baseline weighted student units multiplied by eleven thousand
+6 seventy-two dollars; or
+7 (3) The district's baseline funding as established in subsection 1 less the
+8 amount in paragraph 1, with the difference reduced by fifty-five percent for
+9 the 2024-25 school year and the reduction percentage increasing by fifteen
+10 percent each school year thereafter until the difference is reduced to zero,
+11 and then the difference added to the amount determined in paragraph 1.
+12 4. After determining the product in accordance with subsection 3, the superintendent of
+13 public instruction shall:
+14 a. Subtract an amount equal to sixty mills multiplied by the taxable valuation of the
+15 school district; and
+16 b. Subtract an amount equal to seventy-five percent of all revenue types listed in
+17 subdivisions c and d of subsection 1. Before determining the deduction for
+18 seventy-five percent of all revenue types, the superintendent of public instruction
+19 shall adjust revenues as follows:
+20 (1) Tuition revenue shall be adjusted as follows:
+21 (a) In addition to deducting tuition revenue received specifically for the
+22 operation of an educational program provided at a residential
+23 treatment facility, tuition revenue received for the provision of an adult
+24 farm management program, tuition received for the education of
+25 high-cost and special education students, and tuition received under
+26 an agreement to educate students from a school district on an
+27 air force base with funding received through federal impact aid as
+28 directed each school year in paragraph 3 of subdivision c of
+29 subsection 1, the superintendent of public instruction also shall reduce
+30 the total tuition reported by the school district by the amount of tuition
+31 revenue received for the education of students not residing in the
+Page No. 10 25.0319.03000
+
+Sixty-ninth
+Legislative Assembly
+1 state and for which the state has not entered a cross-border education
+2 contract; and
+3 (b) The superintendent of public instruction also shall reduce the total
+4 tuition reported by admitting school districts meeting the requirements
+5 of subdivision e of subsection 2 of section 15.1-29-12 by the amount
+6 of tuition revenue received for the education of students residing in an
+7 adjacent school district.
+8 (2) After adjusting tuition revenue as provided in paragraph 1, the
+9 superintendent shall reduce all remaining revenues from all revenue types
+10 by the percentage of mills levied in 20222024 by the school district for
+11 sinking and interest and building fund relative to the total mills levied in
+12 20222024 by the school district for all purposes. The amount of the
+13 reduction must be used by the school district for capital projects or capital
+14 debt repayment.
+15 5. The amount remaining after the computation required under subsection 4 is the
+16 amount of state aid to which a school district is entitled, subject to any other statutory
+17 requirements or limitations.
+18 6. On or before June thirtieth of each year, the school board shall certify to the
+19 superintendent of public instruction the final average daily membership for the current
+20 school year.
+21 7. For purposes of the calculation in subsection 4, each county auditor, in collaboration
+22 with the school districts, shall report the following to the superintendent of public
+23 instruction on an annual basis:
+24 a. The amount of revenue received by each school district in the county during the
+25 previous school year for each type of revenue identified in subdivisions c and d of
+26 subsection 1;
+27 b. The total number of mills levied in the previous calendar year by each school
+28 district for all purposes; and
+29 c. The number of mills levied in the previous calendar year by each school district
+30 for sinking and interest fund purposes.
+Page No. 11 25.0319.03000
+
+[DELETED: .T.A.A.A)R12]
+[DELETED: )M)T)R)R)R.A)M)T22]
+[DELETED: )R.B.a.T.F.B32]
+[DELETED: .a.F)T)O)T.F)T)O42]
+[DELETED: )T.A.S.S)T)I52]
+[DELETED: )T)A.T.O.F.T.T.T.T62]
+[DELETED: .A.A.A)R)M)T)R)R72]
+[DELETED: )R.A)M)T)R.B.a.T.F82]
+[DELETED: .B.a.F)T)O)T.F)T92]
+[DELETED: )O)T.A.S.S)T)I02]
+[DELETED: )T)A.T.O.F.T.T.T12]

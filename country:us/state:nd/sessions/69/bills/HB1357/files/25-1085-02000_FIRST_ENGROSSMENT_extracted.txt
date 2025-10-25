@@ -1,0 +1,219 @@
+Title: ENGROSSED HOUSE BILL NO. 1357
+Official Title: ENGROSSED HOUSE BILL NO. 1357
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1085.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representatives Morton, Kasper, Maki, Marschall, Osowski, Schauer, Schreiber-Beck,
+McLeod, K. Anderson
+Senators Boschee, Van Oosting
+1 A BILL for an Act to amend and reenact subsection 1 of section 15.1-06-06, and sections
+2 15.1-07-25.3 and 15.1-07-33 of the North Dakota Century Code, relating to protection of student
+3 data and data sharing agreements; and to provide an effective date.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Subsection 1 of section 15.1-06-06 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 1. To obtain certification that a public school is approved, the superintendent of the
+8 district in which the school is located shall submit to the superintendent of public
+9 instruction a compliance report verifying that:
+10 a. Each classroom teacher is licensed to teach by the education standards and
+11 practices board or approved to teach by the education standards and practices
+12 board;
+13 b. Each classroom teacher is teaching only in those course areas or fields for which
+14 the teacher is licensed or for which the teacher has received an exception under
+15 section 15.1-09-57;
+16 c. The school meets all curricular requirements set forth in chapter 15.1-21;
+17 d. The school participates in and meets the requirements of a review process that
+18 is:
+19 (1) Designed to improve student achievement through a continuous cycle of
+20 improvement; and
+21 (2) Approved by the superintendent of public instruction;
+Page No. 1 25.1085.02000
+Sixty-ninth
+Legislative Assembly
+1 e. The physical school plant has been inspected by the state fire marshal or the
+2 state fire marshal's designee in accordance with section 15.1-06-09 and:
+3 (1) Has no unremedied deficiency; or
+4 (2) Has deficiencies that have been addressed in a plan of correction which
+5 was submitted to and approved by the state fire marshal or the state fire
+6 marshal's designee;
+7 f. All individuals hired after June 30, 2011, and having unsupervised contact with
+8 students at the school, have:
+9 (1) Undergone a criminal history background check requested by the employing
+10 school district; or
+11 (2) Undergone a criminal history background check in order to be licensed by
+12 the education standards and practices board or by any other state licensing
+13 board; and
+14 g. The school uses North Dakota eTranscripts, or an alternative information system
+15 designated by the information technology department in collaboration with the
+16 superintendent of public instruction, to generate official transcripts.
+17 h. The school executed a data sharing agreement with the department under
+18 sections 15.1 - 07 - 25.3 and 15.1 - 07 - 33 .
+19 SECTION 2. AMENDMENT. Section 15.1-07-25.3 of the North Dakota Century Code is
+20 amended and reenacted as follows:
+21 15.1-07-25.3. Protection of student data - School district policy.
+22 1. The board of eacha school district shall adopt a policy regarding the protection of
+23 student data.
+24 2. The policy must require:
+25 a. Require that permission be obtained from the board before any student data is
+26 shared with an individual who is not a school district employee or shared with any
+27 other entity. This provision does not apply to the sharing of data with a student's
+28 parent or to the sharing of data, if required as otherwise authorized by law.
+29 b. Permit a school district to share student data with the state entity managing a
+30 student information system if the school district and the state entity have entered
+31 a data sharing agreement, subject to federal and state privacy laws. The data
+Page No. 2 25.1085.02000
+Sixty-ninth
+Legislative Assembly
+1 sharing agreement must include a clause that designates the department as an
+2 authorized representative of the school district under the Family Educational
+3 Rights and Privacy Act of 1974 [20 U.S.C . 1232G] and title 34 Code of Federa l
+4 Regulations par t 99 for purposes of the statewide longitudinal data system .
+5 3. The policy must require the school district superintendent to compile:
+6 a. A list of all individuals with whom, and entities with which, student data is shared;
+7 and
+8 b. A list, by title, of all school district personnel who have access to student data.
+9 4. A school district shall make copies of the policy available upon request.
+10 SECTION 3. AMENDMENT. Section 15.1-07-33 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 15.1-07-33. Student information system - Exemption.
+13 1. Notwithstanding any other technology requirements imposed by the superintendent of
+14 public instruction or the information technology department, each school district shall
+15 implement the state student information system administered by the information
+16 technology department and, use it as its principal student information system, and
+17 enter a data sharing agreement with the department of public instruction, subject to
+18 federal and state privacy laws and section 15.1 - 07 - 25.3 . Each school district shall use
+19 a state course code, assigned by the department of public instruction, to identify all
+20 local classes in the state student information system.
+21 2. The statewide longitudinal data system committeesuperintendent of public instruction
+22 may exempt a school district from having to implement and utilize the state student
+23 information system if the school district demonstrates that:
+24 a. The district has acquired and is using a student information system determined to
+25 be compatible with the statewide longitudinal data system; or
+26 b. In accordance with requirements of the bureau of Indian education, the district
+27 has acquired and is utilizing a student information system that is determined to
+28 be comparable by the superintendent.
+29 SECTION 4. EFFECTIVE DATE. This Act becomes effective on July 1, 2026.
+Page No. 3 25.1085.02000
+[DELETED: .T.E.E.T.T)D)A12]
+[DELETED: .T)H)H.A)U)U.T.T.T.T.R.P22]
+[DELETED: .T.A.A.A.N.T.T.I32]
+
+
+================================================================================
+
+Raw Text:
+25.1085.02000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1357
+Introduced by
+Representatives Morton, Kasper, Maki, Marschall, Osowski, Schauer, Schreiber-Beck,
+McLeod, K. Anderson
+Senators Boschee, Van Oosting
+1 A BILL for an Act to amend and reenact subsection 1 of section 15.1-06-06, and sections
+2 15.1-07-25.3 and 15.1-07-33 of the North Dakota Century Code, relating to protection of student
+3 data and data sharing agreements; and to provide an effective date.
+4 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+5 SECTION 1. AMENDMENT. Subsection 1 of section 15.1-06-06 of the North Dakota
+6 Century Code is amended and reenacted as follows:
+7 1. To obtain certification that a public school is approved, the superintendent of the
+8 district in which the school is located shall submit to the superintendent of public
+9 instruction a compliance report verifying that:
+10 a. Each classroom teacher is licensed to teach by the education standards and
+11 practices board or approved to teach by the education standards and practices
+12 board;
+13 b. Each classroom teacher is teaching only in those course areas or fields for which
+14 the teacher is licensed or for which the teacher has received an exception under
+15 section 15.1-09-57;
+16 c. The school meets all curricular requirements set forth in chapter 15.1-21;
+17 d. The school participates in and meets the requirements of a review process that
+18 is:
+19 (1) Designed to improve student achievement through a continuous cycle of
+20 improvement; and
+21 (2) Approved by the superintendent of public instruction;
+Page No. 1 25.1085.02000
+
+Sixty-ninth
+Legislative Assembly
+1 e. The physical school plant has been inspected by the state fire marshal or the
+2 state fire marshal's designee in accordance with section 15.1-06-09 and:
+3 (1) Has no unremedied deficiency; or
+4 (2) Has deficiencies that have been addressed in a plan of correction which
+5 was submitted to and approved by the state fire marshal or the state fire
+6 marshal's designee;
+7 f. All individuals hired after June 30, 2011, and having unsupervised contact with
+8 students at the school, have:
+9 (1) Undergone a criminal history background check requested by the employing
+10 school district; or
+11 (2) Undergone a criminal history background check in order to be licensed by
+12 the education standards and practices board or by any other state licensing
+13 board; and
+14 g. The school uses North Dakota eTranscripts, or an alternative information system
+15 designated by the information technology department in collaboration with the
+16 superintendent of public instruction, to generate official transcripts.
+17 h. The school executed a data sharing agreement with the department under
+18 sections 15.1 - 07 - 25.3 and 15.1 - 07 - 33 .
+19 SECTION 2. AMENDMENT. Section 15.1-07-25.3 of the North Dakota Century Code is
+20 amended and reenacted as follows:
+21 15.1-07-25.3. Protection of student data - School district policy.
+22 1. The board of eacha school district shall adopt a policy regarding the protection of
+23 student data.
+24 2. The policy must require:
+25 a. Require that permission be obtained from the board before any student data is
+26 shared with an individual who is not a school district employee or shared with any
+27 other entity. This provision does not apply to the sharing of data with a student's
+28 parent or to the sharing of data, if required as otherwise authorized by law.
+29 b. Permit a school district to share student data with the state entity managing a
+30 student information system if the school district and the state entity have entered
+31 a data sharing agreement, subject to federal and state privacy laws. The data
+Page No. 2 25.1085.02000
+
+Sixty-ninth
+Legislative Assembly
+1 sharing agreement must include a clause that designates the department as an
+2 authorized representative of the school district under the Family Educational
+3 Rights and Privacy Act of 1974 [20 U.S.C . 1232G] and title 34 Code of Federa l
+4 Regulations par t 99 for purposes of the statewide longitudinal data system .
+5 3. The policy must require the school district superintendent to compile:
+6 a. A list of all individuals with whom, and entities with which, student data is shared;
+7 and
+8 b. A list, by title, of all school district personnel who have access to student data.
+9 4. A school district shall make copies of the policy available upon request.
+10 SECTION 3. AMENDMENT. Section 15.1-07-33 of the North Dakota Century Code is
+11 amended and reenacted as follows:
+12 15.1-07-33. Student information system - Exemption.
+13 1. Notwithstanding any other technology requirements imposed by the superintendent of
+14 public instruction or the information technology department, each school district shall
+15 implement the state student information system administered by the information
+16 technology department and, use it as its principal student information system, and
+17 enter a data sharing agreement with the department of public instruction, subject to
+18 federal and state privacy laws and section 15.1 - 07 - 25.3 . Each school district shall use
+19 a state course code, assigned by the department of public instruction, to identify all
+20 local classes in the state student information system.
+21 2. The statewide longitudinal data system committeesuperintendent of public instruction
+22 may exempt a school district from having to implement and utilize the state student
+23 information system if the school district demonstrates that:
+24 a. The district has acquired and is using a student information system determined to
+25 be compatible with the statewide longitudinal data system; or
+26 b. In accordance with requirements of the bureau of Indian education, the district
+27 has acquired and is utilizing a student information system that is determined to
+28 be comparable by the superintendent.
+29 SECTION 4. EFFECTIVE DATE. This Act becomes effective on July 1, 2026.
+Page No. 3 25.1085.02000
+
+[DELETED: .T.E.E.T.T)D)A12]
+[DELETED: .T)H)H.A)U)U.T.T.T.T.R.P22]
+[DELETED: .T.A.A.A.N.T.T.I32]

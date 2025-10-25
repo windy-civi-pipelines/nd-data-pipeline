@@ -1,0 +1,169 @@
+Title: ENGROSSED HOUSE BILL NO. 1378
+Official Title: ENGROSSED HOUSE BILL NO. 1378
+Number of Sections: 1
+Source: versions - FIRST ENGROSSMENT
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.1015.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+Introduced by
+Representative J. Johnson
+1 A BILL for an Act to create and enact three new sections to chapter 47-10.2 of the North Dakota
+2 Century Code, relating to the payment of interest on escrow accounts for residential mortgages;
+3 to amend and reenact section 47-10.2-01 of the North Dakota Century Code, relating to
+4 definitions for escrow accounts; to provide a penalty; and to provide for application.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 47-10.2-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 47-10.2-01. Definitions.
+9 In sections 47-10.2-01 through 47-10.2-03, unless the context or subject matter otherwise
+10 requires:
+11 1. "Borrower" means the obligor under a residential mortgage held by a mortgagee.
+12 2. "Escrow account" means an account held by a lender or servicer used to collect and
+13 hold funds for the payment of property taxes, homeowner's insurance, and other
+14 related expenses associated with a residential mortgage.
+15 3. "Escrow funds" means money placed into an escrow account by a borrower for the
+16 payment of obligations such as property taxes, homeowner's insurance, and other
+17 expenses associated with home ownership.
+18 4. "Interest rate" means the percentage rate paid by the lender on funds held in escrow
+19 accounts.
+20 5. "Lender" means a bank, mortgage company, credit union, or other financial institution
+21 that services residential mortgage loans and holds escrow accounts. The term does
+22 not include the North Dakota housing finance agency.
+Page No. 1 25.1015.03000
+Sixty-ninth
+Legislative Assembly
+1 6. "Servicer" means a person or entity maintaining an escrow account for a residential
+2 mortgagee.
+3 3.7. "Surplus amount" means from the annual escrow account analysis, any amount
+4 greater than or equal to fifty dollars, excluding any escrow cushion required by the
+5 servicer.
+6 SECTION 2. A new section to chapter 47-10.2 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Lender's obligation to pay interest on escrow accounts.
+9 A lender shall pay interest on funds held in an escrow account that maintains a minimum
+10 average balance of five hundred dollars. The escrow account must have been in existence for a
+11 minimum of three months before the interest may be credited. Only active accounts are eligible
+12 for accumulation of interest.
+13 SECTION 3. A new section to chapter 47-10.2 of the North Dakota Century Code is created
+14 and enacted as follows:
+15 Determining the acceptable interest rate.
+16 1. The interest rate paid on escrow funds must be based on prevailing market rates for a
+17 saving or similar deposit account. At minimum, all interest paid under this chapter must
+18 be set at one - half percent annually. If the lender adjusts the interest rate, the change
+19 must be consistent with changes in market rates for comparable deposit products. A
+20 rate change may not disproportionately favor the lender.
+21 2. A lender holding an escrow account shall use a transparent and clear formula for
+22 determining the escrow account interest rate and clearly disclose the interest rate
+23 applied to escrow accounts in a loan agreement. If a lender offers multiple types of
+24 deposit accounts with different interest rates, the borrower must be informed of the
+25 type of deposit product tied to the borrower's escrow account.
+26 SECTION 4. A new section to chapter 47-10.2 of the North Dakota Century Code is created
+27 and enacted as follows:
+28 Disclosure - Opt - out .
+29 1. A lender shall state in the mortgage agreement and in periodic statements how escrow
+30 funds are managed, including details on the interest rate and how interest is credited.
+Page No. 2 25.1015.03000
+Sixty-ninth
+Legislative Assembly
+1 2. A borrower may op t - out of the interest payment provision only if the borrower's
+2 mortgage agreement explicitly allows the borrower to op t - out and the borrower agrees
+3 to forfeit the interest in exchange for a reduced mortgage rate or other benefit.
+4 SECTION 5. APPLICATION. This Act applies to an escrow account created after the
+5 effective date of this Act. For an existing escrow account, interest payments required by this Act
+6 must begin on January 1, 2026.
+Page No. 3 25.1015.03000
+[DELETED: ."."."."."12]
+[DELETED: .".".T.A.A22]
+[DELETED: . 32]
+
+
+================================================================================
+
+Raw Text:
+25.1015.03000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+FIRST ENGROSSMENT
+ENGROSSED HOUSE BILL NO. 1378
+Introduced by
+Representative J. Johnson
+1 A BILL for an Act to create and enact three new sections to chapter 47-10.2 of the North Dakota
+2 Century Code, relating to the payment of interest on escrow accounts for residential mortgages;
+3 to amend and reenact section 47-10.2-01 of the North Dakota Century Code, relating to
+4 definitions for escrow accounts; to provide a penalty; and to provide for application.
+5 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+6 SECTION 1. AMENDMENT. Section 47-10.2-01 of the North Dakota Century Code is
+7 amended and reenacted as follows:
+8 47-10.2-01. Definitions.
+9 In sections 47-10.2-01 through 47-10.2-03, unless the context or subject matter otherwise
+10 requires:
+11 1. "Borrower" means the obligor under a residential mortgage held by a mortgagee.
+12 2. "Escrow account" means an account held by a lender or servicer used to collect and
+13 hold funds for the payment of property taxes, homeowner's insurance, and other
+14 related expenses associated with a residential mortgage.
+15 3. "Escrow funds" means money placed into an escrow account by a borrower for the
+16 payment of obligations such as property taxes, homeowner's insurance, and other
+17 expenses associated with home ownership.
+18 4. "Interest rate" means the percentage rate paid by the lender on funds held in escrow
+19 accounts.
+20 5. "Lender" means a bank, mortgage company, credit union, or other financial institution
+21 that services residential mortgage loans and holds escrow accounts. The term does
+22 not include the North Dakota housing finance agency.
+Page No. 1 25.1015.03000
+
+Sixty-ninth
+Legislative Assembly
+1 6. "Servicer" means a person or entity maintaining an escrow account for a residential
+2 mortgagee.
+3 3.7. "Surplus amount" means from the annual escrow account analysis, any amount
+4 greater than or equal to fifty dollars, excluding any escrow cushion required by the
+5 servicer.
+6 SECTION 2. A new section to chapter 47-10.2 of the North Dakota Century Code is created
+7 and enacted as follows:
+8 Lender's obligation to pay interest on escrow accounts.
+9 A lender shall pay interest on funds held in an escrow account that maintains a minimum
+10 average balance of five hundred dollars. The escrow account must have been in existence for a
+11 minimum of three months before the interest may be credited. Only active accounts are eligible
+12 for accumulation of interest.
+13 SECTION 3. A new section to chapter 47-10.2 of the North Dakota Century Code is created
+14 and enacted as follows:
+15 Determining the acceptable interest rate.
+16 1. The interest rate paid on escrow funds must be based on prevailing market rates for a
+17 saving or similar deposit account. At minimum, all interest paid under this chapter must
+18 be set at one - half percent annually. If the lender adjusts the interest rate, the change
+19 must be consistent with changes in market rates for comparable deposit products. A
+20 rate change may not disproportionately favor the lender.
+21 2. A lender holding an escrow account shall use a transparent and clear formula for
+22 determining the escrow account interest rate and clearly disclose the interest rate
+23 applied to escrow accounts in a loan agreement. If a lender offers multiple types of
+24 deposit accounts with different interest rates, the borrower must be informed of the
+25 type of deposit product tied to the borrower's escrow account.
+26 SECTION 4. A new section to chapter 47-10.2 of the North Dakota Century Code is created
+27 and enacted as follows:
+28 Disclosure - Opt - out .
+29 1. A lender shall state in the mortgage agreement and in periodic statements how escrow
+30 funds are managed, including details on the interest rate and how interest is credited.
+Page No. 2 25.1015.03000
+
+Sixty-ninth
+Legislative Assembly
+1 2. A borrower may op t - out of the interest payment provision only if the borrower's
+2 mortgage agreement explicitly allows the borrower to op t - out and the borrower agrees
+3 to forfeit the interest in exchange for a reduced mortgage rate or other benefit.
+4 SECTION 5. APPLICATION. This Act applies to an escrow account created after the
+5 effective date of this Act. For an existing escrow account, interest payments required by this Act
+6 must begin on January 1, 2026.
+Page No. 3 25.1015.03000
+
+[DELETED: ."."."."."12]
+[DELETED: .".".T.A.A22]
+[DELETED: . 32]

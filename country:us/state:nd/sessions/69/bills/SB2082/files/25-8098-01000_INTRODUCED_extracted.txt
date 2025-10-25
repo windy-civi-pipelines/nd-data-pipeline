@@ -1,0 +1,189 @@
+Title: SENATE BILL NO. 2082
+Official Title: SENATE BILL NO. 2082
+Number of Sections: 1
+Source: versions - INTRODUCED
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25.8098.01000
+Sixty-ninth
+Legislative Assembly
+of North Dakota
+Introduced by
+Energy and Natural Resources Committee
+(At the request of the Adjutant General)
+1 A BILL for an Act to amend and reenact subsection 2 of section 37-17.1-07.1 of the North
+2 Dakota Century Code, relating to the state's hazardous chemical fee system.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Subsection 2 of section 37-17.1-07.1 of the North Dakota
+5 Century Code is amended and reenacted as follows:
+6 2. Establishment of funds.
+7 a. There is created in the state treasury a nonlapsing restricted account to be
+8 known as a state hazardous chemicals preparedness and response fund. The
+9 fund consists of revenue collected from the state hazardous chemical fee system
+10 and funds appropriated by the legislative assembly. Moneys in the fund shall be
+11 appropriated biennially to the division of homeland security for carrying out the
+12 purposes, goals, and objectives of SARA title III, and the state hazardous
+13 chemicals preparedness and response program.
+14 b. The county treasurer of each county shall establish a nonlapsing restricted
+15 account, to be known as the county hazardous chemicals preparedness and
+16 response account. The county hazardous chemicals preparedness and response
+17 account consists of revenue from the state hazardous chemicals fee system,
+18 county, federal or state funds, grants, and any private donations provided to
+19 finance the county hazardous chemicals preparedness and response program.
+20 c. The director of the division of homeland security shall set appropriate fees for the
+21 state hazardous chemical fee system subject to the following:
+22 (1) Changes to fees charged will take effect on January first;
+23 (2) The director shall announce any fee increases a minimum of one year
+24 before the effective date; and
+Page No. 1 25.8098.01000
+Sixty-ninth
+Legislative Assembly
+1 (3) The director may consider economic conditions, the general economy, and
+2 the availability of funds appropriated by the legislature to offset the costs of
+3 administering the program when setting fees.
+4 d. Each owner and operator of a facility, as defined in SARA title III, shall pay an
+5 annual hazardous chemicals fee to the division of homeland security.
+6 (1) The fee must be paid by March first of each year.
+7 (2) The fee is twenty-five dollarslevied on a per chemical basis for each
+8 chemical within the meaning of title 40, Code of Federal Regulations, part
+9 355.20, or its successor which is required under section 312 of SARA title
+10 III, to be listed on the hazardous chemical inventory form (tier II) which the
+11 owner or operator must submit to the division. The federal requirements
+12 must be used for completing the tier II form, including the threshold
+13 amounts, as outlined in title 40, Code of Federal Regulations, part 20.
+14 (3) The maximum fee for a facility under this section is four hundred
+15 seventy-fiveone thousand two hundred fifty dollars.
+16 (4) The director of the homeland security division may impose fees for both late
+17 filing of reports and late payment of fees. subject to the following:
+18 (a) A late fee must equal the amount of the hazardous chemicals fee
+19 owed under this subdivision. ;
+20 (b) After six months the director shall process further violations under
+21 willful violations in subsection 4. ;and
+22 (c) A facility exempt from fees under this subdivision which is late filing
+23 reports under this section may be subject to a late fee equal to the
+24 amount the facility would be charged if it was not exempt.
+25 (5) The division of homeland security shall transfer to the county hazardous
+26 chemicals preparedness and response account one-half of the regular fees
+27 collected from the state's hazardous chemicals fee system.
+28 d.e. The owners or operators of family farm enterprises that are not engaged in the
+29 retail or wholesale of hazardous chemicals and facilities owned by the state or
+30 local governments are exempt from the fee under subdivision c. For purposes of
+Page No. 2 25.8098.01000
+Sixty-ninth
+Legislative Assembly
+1 this section, the terms "family farm" and "farmer" have the same meaning as set
+2 forth in section 6-09.11-01.
+3 e.f. The stateState and county governments are authorized to accept and may
+4 deposit grants, gifts, and federal funds into the hazardous chemicals
+5 preparedness and response fund and accounts for the purpose of carrying out
+6 the hazardous chemicals preparedness and response programs to include
+7 training, exercising, equipment, response, and salaries, and local emergency
+8 planning committee member stipends not to exceed thirty percent of state per
+9 diem per meeting attended. In lieu of stipends the committee chairman may
+10 provide a meal or refreshments other than alcoholic beverages.
+11 f.g. "Hazardous chemical" means as defined in title 40, Code of Federal Regulations,
+12 part 355.20 and title 29, Code of Federal Regulations, part 1910.1200.
+13 g.h. The state hazardous chemicals fee system does not supersede a city fee system
+14 for hazardous chemicals.
+Page No. 3 25.8098.01000
+[DELETED: .E.T.T.T)C)T12]
+[DELETED: )T.E)T)T)T)T)A)A)A)T.T22]
+[DELETED: .T.".T32]
+
+
+================================================================================
+
+Raw Text:
+25.8098.01000
+Sixty-ninth
+SENATE BILL NO. 2082
+Legislative Assembly
+of North Dakota
+Introduced by
+Energy and Natural Resources Committee
+(At the request of the Adjutant General)
+1 A BILL for an Act to amend and reenact subsection 2 of section 37-17.1-07.1 of the North
+2 Dakota Century Code, relating to the state's hazardous chemical fee system.
+3 BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+4 SECTION 1. AMENDMENT. Subsection 2 of section 37-17.1-07.1 of the North Dakota
+5 Century Code is amended and reenacted as follows:
+6 2. Establishment of funds.
+7 a. There is created in the state treasury a nonlapsing restricted account to be
+8 known as a state hazardous chemicals preparedness and response fund. The
+9 fund consists of revenue collected from the state hazardous chemical fee system
+10 and funds appropriated by the legislative assembly. Moneys in the fund shall be
+11 appropriated biennially to the division of homeland security for carrying out the
+12 purposes, goals, and objectives of SARA title III, and the state hazardous
+13 chemicals preparedness and response program.
+14 b. The county treasurer of each county shall establish a nonlapsing restricted
+15 account, to be known as the county hazardous chemicals preparedness and
+16 response account. The county hazardous chemicals preparedness and response
+17 account consists of revenue from the state hazardous chemicals fee system,
+18 county, federal or state funds, grants, and any private donations provided to
+19 finance the county hazardous chemicals preparedness and response program.
+20 c. The director of the division of homeland security shall set appropriate fees for the
+21 state hazardous chemical fee system subject to the following:
+22 (1) Changes to fees charged will take effect on January first;
+23 (2) The director shall announce any fee increases a minimum of one year
+24 before the effective date; and
+Page No. 1 25.8098.01000
+
+Sixty-ninth
+Legislative Assembly
+1 (3) The director may consider economic conditions, the general economy, and
+2 the availability of funds appropriated by the legislature to offset the costs of
+3 administering the program when setting fees.
+4 d. Each owner and operator of a facility, as defined in SARA title III, shall pay an
+5 annual hazardous chemicals fee to the division of homeland security.
+6 (1) The fee must be paid by March first of each year.
+7 (2) The fee is twenty-five dollarslevied on a per chemical basis for each
+8 chemical within the meaning of title 40, Code of Federal Regulations, part
+9 355.20, or its successor which is required under section 312 of SARA title
+10 III, to be listed on the hazardous chemical inventory form (tier II) which the
+11 owner or operator must submit to the division. The federal requirements
+12 must be used for completing the tier II form, including the threshold
+13 amounts, as outlined in title 40, Code of Federal Regulations, part 20.
+14 (3) The maximum fee for a facility under this section is four hundred
+15 seventy-fiveone thousand two hundred fifty dollars.
+16 (4) The director of the homeland security division may impose fees for both late
+17 filing of reports and late payment of fees. subject to the following:
+18 (a) A late fee must equal the amount of the hazardous chemicals fee
+19 owed under this subdivision. ;
+20 (b) After six months the director shall process further violations under
+21 willful violations in subsection 4. ;and
+22 (c) A facility exempt from fees under this subdivision which is late filing
+23 reports under this section may be subject to a late fee equal to the
+24 amount the facility would be charged if it was not exempt.
+25 (5) The division of homeland security shall transfer to the county hazardous
+26 chemicals preparedness and response account one-half of the regular fees
+27 collected from the state's hazardous chemicals fee system.
+28 d.e. The owners or operators of family farm enterprises that are not engaged in the
+29 retail or wholesale of hazardous chemicals and facilities owned by the state or
+30 local governments are exempt from the fee under subdivision c. For purposes of
+Page No. 2 25.8098.01000
+
+Sixty-ninth
+Legislative Assembly
+1 this section, the terms "family farm" and "farmer" have the same meaning as set
+2 forth in section 6-09.11-01.
+3 e.f. The stateState and county governments are authorized to accept and may
+4 deposit grants, gifts, and federal funds into the hazardous chemicals
+5 preparedness and response fund and accounts for the purpose of carrying out
+6 the hazardous chemicals preparedness and response programs to include
+7 training, exercising, equipment, response, and salaries, and local emergency
+8 planning committee member stipends not to exceed thirty percent of state per
+9 diem per meeting attended. In lieu of stipends the committee chairman may
+10 provide a meal or refreshments other than alcoholic beverages.
+11 f.g. "Hazardous chemical" means as defined in title 40, Code of Federal Regulations,
+12 part 355.20 and title 29, Code of Federal Regulations, part 1910.1200.
+13 g.h. The state hazardous chemicals fee system does not supersede a city fee system
+14 for hazardous chemicals.
+Page No. 3 25.8098.01000
+
+[DELETED: .E.T.T.T)C)T12]
+[DELETED: )T.E)T)T)T)T)A)A)A)T.T22]
+[DELETED: .T.".T32]
